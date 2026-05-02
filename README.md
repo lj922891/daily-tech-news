@@ -6,10 +6,39 @@
 
 # 📰 每日科技日报 — 2026-05-02
 
-> 自动收集于 2026-05-02 05:05 | 共 50 条
+> 自动收集于 2026-05-02 12:40 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [周杰伦伙伴，要被卖了](https://36kr.com/p/3791838183234816?f=rss)
+> 图片来源：视觉中国
+  作者/吴琼
+  报道/投资界PEdaily
+  音乐顶流也迎来了卖身结局。
+  近日，华尔街大佬比尔·阿克曼旗下潘兴广场正式向环球音乐（UMG）发出一份收购要约——以现金加股票的方式收购环球音乐。由此，后者估值高达约640亿美元（约合人民币4300亿元）。
+  你或许不熟悉环球音乐，但一定听过来自这里的歌——周杰伦、陈奕迅、泰勒·斯威夫特、贾斯汀·比伯、防弹少年团……...
+- `36氪` [茶颜悦色 , 装不下去了](https://36kr.com/p/3791800373664772?f=rss)
+> 以慢著称，不爱出省的奶茶界“初代网红”茶颜悦色，终于又向外迈出了一步。
+  近日，茶颜悦色深圳门店开业，两家门店分别坐落于深圳万象城与深圳万象天地。据媒体报道，开业首日，门店外就聚集了大批顾客，等位队伍已经排至商场外围，提示牌显示，“排队需要5小时”。
+  
+  图源：二手交易平台截图
+  黄牛们也闻风而动，据二手交易平台数据，原价十几元一杯的茶颜悦色奶茶，代购价格均被炒至30—100元。
+...
+- `36氪` [又一算力独角兽，冲击IPO](https://36kr.com/p/3791796527602951?f=rss)
+> 作者丨韦香惠
+  来源丨东四十条资本
+  A股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。
+  主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。
+  这家公司并非“从零起步”，其前身是华为X86服务器业务，2021年受外部环境影响被整体剥离，并独立运营。随后，河南超聚能科技有限公司成为控股股东，持股31.38%，后者大...
+- `36氪` [苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？](https://36kr.com/p/3791662444911617?f=rss)
+> 梦晨 发自 凹非寺
+  苹果大失误！把自用的Claude.md打包到了官方App里。
+  这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。
+  这么大的公司，也在Vibe Coding？
+  
+  苹果内部在使用Claude Code构建生产级应用
+  项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区……
+  这家全球最注...
 - `36氪` [9.35万, 威马破产大甩卖](https://36kr.com/p/3791546608049152?f=rss)
 > 作者 | 冯晓亭 编辑 | 吾人
   来源 | 融中财经
@@ -42,32 +71,6 @@
 - `36氪` [借航天展推“反向技术输出”，自然堂试炼叙事资源转化的产品力｜最前线](https://36kr.com/p/3787830454787330?f=rss)
 > 在中国美妆行业竞争日趋激烈、技术叙事不断升级的背景下，企业如何构建差异化“护城河”成为核心议题。近日，中国化妆品集团自然堂联合上海天文馆推出的航天主题科普展，为观察本土品牌在科研与品牌叙事之间的平衡提供了一个样本。
   4月24日（第十一个“中国航天日”）前后，自然堂与上海天文馆在上海奉贤“东方美谷”园区内举办“遇见宇宙 发现更美”主题展览。展览面向公众免费开放一个月，内容涵盖宇宙起源、中国...
-- `36氪` [元禾原点领投，硫化物固态电解质材料商「天石科丰」完成数千万元pre-A轮融资 | 36氪首发](https://36kr.com/p/3789235646094339?f=rss)
-> 文 | 张冰冰
-  编辑 | 阿至
-  36氪获悉，武汉天石科丰新能源科技有限公司（以下简称「天石科丰」）近期宣布完成数千万元pre-A轮融资，由元禾原点领投，天泓投资跟投，启辰资本担任长期财务顾问，本轮融资将主要用于产品研发及百吨级产线落地。
-  「天石科丰」成立于2022年12月，聚焦于硫化物固态电解质粉体材料研发和生产，技术孵化于武汉理工大学和德...
-- `36氪` [错过第一波投影上市潮后，索诺克想靠「枭龙系列」实现超车｜项目报道](https://36kr.com/p/3785172264197384?f=rss)
-> 在投影行业深耕了几十年，从灯泡到单色激光，再到现在的三色激光，索诺克董事长朱谆见过太多技术路线的起落。
-  2014年日本研发团队加入后，索诺克就认定三色激光是显示技术的终极方案。只不过，这条路走了很久，直到2026年春天，「枭龙系列」纯三色激光工程投影机才正式发布。
-  
-  索诺克枭龙系列纯三色激光投影机
-  “不是因为我们受到什么刺激，”朱谆告诉36氪，“我们很早就开始研究三色激光如何...
-- `36氪` [巅峰集结，FBIF2026首日回顾！全球食品高层共探破局之路](https://36kr.com/p/3789175930232065?f=rss)
-> 作者：FBIF媒体部
-  FBIF2026食品饮料创新论坛及FBIF食品创新展（f展）于2026年4月27-29日在杭州国际博览中心举办。
-  3天的FBIF2026将包含160+位演讲嘉宾，650+展商参展，6000+渠道观众观展，累计将吸引53000+观众观展。
-  
-  FBIF2026以“大势可为”为主题。答案藏于变局，我们将与业内共同探讨，决定产业未来走向的关键变量。
-  本次论坛...
-- `36氪` [从扫地机到火箭车，追觅在硅谷造了一场“瞬息全宇宙”](https://36kr.com/p/3789057332043016?f=rss)
-> 作者 | 邓咏仪
-  编辑 | 杨轩
-  如果你在4月27日这一周走进美国旧金山艺术宫，也许你会感到惊讶——这不像一个艺术圣地，更像一场包罗万象的博览会。
-  来自50多个国家的媒体、KOL、客户挤在展区里。映入眼帘的产品，小至智能吊坠、吹风机、LED 美容面罩、扫地机，大至洗地机、空调、冰箱、手机，甚至还有一辆“火箭车”的概念超跑。
-  
-  Nebula NEXT 01 
-  ...
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/109266)
 > 📅本周新预告《暗影蜘蛛侠》正式预告4月26日，剧集《暗影蜘蛛侠》发布了黑白和彩色双版本正式预告，将于5月27日上线PrimeVideo。尼古拉斯·凯奇领衔主演，聚焦1930年代纽约的一个上了年纪、倒霉 ...查看全文
 - `少数派` [本月玩什么｜朋友收藏、识质存在、沙罗周期](https://sspai.com/post/109257)
@@ -91,56 +94,44 @@
 
 ## 🌍 国际科技
 
+- `Hacker News` [GameStop Preparing Offer for eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de)
+> Article URL: https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de
+Comments URL: https://news.ycombinator.com/item?id=47985271
+Points: 19
+# Comments: 6
+- `Hacker News` [Show HN: Piruetas – A self-hosted diary app I built for my girlfriend](https://piruet.app)
+> I searched for a simple, self-hosted journal app for my girlfriend and everything I found was either too
+complex, too feature-heavy, too feature-less for what I needed or required trusting a cloud ...
+- `Hacker News` [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)
+> Hi HN,I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio.The idea is simple: you talk to your ...
+- `Hacker News` [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
+> Article URL: https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/
+Comments URL: https://news.ycombinator.com/item?id=47984852
+Points: 61
+# Comments: 16
+- `Hacker News` [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
+> Hi HN — author here. iesna.eu is a browser-based ecosystem for working with photometric data: parsing standard luminaire files (LDT/EULUMDAT, IES LM-63, Oxytech, ATLA-S001), running design calculat...
+- `Hacker News` [Show HN: Filling PDF forms with AI using client-side tool calling](https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en)
+> Hey HN!I built SimplePDF Copilot: an AI assistant that can interact with the PDF editor. It fills fields, answers questions, focuses on a specific field, adds fields, deletes pages, and so on.It's ...
+- `Hacker News` [Show HN: Large Scale Article Extract of Newspapers 1730s-1960s](https://snewpapers.com/)
+> Hello HN, over the past 7 months I've spent nearly 3,000 hours on building SNEWPAPERS, the first historical newpaper archive with full-text extractions, nearly perfect OCR, a vast categorization ta...
+- `Hacker News` [Why are there both TMP and TEMP environment variables? (2015)](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213)
+> Article URL: https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213
+Comments URL: https://news.ycombinator.com/item?id=47984522
+Points: 68
+# Comments: 34
+- `Hacker News` [Show HN: Stop playing my matchstick puzzles, start building your own in seconds](https://mathstick.github.io)
+> Article URL: https://mathstick.github.io
+Comments URL: https://news.ycombinator.com/item?id=47983485
+Points: 18
+# Comments: 17
 - `Hacker News` [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
 > Article URL: https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer
 Comments URL: https://news.ycombinator.com/item?id=47983385
 Points: 0
 # Comments: 0
-- `Hacker News` [Ask.com has closed](https://www.ask.com/)
-> Article URL: https://www.ask.com/
-Comments URL: https://news.ycombinator.com/item?id=47983226
-Points: 76
-# Comments: 35
-- `Hacker News` [Governor – a Claude Code plugin to reduce token/context waste](https://github.com/0xhimanshu/governor)
-> Article URL: https://github.com/0xhimanshu/governor
-Comments URL: https://news.ycombinator.com/item?id=47982718
-Points: 8
-# Comments: 1
-- `Hacker News` [I built the Playwright for desktop apps. 80% token savings](https://github.com/lahfir/agent-desktop)
-> Article URL: https://github.com/lahfir/agent-desktop
-Comments URL: https://news.ycombinator.com/item?id=47982708
-Points: 9
-# Comments: 0
-- `Hacker News` [Job Postings for Software Engineers Are Rapidly Rising](https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/)
-> Article URL: https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/
-Comments URL: https://news.ycombinator.com/item?id=47982512
-Points: 47
-# Comments: 11
-- `Hacker News` [Good developers learn to program. Most courses teach a language](https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language)
-> Article URL: https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language
-Comments URL: https://news.ycombinator.com/item?id=47981995
-Points: 82
-# Comments: 48
-- `Hacker News` [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf)
-> Article URL: https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf
-Comments URL: https://news.ycombinator.com/item?id=47981669
-Points: 47
-# Comments: 12
-- `Hacker News` [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
-> Article URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo
-Comments URL: https://news.ycombinator.com/item?id=47979583
-Points: 386
-# Comments: 341
-- `Hacker News` [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
-> Article URL: https://courses.joshwcomeau.com/wham/open-house/00-introduction
-Comments URL: https://news.ycombinator.com/item?id=47979190
-Points: 82
-# Comments: 9
-- `Hacker News` [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)
-> Article URL: https://github.com/microsoft/lib0xc
-Comments URL: https://news.ycombinator.com/item?id=47978834
-Points: 108
-# Comments: 38
+- `TechCrunch` [Uber wants to turn its millions of drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
+> Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension o...
 - `TechCrunch` [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
 > At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: i...
 - `TechCrunch` [Musely secures $360M from General Catalyst without giving up equity](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/)
@@ -159,8 +150,10 @@ Points: 108
 > The company saw a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.
 - `TechCrunch` [ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/)
 > Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.
-- `TechCrunch` [As Tim Cook steps down, Apple hit record sales — but a chip shortage looms](https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/)
-> Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business.
+- `The Verge` [Playing Esoteric Ebb is like rolling the dice with a great DM](https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam)
+> It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodegård. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons & Dragons: ...
+- `The Verge` [The things we’re building](https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer)
+> Hi, friends! Welcome to Installer No. 126, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I need 10 or 15 skirts from Calvin Klein, and also you can read al...
 - `The Verge` [Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale)
 > Nintendo recently announced a new pricing policy, which knocks $10 off the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2. Splatoon Raiders, for instance, ...
 - `The Verge` [Microsoft tests redesigned Windows 11 Run menu with dark mode and more](https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test)
@@ -177,10 +170,6 @@ Points: 108
 > Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at...
 - `The Verge` [This accessory can snap a Steam Controller to your phone — or almost anything else](https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock)
 > Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Contr...
-- `The Verge` [Players from the NBA, NFL, and MLB call for a ban on betting ‘unders’](https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets)
-> The unions backing professional NBA, NFL, MLB, NHL, and MLS players are calling on the Commodity Futures Trading Commission (CFTC) to ban prediction market platforms from allowing users to bet on a...
-- `The Verge` [Severe Linux Copy Fail security flaw uncovered using AI scanning help](https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit)
-> Nearly every Linux distribution released since 2017 is currently vulnerable to a security bug called "Copy Fail" that allows any user to give themselves administrator privileges. The exploit, publi...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
