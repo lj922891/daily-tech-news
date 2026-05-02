@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-05-02
 
-> 自动收集于 2026-05-02 12:26 | 共 50 条
+> 自动收集于 2026-05-02 05:05 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -91,54 +91,56 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Ask Jeeves Shut Down](https://www.ask.com/)
+- `Hacker News` [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
+> Article URL: https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer
+Comments URL: https://news.ycombinator.com/item?id=47983385
+Points: 0
+# Comments: 0
+- `Hacker News` [Ask.com has closed](https://www.ask.com/)
 > Article URL: https://www.ask.com/
 Comments URL: https://news.ycombinator.com/item?id=47983226
-Points: 17
-# Comments: 2
-- `Hacker News` [Create an MP4 video of a web page scrolling at a steady speed](https://github.com/upenn/web-scroll-video)
-> Article URL: https://github.com/upenn/web-scroll-video
-Comments URL: https://news.ycombinator.com/item?id=47982763
-Points: 3
+Points: 76
+# Comments: 35
+- `Hacker News` [Governor – a Claude Code plugin to reduce token/context waste](https://github.com/0xhimanshu/governor)
+> Article URL: https://github.com/0xhimanshu/governor
+Comments URL: https://news.ycombinator.com/item?id=47982718
+Points: 8
 # Comments: 1
+- `Hacker News` [I built the Playwright for desktop apps. 80% token savings](https://github.com/lahfir/agent-desktop)
+> Article URL: https://github.com/lahfir/agent-desktop
+Comments URL: https://news.ycombinator.com/item?id=47982708
+Points: 9
+# Comments: 0
 - `Hacker News` [Job Postings for Software Engineers Are Rapidly Rising](https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/)
 > Article URL: https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/
 Comments URL: https://news.ycombinator.com/item?id=47982512
-Points: 37
-# Comments: 10
+Points: 47
+# Comments: 11
 - `Hacker News` [Good developers learn to program. Most courses teach a language](https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language)
 > Article URL: https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language
 Comments URL: https://news.ycombinator.com/item?id=47981995
-Points: 74
-# Comments: 47
+Points: 82
+# Comments: 48
 - `Hacker News` [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf)
 > Article URL: https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf
 Comments URL: https://news.ycombinator.com/item?id=47981669
-Points: 45
-# Comments: 11
-- `Hacker News` [Credit cards are vulnerable to brute force kind attacks](https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html)
-> Article URL: https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html
-Comments URL: https://news.ycombinator.com/item?id=47979839
-Points: 203
-# Comments: 171
+Points: 47
+# Comments: 12
 - `Hacker News` [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
 > Article URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo
 Comments URL: https://news.ycombinator.com/item?id=47979583
-Points: 368
-# Comments: 335
+Points: 386
+# Comments: 341
 - `Hacker News` [Whimsical Animations Course Open House](https://courses.joshwcomeau.com/wham/open-house/00-introduction)
 > Article URL: https://courses.joshwcomeau.com/wham/open-house/00-introduction
 Comments URL: https://news.ycombinator.com/item?id=47979190
-Points: 79
+Points: 82
 # Comments: 9
 - `Hacker News` [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc)
 > Article URL: https://github.com/microsoft/lib0xc
 Comments URL: https://news.ycombinator.com/item?id=47978834
-Points: 104
-# Comments: 35
-- `Hacker News` [City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo](https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/)
-> Article URL: https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/
-Comments URL: https://news.ycombinator.com/item?id...
+Points: 108
+# Comments: 38
 - `TechCrunch` [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
 > At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: i...
 - `TechCrunch` [Musely secures $360M from General Catalyst without giving up equity](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/)
