@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Hacker News",
+    "url": "https://hnrss.org/frontpage?count=15",
+    "lang": "en"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "lang": "en"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "lang": "en"
+  },
+  {
+    "name": "36氪",
+    "url": "https://36kr.com/feed",
+    "lang": "zh"
+  },
+  {
+    "name": "少数派",
+    "url": "https://sspai.com/feed",
+    "lang": "zh"
+  },
+  {
+    "name": "V2EX 技术",
+    "url": "https://www.v2ex.com/feed/tab/tech",
+    "lang": "zh"
+  }
+]
