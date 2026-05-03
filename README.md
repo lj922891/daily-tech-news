@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-05-03
 
-> 自动收集于 2026-05-03 03:51 | 共 50 条
+> 自动收集于 2026-05-03 12:39 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -74,6 +74,8 @@
   现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题：
   xAI是否蒸馏了OpenAI的模型？
   ...
+- `少数派` [假期出门太折磨？我的 23 条经验帮你规划惬意旅行](https://sspai.com/post/100006)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/109266)
 > 📅本周新预告《暗影蜘蛛侠》正式预告4月26日，剧集《暗影蜘蛛侠》发布了黑白和彩色双版本正式预告，将于5月27日上线PrimeVideo。尼古拉斯·凯奇领衔主演，聚焦1930年代纽约的一个上了年纪、倒霉 ...查看全文
 - `少数派` [本月玩什么｜朋友收藏、识质存在、沙罗周期](https://sspai.com/post/109257)
@@ -92,55 +94,54 @@
 > 现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮 ...查看全文
 - `少数派` [iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事](https://sspai.com/post/109188)
 > 《燃比娃》是由李文愉执导、上海电影(集团)有限公司及上海美术电影制片厂有限公司出品的动画电影，也是国内首部宣纸手绘动画长片。本片导演李文愉毕业于北京大学、硕士研究生学历，毕业后任教于四川大学艺术学院数 ...查看全文
-- `少数派` [派早报：乐道 L80 发布、一加 Ace 6 至尊版发布等](https://sspai.com/post/109204)
-> Valve 新一代 Steam 手柄宣布发售，中国联通发布「联通魔方」自选服务等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Windows API Is Successful Cross-Platform API](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
-> Article URL: https://retrocoding.net/windows-api-is-successful-cross-platform-api
-Comments URL: https://news.ycombinator.com/item?id=47992859
-Points: 4
-# Comments: 0
-- `Hacker News` [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
-> Article URL: https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/
-Comments URL: https://news.ycombinator.com/item?id=47992772
-Points: 15
+- `Hacker News` [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)
+> Article URL: https://github.com/Matheus-git/systemd-manager-tui
+Comments URL: https://news.ycombinator.com/item?id=47995649
+Points: 23
+# Comments: 6
+- `Hacker News` [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)
+> Article URL: https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a
+Comments URL: https://news.ycombinator.com/item?id=47995125
+Points: 35
+# Comments: 17
+- `Hacker News` [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)
+> Article URL: https://github.com/bring-shrubbery/ml-sharp-web
+Comments URL: https://news.ycombinator.com/item?id=47995037
+Points: 35
+# Comments: 3
+- `Hacker News` [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
+> Article URL: https://acai.sh/blog/specsmaxxing
+Comments URL: https://news.ycombinator.com/item?id=47994012
+Points: 152
+# Comments: 162
+- `Hacker News` [AI, Intimacy, and the Data You Never Meant to Share](https://fshot.org/techzone/the-algorithm-knows.php)
+> Article URL: https://fshot.org/techzone/the-algorithm-knows.php
+Comments URL: https://news.ycombinator.com/item?id=47992802
+Points: 41
 # Comments: 2
-- `Hacker News` [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
+- `Hacker News` [Care homes and hotels in Japan shut as expansion strategy unravels](https://www.newsonjapan.com/article/149075.php)
+> Article URL: https://www.newsonjapan.com/article/149075.php
+Comments URL: https://news.ycombinator.com/item?id=47992446
+Points: 53
+# Comments: 19
+- `Hacker News` [Maryland to ban A.I.-driven price increases in grocery stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
 > Article URL: https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html
 Comments URL: https://news.ycombinator.com/item?id=47992349
-Points: 49
-# Comments: 25
-- `Hacker News` [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo)
-> Article URL: https://www.bbc.com/news/articles/cvgzk91leweo
-Comments URL: https://news.ycombinator.com/item?id=47992338
-Points: 45
-# Comments: 13
-- `Hacker News` [Am I the only one who hates delivery robots?](https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban)
-> Article URL: https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban
-Comments URL: https://news.ycombinator.com/item?id=47991995
-Points: 39
-# Comm...
-- `Hacker News` [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
+Points: 179
+# Comments: 134
+- `Hacker News` [A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
 > Article URL: https://blog.haskell.org/a-couple-million-lines-of-haskell/
 Comments URL: https://news.ycombinator.com/item?id=47991802
-Points: 81
-# Comments: 20
-- `Hacker News` [Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him](https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/)
-> Article URL: https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/
-Comments URL: https://news.ycombinator.com/item?id=47991350
-Points: 19...
-- `Hacker News` [Voice-AI-for-Beginners – A curated learning path for developers](https://github.com/mahimairaja/voiceai)
-> Article URL: https://github.com/mahimairaja/voiceai
-Comments URL: https://news.ycombinator.com/item?id=47991018
-Points: 39
-# Comments: 3
+Points: 285
+# Comments: 120
 - `Hacker News` [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/)
 > Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/
 Comments URL: https://news.ycombinator.com/item?id=47990789
-Points: 49
-# Comments: 6
+Points: 115
+# Comments: 14
 - `Hacker News` [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
 > Hello HN,I was away from my computer for two weeks, and after coming back and reading the latest discussions on HN about coding assistants (models, harnesses), I felt very out of the loop. My norma...
 - `TechCrunch` [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
@@ -163,6 +164,8 @@ Points: 49
 > Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.
 - `TechCrunch` [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/)
 > Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.
+- `The Verge` [AI music is flooding streaming services — but who wants it?](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback a...
 - `The Verge` [Meta’s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
 > New Mexico Attorney General Raúl Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year. But the next stage of the fight could be even more co...
 - `The Verge` [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown)
@@ -181,8 +184,6 @@ Points: 49
 > Microsoft is testing its much-needed refresh for the Windows 11 Run menu, offering a modern interface that the company says is faster and comes with support for dark mode. The redesign is rolling o...
 - `The Verge` [Apple raises the Mac Mini’s starting price](https://www.theverge.com/tech/922572/apple-mac-mini-256-model)
 > Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one...
-- `The Verge` [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
-> The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
