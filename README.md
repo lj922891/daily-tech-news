@@ -4,12 +4,27 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-02
+# 📰 每日科技日报 — 2026-05-03
 
-> 自动收集于 2026-05-02 12:40 | 共 50 条
+> 自动收集于 2026-05-03 03:51 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表](https://36kr.com/p/3792228036615430?f=rss)
+> 在2026世界超级摩托车锦标赛（WSBK）匈牙利站WorldSSP组别第一回合正赛中，中国摩托车制造商张雪机车的法国车手瓦伦丁·德比斯通过最后时刻的反超绝杀夺得冠军。赛后，荣耀CEO李健发文祝贺，并宣布作为张雪机车WSBK的首席战略合作品牌，荣耀将推出双方的冠军联名款手表，以庆祝这一夺冠时刻。 此前在4月初，荣耀已正式成为张雪机车WSBK首席战略合作品牌。荣耀首席营销官关海涛曾代表品牌向车队...
+- `36氪` [卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线](https://36kr.com/p/3789475357400068?f=rss)
+> 文｜肖漫
+  编辑｜李勤
+  当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。
+  卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。
+  “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。
+  在新...
+- `36氪` [在硅谷，中美具身公司聊了聊了4个问题的解法](https://36kr.com/p/3792155815304450?f=rss)
+> 文｜周鑫雨
+  编辑｜杨轩
+  规模化落地，今年的具身公司都在谈这个。
+  数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。
+  激进的数字背后，是“低价、高性能”的中国机器人在全球的扩...
 - `36氪` [周杰伦伙伴，要被卖了](https://36kr.com/p/3791838183234816?f=rss)
 > 图片来源：视觉中国
   作者/吴琼
@@ -59,18 +74,6 @@
   现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题：
   xAI是否蒸馏了OpenAI的模型？
   ...
-- `36氪` [追觅造车，从“火箭”开始](https://36kr.com/p/3790587098832137?f=rss)
-> 4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。
-  追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula NEXT 01 JET Edition，业内称其为“火箭车”。 
-  从车企研发负责人到供应链从业者再到行业分析师，目光都聚焦于此。 ...
-- `36氪` [36氪首发｜国内首家落地“筷子夹”塔架回收技术的商业航天公司，完成5亿元融资](https://36kr.com/p/3790141500366085?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，近日，上海大航跃迁航天科技有限公司（下称“大航跃迁”）完成5亿元融资。本轮融资由前海方舟、厚纪资本、普华资本领投，君领资本、海愿资本、惠丰达、君川资本、重庆沙创科技、中重科技、元创资本、汉理资本、上海天使会等机构，以及产业方神猴电缆联合参与投资，部分老股东持续加仓；华兴资本担任长期财务顾问。
-  本...
-- `36氪` [借航天展推“反向技术输出”，自然堂试炼叙事资源转化的产品力｜最前线](https://36kr.com/p/3787830454787330?f=rss)
-> 在中国美妆行业竞争日趋激烈、技术叙事不断升级的背景下，企业如何构建差异化“护城河”成为核心议题。近日，中国化妆品集团自然堂联合上海天文馆推出的航天主题科普展，为观察本土品牌在科研与品牌叙事之间的平衡提供了一个样本。
-  4月24日（第十一个“中国航天日”）前后，自然堂与上海天文馆在上海奉贤“东方美谷”园区内举办“遇见宇宙 发现更美”主题展览。展览面向公众免费开放一个月，内容涵盖宇宙起源、中国...
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/109266)
 > 📅本周新预告《暗影蜘蛛侠》正式预告4月26日，剧集《暗影蜘蛛侠》发布了黑白和彩色双版本正式预告，将于5月27日上线PrimeVideo。尼古拉斯·凯奇领衔主演，聚焦1930年代纽约的一个上了年纪、倒霉 ...查看全文
 - `少数派` [本月玩什么｜朋友收藏、识质存在、沙罗周期](https://sspai.com/post/109257)
@@ -94,42 +97,62 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [GameStop Preparing Offer for eBay](https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de)
-> Article URL: https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de
-Comments URL: https://news.ycombinator.com/item?id=47985271
-Points: 19
-# Comments: 6
-- `Hacker News` [Show HN: Piruetas – A self-hosted diary app I built for my girlfriend](https://piruet.app)
-> I searched for a simple, self-hosted journal app for my girlfriend and everything I found was either too
-complex, too feature-heavy, too feature-less for what I needed or required trusting a cloud ...
-- `Hacker News` [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/)
-> Hi HN,I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio.The idea is simple: you talk to your ...
-- `Hacker News` [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
-> Article URL: https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/
-Comments URL: https://news.ycombinator.com/item?id=47984852
-Points: 61
-# Comments: 16
-- `Hacker News` [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
-> Hi HN — author here. iesna.eu is a browser-based ecosystem for working with photometric data: parsing standard luminaire files (LDT/EULUMDAT, IES LM-63, Oxytech, ATLA-S001), running design calculat...
-- `Hacker News` [Show HN: Filling PDF forms with AI using client-side tool calling](https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en)
-> Hey HN!I built SimplePDF Copilot: an AI assistant that can interact with the PDF editor. It fills fields, answers questions, focuses on a specific field, adds fields, deletes pages, and so on.It's ...
-- `Hacker News` [Show HN: Large Scale Article Extract of Newspapers 1730s-1960s](https://snewpapers.com/)
-> Hello HN, over the past 7 months I've spent nearly 3,000 hours on building SNEWPAPERS, the first historical newpaper archive with full-text extractions, nearly perfect OCR, a vast categorization ta...
-- `Hacker News` [Why are there both TMP and TEMP environment variables? (2015)](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213)
-> Article URL: https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213
-Comments URL: https://news.ycombinator.com/item?id=47984522
-Points: 68
-# Comments: 34
-- `Hacker News` [Show HN: Stop playing my matchstick puzzles, start building your own in seconds](https://mathstick.github.io)
-> Article URL: https://mathstick.github.io
-Comments URL: https://news.ycombinator.com/item?id=47983485
-Points: 18
-# Comments: 17
-- `Hacker News` [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer)
-> Article URL: https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer
-Comments URL: https://news.ycombinator.com/item?id=47983385
-Points: 0
+- `Hacker News` [Windows API Is Successful Cross-Platform API](https://retrocoding.net/windows-api-is-successful-cross-platform-api)
+> Article URL: https://retrocoding.net/windows-api-is-successful-cross-platform-api
+Comments URL: https://news.ycombinator.com/item?id=47992859
+Points: 4
 # Comments: 0
+- `Hacker News` [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
+> Article URL: https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/
+Comments URL: https://news.ycombinator.com/item?id=47992772
+Points: 15
+# Comments: 2
+- `Hacker News` [Maryland Is First to Ban A.I.-Driven Price Increases in Grocery Stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
+> Article URL: https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html
+Comments URL: https://news.ycombinator.com/item?id=47992349
+Points: 49
+# Comments: 25
+- `Hacker News` [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo)
+> Article URL: https://www.bbc.com/news/articles/cvgzk91leweo
+Comments URL: https://news.ycombinator.com/item?id=47992338
+Points: 45
+# Comments: 13
+- `Hacker News` [Am I the only one who hates delivery robots?](https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban)
+> Article URL: https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban
+Comments URL: https://news.ycombinator.com/item?id=47991995
+Points: 39
+# Comm...
+- `Hacker News` [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
+> Article URL: https://blog.haskell.org/a-couple-million-lines-of-haskell/
+Comments URL: https://news.ycombinator.com/item?id=47991802
+Points: 81
+# Comments: 20
+- `Hacker News` [Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him](https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/)
+> Article URL: https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/
+Comments URL: https://news.ycombinator.com/item?id=47991350
+Points: 19...
+- `Hacker News` [Voice-AI-for-Beginners – A curated learning path for developers](https://github.com/mahimairaja/voiceai)
+> Article URL: https://github.com/mahimairaja/voiceai
+Comments URL: https://news.ycombinator.com/item?id=47991018
+Points: 39
+# Comments: 3
+- `Hacker News` [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/)
+> Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/
+Comments URL: https://news.ycombinator.com/item?id=47990789
+Points: 49
+# Comments: 6
+- `Hacker News` [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
+> Hello HN,I was away from my computer for two weeks, and after coming back and reading the latest discussions on HN about coding assistants (models, harnesses), I felt very out of the loop. My norma...
+- `TechCrunch` [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
+> Bad news for Tilly Norwood.
+- `TechCrunch` [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/)
+> Owner IAC says it's discontinuing its search business.
+- `TechCrunch` [Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027](https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/)
+> "The Magician's Nephew" looks like a big next step in Netflix's thawing relationship with movie theaters.
+- `TechCrunch` [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
+> AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice
+- `TechCrunch` [Beyond Lovable and Mistral: 21 European startups to watch](https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/)
+> It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.
 - `TechCrunch` [Uber wants to turn its millions of drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
 > Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension o...
 - `TechCrunch` [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
@@ -140,16 +163,14 @@ Points: 0
 > Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.
 - `TechCrunch` [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/)
 > Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.
-- `TechCrunch` [Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)
-> The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.
-- `TechCrunch` [Ubuntu services hit by outages after DDoS attack](https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/)
-> A group of hacktivists have claimed responsibility for a distributed denial-of-service attack, which has affected several Ubuntu and Canonical websites, and prevented users from updating the Linux-...
-- `TechCrunch` [Musk v. Altman is just getting started](https://techcrunch.com/video/musk-v-altman-is-just-getting-started/)
-> Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and hi...
-- `TechCrunch` [People are finally using Reddit’s search](https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/)
-> The company saw a 30% year-on-year jump in the number of people using search every week, CEO Steve Huffman said on Thursday.
-- `TechCrunch` [ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/)
-> Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.
+- `The Verge` [Meta’s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
+> New Mexico Attorney General Raúl Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year. But the next stage of the fight could be even more co...
+- `The Verge` [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown)
+> The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuri...
+- `The Verge` [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
+> Aura’s digital frames are kind of like living photo albums that get better with time, which is why we often recommend them for Mother’s Day. They’re gifts that keep on giving, in a way, and right n...
+- `The Verge` [Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15](https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal)
+> I’ll never stop gushing about 2-in-1 USB-C cables. They’re really nice to have because, at this point, I’ve amassed so many devices that charge via USB-C. It’s also common for more than one to need...
 - `The Verge` [Playing Esoteric Ebb is like rolling the dice with a great DM](https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam)
 > It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodegård. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons & Dragons: ...
 - `The Verge` [The things we’re building](https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer)
@@ -162,14 +183,6 @@ Points: 0
 > Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one...
 - `The Verge` [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
 > The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents ...
-- `The Verge` [Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day](https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale)
-> From crafting machines to smart calendars, a number of unique gifts are already on sale in the run-up to Mother’s Day, May 10th. Birdfy smart feeders are another discounted option to consider, part...
-- `The Verge` [Amazon’s built-in AI price history expands to show the entire last year](https://www.theverge.com/tech/922302/amazon-price-tracker-year)
-> Amazon's built-in price tracking feature now allows you to see how much a product's price has changed over the past year. To use the feature, open the Amazon app and select the "Price history" butt...
-- `The Verge` [Dreame — the vacuum company — just ‘launched’ its own phones](https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular)
-> Dreame, a Chinese manufacturer best known for its robot vacuums but with ambitions to do much more, says it's making smartphones now. I'm not sure I believe it. The company showed off two phones at...
-- `The Verge` [This accessory can snap a Steam Controller to your phone — or almost anything else](https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock)
-> Valve's new Steam Controller goes on sale on Monday for $99, and accessories-maker Mechanism will be ready. As far as we know, Mechanism's new Basegrip is the very first way to attach a Steam Contr...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
