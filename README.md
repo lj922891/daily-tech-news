@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-03
+# 📰 每日科技日报 — 2026-05-04
 
-> 自动收集于 2026-05-03 12:39 | 共 50 条
+> 自动收集于 2026-05-04 03:49 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -97,53 +97,64 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Systemd-manager-TUI: A TUI application for managing systemd services](https://github.com/Matheus-git/systemd-manager-tui)
-> Article URL: https://github.com/Matheus-git/systemd-manager-tui
-Comments URL: https://news.ycombinator.com/item?id=47995649
-Points: 23
-# Comments: 6
-- `Hacker News` [Investors pile into clean energy as Iran war drives push for energy security](https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a)
-> Article URL: https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a
-Comments URL: https://news.ycombinator.com/item?id=47995125
-Points: 35
+- `Hacker News` [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
+> Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility
+Comments URL: https://news.ycombinator.com/item?id=48002938
+Points: 124
+# Comments: 50
+- `Hacker News` [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
+> Article URL: https://letsbuyspiritair.com/
+Comments URL: https://news.ycombinator.com/item?id=48002777
+Points: 222
+# Comments: 172
+- `Hacker News` [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
+> Article URL: https://jdgr.net/the-hidden-costs-of-great-abstractions
+Comments URL: https://news.ycombinator.com/item?id=48002607
+Points: 77
 # Comments: 17
-- `Hacker News` [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)
-> Article URL: https://github.com/bring-shrubbery/ml-sharp-web
-Comments URL: https://news.ycombinator.com/item?id=47995037
-Points: 35
-# Comments: 3
-- `Hacker News` [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
-> Article URL: https://acai.sh/blog/specsmaxxing
-Comments URL: https://news.ycombinator.com/item?id=47994012
-Points: 152
-# Comments: 162
-- `Hacker News` [AI, Intimacy, and the Data You Never Meant to Share](https://fshot.org/techzone/the-algorithm-knows.php)
-> Article URL: https://fshot.org/techzone/the-algorithm-knows.php
-Comments URL: https://news.ycombinator.com/item?id=47992802
-Points: 41
-# Comments: 2
-- `Hacker News` [Care homes and hotels in Japan shut as expansion strategy unravels](https://www.newsonjapan.com/article/149075.php)
-> Article URL: https://www.newsonjapan.com/article/149075.php
-Comments URL: https://news.ycombinator.com/item?id=47992446
-Points: 53
-# Comments: 19
-- `Hacker News` [Maryland to ban A.I.-driven price increases in grocery stores](https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html)
-> Article URL: https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html
-Comments URL: https://news.ycombinator.com/item?id=47992349
-Points: 179
-# Comments: 134
-- `Hacker News` [A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
-> Article URL: https://blog.haskell.org/a-couple-million-lines-of-haskell/
-Comments URL: https://news.ycombinator.com/item?id=47991802
-Points: 285
-# Comments: 120
-- `Hacker News` [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/)
-> Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/
-Comments URL: https://news.ycombinator.com/item?id=47990789
-Points: 115
-# Comments: 14
-- `Hacker News` [Show HN: State of the Art of Coding Models, According to Hacker News Commenters](https://hnup.date/hn-sota)
-> Hello HN,I was away from my computer for two weeks, and after coming back and reading the latest discussions on HN about coding assistants (models, harnesses), I felt very out of the loop. My norma...
+- `Hacker News` [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
+> Article URL: https://larsfaye.com/articles/agentic-coding-is-a-trap
+Comments URL: https://news.ycombinator.com/item?id=48002442
+Points: 238
+# Comments: 170
+- `Hacker News` [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
+> Article URL: https://github.com/aattaran/deepclaude
+Comments URL: https://news.ycombinator.com/item?id=48002136
+Points: 211
+# Comments: 99
+- `Hacker News` [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
+> Article URL: https://validator.w3.org/feed/docs/atom.html
+Comments URL: https://news.ycombinator.com/item?id=48002089
+Points: 46
+# Comments: 10
+- `Hacker News` [Make your own microforest (2025)](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
+> Article URL: https://ambrook.com/offrange/environment/a-forest-in-your-pocket
+Comments URL: https://news.ycombinator.com/item?id=48000507
+Points: 71
+# Comments: 15
+- `Hacker News` [New statue in London, attributed to Banksy, of a suited man, blinded by a flag](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
+> Article URL: https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/
+Comments URL...
+- `Hacker News` [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
+> Article URL: https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/
+Comments URL: https://news.ycombinator.com/item?id=48000028
+Points: 280
+# Comments: 297
+- `Hacker News` [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
+> Article URL: https://partyon.xyz/@nullagent/116499715071759135
+Comments URL: https://news.ycombinator.com/item?id=47999636
+Points: 289
+# Comments: 91
+- `TechCrunch` [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)
+> Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 "founding patrons" had pledged nearly $23 million, crashing his servers in the process.
+- `TechCrunch` [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
+> The ad comes from Artisan, the AI startup behind billboards urging businesses to "stop hiring humans."
+- `TechCrunch` [In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
+> A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.
+- `TechCrunch` [TechCrunch Mobility: How do you issue a ticket to a robotaxi?](https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/)
+> Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
+- `TechCrunch` [This tiny, magnetic e-reader could stop you from doomscrolling](https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/)
+> The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.
 - `TechCrunch` [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
 > Bad news for Tilly Norwood.
 - `TechCrunch` [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/)
@@ -154,16 +165,14 @@ Points: 115
 > AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice
 - `TechCrunch` [Beyond Lovable and Mistral: 21 European startups to watch](https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/)
 > It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.
-- `TechCrunch` [Uber wants to turn its millions of drivers into a sensor grid for self-driving companies](https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/)
-> Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension o...
-- `TechCrunch` [Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell](https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/)
-> At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: i...
-- `TechCrunch` [Musely secures $360M from General Catalyst without giving up equity](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/)
-> The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.
-- `TechCrunch` [Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
-> Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.
-- `TechCrunch` [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/)
-> Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.
+- `The Verge` [Reggie Fils-Aimé says Amazon once asked Nintendo to break the law](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal)
+> Way back in the DS days, Nintendo decided to stop selling to Amazon. During a recent lecture at NYU, former Nintendo of America President Reggie Fils-Aimé said it was because Amazon was seekin...
+- `The Verge` [Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale)
+> If you’re looking to pick up a pair of open-ear headphones for yourself — or your mom — Shokz is running a Mother’s Day sale. Now through May 10th, the company’s best pair of bone conduction headph...
+- `The Verge` [These reusable digital Polaroids are a clever way to cover a fridge in memories](https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on)
+> I love when my friends have their fridges covered in Polaroids. It’s often a visual crash course of what’s been going on in their lives chronicling recent adventures, get-togethers, and other fun m...
+- `The Verge` [How the internet’s favorite squirrel dad made the hottest camera app of 2026](https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr)
+> It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surpris...
 - `The Verge` [AI music is flooding streaming services — but who wants it?](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback a...
 - `The Verge` [Meta’s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
@@ -176,14 +185,6 @@ Points: 115
 > I’ll never stop gushing about 2-in-1 USB-C cables. They’re really nice to have because, at this point, I’ve amassed so many devices that charge via USB-C. It’s also common for more than one to need...
 - `The Verge` [Playing Esoteric Ebb is like rolling the dice with a great DM](https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam)
 > It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodegård. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons & Dragons: ...
-- `The Verge` [The things we’re building](https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer)
-> Hi, friends! Welcome to Installer No. 126, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I need 10 or 15 skirts from Calvin Klein, and also you can read al...
-- `The Verge` [Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale)
-> Nintendo recently announced a new pricing policy, which knocks $10 off the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2. Splatoon Raiders, for instance, ...
-- `The Verge` [Microsoft tests redesigned Windows 11 Run menu with dark mode and more](https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test)
-> Microsoft is testing its much-needed refresh for the Windows 11 Run menu, offering a modern interface that the company says is faster and comes with support for dark mode. The redesign is rolling o...
-- `The Verge` [Apple raises the Mac Mini’s starting price](https://www.theverge.com/tech/922572/apple-mac-mini-256-model)
-> Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
