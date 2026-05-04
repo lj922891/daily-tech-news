@@ -6,10 +6,24 @@
 
 # 📰 每日科技日报 — 2026-05-04
 
-> 自动收集于 2026-05-04 03:49 | 共 50 条
+> 自动收集于 2026-05-04 13:17 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [五月，适合想清楚一件事｜幕启](https://36kr.com/p/3794961189821698?f=rss)
+> 图源：公众号「有三思  U  Sense」
+  5月4日，一个被默认为“青年专属”的日期。
+  但在我看来，“青年”一词从来不只和年龄挂钩，每一个还在试探人生的节拍与正轨的人，身体里都住着一位渴望力量的青年。
+  [1]
+  敲定新品牌命名的那一刻其实很轻。在讨论方案的脑暴会上，我夸了实习生一句“有Sense”，他眼神一亮：“这个词好诶。”
+  许多年前，我还是一个初入职...
+- `36氪` [豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线](https://36kr.com/p/3794799114476809?f=rss)
+> 近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。
+   
+  
+  豆包
+   
+  目前，尚未在豆包...
 - `36氪` [科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表](https://36kr.com/p/3792228036615430?f=rss)
 > 在2026世界超级摩托车锦标赛（WSBK）匈牙利站WorldSSP组别第一回合正赛中，中国摩托车制造商张雪机车的法国车手瓦伦丁·德比斯通过最后时刻的反超绝杀夺得冠军。赛后，荣耀CEO李健发文祝贺，并宣布作为张雪机车WSBK的首席战略合作品牌，荣耀将推出双方的冠军联名款手表，以庆祝这一夺冠时刻。 此前在4月初，荣耀已正式成为张雪机车WSBK首席战略合作品牌。荣耀首席营销官关海涛曾代表品牌向车队...
 - `36氪` [卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线](https://36kr.com/p/3789475357400068?f=rss)
@@ -59,21 +73,8 @@
   来源 | 融中财经
   4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。
   拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.35...
-- `36氪` [续集没翻车 ，但这次“女魔头”也顶不住了](https://36kr.com/p/3791555958922504?f=rss)
-> 图/《穿普拉达的女王2》
-  作者 | 易天天
-  编辑 | Felicia
-  题图 | 《穿普拉达的女王2》
-  再次回到《穿普拉达的女王》系列影片的片场，饰演米兰达的知名演员“梅姨”，也就是梅丽尔·斯特里普，心跳有点加速。
-  眼前是警察为安保设置的重重路障，街对面有数百上千名粉丝等着她和安妮·海瑟薇出现。平时不刷社交媒体的斯特里普，根本没预料到如此阵仗。她被突然推到镜头前，...
-- `36氪` [马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT](https://36kr.com/p/3791460373929221?f=rss)
-> 编辑：桃子
-  【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。
-  对薄公堂第四天，马斯克爆出了大瓜！
-  4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。
-  现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题：
-  xAI是否蒸馏了OpenAI的模型？
-  ...
+- `少数派` [iPad 用户首次体验 Android 平板：vivo Pad6 Pro](https://sspai.com/post/109277)
+> 作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？查看全文
 - `少数派` [假期出门太折磨？我的 23 条经验帮你规划惬意旅行](https://sspai.com/post/100006)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/109266)
@@ -92,59 +93,67 @@
 > 用心呵护自己的衣物，就从这个春天做起吧(๑•̀ㅂ•́)و✧查看全文
 - `少数派` [众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE](https://sspai.com/post/109207)
 > 现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮 ...查看全文
-- `少数派` [iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事](https://sspai.com/post/109188)
-> 《燃比娃》是由李文愉执导、上海电影(集团)有限公司及上海美术电影制片厂有限公司出品的动画电影，也是国内首部宣纸手绘动画长片。本片导演李文愉毕业于北京大学、硕士研究生学历，毕业后任教于四川大学艺术学院数 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
-> Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility
-Comments URL: https://news.ycombinator.com/item?id=48002938
-Points: 124
-# Comments: 50
+- `Hacker News` [Newton's law of gravity passes its biggest test](https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever)
+> Article URL: https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever
+Comments URL: https://news.ycombinator.com/item?id=48008074
+Points: 6
+# Comments: 0
+- `Hacker News` [Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
+> Article URL: https://thienantran.com/talking-to-35-strangers-at-the-gym/
+Comments URL: https://news.ycombinator.com/item?id=48007438
+Points: 102
+# Comments: 36
+- `Hacker News` [ASML's Best Selling Product Isn't What You Think It Is](https://www.siliconimist.com/p/asmls-best-selling-product)
+> Article URL: https://www.siliconimist.com/p/asmls-best-selling-product
+Comments URL: https://news.ycombinator.com/item?id=48007145
+Points: 86
+# Comments: 32
+- `Hacker News` [Trademark violation: Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
+> Article URL: https://notepad-plus-plus.org/news/npp-trademark-infringement/
+Comments URL: https://news.ycombinator.com/item?id=48006445
+Points: 297
+# Comments: 114
+- `Hacker News` [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
+> Article URL: https://www.bbc.co.uk/news/articles/cn0p8yled1do
+Comments URL: https://news.ycombinator.com/item?id=48006402
+Points: 259
+# Comments: 210
+- `Hacker News` [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
+> Article URL: https://www.firgelli.com/pages/humanoid-robot-actuators
+Comments URL: https://news.ycombinator.com/item?id=48004380
+Points: 149
+# Comments: 71
 - `Hacker News` [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
 > Article URL: https://letsbuyspiritair.com/
 Comments URL: https://news.ycombinator.com/item?id=48002777
-Points: 222
-# Comments: 172
+Points: 417
+# Comments: 385
 - `Hacker News` [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
 > Article URL: https://jdgr.net/the-hidden-costs-of-great-abstractions
 Comments URL: https://news.ycombinator.com/item?id=48002607
-Points: 77
-# Comments: 17
-- `Hacker News` [Agentic Coding Is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
-> Article URL: https://larsfaye.com/articles/agentic-coding-is-a-trap
-Comments URL: https://news.ycombinator.com/item?id=48002442
-Points: 238
-# Comments: 170
-- `Hacker News` [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)
+Points: 192
+# Comments: 90
+- `Hacker News` [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
 > Article URL: https://github.com/aattaran/deepclaude
 Comments URL: https://news.ycombinator.com/item?id=48002136
-Points: 211
-# Comments: 99
+Points: 533
+# Comments: 219
 - `Hacker News` [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
 > Article URL: https://validator.w3.org/feed/docs/atom.html
 Comments URL: https://news.ycombinator.com/item?id=48002089
-Points: 46
-# Comments: 10
-- `Hacker News` [Make your own microforest (2025)](https://ambrook.com/offrange/environment/a-forest-in-your-pocket)
-> Article URL: https://ambrook.com/offrange/environment/a-forest-in-your-pocket
-Comments URL: https://news.ycombinator.com/item?id=48000507
-Points: 71
-# Comments: 15
-- `Hacker News` [New statue in London, attributed to Banksy, of a suited man, blinded by a flag](https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/)
-> Article URL: https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/
-Comments URL...
-- `Hacker News` [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
-> Article URL: https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/
-Comments URL: https://news.ycombinator.com/item?id=48000028
-Points: 280
-# Comments: 297
-- `Hacker News` [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
-> Article URL: https://partyon.xyz/@nullagent/116499715071759135
-Comments URL: https://news.ycombinator.com/item?id=47999636
-Points: 289
-# Comments: 91
+Points: 110
+# Comments: 47
+- `TechCrunch` [Barocal can cool your food and drink by squeezing a hunk of plastic crystals](https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/)
+> Barocal might have discovered a cheap, nonpolluting material that could dethrone today's refrigeration technology.
+- `TechCrunch` [Doordash adds AI tools to speed up merchant onboarding, edit photos of dishes](https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/)
+> DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.
+- `TechCrunch` [Ouster’s new color lidar is coming to replace cameras](https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/)
+> A sensor that can simultaneously capture depth and image data has long been a "holy grail," Ouster CEO Angus Pacala told TechCrunch.
+- `TechCrunch` [Nicolas Sauvage is betting on the boring parts of AI](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/)
+> The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year:
 - `TechCrunch` [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)
 > Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 "founding patrons" had pledged nearly $23 million, crashing his servers in the process.
 - `TechCrunch` [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
@@ -157,14 +166,10 @@ Points: 289
 > The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.
 - `TechCrunch` [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
 > Bad news for Tilly Norwood.
-- `TechCrunch` [Farewell, Jeeves: Ask.com shuts down](https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/)
-> Owner IAC says it's discontinuing its search business.
-- `TechCrunch` [Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027](https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/)
-> "The Magician's Nephew" looks like a big next step in Netflix's thawing relationship with movie theaters.
-- `TechCrunch` [The best AI dictation apps, tested and ranked](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/)
-> AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice
-- `TechCrunch` [Beyond Lovable and Mistral: 21 European startups to watch](https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/)
-> It is not that European startups never get attention — Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.
+- `The Verge` [Hisense aggressively cuts the price of its RGB LED TV on release day](https://www.theverge.com/tech/922571/hisense-cuts-price-ur9)
+> The Hisense UR9 - the first RGB LED TV to be released this year - is now available for much less than originally revealed. The 65-inch UR9 is now $1,999, while the 75-inch model is $2,999 and the 8...
+- `The Verge` [Homebridge 2.0 is here, and it speaks Matter](https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums)
+> Homebridge, the popular software solution that allows you to integrate non-HomeKit devices like Ring cameras into Apple Home, is adding support for the Matter smart home standard. Today, May 4th, H...
 - `The Verge` [Reggie Fils-Aimé says Amazon once asked Nintendo to break the law](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal)
 > Way back in the DS days, Nintendo decided to stop selling to Amazon. During a recent lecture at NYU, former Nintendo of America President Reggie Fils-Aimé said it was because Amazon was seekin...
 - `The Verge` [Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale)
@@ -181,10 +186,6 @@ Points: 289
 > The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuri...
 - `The Verge` [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
 > Aura’s digital frames are kind of like living photo albums that get better with time, which is why we often recommend them for Mother’s Day. They’re gifts that keep on giving, in a way, and right n...
-- `The Verge` [Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15](https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal)
-> I’ll never stop gushing about 2-in-1 USB-C cables. They’re really nice to have because, at this point, I’ve amassed so many devices that charge via USB-C. It’s also common for more than one to need...
-- `The Verge` [Playing Esoteric Ebb is like rolling the dice with a great DM](https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam)
-> It took me a while to get into Esoteric Ebb, a new CRPG from developer Christoffer Bodegård. The elevator pitch is basically Disco Elysium, but in the fantasy style of Dungeons & Dragons: ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
