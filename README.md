@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-04
+# 📰 每日科技日报 — 2026-05-05
 
-> 自动收集于 2026-05-04 13:17 | 共 50 条
+> 自动收集于 2026-05-05 03:32 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -96,96 +96,95 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Newton's law of gravity passes its biggest test](https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever)
-> Article URL: https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever
-Comments URL: https://news.ycombinator.com/item?id=48008074
-Points: 6
-# Comments: 0
-- `Hacker News` [Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
-> Article URL: https://thienantran.com/talking-to-35-strangers-at-the-gym/
-Comments URL: https://news.ycombinator.com/item?id=48007438
-Points: 102
-# Comments: 36
-- `Hacker News` [ASML's Best Selling Product Isn't What You Think It Is](https://www.siliconimist.com/p/asmls-best-selling-product)
-> Article URL: https://www.siliconimist.com/p/asmls-best-selling-product
-Comments URL: https://news.ycombinator.com/item?id=48007145
-Points: 86
-# Comments: 32
-- `Hacker News` [Trademark violation: Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
-> Article URL: https://notepad-plus-plus.org/news/npp-trademark-infringement/
-Comments URL: https://news.ycombinator.com/item?id=48006445
-Points: 297
-# Comments: 114
-- `Hacker News` [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
-> Article URL: https://www.bbc.co.uk/news/articles/cn0p8yled1do
-Comments URL: https://news.ycombinator.com/item?id=48006402
-Points: 259
-# Comments: 210
-- `Hacker News` [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
-> Article URL: https://www.firgelli.com/pages/humanoid-robot-actuators
-Comments URL: https://news.ycombinator.com/item?id=48004380
-Points: 149
-# Comments: 71
-- `Hacker News` [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
-> Article URL: https://letsbuyspiritair.com/
-Comments URL: https://news.ycombinator.com/item?id=48002777
-Points: 417
-# Comments: 385
-- `Hacker News` [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions)
-> Article URL: https://jdgr.net/the-hidden-costs-of-great-abstractions
-Comments URL: https://news.ycombinator.com/item?id=48002607
-Points: 192
-# Comments: 90
-- `Hacker News` [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
-> Article URL: https://github.com/aattaran/deepclaude
-Comments URL: https://news.ycombinator.com/item?id=48002136
-Points: 533
-# Comments: 219
-- `Hacker News` [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
-> Article URL: https://validator.w3.org/feed/docs/atom.html
-Comments URL: https://news.ycombinator.com/item?id=48002089
-Points: 110
-# Comments: 47
-- `TechCrunch` [Barocal can cool your food and drink by squeezing a hunk of plastic crystals](https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/)
-> Barocal might have discovered a cheap, nonpolluting material that could dethrone today's refrigeration technology.
-- `TechCrunch` [Doordash adds AI tools to speed up merchant onboarding, edit photos of dishes](https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/)
-> DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.
-- `TechCrunch` [Ouster’s new color lidar is coming to replace cameras](https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/)
-> A sensor that can simultaneously capture depth and image data has long been a "holy grail," Ouster CEO Angus Pacala told TechCrunch.
-- `TechCrunch` [Nicolas Sauvage is betting on the boring parts of AI](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/)
-> The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year:
-- `TechCrunch` [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)
-> Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 "founding patrons" had pledged nearly $23 million, crashing his servers in the process.
-- `TechCrunch` [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
-> The ad comes from Artisan, the AI startup behind billboards urging businesses to "stop hiring humans."
-- `TechCrunch` [In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
-> A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.
-- `TechCrunch` [TechCrunch Mobility: How do you issue a ticket to a robotaxi?](https://techcrunch.com/2026/05/03/techcrunch-mobility-how-do-you-issue-a-ticket-to-a-robotaxi/)
-> Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
-- `TechCrunch` [This tiny, magnetic e-reader could stop you from doomscrolling](https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/)
-> The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.
-- `TechCrunch` [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
-> Bad news for Tilly Norwood.
-- `The Verge` [Hisense aggressively cuts the price of its RGB LED TV on release day](https://www.theverge.com/tech/922571/hisense-cuts-price-ur9)
-> The Hisense UR9 - the first RGB LED TV to be released this year - is now available for much less than originally revealed. The 65-inch UR9 is now $1,999, while the 75-inch model is $2,999 and the 8...
-- `The Verge` [Homebridge 2.0 is here, and it speaks Matter](https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums)
-> Homebridge, the popular software solution that allows you to integrate non-HomeKit devices like Ring cameras into Apple Home, is adding support for the Matter smart home standard. Today, May 4th, H...
-- `The Verge` [Reggie Fils-Aimé says Amazon once asked Nintendo to break the law](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal)
-> Way back in the DS days, Nintendo decided to stop selling to Amazon. During a recent lecture at NYU, former Nintendo of America President Reggie Fils-Aimé said it was because Amazon was seekin...
-- `The Verge` [Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale)
-> If you’re looking to pick up a pair of open-ear headphones for yourself — or your mom — Shokz is running a Mother’s Day sale. Now through May 10th, the company’s best pair of bone conduction headph...
-- `The Verge` [These reusable digital Polaroids are a clever way to cover a fridge in memories](https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on)
-> I love when my friends have their fridges covered in Polaroids. It’s often a visual crash course of what’s been going on in their lives chronicling recent adventures, get-togethers, and other fun m...
-- `The Verge` [How the internet’s favorite squirrel dad made the hottest camera app of 2026](https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr)
-> It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surpris...
-- `The Verge` [AI music is flooding streaming services — but who wants it?](https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback a...
-- `The Verge` [Meta’s historic loss in court could cost a lot more than $375 million](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety)
-> New Mexico Attorney General Raúl Torrez won a historic sum of $375 million in a landmark child safety case against Meta earlier this year. But the next stage of the fight could be even more co...
-- `The Verge` [Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices](https://www.theverge.com/business/922788/spirit-airlines-shutdown)
-> The ultra-low-cost air carrier Spirit Airlines shut down operations after 34 years in business and canceled all flights at 3AM ET on Saturday morning. Its website now redirects to spiritrestructuri...
-- `The Verge` [Aura’s delightful Aspen photo frame is on sale for $30 off this weekend](https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale)
-> Aura’s digital frames are kind of like living photo albums that get better with time, which is why we often recommend them for Mother’s Day. They’re gifts that keep on giving, in a way, and right n...
+- `Hacker News` [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
+> Article URL: https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated
+Comments URL: https://news.ycombinator.com/item?id=48017399
+P...
+- `Hacker News` [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
+> Article URL: https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/
+Comments URL: https://news.ycombinator.com/item?id=48017298
+Points: 37
+# Comments: 7
+- `Hacker News` [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
+> Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5
+Comments URL: https://news.ycombinator.com/item?id=48016880
+Points: 206
+# Comments: 137
+- `Hacker News` [Y Combinator's Stake in OpenAI (0.6%)](https://daringfireball.net/2026/05/y_combinators_stake_in_openai)
+> Article URL: https://daringfireball.net/2026/05/y_combinators_stake_in_openai
+Comments URL: https://news.ycombinator.com/item?id=48016534
+Points: 122
+# Comments: 2
+- `Hacker News` [Agent Skills](https://addyosmani.com/blog/agent-skills/)
+> Article URL: https://addyosmani.com/blog/agent-skills/
+Comments URL: https://news.ycombinator.com/item?id=48015397
+Points: 146
+# Comments: 50
+- `Hacker News` [When Networking Doesn't Work](https://www.os2museum.com/wp/when-networking-doesnt-work/)
+> Article URL: https://www.os2museum.com/wp/when-networking-doesnt-work/
+Comments URL: https://news.ycombinator.com/item?id=48014868
+Points: 16
+# Comments: 3
+- `Hacker News` [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
+> Article URL: https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story
+Comments URL: https://news.ycombinator.com/item?id=48014325
+Points: 132
+# Comments: 70
+- `Hacker News` [Transformers Are Inherently Succinct (2025)](https://arxiv.org/abs/2510.19315)
+> Article URL: https://arxiv.org/abs/2510.19315
+Comments URL: https://news.ycombinator.com/item?id=48014197
+Points: 40
+# Comments: 6
+- `Hacker News` [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+> Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
+Comments URL: https://news.ycombinator.com/item?id=48013919
+Points: 312
+# Comments: 106
+- `Hacker News` [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)
+> Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730
+Comments URL: https://news.ycombinator.com/item?id=48012735
+Points: 448
+# Comments: 157
+- `TechCrunch` [As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)
+> The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.
+- `TechCrunch` [Geothermal startup Fervo Energy to raise up to $1.3B in IPO](https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/)
+> Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.
+- `TechCrunch` [US government warns of severe CopyFail bug affecting major versions of Linux](https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/)
+> U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.
+- `TechCrunch` [OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/)
+> AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.
+- `TechCrunch` [Image AI models now drive app growth, beating chatbot upgrades](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/)
+> Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.
+- `TechCrunch` [Katie Haun raises $1B for new venture funds](https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/)
+> Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.
+- `TechCrunch` [Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites](https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/)
+> Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.
+- `TechCrunch` [Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race](https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/)
+> Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.
+- `TechCrunch` [Sierra raises $950M as the race to own enterprise AI gets serious](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)
+> The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the "global standard" for AI-powered customer experiences.
+- `TechCrunch` [Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI c...](https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/)
+> Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman "will be the most hated men in America" if OpenAI doesn't settle the suit.
+- `The Verge` [The 40 best Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
+> Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. Mother's Day, May 10th, is an opportunity to return the favor, so we...
+- `The Verge` [Valve just imported 50 tons of game consoles in two days](https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026)
+> We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of "Game Consoles" into the United States in the two-day peri...
+- `The Verge` [OpenAI’s president does ‘all the things,’ except answer a question](https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial)
+> The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusua...
+- `The Verge` [Elon Musk will settle the feds’ Twitter lawsuit with pocket change](https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x)
+> Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's ...
+- `The Verge` [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)
+> When you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single...
+- `The Verge` [SwitchBot’s rechargeable button pusher is on sale for over 20 percent off](https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal)
+> If you want to give mom something that helps lighten the load, the SwitchBot Bot Rechargeable makes for a great, inexpensive gift. And now through May 10th, you can buy it for around $26.99 ($7 off...
+- `The Verge` [The creator of Roomba is back with a furry robot companion](https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch)
+> Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. Th...
+- `The Verge` [The Pixel 11 could be the next victim of the RAM shortage](https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram)
+> Google's next round of Pixel phones could be a downgrade compared to the Pixel 10 lineup due to the ongoing RAM shortage. Leaked specs for the Pixel 11 lineup shared by MysticLeaks include a possib...
+- `The Verge` [The best Star Wars Day deals](https://www.theverge.com/gadgets/922905/best-star-wars-day-2026-may-the-fourth-4th-deals-sale)
+> May the Fourth be with us all on this Star Wars Day. While things have been relatively quiet with the multimedia gold mine that is Star Wars, with just some murmurs about upcoming movies (The Manda...
+- `The Verge` [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+> Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of aband...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
