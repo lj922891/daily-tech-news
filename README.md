@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-05-05
 
-> 自动收集于 2026-05-05 03:32 | 共 50 条
+> 自动收集于 2026-05-05 13:04 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -69,10 +69,12 @@
   项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区……
   这家全球最注...
 - `36氪` [9.35万, 威马破产大甩卖](https://36kr.com/p/3791546608049152?f=rss)
-> 作者 | 冯晓亭 编辑 | 吾人
+> 作者 | 冯��亭 编辑 | 吾人
   来源 | 融中财经
   4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。
-  拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.35...
+  拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.3...
+- `少数派` [听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑](https://sspai.com/post/109014)
+> 来听歌。查看全文
 - `少数派` [iPad 用户首次体验 Android 平板：vivo Pad6 Pro](https://sspai.com/post/109277)
 > 作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？查看全文
 - `少数派` [假期出门太折磨？我的 23 条经验帮你规划惬意旅行](https://sspai.com/post/100006)
@@ -91,60 +93,62 @@
 > 我觉得手机 AI 再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让 GUI Agent 更进一步。查看全文
 - `少数派` [先别一股脑扔进洗衣机：换季衣物洗护指南](https://sspai.com/post/60247)
 > 用心呵护自己的衣物，就从这个春天做起吧(๑•̀ㅂ•́)و✧查看全文
-- `少数派` [众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE](https://sspai.com/post/109207)
-> 现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated)
-> Article URL: https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated
-Comments URL: https://news.ycombinator.com/item?id=48017399
-P...
-- `Hacker News` [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
-> Article URL: https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/
-Comments URL: https://news.ycombinator.com/item?id=48017298
+- `Hacker News` [iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)
+> Article URL: https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/
+Comments URL: https://news.ycombinator.com/item?id=48021561
 Points: 37
+# Comments: 22
+- `Hacker News` [Show HN: I built a new word game, Wordtrak](https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game)
+> Hi HN! Looking for feedback on this 1v1 and daily word dueling game I've built over the last few months.Play here: https://wordtrak.com/Or on iOS here: https://apps.apple.com/us/app/wordtrak/id6760...
+- `Hacker News` [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
+> Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/
+Comments URL: https://news.ycombinator.com/item?id=48020063
+Points: 85
+# Comments: 55
+- `Hacker News` [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
+> Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/
+Comments URL: https://news.ycombinator.com/item?id=48019219
+Points: 436
+# Comments: 415
+- `Hacker News` [The Frog for Whom the Bell Tolls](https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls)
+> Article URL: https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls
+Comments URL: https://news.ycombinator.com/item?id=48019165
+Points: 24
 # Comments: 7
-- `Hacker News` [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)
-> Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5
-Comments URL: https://news.ycombinator.com/item?id=48016880
-Points: 206
-# Comments: 137
-- `Hacker News` [Y Combinator's Stake in OpenAI (0.6%)](https://daringfireball.net/2026/05/y_combinators_stake_in_openai)
-> Article URL: https://daringfireball.net/2026/05/y_combinators_stake_in_openai
-Comments URL: https://news.ycombinator.com/item?id=48016534
-Points: 122
-# Comments: 2
-- `Hacker News` [Agent Skills](https://addyosmani.com/blog/agent-skills/)
-> Article URL: https://addyosmani.com/blog/agent-skills/
-Comments URL: https://news.ycombinator.com/item?id=48015397
-Points: 146
-# Comments: 50
-- `Hacker News` [When Networking Doesn't Work](https://www.os2museum.com/wp/when-networking-doesnt-work/)
-> Article URL: https://www.os2museum.com/wp/when-networking-doesnt-work/
-Comments URL: https://news.ycombinator.com/item?id=48014868
-Points: 16
-# Comments: 3
-- `Hacker News` [Formatting a 25M-line codebase overnight](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
-> Article URL: https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story
-Comments URL: https://news.ycombinator.com/item?id=48014325
-Points: 132
-# Comments: 70
-- `Hacker News` [Transformers Are Inherently Succinct (2025)](https://arxiv.org/abs/2510.19315)
-> Article URL: https://arxiv.org/abs/2510.19315
-Comments URL: https://news.ycombinator.com/item?id=48014197
-Points: 40
-# Comments: 6
-- `Hacker News` [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
-> Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
-Comments URL: https://news.ycombinator.com/item?id=48013919
-Points: 312
-# Comments: 106
-- `Hacker News` [Microsoft Edge stores all passwords in memory in clear text, even when unused](https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730)
-> Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730
-Comments URL: https://news.ycombinator.com/item?id=48012735
-Points: 448
-# Comments: 157
+- `Hacker News` [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
+> Article URL: https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state
+Comments URL: https://news.ycombinator.com/item?id=48019163
+Points: 257
+# Comments: 132
+- `Hacker News` [Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
+> Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html
+Comments URL: https://news.ycombinator.com/item?id=48019025
+Points: 115
+# Comments: 98
+- `Hacker News` [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
+> Article URL: https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/
+Comments URL: https://news.ycombinator.com/item?id=48018080
+Points: 152
+# Comments: 112
+- `Hacker News` [Empty Screenings – Finds AMC movie screenings with few or no tickets sold](https://walzr.com/empty-screenings)
+> Article URL: https://walzr.com/empty-screenings
+Comments URL: https://news.ycombinator.com/item?id=48018066
+Points: 194
+# Comments: 162
+- `Hacker News` [2-D Mathematical Curves](https://www.2dcurves.com/)
+> Article URL: https://www.2dcurves.com/
+Comments URL: https://news.ycombinator.com/item?id=48018034
+Points: 52
+# Comments: 4
+- `TechCrunch` [Amazon bets Nobel Prize-based dehumidification can cut its energy use](https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/)
+> Amazon will buy a new type of HVAC system for its commercial buildings to slash energy use.
+- `TechCrunch` [Coinbase to lay off 14% of staff as part of broader restructuring](https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/)
+> The restructuring is aimed at addressing market volatility and increasing the use of AI tools to improve efficiency.
+- `TechCrunch` [Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries](https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/)
+> The startup has put a spin on repurposing EV batteries, CEO Edward Chiang told TechCrunch.
 - `TechCrunch` [As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)
 > The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.
 - `TechCrunch` [Geothermal startup Fervo Energy to raise up to $1.3B in IPO](https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/)
@@ -159,12 +163,16 @@ Points: 448
 > Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.
 - `TechCrunch` [Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites](https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/)
 > Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.
-- `TechCrunch` [Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race](https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/)
-> Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.
-- `TechCrunch` [Sierra raises $950M as the race to own enterprise AI gets serious](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/)
-> The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the "global standard" for AI-powered customer experiences.
-- `TechCrunch` [Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI c...](https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/)
-> Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman "will be the most hated men in America" if OpenAI doesn't settle the suit.
+- `The Verge` [Inside the lab where Ford is trying to crack the code on cheap EVs](https://www.theverge.com/transportation/923704/ford-ev-skunkworks-lab-long-beach)
+> Ford isn't sending the clearest signals regarding its EV future. We got a glimpse of its Universal EV (UEV) Project last February, but then it pulled the plug on the F-150 Lightning, which is regar...
+- `The Verge` [Bose takes a swing at Sonos with its new home speakers](https://www.theverge.com/tech/923686/bose-lifestyle-collection-first-listen)
+> Last Thursday, in a staged home on the Upper West Side of Manhattan, I sat on a couch that was a bit too low and a tad too deep in front of a small, beige-colored smart speaker sitting on the middl...
+- `The Verge` [Facebook and Instagram are using AI bone structure analysis to identify photos of kids](https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis)
+> Facebook and Instagram have a new way to detect and remove users under 13: AI bone structure analysis. In a blog post on Tuesday, Meta - Facebook and Instagram's parent company - says its AI system...
+- `The Verge` [Google DeepMind workers are unionizing over AI military contracts](https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel)
+> Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on...
+- `The Verge` [Microsoft is finally ditching the junk MSN feed in Windows widgets](https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets)
+> Microsoft is finally giving up on showing the junk feed of MSN news when you open the widgets feature in Windows 11. After allowing Windows 11 users to disable the MSN feed more than two years ago,...
 - `The Verge` [The 40 best Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
 > Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. Mother's Day, May 10th, is an opportunity to return the favor, so we...
 - `The Verge` [Valve just imported 50 tons of game consoles in two days](https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026)
@@ -175,16 +183,6 @@ Points: 448
 > Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's ...
 - `The Verge` [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)
 > When you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single...
-- `The Verge` [SwitchBot’s rechargeable button pusher is on sale for over 20 percent off](https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal)
-> If you want to give mom something that helps lighten the load, the SwitchBot Bot Rechargeable makes for a great, inexpensive gift. And now through May 10th, you can buy it for around $26.99 ($7 off...
-- `The Verge` [The creator of Roomba is back with a furry robot companion](https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch)
-> Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. Th...
-- `The Verge` [The Pixel 11 could be the next victim of the RAM shortage](https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram)
-> Google's next round of Pixel phones could be a downgrade compared to the Pixel 10 lineup due to the ongoing RAM shortage. Leaked specs for the Pixel 11 lineup shared by MysticLeaks include a possib...
-- `The Verge` [The best Star Wars Day deals](https://www.theverge.com/gadgets/922905/best-star-wars-day-2026-may-the-fourth-4th-deals-sale)
-> May the Fourth be with us all on this Star Wars Day. While things have been relatively quiet with the multimedia gold mine that is Star Wars, with just some murmurs about upcoming movies (The Manda...
-- `The Verge` [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
-> Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of aband...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
