@@ -4,12 +4,33 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-05
+# 📰 每日科技日报 — 2026-05-06
 
-> 自动收集于 2026-05-05 13:04 | 共 50 条
+> 自动收集于 2026-05-06 03:45 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”](https://36kr.com/p/3797224394284033?f=rss)
+> “传统工业软件太难用了。”
+  这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。
+  “AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”，Orthogonal想做的，是把“vibe”的方式带入硬件开发。
+  Orthog...
+- `36氪` [一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发](https://36kr.com/p/3682907323150215?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。
+  此前公司已获得多家机构加持，包括高秉强教授、松禾资本、启赋资本、浩方创投、北大张海霞教授旗下IC...
+- `36氪` [8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼](https://36kr.com/p/3797041945304327?f=rss)
+> 今日热点导览
+  
+   分析师称iPhone 18 Pro定价策略激进，起步价8999元 
+   胖东来郑州店注册成立，预计今年10月开业 
+   保时捷卖掉布加迪，预计2026年销量下滑至3万辆 
+   马斯克就推特持股披露诉讼与美证监会达成和解 
+   三星继承人已付清12万亿韩元遗产税
+  
+  TOP 3 大新闻
+  豆包将在免费模式外新增付...
 - `36氪` [五月，适合想清楚一件事｜幕启](https://36kr.com/p/3794961189821698?f=rss)
 > 图源：公众号「有三思  U  Sense」
   5月4日，一个被默认为“青年专属”的日期。
@@ -53,26 +74,8 @@
   图源：二手交易平台截图
   黄牛们也闻风而动，据二手交易平台数据，原价十几元一杯的茶颜悦色奶茶，代购价格均被炒至30—100元。
 ...
-- `36氪` [又一算力独角兽，冲击IPO](https://36kr.com/p/3791796527602951?f=rss)
-> 作者丨韦香惠
-  来源丨东四十条资本
-  A股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。
-  主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。
-  这家公司并非“从零起步”，其前身是华为X86服务器业务，2021年受外部环境影响被整体剥离，并独立运营。随后，河南超聚能科技有限公司成为控股股东，持股31.38%，后者大...
-- `36氪` [苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？](https://36kr.com/p/3791662444911617?f=rss)
-> 梦晨 发自 凹非寺
-  苹果大失误！把自用的Claude.md打包到了官方App里。
-  这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。
-  这么大的公司，也在Vibe Coding？
-  
-  苹果内部在使用Claude Code构建生产级应用
-  项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区……
-  这家全球最注...
-- `36氪` [9.35万, 威马破产大甩卖](https://36kr.com/p/3791546608049152?f=rss)
-> 作者 | 冯��亭 编辑 | 吾人
-  来源 | 融中财经
-  4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。
-  拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.3...
+- `少数派` [派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等](https://sspai.com/post/109410)
+> M4 Mac mini 256GB 版本下架，豆包确认将推出付费版本等。查看全文
 - `少数派` [听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑](https://sspai.com/post/109014)
 > 来听歌。查看全文
 - `少数派` [iPad 用户首次体验 Android 平板：vivo Pad6 Pro](https://sspai.com/post/109277)
@@ -91,98 +94,98 @@
 > Framework 推出 RTX 5070 GPU 显卡模块、蚂蚁集团百灵大模型开源 Ling-2.6-flash 等。查看全文
 - `少数派` [移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉](https://sspai.com/post/109062)
 > 我觉得手机 AI 再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让 GUI Agent 更进一步。查看全文
-- `少数派` [先别一股脑扔进洗衣机：换季衣物洗护指南](https://sspai.com/post/60247)
-> 用心呵护自己的衣物，就从这个春天做起吧(๑•̀ㅂ•́)و✧查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)
-> Article URL: https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/
-Comments URL: https://news.ycombinator.com/item?id=48021561
-Points: 37
-# Comments: 22
-- `Hacker News` [Show HN: I built a new word game, Wordtrak](https://wordtrak.com/blog/2026-05-05-I-built-a-new-word-game)
-> Hi HN! Looking for feedback on this 1v1 and daily word dueling game I've built over the last few months.Play here: https://wordtrak.com/Or on iOS here: https://apps.apple.com/us/app/wordtrak/id6760...
-- `Hacker News` [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/)
-> Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/
-Comments URL: https://news.ycombinator.com/item?id=48020063
-Points: 85
-# Comments: 55
-- `Hacker News` [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
-> Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/
-Comments URL: https://news.ycombinator.com/item?id=48019219
-Points: 436
-# Comments: 415
-- `Hacker News` [The Frog for Whom the Bell Tolls](https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls)
-> Article URL: https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls
-Comments URL: https://news.ycombinator.com/item?id=48019165
-Points: 24
-# Comments: 7
-- `Hacker News` [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
-> Article URL: https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state
-Comments URL: https://news.ycombinator.com/item?id=48019163
-Points: 257
-# Comments: 132
-- `Hacker News` [Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
-> Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html
-Comments URL: https://news.ycombinator.com/item?id=48019025
-Points: 115
-# Comments: 98
-- `Hacker News` [Kids bypass age verification with fake moustaches](https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/)
-> Article URL: https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/
-Comments URL: https://news.ycombinator.com/item?id=48018080
-Points: 152
-# Comments: 112
-- `Hacker News` [Empty Screenings – Finds AMC movie screenings with few or no tickets sold](https://walzr.com/empty-screenings)
-> Article URL: https://walzr.com/empty-screenings
-Comments URL: https://news.ycombinator.com/item?id=48018066
-Points: 194
-# Comments: 162
-- `Hacker News` [2-D Mathematical Curves](https://www.2dcurves.com/)
-> Article URL: https://www.2dcurves.com/
-Comments URL: https://news.ycombinator.com/item?id=48018034
-Points: 52
-# Comments: 4
-- `TechCrunch` [Amazon bets Nobel Prize-based dehumidification can cut its energy use](https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/)
-> Amazon will buy a new type of HVAC system for its commercial buildings to slash energy use.
-- `TechCrunch` [Coinbase to lay off 14% of staff as part of broader restructuring](https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/)
-> The restructuring is aimed at addressing market volatility and increasing the use of AI tools to improve efficiency.
-- `TechCrunch` [Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries](https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/)
-> The startup has put a spin on repurposing EV batteries, CEO Edward Chiang told TechCrunch.
-- `TechCrunch` [As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)
-> The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.
-- `TechCrunch` [Geothermal startup Fervo Energy to raise up to $1.3B in IPO](https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/)
-> Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.
-- `TechCrunch` [US government warns of severe CopyFail bug affecting major versions of Linux](https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/)
-> U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.
-- `TechCrunch` [OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/)
-> AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.
-- `TechCrunch` [Image AI models now drive app growth, beating chatbot upgrades](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/)
-> Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.
-- `TechCrunch` [Katie Haun raises $1B for new venture funds](https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/)
-> Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.
-- `TechCrunch` [Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites](https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/)
-> Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.
-- `The Verge` [Inside the lab where Ford is trying to crack the code on cheap EVs](https://www.theverge.com/transportation/923704/ford-ev-skunkworks-lab-long-beach)
-> Ford isn't sending the clearest signals regarding its EV future. We got a glimpse of its Universal EV (UEV) Project last February, but then it pulled the plug on the F-150 Lightning, which is regar...
-- `The Verge` [Bose takes a swing at Sonos with its new home speakers](https://www.theverge.com/tech/923686/bose-lifestyle-collection-first-listen)
-> Last Thursday, in a staged home on the Upper West Side of Manhattan, I sat on a couch that was a bit too low and a tad too deep in front of a small, beige-colored smart speaker sitting on the middl...
-- `The Verge` [Facebook and Instagram are using AI bone structure analysis to identify photos of kids](https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis)
-> Facebook and Instagram have a new way to detect and remove users under 13: AI bone structure analysis. In a blog post on Tuesday, Meta - Facebook and Instagram's parent company - says its AI system...
-- `The Verge` [Google DeepMind workers are unionizing over AI military contracts](https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel)
-> Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on...
-- `The Verge` [Microsoft is finally ditching the junk MSN feed in Windows widgets](https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets)
-> Microsoft is finally giving up on showing the junk feed of MSN news when you open the widgets feature in Windows 11. After allowing Windows 11 users to disable the MSN feed more than two years ago,...
-- `The Verge` [The 40 best Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
-> Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. Mother's Day, May 10th, is an opportunity to return the favor, so we...
-- `The Verge` [Valve just imported 50 tons of game consoles in two days](https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026)
-> We still don't know when Valve will launch the Steam Machine, but we may not have to wait too long. Valve just imported roughly 50 tons of "Game Consoles" into the United States in the two-day peri...
-- `The Verge` [OpenAI’s president does ‘all the things,’ except answer a question](https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial)
-> The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusua...
-- `The Verge` [Elon Musk will settle the feds’ Twitter lawsuit with pocket change](https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x)
-> Last year, the SEC sued Elon Musk over the way his acquisition of Twitter (now X, and a part of SpaceX) started, and today it announced a settlement that looks like a massive bargain, while Musk's ...
-- `The Verge` [Skylight’s 15-inch smart calendar is down to its lowest price to date](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale)
-> When you’re juggling more than just your own calendar, staying organized can be overwhelming. Fortunately, the Skylight Calendar 2 can help simplify things by syncing multiple calendars in a single...
+- `Hacker News` [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
+> Article URL: https://blog.cloudflare.com/agents-stripe-projects/
+Comments URL: https://news.ycombinator.com/item?id=48031684
+Points: 7
+# Comments: 2
+- `Hacker News` [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
+> Article URL: https://us.starlabs.systems/pages/starfighter
+Comments URL: https://news.ycombinator.com/item?id=48031261
+Points: 72
+# Comments: 52
+- `Hacker News` [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
+> Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63
+Comments URL: https://news.ycombinator.com/item?id=48031109
+Points: 46
+# Comments: 17
+- `Hacker News` [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026)
+> Article URL: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026
+Comments URL: https://news.ycombinator.com/item?id=48028842
+Points: 163
+# Comments: 122
+- `Hacker News` [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped)
+> Article URL: https://productonboarding.com/articles/why-product-tours-get-skipped
+Comments URL: https://news.ycombinator.com/item?id=48028546
+Points: 90
+# Comments: 80
+- `Hacker News` [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)
+> Article URL: https://dnssec-analyzer.verisignlabs.com/nic.de
+Comments URL: https://news.ycombinator.com/item?id=48027897
+Points: 558
+# Comments: 269
+- `Hacker News` [California farmers to destroy 420k peach trees following Del Monte bankruptcy](https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php)
+> Article URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php
+Comments URL: https://news.ycombinator.com/item?id=48026349
+Points: 287
+# Comments: 343
+- `Hacker News` [Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/)
+> I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters (Monet, Vermeer, Raphael, Van Gogh).
+Why I built it: every color palette generat...
+- `Hacker News` [Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement](https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/)
+> https://apnews.com/article/meta-mark-zuckerberg-ai-publisher...
+
+Comments URL: https://news.ycombinator.com/item?id=48026207
+Points: 287
+# Comments: 270
+- `Hacker News` [GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752)
+> Article URL: https://arxiv.org/abs/2604.26752
+Comments URL: https://news.ycombinator.com/item?id=48026021
+Points: 123
+# Comments: 25
+- `TechCrunch` [Nuro receives driverless testing permit ahead of Uber robotaxi service launch](https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/)
+> The Silicon Valley AV startup has not started driverless testing yet.
+- `TechCrunch` [SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)
+> SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.
+- `TechCrunch` [Bumble’s paying users are slipping as it bets on an overhaul later this year](https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/)
+> The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact...
+- `TechCrunch` [Altara secures $7M to bridge the data gap that’s slowing down physical sciences](https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/)
+> Altara’s AI aims to diagnose failures and help speed up R&D by unifying  data siloed across spreadsheets and legacy systems.
+- `TechCrunch` [Lucid Motors doesn’t know how many EVs it will build this year](https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/)
+> Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure.
+- `TechCrunch` [As crypto cools, a16z crypto raises a $2.2B fund](https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/)
+> As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.
+- `TechCrunch` [Apple plans to make iOS 27 a Choose Your Own Adventure of AI models](https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/)
+> With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.
+- `TechCrunch` [ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us](https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/)
+> Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appe...
+- `TechCrunch` [Volkswagen becomes Rivian’s top shareholder, displacing Amazon](https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/)
+> VW Group's stake will continue to grow under the $5.8 billion joint venture with Rivian.
+- `TechCrunch` [Threads finally brings messaging to the web](https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/)
+> By bringing messaging to the web, Threads is aligning its desktop experience more closely with competitors like X and Bluesky.
+- `The Verge` [Google Home’s Gemini AI can handle more complicated requests](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade)
+> Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will ...
+- `The Verge` [Apple agrees to pay iPhone owners $250 million for not delivering AI Siri](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement)
+> Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement woul...
+- `The Verge` [Microsoft gives up on Xbox Copilot AI](https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma)
+> Xbox is "winding down Copilot on mobile" and "will stop development of Copilot on console," new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platf...
+- `The Verge` [Apple could let you pick a favorite AI model in iOS 27](https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27)
+> The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow th...
+- `The Verge` [Threads is finally getting DMs on the web](https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages)
+> Nearly a year after rolling out Threads direct messaging to everyone on mobile, Meta is finally bringing the feature to the web. Meta says it's "testing" DMs on the web now, but plans to make the f...
+- `The Verge` [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+> Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of aband...
+- `The Verge` [OpenAI claims ChatGPT’s new default model hallucinates way less](https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant)
+> OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has "significant ...
+- `The Verge` [Book publishers sue Meta over AI’s ‘word-for-word’ copying](https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright)
+> Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company "engaged in one of the most massive infringements of copyrighted materials in histor...
+- `The Verge` [Microsoft’s new Xbox shake-up is all about platform changes](https://www.theverge.com/news/923908/microsoft-xbox-reorg-platform-changes)
+> Microsoft's new Xbox chief, Asha Sharma, has spent the past couple of months making her mark on the Xbox organization. After focusing on highly requested Xbox console features, reducing the price o...
+- `The Verge` [From Alan Shepard to Artemis, celebrating 65 years of Americans in space](https://www.theverge.com/science/918596/alan-shepard-american-spaceflight-photos-anniversary)
+> On the morning of May 5th, 1961, 37-year-old Alan Shepard woke up, ate a breakfast (consisting of a filet mignon wrapped in bacon, scrambled eggs, and orange juice), strapped into the Freedom 7 roc...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
