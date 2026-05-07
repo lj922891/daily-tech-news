@@ -4,12 +4,42 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-06
+# 📰 每日科技日报 — 2026-05-07
 
-> 自动收集于 2026-05-06 13:24 | 共 50 条
+> 自动收集于 2026-05-07 03:44 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [对话孙来春：年入25亿的林清轩不想做中国欧莱雅 ｜厚雪专访](https://36kr.com/p/3797662460419337?f=rss)
+> 作者 | 李小霞
+  访谈| 李小霞、杨轩
+  编辑 | 乔芊
+  林清轩创始人孙来春有一段广为人知的惊险故事。
+  那是2020年春节疫情初起，林清轩大面积闭店，业绩断崖式下滑90%，公司账户里的现金最多支撑67天。
+  在那一刻，孙来春突然发现自己过去十几年引以为傲的线下基因，变成了最不堪一击的包袱。
+  后来的故事很多人也都知道。孙来春...
+- `36氪` [斯坦福博士后创立的柔性触觉传感器公司获超亿元融资，低成本触觉手套将量产落地｜硬氪首发](https://36kr.com/p/3797155747748867?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，途见科技（北京）有限公司（以下简称“途见科技”）近日完成Pre-A轮、Pre-A+轮融资，两轮累计金额超亿元，投资方包括联想之星、华控基金、元禾璞华、元禾控股、洪泰基金等。资金将主要用于核心技术研发，机器人全身触觉、触觉手套、触觉数据采集工具链等产品矩阵拓展和生产体系升级，加速市场化落地验证。
+  途见科技成立于2020年1月，聚焦可拉伸多模态柔性...
+- `36氪` [像素绽放PixelBloom完成C轮融资，全面发力AI办公解决方案Agent：从“一分钟生成PPT”到“交付商用级结果”](https://36kr.com/p/3797787228151048?f=rss)
+> 作者｜梁键强
+  
+  △图片来源：像素绽放PixelBloom
+  AI办公正在进入下一个阶段。
+  随着AI进入办公场景，写文档、做设计、生成PPT等原本耗时耗力的工作，开始被AI快速接手。但到目前为止，大多数AI办公产品仍停留在“生成内容”和“提升效率”的阶段。相比一个只会辅助完成任务的工具，市场更需要的，是一个能够直接理解需求、输出完整方案、交付结果的AI助手。
+  近日，像素绽放P...
+- `36氪` [8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元](https://36kr.com/p/3798462137637892?f=rss)
+> 今日热点导览
+  小米汽车：新一代SU7上市仅48天，锁单已超过80000台
+  胖东来19名管理人员被降级，1名管理人员被免职
+  追觅俞浩：建议年轻人别炒股
+  五一档票房7.58亿元
+  三星电子借AI热潮市值突破1万亿美元
+  TOP3大新闻
+  三星宣布停止在中国大陆市场销售所有家电产品
+  5月6日，三星电子在官网发布公告称，为应对急剧变化的市场环境，经慎重研究，三星电子决定在中...
 - `36氪` [氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债](https://36kr.com/p/3797482256325888?f=rss)
 > 大公司：
   SpaceX提议投入550亿美元在得州启动Terafab项目
@@ -45,29 +75,8 @@
   
   TOP 3 大新闻
   豆包将在免费模式外新增付...
-- `36氪` [五月，适合想清楚一件事｜幕启](https://36kr.com/p/3794961189821698?f=rss)
-> 图源：公众号「有三思  U  Sense」
-  5月4日，一个被默认为“青年专属”的日期。
-  但在我看来，“青年”一词从来不只和年龄挂钩，每一个还在试探人生的节拍与正轨的人，身体里都住着一位渴望力量的青年。
-  [1]
-  敲定新品牌命名的那一刻其实很轻。在讨论方案的脑暴会上，我夸了实习生一句“有Sense”，他眼神一亮：“这个词好诶。”
-  许多年前，我还是一个初入职...
-- `36氪` [豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线](https://36kr.com/p/3794799114476809?f=rss)
-> 近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。
-   
-  
-  豆包
-   
-  目前，尚未在豆包...
-- `36氪` [科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表](https://36kr.com/p/3792228036615430?f=rss)
-> 在2026世界超级摩托车锦标赛（WSBK）匈牙利站WorldSSP组别第一回合正赛中，中国摩托车制造商张雪机车的法国车手瓦伦丁·德比斯通过最后时刻的反超绝杀夺得冠军。赛后，荣耀CEO李健发文祝贺，并宣布作为张雪机车WSBK的首席战略合作品牌，荣耀将推出双方的冠军联名款手表，以庆祝这一夺冠时刻。 此前在4月初，荣耀已正式成为张雪机车WSBK首席战略合作品牌。荣耀首席营销官关海涛曾代表品牌向车队...
-- `36氪` [卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线](https://36kr.com/p/3789475357400068?f=rss)
-> 文｜肖漫
-  编辑｜李勤
-  当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。
-  卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。
-  “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。
-  在新...
+- `少数派` [派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
+> Apple 同意和解 Siri 延期的集体诉讼、Valve 开源 Steam Controller 的外壳 CAD 文件等。查看全文
 - `少数派` [返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
 > 假期总是结束得猝不及防，打工人心里的苦只有打工人自己知道。然而远有《大都会》《摩登时代》这样的影史经典，近有《年会不能停！》这样的后起之秀，总有些以打工人为主角的影视作品，讲述着普通打工人的命运，为打 ...查看全文
 - `少数派` [为了让「上厕所」更健康，我做了一个小工具](https://sspai.com/post/109296)
@@ -86,100 +95,97 @@
 > 📅本周新预告《暗影蜘蛛侠》正式预告4月26日，剧集《暗影蜘蛛侠》发布了黑白和彩色双版本正式预告，将于5月27日上线PrimeVideo。尼古拉斯·凯奇领衔主演，聚焦1930年代纽约的一个上了年纪、倒霉 ...查看全文
 - `少数派` [本月玩什么｜朋友收藏、识质存在、沙罗周期](https://sspai.com/post/109257)
 > 假期预防无聊，先来找点玩的。查看全文
-- `少数派` [五一假期将至，用 iPhone 轻松搞定假日出行](https://sspai.com/post/88452)
-> 五一假期将至，我相信有很多派友们都会抓住难得的长假机会，策划一场期盼许久的旅行。曾几何时，我们出门旅游时要带上相机、纸质地图、旅行攻略（比如说LonelyPlanet）、纸质车票、钱包、现金等一堆东西 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer)
-> Article URL: https://www.coveragecat.com/careers/engineering/fractional-growth-engineer
-Comments URL: https://news.ycombinator.com/item?id=48035223
-Points: 0
+- `Hacker News` [Permacomputing Principles](https://permacomputing.net/principles/)
+> Article URL: https://permacomputing.net/principles/
+Comments URL: https://news.ycombinator.com/item?id=48044638
+Points: 13
 # Comments: 0
-- `Hacker News` [Setting up a Sun Ray server on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/)
-> Article URL: https://catstret.ch/202605/srss-hipster202510/
-Comments URL: https://news.ycombinator.com/item?id=48034762
-Points: 44
-# Comments: 5
-- `Hacker News` [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
-> Article URL: https://red-squares.cian.lol/
-Comments URL: https://news.ycombinator.com/item?id=48034587
-Points: 370
-# Comments: 74
-- `Hacker News` [Reverse-engineering the 1998 Ultima Online demo server](https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html)
-> Article URL: https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html
-Comments URL: https://news.ycombinator.com/item?id=48032976
-Points: 105
-# Comments: 23
-- `Hacker News` [Knitting bullshit](https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/)
-> Article URL: https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/
-Comments URL: https://news.ycombinator.com/item?id=48032461
-Points: 185
-# Comments: 86
-- `Hacker News` [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
-> Article URL: https://yuanchuan.dev/multi-stroke-text-effect-in-css
-Comments URL: https://news.ycombinator.com/item?id=48032265
-Points: 126
-# Comments: 16
-- `Hacker News` [245TB Micron 6600 ION Data Center SSD Now Shipping](https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now)
-> Article URL: https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now
-Comments URL: https://news.ycombinator.com/item?id=48031867
-P...
-- `Hacker News` [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
-> Article URL: https://blog.cloudflare.com/agents-stripe-projects/
-Comments URL: https://news.ycombinator.com/item?id=48031684
-Points: 437
-# Comments: 234
-- `Hacker News` [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
-> Article URL: https://us.starlabs.systems/pages/starfighter
-Comments URL: https://news.ycombinator.com/item?id=48031261
-Points: 460
-# Comments: 227
-- `Hacker News` [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)
-> Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63
-Comments URL: https://news.ycombinator.com/item?id=48031109
-Points: 183
-# Comments: 146
-- `TechCrunch` [reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen](https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/)
-> The new Paper Pure is lighter and faster than the reMarkable 2, which is going to be retired six years since its launch.
-- `TechCrunch` [Peter Sarlin’s QuTwo reaches $380M valuation in angel round](https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/)
-> QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a si...
-- `TechCrunch` [Marc Lore says that AI will soon enable anyone open a restaurant](https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/)
-> Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.
-- `TechCrunch` [Nuro receives driverless testing permit ahead of Uber robotaxi service launch](https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/)
-> The Silicon Valley AV startup has not started driverless testing yet.
-- `TechCrunch` [SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)
-> SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.
-- `TechCrunch` [Bumble’s paying users are slipping as it bets on an overhaul later this year](https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/)
-> The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact...
-- `TechCrunch` [Altara secures $7M to bridge the data gap that’s slowing down physical sciences](https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/)
-> Altara’s AI aims to diagnose failures and help speed up R&D by unifying  data siloed across spreadsheets and legacy systems.
-- `TechCrunch` [Lucid Motors doesn’t know how many EVs it will build this year](https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/)
-> Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure.
-- `TechCrunch` [As crypto cools, a16z crypto raises a $2.2B fund](https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/)
-> As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.
-- `TechCrunch` [Apple plans to make iOS 27 a Choose Your Own Adventure of AI models](https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/)
-> With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.
-- `The Verge` [Google’s AI search summaries will now quote Reddit](https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links)
-> Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces "a preview of perspectives" fr...
-- `The Verge` [It’s time to let my iPhone Mini go](https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass)
-> It's not the Mini, it's me. Nearly five years after it launched, the 13 Mini is still the best phone ever made. That hasn't changed; it's just that I changed. And as painful as it is to admit this,...
-- `The Verge` [The Remarkable Paper Pure is the best digital notepad I’ve ever used](https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on)
-> Was I writing with pen and paper, or a stylus on a tablet? It’s getting more difficult than ever to tell.  The Remarkable Paper Pure is a follow-up to 2020’s Remarkable 2 and a couple of premi...
-- `The Verge` [Remarkable’s next E Ink digital notepad skips the color screen](https://www.theverge.com/tech/923994/remarkable-e-ink-tablet-paper-pure-black-and-white-pricing-availability)
-> Remarkable announced a new paper tablet today - albeit one without the advanced color screen found in its recent Paper Pro and Paper Pro Move tablets. The new Remarkable Paper Pure instead features...
-- `The Verge` [Energizer’s new coin batteries won’t cause ingestion burns if swallowed](https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention)
-> Energizer has announced a new line of lithium coin batteries it claims are the world's first to eliminate the risk of ingestion burns if swallowed. Its Ultimate Child Shield line includes three siz...
-- `The Verge` [Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle](https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle)
-> Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffl...
-- `The Verge` [The clippening](https://www.theverge.com/report/920005/social-media-clipping-podcasts-clavicular-marketing-mrbeast)
-> Earlier this year, after a tumultuous period serving as the former second-in-command at the FBI, Dan Bongino went back to what he is perhaps known best for: video podcasting. After Bongino exited t...
-- `The Verge` [Chrome’s AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
-> Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. U...
-- `The Verge` [Google Home’s Gemini AI can handle more complicated requests](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade)
-> Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will ...
-- `The Verge` [Apple agrees to pay iPhone owners $250 million for not delivering AI Siri](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement)
-> Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement woul...
+- `Hacker News` [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
+> Article URL: https://www.vatican.va/latin/latin_index.html
+Comments URL: https://news.ycombinator.com/item?id=48044311
+Points: 61
+# Comments: 38
+- `Hacker News` [ADT says customer data stolen in cyber intrusion](https://therecord.media/ADT-data-breach-cyberattack)
+> Article URL: https://therecord.media/ADT-data-breach-cyberattack
+Comments URL: https://news.ycombinator.com/item?id=48043487
+Points: 29
+# Comments: 7
+- `Hacker News` [What British people mean when they say 'sorry'](https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry)
+> Article URL: https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry
+Comments URL: https://news.ycombinator.com/item?id=48043184
+Points: 22
+# Comments: 9
+- `Hacker News` [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
+> Article URL: https://sqlite.org/locrsf.html
+Comments URL: https://news.ycombinator.com/item?id=48042434
+Points: 43
+# Comments: 13
+- `Hacker News` [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
+> Article URL: https://github.com/olivier-ls/php-fts
+Comments URL: https://news.ycombinator.com/item?id=48041316
+Points: 36
+# Comments: 8
+- `Hacker News` [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
+> Article URL: https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html
+Comments URL: https://news.ycombinator.com/item?id=48040622
+Points: 235
+# Comments: 66
+- `Hacker News` [Programming Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
+> Article URL: https://www.stvn.sh/writing/programming-still-sucks-fqffhyp
+Comments URL: https://news.ycombinator.com/item?id=48040269
+Points: 155
+# Comments: 29
+- `Hacker News` [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
+> Article URL: https://sander.ai/2026/05/06/flow-maps.html
+Comments URL: https://news.ycombinator.com/item?id=48040002
+Points: 107
+# Comments: 18
+- `Hacker News` [Google Cloud fraud defense, the next evolution of reCAPTCHA](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/)
+> Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/
+Comments URL: https://news.ycombinator.com/item?id=4803...
+- `TechCrunch` [A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom](https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/)
+> The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.
+- `TechCrunch` [Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/)
+> Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.
+- `TechCrunch` [Snap says its $400M deal with Perplexity ‘amicably ended’](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/)
+> The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.
+- `TechCrunch` [Is xAI a neocloud now?](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/)
+> xAI's real business may be more about building data centers than training AI models.
+- `TechCrunch` [Insurance startup Corgi hits $1.3B valuation 4 months after its Series A](https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/)
+> Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.
+- `TechCrunch` [Microsoft’s AI data center push is colliding with its clean power goals](https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/)
+> The push for new data centers at Microsoft is putting its key clean power goals at risk.
+- `TechCrunch` [Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says](https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/)
+> Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura bef...
+- `TechCrunch` [How Elon Musk left OpenAI, according to Greg Brockman](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/)
+> Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.
+- `TechCrunch` [DOJ says ransomware gang tapped into Russian government databases](https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/)
+> U.S. prosecutors said a ransomware gang fueled Russian government corruption, and allowed the gang's leaders to avoid paying taxes and dodge the country's military draft.
+- `TechCrunch` [AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys](https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/)
+> Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers t...
+- `The Verge` [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)
+> I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who tes...
+- `The Verge` [Nintendo announces a new Star Fox for the Switch 2](https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2)
+> It turns out Fox McCloud's appearance in the Super Mario Galaxy Movie was a tease of things to come: Nintendo just surprise announced the first new Star Fox game in a decade. The game is called, si...
+- `The Verge` [Google shuts down Project Mariner](https://www.theverge.com/tech/925559/google-project-mariner-shut-down)
+> Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing pag...
+- `The Verge` [How David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)
+> Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? Y...
+- `The Verge` [The latest Tile Pro is down to $25 — its best price of the year](https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale)
+> If you’re struggling to find a Mother’s Day gift under $30, location trackers are a good investment, helping mom keep tabs on keys, bags, luggage, and other valuables. The latest Tile Pro is one of...
+- `The Verge` [What we’re hearing about the new homepage](https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage)
+> We’ve been reading your feedback on the new homepage. All of it. The kind and encouraging comments, the brutal ones, the “actually this rules,” the “please undo this immediately,” the bug reports, ...
+- `The Verge` [Mira Murati tells the court that she couldn’t trust Sam Altman’s words](https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati)
+> Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altm...
+- `The Verge` [The 44 best last-minute Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
+> Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. This Sunday, Mother's Day, is an opportunity to return the favor, so...
+- `The Verge` [Here’s what Microsoft is offering long-serving employees to voluntarily retire](https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details)
+> Microsoft revealed last month that it's planning to offer long-serving employees in the US the ability to voluntarily retire. While the terms of the buyout were supposed to be announced to employee...
+- `The Verge` [Native Instruments Komplete 26 adds weird new synths and experimental piano sounds](https://www.theverge.com/tech/925211/native-instruments-komplete-26-absynth-massive-kontakt)
+> The latest version of Native Instruments' Komplete music production bundle is here with 62 new additions, including the wonderfully weird Absynth 6. Komplete 26 comes in several flavors, starting w...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
