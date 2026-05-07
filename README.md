@@ -6,10 +6,25 @@
 
 # 📰 每日科技日报 — 2026-05-07
 
-> 自动收集于 2026-05-07 03:44 | 共 50 条
+> 自动收集于 2026-05-07 13:23 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？](https://36kr.com/p/3786528811572481?f=rss)
+> 文｜王毓婵 周鑫雨
+  编辑｜杨轩
+  “看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。 
+  中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHo...
+- `36氪` [氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元](https://36kr.com/p/3799089350712324?f=rss)
+> 大公司：
+  腾讯等入股机器人灵巧手研发商临界点
+  36氪获悉，天眼查App显示，近日，上海临界点创新智能科技有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约554万人民币增至约597万人民币。 该公司成立于今年1月，法定代表人为王闯，经营范围包括人工智能硬件销售、智能机器人销售、智能机器人的研发等...
+- `36氪` [最前线|将彩色打印与激光切割合二为一，xTool发布新品](https://36kr.com/p/3798845086882820?f=rss)
+> 文｜张子怡
+  编辑｜袁斯来
+  36氪获悉，个人创意工具品牌xTool于今日正式发布其新款消费级激光创作工具——xTool M2彩色智能激光雕刻机。
+  在目前的消费级激光雕刻市场中，用户面临的一个核心痛点在于“机械加工与色彩表现”的脱节：传统的激光雕刻机擅长物理切割与灼烧成痕，但若要制作彩色作品，用户往往需要经历繁琐的手动涂色、转印或多台设备切换对位，过程既复杂又难以保证精度。
+  xT...
 - `36氪` [对话孙来春：年入25亿的林清轩不想做中国欧莱雅 ｜厚雪专访](https://36kr.com/p/3797662460419337?f=rss)
 > 作者 | 李小霞
   访谈| 李小霞、杨轩
@@ -54,27 +69,12 @@
   自《原神》大火后，米哈游就围绕...
 - `36氪` [科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！](https://36kr.com/p/3797276726893569?f=rss)
 > 2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入一加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 86...
-- `36氪` [早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”](https://36kr.com/p/3797224394284033?f=rss)
-> “传统工业软件太难用了。”
-  这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。
-  “AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”，Orthogonal想做的，是把“vibe”的方式带入硬件开发。
-  Orthog...
-- `36氪` [一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发](https://36kr.com/p/3682907323150215?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。
-  此前公司已获得多家机构加持，包括高秉强教授、松禾资本、启赋资本、浩方创投、北大张海霞教授旗下IC...
-- `36氪` [8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼](https://36kr.com/p/3797041945304327?f=rss)
-> 今日热点导览
-  
-   分析师称iPhone 18 Pro定价策略激进，起步价8999元 
-   胖东来郑州店注册成立，预计今年10月开业 
-   保时捷卖掉布加迪，预计2026年销量下滑至3万辆 
-   马斯克就推特持股披露诉讼与美证监会达成和解 
-   三星继承人已付清12万亿韩元遗产税
-  
-  TOP 3 大新闻
-  豆包将在免费模式外新增付...
+- `少数派` [新玩意 240｜少数派的编辑们最近买了啥？](https://sspai.com/post/109474)
+> 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@西鸽：盖世小鸡G7Pro天 ...查看全文
+- `少数派` [一日一技｜为什么你应该关闭 iOS 的键盘声音](https://sspai.com/post/109460)
+> 安静的 iPhone 才是最好的 iPhone？查看全文
+- `少数派` [甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
+> 甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。查看全文
 - `少数派` [派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
 > Apple 同意和解 Siri 延期的集体诉讼、Valve 开源 Steam Controller 的外壳 CAD 文件等。查看全文
 - `少数派` [返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
@@ -89,63 +89,62 @@
 > 来听歌。查看全文
 - `少数派` [iPad 用户首次体验 Android 平板：vivo Pad6 Pro](https://sspai.com/post/109277)
 > 作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？查看全文
-- `少数派` [假期出门太折磨？我的 23 条经验帮你规划惬意旅行](https://sspai.com/post/100006)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/109266)
-> 📅本周新预告《暗影蜘蛛侠》正式预告4月26日，剧集《暗影蜘蛛侠》发布了黑白和彩色双版本正式预告，将于5月27日上线PrimeVideo。尼古拉斯·凯奇领衔主演，聚焦1930年代纽约的一个上了年纪、倒霉 ...查看全文
-- `少数派` [本月玩什么｜朋友收藏、识质存在、沙罗周期](https://sspai.com/post/109257)
-> 假期预防无聊，先来找点玩的。查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems)
+> Article URL: https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems
+Comments URL: https://news.ycombinator.com/item?id=48048339
+Points: 0
+# Comments: 0
+- `Hacker News` [Grand Theft Oil Futures: Insider traders keep making a killing at our expense](https://paulkrugman.substack.com/p/grand-theft-oil-futures)
+> Article URL: https://paulkrugman.substack.com/p/grand-theft-oil-futures
+Comments URL: https://news.ycombinator.com/item?id=48047981
+Points: 95
+# Comments: 58
+- `Hacker News` [LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)
+> Article URL: https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338
+Comments URL: https://news.ycombinator.com/item?id=48047970
+Points: ...
+- `Hacker News` [Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)](https://ahk.cardor.dev)
+> Article URL: https://ahk.cardor.dev
+Comments URL: https://news.ycombinator.com/item?id=48047826
+Points: 34
+# Comments: 5
+- `Hacker News` [Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)
+> Article URL: https://unsloth.ai/blog/nvidia-collab
+Comments URL: https://news.ycombinator.com/item?id=48046397
+Points: 78
+# Comments: 10
+- `Hacker News` [Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs](https://github.com/darkrishabh/agent-skills-eval)
+> Article URL: https://github.com/darkrishabh/agent-skills-eval
+Comments URL: https://news.ycombinator.com/item?id=48046023
+Points: 37
+# Comments: 15
+- `Hacker News` [Show HN: Trust – Coding Rust like it's 1989](https://github.com/wojtczyk/trust)
+> Article URL: https://github.com/wojtczyk/trust
+Comments URL: https://news.ycombinator.com/item?id=48045939
+Points: 57
+# Comments: 17
+- `Hacker News` [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
+> Article URL: https://arxiv.org/abs/2605.03546
+Comments URL: https://news.ycombinator.com/item?id=48045174
+Points: 88
+# Comments: 46
+- `Hacker News` [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
+> Article URL: https://aniket.foo/posts/20260505-netboot/
+Comments URL: https://news.ycombinator.com/item?id=48045012
+Points: 125
+# Comments: 69
 - `Hacker News` [Permacomputing Principles](https://permacomputing.net/principles/)
 > Article URL: https://permacomputing.net/principles/
 Comments URL: https://news.ycombinator.com/item?id=48044638
-Points: 13
-# Comments: 0
-- `Hacker News` [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)
-> Article URL: https://www.vatican.va/latin/latin_index.html
-Comments URL: https://news.ycombinator.com/item?id=48044311
-Points: 61
-# Comments: 38
-- `Hacker News` [ADT says customer data stolen in cyber intrusion](https://therecord.media/ADT-data-breach-cyberattack)
-> Article URL: https://therecord.media/ADT-data-breach-cyberattack
-Comments URL: https://news.ycombinator.com/item?id=48043487
-Points: 29
-# Comments: 7
-- `Hacker News` [What British people mean when they say 'sorry'](https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry)
-> Article URL: https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry
-Comments URL: https://news.ycombinator.com/item?id=48043184
-Points: 22
-# Comments: 9
-- `Hacker News` [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html)
-> Article URL: https://sqlite.org/locrsf.html
-Comments URL: https://news.ycombinator.com/item?id=48042434
-Points: 43
-# Comments: 13
-- `Hacker News` [Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions](https://github.com/olivier-ls/php-fts)
-> Article URL: https://github.com/olivier-ls/php-fts
-Comments URL: https://news.ycombinator.com/item?id=48041316
-Points: 36
-# Comments: 8
-- `Hacker News` [Inkscape 1.4.4](https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html)
-> Article URL: https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html
-Comments URL: https://news.ycombinator.com/item?id=48040622
-Points: 235
-# Comments: 66
-- `Hacker News` [Programming Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
-> Article URL: https://www.stvn.sh/writing/programming-still-sucks-fqffhyp
-Comments URL: https://news.ycombinator.com/item?id=48040269
-Points: 155
-# Comments: 29
-- `Hacker News` [Learning the Integral of a Diffusion Model](https://sander.ai/2026/05/06/flow-maps.html)
-> Article URL: https://sander.ai/2026/05/06/flow-maps.html
-Comments URL: https://news.ycombinator.com/item?id=48040002
-Points: 107
-# Comments: 18
-- `Hacker News` [Google Cloud fraud defense, the next evolution of reCAPTCHA](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/)
-> Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/
-Comments URL: https://news.ycombinator.com/item?id=4803...
+Points: 185
+# Comments: 90
+- `TechCrunch` [Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese](https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/)
+> Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.
+- `TechCrunch` [Five architects of the AI economy explain where the wheels are coming off](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/)
+> Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip s...
 - `TechCrunch` [A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom](https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/)
 > The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.
 - `TechCrunch` [Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/)
@@ -162,10 +161,8 @@ Comments URL: https://news.ycombinator.com/item?id=4803...
 > Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura bef...
 - `TechCrunch` [How Elon Musk left OpenAI, according to Greg Brockman](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/)
 > Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.
-- `TechCrunch` [DOJ says ransomware gang tapped into Russian government databases](https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/)
-> U.S. prosecutors said a ransomware gang fueled Russian government corruption, and allowed the gang's leaders to avoid paying taxes and dodge the country's military draft.
-- `TechCrunch` [AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys](https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/)
-> Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers t...
+- `The Verge` [Inside Dreame’s wild launch event — packed with products no one can buy](https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026)
+> Hundreds of influencers, media folks, and a few C-list celebs (sorry, Woz) filled the cavernous halls of the San Francisco Palace of Fine Arts last week. They were assembled for Dreame's launch eve...
 - `The Verge` [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)
 > I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who tes...
 - `The Verge` [Nintendo announces a new Star Fox for the Switch 2](https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2)
@@ -184,8 +181,6 @@ Comments URL: https://news.ycombinator.com/item?id=4803...
 > Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. This Sunday, Mother's Day, is an opportunity to return the favor, so...
 - `The Verge` [Here’s what Microsoft is offering long-serving employees to voluntarily retire](https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details)
 > Microsoft revealed last month that it's planning to offer long-serving employees in the US the ability to voluntarily retire. While the terms of the buyout were supposed to be announced to employee...
-- `The Verge` [Native Instruments Komplete 26 adds weird new synths and experimental piano sounds](https://www.theverge.com/tech/925211/native-instruments-komplete-26-absynth-massive-kontakt)
-> The latest version of Native Instruments' Komplete music production bundle is here with 62 new additions, including the wonderfully weird Absynth 6. Komplete 26 comes in several flavors, starting w...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
