@@ -4,12 +4,38 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-07
+# 📰 每日科技日报 — 2026-05-08
 
-> 自动收集于 2026-05-07 13:23 | 共 50 条
+> 自动收集于 2026-05-08 03:36 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发](https://36kr.com/p/3800022823951363?f=rss)
+> 文 | 张冰冰
+  编辑 | 阿至
+  36氪获悉，北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，资金将用于产品研发、市场拓展及产线落地。
+  「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难...
+- `36氪` [36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构](https://36kr.com/p/3799984046333186?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。
+  AI浪潮下，算力需...
+- `36氪` [Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家](https://36kr.com/p/3799129165863937?f=rss)
+> 作者｜黄楠 周鑫雨
+  编辑｜袁斯来 杨轩
+  硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。
+  有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。
+  一名接近Plaud人士告诉硬氪，Plaud在2024年的...
+- `36氪` [8点1氪丨段永平再加仓泡泡玛特；多平台已下架“全李酒店”；世界杯决赛门票1张200万美元，FIFA回应](https://36kr.com/p/3799881836633093?f=rss)
+> 今日热点导览
+  30年前捐赠书画部分去向不明？天津美院回应
+  张雪怒斥门店给用户备注磨叽并补偿车主1万
+  茅台集团总经理王莉已回归
+  港交所计划未来数月推出黄金期货
+  马斯克：xAI作为独立公司将解散并入SpaceX
+  TOP3大新闻
+  “很久没有这种兴奋感了”，段永平再加仓泡泡玛特
+  5月7日，知名投资人段永平在社交平台发文称，把中国神华全部换成了泡泡玛特。值得注意的是，段...
 - `36氪` [在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？](https://36kr.com/p/3786528811572481?f=rss)
 > 文｜王毓婵 周鑫雨
   编辑｜杨轩
@@ -45,142 +71,118 @@
   AI办公正在进入下一个阶段。
   随着AI进入办公场景，写文档、做设计、生成PPT等原本耗时耗力的工作，开始被AI快速接手。但到目前为止，大多数AI办公产品仍停留在“生成内容”和“提升效率”的阶段。相比一个只会辅助完成任务的工具，市场更需要的，是一个能够直接理解需求、输出完整方案、交付结果的AI助手。
   近日，像素绽放P...
-- `36氪` [8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元](https://36kr.com/p/3798462137637892?f=rss)
-> 今日热点导览
-  小米汽车：新一代SU7上市仅48天，锁单已超过80000台
-  胖东来19名管理人员被降级，1名管理人员被免职
-  追觅俞浩：建议年轻人别炒股
-  五一档票房7.58亿元
-  三星电子借AI热潮市值突破1万亿美元
-  TOP3大新闻
-  三星宣布停止在中国大陆市场销售所有家电产品
-  5月6日，三星电子在官网发布公告称，为应对急剧变化的市场环境，经慎重研究，三星电子决定在中...
-- `36氪` [氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债](https://36kr.com/p/3797482256325888?f=rss)
-> 大公司：
-  SpaceX提议投入550亿美元在得州启动Terafab项目
-  埃隆·马斯克旗下的SpaceX公司提议斥资550亿美元，在得克萨斯州启动一座名为Terafab的新半导体生产设施的建设。根据格兰姆斯县官网发布的一份公告，如果该项目的后续阶段得以完成，预计总投资额可能升至1190亿美元。（财联社）
-  三星电子借AI热潮市值突破1万亿美元
-  在人工智能相关股票需求蓬勃发展的推动...
-- `36氪` [从二游到种田：米哈游《星布谷地》能否走出舒适圈](https://36kr.com/p/3797166332206338?f=rss)
-> 文丨小葵
-  编辑丨果脯
-  2026年，生活模拟赛道正在经历一场“神仙打架”。腾讯的《粒粒的小人国》用微观世界把玩家缩回书桌，网易的《星绘友晴天》在外太空搞起了开荒叙事，而在海外，任天堂也上线了新作《朋友收集：梦想生活》。
-  4月21日，米哈游的《星布谷地》开启了二测。对他们来说，首次挑战社交大DAU品类的生活模拟游戏，无疑是一次不寻常且有压力的跨界。
-  自《原神》大火后，米哈游就围绕...
-- `36氪` [科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！](https://36kr.com/p/3797276726893569?f=rss)
-> 2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入一加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 86...
+- `少数派` [派早报：Google 发布 Fitbit Air 等](https://sspai.com/post/109489)
+> 高通发布骁龙 6 Gen 5 / 4 Gen 5 移动平台，Google 宣布停运 Project Mariner 等。查看全文
 - `少数派` [新玩意 240｜少数派的编辑们最近买了啥？](https://sspai.com/post/109474)
 > 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@西鸽：盖世小鸡G7Pro天 ...查看全文
 - `少数派` [一日一技｜为什么你应该关闭 iOS 的键盘声音](https://sspai.com/post/109460)
 > 安静的 iPhone 才是最好的 iPhone？查看全文
 - `少数派` [甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
 > 甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。查看全文
-- `少数派` [派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
-> Apple 同意和解 Siri 延期的集体诉讼、Valve 开源 Steam Controller 的外壳 CAD 文件等。查看全文
 - `少数派` [返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
 > 假期总是结束得猝不及防，打工人心里的苦只有打工人自己知道。然而远有《大都会》《摩登时代》这样的影史经典，近有《年会不能停！》这样的后起之秀，总有些以打工人为主角的影视作品，讲述着普通打工人的命运，为打 ...查看全文
 - `少数派` [为了让「上厕所」更健康，我做了一个小工具](https://sspai.com/post/109296)
 > 朋友们，浴室真的是一个灵感迸发的地方。在某天洗澡前的如厕时间，我突然想到，现在有许多人在上厕所的时候刷手机，导致如厕时间变长，进而容易增加痔疮等疾病的风险。那么，有没有可能做一个工具，像AppleWa ...查看全文
 - `少数派` [我写了一个 skill，用 AI 给 AI「除味儿」](https://sspai.com/post/109288)
 > 强硬规则约束下的公式化表达，即便去除了现在的 AI 味，会不会产生新的 AI 味呢？查看全文
-- `少数派` [派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等](https://sspai.com/post/109410)
-> M4 Mac mini 256GB 版本下架，豆包确认将推出付费版本等。查看全文
 - `少数派` [听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑](https://sspai.com/post/109014)
 > 来听歌。查看全文
 - `少数派` [iPad 用户首次体验 Android 平板：vivo Pad6 Pro](https://sspai.com/post/109277)
 > 作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？查看全文
+- `少数派` [假期出门太折磨？我的 23 条经验帮你规划惬意旅行](https://sspai.com/post/100006)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems)
-> Article URL: https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems
-Comments URL: https://news.ycombinator.com/item?id=48048339
-Points: 0
-# Comments: 0
-- `Hacker News` [Grand Theft Oil Futures: Insider traders keep making a killing at our expense](https://paulkrugman.substack.com/p/grand-theft-oil-futures)
-> Article URL: https://paulkrugman.substack.com/p/grand-theft-oil-futures
-Comments URL: https://news.ycombinator.com/item?id=48047981
-Points: 95
-# Comments: 58
-- `Hacker News` [LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)
-> Article URL: https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338
-Comments URL: https://news.ycombinator.com/item?id=48047970
-Points: ...
-- `Hacker News` [Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)](https://ahk.cardor.dev)
-> Article URL: https://ahk.cardor.dev
-Comments URL: https://news.ycombinator.com/item?id=48047826
-Points: 34
-# Comments: 5
-- `Hacker News` [Making LLM Training Faster with Unsloth and NVIDIA](https://unsloth.ai/blog/nvidia-collab)
-> Article URL: https://unsloth.ai/blog/nvidia-collab
-Comments URL: https://news.ycombinator.com/item?id=48046397
-Points: 78
+- `Hacker News` [Komai: a fine Matrix chat app you can get to love](https://etke.cc/blog/introducing-komai)
+> Article URL: https://etke.cc/blog/introducing-komai
+Comments URL: https://news.ycombinator.com/item?id=48056804
+Points: 28
 # Comments: 10
-- `Hacker News` [Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs](https://github.com/darkrishabh/agent-skills-eval)
-> Article URL: https://github.com/darkrishabh/agent-skills-eval
-Comments URL: https://news.ycombinator.com/item?id=48046023
-Points: 37
-# Comments: 15
-- `Hacker News` [Show HN: Trust – Coding Rust like it's 1989](https://github.com/wojtczyk/trust)
-> Article URL: https://github.com/wojtczyk/trust
-Comments URL: https://news.ycombinator.com/item?id=48045939
-Points: 57
-# Comments: 17
-- `Hacker News` [ProgramBench: Can Language Models Rebuild Programs from Scratch?](https://arxiv.org/abs/2605.03546)
-> Article URL: https://arxiv.org/abs/2605.03546
-Comments URL: https://news.ycombinator.com/item?id=48045174
-Points: 88
-# Comments: 46
-- `Hacker News` [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
-> Article URL: https://aniket.foo/posts/20260505-netboot/
-Comments URL: https://news.ycombinator.com/item?id=48045012
-Points: 125
-# Comments: 69
-- `Hacker News` [Permacomputing Principles](https://permacomputing.net/principles/)
-> Article URL: https://permacomputing.net/principles/
-Comments URL: https://news.ycombinator.com/item?id=48044638
-Points: 185
-# Comments: 90
-- `TechCrunch` [Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese](https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/)
-> Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.
-- `TechCrunch` [Five architects of the AI economy explain where the wheels are coming off](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/)
-> Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip s...
-- `TechCrunch` [A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom](https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/)
-> The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.
-- `TechCrunch` [Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.](https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/)
-> Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.
-- `TechCrunch` [Snap says its $400M deal with Perplexity ‘amicably ended’](https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/)
-> The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.
-- `TechCrunch` [Is xAI a neocloud now?](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/)
-> xAI's real business may be more about building data centers than training AI models.
-- `TechCrunch` [Insurance startup Corgi hits $1.3B valuation 4 months after its Series A](https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/)
-> Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.
-- `TechCrunch` [Microsoft’s AI data center push is colliding with its clean power goals](https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/)
-> The push for new data centers at Microsoft is putting its key clean power goals at risk.
-- `TechCrunch` [Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says](https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/)
-> Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura bef...
-- `TechCrunch` [How Elon Musk left OpenAI, according to Greg Brockman](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/)
-> Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.
-- `The Verge` [Inside Dreame’s wild launch event — packed with products no one can buy](https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026)
-> Hundreds of influencers, media folks, and a few C-list celebs (sorry, Woz) filled the cavernous halls of the San Francisco Palace of Fine Arts last week. They were assembled for Dreame's launch eve...
-- `The Verge` [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)
-> I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who tes...
-- `The Verge` [Nintendo announces a new Star Fox for the Switch 2](https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2)
-> It turns out Fox McCloud's appearance in the Super Mario Galaxy Movie was a tease of things to come: Nintendo just surprise announced the first new Star Fox game in a decade. The game is called, si...
-- `The Verge` [Google shuts down Project Mariner](https://www.theverge.com/tech/925559/google-project-mariner-shut-down)
-> Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing pag...
-- `The Verge` [How David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)
-> Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? Y...
-- `The Verge` [The latest Tile Pro is down to $25 — its best price of the year](https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale)
-> If you’re struggling to find a Mother’s Day gift under $30, location trackers are a good investment, helping mom keep tabs on keys, bags, luggage, and other valuables. The latest Tile Pro is one of...
-- `The Verge` [What we’re hearing about the new homepage](https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage)
-> We’ve been reading your feedback on the new homepage. All of it. The kind and encouraging comments, the brutal ones, the “actually this rules,” the “please undo this immediately,” the bug reports, ...
-- `The Verge` [Mira Murati tells the court that she couldn’t trust Sam Altman’s words](https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati)
-> Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altm...
-- `The Verge` [The 44 best last-minute Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
-> Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. This Sunday, Mother's Day, is an opportunity to return the favor, so...
-- `The Verge` [Here’s what Microsoft is offering long-serving employees to voluntarily retire](https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details)
-> Microsoft revealed last month that it's planning to offer long-serving employees in the US the ability to voluntarily retire. While the terms of the buyout were supposed to be announced to employee...
+- `Hacker News` [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
+> Article URL: https://github.com/robertdfrench/ifuncd-up
+Comments URL: https://news.ycombinator.com/item?id=48056749
+Points: 30
+# Comments: 10
+- `Hacker News` [Gambling ads on social media reach more than twice as many men as women: study](https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women)
+> Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women
+Comments URL: https://news.ycombinator.com/item?id=48056359
+Points: 20
+# Com...
+- `Hacker News` [Researchers discover advanced language processing in the unconscious human brain](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
+> Article URL: https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain
+Comments URL: https://news.ycombinator.com/item?id=48056268
+Points: 62
+# Comme...
+- `Hacker News` [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
+> Article URL: https://xeiaso.net/blog/2026/abstain-from-install/
+Comments URL: https://news.ycombinator.com/item?id=48056227
+Points: 215
+# Comments: 96
+- `Hacker News` [Nonprofit hospitals spend billions on consultants with no clear effect](https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants)
+> Article URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants
+Comments URL: https://news.ycombinator.com/ite...
+- `Hacker News` [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+> https://thetech.com/2026/05/07/canvas-breach-26https://techcrunch.com/2026/05/07/hackers-deface-school-logi...
+
+Comments URL: https://news.ycombinator.com/item?id=48055913
+Points: 332
+# Comments: 235
+- `Hacker News` [Building for the Future](https://blog.cloudflare.com/building-for-the-future/)
+> Article URL: https://blog.cloudflare.com/building-for-the-future/
+Comments URL: https://news.ycombinator.com/item?id=48054423
+Points: 295
+# Comments: 172
+- `Hacker News` [Two Home Affairs officials suspended after AI 'hallucinations' found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)
+> Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/
+Comments URL: https://news.ycombinator.com/item?id=48053842
+Points: 61
+# Comments: 16
+- `Hacker News` [Creating for a niche](https://www.davesnider.com/posts/working-in-a-niche)
+> Article URL: https://www.davesnider.com/posts/working-in-a-niche
+Comments URL: https://news.ycombinator.com/item?id=48053770
+Points: 35
+# Comments: 6
+- `TechCrunch` [Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B](https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/)
+> The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.
+- `TechCrunch` [OpenAI launches new voice intelligence features in its API](https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/)
+> The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.
+- `TechCrunch` [Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%](https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/)
+> The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.
+- `TechCrunch` [Disney looking to make a unified ‘super app,’ report says](https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/)
+> Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.
+- `TechCrunch` [Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm](https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/)
+> AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.
+- `TechCrunch` [Hackers deface school login pages after claiming another Instructure hack](https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/)
+> The cybercrime group ShinyHunters claimed to have hacked Instructure again, defacing the login pages of several Instructure customer schools with an extortion message.
+- `TechCrunch` [Gusto hits $1B revenue, a figure that brings it closer to public markets](https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/)
+> Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.
+- `TechCrunch` [OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm](https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/)
+> The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.
+- `TechCrunch` [Tesla Model Y is first car to meet new US driver assistance safety benchmark](https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/)
+> The new benchmark rating applies to 2026 Tesla Model Y vehicles assembled on or after November 12, 2025.
+- `TechCrunch` [Perplexity’s Personal Computer is now available to everyone on Mac](https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/)
+> Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.
+- `The Verge` [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+> The Instructure-owned learning management platform, Canvas, is down after recently confirming a massive data breach that impacted student names, email addresses, ID numbers, and messages. Students ...
+- `The Verge` [Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster](https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster)
+> The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman ...
+- `The Verge` [Apple’s AirPods with cameras for AI are apparently close to production](https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production)
+> Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are "actively using" prototypes...
+- `The Verge` [SpaceX has a $55 billion plan to build AI chips in Texas](https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips)
+> Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its "Terafab" ...
+- `The Verge` [Peak Design is taking up to 50 percent off some of our favorite camera bags](https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal)
+> To celebrate founder Peter Dering’s birthday, Peak Design is taking up to 50 percent off a host of bags and accessories through May 8. The sale includes steep discounts on many of the company’s mos...
+- `The Verge` [Valve is fighting Steam Controller scalpers with a new reservations system](https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers)
+> Valve's new Steam Controller sold out quickly when it went on sale on Monday, and the company is going to open a "reservations queue" on Friday at 1PM ET for anyone who missed that initial run. Whe...
+- `The Verge` [ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns](https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification)
+> OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers desig...
+- `The Verge` [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+> Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of aband...
+- `The Verge` [Did Microsoft just tease a new Xbox UI?](https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud)
+> Microsoft showed off a "consistent" Xbox UI across handhelds, consoles, and cloud gaming during its Xbox keynote at the Game Developers Conference in March. At the time it was difficult to see if t...
+- `The Verge` [A hacker ran me over with a robot lawn mower](https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt)
+> I'm lying in the dirt. It's coming for me. Then, with a lurch, it's climbing up my chest. If Andreas Makris doesn't stop the 200-pound robot lawn mower in time, it could drag its blades across my b...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
