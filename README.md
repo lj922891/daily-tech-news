@@ -4,12 +4,39 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-08
+# 📰 每日科技日报 — 2026-05-09
 
-> 自动收集于 2026-05-08 13:03 | 共 50 条
+> 自动收集于 2026-05-09 03:37 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [AI开始接管年轻人的「精神自留地」](https://36kr.com/p/3801461350702855?f=rss)
+> 撰文｜锅包柚
+  封面来源｜Unsplash（AI辅助扩图）
+  五一假期已经结束，但打工人的“节后综合症”并未消退。
+  面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。
+  屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛...
+- `36氪` [36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一](https://36kr.com/p/3801398177324550?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。
+  北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。
+  电气系统互联是航天器...
+- `36氪` [获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发](https://36kr.com/p/3797202414820359?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核心技术研发、新品矩阵打造和产品体验的迭代优化，以及生产体系与供应链能力建设。此前，公司已获得李泽湘教授旗下...
+- `36氪` [9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉](https://36kr.com/p/3801348046151428?f=rss)
+> 整理｜Kris 
+  今日热点导览
+  香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局
+  油价上调，加满一箱92号汽油将多花12.5元
+  钱江摩托否认“围剿张雪机车”
+  30条中日航线4月取消全部航班
+  SpaceX冲刺上市，资本开支飙升数百亿
+  TOP3大新闻
+  DeepSeek拟募资最高500亿元
+  据报道，DeepSeek拟募资最高500亿元，这将成为中国人工...
 - `36氪` [「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发](https://36kr.com/p/3800495686163721?f=rss)
 > 文 | 阿至
   36氪获悉，低空出行产品研制商「维新宇航」已完成数千万元天使+轮融资，本轮融资由策源资本领投、金舵投资跟投，资金将主要用于加速公司首款主力机型 Vector 5的研发迭代、首飞测试与适航取证进程。
@@ -41,31 +68,6 @@
   硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。
   有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。
   一名接近Plaud人士告诉硬氪，Plaud在2024年的...
-- `36氪` [8点1氪丨段永平再加仓泡泡玛特；多平台已下架“全李酒店”；世界杯决赛门票1张200万美元，FIFA回应](https://36kr.com/p/3799881836633093?f=rss)
-> 今日热点导览
-  30年前捐赠书画部分去向不明？天津美院回应
-  张雪怒斥门店给用户备注磨叽并补偿车主1万
-  茅台集团总经理王莉已回归
-  港交所计划未来数月推出黄金期货
-  马斯克：xAI作为独立公司将解散并入SpaceX
-  TOP3大新闻
-  “很久没有这种兴奋感了”，段永平再加仓泡泡玛特
-  5月7日，知名投资人段永平在社交平台发文称，把中国神华全部换成了泡泡玛特。值得注意的是，段...
-- `36氪` [在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？](https://36kr.com/p/3786528811572481?f=rss)
-> 文｜王毓婵 周鑫雨
-  编辑｜杨轩
-  “看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。 
-  中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHo...
-- `36氪` [氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元](https://36kr.com/p/3799089350712324?f=rss)
-> 大公司：
-  腾讯等入股机器人灵巧手研发商临界点
-  36氪获悉，天眼查App显示，近日，上海临界点创新智能科技有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约554万人民币增至约597万人民币。 该公司成立于今年1月，法定代表人为王闯，经营范围包括人工智能硬件销售、智能机器人销售、智能机器人的研发等...
-- `36氪` [最前线|将彩色打印与激光切割合二为一，xTool发布新品](https://36kr.com/p/3798845086882820?f=rss)
-> 文｜张子怡
-  编辑｜袁斯来
-  36氪获悉，个人创意工具品牌xTool于今日正式发布其新款消费级激光创作工具——xTool M2彩色智能激光雕刻机。
-  在目前的消费级激光雕刻市场中，用户面临的一个核心痛点在于“机械加工与色彩表现”的脱节：传统的激光雕刻机擅长物理切割与灼烧成痕，但若要制作彩色作品，用户往往需要经历繁琐的手动涂色、转印或多台设备切换对位，过程既复杂又难以保证精度。
-  xT...
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109525)
 > 📅本周新预告《奥德赛》正式预告5月5日，克里斯托弗·诺兰导演新作《奥德赛》发布了正式预告，将于7月17日在北美上映。马特·达蒙、汤姆·霍兰德、安妮·海瑟薇、赞达亚、露皮塔·尼永奥、罗伯特·帕丁森、查理 ...查看全文
 - `少数派` [在 WWDC26 之前，与四位中国获奖者聊聊他们的 Swift 学生挑战赛](https://sspai.com/post/109521)
@@ -89,97 +91,93 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Poland is now among the 20 largest economies. How it happened](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa)
-> Article URL: https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa
-Comments URL: https://news.ycombinator.com/item?id=48062117
-Points: 75
-# Comments: 40
-- `Hacker News` [Hackers breach JDownloader website to serve malware-laced downloads](https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/)
-> Article URL: https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/
-Comments URL: https://news.ycombinator.com/item?id=48062035
-Points: 18
-# ...
-- `Hacker News` [An Introduction to Meshtastic](https://meshtastic.org/docs/introduction/)
-> Article URL: https://meshtastic.org/docs/introduction/
-Comments URL: https://news.ycombinator.com/item?id=48061566
-Points: 19
-# Comments: 8
-- `Hacker News` [GeoJSON](https://geojson.org/)
-> Article URL: https://geojson.org/
-Comments URL: https://news.ycombinator.com/item?id=48060918
+- `Hacker News` [Compound drivers of Antarctic sea ice loss and Southern Ocean destratification](https://www.science.org/doi/10.1126/sciadv.aeb0166)
+> Article URL: https://www.science.org/doi/10.1126/sciadv.aeb0166
+Comments URL: https://news.ycombinator.com/item?id=48069313
+Points: 26
+# Comments: 0
+- `Hacker News` [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)
+> Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging
+Comments URL: https://news.ycombinator.com/item?id=48069192
+Points: 177
+# Comments: 125
+- `Hacker News` [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)
+> Article URL: https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/
+Comments URL: https://news.ycombinator.com/item?id=48068947
+Points: 42
+# Comments: 12
+- `Hacker News` [Mux (YC W16) Is Hiring](https://www.mux.com/jobs)
+> Article URL: https://www.mux.com/jobs
+Comments URL: https://news.ycombinator.com/item?id=48068732
+Points: 0
+# Comments: 0
+- `Hacker News` [When is your birthday? The math behind hash collisions](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
+> Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html
+Comments URL: https://news.ycombinator.com/item?id=48068254
+Points: 28
+# Comments: 4
+- `Hacker News` [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
+> Article URL: https://ze3tar.github.io/post-zcrx.html
+Comments URL: https://news.ycombinator.com/item?id=48067734
+Points: 148
+# Comments: 89
+- `Hacker News` [My first in-prod corrupted hard drive problem](https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/)
+> Article URL: https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/
+Comments URL: https://news.ycombinator.com/item?id=48067686
 Points: 38
-# Comments: 14
-- `Hacker News` [ClojureScript Gets Async/Await](https://clojurescript.org/news/2026-05-07-release)
-> Article URL: https://clojurescript.org/news/2026-05-07-release
-Comments URL: https://news.ycombinator.com/item?id=48059662
-Points: 125
-# Comments: 38
-- `Hacker News` [Nintendo announces price increases for Nintendo Switch 2](https://www.nintendo.co.jp/corporate/release/en/2026/260508.html)
-> Article URL: https://www.nintendo.co.jp/corporate/release/en/2026/260508.html
-Comments URL: https://news.ycombinator.com/item?id=48059606
-Points: 113
-# Comments: 88
-- `Hacker News` [Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE](https://github.com/graemeg/blaise)
-> Article URL: https://github.com/graemeg/blaise
-Comments URL: https://news.ycombinator.com/item?id=48058644
-Points: 63
-# Comments: 23
-- `Hacker News` [GPT-5.5 Price Increase: What It Costs](https://openrouter.ai/announcements/gpt55-cost-analysis)
-> Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis
-Comments URL: https://news.ycombinator.com/item?id=48057209
-Points: 90
-# Comments: 21
-- `Hacker News` [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up)
-> Article URL: https://github.com/robertdfrench/ifuncd-up
-Comments URL: https://news.ycombinator.com/item?id=48056749
-Points: 100
-# Comments: 46
-- `Hacker News` [Plasticity and language in the anaesthetized human hippocampus](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain)
-> https://www.nature.com/articles/s41586-026-10448-0
-
-Comments URL: https://news.ycombinator.com/item?id=48056268
-Points: 123
-# Comments: 45
-- `TechCrunch` [The biggest U.S. power grid is under strain from AI — and no one is happy](https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/)
-> PJM Interconnection — which oversees the grid for some of the densest data center developments on Earth — wants to overhaul itself. Not everyone thinks it's up to the task.
-- `TechCrunch` [Airbnb says AI now writes 60% of its new code](https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/)
-> Airbnb also said its customer support AI bot now handles 40% of issues without escalating to a human agent.
-- `TechCrunch` [Why you can never get your doctor to call you back](https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/)
-> Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the f...
-- `TechCrunch` [Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B](https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/)
-> The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.
-- `TechCrunch` [OpenAI launches new voice intelligence features in its API](https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/)
-> The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.
-- `TechCrunch` [Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%](https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/)
-> The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.
-- `TechCrunch` [Disney looking to make a unified ‘super app,’ report says](https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/)
-> Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.
-- `TechCrunch` [Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm](https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/)
-> AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.
-- `TechCrunch` [Hackers deface school login pages after claiming another Instructure hack](https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/)
-> The cybercrime group ShinyHunters claimed to have hacked Instructure again, defacing the login pages of several Instructure customer schools with an extortion message.
-- `TechCrunch` [Gusto hits $1B revenue, a figure that brings it closer to public markets](https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/)
-> Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.
-- `The Verge` [Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)
-> Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, ...
-- `The Verge` [Apple’s education discount now requires proof that you’re a student](https://www.theverge.com/tech/926675/apple-education-discount-unidays-verification-us)
-> Apple now requires proof of eligibility from US customers who purchase products online at discounted education rates, which also apply to the Apple Watch for the first time. According to a new pop-...
-- `The Verge` [Sony’s PS5 sales plummet amid price rises and a memory crisis](https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes)
-> Sony sold just 1.5 million PS5 consoles in its most recent fourth fiscal quarter, down 46 percent year over year. The slump in PS5 sales comes after Sony raised the price of its PS5 consoles twice ...
-- `The Verge` [Nintendo is raising Switch 2 prices](https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results)
-> Nintendo is raising the price of its Switch 2 console globally, "in light of changes in market conditions," and is now forecasting a drop in sales over the next year. Starting September 1st, the Sw...
-- `The Verge` [Canvas is online again after ShinyHunters threaten to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
-> The Instructure-owned learning management platform, Canvas, is now online again after it went down following a massive data breach that impacted student names, email addresses, ID numbers, and mess...
-- `The Verge` [Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster](https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster)
-> The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman ...
-- `The Verge` [Apple’s AirPods with cameras for AI are apparently close to production](https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production)
-> Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are "actively using" prototypes...
-- `The Verge` [SpaceX has a $55 billion plan to build AI chips in Texas](https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips)
-> Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its "Teraf...
-- `The Verge` [Peak Design is taking up to 50 percent off some of our favorite camera bags](https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal)
-> To celebrate founder Peter Dering’s birthday, Peak Design is taking up to 50 percent off a host of bags and accessories through May 8. The sale includes steep discounts on many of the company’s mos...
-- `The Verge` [Valve is fighting Steam Controller scalpers with a new reservations system](https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers)
-> Valve's new Steam Controller sold out quickly when it went on sale on Monday, and the company is going to open a "reservations queue" on Friday at 1PM ET for anyone who missed that initial run. Whe...
+# Comments: 27
+- `Hacker News` [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
+> Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinato...
+- `Hacker News` [Teaching Claude Why](https://www.anthropic.com/research/teaching-claude-why)
+> Article URL: https://www.anthropic.com/research/teaching-claude-why
+Comments URL: https://news.ycombinator.com/item?id=48066592
+Points: 106
+# Comments: 37
+- `Hacker News` [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
+> Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures
+Comments URL: https://news.ycombinator.com/item?id=48066524
+Points: 272
+# Comments: 116
+- `TechCrunch` [Laid-off Oracle workers tried to negotiate better severance. Oracle said no.](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)
+> Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.
+- `TechCrunch` [San Francisco’s housing market has lost its mind](https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/)
+> The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and th...
+- `TechCrunch` [Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app](https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/)
+> The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.
+- `TechCrunch` [Intel’s comeback story is even wilder than it seems](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/)
+> Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.
+- `TechCrunch` [Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/)
+> Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.
+- `TechCrunch` [Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul](https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/)
+> More than 500 people will be affected by the closures. “We must refocus on our core business,” Porsche CEO and executive chair Michael Leiters said in a statement. "This is the indispensable founda...
+- `TechCrunch` [Mother Ventures is looking at moms as the ‘economic engine’](https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/)
+> The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.
+- `TechCrunch` [Uber partner Avride is under investigation for self-driving crashes](https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/)
+> The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury.
+- `TechCrunch` [Poland says hackers breached water treatment plants, and the US is facing the same threat](https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/)
+> A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.
+- `TechCrunch` [US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former empl...](https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/)
+> Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government.
+- `The Verge` [Asus chases Elgato with its own secondary touchscreen display](https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display)
+> Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main mon...
+- `The Verge` [Amazon is adding a vertical video feed to Prime Video](https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed)
+> Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new "Clips" feed will offer a stream of short-form videos from shows and movies, ...
+- `The Verge` [Here is Yarbo’s promise to fix the robot mower that ran me over](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise)
+> Yesterday, I told you how a hacker ran me over with a robot lawn mower. We explained how thousands of these bladed Chinese robots, made by Yarbo, could be hijacked with ease - exposing people's GPS...
+- `The Verge` [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)
+> Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across th...
+- `The Verge` [DOGE used ChatGPT in a way that was both dumb and illegal, judge rules](https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled)
+> The Department of Government Efficiency's cancellation of over $100 million in grants was unconstitutional, according to a ruling on Thursday. In the 143-page decision, US District Judge Colleen Mc...
+- `The Verge` [ABC and Disney accuse Trump admin of violating First Amendment rights](https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view)
+> ABC is accusing the Federal Communications Commission (FCC) of violating its First Amendment rights by making "major shifts in policy and practice" that the network claims will chill free speech. T...
+- `The Verge` [Someone out-Trumped the Trump phone](https://www.theverge.com/gadgets/926968/trump-mobile-t1-phone-dreame-aurora-phones)
+> Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, Trump Mobile has been trumped. It's bee...
+- `The Verge` [Apple reportedly has a deal to use Intel-made chips again](https://www.theverge.com/tech/926988/apple-intel-chips)
+> Apple and Intel reached a "preliminary agreement" for Intel to make chips for Apple hardware, The Wall Street Journal reported Friday. Apple had famously moved on from Intel-powered computers with ...
+- `The Verge` [The Steam Controller’s reservation queue is open](https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy)
+> After quickly selling out of the Steam Controller on May 4th, Valve has launched a reservation system to ensure that you can get one without too much hassle. You may not get one as quickly as you'd...
+- `The Verge` [The 46 best last-minute Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
+> Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. This Sunday, Mother's Day, is an opportunity to return the favor, so...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
