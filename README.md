@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-05-09
 
-> 自动收集于 2026-05-09 03:37 | 共 50 条
+> 自动收集于 2026-05-09 12:46 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -44,8 +44,8 @@
 - `36氪` [卡位黄金价格带，问界M6向下争夺年轻群体｜最前线](https://36kr.com/p/3800183520091398?f=rss)
 > 2026年的中国新能源SUV市场正经历着前所未有的内卷。
   问界依托华为技术体系，推出了定位更亲民的全新车型 M6， 瞄准主流家用消费群体。放在问界品牌整体销量连续数月下滑、赛力斯盈利能力承压的背景下，M6的到来既是“救兵”，更是一场不容有失的“大考”。
-  卡位黄金价格带，向下争夺年轻群体
-  从产品命名逻辑看，M6位于M5与M7之间，车身尺寸为4960×1985×1736mm，轴距29...
+  卡位黄金价格��，向下争夺年轻群体
+  从产品命名逻辑看，M6位于M5与M7之间，车身尺寸为4960×1985×1736mm，轴距2...
 - `36氪` [小红书四年AI 路：FOMO、犹豫，到突然加速](https://36kr.com/p/3799028783439111?f=rss)
 > 作者 | 肖思佳
   编辑 | 乔芊 杨轩
@@ -68,6 +68,10 @@
   硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。
   有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。
   一名接近Plaud人士告诉硬氪，Plaud在2024年的...
+- `少数派` [具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面](https://sspai.com/prime/story/inside-release-notes-260509)
+> Brave推出官方「纯净版」@PlatyHsu:Brave在我心目中一直是个带有「污点」的浏览器。诚然，它在隐私保护功能上颇有建树，能在一个垄断市场上找到立足之地实属不易；但不知为何，其在营销方式和盈 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感](https://sspai.com/post/98902)
+> 母亲节将至，今年的你打算为妈妈送些什么礼物？是美容养生的健康好物，还是个性化与实用兼具的箱包饰品，或是新颖有趣的电子设备，充满仪式感与浪漫的一束鲜花、一场旅行……母亲节礼物从不是一道「正确选项」的填空 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109525)
 > 📅本周新预告《奥德赛》正式预告5月5日，克里斯托弗·诺兰导演新作《奥德赛》发布了正式预告，将于7月17日在北美上映。马特·达蒙、汤姆·霍兰德、安妮·海瑟薇、赞达亚、露皮塔·尼永奥、罗伯特·帕丁森、查理 ...查看全文
 - `少数派` [在 WWDC26 之前，与四位中国获奖者聊聊他们的 Swift 学生挑战赛](https://sspai.com/post/109521)
@@ -84,60 +88,57 @@
 > 甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。查看全文
 - `少数派` [返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
 > 假期总是结束得猝不及防，打工人心里的苦只有打工人自己知道。然而远有《大都会》《摩登时代》这样的影史经典，近有《年会不能停！》这样的后起之秀，总有些以打工人为主角的影视作品，讲述着普通打工人的命运，为打 ...查看全文
-- `少数派` [为了让「上厕所」更健康，我做了一个小工具](https://sspai.com/post/109296)
-> 朋友们，浴室真的是一个灵感迸发的地方。在某天洗澡前的如厕时间，我突然想到，现在有许多人在上厕所的时候刷手机，导致如厕时间变长，进而容易增加痔疮等疾病的风险。那么，有没有可能做一个工具，像AppleWa ...查看全文
-- `少数派` [我写了一个 skill，用 AI 给 AI「除味儿」](https://sspai.com/post/109288)
-> 强硬规则约束下的公式化表达，即便去除了现在的 AI 味，会不会产生新的 AI 味呢？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Compound drivers of Antarctic sea ice loss and Southern Ocean destratification](https://www.science.org/doi/10.1126/sciadv.aeb0166)
-> Article URL: https://www.science.org/doi/10.1126/sciadv.aeb0166
-Comments URL: https://news.ycombinator.com/item?id=48069313
-Points: 26
+- `Hacker News` [Internet Archive Switzerland](https://internetarchive.ch/)
+> Article URL: https://internetarchive.ch/
+Comments URL: https://news.ycombinator.com/item?id=48074265
+Points: 32
+# Comments: 9
+- `Hacker News` [Forking the Web](https://dillo-browser.org/lab/web-fork/)
+> Article URL: https://dillo-browser.org/lab/web-fork/
+Comments URL: https://news.ycombinator.com/item?id=48074087
+Points: 11
+# Comments: 2
+- `Hacker News` [Killswitch: Per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/)
+> Article URL: https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/
+Comments URL: https://news.ycombinator.com/item?id=48073394
+Points: 14
+# Comments: 2
+- `Hacker News` [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)
+> Article URL: https://arxiv.org/abs/2604.15597
+Comments URL: https://news.ycombinator.com/item?id=48073246
+Points: 11
 # Comments: 0
-- `Hacker News` [Meta Shuts Down End-to-End Encryption for Instagram Messaging](https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging)
-> Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging
-Comments URL: https://news.ycombinator.com/item?id=48069192
-Points: 177
-# Comments: 125
-- `Hacker News` [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/)
-> Article URL: https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/
-Comments URL: https://news.ycombinator.com/item?id=48068947
-Points: 42
-# Comments: 12
+- `Hacker News` [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
+> Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...
+
+Comments URL: https://news.ycombinator.com/item?id=48071940
+Points: ...
+- `Hacker News` [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
+> https://twitter.com/wtgowers/status/2052830948685676605https://xcancel.com/wtgowers/status/2052830948685676605
+
+Comments URL: https://news.ycombinator.com/item?id=48071262
+Points: 398
+# Comments: 237
 - `Hacker News` [Mux (YC W16) Is Hiring](https://www.mux.com/jobs)
 > Article URL: https://www.mux.com/jobs
 Comments URL: https://news.ycombinator.com/item?id=48068732
 Points: 0
 # Comments: 0
-- `Hacker News` [When is your birthday? The math behind hash collisions](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
-> Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html
-Comments URL: https://news.ycombinator.com/item?id=48068254
-Points: 28
-# Comments: 4
+- `Hacker News` [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
+> Article URL: https://theoffingmag.com/essay/roadside-attraction/
+Comments URL: https://news.ycombinator.com/item?id=48067764
+Points: 26
+# Comments: 3
 - `Hacker News` [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
 > Article URL: https://ze3tar.github.io/post-zcrx.html
 Comments URL: https://news.ycombinator.com/item?id=48067734
-Points: 148
-# Comments: 89
-- `Hacker News` [My first in-prod corrupted hard drive problem](https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/)
-> Article URL: https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/
-Comments URL: https://news.ycombinator.com/item?id=48067686
-Points: 38
-# Comments: 27
+Points: 194
+# Comments: 111
 - `Hacker News` [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
 > Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinato...
-- `Hacker News` [Teaching Claude Why](https://www.anthropic.com/research/teaching-claude-why)
-> Article URL: https://www.anthropic.com/research/teaching-claude-why
-Comments URL: https://news.ycombinator.com/item?id=48066592
-Points: 106
-# Comments: 37
-- `Hacker News` [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
-> Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures
-Comments URL: https://news.ycombinator.com/item?id=48066524
-Points: 272
-# Comments: 116
 - `TechCrunch` [Laid-off Oracle workers tried to negotiate better severance. Oracle said no.](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)
 > Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.
 - `TechCrunch` [San Francisco’s housing market has lost its mind](https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/)
@@ -158,6 +159,10 @@ Points: 272
 > A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.
 - `TechCrunch` [US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former empl...](https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/)
 > Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government.
+- `The Verge` [The game that makes me actually want to exercise](https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer)
+> Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can r...
+- `The Verge` [Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs](https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led)
+> At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goe...
 - `The Verge` [Asus chases Elgato with its own secondary touchscreen display](https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display)
 > Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main mon...
 - `The Verge` [Amazon is adding a vertical video feed to Prime Video](https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed)
@@ -174,10 +179,6 @@ Points: 272
 > Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, Trump Mobile has been trumped. It's bee...
 - `The Verge` [Apple reportedly has a deal to use Intel-made chips again](https://www.theverge.com/tech/926988/apple-intel-chips)
 > Apple and Intel reached a "preliminary agreement" for Intel to make chips for Apple hardware, The Wall Street Journal reported Friday. Apple had famously moved on from Intel-powered computers with ...
-- `The Verge` [The Steam Controller’s reservation queue is open](https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy)
-> After quickly selling out of the Steam Controller on May 4th, Valve has launched a reservation system to ensure that you can get one without too much hassle. You may not get one as quickly as you'd...
-- `The Verge` [The 46 best last-minute Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)
-> Whether it's managing a busy home or looking out for everyone around them, moms spend a lot of time every day caring for others. This Sunday, Mother's Day, is an opportunity to return the favor, so...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
