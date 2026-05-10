@@ -4,12 +4,20 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-09
+# 📰 每日科技日报 — 2026-05-10
 
-> 自动收集于 2026-05-09 12:46 | 共 50 条
+> 自动收集于 2026-05-10 03:53 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访](https://36kr.com/p/3802822550839047?f=rss)
+> 编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。
+   这些高增长数据背后，似乎隐藏着比较大的商业机会，但机会究竟是什么？中国卖家如何在AI时代抓住？那边电商处于什么阶段？带着...
+- `36氪` [融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发](https://36kr.com/p/3801745491943169?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。
+  长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机...
 - `36氪` [AI开始接管年轻人的「精神自留地」](https://36kr.com/p/3801461350702855?f=rss)
 > 撰文｜锅包柚
   封面来源｜Unsplash（AI辅助扩图）
@@ -18,10 +26,10 @@
   屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛...
 - `36氪` [36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一](https://36kr.com/p/3801398177324550?f=rss)
 > 作者 | 乔钰杰
-  编辑 | 袁斯来
+  编辑 | 袁斯���
   硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。
   北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。
-  电气系统互联是航天器...
+  电气系统互联是航...
 - `36氪` [获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发](https://36kr.com/p/3797202414820359?f=rss)
 > 作者｜黄楠
   编辑｜袁斯来
@@ -44,8 +52,8 @@
 - `36氪` [卡位黄金价格带，问界M6向下争夺年轻群体｜最前线](https://36kr.com/p/3800183520091398?f=rss)
 > 2026年的中国新能源SUV市场正经历着前所未有的内卷。
   问界依托华为技术体系，推出了定位更亲民的全新车型 M6， 瞄准主流家用消费群体。放在问界品牌整体销量连续数月下滑、赛力斯盈利能力承压的背景下，M6的到来既是“救兵”，更是一场不容有失的“大考”。
-  卡位黄金价格��，向下争夺年轻群体
-  从产品命名逻辑看，M6位于M5与M7之间，车身尺寸为4960×1985×1736mm，轴距2...
+  卡位黄金价格带，向下争夺年轻群体
+  从产品命名逻辑看，M6位于M5与M7之间，车身尺寸为4960×1985×1736mm，轴距29...
 - `36氪` [小红书四年AI 路：FOMO、犹豫，到突然加速](https://36kr.com/p/3799028783439111?f=rss)
 > 作者 | 肖思佳
   编辑 | 乔芊 杨轩
@@ -57,17 +65,6 @@
   编辑 | 阿至
   36氪获悉，北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，资金将用于产品研发、市场拓展及产线落地。
   「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难...
-- `36氪` [36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构](https://36kr.com/p/3799984046333186?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投资，本轮继续跟投，并担任长期独家财务顾问。
-  AI浪潮下，算力需...
-- `36氪` [Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家](https://36kr.com/p/3799129165863937?f=rss)
-> 作者｜黄楠 周鑫雨
-  编辑｜袁斯来 杨轩
-  硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。
-  有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。
-  一名接近Plaud人士告诉硬氪，Plaud在2024年的...
 - `少数派` [具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面](https://sspai.com/prime/story/inside-release-notes-260509)
 > Brave推出官方「纯净版」@PlatyHsu:Brave在我心目中一直是个带有「污点」的浏览器。诚然，它在隐私保护功能上颇有建树，能在一个垄断市场上找到立足之地实属不易；但不知为何，其在营销方式和盈 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感](https://sspai.com/post/98902)
@@ -91,54 +88,62 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Internet Archive Switzerland](https://internetarchive.ch/)
-> Article URL: https://internetarchive.ch/
-Comments URL: https://news.ycombinator.com/item?id=48074265
-Points: 32
-# Comments: 9
-- `Hacker News` [Forking the Web](https://dillo-browser.org/lab/web-fork/)
-> Article URL: https://dillo-browser.org/lab/web-fork/
-Comments URL: https://news.ycombinator.com/item?id=48074087
-Points: 11
-# Comments: 2
-- `Hacker News` [Killswitch: Per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/)
-> Article URL: https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/
-Comments URL: https://news.ycombinator.com/item?id=48073394
-Points: 14
-# Comments: 2
-- `Hacker News` [LLMs Corrupt Your Documents When You Delegate](https://arxiv.org/abs/2604.15597)
-> Article URL: https://arxiv.org/abs/2604.15597
-Comments URL: https://news.ycombinator.com/item?id=48073246
-Points: 11
+- `Hacker News` [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky)
+> This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows ...
+- `Hacker News` [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)
+> Article URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html
+Comments URL: https://news.ycombinator.com/item?id=48080221
+Points: 7
 # Comments: 0
-- `Hacker News` [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
-> Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...
-
-Comments URL: https://news.ycombinator.com/item?id=48071940
-Points: ...
-- `Hacker News` [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
-> https://twitter.com/wtgowers/status/2052830948685676605https://xcancel.com/wtgowers/status/2052830948685676605
-
-Comments URL: https://news.ycombinator.com/item?id=48071262
-Points: 398
-# Comments: 237
-- `Hacker News` [Mux (YC W16) Is Hiring](https://www.mux.com/jobs)
-> Article URL: https://www.mux.com/jobs
-Comments URL: https://news.ycombinator.com/item?id=48068732
-Points: 0
-# Comments: 0
-- `Hacker News` [Roadside Attraction](https://theoffingmag.com/essay/roadside-attraction/)
-> Article URL: https://theoffingmag.com/essay/roadside-attraction/
-Comments URL: https://news.ycombinator.com/item?id=48067764
+- `Hacker News` [France moves to break encrypted messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
+> Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging
+Comments URL: https://news.ycombinator.com/item?id=48078811
+Points: 103
+# Comments: 59
+- `Hacker News` [Getting arrested in Japan](https://sundaicity.com/blogs/getting-arrested-in-japan)
+> Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan
+Comments URL: https://news.ycombinator.com/item?id=48078647
+Points: 170
+# Comments: 191
+- `Hacker News` [Show HN: Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
+> Article URL: https://github.com/ThatXliner/rust-but-lisp
+Comments URL: https://news.ycombinator.com/item?id=48078575
+Points: 96
+# Comments: 53
+- `Hacker News` [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
+> Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc
+Comments URL: https://news.ycombinator.com/item?id=48077971
+Points: 104
+# Comments: 60
+- `Hacker News` [I caught the car](https://undecidability.net/senior/)
+> Article URL: https://undecidability.net/senior/
+Comments URL: https://news.ycombinator.com/item?id=48077966
+Points: 41
+# Comments: 53
+- `Hacker News` [Surfel-based global illumination on the web](https://juretriglav.si/surfel-based-global-illumination-on-the-web/)
+> Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/
+Comments URL: https://news.ycombinator.com/item?id=48077395
 Points: 26
-# Comments: 3
-- `Hacker News` [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
-> Article URL: https://ze3tar.github.io/post-zcrx.html
-Comments URL: https://news.ycombinator.com/item?id=48067734
-Points: 194
-# Comments: 111
-- `Hacker News` [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
-> Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinato...
+# Comments: 0
+- `Hacker News` [Meta's embrace of A.I. is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+> Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html
+Comments URL: https://news.ycombinator.com/item?id=48077126
+Points: 329
+# Comments: 308
+- `Hacker News` [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
+> Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that's about 50x faster than JVM and 3x faster th...
+- `TechCrunch` [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
+> Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.
+- `TechCrunch` [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+> The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
+- `TechCrunch` [Fintech startup Parker files for bankruptcy](https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/)
+> Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.
+- `TechCrunch` [GM agrees to pay $12.75M in California driver privacy settlement](https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/)
+> General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.
+- `TechCrunch` [The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally](https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/)
+> In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.
+- `TechCrunch` [Nvidia has already committed $40B to equity AI deals this year](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/)
+> Nvidia continues to be a big investor in the AI ecosystem.
 - `TechCrunch` [Laid-off Oracle workers tried to negotiate better severance. Oracle said no.](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)
 > Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.
 - `TechCrunch` [San Francisco’s housing market has lost its mind](https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/)
@@ -147,18 +152,12 @@ Points: 194
 > The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.
 - `TechCrunch` [Intel’s comeback story is even wilder than it seems](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/)
 > Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.
-- `TechCrunch` [Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/)
-> Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.
-- `TechCrunch` [Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul](https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/)
-> More than 500 people will be affected by the closures. “We must refocus on our core business,” Porsche CEO and executive chair Michael Leiters said in a statement. "This is the indispensable founda...
-- `TechCrunch` [Mother Ventures is looking at moms as the ‘economic engine’](https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/)
-> The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.
-- `TechCrunch` [Uber partner Avride is under investigation for self-driving crashes](https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/)
-> The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury.
-- `TechCrunch` [Poland says hackers breached water treatment plants, and the US is facing the same threat](https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/)
-> A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.
-- `TechCrunch` [US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former empl...](https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/)
-> Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government.
+- `The Verge` [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale)
+> If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robo...
+- `The Verge` [These great digital gifts will arrive just in time for Mother’s Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026)
+> And just like that, Mother’s Day is tomorrow, May 10th, which is too soon for most online purchases to arrive in time. That said, you aren’t alone if you waited too long to pick up a gift this year...
+- `The Verge` [Let it snow](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy)
+> Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles ...
 - `The Verge` [The game that makes me actually want to exercise](https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer)
 > Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can r...
 - `The Verge` [Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs](https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led)
@@ -173,12 +172,6 @@ Points: 194
 > Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across th...
 - `The Verge` [DOGE used ChatGPT in a way that was both dumb and illegal, judge rules](https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled)
 > The Department of Government Efficiency's cancellation of over $100 million in grants was unconstitutional, according to a ruling on Thursday. In the 143-page decision, US District Judge Colleen Mc...
-- `The Verge` [ABC and Disney accuse Trump admin of violating First Amendment rights](https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view)
-> ABC is accusing the Federal Communications Commission (FCC) of violating its First Amendment rights by making "major shifts in policy and practice" that the network claims will chill free speech. T...
-- `The Verge` [Someone out-Trumped the Trump phone](https://www.theverge.com/gadgets/926968/trump-mobile-t1-phone-dreame-aurora-phones)
-> Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, Trump Mobile has been trumped. It's bee...
-- `The Verge` [Apple reportedly has a deal to use Intel-made chips again](https://www.theverge.com/tech/926988/apple-intel-chips)
-> Apple and Intel reached a "preliminary agreement" for Intel to make chips for Apple hardware, The Wall Street Journal reported Friday. Apple had famously moved on from Intel-powered computers with ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
