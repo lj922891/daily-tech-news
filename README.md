@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-05-10
 
-> 自动收集于 2026-05-10 03:53 | 共 50 条
+> 自动收集于 2026-05-10 12:47 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -16,8 +16,8 @@
 - `36氪` [融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发](https://36kr.com/p/3801745491943169?f=rss)
 > 作者｜黄楠
   编辑｜袁斯来
-  硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。
-  长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机...
+  硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。
+  长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦...
 - `36氪` [AI开始接管年轻人的「精神自留地」](https://36kr.com/p/3801461350702855?f=rss)
 > 撰文｜锅包柚
   封面来源｜Unsplash（AI辅助扩图）
@@ -26,10 +26,10 @@
   屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛...
 - `36氪` [36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一](https://36kr.com/p/3801398177324550?f=rss)
 > 作者 | 乔钰杰
-  编辑 | 袁斯���
+  编辑 | 袁斯来
   硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。
   北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。
-  电气系统互联是航...
+  电气系统互联是航天器...
 - `36氪` [获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发](https://36kr.com/p/3797202414820359?f=rss)
 > 作者｜黄楠
   编辑｜袁斯来
@@ -65,6 +65,8 @@
   编辑 | 阿至
   36氪获悉，北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，资金将用于产品研发、市场拓展及产线落地。
   「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难...
+- `少数派` [寻找你身边的电波——如何上中继](https://sspai.com/post/87897)
+> 无线电波都会穿过你我的身体，而我们并不知道他们承载了什么样的信息，最终又要去向哪里。查看全文
 - `少数派` [具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面](https://sspai.com/prime/story/inside-release-notes-260509)
 > Brave推出官方「纯净版」@PlatyHsu:Brave在我心目中一直是个带有「污点」的浏览器。诚然，它在隐私保护功能上颇有建树，能在一个垄断市场上找到立足之地实属不易；但不知为何，其在营销方式和盈 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [当实用主义遇见温情：少数派们的 10+ 个母亲节礼物灵感](https://sspai.com/post/98902)
@@ -83,55 +85,57 @@
 > 安静的 iPhone 才是最好的 iPhone？查看全文
 - `少数派` [甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
 > 甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。查看全文
-- `少数派` [返工怎能不烦恼，打工人片单总有一部是你的「嘴替」](https://sspai.com/post/88578)
-> 假期总是结束得猝不及防，打工人心里的苦只有打工人自己知道。然而远有《大都会》《摩登时代》这样的影史经典，近有《年会不能停！》这样的后起之秀，总有些以打工人为主角的影视作品，讲述着普通打工人的命运，为打 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky)
-> This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows ...
-- `Hacker News` [Sparse Cholesky Elimination Tree](https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html)
-> Article URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html
-Comments URL: https://news.ycombinator.com/item?id=48080221
-Points: 7
+- `Hacker News` [The left-wing case for AI](https://www.seangoedecke.com/the-left-wing-case-for-ai/)
+> Article URL: https://www.seangoedecke.com/the-left-wing-case-for-ai/
+Comments URL: https://news.ycombinator.com/item?id=48083264
+Points: 4
 # Comments: 0
-- `Hacker News` [France moves to break encrypted messaging](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
-> Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging
-Comments URL: https://news.ycombinator.com/item?id=48078811
-Points: 103
-# Comments: 59
-- `Hacker News` [Getting arrested in Japan](https://sundaicity.com/blogs/getting-arrested-in-japan)
-> Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan
-Comments URL: https://news.ycombinator.com/item?id=48078647
-Points: 170
-# Comments: 191
-- `Hacker News` [Show HN: Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)
-> Article URL: https://github.com/ThatXliner/rust-but-lisp
-Comments URL: https://news.ycombinator.com/item?id=48078575
-Points: 96
-# Comments: 53
-- `Hacker News` [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
-> Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc
-Comments URL: https://news.ycombinator.com/item?id=48077971
-Points: 104
-# Comments: 60
-- `Hacker News` [I caught the car](https://undecidability.net/senior/)
-> Article URL: https://undecidability.net/senior/
-Comments URL: https://news.ycombinator.com/item?id=48077966
-Points: 41
-# Comments: 53
-- `Hacker News` [Surfel-based global illumination on the web](https://juretriglav.si/surfel-based-global-illumination-on-the-web/)
-> Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/
-Comments URL: https://news.ycombinator.com/item?id=48077395
-Points: 26
+- `Hacker News` [9 Mothers (YC P26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
+> Article URL: https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q
+Comments URL: https://news.ycombinator.com/item?id=48083251
+Points: 0
 # Comments: 0
-- `Hacker News` [Meta's embrace of A.I. is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
-> Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html
-Comments URL: https://news.ycombinator.com/item?id=48077126
-Points: 329
-# Comments: 308
-- `Hacker News` [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go)
-> Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that's about 50x faster than JVM and 3x faster th...
+- `Hacker News` [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
+> Article URL: https://brennan.io/2026/05/09/pinball-and-escrow/
+Comments URL: https://news.ycombinator.com/item?id=48082968
+Points: 50
+# Comments: 11
+- `Hacker News` [Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
+> Article URL: https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/
+Comments URL: https://news.ycombinator.com/item?id=48082676
+Points: 4...
+- `Hacker News` [Think Linear Algebra (2023)](https://allendowney.github.io/ThinkLinearAlgebra/index.html)
+> Article URL: https://allendowney.github.io/ThinkLinearAlgebra/index.html
+Comments URL: https://news.ycombinator.com/item?id=48082396
+Points: 10
+# Comments: 0
+- `Hacker News` [FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults)
+> Article URL: https://vez.mrsk.me/freebsd-defaults
+Comments URL: https://news.ycombinator.com/item?id=48082342
+Points: 8
+# Comments: 3
+- `Hacker News` [LLMorphism: When humans come to see themselves as language models](https://arxiv.org/abs/2605.05419)
+> Article URL: https://arxiv.org/abs/2605.05419
+Comments URL: https://news.ycombinator.com/item?id=48082021
+Points: 25
+# Comments: 13
+- `Hacker News` [Task Paralysis and AI](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
+> Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html
+Comments URL: https://news.ycombinator.com/item?id=48081469
+Points: 43
+# Comments: 36
+- `Hacker News` [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
+> Article URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html
+Comments URL: https://news.ycombinator.com/item?id=48081245
+Points: 209
+# Comments: 77
+- `Hacker News` [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
+> Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
+Comments URL: https://news.ycombinator.com/item?id=48080702
+Points: 11...
 - `TechCrunch` [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
 > Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.
 - `TechCrunch` [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
@@ -152,6 +156,10 @@ Points: 329
 > The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.
 - `TechCrunch` [Intel’s comeback story is even wilder than it seems](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/)
 > Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.
+- `The Verge` [Netflix may have finally figured out games](https://www.theverge.com/column/926250/netflix-tv-games-strategy)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ...
+- `The Verge` [Vivo’s X300 Ultra has the best cameras in any phone](https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone)
+> A few months ago, I wrote that the telephoto camera is the only lens that matters any more, at least when it comes to Ultra-class flagships. As phones got better, cameras became where manufacturers...
 - `The Verge` [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale)
 > If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robo...
 - `The Verge` [These great digital gifts will arrive just in time for Mother’s Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026)
@@ -168,10 +176,6 @@ Points: 329
 > Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new "Clips" feed will offer a stream of short-form videos from shows and movies, ...
 - `The Verge` [Here is Yarbo’s promise to fix the robot mower that ran me over](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise)
 > Yesterday, I told you how a hacker ran me over with a robot lawn mower. We explained how thousands of these bladed Chinese robots, made by Yarbo, could be hijacked with ease - exposing people's GPS...
-- `The Verge` [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)
-> Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across th...
-- `The Verge` [DOGE used ChatGPT in a way that was both dumb and illegal, judge rules](https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled)
-> The Department of Government Efficiency's cancellation of over $100 million in grants was unconstitutional, according to a ruling on Thursday. In the 143-page decision, US District Judge Colleen Mc...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
