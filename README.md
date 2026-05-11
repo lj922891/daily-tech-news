@@ -6,10 +6,23 @@
 
 # 📰 每日科技日报 — 2026-05-11
 
-> 自动收集于 2026-05-11 04:04 | 共 50 条
+> 自动收集于 2026-05-11 14:16 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会](https://36kr.com/p/3804795647729411?f=rss)
+> 大公司：
+  百济神州：第一季度净利润为16.08亿元，同比扭亏为盈
+  36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。
+  营收确认规则是否存在调整可能？贵州茅台回应
+  5月11...
+- `36氪` [理想整车研发负责人刘立国：说理想不重视技术，是大大的误解](https://36kr.com/p/3804380633554696?f=rss)
+> 理想汽车整车电动研发高级副总裁 刘立国
+  文｜肖漫
+  编辑｜李勤
+  走过10年造车历程后，新势力阵营已经普遍从“轻盈”走向“厚重”。尤其是理想汽车，这家公司高呼成为“ 具身智能企业”，但也同时在垒高每一块整车技术能力。
+  尤其是过去4年，理想汽车几乎重构了底盘系统，联合供应商深度共创了底盘三大项：EMB刹车+800V主动悬架+线控转向。
+  理想在电池上也在进行自制布局，同...
 - `36氪` [硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步](https://36kr.com/p/3804282431659779?f=rss)
 > 作者 | 邱晓芬
   编辑 | 袁斯来
@@ -42,9 +55,9 @@
 - `36氪` [36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一](https://36kr.com/p/3801398177324550?f=rss)
 > 作者 | 乔钰杰
   编辑 | 袁斯来
-  硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。
+  硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资。
   北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。
-  电气系统互联是航天器...
+  电气系统互联是航天器的五大核心组成之一，类似于人体...
 - `36氪` [获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发](https://36kr.com/p/3797202414820359?f=rss)
 > 作者｜黄楠
   编辑｜袁斯来
@@ -60,15 +73,10 @@
   TOP3大新闻
   DeepSeek拟募资最高500亿元
   据报道，DeepSeek拟募资最高500亿元，这将成为中国人工...
-- `36氪` [「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发](https://36kr.com/p/3800495686163721?f=rss)
-> 文 | 阿至
-  36氪获悉，低空出行产品研制商「维新宇航」已完成数千万元天使+轮融资，本轮融资由策源资本领投、金舵投资跟投，资金将主要用于加速公司首款主力机型 Vector 5的研发迭代、首飞测试与适航取证进程。
-  维新宇航成立于2023年，是36氪长期关注的企业，其专注于大载客量、大载重eVTOL/eCTOL产品的研发及制造。加上6个月前连续完成的种子轮、天使轮，目...
-- `36氪` [卡位黄金价格带，问界M6向下争夺年轻群体｜最前线](https://36kr.com/p/3800183520091398?f=rss)
-> 2026年的中国新能源SUV市场正经历着前所未有的内卷。
-  问界依托华为技术体系，推出了定位更亲民的全新车型 M6， 瞄准主流家用消费群体。放在问界品牌整体销量连续数月下滑、赛力斯盈利能力承压的背景下，M6的到来既是“救兵”，更是一场不容有失的“大考”。
-  卡位黄金价格带，向下争夺年轻群体
-  从产品命名逻辑看，M6位于M5与M7之间，车身尺寸为4960×1985×1736mm，轴距29...
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/109636)
+> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」](https://sspai.com/post/109461)
+> 五一期间到朋友家做客，他从餐边柜里搬出一整套器具——V60、手磨、手冲壶、分享壶，一顿操作「猛如虎」，三分钟后说「好像有点苦」。我喝了一口，确实苦，不是风味描述里「可可」的那种苦，而是翻车的苦。入坑那 ...查看全文
 - `少数派` [监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到](https://sspai.com/post/109542)
 > 五年前，我们做了一只水獭造型的玩偶挂件。我们希望桌面上能有这样一个小东西：不闪光光、不发声、不吵吵你，只是趴在那里，偶尔被你眼角扫到一眼，心情突然就柔软几秒。首批监工水獭用户返图首批监工水獭做出来后反 ...查看全文
 - `少数派` [派早报：苹果与英特尔就芯片代工达成初步协议](https://sspai.com/post/109610)
@@ -85,58 +93,61 @@
 > 新一届WWDC26全球开发者大会还有一个月时间就要开幕，作为每年WWDC大会的「前菜」，第七届Swift学生挑战赛也一如以往在大会开幕前夕圆满收官。在这场一年一度的全球性Apple编程竞赛中，今年共有 ...查看全文
 - `少数派` [万字复盘我家的装修过程，希望可以帮你避避坑](https://sspai.com/post/109397)
 > 从 0 开始装修新家，这些事项值得你避坑。查看全文
-- `少数派` [派早报：Google 发布 Fitbit Air 等](https://sspai.com/post/109489)
-> 高通发布骁龙 6 Gen 5 / 4 Gen 5 移动平台，Google 宣布停运 Project Mariner 等。查看全文
-- `少数派` [新玩意 240｜少数派的编辑们最近买了啥？](https://sspai.com/post/109474)
-> 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@西鸽：盖世小鸡G7Pro天 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
+- `Hacker News` [I keep tripping over "true, false, true"](https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/)
+> Article URL: https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/
+Comments URL: https://news.ycombinator.com/item?id=48094237
+Points: 12
+# Comments: 22
+- `Hacker News` [European Money Pours into Palantir](https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html)
+> Article URL: https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tec...
+- `Hacker News` [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
+> Article URL: https://ratty-term.org/
+Comments URL: https://news.ycombinator.com/item?id=48093100
+Points: 252
+# Comments: 74
+- `Hacker News` [All Those A.I. Note Takers? They're Making Lawyers Nervous](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)
+> Article URL: https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html
+Comments URL: https://news.ycombinator.com/item?id=48093043
+Points: 82
+# Comments: 55
+- `Hacker News` [The Adventure Family Tree](https://mipmip.org/advfamily/advfamily.html)
+> Article URL: https://mipmip.org/advfamily/advfamily.html
+Comments URL: https://news.ycombinator.com/item?id=48092367
+Points: 26
+# Comments: 3
+- `Hacker News` [Gmail registration now requires scanning a QR code and sending a text message](https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082)
+> Article URL: https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082
+Comments URL: https://news.ycombinator.com/item?...
+- `Hacker News` [Mythos Finds a Curl Vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
+> Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/
+Comments URL: https://news.ycombinator.com/item?id=48091737
+Points: 344
+# Comments: 143
+- `Hacker News` [7 lines of code, 3 minutes: Implement a programming language (2010)](https://matt.might.net/articles/implementing-a-programming-language/)
+> Article URL: https://matt.might.net/articles/implementing-a-programming-language/
+Comments URL: https://news.ycombinator.com/item?id=48091085
+Points: 76
+# Comments: 26
+- `Hacker News` [The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
 > Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html
 Comments URL: https://news.ycombinator.com/item?id=48090521
-Points: 29
-# Comments: 6
-- `Hacker News` [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
-> Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/
-Comments URL: https://news.ycombinator.com/item?id=48090029
-Points: 116
-# Comments: 47
-- `Hacker News` [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
-> Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs
-Comments URL: https://news.ycombinator.com/item?id=48089289
-Points: 68
-# Comments: 10
-- `Hacker News` [PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
-> Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656
-Comments URL: https://news.ycombinator.com/item?id=480892...
-- `Hacker News` [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
-> Article URL: https://jola.dev/posts/running-local-models-on-m4
-Comments URL: https://news.ycombinator.com/item?id=48089091
-Points: 161
-# Comments: 59
-- `Hacker News` [How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?](https://dunkels.com/adam/claude-user-space-ip-stack-ping/)
-> Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/
-Comments URL: https://news.ycombinator.com/item?id=48089049
-Points: 23
-# Comments: 4
-- `Hacker News` [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/)
-> Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/
-Comments URL: https://news.ycombinator.com/item?id=48088576
-Points: 110
-# Comments: 62
-- `Hacker News` [Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
-> Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-fed...
-- `Hacker News` [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
-> Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585
-Comments URL: https://news.ycombinator.com/item?id=48086190
-Points: 1035
-# Comments: 366
-- `Hacker News` [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
-> Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html
-Comments URL: https://news.ycombinator.com/item?id=48086082
-Points: 436
-# Comments: 108
+Points: 244
+# Comments: 118
+- `Hacker News` [Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)
+> I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI an...
+- `TechCrunch` [TikTok launches an ad-free subscription plan in the UK](https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/)
+> Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.
+- `TechCrunch` [There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.](https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/)
+> Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.
+- `TechCrunch` [Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for ...](https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/)
+> Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass, and discounts from Logitech, SteelSeries, and other gaming brands.
+- `TechCrunch` [Venmo’s biggest makeover in years comes at a very interesting time](https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/)
+> The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a standalone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has repo...
+- `TechCrunch` [Korea’s biggest manufacturers back Config, the TSMC of robot data](https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/)
+> Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.
 - `TechCrunch` [Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)
 > How will work setups change if we spend more and more time talking to our computers?
 - `TechCrunch` [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)
@@ -147,36 +158,26 @@ Points: 436
 > Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
 - `TechCrunch` [We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/)
 > On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.
-- `TechCrunch` [The hottest place for startups to strike a deal? The F1 paddock](https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/)
-> F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.
-- `TechCrunch` [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
-> Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.
-- `TechCrunch` [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
-> The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
-- `TechCrunch` [Fintech startup Parker files for bankruptcy](https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/)
-> Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.
-- `TechCrunch` [GM agrees to pay $12.75M in California driver privacy settlement](https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/)
-> General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.
+- `The Verge` [Joanna Stern is not a robot, but she lived with them](https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation)
+> My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one...
+- `The Verge` [TikTok is letting UK users pay to remove ads](https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk)
+> TikTok is preparing to roll out a paid, ad-free version of its app in the UK. The new subscription announced today will be available to users over 18 "over the coming months," according to TikTok's...
+- `The Verge` [Discord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers](https://www.theverge.com/news/927722/discord-xbox-game-pass-starter-edition-nitro-subscribers)
+> Discord is announcing the launch of Nitro Rewards today, a new program for subscribers that bundles benefits from third parties like Microsoft, Logitech, and SteelSeries, into a Nitro subscription....
+- `The Verge` [Wordle is turning into a primetime TV game show on NBC](https://www.theverge.com/games/927536/wordle-game-show-nbc-savannah-guthrie-jimmy-fallon-new-york-times)
+> Wordle could be the next great game show. NBC has greenlit a game show version of The New York Times' popular puzzle game, and it's set to debut in 2027 with Savannah Guthrie as the host. The show ...
+- `The Verge` [Venmo finally takes privacy seriously](https://www.theverge.com/tech/927503/venmo-app-redesign-privacy-posts)
+> Venmo is starting to test a big redesign of its app, and as part of the changes, it will be implementing a major new privacy measure: the onboarding process for new users will set their posts to on...
+- `The Verge` [Windows 11 is getting a macOS-like speed boost](https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost)
+> Microsoft is currently testing a new speed boost feature in Windows 11 that is designed to improve app launch times and make things like the Start menu feel more responsive. The feature, which is r...
+- `The Verge` [Forza Horizon 6 has been leaked and cracked a week before its release](https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked)
+> The full version of Playground Games' upcoming Forza Horizon 6 game has leaked online over the weekend and has already been cracked by pirates. The download appeared on file sharing sites after som...
+- `The Verge` [Logitech’s tiny folding mouse improves upon the laptop trackpad](https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images)
+> Logitech is reportedly developing a new wireless mouse that folds in half to make it easier to carry around in a bag or pocket. According to leaked marketing images shared by WinFuture, Logitech's ...
 - `The Verge` [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano)
 > Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic sp...
 - `The Verge` [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)
 > I've got to thank my oldest friend and concert buddy, Tim, for turning me on to this one. Ashnymph is a London band that blends post-punk melodies with Krautrock rhythms and industrial grime. Their...
-- `The Verge` [Cricut’s $99 craft cutting machine helped me feel creative again](https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on)
-> I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over. I've spent three weeks with the Cricut Joy 2, a smart cutting and drawing mach...
-- `The Verge` [Writers are fleeing the Substack Tax](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv)
-> Substack, the once buzzy newsletter platform, is losing a new swath of writers to rival platforms most people haven't heard of. Just last month, The Ankler, one of Substack's most popular publicati...
-- `The Verge` [Netflix may have finally figured out games](https://www.theverge.com/column/926250/netflix-tv-games-strategy)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ...
-- `The Verge` [Vivo’s X300 Ultra has the best cameras in any phone](https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone)
-> A few months ago, I wrote that the telephoto camera is the only lens that matters any more, at least when it comes to Ultra-class flagships. As phones got better, cameras became where manufacturers...
-- `The Verge` [Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale)
-> If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robo...
-- `The Verge` [These great digital gifts will arrive just in time for Mother’s Day](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026)
-> And just like that, Mother’s Day is tomorrow, May 10th, which is too soon for most online purchases to arrive in time. That said, you aren’t alone if you waited too long to pick up a gift this year...
-- `The Verge` [Let it snow](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy)
-> Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles ...
-- `The Verge` [The game that makes me actually want to exercise](https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer)
-> Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can r...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
