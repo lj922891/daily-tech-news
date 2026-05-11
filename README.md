@@ -4,12 +4,27 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-10
+# 📰 每日科技日报 — 2026-05-11
 
-> 自动收集于 2026-05-10 12:47 | 共 50 条
+> 自动收集于 2026-05-11 04:04 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步](https://36kr.com/p/3804282431659779?f=rss)
+> 作者 | 邱晓芬
+  编辑 | 袁斯来
+  余轶南似乎是那种总能提前踩中风口的冒险家。
+  他总在追逐更新、更刺激，早期甚至带着些浪漫想象。博士毕业后，他没有如很多同侪一般，进入学术圈，过上平稳安定的一生，而是冲入互联网浪潮，2015年，他又因为余凯一句“我们一起去做 AI 芯片吧？” ，便追随余凯加入地平线创始团队，成为001号员工。此后几年，地平线...
+- `36氪` [8点1氪丨SK海力士回应“员工人均奖金达610万元”传闻；世界杯中国转播费从3亿美元腰斩到1.5亿；曝三星中国家电部门裁员补偿N+4，还送手机](https://36kr.com/p/3804132892646919?f=rss)
+> 今日热点导览
+  一季度全国结婚登记169.7万对
+  bosie创始人刘光耀成为Kimi顾问？刘光耀回复“没入职”
+  英特尔与苹果据悉达成初步协议，将为后者设备制造芯片
+  业内人士称阿里未参与DeepSeek融资
+  新华社调查“胖东来为啥总被黑”
+  TOP3大新闻
+  员工人均奖金达610万人民币？SK海力士回应
+  近日有消息称，SK海力士韩国员工人均奖金将达610万人民币。该消...
 - `36氪` [Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访](https://36kr.com/p/3802822550839047?f=rss)
 > 编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。
    这些高增长数据背后，似乎隐藏着比较大的商业机会，但机会究竟是什么？中国卖家如何在AI时代抓住？那边电商处于什么阶段？带着...
@@ -54,17 +69,10 @@
   问界依托华为技术体系，推出了定位更亲民的全新车型 M6， 瞄准主流家用消费群体。放在问界品牌整体销量连续数月下滑、赛力斯盈利能力承压的背景下，M6的到来既是“救兵”，更是一场不容有失的“大考”。
   卡位黄金价格带，向下争夺年轻群体
   从产品命名逻辑看，M6位于M5与M7之间，车身尺寸为4960×1985×1736mm，轴距29...
-- `36氪` [小红书四年AI 路：FOMO、犹豫，到突然加速](https://36kr.com/p/3799028783439111?f=rss)
-> 作者 | 肖思佳
-  编辑 | 乔芊 杨轩
-  所有互联网大中厂都渴望在AI时代博得位置，在这场比赛中，小红书曾是克制的那个。
-  在一个搜索属性与社区属性并存，以真实经验分享为核心的产品中，活人感与AI、温情和算法，始终像天平的两端。
-  很长一段时间里，小红书既没有完全缺席技术探索，也没有像许多同行那样高调推进AI产品化。相反，这家公司始终在两股力...
-- `36氪` [第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发](https://36kr.com/p/3800022823951363?f=rss)
-> 文 | 张冰冰
-  编辑 | 阿至
-  36氪获悉，北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，资金将用于产品研发、市场拓展及产线落地。
-  「纯锂新能源」成立于2022年5月，聚焦全固态电池研发，通过自研复合电解质及超临界包覆工艺，破解全固态电池核心固固接触难...
+- `少数派` [监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到](https://sspai.com/post/109542)
+> 五年前，我们做了一只水獭造型的玩偶挂件。我们希望桌面上能有这样一个小东西：不闪光光、不发声、不吵吵你，只是趴在那里，偶尔被你眼角扫到一眼，心情突然就柔软几秒。首批监工水獭用户返图首批监工水獭做出来后反 ...查看全文
+- `少数派` [派早报：苹果与英特尔就芯片代工达成初步协议](https://sspai.com/post/109610)
+> 苹果与英特尔就芯片代工达成初步协议芯片缺货导致主板厂商出货暴跌人形机器人在韩国受戒入佛门AI 儿童玩具泛滥引发担忧特朗普政府通过 ChatGPT 做出的停止拨款决定被判无效谷歌验证码将检查 Play 框架，非原版 Android 用户或受阻看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [寻找你身边的电波——如何上中继](https://sspai.com/post/87897)
 > 无线电波都会穿过你我的身体，而我们并不知道他们承载了什么样的信息，最终又要去向哪里。查看全文
 - `少数派` [具透 Plus：Brave 推出官方「纯净版」；Photoshop 翻车的新界面](https://sspai.com/prime/story/inside-release-notes-260509)
@@ -81,61 +89,66 @@
 > 高通发布骁龙 6 Gen 5 / 4 Gen 5 移动平台，Google 宣布停运 Project Mariner 等。查看全文
 - `少数派` [新玩意 240｜少数派的编辑们最近买了啥？](https://sspai.com/post/109474)
 > 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@西鸽：盖世小鸡G7Pro天 ...查看全文
-- `少数派` [一日一技｜为什么你应该关闭 iOS 的键盘声音](https://sspai.com/post/109460)
-> 安静的 iPhone 才是最好的 iPhone？查看全文
-- `少数派` [甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
-> 甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The left-wing case for AI](https://www.seangoedecke.com/the-left-wing-case-for-ai/)
-> Article URL: https://www.seangoedecke.com/the-left-wing-case-for-ai/
-Comments URL: https://news.ycombinator.com/item?id=48083264
-Points: 4
-# Comments: 0
-- `Hacker News` [9 Mothers (YC P26) Is Hiring](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q)
-> Article URL: https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q
-Comments URL: https://news.ycombinator.com/item?id=48083251
-Points: 0
-# Comments: 0
-- `Hacker News` [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
-> Article URL: https://brennan.io/2026/05/09/pinball-and-escrow/
-Comments URL: https://news.ycombinator.com/item?id=48082968
-Points: 50
-# Comments: 11
-- `Hacker News` [Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
-> Article URL: https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/
-Comments URL: https://news.ycombinator.com/item?id=48082676
-Points: 4...
-- `Hacker News` [Think Linear Algebra (2023)](https://allendowney.github.io/ThinkLinearAlgebra/index.html)
-> Article URL: https://allendowney.github.io/ThinkLinearAlgebra/index.html
-Comments URL: https://news.ycombinator.com/item?id=48082396
-Points: 10
-# Comments: 0
-- `Hacker News` [FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults)
-> Article URL: https://vez.mrsk.me/freebsd-defaults
-Comments URL: https://news.ycombinator.com/item?id=48082342
-Points: 8
-# Comments: 3
-- `Hacker News` [LLMorphism: When humans come to see themselves as language models](https://arxiv.org/abs/2605.05419)
-> Article URL: https://arxiv.org/abs/2605.05419
-Comments URL: https://news.ycombinator.com/item?id=48082021
-Points: 25
-# Comments: 13
-- `Hacker News` [Task Paralysis and AI](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html)
-> Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html
-Comments URL: https://news.ycombinator.com/item?id=48081469
-Points: 43
-# Comments: 36
-- `Hacker News` [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
-> Article URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html
-Comments URL: https://news.ycombinator.com/item?id=48081245
-Points: 209
-# Comments: 77
-- `Hacker News` [Gemini API File Search is now multimodal](https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/)
-> Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
-Comments URL: https://news.ycombinator.com/item?id=48080702
-Points: 11...
+- `Hacker News` [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
+> Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html
+Comments URL: https://news.ycombinator.com/item?id=48090521
+Points: 29
+# Comments: 6
+- `Hacker News` [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
+> Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/
+Comments URL: https://news.ycombinator.com/item?id=48090029
+Points: 116
+# Comments: 47
+- `Hacker News` [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
+> Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs
+Comments URL: https://news.ycombinator.com/item?id=48089289
+Points: 68
+# Comments: 10
+- `Hacker News` [PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs](https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656)
+> Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656
+Comments URL: https://news.ycombinator.com/item?id=480892...
+- `Hacker News` [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
+> Article URL: https://jola.dev/posts/running-local-models-on-m4
+Comments URL: https://news.ycombinator.com/item?id=48089091
+Points: 161
+# Comments: 59
+- `Hacker News` [How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?](https://dunkels.com/adam/claude-user-space-ip-stack-ping/)
+> Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/
+Comments URL: https://news.ycombinator.com/item?id=48089049
+Points: 23
+# Comments: 4
+- `Hacker News` [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/)
+> Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/
+Comments URL: https://news.ycombinator.com/item?id=48088576
+Points: 110
+# Comments: 62
+- `Hacker News` [Maryland citizens hit with $2B power grid upgrade for out-of-state AI](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises)
+> Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-fed...
+- `Hacker News` [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
+> Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585
+Comments URL: https://news.ycombinator.com/item?id=48086190
+Points: 1035
+# Comments: 366
+- `Hacker News` [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
+> Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html
+Comments URL: https://news.ycombinator.com/item?id=48086082
+Points: 436
+# Comments: 108
+- `TechCrunch` [Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)
+> How will work setups change if we spend more and more time talking to our computers?
+- `TechCrunch` [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)
+> Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.
+- `TechCrunch` [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)
+> The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.
+- `TechCrunch` [TechCrunch Mobility: Lime’s IPO gamble](https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
+- `TechCrunch` [We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/)
+> On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.
+- `TechCrunch` [The hottest place for startups to strike a deal? The F1 paddock](https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/)
+> F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.
 - `TechCrunch` [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
 > Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.
 - `TechCrunch` [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
@@ -144,18 +157,14 @@ Points: 11...
 > Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.
 - `TechCrunch` [GM agrees to pay $12.75M in California driver privacy settlement](https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/)
 > General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.
-- `TechCrunch` [The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally](https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/)
-> In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.
-- `TechCrunch` [Nvidia has already committed $40B to equity AI deals this year](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/)
-> Nvidia continues to be a big investor in the AI ecosystem.
-- `TechCrunch` [Laid-off Oracle workers tried to negotiate better severance. Oracle said no.](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)
-> Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.
-- `TechCrunch` [San Francisco’s housing market has lost its mind](https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/)
-> The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and th...
-- `TechCrunch` [Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app](https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/)
-> The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.
-- `TechCrunch` [Intel’s comeback story is even wilder than it seems](https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/)
-> Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.
+- `The Verge` [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano)
+> Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic sp...
+- `The Verge` [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)
+> I've got to thank my oldest friend and concert buddy, Tim, for turning me on to this one. Ashnymph is a London band that blends post-punk melodies with Krautrock rhythms and industrial grime. Their...
+- `The Verge` [Cricut’s $99 craft cutting machine helped me feel creative again](https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on)
+> I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over. I've spent three weeks with the Cricut Joy 2, a smart cutting and drawing mach...
+- `The Verge` [Writers are fleeing the Substack Tax](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv)
+> Substack, the once buzzy newsletter platform, is losing a new swath of writers to rival platforms most people haven't heard of. Just last month, The Ankler, one of Substack's most popular publicati...
 - `The Verge` [Netflix may have finally figured out games](https://www.theverge.com/column/926250/netflix-tv-games-strategy)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ...
 - `The Verge` [Vivo’s X300 Ultra has the best cameras in any phone](https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone)
@@ -168,14 +177,6 @@ Points: 11...
 > Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles ...
 - `The Verge` [The game that makes me actually want to exercise](https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer)
 > Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can r...
-- `The Verge` [Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs](https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led)
-> At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goe...
-- `The Verge` [Asus chases Elgato with its own secondary touchscreen display](https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display)
-> Asus's latest gaming monitor is a little smaller than usual. The ROG Strix XG129C, announced on Friday, is a 12.3-inch touchscreen IPS display that's intended to be a sidekick for a larger main mon...
-- `The Verge` [Amazon is adding a vertical video feed to Prime Video](https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed)
-> Amazon Prime Video is joining Netflix and Disney Plus in adding a vertical feed of videos to its streaming app. The new "Clips" feed will offer a stream of short-form videos from shows and movies, ...
-- `The Verge` [Here is Yarbo’s promise to fix the robot mower that ran me over](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise)
-> Yesterday, I told you how a hacker ran me over with a robot lawn mower. We explained how thousands of these bladed Chinese robots, made by Yarbo, could be hijacked with ease - exposing people's GPS...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
