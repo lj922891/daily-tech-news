@@ -4,12 +4,36 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-11
+# 📰 每日科技日报 — 2026-05-12
 
-> 自动收集于 2026-05-11 14:16 | 共 50 条
+> 自动收集于 2026-05-12 03:48 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [Walulu：用六个月撕开一条新赛道](https://36kr.com/p/3805761383751427?f=rss)
+> 文丨果脯
+  近日，成都雨之灵动科技有限公司（后称雨之灵动）宣布完成总额数千万人民币的天使轮及Pre-A轮融资。
+  目前其投资方阵容已颇为亮眼，包含KK集团、4399、科大讯飞和一家知名财务投资机构，涵盖了财务资本、渠道资源、游戏行业及AI技术四大维度。做到这种程度，基本已经覆盖了一家AI消费品公司的所需的核心拼图。
+  雨之灵动能同时吸引到这四类资方，一定程度上说明他们的项目不仅打动了财...
+- `36氪` [36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”](https://36kr.com/p/3805672617959173?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。
+  熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同��立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企...
+- `36氪` [8点1氪丨美国总统特朗普：非常期待中国之行  ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元](https://36kr.com/p/3805557782486785?f=rss)
+> 今日热点导览
+  天舟十号货运飞船与空间站组合体完成交会对接
+  国家广播电视总局：4月经备案国产电视动画片51部、9659分钟
+  任天堂股价因Switch 2游戏前景不佳大幅下跌
+  千问与淘宝打通，正式上线AI购物
+  TOP3大新闻
+  美国总统特朗普：非常期待中国之行
+  外交部发言人宣布：应国家主席习近平邀请，美利坚合众国总统唐纳德·特朗普将于5月13日至15日对中国进行国事访问...
+- `36氪` [量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例](https://36kr.com/p/3804356346879495?f=rss)
+> 文｜胡香赟
+  编辑｜海若镜
+  在科幻电影《流浪地球2》中，拥有指数级运算能力的智能量子计算机“MOSS”，不仅能统筹起全世界的计算资源，支撑1万台“行星发动机”同步运转，还承载足“数字生命计划”那海量的、近乎无底洞般的计算需求，引发大众对量子计算机的无限遐想。这种曾经令人惊叹的科幻设定，如今已慢慢从实验室走向商业化落地。
+  按照“十五五规划纲要”，量子科技已被列入六大未来产业之一；市场...
 - `36氪` [氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会](https://36kr.com/p/3804795647729411?f=rss)
 > 大公司：
   百济神州：第一季度净利润为16.08亿元，同比扭亏为盈
@@ -46,33 +70,8 @@
   编辑｜袁斯来
   硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。
   长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦...
-- `36氪` [AI开始接管年轻人的「精神自留地」](https://36kr.com/p/3801461350702855?f=rss)
-> 撰文｜锅包柚
-  封面来源｜Unsplash（AI辅助扩图）
-  五一假期已经结束，但打工人的“节后综合症”并未消退。
-  面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。
-  屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛...
-- `36氪` [36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一](https://36kr.com/p/3801398177324550?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资。
-  北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。
-  电气系统互联是航天器的五大核心组成之一，类似于人体...
-- `36氪` [获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发](https://36kr.com/p/3797202414820359?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核心技术研发、新品矩阵打造和产品体验的迭代优化，以及生产体系与供应链能力建设。此前，公司已获得李泽湘教授旗下...
-- `36氪` [9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉](https://36kr.com/p/3801348046151428?f=rss)
-> 整理｜Kris 
-  今日热点导览
-  香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局
-  油价上调，加满一箱92号汽油将多花12.5元
-  钱江摩托否认“围剿张雪机车”
-  30条中日航线4月取消全部航班
-  SpaceX冲刺上市，资本开支飙升数百亿
-  TOP3大新闻
-  DeepSeek拟募资最高500亿元
-  据报道，DeepSeek拟募资最高500亿元，这将成为中国人工...
+- `少数派` [派早报：大疆发布扫拖机器人 ROMO 2 系列等](https://sspai.com/post/109647)
+> 千问与淘宝全面打通，Google 安全团队首次发现 AI 参与黑客活动的迹象等。查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/109636)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」](https://sspai.com/post/109461)
@@ -91,93 +90,97 @@
 > 📅本周新预告《奥德赛》正式预告5月5日，克里斯托弗·诺兰导演新作《奥德赛》发布了正式预告，将于7月17日在北美上映。马特·达蒙、汤姆·霍兰德、安妮·海瑟薇、赞达亚、露皮塔·尼永奥、罗伯特·帕丁森、查理 ...查看全文
 - `少数派` [在 WWDC26 之前，与四位中国获奖者聊聊他们的 Swift 学生挑战赛](https://sspai.com/post/109521)
 > 新一届WWDC26全球开发者大会还有一个月时间就要开幕，作为每年WWDC大会的「前菜」，第七届Swift学生挑战赛也一如以往在大会开幕前夕圆满收官。在这场一年一度的全球性Apple编程竞赛中，今年共有 ...查看全文
-- `少数派` [万字复盘我家的装修过程，希望可以帮你避避坑](https://sspai.com/post/109397)
-> 从 0 开始装修新家，这些事项值得你避坑。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [I keep tripping over "true, false, true"](https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/)
-> Article URL: https://allthingssmitty.com/2026/05/11/i-keep-tripping-over-true-false-true/
-Comments URL: https://news.ycombinator.com/item?id=48094237
-Points: 12
-# Comments: 22
-- `Hacker News` [European Money Pours into Palantir](https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html)
-> Article URL: https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tec...
-- `Hacker News` [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
-> Article URL: https://ratty-term.org/
-Comments URL: https://news.ycombinator.com/item?id=48093100
-Points: 252
-# Comments: 74
-- `Hacker News` [All Those A.I. Note Takers? They're Making Lawyers Nervous](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)
-> Article URL: https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html
-Comments URL: https://news.ycombinator.com/item?id=48093043
-Points: 82
-# Comments: 55
-- `Hacker News` [The Adventure Family Tree](https://mipmip.org/advfamily/advfamily.html)
-> Article URL: https://mipmip.org/advfamily/advfamily.html
-Comments URL: https://news.ycombinator.com/item?id=48092367
-Points: 26
-# Comments: 3
-- `Hacker News` [Gmail registration now requires scanning a QR code and sending a text message](https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082)
-> Article URL: https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082
-Comments URL: https://news.ycombinator.com/item?...
-- `Hacker News` [Mythos Finds a Curl Vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
-> Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/
-Comments URL: https://news.ycombinator.com/item?id=48091737
-Points: 344
-# Comments: 143
-- `Hacker News` [7 lines of code, 3 minutes: Implement a programming language (2010)](https://matt.might.net/articles/implementing-a-programming-language/)
-> Article URL: https://matt.might.net/articles/implementing-a-programming-language/
-Comments URL: https://news.ycombinator.com/item?id=48091085
-Points: 76
-# Comments: 26
-- `Hacker News` [The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
-> Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html
-Comments URL: https://news.ycombinator.com/item?id=48090521
-Points: 244
-# Comments: 118
-- `Hacker News` [Show HN: adamsreview – better multi-agent PR reviews for Claude Code](https://github.com/adamjgmiller/adamsreview)
-> I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI an...
+- `Hacker News` [Software Internals Book Club](https://eatonphil.com/bookclub.html)
+> Article URL: https://eatonphil.com/bookclub.html
+Comments URL: https://news.ycombinator.com/item?id=48103511
+Points: 9
+# Comments: 0
+- `Hacker News` [Fake building: Claude wrote 3k lines instead of import pywikibot](https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/)
+> Article URL: https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/
+Comments URL: https://news.ycombinator.com/item?id=48103459
+Points: 30
+# Comments: 14
+- `Hacker News` [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
+> Article URL: https://claude.com/blog/claude-platform-on-aws
+Comments URL: https://news.ycombinator.com/item?id=48103042
+Points: 47
+# Comments: 24
+- `Hacker News` [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker)
+> Article URL: https://github.com/davmlaw/they_live_adblocker
+Comments URL: https://news.ycombinator.com/item?id=48102700
+Points: 34
+# Comments: 2
+- `Hacker News` [Show HN: Safe-install – safer NPM installs with trusted build dependencies](https://www.npmjs.com/package/@gkiely/safe-install)
+> In light of the ongoing npm supply chain compromises, I built safe-install:https://www.npmjs.com/package/@gkiely/safe-installIt brings a couple of protections I wanted from npm but are not built in...
+- `Hacker News` [Griffin PowerMate driver for modern macOS](https://github.com/jameslockman/Griffin-PowerMate-Driver)
+> Article URL: https://github.com/jameslockman/Griffin-PowerMate-Driver
+Comments URL: https://news.ycombinator.com/item?id=48100970
+Points: 54
+# Comments: 19
+- `Hacker News` [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
+> https://github.com/TanStack/router/issues/7383
+
+Comments URL: https://news.ycombinator.com/item?id=48100706
+Points: 603
+# Comments: 225
+- `Hacker News` [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)
+> Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/
+Comments URL: https://news.ycombinator.com/item?id=48100662
+Points: 98
+# Comments: 106
+- `Hacker News` [Interaction Models](https://thinkingmachines.ai/blog/interaction-models/)
+> Article URL: https://thinkingmachines.ai/blog/interaction-models/
+Comments URL: https://news.ycombinator.com/item?id=48100524
+Points: 120
+# Comments: 13
+- `Hacker News` [GitLab announces workforce reduction and end of their CREDIT values](https://about.gitlab.com/blog/gitlab-act-2/)
+> Article URL: https://about.gitlab.com/blog/gitlab-act-2/
+Comments URL: https://news.ycombinator.com/item?id=48100500
+Points: 371
+# Comments: 374
+- `TechCrunch` [Riding an AI rally, Robinhood preps second retail venture IPO](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/)
+> Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.
+- `TechCrunch` [GM just laid off hundreds of IT workers to hire those with stronger AI skills](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/)
+> Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.
+- `TechCrunch` [Finally, texts between Android and iPhone users can be end-to-end encrypted](https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/)
+> Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.
+- `TechCrunch` [Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation](https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/)
+> Five-year old European military drone startup Helsing is close to raising another monster round.
+- `TechCrunch` [Bravo is creating unscripted microdramas for the Peacock app](https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/)
+> As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that it is launching two unscripted Bravo microdramas, which will stream in the Peacock app.
+- `TechCrunch` [Digg tries again, this time as an AI news aggregator](https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/)
+> In an email to beta testers, the company said the site's goal is to "track the most influential voices in a space" and to surface the news that's actually worth "paying attention to."
+- `TechCrunch` [‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says](https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/)
+> The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.
+- `TechCrunch` [NYT’s Wordle to become a TV game show](https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/)
+> This will be the first time that The Times has collaborated with a TV broadcaster for an entertainment-based program, representing yet another pivot in the media company's attempt to build a sustai...
 - `TechCrunch` [TikTok launches an ad-free subscription plan in the UK](https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/)
 > Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.
-- `TechCrunch` [There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.](https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/)
-> Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.
-- `TechCrunch` [Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for ...](https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/)
-> Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass, and discounts from Logitech, SteelSeries, and other gaming brands.
-- `TechCrunch` [Venmo’s biggest makeover in years comes at a very interesting time](https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/)
-> The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a standalone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has repo...
-- `TechCrunch` [Korea’s biggest manufacturers back Config, the TSMC of robot data](https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/)
-> Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.
-- `TechCrunch` [Get ready for the whisper-filled office of the future](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)
-> How will work setups change if we spend more and more time talking to our computers?
-- `TechCrunch` [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)
-> Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.
-- `TechCrunch` [Uber has always wanted to be more than a ride; now it has reason to hurry](https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/)
-> The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.
-- `TechCrunch` [TechCrunch Mobility: Lime’s IPO gamble](https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
-- `TechCrunch` [We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/)
-> On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.
-- `The Verge` [Joanna Stern is not a robot, but she lived with them](https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation)
-> My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one...
-- `The Verge` [TikTok is letting UK users pay to remove ads](https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk)
-> TikTok is preparing to roll out a paid, ad-free version of its app in the UK. The new subscription announced today will be available to users over 18 "over the coming months," according to TikTok's...
-- `The Verge` [Discord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers](https://www.theverge.com/news/927722/discord-xbox-game-pass-starter-edition-nitro-subscribers)
-> Discord is announcing the launch of Nitro Rewards today, a new program for subscribers that bundles benefits from third parties like Microsoft, Logitech, and SteelSeries, into a Nitro subscription....
-- `The Verge` [Wordle is turning into a primetime TV game show on NBC](https://www.theverge.com/games/927536/wordle-game-show-nbc-savannah-guthrie-jimmy-fallon-new-york-times)
-> Wordle could be the next great game show. NBC has greenlit a game show version of The New York Times' popular puzzle game, and it's set to debut in 2027 with Savannah Guthrie as the host. The show ...
-- `The Verge` [Venmo finally takes privacy seriously](https://www.theverge.com/tech/927503/venmo-app-redesign-privacy-posts)
-> Venmo is starting to test a big redesign of its app, and as part of the changes, it will be implementing a major new privacy measure: the onboarding process for new users will set their posts to on...
-- `The Verge` [Windows 11 is getting a macOS-like speed boost](https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost)
-> Microsoft is currently testing a new speed boost feature in Windows 11 that is designed to improve app launch times and make things like the Start menu feel more responsive. The feature, which is r...
-- `The Verge` [Forza Horizon 6 has been leaked and cracked a week before its release](https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked)
-> The full version of Playground Games' upcoming Forza Horizon 6 game has leaked online over the weekend and has already been cracked by pirates. The download appeared on file sharing sites after som...
-- `The Verge` [Logitech’s tiny folding mouse improves upon the laptop trackpad](https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images)
-> Logitech is reportedly developing a new wireless mouse that folds in half to make it easier to carry around in a bag or pocket. According to leaked marketing images shared by WinFuture, Logitech's ...
-- `The Verge` [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano)
-> Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic sp...
-- `The Verge` [Ashnymph’s Childhood EP is exhilarating dance goth rock](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review)
-> I've got to thank my oldest friend and concert buddy, Tim, for turning me on to this one. Ashnymph is a London band that blends post-punk melodies with Krautrock rhythms and industrial grime. Their...
+- `TechCrunch` [There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them](https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/)
+> The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and...
+- `The Verge` [OpenAI just released its answer to Claude Mythos](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)
+> OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to crea...
+- `The Verge` [Yarbo says it will remove the intentional backdoor from its robot lawn mower](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor)
+> The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot ove...
+- `The Verge` [Here’s what Mira Murati’s AI company is up to](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model)
+> Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called "interaction models." The idea behind interaction models, accordin...
+- `The Verge` [Govee’s new portable smart lamp is on sale for the first time](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale)
+> If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and i...
+- `The Verge` [Palantir’s true believers are wearing this jacket](https://www.theverge.com/report/928026/palantir-chore-coat)
+> In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enforcement - announced ...
+- `The Verge` [Apple brings encrypted RCS chats to iPhone](https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android)
+> Apple now lets you have encrypted RCS conversations with Android users through the Messages app on iOS. As part of iOS 26.5, which was released on Monday, Apple added support for end-to-end encrypt...
+- `The Verge` [Texas sues Netflix for advertising ‘bait and switch’ and spying](https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy)
+> Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids. The lawsuit, filed on Monday, cla...
+- `The Verge` [Google stopped a zero-day hack that it says was developed with AI](https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped)
+> For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), "prominent cyber crime threat ac...
+- `The Verge` [A million baby monitors and security cameras were easily viewable by hackers](https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera)
+> A baby's eyes peer directly into the camera lens. A kid with a striped shirt looks up, then away. A boy in a policeman's costume, a gold star on his chest. A messy bedroom that reminds me of my own...
+- `The Verge` [7 of our favorite deals from Amazon’s Pet Days sale](https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale)
+> A big part of my job here at The Verge is to find deals on tech that readers will like. But in my personal life, I’m not spending anywhere near as much money on tech as I am on food, litter, and ot...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
