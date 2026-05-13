@@ -6,17 +6,43 @@
 
 # 📰 每日科技日报 — 2026-05-13
 
-> 自动收集于 2026-05-13 03:57 | 共 50 条
+> 自动收集于 2026-05-13 14:00 | 共 40 条
 
 ## 🇨🇳 中文科技
 
-- `36氪` [36氪专访 | 安克创新eufy Make负责人：众筹超4000万美金后，还在红海寻找缝隙](https://36kr.com/p/3806507139390984?f=rss)
+- `36氪` [2026 AI最佳场景渗透案例重磅揭晓](https://36kr.com/p/3807623172235011?f=rss)
+>  
+   
+  如果用一个词来描述当下的AI产业，“落地”已有些过时，“渗透”则更为准确。
+  “渗透”意味着AI不再是发布会上的炫技Demo，也不再是PPT里的概念模型，而是像水电煤一样，悄无声息地融入企业运营的毛细血管和用户日常的消费决策中。
+  据麦肯锡《2025 AI应用现状调研》报告显示，在国内大模型的快速崛起推动下，生成式AI已广泛渗透至企业运营中，83%的企...
+- `36氪` [氪星晚报｜腾讯刘炽平：腾讯没有大裁员计划；中美在韩国举行经贸磋商；马斯克称星舰第12次试飞将于下周进行](https://36kr.com/p/3807540422942214?f=rss)
+> 大公司：
+  腾讯：Hy3 preview调用量持续居OpenRouter榜首，Agent密集发布
+  36氪获悉，腾讯发布2026年第一季度财报，AI全线提速。其中，混元不到三个月完成重建，Hy3 preview在上下文、Agent、Coding等能力上显著提升。OpenRouter数据显示，Hy3 preview结束限免期后，日Token用量和周Token调用量仍保持榜首；4月27日至5...
+- `36氪` [林俊旸创业，新公司估值约20亿美金丨智能涌现独家](https://36kr.com/p/3807382930251523?f=rss)
+> 文｜周鑫雨 邓咏仪
+  编辑｜杨轩
+  林俊旸以创业者的身份，重新加入AI模型的战场。
+  《智能涌现》独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。
+  目前，林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高榕创投等。
+  截至发稿前，有关上述信息，林俊旸尚未回复。
+  时间距离3月初的那场...
+- `36氪` [6月上海，这场论坛聊透出海真问题](https://36kr.com/p/3807234971131656?f=rss)
+> 副标题：韧性全球化，AI向未来｜EqualOcean2026出海全球化百人论坛（GGF2026）将于6月11日在上海举行
+  
+  出海这件事，已经变了。
+  如果今天还把出海理解为“寻找增量市场”，大概率已经慢了一步。
+   如今，中国企业出海已经进入一个全新的阶段。真正拉开差距的，早已不是“是否出海”，而是：
+  · 下一阶段最值得重仓的区域市场在哪里？
+  ·&nb...
+- `36氪` [36氪专访 | 安克创新eufyMake负责人：众筹超4000万美金后，还在红海寻找缝隙](https://36kr.com/p/3806507139390984?f=rss)
 > 作者 | 张子怡
   编辑 | 袁斯来
   那是一个价值5000万美元成功故事诞生的夜晚。
-  eufy Make的产研负责人Cheney Xie仍然记得狂喜带来的多巴胺。那是2025年4月29日晚上十点，eufy MakeUV打印机E1上线众筹。
+  eufyMake的产研负责人Cheney Xie仍然记得狂喜带来的多巴胺。那是2025年4月29日晚上十点，eufy MakeUV打印机E1上线众筹。
   首个100万美元的记录用时不过一分钟。“感觉像爆金币一样，金额哗啦啦涨上去。”
-  当夜无人入眠。直...
+  当夜无人入眠。直到...
 - `36氪` [36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构](https://36kr.com/p/3807043342475009?f=rss)
 > 作者 | 乔钰杰
   编辑 | 袁斯来
@@ -47,30 +73,10 @@
   
   如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”。 
   从资本市场用真金白银为应用层投票，到全球科技界重新校准AI的价值尺度，聚光灯正从晦涩的参数竞赛，转向了真实的生产生活。当行业洗牌加速，所有人都在寻找...
-- `36氪` [Walulu：用六个月撕开一条新赛道](https://36kr.com/p/3805761383751427?f=rss)
-> 文丨果脯
-  近日，成都雨之灵动科技有限公司（后称雨之灵动）宣布完成总额数千万人民币的天使轮及Pre-A轮融资。
-  目前其投资方阵容已颇为亮眼，包含KK集团、4399、科大讯飞和一家知名财务投资机构，涵盖了财务资本、渠道资源、游戏行业及AI技术四大维度。做到这种程度，基本已经覆盖了一家AI消费品公司的所需的核心拼图。
-  雨之灵动能同时吸引到这四类资方，一定程度上说明他们的项目不仅打动了财...
-- `36氪` [36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”](https://36kr.com/p/3805672617959173?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。
-  熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同创立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业...
-- `36氪` [8点1氪丨美国总统特朗普：非常期待中国之行  ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元](https://36kr.com/p/3805557782486785?f=rss)
-> 今日热点导览
-  天舟十号货运飞船与空间站组合体完成交会对接
-  国家广播电视总局：4月经备案国产电视动画片51部、9659分钟
-  任天堂股价因Switch 2游戏前景不佳大幅下跌
-  千问与淘宝打通，正式上线AI购物
-  TOP3大新闻
-  美国总统特朗普：非常期待中国之行
-  外交部发言人宣布：应国家主席习近平邀请，美利坚合众国总统唐纳德·特朗普将于5月13日至15日对中国进行国事访问...
-- `36氪` [量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例](https://36kr.com/p/3804356346879495?f=rss)
-> 文｜胡香赟
-  编辑｜海若镜
-  在科幻电影《流浪地球2》中，拥有指数级运算能力的智能量子计算机“MOSS”，不仅能统筹起全世界的计算资源，支撑1万台“行星发动机”同步运转，还承载足“数字生命计划”那海量的、近乎无底洞般的计算需求，引发大众对量子计算机的无限遐想。这种曾经令人惊叹的科幻设定，如今已慢慢从实验室走向商业化落地。
-  按照“十五五规划纲要”，量子科技已被列入六大未来产业之一；市场...
+- `少数派` [App+1 | 把笔记软件「装进」浏览器：SilverBullet.md](https://sspai.com/post/109399)
+> 我试过的笔记软件可能比记过的笔记都多——这样说或许有些夸张，但自2019年RoamResearch进入大众视野，各种支持双链笔记的PKM软件有如过江之鲫。多年来，我也辗转于各类方案、各种组合。我尝试过 ...查看全文
+- `少数派` [佳明本能 Instinct 3 太阳能版评测：我的智能手表终章](https://sspai.com/post/108228)
+> 本能 3 太阳能版这种追求长久耐用、长续航的理念更显可贵，以至于我找不到它的任何替代品，我想，这就是我的智能手表终章了。查看全文
 - `少数派` [Google 提前给 Android 办了场发布会，但主角依然不是 Android](https://sspai.com/post/109699)
 > 2025年，Google第一次提前将Android部分从I/O大会的Keynote开幕演讲环节中拆了出来。彼时AI领域已是风云诡谲，作为曾经靠GoogleAssistant和AIFirst战略引领时代 ...查看全文
 - `少数派` [派早报：Google 发布多项 Android 功能更新、腾讯收购喜马拉雅获批等](https://sspai.com/post/109698)
@@ -87,62 +93,13 @@
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」](https://sspai.com/post/109461)
 > 五一期间到朋友家做客，他从餐边柜里搬出一整套器具——V60、手磨、手冲壶、分享壶，一顿操作「猛如虎」，三分钟后说「好像有点苦」。我喝了一口，确实苦，不是风味描述里「可可」的那种苦，而是翻车的苦。入坑那 ...查看全文
-- `少数派` [监工水獭 × 明基挂灯：老朋友回来了，新福利也一并送到](https://sspai.com/post/109542)
-> 五年前，我们做了一只水獭造型的玩偶挂件。我们希望桌面上能有这样一个小东西：不闪光光、不发声、不吵吵你，只是趴在那里，偶尔被你眼角扫到一眼，心情突然就柔软几秒。首批监工水獭用户返图首批监工水獭做出来后反 ...查看全文
-- `少数派` [寻找你身边的电波——如何上中继](https://sspai.com/post/87897)
-> 无线电波都会穿过你我的身体，而我们并不知道他们承载了什么样的信息，最终又要去向哪里。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Temu is advertising filet mignon on X](https://twitter.com/shoptemu/status/2053092200632685016)
-> Article URL: https://twitter.com/shoptemu/status/2053092200632685016
-Comments URL: https://news.ycombinator.com/item?id=48117190
-Points: 35
-# Comments: 5
-- `Hacker News` [Starship V3](https://www.spacex.com/updates#starship-v3)
-> Article URL: https://www.spacex.com/updates#starship-v3
-Comments URL: https://news.ycombinator.com/item?id=48116781
-Points: 121
-# Comments: 56
-- `Hacker News` [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/)
-> Article URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/
-Comments URL: https://news.ycombinator.com/item?id=48116207
-Points: 87
-# Comments: 25
-- `Hacker News` [When "idle" isn't idle: how a Linux kernel optimization became a QUIC bug](https://blog.cloudflare.com/quic-death-spiral-fix/)
-> Article URL: https://blog.cloudflare.com/quic-death-spiral-fix/
-Comments URL: https://news.ycombinator.com/item?id=48116064
-Points: 29
-# Comments: 1
-- `Hacker News` [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem)
-> Article URL: https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem
-Comments URL: https://news.ycombinator.com/item?id=48115823
-Point...
-- `Hacker News` [Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/)
-> Article URL: https://www.savethearchive.com/newsleaders/
-Comments URL: https://news.ycombinator.com/item?id=48115807
-Points: 213
-# Comments: 52
-- `Hacker News` [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
-> Article URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab
-Comments URL: https://news.ycombinator.com/item?id=48115127
-Points: 243
-# Comments: 97
-- `Hacker News` [EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant](https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant)
-> Article URL: https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant
-Comments URL: https://news.ycombinator.com/item?id=48115059
-Points: 130
-# Com...
-- `Hacker News` [Scrcpy v4.0](https://github.com/Genymobile/scrcpy/releases/tag/v4.0)
-> Article URL: https://github.com/Genymobile/scrcpy/releases/tag/v4.0
-Comments URL: https://news.ycombinator.com/item?id=48114356
-Points: 58
-# Comments: 8
-- `Hacker News` [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/)
-> Article URL: https://typesetinthefuture.com/2016/02/18/futuristic/
-Comments URL: https://news.ycombinator.com/item?id=48113895
-Points: 243
-# Comments: 30
+- `TechCrunch` [Poppy debuts a proactive AI assistant to help organize your digital life](https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/)
+> Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.
+- `TechCrunch` [Adaption aims big with AutoScientist, an AI tool that helps models train themselves](https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/)
+> Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.
 - `TechCrunch` [Medicare’s new payment model is built for AI, and most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
 > There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication....
 - `TechCrunch` [Kevin Hartz’s A* just closed its third fund with $450M](https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/)
@@ -159,30 +116,26 @@ Points: 243
 > Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.
 - `TechCrunch` [Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets](https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/)
 > Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.
-- `TechCrunch` [The AI legal services industry is heating up — Anthropic is getting in on the action](https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/)
-> Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other...
-- `TechCrunch` [Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups](https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/)
-> Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.
-- `The Verge` [Sony’s new Xperia phone gets an overdue redesign](https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs)
-> Sony's Xperia 1 flagships have looked more or less the same since 2020, but that's finally changing with the Xperia 1 VIII, which moves to a chunky square camera island. The phone also boasts what ...
-- `The Verge` [Sam Altman was winning on the stand, but it might not be enough](https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial)
-> After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt...
-- `The Verge` [iOS 27 might add a lot more customization to the Camera app](https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization)
-> Apple's next iOS update could include something phone photographers have been waiting for: a lot more control over the Camera app. According to Bloomberg's Mark Gurman, the Camera app will be "full...
-- `The Verge` [Meta won’t let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
-> Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any ...
-- `The Verge` [Meta will tell parents when their teens add new interests to their Instagram algorithm](https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls)
-> Starting Tuesday, parents can get more details about what their teens are up to on Instagram. Meta is adding a feature to its Teen Accounts that shows parents the "general topics their teens engage...
-- `The Verge` [Sam Altman says Elon Musk’s mind games were damaging OpenAI](https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage)
-> OpenAI CEO Sam Altman says Elon Musk did "huge damage" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg B...
-- `The Verge` [Android Auto is now one (screen) size fits all](https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all)
-> This week at I/O, Google rolled out a series of major updates for Android Auto that include better sizing for unconventionally shaped screens, video streaming through YouTube, widget support, and o...
-- `The Verge` [Google announces its Chromebook successor: the Googlebook](https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook)
-> Google is announcing a new line of laptops coming in the fall called Googlebooks. Details are sparse for now, as the tease is just a small part of various Android announcements during Google's Andr...
-- `The Verge` [The 9 biggest new features in Android 17](https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io)
-> Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI update...
-- `The Verge` [Gemini’s latest updates are all about controlling your phone](https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill)
-> It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in mor...
+- `The Verge` [Why does the Googlebook exist?](https://www.theverge.com/report/929374/google-googlebook-laptops-aluminium-os-questions-concerns-ai-gemini)
+> Google announced its new Googlebook laptop platform yesterday, and so far I've been left asking, "Why?" Why is Google blowing up its Chromebook and ChromeOS platform for this? I've been excited by ...
+- `The Verge` [The border is everywhere](https://www.theverge.com/report/928726/border-security-expo-cbp-ice-dhs-surveillance)
+> No one paid attention to the gunshots that echoed through the convention center. They were real enough, and so were the screams that accompanied them, in the sense that they were recordings of real...
+- `The Verge` [Nintendo says it has more Switch 2 games in store for 2026](https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026)
+> With the Switch 2 getting a price hike in September, this holiday season will be pivotal for Nintendo. That increased cost means that the company will rely heavily on new games to sell its current ...
+- `The Verge` [Canon’s latest EOS R6 camera goes V for video](https://www.theverge.com/gadgets/929377/canon-eos-r6-v-mirrorless-video-camera-price-specs)
+> Canon has announced a new EOS R6 V mirrorless camera, a 32.5-megapixel camera with 7K video. It's the first full-frame EOS camera to carry the V moniker, signifying that it's designed primarily for...
+- `The Verge` [Alexa is moving into Amazon.com](https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus)
+> Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be ...
+- `The Verge` [Unitree will sell you a massive ‘transformable mecha’ for $650,000](https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot)
+> Unitree is already one of the most recognizable names in the humanoid robot industry, but now it's pursuing even nicher sci-fi tech: giant mech suits. The Chinese robotics company has debuted the G...
+- `The Verge` [Microsoft’s Xbox PC app hints at China expansion for Game Pass](https://www.theverge.com/news/929454/microsoft-xbox-game-pass-china-expansion-rumors)
+> Microsoft appears to be working on expanding its Xbox Game Pass subscription to China. References to "Project Saluki" have been discovered in a recent update to the Xbox PC app this week, with Micr...
+- `The Verge` [The Trump phone starts shipping this week, CEO claims](https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week)
+> The Trump phone may finally be here: Trump Mobile's CEO told USA Today that the phone will begin shipping to buyers this week. The announcement comes as reports have gone viral this week alleging t...
+- `The Verge` [The Apple Studio Display could have been so much more](https://www.theverge.com/tech/929015/apple-studio-display-2026)
+> For the better part of 12 years, Apple owned the 5K monitor world - primarily because it made basically the only options. LG's 5K UltraFine was a solid, if bland choice, but many people bought a 27...
+- `The Verge` [Data centers are coming for rural America](https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine)
+> At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
