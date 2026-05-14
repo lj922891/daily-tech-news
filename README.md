@@ -4,12 +4,41 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-13
+# 📰 每日科技日报 — 2026-05-14
 
-> 自动收集于 2026-05-13 14:00 | 共 40 条
+> 自动收集于 2026-05-14 03:56 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司](https://36kr.com/p/3807162054106624?f=rss)
+> 文 | 胡香赟
+  编辑 | 海若镜
+  5月13日，招股书秘交三个多月后，37岁的赖才达带领剂泰科技登陆港交所。开盘上涨170%，上市首日收涨127%，市值超270亿港币。
+  在这位带着几分书生气的麻省理工学院(MIT)化工博士背后，站着贝莱德、瑞银、国新基金、高瓴等基石投资机构，香港公开发售环节超购6900倍。
+  从成立到IPO，剂泰科技用了七年时间。2019年，晶泰科技内部筹备孵化...
+- `36氪` [36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍](https://36kr.com/p/3807831328300549?f=rss)
+> 作者 | 张子怡
+  编辑 | 袁斯来
+  硬氪获悉，智能体育影像品牌「XbotGo」（深眸远智）于近期完成近亿元的新一轮融资。由九号资本领投，元禾控股、不同资本跟投，老股东零一创投超额跟投，云岫资本担任长期独家财务顾问。
+  在青少年体育运动文化发达的美国，体育不仅仅是竞技，更是家庭生活的核心。相关数据显示，美国有超过3000万青少年参与专业体育训练...
+- `36氪` [独家对谈｜林琳：一位耶鲁MBA裸辞转行卖保险之后](https://36kr.com/p/3807535484886786?f=rss)
+> 图源：公众号「职场Bonus」（ID：ZhiChangHongLi）
+  林琳有着外人眼中“光鲜”的履历：中国人民大学本科、耶鲁大学MBA，从一级市场与二级市场投研起步，深耕企业咨询培训近十年。
+  35岁后，这位履历光鲜的女孩跨界切入财富管理赛道，成为一名保险代理人。
+  她很少向外人提起，自己曾经历两次裸辞，一年空窗期里几度陷入迷茫。
+  如今，她用“中年觉醒”形容自己的状态——“做成啥...
+- `36氪` [8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥](https://36kr.com/p/3808362853834502?f=rss)
+> 今日热点导览
+  
+   腾讯刘炽平：腾讯没有大裁员计划
+   韩国政府称将支持三星与工会对话解决纠纷，以避免罢工
+   中美经贸磋商在韩国开始举行
+   宇树科技已注册多款机器人商标
+   TikTok在印尼、美国、日本三国官宣生活服务品牌TikTok GO
+  
+  TOP 3 大新闻
+  林俊旸创业，新公司估值约20亿美金
+  36氪独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开...
 - `36氪` [2026 AI最佳场景渗透案例重磅揭晓](https://36kr.com/p/3807623172235011?f=rss)
 >  
    
@@ -48,31 +77,8 @@
   编辑 | 袁斯来
   硬氪获悉，近日，光子芯力（北京）科技有限公司（以下简称“光子芯力”）宣布完成数千万元天使轮融资，由苏州芯阳基金、驰星创投、盛景嘉成联合领投，开源创投跟投。
   光子芯力成立于2024年，总部位于北京，是一家专注于光电融合计算芯片的硬科技初创公司。公司创始人杨其晟博士毕业于清华大学集成电路学院，具备光电融合交叉...
-- `36氪` [深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发](https://36kr.com/p/3807039782116865?f=rss)
-> 36氪获悉，智能建造机器人本体开发商北京方石机器人有限公司（下称「方石机器人」）近期宣布完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资。资金将主要用于核心产品的研发迭代投入、批量化生产交付能力建设以及海外市场体系布局。
-  
-  方石机器人产品矩阵
-  方石机器人成立于2019年，致力于解决建筑行业用工老龄化、作业环境高危低效等痛点，通过打造全栈自研的“具身智能+建筑大模...
-- `36氪` [8点1氪丨宇树发布载人变形机甲，定价390万起；微信确认不会开发已读、访客功能；国内航线燃油附加费将再上调](https://36kr.com/p/3806970999955201?f=rss)
-> 今日热点导览
-  中央网信办：平台发布短视频必选6类标签
-  抖音集团短剧版权中心：2026年真人短剧的保底扶持预算超15亿元
-  快手：正在评估拟议重组可灵AI之相关资产及业务的方案，拟议方案仍处于初步阶段
-  网易云音乐全面接入DeepSeek-V4
-  阿里发布AI店小蜜，平均询单转化提升超10%
-  TOP3大新闻
-  宇树科技发布GD01载人变形机甲，投资人回应
-  5月12日，宇...
-- `36氪` [氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%](https://36kr.com/p/3806196073242112?f=rss)
-> 大公司：
-  京东：第一季度营收3157亿元，同比增长4.9%
-  36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润率提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，季度活跃用户数实现连续10个季度的同比双位数增长。京东体系研发投入在一季度同比增长...
-- `36氪` [不用再找了，AI落地最全的实战打法，都在亦庄这场大会里](https://36kr.com/p/3806179759496711?f=rss)
-> 5月19日至20日，带上你的需求，
-  带上你的方案，我们在亦庄，不见不散。
-  
-  如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”。 
-  从资本市场用真金白银为应用层投票，到全球科技界重新校准AI的价值尺度，聚光灯正从晦涩的参数竞赛，转向了真实的生产生活。当行业洗牌加速，所有人都在寻找...
+- `少数派` [派早报：索尼推出 Xperia 1 VIII 手机及 Alpha 7R VI 相机等](https://sspai.com/post/109734)
+> 雷蛇推出猎魂光蛛 V3 竞技版 8KHz 键盘、摩托罗拉 Moto Tag 2 蓝牙追踪器发售等。查看全文
 - `少数派` [App+1 | 把笔记软件「装进」浏览器：SilverBullet.md](https://sspai.com/post/109399)
 > 我试过的笔记软件可能比记过的笔记都多——这样说或许有些夸张，但自2019年RoamResearch进入大众视野，各种支持双链笔记的PKM软件有如过江之鲫。多年来，我也辗转于各类方案、各种组合。我尝试过 ...查看全文
 - `少数派` [佳明本能 Instinct 3 太阳能版评测：我的智能手表终章](https://sspai.com/post/108228)
@@ -87,8 +93,6 @@
 > 在这篇文章里，让我们聊聊 F1 赛事 2026 年的新规，和可能出现的 Super Clipping 现象。查看全文
 - `少数派` [App+1 | 如果你的手机没有内置地震预警，这款 App 不妨常备](https://sspai.com/post/73727)
 > 希望大家都可以在灾害中保持冷静，保证安全。查看全文
-- `少数派` [派早报：大疆发布扫拖机器人 ROMO 2 系列等](https://sspai.com/post/109647)
-> 千问与淘宝全面打通，Google 安全团队首次发现 AI 参与黑客活动的迹象等。查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/109636)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [手冲咖啡进阶指北：如何让「冠军参数」变成「你的日常」](https://sspai.com/post/109461)
@@ -96,46 +100,84 @@
 
 ## 🌍 国际科技
 
-- `TechCrunch` [Poppy debuts a proactive AI assistant to help organize your digital life](https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/)
-> Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.
-- `TechCrunch` [Adaption aims big with AutoScientist, an AI tool that helps models train themselves](https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/)
-> Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.
-- `TechCrunch` [Medicare’s new payment model is built for AI, and most of the tech world has no idea](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/)
-> There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication....
-- `TechCrunch` [Kevin Hartz’s A* just closed its third fund with $450M](https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/)
-> The firm takes a generalist approach, backing companies across categories such as AI applications, fintech, healthcare, and security. The average check size for this fund will be between $3 million...
-- `TechCrunch` [Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup](https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/)
-> Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.
-- `TechCrunch` [Musk mulled handing OpenAI to his children, Altman testifies](https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/)
-> Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his expe...
-- `TechCrunch` [Anthropic warns investors against secondary platforms offering access to its shares](https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/)
-> "Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records," the company's support page reads.
-- `TechCrunch` [Potholes cost cities millions: This company is using AI and trucks to fix them](https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/)
-> Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.
-- `TechCrunch` [Report: Google and SpaceX in talks to put data centers into orbit](https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/)
-> Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.
-- `TechCrunch` [Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets](https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/)
-> Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.
-- `The Verge` [Why does the Googlebook exist?](https://www.theverge.com/report/929374/google-googlebook-laptops-aluminium-os-questions-concerns-ai-gemini)
-> Google announced its new Googlebook laptop platform yesterday, and so far I've been left asking, "Why?" Why is Google blowing up its Chromebook and ChromeOS platform for this? I've been excited by ...
-- `The Verge` [The border is everywhere](https://www.theverge.com/report/928726/border-security-expo-cbp-ice-dhs-surveillance)
-> No one paid attention to the gunshots that echoed through the convention center. They were real enough, and so were the screams that accompanied them, in the sense that they were recordings of real...
-- `The Verge` [Nintendo says it has more Switch 2 games in store for 2026](https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026)
-> With the Switch 2 getting a price hike in September, this holiday season will be pivotal for Nintendo. That increased cost means that the company will rely heavily on new games to sell its current ...
-- `The Verge` [Canon’s latest EOS R6 camera goes V for video](https://www.theverge.com/gadgets/929377/canon-eos-r6-v-mirrorless-video-camera-price-specs)
-> Canon has announced a new EOS R6 V mirrorless camera, a 32.5-megapixel camera with 7K video. It's the first full-frame EOS camera to carry the V moniker, signifying that it's designed primarily for...
-- `The Verge` [Alexa is moving into Amazon.com](https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus)
-> Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be ...
-- `The Verge` [Unitree will sell you a massive ‘transformable mecha’ for $650,000](https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot)
-> Unitree is already one of the most recognizable names in the humanoid robot industry, but now it's pursuing even nicher sci-fi tech: giant mech suits. The Chinese robotics company has debuted the G...
-- `The Verge` [Microsoft’s Xbox PC app hints at China expansion for Game Pass](https://www.theverge.com/news/929454/microsoft-xbox-game-pass-china-expansion-rumors)
-> Microsoft appears to be working on expanding its Xbox Game Pass subscription to China. References to "Project Saluki" have been discovered in a recent update to the Xbox PC app this week, with Micr...
-- `The Verge` [The Trump phone starts shipping this week, CEO claims](https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week)
-> The Trump phone may finally be here: Trump Mobile's CEO told USA Today that the phone will begin shipping to buyers this week. The announcement comes as reports have gone viral this week alleging t...
-- `The Verge` [The Apple Studio Display could have been so much more](https://www.theverge.com/tech/929015/apple-studio-display-2026)
-> For the better part of 12 years, Apple owned the 5K monitor world - primarily because it made basically the only options. LG's 5K UltraFine was a solid, if bland choice, but many people bought a 27...
-- `The Verge` [Data centers are coming for rural America](https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine)
-> At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to ...
+- `Hacker News` [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor)
+> Article URL: https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstr...
+- `Hacker News` [Show HN: Nibble](https://github.com/glouw/nibble)
+> An attempt at a single pass LLVM frontend in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn't perfect, and the README touches on...
+- `Hacker News` [Cisco Workforce Reductions](https://blogs.cisco.com/news/our-path-forward)
+> Article URL: https://blogs.cisco.com/news/our-path-forward
+Comments URL: https://news.ycombinator.com/item?id=48130123
+Points: 43
+# Comments: 21
+- `Hacker News` [Avoiding and reducing microplastic false positives from dry glove contact](https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c)
+> Article URL: https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c
+Comments URL: https://news.ycombinator.com/item?id=48129934
+Points: 5
+# Comments: 0
+- `Hacker News` [Mystery Microsoft bug leaker keeps the zero-days coming](https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758)
+> Article URL: https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758
+Comments URL: https://news.ycombinator.com/item?id=48129789
+Points:...
+- `Hacker News` [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
+> Article URL: http://www.scorch2000.com/web/
+Comments URL: https://news.ycombinator.com/item?id=48129694
+Points: 146
+# Comments: 56
+- `Hacker News` [Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing](https://news.ycombinator.com/item?id=48128003)
+> I wanted to try codex after 5 months of claude code max subscription. And then I went back to my previous projects on claude design only to realize I don't have access to them anymore.This is a fir...
+- `Hacker News` [Meta won't let you block its AI account on Threads](https://www.theverge.com/tech/929091/meta-ai-threads-account-block)
+> Article URL: https://www.theverge.com/tech/929091/meta-ai-threads-account-block
+Comments URL: https://news.ycombinator.com/item?id=48126981
+Points: 137
+# Comments: 62
+- `Hacker News` [Princeton mandates proctoring for in-person exams, upending 133 year precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent)
+> Article URL: https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent
+Comments URL: https://news.ycombinator.com/i...
+- `Hacker News` [A sentimental tour of late 1990s and early 2000s hacking tools](https://andreafortuna.org/2026/05/13/amarcord/)
+> Article URL: https://andreafortuna.org/2026/05/13/amarcord/
+Comments URL: https://news.ycombinator.com/item?id=48125557
+Points: 54
+# Comments: 17
+- `TechCrunch` [Notion just turned its workspace into a hub for AI agents](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)
+> Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.
+- `TechCrunch` [Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center](https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/)
+> Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of "mobile" gas turbines as power plants.
+- `TechCrunch` [Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what t...](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/)
+> The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.
+- `TechCrunch` [This is what some of the world’s largest banks of malware look like stacked as hard drives](https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/)
+> What would some of the world's largest repositories of malware look like if they were stacked as hard drives, one on top of the other?
+- `TechCrunch` [Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand](https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/)
+> Fervo Energy's IPO was upsized several times after potential investors asked why the enhanced geothermal startup wasn't raising more money.
+- `TechCrunch` [X launches a History tab for bookmarks, likes, videos, and articles](https://techcrunch.com/2026/05/13/x-launches-a-history-tab-for-bookmarks-likes-videos-and-articles/)
+> X’s new History tab combines bookmarks, likes, watched videos, and read articles into a single place, expanding the app’s role as a save-it-for-later tool.
+- `TechCrunch` [Instagram’s new ‘Instants’ feature combines elements from Snapchat and BeReal](https://techcrunch.com/2026/05/13/instagrams-new-instants-feature-combines-elements-from-snapchat-and-bereal/)
+> The feature lets users share disappearing photos with their close friends or mutual followers that can be viewed only once and remain available for 24 hours.
+- `TechCrunch` [Rivian spinoff Mind Robotics raises another $400M](https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/)
+> Mind Robotics, which was first revealed in late 2025, has now raised more than $1 billion to date.
+- `TechCrunch` [Who trusts Sam Altman?](https://techcrunch.com/2026/05/13/who-trusts-sam-altman/)
+> "I believe I am an honest and trustworthy businessperson," Altman testified in federal court.
+- `TechCrunch` [Origin Lab raises $8M to help video game companies sell data to world-model builders](https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/)
+> Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.
+- `The Verge` [Microsoft’s Edge Copilot update uses AI to pull information from across your tabs](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs)
+> Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot q...
+- `The Verge` [Trump administration defends right to ban content moderation experts from US](https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research)
+> The Trump administration is fighting for the right to keep some social media moderation advocates out of the US. On Wednesday, US District Court Judge James Boasberg heard arguments in a lawsuit be...
+- `The Verge` [YouTube is courting creators — and sponsors — with streaming shows](https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront)
+> In the ongoing fight for content and talent, YouTube is pitching itself as the connector between the creators and advertisers - and marketing its creators not just as the future of social media, bu...
+- `The Verge` [AMD’s best CPU tech for gamers is coming to workstations too](https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache)
+> For the first time, AMD is including its 3D V-Cache tech in its commercial workstation processors with a refreshed line of Ryzen PRO 9000 series chips. Up until now, AMD's 3D V-Cache chips have mai...
+- `The Verge` [The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.](https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it)
+> Hello and welcome to Regulator, the newsletter for Verge subscribers that goes into tech shenanigans that take place in the backrooms of Washington. Really, it sometimes does feel like the online s...
+- `The Verge` [Fighting Trump will make or break Disney’s new CEO](https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine)
+> A week ago, newly appointed Disney CEO Josh D'Amaro was busy regaling investors with plans to turn Disney Plus into the company's "digital centerpiece." By last Friday, though, his attention had pr...
+- `The Verge` [Netflix’s ad ambitions just keep growing](https://www.theverge.com/streaming/929627/netflix-ads-plan-upfront-2026)
+> For the second year in a row, Netflix's ad-supported tier more than doubled its monthly viewerbase. During its 2026 upfront presentation, Netflix revealed that its $8.99-per-month plan reaches more...
+- `The Verge` [Everything at The Criterion Collection is 30 percent off right now](https://www.theverge.com/gadgets/929760/the-criterion-collection-spring-sale-anora-wes-anderson-deal-sale)
+> If you’ve been meaning to grow your physical movie collection, now’s a good time to do it. Through May 25th, The Criterion Collection is taking 30 percent off every disc on its site, including stan...
+- `The Verge` [Instagram hits the copy button again with new disappearing Instants photos](https://www.theverge.com/tech/929958/instagram-instants-photos-disappearing-app)
+> Instagram is once again cribbing from competitors like Snapchat and BeReal with a new photo-sharing format it calls "Instants," which are ephemeral photos that you can't edit and that you can only ...
+- `The Verge` [Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat](https://www.theverge.com/tech/929791/meta-ai-incognito-chats)
+> Meta CEO Mark Zuckerberg says its new Incognito Chat is "the first major AI product where there is no log of your conversations stored on servers." Messages in Incognito Chat aren't saved or stored...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
