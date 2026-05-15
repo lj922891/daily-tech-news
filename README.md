@@ -6,10 +6,22 @@
 
 # 📰 每日科技日报 — 2026-05-15
 
-> 自动收集于 2026-05-15 04:00 | 共 50 条
+> 自动收集于 2026-05-15 13:23 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [36氪「属于年轻浪潮的派对」WAVES2026丨今年盛夏](https://36kr.com/p/3810380205989632?f=rss)
+>  一场关于“涌现”的未来实验大会。
+- `36氪` [36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？](https://36kr.com/p/3810308239465986?f=rss)
+>  
+   
+  当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。
+  “20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek、豆...
+- `36氪` [长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家](https://36kr.com/p/3810091479293449?f=rss)
+> 36氪从多位产业人士处了解到，千里科技正积极与长安、奥迪、奇瑞等车企，洽谈智能化合作。
+  其中，长安不仅有意向搭载千里科技辅助驾驶方案，还计划入股千里科技，双方原定于今年年初完成股权变更。但目前，据知情人士透露，该计划暂无实质性进展。
+  36氪了解到，北汽是千里科技眼下最具确定性的外部客户，双方计划于今年内成立合资公司。
+  千里科技与北汽计划合作5款车型，其中包含一款轿车，一款越野车型...
 - `36氪` [36氪首发｜航天发动机核心部件厂商获投，国内唯一具备核心部件一站式制造能力的民营企业](https://36kr.com/p/3809936183860740?f=rss)
 > 作者 | 乔钰杰
   编辑 | 袁斯来
@@ -46,27 +58,16 @@
   
   图源：公众号「职场Bonus」（ID：ZhiChangHongLi）
   杭州东站，检票口上方巨幅红色广告牌——“小马宋战略营销咨询”，挂在人潮最汹涌的地方。如果你没见过小马宋，你也许会和我一样，从他过往4A公司的背景猜测他是一个“精英”广告人。山东农村出身，西安交...
-- `36氪` [8点1氪丨周大福回应金饰又涨价；韩国一季度未成年人股票账户暴涨近十倍；张雪机车820RR暂停生产交付](https://36kr.com/p/3809785128869641?f=rss)
-> 今日热点导览
-  
-   李强会见美国工商界代表
-   微信成立800人团队适配鸿蒙，约占开发人员一半
-   周大福回应金饰又涨价
-   韩国要求三星与工会5月16日恢复谈判
-   美参议院批准凯文·沃什出任美联储主席
-  
-  TOP 3 大新闻
-  韩国一季度未成年人股票账户暴涨近十倍
-  近日，三星电子市值突破1万亿美元大关，成为亚洲市值第二高企业。推动这股强劲势头的，正是韩国那支多达...
-- `36氪` [氪星晚报｜千里智驾CEO辟谣离职传闻；三星在计划罢工前夕启动减产](https://36kr.com/p/3809007831375621?f=rss)
-> 大公司：
-  苏州高新：董事长王平因个人原因辞职
-  36氪获悉，苏州高新公告，公司董事会近日收到董事长王平的书面辞职报告。王平因个人原因，申请辞去公司董事长、董事等职务，辞职后不在公司担任任何职务。根据《公司法》《公司章程》及相关规定，董事长王平的离任未导致公司董事会人数低于法定最低人数，不影响公司董事会正常运行，不会对公司经营产生影响。公司将按照法定程序，尽快完成新任董事长的选举、法定代...
-- `36氪` [腾讯要懂得花钱](https://36kr.com/p/3808999399497221?f=rss)
-> 作者 | 黄绎达
-  编辑 | 张帆
-  5月13日，腾讯公布了2026年一季度财报。
-  财报显示，腾讯在2026Q1实现收入1964.58亿元，同比增长9%；同期实现经营利润673.75亿元，同比增长17%；Non-IFRS经营利润录得756.3亿元，同比增长9%。若剔除新AI产品（Hy、元宝、CodeBuddy、WorkBuddy及QClaw）对...
+- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109825)
+> 📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》新预告5月11日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了新预告，定档7月7日开始播出。木村翔马执导，圆城塔编剧， ...查看全文
+- `少数派` [装了啥：编辑部用什么转写音视频内容？](https://sspai.com/prime/story/zhuanglesha-260515)
+> 按：从播客访谈到深度长视频，越来越多的内容创作者把表达重心放到了音视频里；「先转录、再阅读」也因此成了不少重度信息消费者的日常工作流。本期「装了啥」，我们请编辑部几位同事分享各自正在使用的转录方案，希 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [[会员免费] Apple WWDC26 全球开发者大会，来与少数派一起看](https://sspai.com/post/109816)
+> 北京时间6月9日凌晨，WWDC26全球开发者大会首日Keynote主题演讲活动即将揭幕。届时，我们将迎来iOS27、iPadOS27、macOS27、watchOS27、visionOS27等新一代操 ...查看全文
+- `少数派` [快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验](https://sspai.com/post/109708)
+> 我真的非常喜欢快捷指令，它让我学会去缕析一件事的脉络、链路，动手去改写、制定新的规则和流程，让工作和生活都接近我想要的理性，跳脱出很多无形的枷锁。查看全文
+- `少数派` [你真的需要墨水屏设备吗？](https://sspai.com/post/109550)
+> 如果你发现自己也很喜欢阅读器这个品类的话，那就放下「非得用它们读点什么」的执念，愉快地买起来、玩起来吧！查看全文
 - `少数派` [派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等](https://sspai.com/post/109787)
 > 少数派的近期动态可爱又好玩的经典萌物——监工水獭挂件复刻啦！给獭一个家首款MBTI定制墨水屏「口袋先知」预售进行中，一按知运势。立刻预购麦金獭钢化膜单膜补充装已上线，替换装，更划算。立即抢购你可能错过 ...查看全文
 - `少数派` [新玩意 241｜少数派的编辑们最近买了啥？](https://sspai.com/post/109771)
@@ -77,64 +78,63 @@
 > 对于现阶段知识管理的工作流而言，使用者已经无需和工具「将就」了。与其花时间适应别人的工具思路和设置，不如利用手头的工具（包括 AI）自己「手搓」一套自己的方案。从长期来看，自己用得顺手才会让自己持续用下去，而开发、适应所需要的时间和精力也会明显少于以前「削足适履」的经历。查看全文
 - `少数派` [AI 潮来，翻译何为](https://sspai.com/post/108816)
 > AI醒来了，那就let it be——「让它是」，是其所应是的，我们就「顺其自然」。查看全文
-- `少数派` [派早报：索尼推出 Xperia 1 VIII 手机及 Alpha 7R VI 相机等](https://sspai.com/post/109734)
-> 雷蛇推出猎魂光蛛 V3 竞技版 8KHz 键盘、摩托罗拉 Moto Tag 2 蓝牙追踪器发售等。查看全文
-- `少数派` [App+1 | 把笔记软件「装进」浏览器：SilverBullet.md](https://sspai.com/post/109399)
-> 我试过的笔记软件可能比记过的笔记都多——这样说或许有些夸张，但自2019年RoamResearch进入大众视野，各种支持双链笔记的PKM软件有如过江之鲫。多年来，我也辗转于各类方案、各种组合。我尝试过 ...查看全文
-- `少数派` [佳明本能 Instinct 3 太阳能版评测：我的智能手表终章](https://sspai.com/post/108228)
-> 本能 3 太阳能版这种追求长久耐用、长续航的理念更显可贵，以至于我找不到它的任何替代品，我想，这就是我的智能手表终章了。查看全文
-- `少数派` [Google 提前给 Android 办了场发布会，但主角依然不是 Android](https://sspai.com/post/109699)
-> 2025年，Google第一次提前将Android部分从I/O大会的Keynote开幕演讲环节中拆了出来。彼时AI领域已是风云诡谲，作为曾经靠GoogleAssistant和AIFirst战略引领时代 ...查看全文
-- `少数派` [社区速递 140 | 派友热议状态栏里藏了啥、两款百元级新玩意体验](https://sspai.com/post/109674)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿「新玩意」呈现给大家。上周社区 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
-> Article URL: https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/
-Comments URL: https://news.ycombinator.com/item?id=48143880
-Points: 88
-# Comments: 23
-- `Hacker News` [Find vendors used by any company](https://sub-processors.com/subprocessor/elasticsearch)
-> Article URL: https://sub-processors.com/subprocessor/elasticsearch
-Comments URL: https://news.ycombinator.com/item?id=48143617
-Points: 3
-# Comments: 0
-- `Hacker News` [UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris)
-> Article URL: https://www.theembeddedrustacean.com/uferris
-Comments URL: https://news.ycombinator.com/item?id=48143256
-Points: 13
+- `Hacker News` [Cursing the government does not fix potholes. Spray-painting them does](https://imagenotfound.writeas.com/the-holes-we-painted-and-why-we-did-it-anyway)
+> Article URL: https://imagenotfound.writeas.com/the-holes-we-painted-and-why-we-did-it-anyway
+Comments URL: https://news.ycombinator.com/item?id=48147988
+Points: 9
+# Comments: 10
+- `Hacker News` [Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos](https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/)
+> Article URL: https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/
+Comments URL: https://news.ycombinator.com/item?id=48147945...
+- `Hacker News` [Bitwarden scrubs 'Always free' and 'Inclusion' values from its site](https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down)
+> Article URL: https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down
+Comments URL: https://news.ycombinator.com/item?id=4...
+- `Hacker News` [Radicle: Sovereign {code forge} built on Git](https://radicle.dev/)
+> Article URL: https://radicle.dev/
+Comments URL: https://news.ycombinator.com/item?id=48147603
+Points: 31
 # Comments: 3
-- `Hacker News` [Velonus – Open-source AppSec scanner that deduplicates SAST noise](https://github.com/AliAmmar15/Velonus)
-> Article URL: https://github.com/AliAmmar15/Velonus
-Comments URL: https://news.ycombinator.com/item?id=48143235
-Points: 7
-# Comments: 1
-- `Hacker News` [LLM Policy for Rust Compiler](https://github.com/rust-lang/rust-forge/pull/1040)
-> Article URL: https://github.com/rust-lang/rust-forge/pull/1040
-Comments URL: https://news.ycombinator.com/item?id=48142650
-Points: 19
-# Comments: 6
-- `Hacker News` [More than sixty percent of the United States is experiencing drought conditions](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html)
-> Article URL: https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html
-Comments URL: https://news.ycombinator.com/item?id=48142193
-Points: 127
-# Comments: 56
-- `Hacker News` [Ontario auditors find doctors' AI note takers routinely blow basic facts](https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771)
-> Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771
-Comments URL: https://news.ycombinator.com/item?id=48142188...
-- `Hacker News` [A few words on DS4](https://antirez.com/news/165)
-> Article URL: https://antirez.com/news/165
-Comments URL: https://news.ycombinator.com/item?id=48142108
-Points: 198
-# Comments: 63
-- `Hacker News` [Show HN: GridTravel- A community based travel app for users to share routes](https://www.gridtravel.app)
-> Hey HN,My co-founders and I have been building GridTravel, a free iOS app for planning and sharing travel routes with turn-by-turn GPS nav. We just launched yesterday after App Store approval.We're...
-- `Hacker News` [OVMS: Open source electric vehicle remote monitoring, diagnosis and control](https://www.openvehicles.com/home)
-> Article URL: https://www.openvehicles.com/home
-Comments URL: https://news.ycombinator.com/item?id=48141732
-Points: 47
-# Comments: 5
+- `Hacker News` [SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles](https://signoz.io/careers)
+> Article URL: https://signoz.io/careers
+Comments URL: https://news.ycombinator.com/item?id=48147533
+Points: 0
+# Comments: 0
+- `Hacker News` [Welcome to the Strip Mining Era of OSS Security](https://www.metabase.com/blog/strip-mining-era-of-open-source-security)
+> Article URL: https://www.metabase.com/blog/strip-mining-era-of-open-source-security
+Comments URL: https://news.ycombinator.com/item?id=48147339
+Points: 37
+# Comments: 30
+- `Hacker News` [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)
+> Article URL: https://gazagnaire.org/blog/2026-05-14-borealis.html
+Comments URL: https://news.ycombinator.com/item?id=48147058
+Points: 102
+# Comments: 7
+- `Hacker News` [Steve Jobs Next Computer: His Forgotten Exile Years](https://spectrum.ieee.org/steve-jobs-next-computer)
+> Article URL: https://spectrum.ieee.org/steve-jobs-next-computer
+Comments URL: https://news.ycombinator.com/item?id=48146908
+Points: 52
+# Comments: 45
+- `Hacker News` [NanoTDB – Golang Append-Only Time Series DB](https://github.com/aymanhs/nanotdb)
+> Article URL: https://github.com/aymanhs/nanotdb
+Comments URL: https://news.ycombinator.com/item?id=48146877
+Points: 11
+# Comments: 0
+- `Hacker News` [UK sovereign LLM inference](https://relax.ai/docs)
+> Article URL: https://relax.ai/docs
+Comments URL: https://news.ycombinator.com/item?id=48146424
+Points: 89
+# Comments: 98
+- `TechCrunch` [Even GoPro is pivoting to defense](https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/)
+> The action camera maker, like so many other companies these days, is looking to defense applications as it evaluates a possible sale.
+- `TechCrunch` [Meridian Ventures launched $35M fund to back MBA-deferred founders](https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/)
+> Meridian Ventures, the venture firm founded by Devon Gethers and Karlton Haney, announced on Friday the raise of a $35 million second fund to back pre-seed and seed-stage companies founded by those...
+- `TechCrunch` [Osaurus brings both local and cloud AI models to your Mac](https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/)
+> Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.
+- `TechCrunch` [Indian Uber rival Rapido raises $240M at $3B valuation](https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/)
+> Rapido has driven its growth by enabling ride-hailing for lower-cost and more flexible modes of transport such as motorbikes and autorickshaws.
 - `TechCrunch` [What the jury will actually decide in the case of Elon Musk vs. Sam Altman](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)
 > Here's what the biggest tech court case of the year is all about.
 - `TechCrunch` [Elon Musk’s SpaceXAI has been bleeding staff since its merger](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/)
@@ -147,14 +147,12 @@ Points: 47
 > Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet 10 years ago before agreeing to hear Cerebras' pitch.
 - `TechCrunch` [What happens when AI starts building itself?](https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/)
 > Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.
-- `TechCrunch` [OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to fe...](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/)
-> OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the i...
-- `TechCrunch` [Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard](https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/)
-> A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.
-- `TechCrunch` [YouTube viewers watch 2 billion hours of Shorts on TVs each month](https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/)
-> Short-form video is built for mobile, so it may seem counterintuitive, but it's true: YouTube Shorts are becoming quite popular on the big screen.
-- `TechCrunch` [Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/)
-> A year ago, it looked like this day would never happen for Cerebras.
+- `The Verge` [Bose’s new Lifestyle Ultra speakers are now available](https://www.theverge.com/gadgets/930471/bose-lifestyle-ultra-speaker-soundbar-subwoofer-price-release-date-availability)
+> Sonos has a new rival in town. Bose’s new Lifestyle Collection includes a $299 Lifestyle Ultra Speaker, a $1,099 Lifestyle Ultra Soundbar, and the $899 Ultra Subwoofer, all of which are now availab...
+- `The Verge` [X agrees to crack down on illegal hate and terror content in the UK](https://www.theverge.com/tech/931147/x-illegal-hate-terror-content-ofcom-commitments)
+> British online safety regulator Ofcom says it has accepted new commitments from X that aim to better protect UK users from seeing illegal hate and terror content on the platform. Under the agreemen...
+- `The Verge` [AI research papers are getting better, and it’s a big problem for scientists](https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem)
+> Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something u...
 - `The Verge` [Honda’s hybrid future starts with new Accord and RDX prototypes](https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx)
 > Honda revealed prototypes of two new hybrid models, an Accord sedan and the Acura RDX SUV, during its annual business briefing this week, built on a platform that it says will begin launching next ...
 - `The Verge` [Closing time](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis)
@@ -169,12 +167,6 @@ Points: 47
 > Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controll...
 - `The Verge` [OpenAI’s Codex is now in the ChatGPT mobile app](https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview)
 > OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic...
-- `The Verge` [Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices](https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale)
-> If you’ve been curious about Ray-Ban’s Meta smart glasses, right now they’re on sale in Meta’s biggest deal event outside Black Friday. As part of the company’s Summer Sale event, which runs throug...
-- `The Verge` [Microsoft starts canceling Claude Code licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad)
-> Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project manag...
-- `The Verge` [Linux devs are fighting the new age-gated internet](https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source)
-> In January, Colorado lawmakers introduced a proposal to make operating systems collect users' ages and pass them to app developers. The bill, SB26-051, had clearly been designed for commercial plat...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
