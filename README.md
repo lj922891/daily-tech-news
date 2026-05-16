@@ -4,12 +4,36 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-15
+# 📰 每日科技日报 — 2026-05-16
 
-> 自动收集于 2026-05-15 13:23 | 共 50 条
+> 自动收集于 2026-05-16 03:41 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断](https://36kr.com/p/3810520138243593?f=rss)
+> 作者 | 张子怡
+  编辑 | 袁斯来
+  硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。
+  据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。
+  在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导...
+- `36氪` [9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元](https://36kr.com/p/3811265856626440?f=rss)
+> 今日热点导览
+  
+   OpenAI正考虑采取法律手段起诉苹果公司
+   三星电子开发下一代HBM封装技术，或用于智能手机等移动设备
+   海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群
+   世界银行首席经济学家英德米特・吉尔将于8月卸任退休
+   “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示
+  
+  TOP 3大新闻
+  央视确认获得2026年世界杯版权，...
+- `36氪` [理想出牌：全新L9上市，45.98万元起｜最前线](https://36kr.com/p/3810562142445058?f=rss)
+> 理想汽车CEO 李想
+  能让李想豁出去跳舞挣眼球的发布会，仅在全新一代理想L9上市。
+  5月15日，理想发布会了全新一代理想L9，推出两个版本——理想L9 livis，售价 50.98万元；理想L9 Ultra版，售价45.98万元。且理想给出了现金2万元的首销权益，截止于6月30日。
+  36氪汽车曾报道指出，理想今年第一目标就是加固增程和高端市场的基本盘。今年产品重心将回归增程市场，...
+- `36氪` [2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代](https://36kr.com/p/3810607581634056?f=rss)
+> 2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一...
 - `36氪` [36氪「属于年轻浪潮的派对」WAVES2026丨今年盛夏](https://36kr.com/p/3810380205989632?f=rss)
 >  一场关于“涌现”的未来实验大会。
 - `36氪` [36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？](https://36kr.com/p/3810308239465986?f=rss)
@@ -39,25 +63,6 @@
   2025年，糖水这个老品类突然火了一把。
   这个赛道的代表公司是麦记牛奶公司、赵记传承，它们在过去一年的门店增长数约为1000家、300家。尤其麦记牛奶，2025年初，它的门店数量只有53家，一年后，它已经成为糖水赛道门店数量最多的品牌。
   另一边则是许久尚未增长的老玩家。截止今天，成立于1995年的满记甜品门店...
-- `36氪` [36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元](https://36kr.com/p/3809919654403587?f=rss)
-> 作者 | 张子怡
-  编辑 | 袁斯来
-  硬氪获悉，消费级桌面CNC与智能数字制造平台「无限工坊（Infimaker）」近日宣布，连续获得多轮融资，融资金额近亿元，投资机构包括美团战投、昆仑资本及奇绩创坛。本轮资金将主要用于产品研发、供应链建设以及高质量量产交付。
-  无限工坊成立于2024年11月，由多位前DJI核心成员及机器人领域海归博士联合创立...
-- `36氪` [2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元](https://36kr.com/p/3809911566704388?f=rss)
-> 2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元
-- `36氪` [阿里巴巴等来收获期，外卖大战已无大波澜](https://36kr.com/p/3807527591058948?f=rss)
-> 文｜彭倩
-  编辑｜乔芊
-  阿里千亿巨额投入后，回报正在逐一兑现。
-  财报显示，阿里巴巴2026年第四财季（即自然年Q1）营收2433.8亿元，同比增长3%。若不考虑高鑫零售和银泰等已出售业务的收入，同口径收入同比增长为11%。
-  营收同比双位数增长主要由云业务（包含 AI 云和传统云）推动。Q1阿里云表现依然亮眼，保持了高增长态势，营收整体同比增长38%，符合市场预期。其中来自外部客...
-- `36氪` [独家对谈｜广告人小马宋的烟火与锋芒：非精英们的精英生存指南](https://36kr.com/p/3807543008698118?f=rss)
-> 图源：公众号「职场Bonus」（ID：ZhiChangHongLi）
-  “能留在牌桌上，就算是‘错误’也会值钱。”
-  
-  图源：公众号「职场Bonus」（ID：ZhiChangHongLi）
-  杭州东站，检票口上方巨幅红色广告牌——“小马宋战略营销咨询”，挂在人潮最汹涌的地方。如果你没见过小马宋，你也许会和我一样，从他过往4A公司的背景猜测他是一个“精英”广告人。山东农村出身，西安交...
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109825)
 > 📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》新预告5月11日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了新预告，定档7月7日开始播出。木村翔马执导，圆城塔编剧， ...查看全文
 - `少数派` [装了啥：编辑部用什么转写音视频内容？](https://sspai.com/prime/story/zhuanglesha-260515)
@@ -81,92 +86,94 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Cursing the government does not fix potholes. Spray-painting them does](https://imagenotfound.writeas.com/the-holes-we-painted-and-why-we-did-it-anyway)
-> Article URL: https://imagenotfound.writeas.com/the-holes-we-painted-and-why-we-did-it-anyway
-Comments URL: https://news.ycombinator.com/item?id=48147988
-Points: 9
-# Comments: 10
-- `Hacker News` [Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos](https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/)
-> Article URL: https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/
-Comments URL: https://news.ycombinator.com/item?id=48147945...
-- `Hacker News` [Bitwarden scrubs 'Always free' and 'Inclusion' values from its site](https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down)
-> Article URL: https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down
-Comments URL: https://news.ycombinator.com/item?id=4...
-- `Hacker News` [Radicle: Sovereign {code forge} built on Git](https://radicle.dev/)
-> Article URL: https://radicle.dev/
-Comments URL: https://news.ycombinator.com/item?id=48147603
-Points: 31
+- `Hacker News` ['No way to prevent this,' says only package manager where this regularly happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)
+> Article URL: https://kevinpatel.xyz/posts/no-way-to-prevent-this/
+Comments URL: https://news.ycombinator.com/item?id=48155690
+Points: 212
+# Comments: 78
+- `Hacker News` [I broke AppLovin's mediation cipher protocol](https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/)
+> Article URL: https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/
+Comments URL: https://news.ycombinator.com/item?id=48155678
+Points: 17
 # Comments: 3
-- `Hacker News` [SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles](https://signoz.io/careers)
-> Article URL: https://signoz.io/careers
-Comments URL: https://news.ycombinator.com/item?id=48147533
-Points: 0
-# Comments: 0
-- `Hacker News` [Welcome to the Strip Mining Era of OSS Security](https://www.metabase.com/blog/strip-mining-era-of-open-source-security)
-> Article URL: https://www.metabase.com/blog/strip-mining-era-of-open-source-security
-Comments URL: https://news.ycombinator.com/item?id=48147339
-Points: 37
-# Comments: 30
-- `Hacker News` [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)
-> Article URL: https://gazagnaire.org/blog/2026-05-14-borealis.html
-Comments URL: https://news.ycombinator.com/item?id=48147058
-Points: 102
-# Comments: 7
-- `Hacker News` [Steve Jobs Next Computer: His Forgotten Exile Years](https://spectrum.ieee.org/steve-jobs-next-computer)
-> Article URL: https://spectrum.ieee.org/steve-jobs-next-computer
-Comments URL: https://news.ycombinator.com/item?id=48146908
-Points: 52
-# Comments: 45
-- `Hacker News` [NanoTDB – Golang Append-Only Time Series DB](https://github.com/aymanhs/nanotdb)
-> Article URL: https://github.com/aymanhs/nanotdb
-Comments URL: https://news.ycombinator.com/item?id=48146877
-Points: 11
-# Comments: 0
-- `Hacker News` [UK sovereign LLM inference](https://relax.ai/docs)
-> Article URL: https://relax.ai/docs
-Comments URL: https://news.ycombinator.com/item?id=48146424
-Points: 89
-# Comments: 98
+- `Hacker News` [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
+> Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using...
+- `Hacker News` [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/)
+> Article URL: https://dynomight.net/p2p-meth/
+Comments URL: https://news.ycombinator.com/item?id=48155324
+Points: 61
+# Comments: 54
+- `Hacker News` [Erlang/OTP 29.0](https://www.erlang.org/news/188)
+> Article URL: https://www.erlang.org/news/188
+Comments URL: https://news.ycombinator.com/item?id=48155297
+Points: 129
+# Comments: 9
+- `Hacker News` [Spectre Programming Language](https://spectre-docs.pages.dev)
+> Article URL: https://spectre-docs.pages.dev
+Comments URL: https://news.ycombinator.com/item?id=48155159
+Points: 29
+# Comments: 3
+- `Hacker News` [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
+> Article URL: https://www.vldb.org/pvldb/vol19/p1469-lee.pdf
+Comments URL: https://news.ycombinator.com/item?id=48154711
+Points: 60
+# Comments: 6
+- `Hacker News` [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
+> https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130
+
+Comments URL: https://news.ycombinator.com/item?id=48153379
+Points: 919
+# Comments: 390
+- `Hacker News` [Microscale Thermite Reaction](https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction)
+> Article URL: https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction
+Comments URL: https://news.ycombinator.com/item?id=48153142
+Points: 56
+# Comments: 21
+- `Hacker News` [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
+> Article URL: https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/
+Comments URL: https://news.ycombinator.com/item?id=48152994
+Points: 369
+# Com...
+- `TechCrunch` [RJ Scaringe has raised more than $12B across three startups and investors still want more](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/)
+> Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a han...
+- `TechCrunch` [General Catalyst posted VC rage bait and it worked, especially on a16z](https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/)
+> Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.
+- `TechCrunch` [A hotel check-in system left a million passports and driver’s licenses open for anyone to see](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/)
+> The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.
+- `TechCrunch` [Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/)
+> Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.
+- `TechCrunch` [Tesla reveals two Robotaxi crashes involving teleoperators](https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/)
+> Newly unredacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.
+- `TechCrunch` [OpenAI launches ChatGPT for personal finance, will let you connect bank accounts](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/)
+> Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.
+- `TechCrunch` [Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers](https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/)
+> The price spike is a reminder of a deeper problem: The U.S. power grid was not designed for the electricity demands of an AI-driven economy, and the gap between what the grid can deliver and what t...
+- `TechCrunch` [US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip](https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/)
+> While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities.
+- `TechCrunch` [Runway started by helping filmmakers — now it wants to beat Google at AI](https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/)
+> AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.
 - `TechCrunch` [Even GoPro is pivoting to defense](https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/)
 > The action camera maker, like so many other companies these days, is looking to defense applications as it evaluates a possible sale.
-- `TechCrunch` [Meridian Ventures launched $35M fund to back MBA-deferred founders](https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/)
-> Meridian Ventures, the venture firm founded by Devon Gethers and Karlton Haney, announced on Friday the raise of a $35 million second fund to back pre-seed and seed-stage companies founded by those...
-- `TechCrunch` [Osaurus brings both local and cloud AI models to your Mac](https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/)
-> Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.
-- `TechCrunch` [Indian Uber rival Rapido raises $240M at $3B valuation](https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/)
-> Rapido has driven its growth by enabling ride-hailing for lower-cost and more flexible modes of transport such as motorbikes and autorickshaws.
-- `TechCrunch` [What the jury will actually decide in the case of Elon Musk vs. Sam Altman](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)
-> Here's what the biggest tech court case of the year is all about.
-- `TechCrunch` [Elon Musk’s SpaceXAI has been bleeding staff since its merger](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/)
-> More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weak...
-- `TechCrunch` [OpenAI says Codex is coming to your phone](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)
-> The update gives users enhanced flexibility over how they can manage their workflows.
-- `TechCrunch` [Lovable just backed a company that’s looking to bring vibe coding to hardware](https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/)
-> Hardware company Atech raised $800,000 in pre-seed funding, including from a16z’s scout fund, Sequoia Scout Fund, and Nordic Makers.
-- `TechCrunch` [Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting](https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/)
-> Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet 10 years ago before agreeing to hear Cerebras' pitch.
-- `TechCrunch` [What happens when AI starts building itself?](https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/)
-> Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.
-- `The Verge` [Bose’s new Lifestyle Ultra speakers are now available](https://www.theverge.com/gadgets/930471/bose-lifestyle-ultra-speaker-soundbar-subwoofer-price-release-date-availability)
-> Sonos has a new rival in town. Bose’s new Lifestyle Collection includes a $299 Lifestyle Ultra Speaker, a $1,099 Lifestyle Ultra Soundbar, and the $899 Ultra Subwoofer, all of which are now availab...
-- `The Verge` [X agrees to crack down on illegal hate and terror content in the UK](https://www.theverge.com/tech/931147/x-illegal-hate-terror-content-ofcom-commitments)
-> British online safety regulator Ofcom says it has accepted new commitments from X that aim to better protect UK users from seeing illegal hate and terror content on the platform. Under the agreemen...
-- `The Verge` [AI research papers are getting better, and it’s a big problem for scientists](https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem)
-> Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something u...
-- `The Verge` [Honda’s hybrid future starts with new Accord and RDX prototypes](https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx)
-> Honda revealed prototypes of two new hybrid models, an Accord sedan and the Acura RDX SUV, during its annual business briefing this week, built on a platform that it says will begin launching next ...
-- `The Verge` [Closing time](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis)
-> Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words....
-- `The Verge` [Metroid Prime 4: Beyond got its first big discount](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale)
-> The most graphically-impressive first-person shooter made for the Nintendo Switch is $20 off at Best Buy. Right now, you can buy the physical version of Metroid Prime 4: Beyond for $39.99 ($20 off)...
-- `The Verge` [Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer)
-> Meta is rolling out new features to its Meta Ray-Ban Display smart glasses, including bringing the ability to write messages just with hand gestures to all users. You'll be able to use the feature ...
-- `The Verge` [Behold, the Elon Musk jackass trophy](https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue)
-> Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers ...
-- `The Verge` [Leaked images reveal Xbox Elite 3 controller with mysterious new buttons](https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images)
-> Hours after a smaller Xbox Cloud Gaming controller appeared online, Brazil's Anatel regulator has also accidentally published images of what appears to be Microsoft's upcoming Xbox Elite 3 controll...
-- `The Verge` [OpenAI’s Codex is now in the ChatGPT mobile app](https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview)
-> OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic...
+- `The Verge` [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
+> Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Micros...
+- `The Verge` [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults)
+> YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness det...
+- `The Verge` [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button)
+> Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channe...
+- `The Verge` [ArXiv will ban researchers who upload papers full of AI slop](https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers)
+> ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has "incontrovertible evidence that the aut...
+- `The Verge` [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)
+> Analogue has released a new firmware update for its Analogue 3D console that adds the Memories save state feature. Memories, which was first introduced with its handheld Analogue Pocket, allows you...
+- `The Verge` [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle)
+> OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Br...
+- `The Verge` [One of Intel’s fastest desktop CPUs is $50 off](https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale)
+> The Intel Core Ultra 7 270K Plus was billed by the company in late March as one of its “fastest gaming desktop processor ever.” That hype was evidently accurate, as benchmarks done by Gamers Nexus ...
+- `The Verge` [AI radio hosts demonstrate why AI can’t be trusted alone](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies)
+> Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models...
+- `The Verge` [Does Trump Mobile know how many stripes are on the American flag?](https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes)
+> Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't ...
+- `The Verge` [Google updates its spam rules to include attempts to ‘manipulate’ AI](https://www.theverge.com/tech/931416/google-ai-search-spam-policy)
+> Google updated its spam policy to mark attempts to "manipulate" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: "In the...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
