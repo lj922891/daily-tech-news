@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-05-16
 
-> 自动收集于 2026-05-16 03:41 | 共 50 条
+> 自动收集于 2026-05-16 12:52 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -39,8 +39,8 @@
 - `36氪` [36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？](https://36kr.com/p/3810308239465986?f=rss)
 >  
    
-  当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。
-  “20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek、豆...
+  当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择���：直接问AI。
+  “20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek...
 - `36氪` [长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家](https://36kr.com/p/3810091479293449?f=rss)
 > 36氪从多位产业人士处了解到，千里科技正积极与长安、奥迪、奇瑞等车企，洽谈智能化合作。
   其中，长安不仅有意向搭载千里科技辅助驾驶方案，还计划入股千里科技，双方原定于今年年初完成股权变更。但目前，据知情人士透露，该计划暂无实质性进展。
@@ -63,6 +63,8 @@
   2025年，糖水这个老品类突然火了一把。
   这个赛道的代表公司是麦记牛奶公司、赵记传承，它们在过去一年的门店增长数约为1000家、300家。尤其麦记牛奶，2025年初，它的门店数量只有53家，一年后，它已经成为糖水赛道门店数量最多的品牌。
   另一边则是许久尚未增长的老玩家。截止今天，成立于1995年的满记甜品门店...
+- `少数派` [为什么我觉得好的东西，媒体评测却给了低分？](https://sspai.com/post/109777)
+> 为什么我觉得好玩的游戏，你却要给出这么低的分？为什么最后在使用中出了问题的产品，你却要在首发评测中大肆吹捧？查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109825)
 > 📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》新预告5月11日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了新预告，定档7月7日开始播出。木村翔马执导，圆城塔编剧， ...查看全文
 - `少数派` [装了啥：编辑部用什么转写音视频内容？](https://sspai.com/prime/story/zhuanglesha-260515)
@@ -81,59 +83,54 @@
 > 因为和ChromeOS中的Linux虚拟机开发环境有着千丝万缕的联系，2025年作为实验性功能登录Google自家Pixel机型的Linux虚拟机，发布后不仅没有就此在开发者选项中闲置，反倒通过不断迭 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [用 Obsidian Web Clipper，让豆瓣种草更容易](https://sspai.com/post/109318)
 > 对于现阶段知识管理的工作流而言，使用者已经无需和工具「将就」了。与其花时间适应别人的工具思路和设置，不如利用手头的工具（包括 AI）自己「手搓」一套自己的方案。从长期来看，自己用得顺手才会让自己持续用下去，而开发、适应所需要的时间和精力也会明显少于以前「削足适履」的经历。查看全文
-- `少数派` [AI 潮来，翻译何为](https://sspai.com/post/108816)
-> AI醒来了，那就let it be——「让它是」，是其所应是的，我们就「顺其自然」。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` ['No way to prevent this,' says only package manager where this regularly happens](https://kevinpatel.xyz/posts/no-way-to-prevent-this/)
-> Article URL: https://kevinpatel.xyz/posts/no-way-to-prevent-this/
-Comments URL: https://news.ycombinator.com/item?id=48155690
-Points: 212
-# Comments: 78
-- `Hacker News` [I broke AppLovin's mediation cipher protocol](https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/)
-> Article URL: https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/
-Comments URL: https://news.ycombinator.com/item?id=48155678
-Points: 17
-# Comments: 3
+- `Hacker News` [Kyber (YC W23) Is Hiring a Founding Marketer](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community)
+> Article URL: https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community
+Comments URL: https://news.ycombinator.com/item?id=48159405
+Points: 0
+# Comments: 0
+- `Hacker News` [Europe built sovereign clouds to escape US control. Forgot about the processors](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735)
+> Article URL: https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735
+Comments URL: https://news.ycombinator.com/it...
+- `Hacker News` [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
+> Article URL: https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html
+Comments URL: https://news.ycombinator.com/item?id=48159241
+Points: 39
+# Comments: 9
+- `Hacker News` [OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days](https://twitter.com/steipete/status/2055346265869721905)
+> Article URL: https://twitter.com/steipete/status/2055346265869721905
+Comments URL: https://news.ycombinator.com/item?id=48159227
+Points: 35
+# Comments: 37
+- `Hacker News` [Futhark by Example](https://futhark-lang.org/examples.html)
+> Article URL: https://futhark-lang.org/examples.html
+Comments URL: https://news.ycombinator.com/item?id=48158606
+Points: 48
+# Comments: 13
+- `Hacker News` [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)
+> Article URL: https://arxiv.org/abs/2605.12357
+Comments URL: https://news.ycombinator.com/item?id=48158506
+Points: 85
+# Comments: 14
+- `Hacker News` [Fecal transplants for autism deliver success in clinical trials](https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/)
+> Article URL: https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/
+Comments URL: https://news.ycombinator.com/item?id=48158494
+Points: 55
+# Comments: 28
+- `Hacker News` [Where to buy a non-Apple, non-Google smartphone](https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681)
+> Article URL: https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681
+Comments URL: https://news.ycombinator.com/item?id=48158130
+Points: 70
+# Comments: 47
+- `Hacker News` [Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead)
+> Article URL: https://kabir.au/blog/the-ctf-scene-is-dead
+Comments URL: https://news.ycombinator.com/item?id=48157559
+Points: 197
+# Comments: 164
 - `Hacker News` [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
 > Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using...
-- `Hacker News` [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/)
-> Article URL: https://dynomight.net/p2p-meth/
-Comments URL: https://news.ycombinator.com/item?id=48155324
-Points: 61
-# Comments: 54
-- `Hacker News` [Erlang/OTP 29.0](https://www.erlang.org/news/188)
-> Article URL: https://www.erlang.org/news/188
-Comments URL: https://news.ycombinator.com/item?id=48155297
-Points: 129
-# Comments: 9
-- `Hacker News` [Spectre Programming Language](https://spectre-docs.pages.dev)
-> Article URL: https://spectre-docs.pages.dev
-Comments URL: https://news.ycombinator.com/item?id=48155159
-Points: 29
-# Comments: 3
-- `Hacker News` [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
-> Article URL: https://www.vldb.org/pvldb/vol19/p1469-lee.pdf
-Comments URL: https://news.ycombinator.com/item?id=48154711
-Points: 60
-# Comments: 6
-- `Hacker News` [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
-> https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130
-
-Comments URL: https://news.ycombinator.com/item?id=48153379
-Points: 919
-# Comments: 390
-- `Hacker News` [Microscale Thermite Reaction](https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction)
-> Article URL: https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction
-Comments URL: https://news.ycombinator.com/item?id=48153142
-Points: 56
-# Comments: 21
-- `Hacker News` [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/)
-> Article URL: https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/
-Comments URL: https://news.ycombinator.com/item?id=48152994
-Points: 369
-# Com...
 - `TechCrunch` [RJ Scaringe has raised more than $12B across three startups and investors still want more](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/)
 > Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a han...
 - `TechCrunch` [General Catalyst posted VC rage bait and it worked, especially on a16z](https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/)
@@ -154,6 +151,12 @@ Points: 369
 > AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.
 - `TechCrunch` [Even GoPro is pivoting to defense](https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/)
 > The action camera maker, like so many other companies these days, is looking to defense applications as it evaluates a possible sale.
+- `The Verge` [Mixtape is a musical portrait of teenage life](https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc)
+> Playing Mixtape is like playing a video game version of a high school movie. Kids banter about the meaning of life and the theme songs that would play when they walk in a room. They're worried abou...
+- `The Verge` [The app you need to clean up your computer](https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer)
+> Hi, friends! Welcome to Installer No. 128, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, sorry this one's so Mac-heavy, and also you can read all the old e...
+- `The Verge` [These are the laptops I recommend for pretty much anyone](https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026)
+> Need a new laptop? It’s a tough decision. If you’re like most people, a laptop is one of the most expensive tech purchases you’ll make, and it’s something you’ll use and live with nearly every day ...
 - `The Verge` [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
 > Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Micros...
 - `The Verge` [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults)
@@ -168,12 +171,6 @@ Points: 369
 > OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Br...
 - `The Verge` [One of Intel’s fastest desktop CPUs is $50 off](https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale)
 > The Intel Core Ultra 7 270K Plus was billed by the company in late March as one of its “fastest gaming desktop processor ever.” That hype was evidently accurate, as benchmarks done by Gamers Nexus ...
-- `The Verge` [AI radio hosts demonstrate why AI can’t be trusted alone](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies)
-> Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models...
-- `The Verge` [Does Trump Mobile know how many stripes are on the American flag?](https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes)
-> Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't ...
-- `The Verge` [Google updates its spam rules to include attempts to ‘manipulate’ AI](https://www.theverge.com/tech/931416/google-ai-search-spam-policy)
-> Google updated its spam policy to mark attempts to "manipulate" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: "In the...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
