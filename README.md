@@ -4,12 +4,23 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-16
+# 📰 每日科技日报 — 2026-05-17
 
-> 自动收集于 2026-05-16 12:52 | 共 50 条
+> 自动收集于 2026-05-17 04:00 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院](https://36kr.com/p/3812788568907520?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。
+  绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个...
+- `36氪` [48022桌需退款，这家网红店出了什么事？](https://36kr.com/p/3812706162220548?f=rss)
+> “由于您吃到的只是‘烤熟的羊肉串’，而不是‘最佳状态的羊肉串’，我们内心感到惭愧，所以原路‘退回首轮烤制一半羊肉串的钱’作为补偿。”
+  近日，不少网友在社交平台发文称，收到了“很久以前羊肉串”的部分退款及一条道歉短信。
+  
+  图源：很久以前官方账号
+  据窄门餐眼数据，“很久以前羊肉串”开有142家门店，其中九成为商场店。羊肉串是其核心单品，门店特色是统一使用自动旋转电烤炉，消费者可自...
 - `36氪` [36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断](https://36kr.com/p/3810520138243593?f=rss)
 > 作者 | 张子怡
   编辑 | 袁斯来
@@ -39,8 +50,8 @@
 - `36氪` [36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？](https://36kr.com/p/3810308239465986?f=rss)
 >  
    
-  当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择���：直接问AI。
-  “20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek...
+  当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。
+  “20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek、豆...
 - `36氪` [长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家](https://36kr.com/p/3810091479293449?f=rss)
 > 36氪从多位产业人士处了解到，千里科技正积极与长安、奥迪、奇瑞等车企，洽谈智能化合作。
   其中，长安不仅有意向搭载千里科技辅助驾驶方案，还计划入股千里科技，双方原定于今年年初完成股权变更。但目前，据知情人士透露，该计划暂无实质性进展。
@@ -52,17 +63,6 @@
   硬氪获悉，北京思创航天精密制造有限公司（以下简称“思创航天”）近日完成新一轮数千万元融资，由丹诚资本独家投资。
   思创航天前身为沈阳融创精密制造有限公司航天项目中心（融创精密为上市公司富创精密全资子公司），早在2020年3月便已开始参与航天发动机零部件制造业务，并于2025年正式独立成立公司。
   目前，公...
-- `36氪` [挪瓦咖啡2025年营收7至8亿元，利润约为6千万元 | 独家](https://36kr.com/p/3800419059555584?f=rss)
-> 作者 | 钟艺璇
-  编辑 | 乔芊
-  36氪从多个独立信源独家获悉，挪瓦咖啡2025年营收7至8亿元，利润约为6千万元。
-  2025年是挪瓦咖啡规模迅速扩张的一年，从2024年底的1200多家，到2025年底突破1万家，挪瓦咖啡也顺势成为中国第四个咖啡万店品牌。
-  和对手不同，挪瓦咖啡多数门店采用店中店模式，挪瓦咖啡合伙人李立旭不久前曾公开提到，挪瓦咖啡目前80%是店中店，20%左右...
-- `36氪` [麦记牛奶谢永亮：2025年是唯一窗口期，糖水赛道胜负已定｜厚雪专访](https://36kr.com/p/3809931035844359?f=rss)
-> 作者 | 钟艺璇编辑 | 乔芊
-  2025年，糖水这个老品类突然火了一把。
-  这个赛道的代表公司是麦记牛奶公司、赵记传承，它们在过去一年的门店增长数约为1000家、300家。尤其麦记牛奶，2025年初，它的门店数量只有53家，一年后，它已经成为糖水赛道门店数量最多的品牌。
-  另一边则是许久尚未增长的老玩家。截止今天，成立于1995年的满记甜品门店...
 - `少数派` [为什么我觉得好的东西，媒体评测却给了低分？](https://sspai.com/post/109777)
 > 为什么我觉得好玩的游戏，你却要给出这么低的分？为什么最后在使用中出了问题的产品，你却要在首发评测中大肆吹捧？查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109825)
@@ -86,71 +86,86 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Kyber (YC W23) Is Hiring a Founding Marketer](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community)
-> Article URL: https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community
-Comments URL: https://news.ycombinator.com/item?id=48159405
-Points: 0
-# Comments: 0
-- `Hacker News` [Europe built sovereign clouds to escape US control. Forgot about the processors](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735)
-> Article URL: https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735
-Comments URL: https://news.ycombinator.com/it...
-- `Hacker News` [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
-> Article URL: https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html
-Comments URL: https://news.ycombinator.com/item?id=48159241
-Points: 39
-# Comments: 9
-- `Hacker News` [OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days](https://twitter.com/steipete/status/2055346265869721905)
-> Article URL: https://twitter.com/steipete/status/2055346265869721905
-Comments URL: https://news.ycombinator.com/item?id=48159227
-Points: 35
-# Comments: 37
-- `Hacker News` [Futhark by Example](https://futhark-lang.org/examples.html)
-> Article URL: https://futhark-lang.org/examples.html
-Comments URL: https://news.ycombinator.com/item?id=48158606
-Points: 48
-# Comments: 13
-- `Hacker News` [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)
-> Article URL: https://arxiv.org/abs/2605.12357
-Comments URL: https://news.ycombinator.com/item?id=48158506
-Points: 85
+- `Hacker News` [Bear spray is exploding in the trash near Yellowstone National Park](https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php)
+> Article URL: https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php
+Comments URL: https://news.ycombinator.com/item?id=48165548
+Points: 9
+# Comments: 7
+- `Hacker News` [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)
+> Article URL: https://maurycyz.com/projects/mcusite/
+Comments URL: https://news.ycombinator.com/item?id=48165295
+Points: 44
+# Comments: 1
+- `Hacker News` [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897)
+> Article URL: https://arxiv.org/abs/2601.19897
+Comments URL: https://news.ycombinator.com/item?id=48165265
+Points: 16
+# Comments: 5
+- `Hacker News` [Fisker went bankrupt and owners built an open source car company from the ashes](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/)
+> Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/
+Comments URL: https://news.ycombinator.com/item?id=48164891
+Points: 79
+# Comments: 31
+- `Hacker News` [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
+> Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock
+Comments URL: https://news.ycombinator.com/item?id=48164432
+Points: 90
 # Comments: 14
-- `Hacker News` [Fecal transplants for autism deliver success in clinical trials](https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/)
-> Article URL: https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/
-Comments URL: https://news.ycombinator.com/item?id=48158494
-Points: 55
-# Comments: 28
-- `Hacker News` [Where to buy a non-Apple, non-Google smartphone](https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681)
-> Article URL: https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681
-Comments URL: https://news.ycombinator.com/item?id=48158130
-Points: 70
-# Comments: 47
-- `Hacker News` [Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead)
-> Article URL: https://kabir.au/blog/the-ctf-scene-is-dead
-Comments URL: https://news.ycombinator.com/item?id=48157559
-Points: 197
-# Comments: 164
-- `Hacker News` [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/)
-> Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using...
+- `Hacker News` [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
+> Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page
+Comments URL: https://news.ycombinator.com/item?id=48164294
+Points: 65
+# Comments: 24
+- `Hacker News` [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
+> Article URL: https://crates.io/crates/zerostack/1.0.0
+Comments URL: https://news.ycombinator.com/item?id=48164287
+Points: 214
+# Comments: 69
+- `Hacker News` [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
+> Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/
+Comments URL: https://news.ycombinator.com/item?id=48163392
+Points: 108
+# Comments: 93
+- `Hacker News` [Halt and Catch Fire](https://unstack.io/halt-and-catch-fire)
+> Article URL: https://unstack.io/halt-and-catch-fire
+Comments URL: https://news.ycombinator.com/item?id=48162468
+Points: 95
+# Comments: 56
+- `Hacker News` [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574)
+> Article URL: https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574
+Comments URL: https://news.ycombinator.com/item?id=48161997
+Points: 117
+# Commen...
+- `TechCrunch` [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)
+> The vibes around the current AI boom aren't great, even in the tech industry.
+- `TechCrunch` [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/)
+> AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.
+- `TechCrunch` [Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/)
+> ArXiv is doing more to crack down on the careless use of large language models in scientific papers.
+- `TechCrunch` [The offline desk gadget that actually got me to sit up straight](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/)
+> Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits
+- `TechCrunch` [OpenAI co-founder Greg Brockman takes charge of product strategy](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/)
+> OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.
+- `TechCrunch` [$60B AI chip darling Cerebras almost died early on, burning $8M a month](https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/)
+> Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.
+- `TechCrunch` [Users turn to jailbreaking their older Kindles as Amazon ends support](https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/)
+> It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.
 - `TechCrunch` [RJ Scaringe has raised more than $12B across three startups and investors still want more](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/)
 > Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a han...
 - `TechCrunch` [General Catalyst posted VC rage bait and it worked, especially on a16z](https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/)
 > Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.
 - `TechCrunch` [A hotel check-in system left a million passports and driver’s licenses open for anyone to see](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/)
 > The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.
-- `TechCrunch` [Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/)
-> Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.
-- `TechCrunch` [Tesla reveals two Robotaxi crashes involving teleoperators](https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/)
-> Newly unredacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis.
-- `TechCrunch` [OpenAI launches ChatGPT for personal finance, will let you connect bank accounts](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/)
-> Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.
-- `TechCrunch` [Power prices are up 76% on America’s biggest grid, and a watchdog is pointing fingers](https://techcrunch.com/2026/05/15/power-prices-are-up-76-on-americas-biggest-grid-and-a-watchdog-is-pointing-fingers/)
-> The price spike is a reminder of a deeper problem: The U.S. power grid was not designed for the electricity demands of an AI-driven economy, and the gap between what the grid can deliver and what t...
-- `TechCrunch` [US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip](https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/)
-> While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities.
-- `TechCrunch` [Runway started by helping filmmakers — now it wants to beat Google at AI](https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/)
-> AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.
-- `TechCrunch` [Even GoPro is pivoting to defense](https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/)
-> The action camera maker, like so many other companies these days, is looking to defense applications as it evaluates a possible sale.
+- `The Verge` [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools)
+> Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging that social media addiction has cost public schools massive amounts of money, according to Bloomberg. The suit, filed ...
+- `The Verge` [Sony tries to explain that its AI Camera Assistant doesn’t suck](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant)
+> After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos,...
+- `The Verge` [NPR’s Manoush Zomorodi talks about living with too much tech](https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire)
+> Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaborat...
+- `The Verge` [Turtle Beach made a good SteelSeries headset clone that’s $50 less](https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on)
+> I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar ...
+- `The Verge` [Here are 40 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)
+> REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a goo...
 - `The Verge` [Mixtape is a musical portrait of teenage life](https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc)
 > Playing Mixtape is like playing a video game version of a high school movie. Kids banter about the meaning of life and the theme songs that would play when they walk in a room. They're worried abou...
 - `The Verge` [The app you need to clean up your computer](https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer)
@@ -161,16 +176,6 @@ Points: 197
 > Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Micros...
 - `The Verge` [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults)
 > YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness det...
-- `The Verge` [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button)
-> Microsoft's latest Windows 11 test will allow you to reposition the taskbar and change the size of the Start menu. The update, which is rolling out to Windows 11 Insiders in the Experimental channe...
-- `The Verge` [ArXiv will ban researchers who upload papers full of AI slop](https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers)
-> ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has "incontrovertible evidence that the aut...
-- `The Verge` [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)
-> Analogue has released a new firmware update for its Analogue 3D console that adds the Memories save state feature. Memories, which was first introduced with its handheld Analogue Pocket, allows you...
-- `The Verge` [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle)
-> OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Br...
-- `The Verge` [One of Intel’s fastest desktop CPUs is $50 off](https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale)
-> The Intel Core Ultra 7 270K Plus was billed by the company in late March as one of its “fastest gaming desktop processor ever.” That hype was evidently accurate, as benchmarks done by Gamers Nexus ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
