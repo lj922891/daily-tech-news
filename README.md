@@ -6,10 +6,46 @@
 
 # 📰 每日科技日报 — 2026-05-17
 
-> 自动收集于 2026-05-17 04:00 | 共 50 条
+> 自动收集于 2026-05-17 12:49 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？](https://36kr.com/p/3813305543794440?f=rss)
+> 从运动孤岛到品类革命：解构韶音的“开放式”野心与底层技术硬实力
+  在消费电子行业普遍面临增长红利见顶的今天，音频赛道却正在上演一场深刻的结构性变革。2026年5月15日下午，大雨初晴的深圳湾广场，Shokz韶音举办了备受瞩目的媒体专访会。韶音中国区CEO杨云与产品线总裁张浩锋悉数到场，向外界系统阐述了这家以“骨传导”和“运动”起家的品牌，如何在稳坐全球开放式耳机出货量第一王座的同时，向更广...
+- `36氪` [又诞生一位千亿女富豪](https://36kr.com/p/3813040859258373?f=rss)
+> 示意图
+  自4月初以来，立讯精密股价上涨超过55%。
+  5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。
+  如果说4月以来的涨幅，是因为立讯精密“站在光里”，短期股价大涨或许与一则收购公告有关。
+  5月10日，公告显示立讯精密拟通过收购京西智行集团全部股权，间接拿下京西国际...
+- `36氪` [3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出](https://36kr.com/p/3812925591887368?f=rss)
+> Peter Steinberger
+  编辑：所罗门
+  【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。
+  别人晒工资条，他晒账单——一个月130万美元！
+  也就是将近900万人民币/每月。直接把网友们看傻了。
+  OpenClaw之父Peter Steinberger在X上轻描淡写地甩...
+- `36氪` [28亿，肯德基也要被卖了？](https://36kr.com/p/3812816225459713?f=rss)
+> 肯德基
+  作者 | 王涛
+  编辑 | 吾人
+  来源 | 融中财经
+  路透社报道，怡和集团正打算卖掉自己手里经营了十多年的快餐相关资产，这部分资产里，包含了香港、澳门、台湾、缅甸、越南这五个市场的肯德基和必胜客门店，再加上香港本土的外卖披萨品牌PHD，加起来大概有1000家门店、2.5万名员工，这笔交易的金额差不多有4亿美元（折合人民币28亿左右）；非约束性报价的截止时间就在...
+- `36氪` [6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了](https://36kr.com/p/3812800346742274?f=rss)
+> 听雨 发自 凹非寺量子位 | 公众号 QbitAI
+  用Claude Code写论文的一整套流水线，有人打包开源出来了。
+  完全戳中了学生党的痛点，github星标直达6.4k。
+  
+  academic-research-skills
+  项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。
+  里面涵盖4个skill，分别...
+- `36氪` [史上最大IPO来袭，SpaceX加速驶入纳斯达克](https://36kr.com/p/3812789087264519?f=rss)
+> SpaceX
+  5月16日，SpaceX向股东发出内部邮件，宣布普通股“一拆五”的拆股方案已获批并生效，所有C类普通股将同步转换为A类普通股。美股IPO市场正迎来今年最重磅的选手，埃隆·马斯克旗下的太空探索巨头SpaceX，正以史无前例的体量加速驶入纳斯达克。
+  综合 | 路透社 WSJ 中国基金报编辑 | Echo
+  本文仅为信息交流之用，不构成任何交易建议
+  据路透社和华尔街日报...
 - `36氪` [36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院](https://36kr.com/p/3812788568907520?f=rss)
 > 作者 | 乔钰杰
   编辑 | 袁斯来
@@ -38,31 +74,8 @@
   
   TOP 3大新闻
   央视确认获得2026年世界杯版权，...
-- `36氪` [理想出牌：全新L9上市，45.98万元起｜最前线](https://36kr.com/p/3810562142445058?f=rss)
-> 理想汽车CEO 李想
-  能让李想豁出去跳舞挣眼球的发布会，仅在全新一代理想L9上市。
-  5月15日，理想发布会了全新一代理想L9，推出两个版本——理想L9 livis，售价 50.98万元；理想L9 Ultra版，售价45.98万元。且理想给出了现金2万元的首销权益，截止于6月30日。
-  36氪汽车曾报道指出，理想今年第一目标就是加固增程和高端市场的基本盘。今年产品重心将回归增程市场，...
-- `36氪` [2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代](https://36kr.com/p/3810607581634056?f=rss)
-> 2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一...
-- `36氪` [36氪「属于年轻浪潮的派对」WAVES2026丨今年盛夏](https://36kr.com/p/3810380205989632?f=rss)
->  一场关于“涌现”的未来实验大会。
-- `36氪` [36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？](https://36kr.com/p/3810308239465986?f=rss)
->  
-   
-  当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。
-  “20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek、豆...
-- `36氪` [长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家](https://36kr.com/p/3810091479293449?f=rss)
-> 36氪从多位产业人士处了解到，千里科技正积极与长安、奥迪、奇瑞等车企，洽谈智能化合作。
-  其中，长安不仅有意向搭载千里科技辅助驾驶方案，还计划入股千里科技，双方原定于今年年初完成股权变更。但目前，据知情人士透露，该计划暂无实质性进展。
-  36氪了解到，北汽是千里科技眼下最具确定性的外部客户，双方计划于今年内成立合资公司。
-  千里科技与北汽计划合作5款车型，其中包含一款轿车，一款越野车型...
-- `36氪` [36氪首发｜航天发动机核心部件厂商获投，国内唯一具备核心部件一站式制造能力的民营企业](https://36kr.com/p/3809936183860740?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，北京思创航天精密制造有限公司（以下简称“思创航天”）近日完成新一轮数千万元融资，由丹诚资本独家投资。
-  思创航天前身为沈阳融创精密制造有限公司航天项目中心（融创精密为上市公司富创精密全资子公司），早在2020年3月便已开始参与航天发动机零部件制造业务，并于2025年正式独立成立公司。
-  目前，公...
+- `少数派` [看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验](https://sspai.com/post/64870)
+> 在无线路由器的设置页面上，我们可能会看到一个名为「智能队列」的功能（根据品牌或操作系统的不同，也可能会被称做「智能QoS」、「SQM」等）。这一功能是如何工作的？是否能让网速变快？是否需要打开？本文将 ...查看全文
 - `少数派` [为什么我觉得好的东西，媒体评测却给了低分？](https://sspai.com/post/109777)
 > 为什么我觉得好玩的游戏，你却要给出这么低的分？为什么最后在使用中出了问题的产品，你却要在首发评测中大肆吹捧？查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109825)
@@ -81,61 +94,57 @@
 > 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
 - `少数派` [在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）](https://sspai.com/prime/story/linux-vm-on-android)
 > 因为和ChromeOS中的Linux虚拟机开发环境有着千丝万缕的联系，2025年作为实验性功能登录Google自家Pixel机型的Linux虚拟机，发布后不仅没有就此在开发者选项中闲置，反倒通过不断迭 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
-- `少数派` [用 Obsidian Web Clipper，让豆瓣种草更容易](https://sspai.com/post/109318)
-> 对于现阶段知识管理的工作流而言，使用者已经无需和工具「将就」了。与其花时间适应别人的工具思路和设置，不如利用手头的工具（包括 AI）自己「手搓」一套自己的方案。从长期来看，自己用得顺手才会让自己持续用下去，而开发、适应所需要的时间和精力也会明显少于以前「削足适履」的经历。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Bear spray is exploding in the trash near Yellowstone National Park](https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php)
-> Article URL: https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php
-Comments URL: https://news.ycombinator.com/item?id=48165548
-Points: 9
-# Comments: 7
+- `Hacker News` [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+> Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/
+Comments URL: https://news.ycombinator.com/item?id=48168221
+Points: 21
+# Comments: 3
+- `Hacker News` [Apple Silicon costs more than OpenRouter](https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html)
+> Article URL: https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html
+Comments URL: https://news.ycombinator.com/item?id=48168198
+Points: 30
+# Comments: 11
+- `Hacker News` [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/)
+> Article URL: https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/
+Comments URL: https://news.ycombinator.com/item?id=48168058
+Points: 40
+# Comments: 15
+- `Hacker News` [Every AI Subscription Is a Ticking Time Bomb for Enterprise](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
+> Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb
+Comments URL: https://news.ycombinator.com/item?id=48168056
+Points: 4
+# Comments: 2
+- `Hacker News` [Playing Atari ST Music on the Amiga with Zero CPU](https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/)
+> Article URL: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/
+Comments URL: https://news.ycombinator.com/item?id=48166920
+Points: 64
+# Comments: 21
+- `Hacker News` [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
+> Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/
+Comments URL: https://news.ycombinato...
 - `Hacker News` [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)
 > Article URL: https://maurycyz.com/projects/mcusite/
 Comments URL: https://news.ycombinator.com/item?id=48165295
-Points: 44
-# Comments: 1
+Points: 160
+# Comments: 13
 - `Hacker News` [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897)
 > Article URL: https://arxiv.org/abs/2601.19897
 Comments URL: https://news.ycombinator.com/item?id=48165265
-Points: 16
-# Comments: 5
-- `Hacker News` [Fisker went bankrupt and owners built an open source car company from the ashes](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/)
-> Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/
-Comments URL: https://news.ycombinator.com/item?id=48164891
-Points: 79
-# Comments: 31
+Points: 73
+# Comments: 18
 - `Hacker News` [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
 > Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock
 Comments URL: https://news.ycombinator.com/item?id=48164432
-Points: 90
-# Comments: 14
+Points: 230
+# Comments: 29
 - `Hacker News` [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
 > Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page
 Comments URL: https://news.ycombinator.com/item?id=48164294
-Points: 65
-# Comments: 24
-- `Hacker News` [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
-> Article URL: https://crates.io/crates/zerostack/1.0.0
-Comments URL: https://news.ycombinator.com/item?id=48164287
-Points: 214
-# Comments: 69
-- `Hacker News` [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/)
-> Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/
-Comments URL: https://news.ycombinator.com/item?id=48163392
-Points: 108
-# Comments: 93
-- `Hacker News` [Halt and Catch Fire](https://unstack.io/halt-and-catch-fire)
-> Article URL: https://unstack.io/halt-and-catch-fire
-Comments URL: https://news.ycombinator.com/item?id=48162468
-Points: 95
-# Comments: 56
-- `Hacker News` [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574)
-> Article URL: https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574
-Comments URL: https://news.ycombinator.com/item?id=48161997
-Points: 117
-# Commen...
+Points: 111
+# Comments: 36
 - `TechCrunch` [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)
 > The vibes around the current AI boom aren't great, even in the tech industry.
 - `TechCrunch` [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/)
@@ -156,6 +165,8 @@ Points: 117
 > Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.
 - `TechCrunch` [A hotel check-in system left a million passports and driver’s licenses open for anyone to see](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/)
 > The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.
+- `The Verge` [Chatbots at the drive-thru are just the beginning](https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives i...
 - `The Verge` [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools)
 > Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging that social media addiction has cost public schools massive amounts of money, according to Bloomberg. The suit, filed ...
 - `The Verge` [Sony tries to explain that its AI Camera Assistant doesn’t suck](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant)
@@ -174,8 +185,6 @@ Points: 117
 > Need a new laptop? It’s a tough decision. If you’re like most people, a laptop is one of the most expensive tech purchases you’ll make, and it’s something you’ll use and live with nearly every day ...
 - `The Verge` [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
 > Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Micros...
-- `The Verge` [YouTube is expanding its AI deepfake detection tool to all adult users](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults)
-> YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness det...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
