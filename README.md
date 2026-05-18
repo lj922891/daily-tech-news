@@ -6,10 +6,41 @@
 
 # 📰 每日科技日报 — 2026-05-18
 
-> 自动收集于 2026-05-18 04:13 | 共 50 条
+> 自动收集于 2026-05-18 14:49 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销](https://36kr.com/p/3814695536336387?f=rss)
+> 大公司：
+  索辰科技：物理AI业务目前尚处于布局初期
+  36氪获悉，索辰科技公告，公司股票于2026年5月14日至5月18日连续三个交易日内收盘价格涨幅偏离值累计达到30%，属于股票交易异常波动情形。公司近期实施的募投项目“物理合成数据核心技术基座构建与多领域场景示范应用项目”尚处于筹备阶段，若出现募集资金投资项目未能顺利实施、新技术开发进度不达预期、研发遭遇技术瓶颈甚至失败，将会对公司...
+- `36氪` [番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家](https://36kr.com/p/3810598875307780?f=rss)
+> 作者｜兰杰 李晓霞
+  编辑｜乔芊
+  36氪独家获悉，据多位接近字节跳动人士消息，字节旗下的番茄小说正在推动AI动漫上院线。在这一过程中，会开放番茄小说平台头部IP的改编权限。
+  之于番茄小说，如何更好地挖掘平台上好IP的潜力和商业价值，是一个亟待解决的难题。
+  一方面，以文字形式为载体的IP内容，缺乏统一的视觉形象，使得平台上的IP难以有联名、衍生品等更丰富的变现形式。另一方面，AI...
+- `36氪` [科氪 | 性能极限与跨界尝试：红魔11S Pro系列深度体验](https://36kr.com/p/3814570248412677?f=rss)
+> 在智能手机行业普遍面临镜头模组日益凸出、机身内部堆叠空间受限的背景下，电竞旗舰由于其对散热和功耗的极端要求，往往表现出更为激进的工业设计。作为新一代的性能导向型产品，红魔11S Pro系列通过软硬件的垂直堆叠，试图在移动终端上探索更进一步的性能上限。以下我们将从设计、理论性能释放、以及实际软硬件体验三个维度，对其进行深度拆解。
+  &amp;nbsp;
+  一、 外观设计：纯平后盖的...
+- `36氪` [Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI](https://36kr.com/p/3814408307711492?f=rss)
+> 进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问：
+  朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？
+  AI创业、AI融资如火如荼，属于我的机会又在哪里？
+  别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？
+  ……
+  到最后，几乎所有问题都会汇成同一个问题：我，到底该如何用AI？
+  如果你对这些问题还很模糊，不...
+- `36氪` [「宇石空间」完成5亿元A轮融资，今年计划交付三枚火箭，累计融资额已达10亿元｜36氪首发](https://36kr.com/p/3814368445259270?f=rss)
+> 文 | 阿至
+  36氪获悉，宇石空间已完成5亿元A轮融资，由高榕创投、昆仑资本联合领投，建发新兴、蓝湖资本、弘晖基金、东证资本、臻泰资本、庚辛资本跟投；产业方股东紫金矿业、知名互联网战投、智能终端产业方联合投资，老股东高瓴创投、基石资本、千乘资本、知盛睿盈连续多轮追投。
+  本轮资金将主要用于火箭总装测试、筷子回收技术验证、火箭产能建设和团队建设，为宇石空间AS-1火箭...
+- `36氪` [对话万成云商：发文章≠GEO优化，大模型不是喂什么就推什么](https://36kr.com/p/3814337101111044?f=rss)
+> “帮我搭配一套适合海边度假的衣服。”
+  “帮我推荐一家适合约会的西餐厅。”
+  “3000元预算，买哪款扫地机器人最划算？”
+  这类与AI的问答正发生在全球数亿用户身上。过去，人们会把这些问题输入百度、谷歌等搜索引擎，因此产生了SEO（Search EngineOptimization，搜索引擎优化）营销。而当流量入口从搜索引擎转向AI工具，GEO（Generative EngineOp...
 - `36氪` [36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道](https://36kr.com/p/3813463119863553?f=rss)
 > 36 氪获悉，「律动节拍」已于近期完成超千万级新一轮融资，由天空工场创投基金领投，投后估值达数亿元。
   「律动节拍」成立于2025 年，是一家为用户提供跨城观演全消费场景的科技型文旅服务企业。公司聚焦 “因演出行” 垂直领域，以 “让一张票成为一座城市的游乐场” 为理念，搭建了面向 C 端用户的 AI演出行程管家。
@@ -36,44 +67,10 @@
   5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。
   如果说4月以来的涨幅，是因为立讯精密“站在光里”，短期股价大涨或许与一则收购公告有关。
   5月10日，公告显示立讯精密拟通过收购京西智行集团全部股权，间接拿下京西国际...
-- `36氪` [3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出](https://36kr.com/p/3812925591887368?f=rss)
-> Peter Steinberger
-  编辑：所罗门
-  【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。
-  别人晒工资条，他晒账单——一个月130万美元！
-  也就是将近900万人民币/每月。直接把网友们看傻了。
-  OpenClaw之父Peter Steinberger在X上轻描淡写地甩...
-- `36氪` [28亿，肯德基也要被卖了？](https://36kr.com/p/3812816225459713?f=rss)
-> 肯德基
-  作者 | 王涛
-  编辑 | 吾人
-  来源 | 融中财经
-  路透社报道，怡和集团正打算卖掉自己手里经营了十多年的快餐相关资产，这部分资产里，包含了香港、澳门、台湾、缅甸、越南这五个市场的肯德基和必胜客门店，再加上香港本土的外卖披萨品牌PHD，加起来大概有1000家门店、2.5万名员工，这笔交易的金额差不多有4亿美元（折合人民币28亿左右）；非约束性报价的截止时间就在...
-- `36氪` [6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了](https://36kr.com/p/3812800346742274?f=rss)
-> 听雨 发自 凹非寺量子位 | 公众号 QbitAI
-  用Claude Code写论文的一整套流水线，有人打包开源出来了。
-  完全戳中了学生党的痛点，github星标直达6.4k。
-  
-  academic-research-skills
-  项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。
-  里面涵盖4个skill，分别...
-- `36氪` [史上最大IPO来袭，SpaceX加速驶入纳斯达克](https://36kr.com/p/3812789087264519?f=rss)
-> SpaceX
-  5月16日，SpaceX向股东发出内部邮件，宣布普通股“一拆五”的拆股方案已获批并生效，所有C类普通股将同步转换为A类普通股。美股IPO市场正迎来今年最重磅的选手，埃隆·马斯克旗下的太空探索巨头SpaceX，正以史无前例的体量加速驶入纳斯达克。
-  综合 | 路透社 WSJ 中国基金报编辑 | Echo
-  本文仅为信息交流之用，不构成任何交易建议
-  据路透社和华尔街日报...
-- `36氪` [36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院](https://36kr.com/p/3812788568907520?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。
-  绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个...
-- `36氪` [48022桌需退款，这家网红店出了什么事？](https://36kr.com/p/3812706162220548?f=rss)
-> “由于您吃到的只是‘烤熟的羊肉串’，而不是‘最佳状态的羊肉串’，我们内心感到惭愧，所以原路‘退回首轮烤制一半羊肉串的钱’作为补偿。”
-  近日，不少网友在社交平台发文称，收到了“很久以前羊肉串”的部分退款及一条道歉短信。
-  
-  图源：很久以前官方账号
-  据窄门餐眼数据，“很久以前羊肉串”开有142家门店，其中九成为商场店。羊肉串是其核心单品，门店特色是统一使用自动旋转电烤炉，消费者可自...
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/109886)
+> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试](https://sspai.com/post/109743)
+> 只需要一个浏览器就能玩，很适合上班时间摸鱼🌝查看全文
 - `少数派` [四天三夜，用小长假的时间体验青海湖小环线](https://sspai.com/post/103407)
 > 作为 2025 年的年度旅行，本次 4 天的青海湖小环线我甚是满意。查看全文
 - `少数派` [派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年](https://sspai.com/post/109870)
@@ -90,62 +87,57 @@
 > 北京时间6月9日凌晨，WWDC26全球开发者大会首日Keynote主题演讲活动即将揭幕。届时，我们将迎来iOS27、iPadOS27、macOS27、watchOS27、visionOS27等新一代操 ...查看全文
 - `少数派` [快捷指令｜纯粹、专注、能群发，一种「点名式」微信聊天新体验](https://sspai.com/post/109708)
 > 我真的非常喜欢快捷指令，它让我学会去缕析一件事的脉络、链路，动手去改写、制定新的规则和流程，让工作和生活都接近我想要的理性，跳脱出很多无形的枷锁。查看全文
-- `少数派` [你真的需要墨水屏设备吗？](https://sspai.com/post/109550)
-> 如果你发现自己也很喜欢阅读器这个品类的话，那就放下「非得用它们读点什么」的执念，愉快地买起来、玩起来吧！查看全文
-- `少数派` [派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等](https://sspai.com/post/109787)
-> 少数派的近期动态可爱又好玩的经典萌物——监工水獭挂件复刻啦！给獭一个家首款MBTI定制墨水屏「口袋先知」预售进行中，一按知运势。立刻预购麦金獭钢化膜单膜补充装已上线，替换装，更划算。立即抢购你可能错过 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Most Americans don't trust AI – or the people in charge of it (2025)](https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai)
-> Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai
-Comments URL: https://news.ycombinator.com/item?id=48174808
-Points: 41
-# Comments: 27
-- `Hacker News` [WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)
-> Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html
-Comments URL: https://news.ycombinator.com/item?id=48173962
-Points: 20
+- `Hacker News` [Actually, Democracy Dies in H.R.](https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html)
+> Article URL: https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html
+Comments URL: https://news.ycombinator.com/item?id=48180091
+Points: 6
 # Comments: 1
-- `Hacker News` [Design posters showcasing your country's electrical grid](https://github.com/open-energy-transition/grid2poster)
-> Article URL: https://github.com/open-energy-transition/grid2poster
-Comments URL: https://news.ycombinator.com/item?id=48173849
-Points: 71
+- `Hacker News` [Show HN: Files.md – open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
+> Article URL: https://github.com/zakirullin/files.md
+Comments URL: https://news.ycombinator.com/item?id=48179677
+Points: 52
+# Comments: 21
+- `Hacker News` ['We mould trees to grow into the shape of chairs'](https://www.bbc.co.uk/news/articles/cvg0yy3gp71o)
+> Article URL: https://www.bbc.co.uk/news/articles/cvg0yy3gp71o
+Comments URL: https://news.ycombinator.com/item?id=48179183
+Points: 52
 # Comments: 18
-- `Hacker News` [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
-> Article URL: https://xca-attacks.github.io/fabricked/
-Comments URL: https://news.ycombinator.com/item?id=48173708
-Points: 31
-# Comments: 16
-- `Hacker News` [The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
-> Article URL: https://www.jdhodges.com/blog/thinkpad-history/
-Comments URL: https://news.ycombinator.com/item?id=48173547
-Points: 67
-# Comments: 36
-- `Hacker News` [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
-> Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base
-Comments URL: https://news.ycombinator.com/item?id=48173468
+- `Hacker News` [Enough with the AI FOMO, go slow-mo, says Domo CDO](https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840)
+> Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840
+Comments URL: https://news.ycombinator.com/item?id=48179029
+Points: 63
+# Comments: 27
+- `Hacker News` [AI eats the world (Spring 26) [pdf]](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)
+> Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf
+Comments URL: https://news.ycombinator.com/item?id=48179021
+...
+- `Hacker News` [Hershey Bets on Agentic AI to Rethink $2B in Marketing Spend](https://www.adweek.com/brand-marketing/exclusive-hershey-bets-on-ai-agents-to-fix-its-2-billion-marketing-blind-spot/)
+> Article URL: https://www.adweek.com/brand-marketing/exclusive-hershey-bets-on-ai-agents-to-fix-its-2-billion-marketing-blind-spot/
+Comments URL: https://news.ycombinator.com/item?id=48178929
 Points...
-- `Hacker News` [GenCAD](https://gencad.github.io/)
-> Article URL: https://gencad.github.io/
-Comments URL: https://news.ycombinator.com/item?id=48173429
-Points: 163
-# Comments: 37
-- `Hacker News` [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
-> Article URL: https://www.metalevel.at/prolog/horror
-Comments URL: https://news.ycombinator.com/item?id=48173268
-Points: 71
-# Comments: 25
-- `Hacker News` [VoIP brings back old-fashioned pay phones to rural Vermont (2025)](https://spectrum.ieee.org/payphone-voip)
-> Article URL: https://spectrum.ieee.org/payphone-voip
-Comments URL: https://news.ycombinator.com/item?id=48172505
-Points: 129
-# Comments: 38
-- `Hacker News` [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
-> Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html
-Comments URL: https://news.ycombinator.com/item?id=48170799
-Points: 102
-# Comments: 23
+- `Hacker News` [Linux security mailing list 'almost unmanageable'](https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633)
+> Article URL: https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633
+Comments URL: http...
+- `Hacker News` [When Kierkegaard Got Cancelled](https://www.plough.com/en/topics/faith/discipleship/when-kierkegaard-got-cancelled)
+> Article URL: https://www.plough.com/en/topics/faith/discipleship/when-kierkegaard-got-cancelled
+Comments URL: https://news.ycombinator.com/item?id=48178510
+Points: 6
+# Comments: 3
+- `Hacker News` [Utah lawmakers form united front in push to ban prediction markets](https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets)
+> Article URL: https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets
+Comments URL: https://news.ycombinator.com/item?id=...
+- `Hacker News` [I automated opt-outs for 500 data broker sites (open source)](https://github.com/stephenlthorn/auto-identity-remove)
+> Article URL: https://github.com/stephenlthorn/auto-identity-remove
+Comments URL: https://news.ycombinator.com/item?id=48178184
+Points: 275
+# Comments: 106
+- `TechCrunch` [Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom](https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/)
+> The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.
+- `TechCrunch` [South Korea’s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/)
+> A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.
 - `TechCrunch` [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)
 > Privacy will be a major theme when Apple unveils a new version of Siri.
 - `TechCrunch` [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
@@ -162,30 +154,26 @@ Points: 102
 > AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.
 - `TechCrunch` [Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/)
 > ArXiv is doing more to crack down on the careless use of large language models in scientific papers.
-- `TechCrunch` [The offline desk gadget that actually got me to sit up straight](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/)
-> Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits
-- `TechCrunch` [OpenAI co-founder Greg Brockman takes charge of product strategy](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/)
-> OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.
+- `The Verge` [Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports](https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs)
+> Linux founder Linus Torvalds said in his most recent state of the kernel post that "the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormou...
+- `The Verge` [Exclusive: Jonah Peretti explains why he sold BuzzFeed](https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media)
+> Today, I’m talking with Jonah Peretti, who is, technically, the CEO of BuzzFeed — although that will be coming to an end very soon. Just days before we spoke, Jonah agreed to sell 52 percent of Buz...
+- `The Verge` [Starlink raises prices across satellite internet plans](https://www.theverge.com/science/932294/starlink-price-increase-standby-mode)
+> Starlink is raising prices across its satellite internet plans in the US - including Standby Mode - with the cheapest 100Mbps Residential plan going from $50 to $55 / month, as reported earlier by ...
+- `The Verge` [Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones](https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks)
+> We now have a good idea of what Sony's upcoming 10th anniversary headphones will look like before their expected launch tomorrow. Leaked image renders of what appears to be Sony's 1000X "The ColleX...
+- `The Verge` [Bad, Bad, Bad, Bad Roommate](https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction)
+> The wildfires that would come to engulf Los Angeles had just begun to burn when Frankee Grove finally admitted to herself that she needed a roommate. It was January 2025, and Grove, then 42, had re...
+- `The Verge` [Disco Elysium’s spiritual successor can’t escape its phantoms](https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium)
+> Zero Parades: For Dead Spies wants you to question the price of forgiveness. After leading a crew of spies through a failed operation, protagonist Cascade is willing to pay whatever amount is neede...
 - `The Verge` [Microsoft is retiring Teams’ Together Mode](https://www.theverge.com/tech/932215/microsoft-teams-together-mode)
 > Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants o...
-- `The Verge` [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
-> Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Ma...
+- `The Verge` [Revamped Siri will reportedly offer autodeleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
+> Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mar...
 - `The Verge` [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement)
 > Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is alr...
 - `The Verge` [Oddity is masterfully tense horror from the director of Hokum](https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum)
 > Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McC...
-- `The Verge` [Fujifilm’s X Half is even more whimsical with a $300 price cut](https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale)
-> Fujifilm’s X Half digital camera wasn’t designed to replace your main camera, though you’d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the M...
-- `The Verge` [ElliQ is a surprisingly helpful companion robot for older adults](https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on)
-> A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and w...
-- `The Verge` [Chatbots at the drive-thru are just the beginning](https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives i...
-- `The Verge` [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools)
-> Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging that social media addiction has cost public schools massive amounts of money, according to Bloomberg. The suit, filed ...
-- `The Verge` [Sony tries to explain that its AI Camera Assistant doesn’t suck](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant)
-> After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos,...
-- `The Verge` [NPR’s Manoush Zomorodi talks about living with too much tech](https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire)
-> Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaborat...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
