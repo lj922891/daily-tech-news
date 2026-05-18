@@ -4,12 +4,29 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-17
+# 📰 每日科技日报 — 2026-05-18
 
-> 自动收集于 2026-05-17 12:49 | 共 50 条
+> 自动收集于 2026-05-18 04:13 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道](https://36kr.com/p/3813463119863553?f=rss)
+> 36 氪获悉，「律动节拍」已于近期完成超千万级新一轮融资，由天空工场创投基金领投，投后估值达数亿元。
+  「律动节拍」成立于2025 年，是一家为用户提供跨城观演全消费场景的科技型文旅服务企业。公司聚焦 “因演出行” 垂直领域，以 “让一张票成为一座城市的游乐场” 为理念，搭建了面向 C 端用户的 AI演出行程管家。
+  依托集团其背后的生态资源与市场化合作，律动节拍已完成演出票品、酒旅、交...
+- `36氪` [8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元](https://36kr.com/p/3814030630084354?f=rss)
+> 今日热点导览
+  
+   张雪机车，再夺冠
+   长安汽车否认与千里科技合作
+   深圳发布2026年住房发展计划
+   贵州茅台宣布公斤茅台等四款产品提价
+   法拉第未来宣布获得2500万美元融资
+   三星电子会长就公司“内部问题”公开道歉
+  
+  TOP 3 大新闻
+  多款燃油车大降价，降幅最高近30%
+  日前，长安汽车旗下长安逸动经典版正式上市，新车售价6.49万元，限时享2...
 - `36氪` [科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？](https://36kr.com/p/3813305543794440?f=rss)
 > 从运动孤岛到品类革命：解构韶音的“开放式”野心与底层技术硬实力
   在消费电子行业普遍面临增长红利见顶的今天，音频赛道却正在上演一场深刻的结构性变革。2026年5月15日下午，大雨初晴的深圳湾广场，Shokz韶音举办了备受瞩目的媒体专访会。韶音中国区CEO杨云与产品线总裁张浩锋悉数到场，向外界系统阐述了这家以“骨传导”和“运动”起家的品牌，如何在稳坐全球开放式耳机出货量第一王座的同时，向更广...
@@ -57,23 +74,10 @@
   
   图源：很久以前官方账号
   据窄门餐眼数据，“很久以前羊肉串”开有142家门店，其中九成为商场店。羊肉串是其核心单品，门店特色是统一使用自动旋转电烤炉，消费者可自...
-- `36氪` [36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断](https://36kr.com/p/3810520138243593?f=rss)
-> 作者 | 张子怡
-  编辑 | 袁斯来
-  硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。
-  据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。
-  在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导...
-- `36氪` [9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元](https://36kr.com/p/3811265856626440?f=rss)
-> 今日热点导览
-  
-   OpenAI正考虑采取法律手段起诉苹果公司
-   三星电子开发下一代HBM封装技术，或用于智能手机等移动设备
-   海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群
-   世界银行首席经济学家英德米特・吉尔将于8月卸任退休
-   “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示
-  
-  TOP 3大新闻
-  央视确认获得2026年世界杯版权，...
+- `少数派` [四天三夜，用小长假的时间体验青海湖小环线](https://sspai.com/post/103407)
+> 作为 2025 年的年度旅行，本次 4 天的青海湖小环线我甚是满意。查看全文
+- `少数派` [派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年](https://sspai.com/post/109870)
+> 提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年OpenAI 与苹果关系紧张，或考虑诉讼索尼回应 AI 相机助手越改越差，称只是修图建议Anthropic 警告私下交易的股权可能无效 运营商回应「零月租」传言微软重新允许自定义任务栏与开始菜单看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验](https://sspai.com/post/64870)
 > 在无线路由器的设置页面上，我们可能会看到一个名为「智能队列」的功能（根据品牌或操作系统的不同，也可能会被称做「智能QoS」、「SQM」等）。这一功能是如何工作的？是否能让网速变快？是否需要打开？本文将 ...查看全文
 - `少数派` [为什么我觉得好的东西，媒体评测却给了低分？](https://sspai.com/post/109777)
@@ -90,61 +94,68 @@
 > 如果你发现自己也很喜欢阅读器这个品类的话，那就放下「非得用它们读点什么」的执念，愉快地买起来、玩起来吧！查看全文
 - `少数派` [派早报：戴尔推出 Alienware 15 入门游戏本，Spotify 将支持 HLS 视频播客技术等](https://sspai.com/post/109787)
 > 少数派的近期动态可爱又好玩的经典萌物——监工水獭挂件复刻啦！给獭一个家首款MBTI定制墨水屏「口袋先知」预售进行中，一按知运势。立刻预购麦金獭钢化膜单膜补充装已上线，替换装，更划算。立即抢购你可能错过 ...查看全文
-- `少数派` [新玩意 241｜少数派的编辑们最近买了啥？](https://sspai.com/post/109771)
-> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
-- `少数派` [在 Android 上运行 Linux 终端，体验究竟怎么样？（2026 版）](https://sspai.com/prime/story/linux-vm-on-android)
-> 因为和ChromeOS中的Linux虚拟机开发环境有着千丝万缕的联系，2025年作为实验性功能登录Google自家Pixel机型的Linux虚拟机，发布后不仅没有就此在开发者选项中闲置，反倒通过不断迭 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
-> Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/
-Comments URL: https://news.ycombinator.com/item?id=48168221
-Points: 21
-# Comments: 3
-- `Hacker News` [Apple Silicon costs more than OpenRouter](https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html)
-> Article URL: https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html
-Comments URL: https://news.ycombinator.com/item?id=48168198
-Points: 30
-# Comments: 11
-- `Hacker News` [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/)
-> Article URL: https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/
-Comments URL: https://news.ycombinator.com/item?id=48168058
-Points: 40
-# Comments: 15
-- `Hacker News` [Every AI Subscription Is a Ticking Time Bomb for Enterprise](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
-> Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb
-Comments URL: https://news.ycombinator.com/item?id=48168056
-Points: 4
-# Comments: 2
-- `Hacker News` [Playing Atari ST Music on the Amiga with Zero CPU](https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/)
-> Article URL: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/
-Comments URL: https://news.ycombinator.com/item?id=48166920
-Points: 64
-# Comments: 21
-- `Hacker News` [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
-> Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/
-Comments URL: https://news.ycombinato...
-- `Hacker News` [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)
-> Article URL: https://maurycyz.com/projects/mcusite/
-Comments URL: https://news.ycombinator.com/item?id=48165295
-Points: 160
-# Comments: 13
-- `Hacker News` [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897)
-> Article URL: https://arxiv.org/abs/2601.19897
-Comments URL: https://news.ycombinator.com/item?id=48165265
-Points: 73
+- `Hacker News` [Most Americans don't trust AI – or the people in charge of it (2025)](https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai)
+> Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai
+Comments URL: https://news.ycombinator.com/item?id=48174808
+Points: 41
+# Comments: 27
+- `Hacker News` [WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)
+> Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html
+Comments URL: https://news.ycombinator.com/item?id=48173962
+Points: 20
+# Comments: 1
+- `Hacker News` [Design posters showcasing your country's electrical grid](https://github.com/open-energy-transition/grid2poster)
+> Article URL: https://github.com/open-energy-transition/grid2poster
+Comments URL: https://news.ycombinator.com/item?id=48173849
+Points: 71
 # Comments: 18
-- `Hacker News` [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
-> Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock
-Comments URL: https://news.ycombinator.com/item?id=48164432
-Points: 230
-# Comments: 29
-- `Hacker News` [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
-> Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page
-Comments URL: https://news.ycombinator.com/item?id=48164294
-Points: 111
+- `Hacker News` [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/)
+> Article URL: https://xca-attacks.github.io/fabricked/
+Comments URL: https://news.ycombinator.com/item?id=48173708
+Points: 31
+# Comments: 16
+- `Hacker News` [The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/)
+> Article URL: https://www.jdhodges.com/blog/thinkpad-history/
+Comments URL: https://news.ycombinator.com/item?id=48173547
+Points: 67
 # Comments: 36
+- `Hacker News` [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base)
+> Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base
+Comments URL: https://news.ycombinator.com/item?id=48173468
+Points...
+- `Hacker News` [GenCAD](https://gencad.github.io/)
+> Article URL: https://gencad.github.io/
+Comments URL: https://news.ycombinator.com/item?id=48173429
+Points: 163
+# Comments: 37
+- `Hacker News` [Prolog Coding Horror](https://www.metalevel.at/prolog/horror)
+> Article URL: https://www.metalevel.at/prolog/horror
+Comments URL: https://news.ycombinator.com/item?id=48173268
+Points: 71
+# Comments: 25
+- `Hacker News` [VoIP brings back old-fashioned pay phones to rural Vermont (2025)](https://spectrum.ieee.org/payphone-voip)
+> Article URL: https://spectrum.ieee.org/payphone-voip
+Comments URL: https://news.ycombinator.com/item?id=48172505
+Points: 129
+# Comments: 38
+- `Hacker News` [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
+> Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html
+Comments URL: https://news.ycombinator.com/item?id=48170799
+Points: 102
+# Comments: 23
+- `TechCrunch` [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)
+> Privacy will be a major theme when Apple unveils a new version of Siri.
+- `TechCrunch` [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
+> A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.
+- `TechCrunch` [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
+> It's tough to get graduating students excited about a future shaped by artificial intelligence.
+- `TechCrunch` [TechCrunch Mobility: The AI skills arms race is coming for automotive](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/)
+> Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
+- `TechCrunch` [For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis](https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/)
+> Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.
 - `TechCrunch` [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)
 > The vibes around the current AI boom aren't great, even in the tech industry.
 - `TechCrunch` [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/)
@@ -155,16 +166,18 @@ Points: 111
 > Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits
 - `TechCrunch` [OpenAI co-founder Greg Brockman takes charge of product strategy](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/)
 > OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.
-- `TechCrunch` [$60B AI chip darling Cerebras almost died early on, burning $8M a month](https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/)
-> Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.
-- `TechCrunch` [Users turn to jailbreaking their older Kindles as Amazon ends support](https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/)
-> It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.
-- `TechCrunch` [RJ Scaringe has raised more than $12B across three startups and investors still want more](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/)
-> Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a han...
-- `TechCrunch` [General Catalyst posted VC rage bait and it worked, especially on a16z](https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/)
-> Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.
-- `TechCrunch` [A hotel check-in system left a million passports and driver’s licenses open for anyone to see](https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/)
-> The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.
+- `The Verge` [Microsoft is retiring Teams’ Together Mode](https://www.theverge.com/tech/932215/microsoft-teams-together-mode)
+> Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants o...
+- `The Verge` [Revamped Siri will reportedly offer auto-deleting chats](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats)
+> Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Ma...
+- `The Verge` [University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement](https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement)
+> Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is alr...
+- `The Verge` [Oddity is masterfully tense horror from the director of Hokum](https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum)
+> Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McC...
+- `The Verge` [Fujifilm’s X Half is even more whimsical with a $300 price cut](https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale)
+> Fujifilm’s X Half digital camera wasn’t designed to replace your main camera, though you’d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the M...
+- `The Verge` [ElliQ is a surprisingly helpful companion robot for older adults](https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on)
+> A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and w...
 - `The Verge` [Chatbots at the drive-thru are just the beginning](https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives i...
 - `The Verge` [Snap, YouTube, and TikTok settle suit over harm to students](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools)
@@ -173,18 +186,6 @@ Points: 111
 > After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos,...
 - `The Verge` [NPR’s Manoush Zomorodi talks about living with too much tech](https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire)
 > Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaborat...
-- `The Verge` [Turtle Beach made a good SteelSeries headset clone that’s $50 less](https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on)
-> I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar ...
-- `The Verge` [Here are 40 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)
-> REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a goo...
-- `The Verge` [Mixtape is a musical portrait of teenage life](https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc)
-> Playing Mixtape is like playing a video game version of a high school movie. Kids banter about the meaning of life and the theme songs that would play when they walk in a room. They're worried abou...
-- `The Verge` [The app you need to clean up your computer](https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer)
-> Hi, friends! Welcome to Installer No. 128, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, sorry this one's so Mac-heavy, and also you can read all the old e...
-- `The Verge` [These are the laptops I recommend for pretty much anyone](https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026)
-> Need a new laptop? It’s a tough decision. If you’re like most people, a laptop is one of the most expensive tech purchases you’ll make, and it’s something you’ll use and live with nearly every day ...
-- `The Verge` [Xbox is now XBOX](https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps)
-> Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Micros...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
