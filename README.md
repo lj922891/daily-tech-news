@@ -6,10 +6,25 @@
 
 # 📰 每日科技日报 — 2026-05-19
 
-> 自动收集于 2026-05-19 04:07 | 共 50 条
+> 自动收集于 2026-05-19 14:28 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报 ｜SpaceX即将成为马斯克旗下第二家上市公司；京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿](https://36kr.com/p/3816109626138119?f=rss)
+> 大公司：
+  圆通速递：4月快递产品收入60.71亿元，同比增长5.49%36氪获悉，圆通速递公告，4月快递产品收入60.71亿元，同比增长5.49%；业务完成量27.26亿票，同比增长1.22%；快递产品单票收入2.23元，同比增长4.21%。
+  哔哩哔哩：一季度营收74.7亿元，日均活跃用户1.15亿
+  36氪获悉，哔哩哔哩（以下简称“B站”）公布了截至2026年3月31日第一季度财...
+- `36氪` [裸辞九个月，降薪跳槽，一个80后营销人如何“上岸甲方”？｜百万年薪系列013](https://36kr.com/p/3816036564147718?f=rss)
+> 图源：公众号「有三思 U Sense」）
+  2023年秋，杭州亚运会湖州赛区。于成龙手持亚运火炬跑过城市街巷，掌心传来的温度让他想起十四年前，那个没有暖气的冬天。
+  彼时他在河南安阳的一间出租屋里，裹着羽绒服改方案，手指冻得握不住笔。他在那个冬天起跑，完成了一场长达18年的迁徙：从连“VI”是什么意思都要查百度的广告新人，到亚奥理事会特聘专家；从地产广告公司年薪两万的驻场专员，到网络安全...
+- `36氪` [影石：重新定义性价比](https://36kr.com/p/3815841756028425?f=rss)
+> 作者 | 张帆
+  坚持做后来者
+  近日，影石创新发布了登陆资本市场后的首份年报。2025年，公司实现营业收入97.41亿元，同比大幅增长74.76%，创下成立以来的最高营收纪录。然而，同期由于研发、销售等费用高企，公司归母净利润仅为9.29亿元，同比下降了6.62%。
+  面对这样一份“营收大增、利润下滑”的财报，公司召开了上市后的首次投资者交流会，以回应资本市场的关切。
+  根据202...
 - `36氪` [鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目](https://36kr.com/p/3814860909600261?f=rss)
 > 文｜王欣逸
   编辑｜邱晓芬
@@ -56,19 +71,10 @@
   ……
   到最后，几乎所有问题都会汇成同一个问题：我，到底该如何用AI？
   如果你对这些问题还很模糊，不...
-- `36氪` [「宇石空间」完成5亿元A轮融资，今年计划交付三枚火箭，累计融资额已达10亿元｜36氪首发](https://36kr.com/p/3814368445259270?f=rss)
-> 文 | 阿至
-  36氪获悉，宇石空间已完成5亿元A轮融资，由高榕创投、昆仑资本联合领投，建发新兴、蓝湖资本、弘晖基金、东证资本、臻泰资本、庚辛资本跟投；产业方股东紫金矿业、知名互联网战投、智能终端产业方联合投资，老股东高瓴创投、基石资本、千乘资本、知盛睿盈连续多轮追投。
-  本轮资金将主要用于火箭总装测试、筷子回收技术验证、火箭产能建设和团队建设，为宇石空间AS-1火箭...
-- `36氪` [对话万成云商：发文章≠GEO优化，大模型不是喂什么就推什么](https://36kr.com/p/3814337101111044?f=rss)
-> “帮我搭配一套适合海边度假的衣服。”
-  “帮我推荐一家适合约会的西餐厅。”
-  “3000元预算，买哪款扫地机器人最划算？”
-  这类与AI的问答正发生在全球数亿用户身上。过去，人们会把这些问题输入百度、谷歌等搜索引擎，因此产生了SEO（Search EngineOptimization，搜索引擎优化）营销。而当流量入口从搜索引擎转向AI工具，GEO（Generative EngineOp...
-- `36氪` [36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道](https://36kr.com/p/3813463119863553?f=rss)
-> 36 氪获悉，「律动节拍」已于近期完成超千万级新一轮融资，由天空工场创投基金领投，投后估值达数亿元。
-  「律动节拍」成立于2025 年，是一家为用户提供跨城观演全消费场景的科技型文旅服务企业。公司聚焦 “因演出行” 垂直领域，以 “让一张票成为一座城市的游乐场” 为理念，搭建了面向 C 端用户的 AI演出行程管家。
-  依托集团其背后的生态资源与市场化合作，律动节拍已完成演出票品、酒旅、交...
+- `少数派` [社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意](https://sspai.com/post/109928)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [线下活动｜听完这首，不再 Emo：Leon x 少数派萨克斯音乐奏享会](https://sspai.com/post/109724)
+> 当醇厚旋律邂逅专业音频设备的细腻还原，这是一场属于萨克斯音乐爱好者的专属活动。少数派广州线下体验店联动音频品牌奥世声AustrianAudio，邀请到知名萨克斯青年演奏家LeonMusic，为大家带来 ...查看全文
 - `少数派` [YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？](https://sspai.com/post/109889)
 > AI虽然现在具备了干活的能力，但对于很多人来说，它依旧只是个Chatbot。因为，大多数AI依然停留在屏幕里（当然，具身智能另说）：你需要打开手机或电脑，进入某个App，手动复制消息、描述背景、然后不 ...查看全文
 - `少数派` [派早报：红魔发布红魔 11S Pro 系列手机等](https://sspai.com/post/109908)
@@ -85,63 +91,67 @@
 > 在无线路由器的设置页面上，我们可能会看到一个名为「智能队列」的功能（根据品牌或操作系统的不同，也可能会被称做「智能QoS」、「SQM」等）。这一功能是如何工作的？是否能让网速变快？是否需要打开？本文将 ...查看全文
 - `少数派` [为什么我觉得好的东西，媒体评测却给了低分？](https://sspai.com/post/109777)
 > 为什么我觉得好玩的游戏，你却要给出这么低的分？为什么最后在使用中出了问题的产品，你却要在首发评测中大肆吹捧？查看全文
-- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109825)
-> 📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》新预告5月11日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了新预告，定档7月7日开始播出。木村翔马执导，圆城塔编剧， ...查看全文
-- `少数派` [装了啥：编辑部用什么转写音视频内容？](https://sspai.com/prime/story/zhuanglesha-260515)
-> 按：从播客访谈到深度长视频，越来越多的内容创作者把表达重心放到了音视频里；「先转录、再阅读」也因此成了不少重度信息消费者的日常工作流。本期「装了啥」，我们请编辑部几位同事分享各自正在使用的转录方案，希 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [Bornagain.com](http://bornagain.com/)
-> Article URL: http://bornagain.com/
-Comments URL: https://news.ycombinator.com/item?id=48188908
-Points: 4
+- `Hacker News` [Show HN: I made a 3D pose maker for artists](https://setpose.com/)
+> Article URL: https://setpose.com/
+Comments URL: https://news.ycombinator.com/item?id=48193474
+Points: 9
+# Comments: 0
+- `Hacker News` [Anthropic Is Preparing for IPO and We Should Be Worried](https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/)
+> Article URL: https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/
+Comments URL: https://news.ycombinator.com/item?id=48193111
+Points: 37
+# Comments: 38
+- `Hacker News` [OpenBSD 7.9 Released](https://www.openbsd.org/79.html)
+> Article URL: https://www.openbsd.org/79.html
+Comments URL: https://news.ycombinator.com/item?id=48192882
+Points: 90
+# Comments: 22
+- `Hacker News` [Colonization of Venus](https://en.wikipedia.org/wiki/Colonization_of_Venus)
+> Article URL: https://en.wikipedia.org/wiki/Colonization_of_Venus
+Comments URL: https://news.ycombinator.com/item?id=48192410
+Points: 48
+# Comments: 23
+- `Hacker News` [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
+> Article URL: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/
+Comments URL: https://news.ycombinator.com/item?id=48192224
+Points:...
+- `Hacker News` [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
+> Article URL: https://superspl.at/scene/84df8849
+Comments URL: https://news.ycombinator.com/item?id=48191602
+Points: 239
+# Comments: 95
+- `Hacker News` [CISA Admin Leaked AWS GovCloud Keys on GitHub](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
+> Article URL: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/
+Comments URL: https://news.ycombinator.com/item?id=48190454
+Points: 33
 # Comments: 1
-- `Hacker News` [Peter Salus has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html)
-> Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html
-Comments URL: https://news.ycombinator.com/item?id=48188665
-Points: 56
-# Comments: 5
-- `Hacker News` [War Game Exposed U.S. Vulnerability to Low-Tech Warfare](https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare)
-> Article URL: https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare
-Comments URL: https://news.ycombinator.com/item?id=48188506
-Points: 5
-# Comments: 3
-- `Hacker News` [The American Rebellion Against AI Is Gaining Steam](https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529)
-> Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529
-Comments URL: https://news.ycombinator.com/item?id=48188310
-Points: 62
-# Comments: 51
-- `Hacker News` [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
-> Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/
-Comments URL: https://news.ycombinator.com/item?id=48188183
-Points: 62
-# Comments: 12
-- `Hacker News` [Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html)
-> Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
-Comments URL: https://news.ycombinator.com/item?id=48187201
-Points: 141
-# Comment...
-- `Hacker News` [Click (2016)](https://clickclickclick.click/)
-> Article URL: https://clickclickclick.click/
-Comments URL: https://news.ycombinator.com/item?id=48187054
-Points: 229
-# Comments: 53
-- `Hacker News` [Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment](https://arxiv.org/abs/2601.10160)
-> Article URL: https://arxiv.org/abs/2601.10160
-Comments URL: https://news.ycombinator.com/item?id=48185938
-Points: 29
-# Comments: 12
-- `Hacker News` [The FBI Wants to Buy Nationwide Access to License Plate Readers](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/)
-> Article URL: https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/
-Comments URL: https://news.ycombinator.com/item?id=48184350
-Points: 246
-# Comments: 98
-- `Hacker News` [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
-> Article URL: https://hyperpolyglot.org/lisp
-Comments URL: https://news.ycombinator.com/item?id=48184322
-Points: 141
-# Comments: 29
+- `Hacker News` [Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
+> Article URL: https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/
+Comments URL: https://news.ycombinator.com/item?id=48189368
+Points: 205
+# Comments: 123
+- `Hacker News` [PyTorch Landscape](https://pytorch.landscape2.io)
+> Article URL: https://pytorch.landscape2.io
+Comments URL: https://news.ycombinator.com/item?id=48189178
+Points: 64
+# Comments: 17
+- `Hacker News` [Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust](https://github.com/harmont-dev/hsrs)
+> Hey everyone! I've been working on hsrs, a type-safe Haskell Bindings Generator for Rust.I couldn't really find any bindings generator that would create type-safe, rich bindings for Haskell from Ru...
+- `TechCrunch` [Apple announces Apple Intelligence powered accessibility feature updates](https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/)
+> Apple is introducing a feature to let Vision Pro control a compatible wheelchair with their eyes
+- `TechCrunch` [‘Survivor’ stars Kyle Fraser and Kamilla Karthigesu introduce  a goal-tracking app, Paprclip](https://techcrunch.com/2026/05/19/survivor-stars-kyle-fraser-and-kamilla-karthigesu-introduce-a-goal-tracking-app-paprclip/)
+> A new app from Survivor 48 winner Kyle Fraser and castmate Kamilla Karthigesu aims to turn goal tracking into a social experience, pairing users for accountability, daily challenges, and shared pro...
+- `TechCrunch` [Forget the feed: Status AI raises $17M to turn social media into interactive entertainment](https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/)
+> Interactive social media site Status  announced Tuesday $17 million in combined seed and Series A funding, with investors including General Catalyst, YC, LightShed Ventures, and Abstract.
+- `TechCrunch` [Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had](https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/)
+> Stilta announced Tuesday a $10 million seed round led by Andreessen Horowitz. Other investors in the round include YC and operators from companies like OpenAI, Legora, and Lovable.
+- `TechCrunch` [Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business](https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/)
+> Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets.
+- `TechCrunch` [Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.](https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/)
+> "There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?"
 - `TechCrunch` [OSHA probing worker death at SpaceX’s Starbase site](https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/)
 > The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.
 - `TechCrunch` [SandboxAQ brings its drug discovery models to Claude — no PhD in computing required](https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/)
@@ -150,38 +160,26 @@ Points: 141
 > Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the librarie...
 - `TechCrunch` [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
 > Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.
-- `TechCrunch` [NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting a...](https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/)
-> The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.
-- `TechCrunch` [Kin Health raises $9M to build an AI notetaker for patients](https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/)
-> The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you...
-- `TechCrunch` [Amazon’s new Alexa+ powered feature can generate podcast episodes](https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/)
-> Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.
-- `TechCrunch` [Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom](https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/)
-> The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.
-- `TechCrunch` [South Korea’s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/)
-> A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.
-- `TechCrunch` [Apple’s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)
-> Privacy will be a major theme when Apple unveils a new version of Siri.
+- `The Verge` [Anker fixes the two worst things about power stations](https://www.theverge.com/tech/928420/anker-solix-s2000-power-station)
+> Anker's Solix S2000 solves two major pain points with power stations: idle power draw that can leave a battery unexpectedly dead, and the large footprint required to hold so much energy. Impressive...
+- `The Verge` [Nintendo keeps finding new ways to reinvent platformers](https://www.theverge.com/entertainment/931663/yoshi-and-the-mysterious-book-review-nintendo-switch-2)
+> In most platforming games, you're fighting against the world around you. You're trying to beat a level, nail a seemingly impossible series of jumps, or defeat a powerful boss. But even though Yoshi...
+- `The Verge` [Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips](https://www.theverge.com/news/933269/microsoft-surface-pro-12-surface-laptop-8-specs-pricing-release-date)
+> Almost exactly two years ago, Microsoft introduced Arm-powered versions of the Surface Pro 11 and Surface Laptop 7, with Intel models not ready until more than six months later. This time around Mi...
+- `The Verge` [The Mandalorian and Grogu should have been a season of TV](https://www.theverge.com/entertainment/933409/the-mandalorian-and-grogu-review)
+> When The Mandalorian first debuted on Disney Plus, it was a refreshing reminder of how fascinating Star Wars stories can be when they aren't focused on the same handful of well-established characte...
+- `The Verge` [Marshall brings ANC back to its smaller on-ear wireless headphones](https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones)
+> Marshall's first headphones with active noise canceling were the Marshall Mid A.N.C. first launched in 2018. Its current lineup only offers noise canceling on its larger over-ear Monitor III A.N.C....
+- `The Verge` [These are the robot vacuum-mops I recommend for every type of home](https://www.theverge.com/gadgets/932425/best-robot-vacuum-mop-reviews-buying-guide)
+> Inviting a robot vacuum-mop into your life is a big decision. An autonomous floor-cleaning machine roaming your home is equal parts glorious and intrusive. But if it does its job well, you may forg...
+- `The Verge` [Xbox fans want exclusives, more backward compatibility, and free online multiplayer](https://www.theverge.com/games/933328/xbox-fan-feedback-exclusives-backward-compatibility-online-multiplayer)
+> Microsoft launched a new Xbox Player Voice portal yesterday, aiming to collect feedback from fans and "make it more visible." It certainly hasn't taken long for Xbox fans to make their feedback ver...
+- `The Verge` [Google I/O 2026: How to watch and what to expect](https://www.theverge.com/tech/932939/google-io-2026-how-to-watch)
+> Google's annual developer conference has arrived. We're expecting plenty of updates to Gemini, Search, and every other product that Google has stuffed AI inside of. The keynote kicks off later toda...
+- `The Verge` [Gemini is in danger of going full Copilot](https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace)
+> Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy...
 - `The Verge` [LG will release the first 1000Hz, 1080p gaming monitor this year](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b)
 > If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of ...
-- `The Verge` [Volvo teases a new affordable EV to replace discontinued EX30](https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60)
-> Volvo's compact, quirky EX30 had a lot of problems when it was first released. Tariffs essentially erased its affordability, making it more expensive to own, and a battery recall made it dangerous ...
-- `The Verge` [PlayStation exclusives aren’t coming to PC anymore](https://www.theverge.com/games/932817/playstation-exclusive-games-pc)
-> Sony reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios business, informed e...
-- `The Verge` [Musk v. Altman proved that AI is led by the wrong people](https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people)
-> The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the futu...
-- `The Verge` [Walmart launches new budget-friendly Android tablets starting at $97](https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets)
-> Walmart's Onn brand just launched a whole line of budget-friendly Android tablets that, all together, cost less in total than a single iPad Pro. As spotted by 9to5Google, the six new tablets ship w...
-- `The Verge` [Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day](https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale)
-> If Dyson’s PencilVac Fluffycones made you wish the company had built something similarly slim for scrubbing the hard floors in your home, enter the recently released Dyson PencilWash. The cordless ...
-- `The Verge` [All of the updates from Elon Musk and Sam Altman’s battle over OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
-> Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of aband...
-- `The Verge` [Elon Musk loses his case against Sam Altman](https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial)
-> After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitat...
-- `The Verge` [Google is rolling out its redesigned Workspace app icons](https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign)
-> It's not just you - the Google Workspace apps are getting a new look. The redesigned app icons, leaked last month, are now rolling out widely, as we started noticing this morning. Users with the re...
-- `The Verge` [Sony is raising short-subscription prices for PlayStation Plus](https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise)
-> Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in "select regions," blaming "ongoing market conditions." Beginning May 20th, 1-month subscriptions wil...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
