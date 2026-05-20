@@ -6,10 +6,20 @@
 
 # 📰 每日科技日报 — 2026-05-20
 
-> 自动收集于 2026-05-20 04:08 | 共 50 条
+> 自动收集于 2026-05-20 14:28 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录](https://36kr.com/p/3816942423000196?f=rss)
+> 大公司：
+  新加坡加码人工智能布局，英伟达将落地本地研发中心
+  全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经）
+  2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选
+  36氪获悉，《2026福布斯中国人工智能...
+- `36氪` [第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇](https://36kr.com/p/3817353357968516?f=rss)
+> 今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。
+  2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？
+  正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产...
 - `36氪` [长鑫科技更新招股书，碧桂园错失300亿](https://36kr.com/p/3817039204139908?f=rss)
 > 地产行业内，曾有望跑出两家明星创投企业，一家是世纪金源，另一家是碧桂园。前者现在做得顺风顺水，收获一个又一个IPO，而碧桂园因为地产业务暴雷，需要大量资金保交楼，被迫中断了在科技领域的投资“大爆发”。
   01
@@ -41,14 +51,14 @@
   
    谷歌推出Gemini 3.5系列模型
    洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元
-   巨力索具连续第��日跌停
+   巨力索具连续第二日跌停
    前三星芯片负责人：明年内存将降价
    自费流感疫苗也可使用医保报销
    谷歌搜索宣布大改版，AI模式与代理助手全面嵌入
   
   TOP 3 大新闻
   DeepSeek回应用户“对话泄露”疑虑
-  5月19日，DeepS...
+  5月19日，DeepSe...
 - `36氪` [当“躺平”、Gap被歧视，我们该如何度过奥德赛时期？ | 职场极端气候 ②](https://36kr.com/p/3816045694098952?f=rss)
 > 图源：公众号「有三思 U Sense」）
   2026年2月，小红书博主橘一橙NiceFriend发布了一条视频。她在视频里把奥德赛时期定义为“对事业、情感以及身份认同产生强烈焦虑和迷茫的阶段”，将之概括为“成年人类的未成年”。这条视频获得10万+点赞，8.6万收藏。
@@ -58,16 +68,10 @@
   圆通速递：4月快递产品收入60.71亿元，同比增长5.49%36氪获悉，圆通速递公告，4月快递产品收入60.71亿元，同比增长5.49%；业务完成量27.26亿票，同比增长1.22%；快递产品单票收入2.23元，同比增长4.21%。
   哔哩哔哩：一季度营收74.7亿元，日均活跃用户1.15亿
   36氪获悉，哔哩哔哩（以下简称“B站”）公布了截至2026年3月31日第一季度财...
-- `36氪` [裸辞九个月，降薪跳槽，一个80后营销人如何“上岸甲方”？｜百万年薪系列013](https://36kr.com/p/3816036564147718?f=rss)
-> 图源：公众号「有三思 U Sense」）
-  2023年秋，杭州亚运会湖州赛区。于成龙手持亚运火炬跑过城市街巷，掌心传来的温度让他想起十四年前，那个没有暖气的冬天。
-  彼时他在河南安阳的一间出租屋里，裹着羽绒服改方案，手指冻得握不住笔。他在那个冬天起跑，完成了一场长达18年的迁徙：从连“VI”是什么意思都要查百度的广告新人，到亚奥理事会特聘专家；从地产广告公司年薪两万的驻场专员，到网络安全...
-- `36氪` [影石：重新定义性价比](https://36kr.com/p/3815841756028425?f=rss)
-> 作者 | 张帆
-  坚持做后来者
-  近日，影石创新发布了登陆资本市场后的首份年报。2025年，公司实现营业收入97.41亿元，同比大幅增长74.76%，创下成立以来的最高营收纪录。然而，同期由于研发、销售等费用高企，公司归母净利润仅为9.29亿元，同比下降了6.62%。
-  面对这样一份“营收大增、利润下滑”的财报，公司召开了上市后的首次投资者交流会，以回应资本市场的关切。
-  根据202...
+- `少数派` [当 AI 成为角色：漫谈我的 SillyTavern 使用经验](https://sspai.com/post/109869)
+> ST 以及它背后的这套工作流起初只是我的无心的收获，但网上关于这方面的讨论并不多，实在可惜，故有此文。查看全文
+- `少数派` [4 月音乐精选：听这 8 张美妙的专辑迎接夏天](https://sspai.com/post/109418)
+> 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
 - `少数派` [自动补全生僻字，让 Kindle 从底层告别小方块](https://sspai.com/post/109625)
 > 本文将分享如何修改 Kindle 底层的 upstart 配置，实现开机自动挂载花园明朝（HanaMin）字体。这不仅能修复字典弹窗，更能让古籍正文中所有生僻字完美显示，达成全系统视觉统一。查看全文
 - `少数派` [派早报：Google 发布多项 Gemini 产品更新等](https://sspai.com/post/109945)
@@ -84,63 +88,66 @@
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试](https://sspai.com/post/109743)
 > 只需要一个浏览器就能玩，很适合上班时间摸鱼🌝查看全文
-- `少数派` [四天三夜，用小长假的时间体验青海湖小环线](https://sspai.com/post/103407)
-> 作为 2025 年的年度旅行，本次 4 天的青海湖小环线我甚是满意。查看全文
-- `少数派` [看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验](https://sspai.com/post/64870)
-> 在无线路由器的设置页面上，我们可能会看到一个名为「智能队列」的功能（根据品牌或操作系统的不同，也可能会被称做「智能QoS」、「SQM」等）。这一功能是如何工作的？是否能让网速变快？是否需要打开？本文将 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Evals Will Break and You Won't See It Coming](https://wanglun1996.github.io/blog/your-evals-will-break.html)
-> Article URL: https://wanglun1996.github.io/blog/your-evals-will-break.html
-Comments URL: https://news.ycombinator.com/item?id=48202658
-Points: 3
-# Comments: 1
-- `Hacker News` [Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
-> Article URL: https://fivethirtyeightindex.com/
-Comments URL: https://news.ycombinator.com/item?id=48201973
-Points: 59
-# Comments: 13
-- `Hacker News` [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
-> Article URL: https://status.railway.com/?date=20260519
-Comments URL: https://news.ycombinator.com/item?id=48201484
-Points: 285
-# Comments: 126
-- `Hacker News` [GitHub is investigating unauthorized access to their internal repositories](https://twitter.com/github/status/2056884788179726685)
-> Article URL: https://twitter.com/github/status/2056884788179726685
-Comments URL: https://news.ycombinator.com/item?id=48201316
-Points: 221
-# Comments: 60
-- `Hacker News` [HTML-in-Canvas Demos](https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md)
-> Article URL: https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md
-Comments URL: https://news.ycombinator.com/item?id=48201222
-Points: 12
-# Comment...
-- `Hacker News` [Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)
-> Article URL: https://github.com/wiltodelta/remove-ai-watermarks
-Comments URL: https://news.ycombinator.com/item?id=48200569
-Points: 157
-# Comments: 99
-- `Hacker News` [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/)
-> Article URL: https://openai.com/index/advancing-content-provenance/
-Comments URL: https://news.ycombinator.com/item?id=48198291
-Points: 224
-# Comments: 123
-- `Hacker News` [Mistral AI acquires Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)
-> Article URL: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai
-Comments URL: https://news.ycombinator.com/item?id=48197995
-Points: 190
-# Comments: 50
-- `Hacker News` [Minnesota becomes first state to ban prediction markets](https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets)
-> Article URL: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets
-Comments URL: https://news.ycombinator.com/item?id=48197980
-Points: 546
-# Comments: 164
-- `Hacker News` [Disney erased FiveThirtyEight](https://www.natesilver.net/p/disney-erased-fivethirtyeight)
-> Article URL: https://www.natesilver.net/p/disney-erased-fivethirtyeight
-Comments URL: https://news.ycombinator.com/item?id=48197703
-Points: 362
-# Comments: 198
+- `Hacker News` [560-610 minutes of exercise a week needed for substantial heart benefits](https://bmjgroup.com/560-610-minutes-of-exercise-a-week-needed-for-substantial-heart-benefits/)
+> Article URL: https://bmjgroup.com/560-610-minutes-of-exercise-a-week-needed-for-substantial-heart-benefits/
+Comments URL: https://news.ycombinator.com/item?id=48207509
+Points: 27
+# Comments: 31
+- `Hacker News` [America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen](https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen)
+> Article URL: https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen
+Comments URL: https://news.ycombinator.com/item?id=48207251
+Points: 40
+# Commen...
+- `Hacker News` [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)
+> Article URL: https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html
+Comments URL: https://new...
+- `Hacker News` [Meta blocks human rights accounts from reaching audiences in Arabia and the UAE](https://www.alqst.org/ar/posts/1190)
+> Article URL: https://www.alqst.org/ar/posts/1190
+Comments URL: https://news.ycombinator.com/item?id=48206768
+Points: 262
+# Comments: 85
+- `Hacker News` [Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order](https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/)
+> Article URL: https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/
+Comments URL: https://news.ycombinator.com/item?id=48206640
+Points: 95
+# Commen...
+- `Hacker News` [Saying Goodbye to Asm.js](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html)
+> Article URL: https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html
+Comments URL: https://news.ycombinator.com/item?id=48206340
+Points: 50
+# Comments: 21
+- `Hacker News` [College students drown out AI-praising commencement speeches with boos](https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role)
+> Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-student...
+- `Hacker News` [Google's AI is being manipulated. The search giant is quietly fighting back](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
+> Article URL: https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results
+Comments URL: https://news.ycombinator.com/item?id=48205782
+Points: 48
+# Comments: 25
+- `Hacker News` [Map of Metal](https://mapofmetal.com/)
+> Article URL: https://mapofmetal.com/
+Comments URL: https://news.ycombinator.com/item?id=48205699
+Points: 184
+# Comments: 58
+- `Hacker News` [Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7)
+> Article URL: https://qwen.ai/blog?id=qwen3.7
+Comments URL: https://news.ycombinator.com/item?id=48205626
+Points: 188
+# Comments: 71
+- `TechCrunch` [NanoClaw creator turns down $20M buyout offer, raises $12M seed instead](https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/)
+> NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.
+- `TechCrunch` [Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most...](https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/)
+> Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here.
+- `TechCrunch` [GitHub says hackers stole data from thousands of internal repositories](https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/)
+> The code hosting giant GitHub said it was investigating a breach, but said there was no evidence of customer data theft.
+- `TechCrunch` [Figma adds an AI assistant to its collaborative canvas](https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/)
+> Figma's new AI assistant will be first available on Figma Design
+- `TechCrunch` [Quartermaster is building a maritime hive mind](https://techcrunch.com/2026/05/20/quartermaster-is-building-a-maritime-hive-mind/)
+> The Arlington, Virginia-based startup has raised $42 million to equip ships with sensors that blow the current AIS tech out of the water.
+- `TechCrunch` [‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts](https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/)
+> Google is completely revamping its search experience, and that doesn't stop at YouTube.
 - `TechCrunch` [Google just declared itself a contender in AI design at IO 2026](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/)
 > Google says it's designed the app to be accessible to everyone, from teachers to small business owners.
 - `TechCrunch` [You can now talk to your Gmail inbox, as seen at Google IO 2026](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/)
@@ -149,38 +156,26 @@ Points: 362
 > Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.
 - `TechCrunch` [Discord enables end-to-end encrypted voice and video calling for every user](https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/)
 > Good news! Discord's hundreds of millions of users now have their communications scrambled, so not even Discord can see them.
-- `TechCrunch` [Mach Industries just spent $50M to solve a major defense tech problem](https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/)
-> Mach says the acquisition meaningfully improves unit economics across its five vehicle programs at exactly the moment the company is starting to scale.
-- `TechCrunch` [From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing](https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/)
-> Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.
-- `TechCrunch` [Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims](https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/)
-> The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he wa...
-- `TechCrunch` [Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026](https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/)
-> Google is calling the new devices "audio glasses," in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.
-- `TechCrunch` [Google’s Genie world model can now simulate real streets with Street View](https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/)
-> Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather ch...
-- `TechCrunch` [With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots](https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/)
-> Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building...
+- `The Verge` [It’s make or break time for AI labeling systems](https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts)
+> We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for...
+- `The Verge` [Trump Mobile may be leaking customer addresses](https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses)
+> Just as the T1 Phone is seemingly on the verge of release, Trump Mobile has been accused of insecurely storing customer data, leaving addresses and phone numbers vulnerable. The alleged leak has al...
+- `The Verge` [Insta360’s Mic Pro uses a three microphone array for improved recordings](https://www.theverge.com/tech/934473/insta360-mic-pro-wireless-e-ink-screen-microphone-array)
+> After initially revealing its unique design at NAB 2026 last month with few technical details, Insta360 has announced and launched its new wireless Mic Pro system featuring a couple of industry fir...
+- `The Verge` [Trump is waging a silent war on legal immigration](https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis)
+> When the member states of the United Nations reviewed their Global Compact on Migration earlier this month, one country was conspicuously absent from the discussions: the United States. In a post o...
+- `The Verge` [If Google can’t make AI agents useful, maybe no one can](https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can)
+> For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change,...
+- `The Verge` [The biggest data center ever is becoming a huge problem in Utah](https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary)
+> Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the ...
+- `The Verge` [‘It’s in the air’: Apple TV’s hottest new shows explore different sides of OnlyFans](https://www.theverge.com/tech/934078/apple-tv-onlyfans-margo-maximum-pleasure-guaranteed)
+> Apple TV is best known for its lineup of science fiction shows and feel-good sitcoms, but of late the streaming service has veered in a different direction. A pair of its current buzziest shows exp...
+- `The Verge` [Android 17 is getting its own version of Apple’s Handoff](https://www.theverge.com/tech/934457/android-17-continue-on-handoff)
+> Google is adding a new Android feature that resembles Apple's Handoff, allowing you to start a task on your Android phone and continue it right where you left off from a compatible tablet. "Continu...
+- `The Verge` [Samsung workers set to strike at worst possible time](https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply)
+> More than 47,000 Samsung Electronics workers are gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike is set to start on Thursday...
 - `The Verge` [Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds](https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs)
 > The era of ultra-high performance Mercedes EVs is here. The German automaker finally revealed its new super sedan, the AMG GT 4-door coupe, with technology borrowed from the automaker's XX concept ...
-- `The Verge` [Wear OS 7 will keep track of deliveries and sports scores on your wrist](https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026)
-> Amid the flurry of today's Google I/O announcements, Google shared details about Wear OS 7, the next major update to its smartwatch platform. To help you keep track of things like deliveries and sp...
-- `The Verge` [Plex is tripling the price of a lifetime pass to $750 after doubling it last year](https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike)
-> I am dying to know how much money Plex is about to make the next six weeks charging people to stream their own video from their own homes. Today, it's giving every prospective customer until July 1...
-- `The Verge` [Demis Hassabis said this might be the ‘foothills of the singularity.’ What?](https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis)
-> Welcome to a "profound moment for humanity," according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and...
-- `The Verge` [We react to Google I/O 2026](https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026)
-> What better way to unwind from a two-hour keynote presentation than to pore over the weirdest and wildest details, from a Gmail bot you can converse with to DeepMind's leader saying the singularity...
-- `The Verge` [The future of Google is a search box that does everything](https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026)
-> Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to ...
-- `The Verge` [Nintendo’s $500 Switch 2 bundle includes a game, and it’s available now](https://www.theverge.com/gadgets/933792/nintendo-switch-2-choose-your-game-console-bundle-deal)
-> Nintendo recently teased the “Choose Your Game” Switch 2 console and digital game bundle, coming in early June. However, multiple retailers (including Nintendo itself) are already offering the $499...
-- `The Verge` [Google’s AI future demands trust — and your personal data](https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data)
-> Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark...
-- `The Verge` [Here are our favorite Memorial Day deals (so far)](https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026)
-> Memorial Day marks the unofficial start of summer, and the holiday’s sales include plenty of deals on gadgets that can help you make the most of the season. If your plans involve beach days, pool p...
-- `The Verge` [Democrats preview how they’d go after the Ticketmaster settlement if they regain power](https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement)
-> A handful of Democrats called an unofficial hearing on Capitol Hill Monday to slam the Department of Justice's "trivial" and "pathetic" settlement with Live Nation-Ticketmaster, previewing how they...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
