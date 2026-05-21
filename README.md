@@ -6,69 +6,57 @@
 
 # 📰 每日科技日报 — 2026-05-21
 
-> 自动收集于 2026-05-21 04:17 | 共 50 条
+> 自动收集于 2026-05-21 14:33 | 共 50 条
 
 ## 🇨🇳 中文科技
 
-- `36氪` [9亿次点击背后，AI应用的真实江湖｜2026中国AI应用全景图谱报告](https://36kr.com/p/3818450346738823?f=rss)
-> 有一个问题，值得在2026年认真问一次——
-  你上一次用AI应用，是让它回答了一个问题，还是让它完成了一件事？
-  这两个动作之间，隔着一个时代。
-  2026年，AI应用的产品范式，正在从「聊天」走向「做事」。
-  这不是预言，是已经发生的现实。
-  从「回答」到「执行」，背后的数据是怎样的？推手是什么？有哪些代表企业？
-  为了回答这些问题，量子位智库发布2026年中国AI应用全景图谱...
-- `36氪` [16款产品入选，2026「焦点」产品计划618特别版重磅发布](https://36kr.com/p/3818418722734977?f=rss)
-> 本期16款产品中，有没有你心目中的焦点产品呢？
-- `36氪` [独家对谈｜谢文博：银发，孤独，一个中日观察者的十八年](https://36kr.com/p/3816060007751430?f=rss)
-> 图源：公众号「职场Bonus」（ID：ZhiChangHongLi）
-  “上百次往返，看透存量时代的生存法则。”
-  谢文博，四川人，聊起他从老家到上海再到日本求学的经历，他说喜欢“把自己放在跳起来才够得着的环境里”。
-  在上海交大材料工程读研二那年，他作为访问学者公派赴日富士施乐做研发。拿到Offer后，三年啃下五篇专利，他发现日本企业有一套"能把普通人管理出好成果"的门道。
-  20...
-- `36氪` [8点1氪丨英伟达Q1净利润583亿美元；谷歌CEO：Gemini月活跃用户达9亿；寿司郎回应“盘子抽检10抽10脏”](https://36kr.com/p/3818280989443202?f=rss)
-> 今日热点导览
-  俄罗斯将延长对中国公民的免签制度
-  张雪首度谈及签约德比斯原因
-  微信再度开放520大额红包，限时1天 
-  罗欣药业回应阿奇霉素劣药事件
-  段永平最新持仓公布
-  TOP3大新闻
-  英伟达：第一财季净利润583亿美元，同比增长211%
-  36氪获悉，英伟达发布2027财年第一季度财报，财报显示，英伟达第一财季营收816.2亿美元，同比增长85%；净利润...
-- `36氪` [网易520发布会：质量为先，狙击细分赛道](https://36kr.com/p/3817849322964098?f=rss)
-> 5月20日，2026年『网易游戏520线上发布会』正式举办，公布了40余款游戏及IP的最新动态。其中，520发布会上公布的部分重要新品如下： 
-  《遗忘之海》
-  
-  《遗忘之海》
-  本次发布会上，《遗忘之海》官宣将于5月22日开启三测前瞻直播，并于28日正式开启测试。 
-  目前来看，《遗忘之海》应该是网易游戏最受期待的新品之一。它出自《第五人格》开发团队Joke...
-- `36氪` [氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录](https://36kr.com/p/3816942423000196?f=rss)
+- `36氪` [氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》](https://36kr.com/p/3816942732133510?f=rss)
 > 大公司：
-  新加坡加码人工智能布局，英伟达将落地本地研发中心
-  全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经）
-  2026福布斯中国人工智能���技企业TOP 50发布，中关村科金入选
-  36氪获悉，《2026福布斯中国人工...
-- `36氪` [第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇](https://36kr.com/p/3817353357968516?f=rss)
-> 今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。
-  2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？
-  正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产...
-- `36氪` [长鑫科技更新招股书，碧桂园错失300亿](https://36kr.com/p/3817039204139908?f=rss)
-> 地产行业内，曾有望跑出两家明星创投企业，一家是世纪金源，另一家是碧桂园。前者现在做得顺风顺水，收获一个又一个IPO，而碧桂园因为地产业务暴雷，需要大量资金保交楼，被迫中断了在科技领域的投资“大爆发”。
-  01
-  5月17日，计划登陆科创板的长鑫科技集团股份有限公司（以下简称：长鑫科技）更新了招股书。新招股书的财务数据显示，2026年第一季度，长鑫科技营收508亿元，同比增长719.13%...
-- `36氪` [理想新L9上市72小时：老车主复购占大头，仍需从“家庭”破圈](https://36kr.com/p/3709756082466949?f=rss)
-> 文 | 徐蔡钰 编辑 | 李勤
-  “爆了，试驾根本约不上”，5月16至17日，理想新L9上市的首个周末，门店挤满了前来试驾的用户们。
-  这款在2022年首次面世的增程大六座SUV，发布了第四代车型。新L9分Ultra与Livis两种版本，起售价分别为45.98万元、50.98万元。
-  相较此前的年度改款，本次新L9的更新幅度更加显著：
-...
-- `36氪` [做出百万台割草机器人后，未岚大陆CEO决定让自己变得“不重要”｜硬氪专访](https://36kr.com/p/3814411349581316?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  未岚大陆CEO任冠佼等了7年，等到了行业的爆发。
-  他还记得，2019年刚进入无边界智能割草机器人赛道，自己“只是觉得这个方向一定能火”。到2021年第一代产品推出时，他们也只敢确定，这是一个能做到10-20亿的行业。
-  直到2025年，增速超出他的预期。IDC数据显示，2025年全球无边界割草机器人出货量达到131.8万台，同比增长182.4%，占整个...
+  SpaceX据悉计划五年内实现每年1万次发射
+  据美国联邦航空管理局（FAA）局长周三透露，SpaceX正抛出一个宏大的计划，即在五年内实现每年10000次发射。但该机构对此表示，在批准此类扩张计划之前，政府官员需要看到其可靠性有所提升。今年1月，SpaceX公司还曾表示，其计划发射并组建一个由100万个卫星组成的星座，这些卫星将环绕地球运行，并利用太阳为人工智能数据中心供电...
+- `36氪` [新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3818927367046018?f=rss)
+> 管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。
+  
+  新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AI Agent“Neo Claw”——让用户像聊天一样指挥车队，把单人管理效率从10台拉升到100台以上。颉晶华强调，AI的价值不在于写多少代码，而在于解放双手——让无人车管理从“专业操作”变...
+- `36氪` [业绩快报 | 唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额](https://36kr.com/p/3818915823764610?f=rss)
+> 5月21日美股盘前，唯品会发布2025年第一季度财报。一季度内，唯品会实现净营收266亿元（人民币，下同），Non-GAAP净利润23亿元。
+  观察核心运营数据，一季度其实现商品交易总额（GMV）569亿元，同比增长8.6%，订单量1.73亿单，同比增长3.2%。同时，平台于该季度活跃用户数为4170万，同比实现正增长。
+  在春节期间穿戴和年货需求集中释放、透支后续消费力的季节性特点下，...
+- `36氪` [从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3818903062004870?f=rss)
+> AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率提升都是真金白银，AI的价值不是叠加功能，而是把“人等货”变成“货等人”。
+  
+  演讲拆解了AI从概念到产线的落地路径：用自动化中台打通全链路协同，让AI在研发设计、工程预测、供应链管理、生...
+- `36氪` [城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3818889074557829?f=rss)
+> 当Robotaxi还在为L4苦苦挣扎时，酷哇的环卫机器人、无人小巴、机器狗已经在50多个城市“上岗”赚钱了。
+  
+  具身智能最大的瓶颈不是算法，而是数据——没有量产就没有数据，没有数据就无法进化。酷哇的解法是“以战养战”：让机器人在真实运营中一边干活一边成长，用万台规模反哺模型迭代。李柯宏强调，中国是全球少有的支持机器人规模化应用的市场，酷哇正依托“一带一路”先行布点，用真实的运营数据驱...
+- `36氪` [36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3818877539091333?f=rss)
+> 5月19日，2026北京亦庄AI+产业大会上，36氪与PureblueAI清蓝正式达成战略合作，并联合发布《2026消费品牌AI推荐力名册》。随着AI逐渐成为新的信息入口和消费决策入口，品牌在AI回答中是否被提及、是否被推荐、排序是否靠前，正在成为新的竞争维度。36氪副总裁迟涵表示，36氪是最早发现和报道GEO的媒体，PureblueAI清蓝在自研技术算法和“科学GEO”方法论上的积累令其成...
+- `36氪` [把确定性，写进农业：四个外行、两次失败、三千万学费换来的答案| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3818800487679111?f=rss)
+> 两次失败、三千万学费——创业没有爽剧剧本，这是陆渔科技深耕农业AI真实的“入场券”。当99%的人还在用AI写文案、做设计时，有人把它扔进了鱼塘，只为解决一个最朴素的问题：不确定性。
+  
+  鲁敏用18年IT男转型“新农民”的经历，揭开了水产养殖最残酷的真相：1.38万亿的市场，数字化渗透率不足5%，一叶方塘，百万归零。这场分享没有宏大叙事，只有从黑箱到白盒、从赌运气到算数据的血泪教训：农业...
+- `36氪` [从算力到价值：AI时代的基础设施重构与产业增长新引擎| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3817502775329667?f=rss)
+> token经济如何重塑AI产业链？从芯片到智算中心，从模型服务到终端应用，token正在成为贯穿全链的计价单位。而当推理算力需求超越训练，智算中心的角色正从算力仓库变为token工厂，一个万亿级市场的大门刚刚打开。
+  
+  token正在成为AI时代的新质生产力单位。宋琛指出，随着Agent成为新交互入口，单次任务token消耗已从几千飙升至百万级别，而中国token调用量已占全球61%。...
+- `36氪` [开场致辞 建设“全域人工智能之城” | 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3818784445465731?f=rss)
+> AI的聚光灯正从炫酷的C端应用，转向轰鸣的工厂、无声的手术室和奔跑的人形机器人。当“落地”成为当下的关键词，2026北京亦庄AI+产业大会吹响了“走！带着AI去前线”的号角，在产业第一线求解人工智能的真实生产力。我们记录下这场务实者的聚会，捕捉那些让技术扎根泥土的坚定声音。
+  
+  5月19日，2026北京亦庄AI+产业大会在亦庄启幕。大会由北京经开区管委会指导、36氪主办、国家信创园承办...
+- `36氪` [开场致辞 从技术狂欢到价值深水区 | 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3818651789182080?f=rss)
+>  
+   AI叙事不再是颠覆一切，真正值得关注的是那些沉默的行业壁垒和经验能否被智能照亮。
+  
+   
+  四年间，这场大会从趋势观察走向落地实践，36氪也从AI的观察者转型为助推者。36氪CEO冯大刚在2026北京亦庄AI+产业大会的开场中，为焦虑的商业世界开出一剂解药，AI不是一家公司的机会，而是千行百业的机会。两天会期、六七十位实操嘉宾、一个让供需双方面对面碰撞的...
+- `少数派` [新玩意 242｜少数派的编辑们最近买了啥？](https://sspai.com/post/110009)
+> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
+- `少数派` [iOS 里的这些实用辅助功能，每个人都可能用得上](https://sspai.com/post/104073)
+> 说到辅助功能，或许很多人对它的回忆还停留在「小白点」。但随着 iPhone 彻底进入全面屏时代，辅助功能也慢慢变得陌生起来。实际上，Apple 每年都会给它添加不少功能，来方便更多身体有障人士来使用 iPhone。
+不过，尽管它是为了各种有障人群而开发，其中不少功能却能惠及所有 iPhone 用户。而随着 iOS 26 的更新，辅助功能又迎来了不少升级。下面这些实用的小功能，或许还真能帮到你...
+- `少数派` [少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启](https://sspai.com/post/109957)
+> 前段时间，少数派联合飞傲一起做了点有意思的事情：开启「BEATBOXCD机盖板设计大赛」。我们不想它只是一个标准化的CD机，而是希望它带着用户自己的审美和表达，一起参与这台BEATBOXCD机的共创。 ...查看全文
 - `少数派` [派早报：iQOO 15T 正式发布、小鹏 GX 上市等](https://sspai.com/post/109976)
 > Apple 公布 App Store 2025 反欺诈报告、微软发布 Azure Linux 4.0、战马工作室同时公开两款新作等。查看全文
 - `少数派` [当 AI 成为角色：漫谈我的 SillyTavern 使用经验](https://sspai.com/post/109869)
@@ -83,102 +71,99 @@
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [线下活动｜听完这首，不再 Emo：Leon x 少数派萨克斯音乐奏享会](https://sspai.com/post/109724)
 > 当醇厚旋律邂逅专业音频设备的细腻还原，这是一场属于萨克斯音乐爱好者的专属活动。少数派广州线下体验店联动音频品牌奥世声AustrianAudio，邀请到知名萨克斯青年演奏家LeonMusic，为大家带来 ...查看全文
-- `少数派` [YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？](https://sspai.com/post/109889)
-> AI虽然现在具备了干活的能力，但对于很多人来说，它依旧只是个Chatbot。因为，大多数AI依然停留在屏幕里（当然，具身智能另说）：你需要打开手机或电脑，进入某个App，手动复制消息、描述背景、然后不 ...查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/109886)
-> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试](https://sspai.com/post/109743)
-> 只需要一个浏览器就能玩，很适合上班时间摸鱼🌝查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [OpenAI to confidentially file for IPO as soon as Friday](https://www.cnbc.com/2026/05/20/openai-ipo-filing.html)
-> Article URL: https://www.cnbc.com/2026/05/20/openai-ipo-filing.html
-Comments URL: https://news.ycombinator.com/item?id=48217052
-Points: 41
-# Comments: 2
-- `Hacker News` [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136)
-> Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136
-Comments URL: https://news.ycombinator.com/item?id=48216983
-Points: 20
-# Comments: 3
-- `Hacker News` [What is Demand Coop and why tech workers should join one](https://cahootzcoops.com/blog/what-is-a-demand-coop)
-> Article URL: https://cahootzcoops.com/blog/what-is-a-demand-coop
-Comments URL: https://news.ycombinator.com/item?id=48216619
+- `Hacker News` [Google's Antigravity Bait and Switch](https://www.0xsid.com/blog/antigravity-bait-n-switch)
+> Article URL: https://www.0xsid.com/blog/antigravity-bait-n-switch
+Comments URL: https://news.ycombinator.com/item?id=48222529
 Points: 44
-# Comments: 44
-- `Hacker News` [Intuit to lay off over 3k employees to refocus on AI](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/)
-> Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/
-Comments URL: https://news.ycombinator.com/item?id=48216278
-Points: 98
-# Comments: 50
-- `Hacker News` [The Letter S, by Donald Knuth (1980) [pdf]](https://gwern.net/doc/design/typography/1980-knuth.pdf)
-> Article URL: https://gwern.net/doc/design/typography/1980-knuth.pdf
-Comments URL: https://news.ycombinator.com/item?id=48216016
-Points: 78
-# Comments: 8
-- `Hacker News` [Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene)
-> Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do.I built Phosphene to sell it, but the existing...
-- `Hacker News` [DOS Zone](https://dos.zone/)
-> Article URL: https://dos.zone/
-Comments URL: https://news.ycombinator.com/item?id=48215418
-Points: 144
-# Comments: 28
-- `Hacker News` [Google Declaring War on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/)
-> Article URL: https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/
-Comments URL: https://news.ycombinator.com/item?id=48214449
-Points: 410
-# Comments: 276
-- `Hacker News` [Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos](https://github.com/kouhxp/yapsnap)
-> Article URL: https://github.com/kouhxp/yapsnap
-Comments URL: https://news.ycombinator.com/item?id=48214399
-Points: 41
+# Comments: 10
+- `Hacker News` [AI is just unauthorised plagiarism at a bigger scale](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+> Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/
+Comments URL: https://news.ycombinator.com/item?id=48222383
+Points: 201
+# Comments: 94
+- `Hacker News` [Hating AI Is Good](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+> Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually
+Comments URL: https://news.ycombinator.com/item?id=48222366
+Points: 182
+# Comments: 173
+- `Hacker News` [US employers spend more than $1.5B a year to fight labor unions, report finds](https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions)
+> Article URL: https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions
+Comments URL: https://news.ycombinator.com/item?id=48222241
+Points: 59
+# Comments: 16
+- `Hacker News` [Magic the Gathering format: Fun 40](https://fabiensanglard.net/mtg/fun//index.html)
+> Article URL: https://fabiensanglard.net/mtg/fun//index.html
+Comments URL: https://news.ycombinator.com/item?id=48222105
+Points: 19
 # Comments: 14
-- `Hacker News` [PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play](https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play)
-> Article URL: https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play
-Comments URL: https://news.ycombinator.com/item?id=48214188
-Points: 38
+- `Hacker News` [A Bipartisan Amendment Would End Police License Plate Tracking Nationwide](https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/)
+> Article URL: https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/
+Comments URL: https://news.ycombinator.com/item?id=48221915
+Points: 27
+# Comments: 1
+- `Hacker News` [Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103)
+> Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103
+Comments URL: https://news.ycombinator.com/item?id=48221877
+Points: 18
 # Comments: 6
-- `TechCrunch` [Imperagen raises £5 million to use quantum physics, AI on enzyme engineering](https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/)
-> Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.
-- `TechCrunch` [Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/)
-> The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.
-- `TechCrunch` [Anthropic says it’s about to have its first profitable quarter](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/)
-> Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.
-- `TechCrunch` [The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center](https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/)
-> SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board.
-- `TechCrunch` [Clouted wants to take the guesswork out of making short videos go viral](https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/)
-> The video clipping startup raised a $7 million seed round led by Slow Ventures.
-- `TechCrunch` [xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over](https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/)
-> SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.
-- `TechCrunch` [Nvidia posts another record quarter, reveals $43B of holdings in startups](https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/)
-> Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.
-- `TechCrunch` [Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more](https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/)
-> Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.
-- `TechCrunch` [Anthropic will pay xAI $1.25B per month for compute](https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/)
-> Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.
-- `TechCrunch` [Sam Altman makes ‘mic drop’ offer to every Y Combinator startup](https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/)
-> Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.
-- `The Verge` [In SpaceX’s IPO, Elon Musk is a risk factor](https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor)
-> The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies intera...
-- `The Verge` [SpaceX just filed for what could be the biggest IPO ever](https://www.theverge.com/business/902219/spacex-ipo-details)
-> Elon Musk's final frontier is officially open for business now that SpaceX has formally filed its S-1 prospectus with the SEC. That kicks off what could be the largest initial public offering ever ...
-- `The Verge` [‘Solve all diseases,’ you say?](https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health)
-> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This wee...
-- `The Verge` [Here are 42 of our favorite deals from REI’s massive Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)
-> REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a goo...
-- `The Verge` [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
-> If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in return. Buying Nintendo’s own $89 Switch 2 Pro Controller, for instance, will net you the...
-- `The Verge` [Anthropic and OpenAI take their beef to the midterm elections](https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores)
-> Hello and welcome to Regulator, a newsletter for Verge subscribers about the car crashes piling up on a daily basis at the Washington-based intersection of technology and politics. If you're not a ...
-- `The Verge` [Vibe coding is coming to your phone](https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts)
-> "There's an app for that" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't st...
-- `The Verge` [Volvo is trying to put its EV stumbles in the rearview](https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy)
-> Volvo once had ambitions to fully exit the gas car business. Now it's trying to keep its tenuous foothold in the EV market. It's not an understatement to say that Volvo's EV journey has been a bump...
-- `The Verge` [You can now remix other people’s YouTube Shorts with AI](https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai)
-> Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when...
-- `The Verge` [Samsung has a tentative deal with workers to avoid a memory chip strike](https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply)
-> More than 47,000 Samsung Electronics workers were gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike was set to start on Thursd...
+- `Hacker News` [FatGid: FreeBSD 14.x kernel local privilege escalation](https://fatgid.io/)
+> Article URL: https://fatgid.io/
+Comments URL: https://news.ycombinator.com/item?id=48221415
+Points: 26
+# Comments: 1
+- `Hacker News` [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
+> Article URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us
+Comments URL: https://news.ycombinator.com/item?id=48221230
+Points: 0
+# Comments: 0
+- `Hacker News` [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
+> Article URL: https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html
+Comments URL: https://news.ycombinator.com/item?id=48220696
+Points: 135
+# Comments: 64
+- `TechCrunch` [Waymo pauses Atlanta service as its robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/)
+> Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.
+- `TechCrunch` [The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/)
+> The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.
+- `TechCrunch` [Hark raises $700M Series A for its secretive “universal” AI interface](https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/)
+> Brett Adcock's new AI startup is now valued at $6 billion by its investors.
+- `TechCrunch` [Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not enga...](https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/)
+> Maka Kids is building a streaming app for children ages zero to six featuring content designed for healthy development. The startup has now raised $3 million in seed funding to scale its platform.
+- `TechCrunch` [Google is pitching an AI agent ecosystem to consumers who may not buy it](https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/)
+> The AI agents are coming. A lot of them.
+- `TechCrunch` [Wayve’s self-driving tech is headed to US cars made by Stellantis](https://techcrunch.com/2026/05/21/wayves-self-driving-tech-is-headed-to-us-cars-made-by-stellantis/)
+> Wayve's self-driving tech will show up in Stellantis vehicles in 2028.
+- `TechCrunch` [With aluminum prices up 20%, recycling startups bet on AI to cash in](https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/)
+> Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.
+- `TechCrunch` [Flipper unveils a Linux-powered networking gadget built for hackers and tinkerers](https://techcrunch.com/2026/05/21/flipper-unveils-a-linux-powered-networking-gadget-built-for-hackers-and-tinkerers/)
+> Flipper Devices said that the new gadget is in development and the base model will cost under $350
+- `TechCrunch` [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
+> The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts.
+- `TechCrunch` [Beauty booking startup Fresha hits $1 billion valuation with KKR backing](https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/)
+> Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm.
+- `The Verge` [I tested several cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
+> You might find it kind of sad to put your hard-earned Switch 2 into a protective case. To me, it’s freeing. Sure, it can take away from the slick design. But using a case relieves me of the worry t...
+- `The Verge` [Musk v. Altman: Much ado about nothing](https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless)
+> Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were prote...
+- `The Verge` [Anthropic is paying $15 billion a year for access to Elon Musk’s data centers](https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus)
+> Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO...
+- `The Verge` [Netflix’s next great sci-fi show is set in a retirement community](https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix)
+> Four decades on, '80s-style science fiction adventures continue to exert their influence on modern film and TV. The idea of a group of kids teaming up to face an otherworldly threat has become a tr...
+- `The Verge` [The new Flipper One is a pocket-sized Linux computer](https://www.theverge.com/tech/935202/flipper-devices-one-zero-wireless-multi-tool-linux-open-source-computer)
+> It's been nearly six years since Flipper Devices introduced the Zero, its popular but controversial wireless hacking multi-tool. The company's latest creation (following a slight departure with a d...
+- `The Verge` [I review robot vacuums for a living, ask me anything!](https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything)
+> Welcome! I'm The Verge's smart home reviewer, and I'm hosting an exclusive subscriber AMA today at 10 AM PT / 1 PM ET. I test a lot of connected gadgets for my job, but the dominant device in my ho...
+- `The Verge` [I can’t believe how fast Google vibe coded my first Android app](https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio)
+> Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked away. Ten minutes later, I had an entire...
+- `The Verge` [NYC Mayor Zohran Mamdani is launching a Twitch series](https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people)
+> New York City Mayor Zohran Mamdani is launching a streaming series on Twitch, in which he'll respond to questions the public have submitted via the chat, Polygon reports. The series is aptly titled...
+- `The Verge` [‘Fuck you, Bambu’: How one private message could change the face of 3D printing](https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github)
+> Bambu Lab makes the best, most accessible 3D printers yet, but that reputation is suddenly under siege. It all started when Paweł Jarczak received a private message from the company on Reddit ...
+- `The Verge` [Meta lays off thousands of employees to offset AI investments](https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo)
+> Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Busines...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
