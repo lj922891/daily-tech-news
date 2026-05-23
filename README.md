@@ -6,10 +6,42 @@
 
 # 📰 每日科技日报 — 2026-05-23
 
-> 自动收集于 2026-05-23 03:51 | 共 50 条
+> 自动收集于 2026-05-23 12:53 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3821714896408713?f=rss)
+> 下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。
+  硬件先行还是生态为王？C端规模还是B端付费？最终指向同一个逻辑：纯套壳应用、弱交互硬件注定被淘汰，只有“多模态底座+...
+- `36氪` [圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3821542483857801?f=rss)
+> 稀缺的，到底是懂AI的人，还是懂业务的人？
+  一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场景”， 当前AI的利润大头仍在基础设施层，应用端的ROI尚未完全释放，但拐点会比预想来得更...
+- `36氪` [圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3821533415985283?f=rss)
+> 真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。
+  只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。
+  以下为圆桌对话内容，经36氪整理编辑：
+  
+  帮主丨36氪《AI局内人...
+- `36氪` [对话王小川：离开通用人工智能的主干道之后](https://36kr.com/p/3821521291038856?f=rss)
+> “如果没有转型，继续走主流道路，你也会有同等程度的焦虑。”王小川说，这次转型，让他真正回归到从创业第一天就最想做的事情：造AI医生。
+  访谈｜邓咏仪 杨轩
+  文｜邓咏仪
+  编辑｜张雨忻
+  一年前，王小川带着百川智能来了一次激烈的“大刹车”：大幅缩减通用模型团队，关闭金融等多条行业线，All in医疗大模型。但与此同时，整个大模型行业却热闹非凡，大厂和创业公司轮番进行“轰炸式更新”——...
+- `36氪` [圆桌对话：AI浓度与转化率：数字体验的实战增长法则](https://36kr.com/p/3821519307591811?f=rss)
+> AI浓度并非越高越好，转化率的秘密在于人机共生的平衡点。
+  “AI应像手机一样贯穿全流程”，而面对亲子游客和老年群体，主动将AI浓度降至50%，却实现了超50%的转化率。浓度的关键是以人为本、文化温度先行。
+  以下为圆桌对话内容，经36氪整理编辑：
+  
+  薛冰丨上海蜚语信息科技副总裁（主持）
+  崔健南丨广州搞搞镇文化科技创始人兼CEO
+  杨晟丨珀乐互动科技创始人
+  薛冰：各位嘉...
+- `36氪` [36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资](https://36kr.com/p/3821371042877575?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，北京维泛智能科技有限公司（以下简称“维泛智能”）近日完成数亿元种子轮融资，由中关村资本及旗下启航投资联合领投，上海未来产业基金、石溪资本、佰维存储、燕创集团、海益投资、探元创投共同投资。
+  维泛智能成立于2025年5月，孵化自北京大学类脑芯片实验室（PAICORE Lab），专注于具身智能“大小脑...
 - `36氪` [用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目](https://36kr.com/p/3819979202253189?f=rss)
 > 作者｜梁键强
   编辑｜王毓婵
@@ -38,34 +70,8 @@
   金粒门相关负责人表示，金粒门将持续加码门店布局，年内将全力推进拓店计划，让更多消费者体验到新鲜短保零食产品与服务。
   
  ...
-- `36氪` [氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟二十三号发射在即，各系统准备就绪](https://36kr.com/p/3816943010071427?f=rss)
-> 大公司：
-  Jefferies预计7-Eleven日本业务营业利润将达2270亿日元，本财年同店销售增长势头强劲
-  投行杰富瑞（Jefferies）分析师栗山俊介在最新发布的研究报告中指出，凭借在现做食品领域的拓展及有效的营销策略，日本零售巨头零售集团7&I控股（Seven & i Holdings）旗下的日本7-Eleven便利店本财年同店销售额有望实现稳步增长。报告预...
-- `36氪` [AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3820318177841541?f=rss)
-> AI不是某一个超级单品的故事，而是一个多端协同的生态故事，消费者的期待与顾虑，正在定义这个生态的进化方向。
-  
-  AI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加分项”而非“决策项”。未来，AI硬件生态的四个步骤——感知、记忆、决策、行动，或将分别由眼镜、手机、PC协同完成。
-  以下为演讲内容，经36氪整理编辑：...
-- `36氪` [江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3820298219425924?f=rss)
-> 中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。
-  
-  江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到...
-- `36氪` [小米YU7家族再推新车，雷军：标准版打特斯拉，GT版狙BBA](https://36kr.com/p/3817022407181188?f=rss)
-> 5月21日晚，小米正式发布YU7系列两款全新车型：标准版起售价23.35万元，GT版起售价38.99万元。至此，YU7车系已扩展至5款车型，价格区间覆盖23.35万元至38.99万元。
-  YU7是小米于2025年6月推出的首款SUV，上市当晚3分钟内大定订单突破20万辆。发布会上，雷军展示了YU7与特斯拉Model Y的销量对比：2025年7月至2026年4月，YU7累计交付23.2万辆，...
-- `36氪` [让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3820220616495492?f=rss)
-> 让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于Chatbot，真正的价值在于静默看护与自主决策。
-  
-  AI进入产业腹地仍面临两大鸿沟：视觉认知与行业的理解。为此，大华股份构建了星汉大模型系列——V系列视觉大模型让系统“看得懂”物理世界，L系列行业模型打通业务逻辑。未来“基模+行业Know-how”将成为新范式，而A...
-- `36氪` [让好项目，更早被看见](https://36kr.com/p/3820226045104257?f=rss)
-> 提交报道链接：https://36kr.com/seek-report-new?t=1779418211266
-  
-  36氪AI寻求报道
-  很多项目第一次被行业真正看见，往往已经不是它最需要被看见的时候。
-  那时候，它可能已经拿了融资，跑出了数据，进入了热门赛道，也开始频繁出现在投资人、媒体和产业方的视野里。
-  但创业不是从融资新闻开始的。
-  在更早的时候，一个项目可能只是一支还...
+- `少数派` [这个周末，来深圳文博会和少数派打个卡吧](https://sspai.com/post/110052)
+> 熟悉少数派的朋友都知道，我们一直在研究怎么让数字生活变得更好玩、更高效。今天（5月22日），这件事有了新的进展。第二十二届中国（深圳）国际文化产业博览交易会之元匠坊分会场正式开幕。这一次，少数派不仅参 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/110046)
 > 📅本周新预告《死神千年血战篇-祸进谭-》正式预告5月19日，TV动画《死神千年血战篇-祸进谭-》发布了正式预告，第1-3集将于6月21日在日本影院先行上映，7月开始播出。田口智久担任总导演，村田光执导 ...查看全文
 - `少数派` [浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」](https://sspai.com/post/110044)
@@ -85,61 +91,61 @@
 > ST 以及它背后的这套工作流起初只是我的无心的收获，但网上关于这方面的讨论并不多，实在可惜，故有此文。查看全文
 - `少数派` [4 月音乐精选：听这 8 张美妙的专辑迎接夏天](https://sspai.com/post/109418)
 > 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
-- `少数派` [自动补全生僻字，让 Kindle 从底层告别小方块](https://sspai.com/post/109625)
-> 本文将分享如何修改 Kindle 底层的 upstart 配置，实现开机自动挂载花园明朝（HanaMin）字体。这不仅能修复字典弹窗，更能让古籍正文中所有生僻字完美显示，达成全系统视觉统一。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Is AI Profitable Yet?](https://isaiprofitable.com/)
-> Article URL: https://isaiprofitable.com/
-Comments URL: https://news.ycombinator.com/item?id=48243863
-Points: 140
-# Comments: 90
-- `Hacker News` [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware)
-> Article URL: https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware
-Comments URL: https://news.ycombinator.com/item?id=48243293
-Points: 73
-# Comment...
-- `Hacker News` [SpaceX launches Starship v3 rocket](https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505)
-> Article URL: https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505
-Comments URL: https://news.ycombinator.com/item?id=48242959
-Points: 194
-# Comme...
+- `Hacker News` [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
+> Article URL: https://www.reenigne.org/blog/80386-microcode-disassembled/
+Comments URL: https://news.ycombinator.com/item?id=48247004
+Points: 25
+# Comments: 1
+- `Hacker News` [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html)
+> Article URL: https://horace.io/brrr_intro.html
+Comments URL: https://news.ycombinator.com/item?id=48246889
+Points: 15
+# Comments: 5
+- `Hacker News` [DHS Quits Granting Green Cards–Almost](https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely)
+> Article URL: https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely
+Comments URL: https://news.ycombinator.com/item?id=48246735
+Points: 25
+# Comments: 6
+- `Hacker News` [US tech firms share Dutch regulator officials' names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/)
+> Article URL: https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/
+Comments URL: https://news.ycombinator.com/item?id=48246614
+Points: 71
+# Comments: 38
+- `Hacker News` [BambuStudio has been violating PrusaSlicer AGPL license since their fork](https://xcancel.com/josefprusa/status/2054602354851254330)
+> Article URL: https://xcancel.com/josefprusa/status/2054602354851254330
+Comments URL: https://news.ycombinator.com/item?id=48245862
+Points: 145
+# Comments: 41
+- `Hacker News` [Experience: We found a baby on the subway – now he's our 26-year-old son](https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son)
+> Article URL: https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son
+Comments URL: https://news.ycombinator.com/item?id=48245571
+Points: 133
+# Comments...
+- `Hacker News` [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish)
+> Article URL: https://github.com/amatsuda/rubish
+Comments URL: https://news.ycombinator.com/item?id=48245262
+Points: 72
+# Comments: 32
 - `Hacker News` [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
 > Article URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug
 Comments URL: https://news.ycombinator.com/item?id=48242278
-Points: 85
-# Comments: 57
+Points: 182
+# Comments: 105
 - `Hacker News` [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
 > Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda
 Comments URL: https://news.ycombinator.com/item?id=48241997
-Points: 250
-# Comments: 74
-- `Hacker News` [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
-> Article URL: https://github.com/anomalyco/models.dev
-Comments URL: https://news.ycombinator.com/item?id=48241172
-Points: 110
-# Comments: 20
+Points: 532
+# Comments: 186
 - `Hacker News` [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
 > Article URL: https://www.anthropic.com/research/glasswing-initial-update
 Comments URL: https://news.ycombinator.com/item?id=48240419
-Points: 346
-# Comments: 217
-- `Hacker News` [Waymo expands pause to four cities as robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/)
-> Article URL: https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/
-Comments URL: https://news.ycombinator.com/item?id=48240331
-Points: 26
-# Co...
-- `Hacker News` [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
-> Article URL: https://security.apple.com/blog/formal-verification-corecrypto/
-Comments URL: https://news.ycombinator.com/item?id=48239862
-Points: 68
-# Comments: 3
-- `Hacker News` [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
-> Article URL: https://www.kanbots.dev/
-Comments URL: https://news.ycombinator.com/item?id=48239413
-Points: 183
-# Comments: 106
+Points: 463
+# Comments: 280
+- `TechCrunch` [Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, so...](https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/)
+> Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.
 - `TechCrunch` [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)
 > People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.
 - `TechCrunch` [SpaceX launches Starship V3 for the first time, but loses booster on return](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/)
@@ -158,8 +164,10 @@ Points: 183
 > Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.
 - `TechCrunch` [You can no longer Google the word ‘disregard’](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/)
 > After Google Search's AI update, the word "disregard" now effectively breaks the search interface.
-- `TechCrunch` [We tried Google’s AI glasses and they’re almost there](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/)
-> Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.
+- `The Verge` [I have a new go-to browser](https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer)
+> Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all the old editions at...
+- `The Verge` [Google’s new anything-to-anything AI model is wild](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video)
+> Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was run...
 - `The Verge` [Google’s AI search is so broken it can ‘disregard’ what you’re looking for](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard)
 > Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term "disregard," the AI Overview section would include a response like what you'...
 - `The Verge` [Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel](https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale)
@@ -176,10 +184,6 @@ Points: 183
 > Google officially filed its appeal of the federal ruling deeming it an illegal search monopolist, arguing the decision "crashed" through legal guardrails. "Google just prevailed in the marketplace ...
 - `The Verge` [Waymo suspends freeway driving amid safety concerns](https://www.theverge.com/transportation/936129/waymo-freeway-suspend-atlanta-san-antonio-flood-pause)
 > On Thursday, Waymo customers opened up the app and noticed something unusual: no more freeway service. Trips that would normally take a few minutes on the freeway were suddenly projected to last mu...
-- `The Verge` [LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card](https://www.theverge.com/gadgets/936122/lg-b5-oled-77-best-buy-gift-card-memorial-day-deal-sale)
-> Best Buy’s Memorial Day sale includes a good deal on a massive OLED TV. The 77-inch LG B5 is down to $1,499.99 (originally $2,999.99), and the purchase includes a $200 Best Buy gift card. I’m a 55-...
-- `The Verge` [The Trump phone is not here](https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped)
-> Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. It's now been more than a week since Trump Mobile ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
