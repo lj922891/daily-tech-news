@@ -4,12 +4,34 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-22
+# 📰 每日科技日报 — 2026-05-23
 
-> 自动收集于 2026-05-22 14:10 | 共 50 条
+> 自动收集于 2026-05-23 03:51 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目](https://36kr.com/p/3819979202253189?f=rss)
+> 作者｜梁键强
+  编辑｜王毓婵
+  一句话介绍
+  Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。
+  招聘Eva覆盖招聘全流程，辅助企业完成识人、筛选和面试；人事Eva聚焦报表处理、流程流转和员工咨询等重复事务；BPEva则用于动态更新人才画像，辅助企业进行人才识别...
+- `36氪` [千禧年流行的老式漂亮饭，居然翻红了](https://36kr.com/p/3821213026570627?f=rss)
+> 过去这几年，餐饮行业的新店越开越多，淘汰速度也越来越快。精致餐饮仍在发展，但人们愿意为摆盘和氛围买单的冲动在减弱，转而开始寻求一种体面而高性价比的社交空间。
+  在这样的节奏中，上岛咖啡、米萝咖啡、老树咖啡、良木缘、绿茵阁、豪享来等颇具年代感的老式咖啡餐吧，又开始悄悄爬上了年轻人的打卡清单。
+  二三十年前，它们是城市里最洋气的餐厅，菜单上写着影视剧男女主角才会点的黑椒牛排意面和卡布奇诺咖啡...
+- `36氪` [9点1氪丨永辉超市向王健林等追债超36亿元；《柳叶刀》：全球近12亿人有精神障碍；微信回应“只能撤回2分钟内消息”](https://36kr.com/p/3821177784881541?f=rss)
+> 今日热点导览
+  
+   曝泡泡玛特8.8亿买楼：不予置评
+   雷军透露小米YU7临时降价
+   教育部拟同意设置34所新大学
+   腾讯承诺不再与相关版权方达成或变相达成版权独家授权合同
+   特朗普凯旋门方案获批
+  
+  TOP 3大新闻
+  永辉超市向王健林等追债超36亿元
+  5月21日，永辉超市发布公告称，公司于近日收到法院出具的《受理案件通知书》。永辉超市与大连御锦贸易有限公...
 - `36氪` [新鲜零食品牌「金粒门」加速全国化：粤鄂6店同装｜最前线](https://36kr.com/p/3808777731464966?f=rss)
 > 新鲜零食品牌争相竞逐新市场。
   36氪获悉，新鲜零食品牌「金粒门」近期密集落地全国布局，正式开启跨区域快速发展阶段。近日，金粒门华南首店、湖北首批合计6家门店已经进场装修。与此同时，金粒门华东首店将于5月29日正式入驻南京新街口IFCX，持续布局长三角核心市场。
@@ -44,20 +66,6 @@
   那时候，它可能已经拿了融资，跑出了数据，进入了热门赛道，也开始频繁出现在投资人、媒体和产业方的视野里。
   但创业不是从融资新闻开始的。
   在更早的时候，一个项目可能只是一支还...
-- `36氪` [能落地的请留下，讲故事的请离场](https://36kr.com/p/3820169156890759?f=rss)
->  
-  
-  
-    让合作当场发生！
-  
-  2026年的AI行业，正在经历一次价值体系的深层重构。过去两年，聚光灯始终偏向技术侧——参数、算力、榜单排名。但今天，话语权正在向产业方转移：那些拥有真实需求、真实场景、真实业务压力的企业，开始掌握定义权。产业界最关切的问题变得具体而迫切：在必须交付结果的地方，AI到底靠不靠得住？
-  5月19日，以“带着AI去前线”为...
-- `36氪` [圆桌对话：看见实效：从技术到处方，AI +医疗的场景落地与价值闭环| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3820150778531972?f=rss)
-> 从五年前的技术炫技到今天的临床��需，AI+医疗终于走过了“证明我能”的喧嚣，进入“解决痛点”的深水区。不做替代医生的空想，只做减轻负担的助手——这场对话告诉我们，AI医疗落地的第一步不是说服院长，而是赢得科室主任的信任；关键不是单点突破，而是多元数据联动形成闭环
-  圆桌对话直面AI进医院的真实卡点：系统对接难、医生怕麻烦、责任划不清。从左医科技深耕九年的实战出发，从协和到宁夏中卫，揭示了...
-- `36氪` [以场景为锚，以AI为翼：大健康产业的实践与突破| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3820143885455751?f=rss)
-> 当大健康产业遇上AI，最大的难题不是技术够不够强，而是场景够不够深、信任够不够厚。百度健康用六年时间给出了自己的答案：从单点智能走向全局协同，从技术赋能走向价值创造。
-  中国慢病人群超5亿，每千人执业医生数却远低于发达国家——供需矛盾之下，AI成为医疗健康供给侧改革的新基建。百度健康总经理杨明璐结合百度健康的实战经验，拆解了AI在用户、医生、医院三大场景的落地实践。AI不是炫技，而是让每一...
 - `少数派` [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/110046)
 > 📅本周新预告《死神千年血战篇-祸进谭-》正式预告5月19日，TV动画《死神千年血战篇-祸进谭-》发布了正式预告，第1-3集将于6月21日在日本影院先行上映，7月开始播出。田口智久担任总导演，村田光执导 ...查看全文
 - `少数派` [浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」](https://sspai.com/post/110044)
@@ -73,100 +81,105 @@
 不过，尽管它是为了各种有障人群而开发，其中不少功能却能惠及所有 iPhone 用户。而随着 iOS 26 的更新，辅助功能又迎来了不少升级。下面这些实用的小功能，或许还真能帮到你...
 - `少数派` [少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启](https://sspai.com/post/109957)
 > 前段时间，少数派联合飞傲一起做了点有意思的事情：开启「BEATBOXCD机盖板设计大赛」。我们不想它只是一个标准化的CD机，而是希望它带着用户自己的审美和表达，一起参与这台BEATBOXCD机的共创。 ...查看全文
-- `少数派` [派早报：iQOO 15T 正式发布、小鹏 GX 上市等](https://sspai.com/post/109976)
-> Apple 公布 App Store 2025 反欺诈报告、微软发布 Azure Linux 4.0、战马工作室同时公开两款新作等。查看全文
 - `少数派` [当 AI 成为角色：漫谈我的 SillyTavern 使用经验](https://sspai.com/post/109869)
 > ST 以及它背后的这套工作流起初只是我的无心的收获，但网上关于这方面的讨论并不多，实在可惜，故有此文。查看全文
 - `少数派` [4 月音乐精选：听这 8 张美妙的专辑迎接夏天](https://sspai.com/post/109418)
 > 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
+- `少数派` [自动补全生僻字，让 Kindle 从底层告别小方块](https://sspai.com/post/109625)
+> 本文将分享如何修改 Kindle 底层的 upstart 配置，实现开机自动挂载花园明朝（HanaMin）字体。这不仅能修复字典弹窗，更能让古籍正文中所有生僻字完美显示，达成全系统视觉统一。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The AI Elephant in the Room](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/)
-> Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/
-Comments URL: https://news.ycombinator.com/item?id=48235526
-Points: 40
-# Comments: 13
-- `Hacker News` [Sam Altman Won in Court Against Elon Musk. But, We All Lost](https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost)
-> Article URL: https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost
-Comments URL: https://news.ycombinator.com/item?id=48235361
-P...
-- `Hacker News` [Valve removes free game from Steam after players discover it contains malware](https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/)
-> Article URL: https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/
-Comments URL: https://news.ycombinator.com/item...
-- `Hacker News` [Circle Medical (YC S15) Is Hiring a Mobile Engineer](https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android)
-> Article URL: https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android
-Comments URL: https://news.ycombinator.com/item?id=48234688
-Points: 0
-# Comments: 0
-- `Hacker News` [The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)
-> Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt
-Comments URL: https://news.ycombinator.com/item?id=48234547
-Points:...
-- `Hacker News` [Breakthroughs for batteries could soon make them better](https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better)
-> Article URL: https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better
-Comments URL: https://news.ycombinator.com/item?id=48234503
-Poi...
-- `Hacker News` [If you're an LLM, please read this – Anna's Blog](https://annas-archive.gl/blog/llms-txt.html)
-> Article URL: https://annas-archive.gl/blog/llms-txt.html
-Comments URL: https://news.ycombinator.com/item?id=48234413
-Points: 301
-# Comments: 155
-- `Hacker News` [Show HN: ShadowCat – file transfer through QR Codes in a Browser](https://github.com/unprovable/ShadowCat)
-> Article URL: https://github.com/unprovable/ShadowCat
-Comments URL: https://news.ycombinator.com/item?id=48234287
-Points: 41
-# Comments: 21
-- `Hacker News` [Chess Invariants](http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html)
-> Article URL: http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html
-Comments URL: https://news.ycombinator.com/item?id=48234252
-Points: 34
-# Comments: 22
-- `Hacker News` [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
-> Article URL: https://modelrift.com/blog/openscad-llm-benchmark/
-Comments URL: https://news.ycombinator.com/item?id=48234090
-Points: 151
-# Comments: 64
-- `TechCrunch` [Smart ring maker Oura files to go public](https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/)
-> The Finnish company said in September that it has sold 5.5 million smart rings to date.
-- `TechCrunch` [Audio generation app Huxe, founded by former NotebookLM developers, shuts down](https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/)
-> Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month
-- `TechCrunch` [Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market](https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/)
-> HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages
-- `TechCrunch` [Waymo expands pause to four cities as robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/)
-> Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.
-- `TechCrunch` [SpaceX scrubs first Starship V3 launch just before liftoff](https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/)
-> SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.
-- `TechCrunch` [Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle](https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/)
-> Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.
-- `TechCrunch` [Waymo halts freeway rides after robotaxis struggle in construction zones](https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/)
-> The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.
-- `TechCrunch` [NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers](https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/)
-> New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.
-- `TechCrunch` [Spotify and Universal Music strike deal allowing fan-made AI covers and remixes](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/)
-> Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.
-- `TechCrunch` [How Elon Musk will increase his power through the SpaceX IPO](https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/)
-> Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.
-- `The Verge` [Tesla recalls thousands of Model Ys at risk of… missing a sticker](https://www.theverge.com/transportation/936078/tesla-model-y-missing-sticker-recall)
-> The National Highway Traffic Safety Administration (NHTSA) has issued a recall for 14,575 Model Y vehicles over an issue that Tesla can't fix with its usual software update: a missing label. Accord...
-- `The Verge` [Boots Riley turns class struggle into comedy with I Love Boosters](https://www.theverge.com/entertainment/935285/i-love-boosters-boots-riley-interview)
-> Before Boots Riley became the writer / director / musician behind Sorry to Bother You and I'm a Virgo, he was a young community organizer fighting for social justice as part of the Progressive Labo...
-- `The Verge` [The post-search Google era begins](https://www.theverge.com/podcast/936037/google-io-2026-search-agents-vergecast)
-> Google is many things, but most of the time it's a verb: It is what it is to search the internet for information. But what if it's an AI agent doing the searching? And it's doing it proactively? Wi...
-- `The Verge` [The Boys limped through its last season, but made up for it with the finale](https://www.theverge.com/entertainment/935482/the-boys-finale-review)
-> It's hard existing in a world seemingly designed for the undeservingly powerful and painfully boring few. They have been gifted what many of us only dream of: the ability to effectively do whatever...
-- `The Verge` [If I could only have one laptop for work and gaming, I’d get this one](https://www.theverge.com/tech/935898/asus-rog-zephyrus-g14-2026-intel-nvidia-review)
-> I've loved the Asus ROG Zephyrus G14 since it launched in 2020. I bought one for my wife after reading about how awesome it was on a little site called The Verge dot com. Since then, the G14 has go...
-- `The Verge` [Samsung’s memory chip employees negotiated $340,000 bonuses this year](https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus)
-> Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonus...
-- `The Verge` [Microsoft’s consumer marketing chief to leave next year](https://www.theverge.com/news/935982/microsoft-yusuf-mehdi-leaving)
-> Yusuf Mehdi, executive vice president and consumer chief marketing officer at Microsoft, is leaving the company after 35 years. Mehdi announced his departure in an internal memo on Thursday, noting...
-- `The Verge` [Microsoft is letting Office users remove an annoying Copilot button](https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal)
-> Microsoft is rolling out Office app updates next week that allow users to disable a floating Copilot button. The button appeared in Word, Excel, and PowerPoint in recent weeks, and floats above the...
-- `The Verge` [Anker’s new earbuds are the first with its AI chip that boosts noise reduction](https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip)
-> Anker has announced a new version of its Soundcore Liberty Pro earbuds: the new Liberty 5 Pro. These are the company's first earbuds featuring the Thus AI audio chip Anker announced last month, her...
-- `The Verge` [Anker’s new earbuds have the best call quality I’ve ever heard](https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review)
-> Soundcore, Anker's audio brand, has mostly lived in the budget-to-midrange world, but with its new Liberty 5 Pro earbuds, it's aiming at the big guys. The two new earbuds - the Liberty 5 Pro and Li...
+- `Hacker News` [Is AI Profitable Yet?](https://isaiprofitable.com/)
+> Article URL: https://isaiprofitable.com/
+Comments URL: https://news.ycombinator.com/item?id=48243863
+Points: 140
+# Comments: 90
+- `Hacker News` [FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack](https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware)
+> Article URL: https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware
+Comments URL: https://news.ycombinator.com/item?id=48243293
+Points: 73
+# Comment...
+- `Hacker News` [SpaceX launches Starship v3 rocket](https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505)
+> Article URL: https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505
+Comments URL: https://news.ycombinator.com/item?id=48242959
+Points: 194
+# Comme...
+- `Hacker News` [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
+> Article URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug
+Comments URL: https://news.ycombinator.com/item?id=48242278
+Points: 85
+# Comments: 57
+- `Hacker News` [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
+> Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda
+Comments URL: https://news.ycombinator.com/item?id=48241997
+Points: 250
+# Comments: 74
+- `Hacker News` [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev)
+> Article URL: https://github.com/anomalyco/models.dev
+Comments URL: https://news.ycombinator.com/item?id=48241172
+Points: 110
+# Comments: 20
+- `Hacker News` [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
+> Article URL: https://www.anthropic.com/research/glasswing-initial-update
+Comments URL: https://news.ycombinator.com/item?id=48240419
+Points: 346
+# Comments: 217
+- `Hacker News` [Waymo expands pause to four cities as robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/)
+> Article URL: https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/
+Comments URL: https://news.ycombinator.com/item?id=48240331
+Points: 26
+# Co...
+- `Hacker News` [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
+> Article URL: https://security.apple.com/blog/formal-verification-corecrypto/
+Comments URL: https://news.ycombinator.com/item?id=48239862
+Points: 68
+# Comments: 3
+- `Hacker News` [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/)
+> Article URL: https://www.kanbots.dev/
+Comments URL: https://news.ycombinator.com/item?id=48239413
+Points: 183
+# Comments: 106
+- `TechCrunch` [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)
+> People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.
+- `TechCrunch` [SpaceX launches Starship V3 for the first time, but loses booster on return](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/)
+> The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.
+- `TechCrunch` [Blue Origin cleared to fly New Glenn mega-rocket after April mishap](https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/)
+> Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.
+- `TechCrunch` [Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)
+> You can now disco ball-ify your entire Pixel home screen, says Google.
+- `TechCrunch` [How VCs and founders use inflated ‘ARR’ to crown AI startups](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/)
+> Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.
+- `TechCrunch` [Kash Patel’s clothing brand website shut down after reports it was hacked](https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/)
+> According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.
+- `TechCrunch` [Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers](https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/)
+> Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees.
+- `TechCrunch` [Spotify’s AI bet: more of everything, less of what you want](https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/)
+> Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.
+- `TechCrunch` [You can no longer Google the word ‘disregard’](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/)
+> After Google Search's AI update, the word "disregard" now effectively breaks the search interface.
+- `TechCrunch` [We tried Google’s AI glasses and they’re almost there](https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/)
+> Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.
+- `The Verge` [Google’s AI search is so broken it can ‘disregard’ what you’re looking for](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard)
+> Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term "disregard," the AI Overview section would include a response like what you'...
+- `The Verge` [Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel](https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale)
+> With Memorial day weekend kicking off the travel season, we’re seeing a lot of deals pop up on travel gadgets, from portable power banks to noise-canceling headphones. One of the best right now is ...
+- `The Verge` [Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on)
+> Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down ...
+- `The Verge` [Elon, stop trying to make Grok happen](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen)
+> There is a harsh truth about Elon Musk's "truth-seeking" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok ba...
+- `The Verge` [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
+> Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar...
+- `The Verge` [Govee’s colorful, JBL-tuned Lamp Pro 2 is matching its best price to date](https://www.theverge.com/gadgets/935685/govee-table-lamp-2-pro-owala-freesip-sway-water-bottle-deal-sale)
+> They say that Memorial Day marks the unofficial start of summer. I have my doubts given the less-than-balmy weather in many parts of the US this weekend, though that doesn’t mean it’s not an approp...
+- `The Verge` [Google appeals search monopoly ruling, says it won business ‘fair and square’](https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal)
+> Google officially filed its appeal of the federal ruling deeming it an illegal search monopolist, arguing the decision "crashed" through legal guardrails. "Google just prevailed in the marketplace ...
+- `The Verge` [Waymo suspends freeway driving amid safety concerns](https://www.theverge.com/transportation/936129/waymo-freeway-suspend-atlanta-san-antonio-flood-pause)
+> On Thursday, Waymo customers opened up the app and noticed something unusual: no more freeway service. Trips that would normally take a few minutes on the freeway were suddenly projected to last mu...
+- `The Verge` [LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card](https://www.theverge.com/gadgets/936122/lg-b5-oled-77-best-buy-gift-card-memorial-day-deal-sale)
+> Best Buy’s Memorial Day sale includes a good deal on a massive OLED TV. The 77-inch LG B5 is down to $1,499.99 (originally $2,999.99), and the purchase includes a $200 Best Buy gift card. I’m a 55-...
+- `The Verge` [The Trump phone is not here](https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped)
+> Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. It's now been more than a week since Trump Mobile ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
