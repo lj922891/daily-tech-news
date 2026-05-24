@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-23
+# 📰 每日科技日报 — 2026-05-24
 
-> 自动收集于 2026-05-23 12:53 | 共 50 条
+> 自动收集于 2026-05-24 04:11 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -94,56 +94,67 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
-> Article URL: https://www.reenigne.org/blog/80386-microcode-disassembled/
-Comments URL: https://news.ycombinator.com/item?id=48247004
-Points: 25
-# Comments: 1
-- `Hacker News` [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html)
-> Article URL: https://horace.io/brrr_intro.html
-Comments URL: https://news.ycombinator.com/item?id=48246889
-Points: 15
-# Comments: 5
-- `Hacker News` [DHS Quits Granting Green Cards–Almost](https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely)
-> Article URL: https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely
-Comments URL: https://news.ycombinator.com/item?id=48246735
-Points: 25
+- `Hacker News` [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
+> https://opensource.microsoft.com/blog/2026/04/28/continuing-...
+
+Comments URL: https://news.ycombinator.com/item?id=48253386
+Points: 87
+# Comments: 22
+- `Hacker News` [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
+> Article URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/
+Comments URL: https://news.ycombinator.com/item?id=48253186
+Points: 65
+# Comments: 10
+- `Hacker News` [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
+> Article URL: https://hellmood.111mb.de/wake_up_16b_writeup.html
+Comments URL: https://news.ycombinator.com/item?id=48253060
+Points: 89
 # Comments: 6
-- `Hacker News` [US tech firms share Dutch regulator officials' names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/)
-> Article URL: https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/
-Comments URL: https://news.ycombinator.com/item?id=48246614
-Points: 71
-# Comments: 38
-- `Hacker News` [BambuStudio has been violating PrusaSlicer AGPL license since their fork](https://xcancel.com/josefprusa/status/2054602354851254330)
-> Article URL: https://xcancel.com/josefprusa/status/2054602354851254330
-Comments URL: https://news.ycombinator.com/item?id=48245862
-Points: 145
-# Comments: 41
-- `Hacker News` [Experience: We found a baby on the subway – now he's our 26-year-old son](https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son)
-> Article URL: https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son
-Comments URL: https://news.ycombinator.com/item?id=48245571
+- `Hacker News` [API proposed by Chrome: Declarative partial updates](https://developer.chrome.com/blog/declarative-partial-updates)
+> Article URL: https://developer.chrome.com/blog/declarative-partial-updates
+Comments URL: https://news.ycombinator.com/item?id=48252957
+Points: 11
+# Comments: 0
+- `Hacker News` [ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies](https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning)
+> Article URL: https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning
+Comments URL: https://news.ycombinator.com/item?id=48252720
+Points: 105
+# Comments: 26
+- `Hacker News` [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
+> Article URL: https://khz.ac/software/i3-integration.html
+Comments URL: https://news.ycombinator.com/item?id=48252535
+Points: 40
+# Comments: 8
+- `Hacker News` [Byrne's Euclid](https://www.c82.net/euclid/)
+> Article URL: https://www.c82.net/euclid/
+Comments URL: https://news.ycombinator.com/item?id=48252146
+Points: 26
+# Comments: 7
+- `Hacker News` [Toxic chemical leak at a manufacturing facility in Orange County](https://www.bbc.com/news/articles/c3w2l249j8go)
+> Article URL: https://www.bbc.com/news/articles/c3w2l249j8go
+Comments URL: https://news.ycombinator.com/item?id=48252060
 Points: 133
-# Comments...
-- `Hacker News` [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish)
-> Article URL: https://github.com/amatsuda/rubish
-Comments URL: https://news.ycombinator.com/item?id=48245262
-Points: 72
-# Comments: 32
-- `Hacker News` [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
-> Article URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug
-Comments URL: https://news.ycombinator.com/item?id=48242278
-Points: 182
-# Comments: 105
-- `Hacker News` [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
-> Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda
-Comments URL: https://news.ycombinator.com/item?id=48241997
-Points: 532
-# Comments: 186
-- `Hacker News` [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update)
-> Article URL: https://www.anthropic.com/research/glasswing-initial-update
-Comments URL: https://news.ycombinator.com/item?id=48240419
-Points: 463
-# Comments: 280
+# Comments: 93
+- `Hacker News` [Air France and Airbus found guilty of manslaughter over 2009 plane crash](https://www.bbc.com/news/articles/czd2qmdvmq6o)
+> Article URL: https://www.bbc.com/news/articles/czd2qmdvmq6o
+Comments URL: https://news.ycombinator.com/item?id=48250980
+Points: 24
+# Comments: 13
+- `Hacker News` [Time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
+> Article URL: https://veronicaexplains.net/my-first-writerdeck/
+Comments URL: https://news.ycombinator.com/item?id=48250144
+Points: 322
+# Comments: 183
+- `TechCrunch` [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
+> SolarSquare could be valued at up to $500 million in the financing expected to close next month.
+- `TechCrunch` [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
+> Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.
+- `TechCrunch` [Ferrari is using IBM’s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)
+> IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.
+- `TechCrunch` [Nuclear startup Deep Fission says it’s going public, again, and I have questions](https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/)
+> Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.
+- `TechCrunch` [Elon Musk has given up on solar power (on Earth)](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/)
+> Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the "solar-electric economy" he promised?
 - `TechCrunch` [Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, so...](https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/)
 > Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.
 - `TechCrunch` [AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)
@@ -154,16 +165,14 @@ Points: 463
 > Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.
 - `TechCrunch` [Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)
 > You can now disco ball-ify your entire Pixel home screen, says Google.
-- `TechCrunch` [How VCs and founders use inflated ‘ARR’ to crown AI startups](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/)
-> Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.
-- `TechCrunch` [Kash Patel’s clothing brand website shut down after reports it was hacked](https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/)
-> According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.
-- `TechCrunch` [Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers](https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/)
-> Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees.
-- `TechCrunch` [Spotify’s AI bet: more of everything, less of what you want](https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/)
-> Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.
-- `TechCrunch` [You can no longer Google the word ‘disregard’](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/)
-> After Google Search's AI update, the word "disregard" now effectively breaks the search interface.
+- `The Verge` [Record Club is trying to be Letterboxd for music nerds](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds)
+> There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels...
+- `The Verge` [The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech)
+> Roger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its succes...
+- `The Verge` [Here are 38 Memorial Day deals we recommend for $50 or less](https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50)
+> Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight, but there are also plenty of great deals that won’t set you back nearly as much. In fact, some of the best discount...
+- `The Verge` [Hanging out in my favorite virtual coffee shop in Tokyo](https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam)
+> Finding a cafe that fits you can be a revelatory experience. For me at least, there are few places outside of my house that I can truly feel comfortable in. I'm lucky enough to have two options in ...
 - `The Verge` [I have a new go-to browser](https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer)
 > Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all the old editions at...
 - `The Verge` [Google’s new anything-to-anything AI model is wild](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video)
@@ -176,14 +185,6 @@ Points: 463
 > Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down ...
 - `The Verge` [Elon, stop trying to make Grok happen](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen)
 > There is a harsh truth about Elon Musk's "truth-seeking" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok ba...
-- `The Verge` [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
-> Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar...
-- `The Verge` [Govee’s colorful, JBL-tuned Lamp Pro 2 is matching its best price to date](https://www.theverge.com/gadgets/935685/govee-table-lamp-2-pro-owala-freesip-sway-water-bottle-deal-sale)
-> They say that Memorial Day marks the unofficial start of summer. I have my doubts given the less-than-balmy weather in many parts of the US this weekend, though that doesn’t mean it’s not an approp...
-- `The Verge` [Google appeals search monopoly ruling, says it won business ‘fair and square’](https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal)
-> Google officially filed its appeal of the federal ruling deeming it an illegal search monopolist, arguing the decision "crashed" through legal guardrails. "Google just prevailed in the marketplace ...
-- `The Verge` [Waymo suspends freeway driving amid safety concerns](https://www.theverge.com/transportation/936129/waymo-freeway-suspend-atlanta-san-antonio-flood-pause)
-> On Thursday, Waymo customers opened up the app and noticed something unusual: no more freeway service. Trips that would normally take a few minutes on the freeway were suddenly projected to last mu...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
