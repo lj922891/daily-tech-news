@@ -6,10 +6,25 @@
 
 # 📰 每日科技日报 — 2026-05-24
 
-> 自动收集于 2026-05-24 04:11 | 共 50 条
+> 自动收集于 2026-05-24 12:53 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [功效洗护市场，跑不出下一个完美日记](https://36kr.com/p/3819023278048643?f=rss)
+> 走进美国 Sephora、Ulta 或欧洲 Douglas 这样的美妆零售集合店，货架上的景象或许会让你感到意外：占据大量陈列面积的，不只是护肤品，还有护发产品。从基础清洁，到去屑、防脱，再到头皮微生态、蛋白键修护、抗热损伤等护理产品，护发区的复杂程度已经几乎与护肤区无异。
+  根据市场研究机构 Circana 的数据，2025 年美国高端护发零售市场同比增长 8%，是高端美妆所有品类中增速...
+- `36氪` [珀莱雅收购花知晓，但美妆界的“安踏”还没诞生](https://36kr.com/p/3820119270953352?f=rss)
+> 作者｜任彩茹
+  编辑｜乔芊
+  一家富有“少女心”与“童话感”的美妆新锐品牌，找到了自己的阶段性归宿。
+  5月21日晚，珀莱雅公告称，旗下全资子公司珀莱雅（海南）拟以3.51亿元现金收购深圳花知晓电子商务有限公司12.5479%的股权。交易完成后，珀莱雅对花知晓的持股比例将从38.4521%提升至51%。财务层面，花知晓也将正式纳入珀莱雅的合并报表范围。
+  
+  珀莱雅关于收购花知晓部...
+- `36氪` [对话VITURE姜公略：什么才是XR眼镜该有的样子？](https://36kr.com/p/3823013049045380?f=rss)
+> 过去十年，XR（扩展现实）赛道始终陷在一种怪异的叙事里——
+  在从业者高呼着“下一代计算平台”的宏大愿景时，资本市场也曾在元宇宙的热潮中疯狂押注，而一旦落地到消费端，这个行业却始终未能摆脱极客玩具的宿命。
+  从Google Glass的黯然退场，再到一众VR/AR厂商的折戟，XR行业在跌宕中，迎来了前所未有的冷静时刻。
+  行业的艰辛在于，尽管所有人都清楚技术终局，但抵达终局的路径却布满...
 - `36氪` [圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3821714896408713?f=rss)
 > 下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。
   硬件先行还是生态为王？C端规模还是B端付费？最终指向同一个逻辑：纯套壳应用、弱交互硬件注定被淘汰，只有“多模态底座+...
@@ -48,28 +63,8 @@
   一句话介绍
   Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。
   招聘Eva覆盖招聘全流程，辅助企业完成识人、筛选和面试；人事Eva聚焦报表处理、流程流转和员工咨询等重复事务；BPEva则用于动态更新人才画像，辅助企业进行人才识别...
-- `36氪` [千禧年流行的老式漂亮饭，居然翻红了](https://36kr.com/p/3821213026570627?f=rss)
-> 过去这几年，餐饮行业的新店越开越多，淘汰速度也越来越快。精致餐饮仍在发展，但人们愿意为摆盘和氛围买单的冲动在减弱，转而开始寻求一种体面而高性价比的社交空间。
-  在这样的节奏中，上岛咖啡、米萝咖啡、老树咖啡、良木缘、绿茵阁、豪享来等颇具年代感的老式咖啡餐吧，又开始悄悄爬上了年轻人的打卡清单。
-  二三十年前，它们是城市里最洋气的餐厅，菜单上写着影视剧男女主角才会点的黑椒牛排意面和卡布奇诺咖啡...
-- `36氪` [9点1氪丨永辉超市向王健林等追债超36亿元；《柳叶刀》：全球近12亿人有精神障碍；微信回应“只能撤回2分钟内消息”](https://36kr.com/p/3821177784881541?f=rss)
-> 今日热点导览
-  
-   曝泡泡玛特8.8亿买楼：不予置评
-   雷军透露小米YU7临时降价
-   教育部拟同意设置34所新大学
-   腾讯承诺不再与相关版权方达成或变相达成版权独家授权合同
-   特朗普凯旋门方案获批
-  
-  TOP 3大新闻
-  永辉超市向王健林等追债超36亿元
-  5月21日，永辉超市发布公告称，公司于近日收到法院出具的《受理案件通知书》。永辉超市与大连御锦贸易有限公...
-- `36氪` [新鲜零食品牌「金粒门」加速全国化：粤鄂6店同装｜最前线](https://36kr.com/p/3808777731464966?f=rss)
-> 新鲜零食品牌争相竞逐新市场。
-  36氪获悉，新鲜零食品牌「金粒门」近期密集落地全国布局，正式开启跨区域快速发展阶段。近日，金粒门华南首店、湖北首批合计6家门店已经进场装修。与此同时，金粒门华东首店将于5月29日正式入驻南京新街口IFCX，持续布局长三角核心市场。
-  金粒门相关负责人表示，金粒门将持续加码门店布局，年内将全力推进拓店计划，让更多消费者体验到新鲜短保零食产品与服务。
-  
- ...
+- `少数派` [capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具](https://sspai.com/post/109741)
+> 一个常驻菜单栏的小工具，双击 ⌘ 就能截图、标注、长截、美化、上传图床——纯 AppKit、零依赖、零订阅、零遥测。查看全文
 - `少数派` [这个周末，来深圳文博会和少数派打个卡吧](https://sspai.com/post/110052)
 > 熟悉少数派的朋友都知道，我们一直在研究怎么让数字生活变得更好玩、更高效。今天（5月22日），这件事有了新的进展。第二十二届中国（深圳）国际文化产业博览交易会之元匠坊分会场正式开幕。这一次，少数派不仅参 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/110046)
@@ -89,62 +84,58 @@
 > 前段时间，少数派联合飞傲一起做了点有意思的事情：开启「BEATBOXCD机盖板设计大赛」。我们不想它只是一个标准化的CD机，而是希望它带着用户自己的审美和表达，一起参与这台BEATBOXCD机的共创。 ...查看全文
 - `少数派` [当 AI 成为角色：漫谈我的 SillyTavern 使用经验](https://sspai.com/post/109869)
 > ST 以及它背后的这套工作流起初只是我的无心的收获，但网上关于这方面的讨论并不多，实在可惜，故有此文。查看全文
-- `少数派` [4 月音乐精选：听这 8 张美妙的专辑迎接夏天](https://sspai.com/post/109418)
-> 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Childhood Computing](https://susam.net/childhood-computing.html)
+> Article URL: https://susam.net/childhood-computing.html
+Comments URL: https://news.ycombinator.com/item?id=48256597
+Points: 4
+# Comments: 0
+- `Hacker News` [Mastering Dyalog APL](https://mastering.dyalog.com/README.html)
+> Article URL: https://mastering.dyalog.com/README.html
+Comments URL: https://news.ycombinator.com/item?id=48256475
+Points: 14
+# Comments: 0
+- `Hacker News` [Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/)
+> Article URL: https://fs.blog/knowledge-project-podcast/greg-brockman/
+Comments URL: https://news.ycombinator.com/item?id=48255593
+Points: 67
+# Comments: 33
+- `Hacker News` [All Lean Books and Where to Find Them](https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ)
+> Article URL: https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ
+Comments URL: https://news.ycombinator.com/item?id=48255501
+Points: 18
+# Comments: 1
+- `Hacker News` [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)
+> Article URL: https://www.adventuresinoss.com/aws-four-years/
+Comments URL: https://news.ycombinator.com/item?id=48254475
+Points: 239
+# Comments: 85
+- `Hacker News` [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
+> Article URL: https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US
+Comments URL: https://news.ycombinator.com/item?i...
+- `Hacker News` [The C64 Dead Test Font](https://www.masswerk.at/nowgobang/2026/c64-dead-test-font)
+> Article URL: https://www.masswerk.at/nowgobang/2026/c64-dead-test-font
+Comments URL: https://news.ycombinator.com/item?id=48254236
+Points: 64
+# Comments: 9
+- `Hacker News` [Alexander Grothendieck Revolutionized 20th-Century Mathematics](https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/)
+> Article URL: https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/
+Comments URL: https://news.ycombinator.com/item?id=48254020
+Points: 81
+# Com...
 - `Hacker News` [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
 > https://opensource.microsoft.com/blog/2026/04/28/continuing-...
 
 Comments URL: https://news.ycombinator.com/item?id=48253386
-Points: 87
-# Comments: 22
+Points: 310
+# Comments: 93
 - `Hacker News` [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/)
 > Article URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/
 Comments URL: https://news.ycombinator.com/item?id=48253186
-Points: 65
-# Comments: 10
-- `Hacker News` [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html)
-> Article URL: https://hellmood.111mb.de/wake_up_16b_writeup.html
-Comments URL: https://news.ycombinator.com/item?id=48253060
-Points: 89
-# Comments: 6
-- `Hacker News` [API proposed by Chrome: Declarative partial updates](https://developer.chrome.com/blog/declarative-partial-updates)
-> Article URL: https://developer.chrome.com/blog/declarative-partial-updates
-Comments URL: https://news.ycombinator.com/item?id=48252957
-Points: 11
-# Comments: 0
-- `Hacker News` [ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies](https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning)
-> Article URL: https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning
-Comments URL: https://news.ycombinator.com/item?id=48252720
-Points: 105
-# Comments: 26
-- `Hacker News` [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html)
-> Article URL: https://khz.ac/software/i3-integration.html
-Comments URL: https://news.ycombinator.com/item?id=48252535
-Points: 40
-# Comments: 8
-- `Hacker News` [Byrne's Euclid](https://www.c82.net/euclid/)
-> Article URL: https://www.c82.net/euclid/
-Comments URL: https://news.ycombinator.com/item?id=48252146
-Points: 26
-# Comments: 7
-- `Hacker News` [Toxic chemical leak at a manufacturing facility in Orange County](https://www.bbc.com/news/articles/c3w2l249j8go)
-> Article URL: https://www.bbc.com/news/articles/c3w2l249j8go
-Comments URL: https://news.ycombinator.com/item?id=48252060
-Points: 133
-# Comments: 93
-- `Hacker News` [Air France and Airbus found guilty of manslaughter over 2009 plane crash](https://www.bbc.com/news/articles/czd2qmdvmq6o)
-> Article URL: https://www.bbc.com/news/articles/czd2qmdvmq6o
-Comments URL: https://news.ycombinator.com/item?id=48250980
-Points: 24
-# Comments: 13
-- `Hacker News` [Time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
-> Article URL: https://veronicaexplains.net/my-first-writerdeck/
-Comments URL: https://news.ycombinator.com/item?id=48250144
-Points: 322
-# Comments: 183
+Points: 179
+# Comments: 84
 - `TechCrunch` [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
 > SolarSquare could be valued at up to $500 million in the financing expected to close next month.
 - `TechCrunch` [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
@@ -165,6 +156,10 @@ Points: 322
 > Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.
 - `TechCrunch` [Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/)
 > You can now disco ball-ify your entire Pixel home screen, says Google.
+- `The Verge` [Hackers are learning to exploit chatbot ‘personalities’](https://www.theverge.com/column/935545/hackers-ai-chatbots)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM...
+- `The Verge` [Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo)
+> Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and ...
 - `The Verge` [Record Club is trying to be Letterboxd for music nerds](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds)
 > There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels...
 - `The Verge` [The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech)
@@ -181,10 +176,6 @@ Points: 322
 > Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term "disregard," the AI Overview section would include a response like what you'...
 - `The Verge` [Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel](https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale)
 > With Memorial day weekend kicking off the travel season, we’re seeing a lot of deals pop up on travel gadgets, from portable power banks to noise-canceling headphones. One of the best right now is ...
-- `The Verge` [Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on)
-> Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down ...
-- `The Verge` [Elon, stop trying to make Grok happen](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen)
-> There is a harsh truth about Elon Musk's "truth-seeking" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok ba...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
