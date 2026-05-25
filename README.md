@@ -6,10 +6,40 @@
 
 # 📰 每日科技日报 — 2026-05-25
 
-> 自动收集于 2026-05-25 04:22 | 共 50 条
+> 自动收集于 2026-05-25 14:27 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [消除“罪证”：给写作去除“AI味”的不完全手册（2026版）](https://36kr.com/p/3824601267196037?f=rss)
+> 图源：公众号「有三思  U  Sense」
+  做个测试。读一下这段话：
+  “熊猫是最可爱的动物，它最爱吃竹子，样子最憨态可掬，是世界上最珍贵的宝藏。”
+  如果你笑了，或者皱了眉，很明显，你的“鉴AI雷达”已经觉醒。 
+  近期把网友笑到打鸣的“豆包体”里，“最”是高频词汇。大家纷纷晒出自己使用、调教AI，结果内容啼笑皆非的截图。这场围绕AI味写作的调侃就此...
+- `36氪` [用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3824164325412992?f=rss)
+> 新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。
+  
+  麻亚炜将AI转型划分为四个递进阶段：
+  第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。
+  第二阶段（2023-202...
+- `36氪` [氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开户时间缩短至一个月](https://36kr.com/p/3824439681520002?f=rss)
+> 大公司：
+  番茄小说持续加强低质内容治理，5月处置低质书籍超15万本
+  36氪获悉，近日，番茄小说发布《关于加强低质内容治理公告》。公告显示，5月以来，番茄小说已累计处置低质书籍超15万本，其中拒绝签约低质书籍112706本，处置低质违规书籍40275本。
+  全国首单挂钩蓝色债券合约类信用衍生品交易落地山东
+  36氪获悉，据上海清算所，近日，在中国人民银行山东省分行指导和推动下，山东...
+- `36氪` [搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3824158896312709?f=rss)
+> 半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。
+  
+  广州因特智能科技有限公司孵化于西安电子科技大学广州研究院，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持软硬一体，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。
+  以下为演...
+- `36氪` [圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3824154127093892?f=rss)
+> AIGC如何从生产工具进阶到情感洞察？当AI能写出剧本、生成音乐、表演微表情，人还剩什么？
+  内容产业正在发生生产模式跃迁，传统用户画像在AI时代正在被颠覆，真正要做的是理解用户的情感状态而非静态标签。厂牌效应不会消失，越过技术线之后，人最后坚守的是“手搓”的审美与意义。
+  以下为圆桌对话内容，经36氪整理编辑：
+  
+  刘士武丨36氪游戏主编（主持）
+  庄明浩丨趣丸科技副总裁兼首席...
 - `36氪` [对话欧洲地图商TomTom：中国订单暴涨10倍，帮助中国辅助驾驶出海｜最前线](https://36kr.com/p/3820241871409543?f=rss)
 > 中国汽车出海，离不开“地图”
   当下，中国车企全球化进程正全面提速，出海已经从企业的可选增量，变为行业确定性增长主线。比亚迪、奇瑞等企业海外销量规模持续走高，小鹏、蔚来、理想、小米等新势力车企也纷纷发力海外高端市场。
@@ -33,37 +63,14 @@
 > 硬氪获悉，近日，六维力传感器企业蓝点触控宣布完成C++轮数亿元人民币融资，本轮由上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本跟投。本轮融资将主要用于新产品研发、生产数智化建设以及全球市场拓展。
   蓝点触控半年完成了三轮亿元级融资，此次融资距上一轮C+轮融资仅一个月。股东阵容目前已囊括红杉中国、宁德时代旗下溥泉资本、智元机器人、银河通用、上汽系资本、中芯产业资本等多路力量。
  ...
-- `36氪` [华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发](https://36kr.com/p/3819931562414467?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  硬氪获悉，具身智能大脑公司「具脑磐石」完成新一轮亿元级融资，本轮融资由具备深厚类脑与具身产业背景的顶尖产业资本领投，老股东及多家顶尖基金复投和跟投，多维资本担任独家财务顾问。同时，更新一轮融资也在同步交割中。
-  资金将重点投入核心技术研发、人才团队扩容及全球化市场拓展，以加速认知世界模型（Cognitive World Model）的研发、工程化落地与真实...
-- `36氪` [从服务沉默玩家，到技术外溢至千行百业：游戏+AI的下一站是什么？](https://36kr.com/p/3822747968196993?f=rss)
-> 文丨小葵
-  编辑丨果脯、刘士武
-  2026年GDC大会上，《和平精英》策划副总监薛冰披露了一组数据。
-  AI队友周末活跃玩家突破1770万，累计1.1亿人体验过AI功能，单局消息互动70条，麦克风开启率高达75%，超过了真人双排的历史峰值。
-  这意味着，大量玩家不仅选择了AI队友，还愿意对着屏幕那头的“数字人”开口说话。它像是一个切口，让我们得以窥见某种长期被行业忽视的集体情绪。从业...
-- `36氪` [8点1氪丨“壹号土猪”商标被宣告无效；山西煤矿爆炸时近一半下井工人在系统中查不到有效信息；小米通报空调抽真空造假事件](https://36kr.com/p/3823941399826566?f=rss)
-> 今日热点导览
-  特斯拉FSD中文名调整为“特斯拉辅助驾驶”：价格依旧为6.4万元
-  端午连休3天，高速不免费
-  SpaceX IPO将包含散户配售
-  加密货币集体跳水超12万人爆仓，全网合约爆仓超5亿元
-  美国调整移民政策，申请绿卡须返回本国递交申请
-  TOP3大新闻
-  “壹号土猪”商标被宣告无效，企业提起诉讼维权
-  备受关注的“壹号土猪”商标争议事件迎来最新进展。国家知识产...
-- `36氪` [功效洗护市场，跑不出下一个完美日记](https://36kr.com/p/3819023278048643?f=rss)
-> 走进美国 Sephora、Ulta 或欧洲 Douglas 这样的美妆零售集合店，货架上的景象或许会让你感到意外：占据大量陈列面积的，不只是护肤品，还有护发产品。从基础清洁，到去屑、防脱，再到头皮微生态、蛋白键修护、抗热损伤等护理产品，护发区的复杂程度已经几乎与护肤区无异。
-  根据市场研究机构 Circana 的数据，2025 年美国高端护发零售市场同比增长 8%，是高端美妆所有品类中增速...
-- `36氪` [珀莱雅收购花知晓，但美妆界的“安踏”还没诞生](https://36kr.com/p/3820119270953352?f=rss)
-> 作者｜任彩茹
-  编辑｜乔芊
-  一家富有“少女心”与“童话感”的美妆新锐品牌，找到了自己的阶段性归宿。
-  5月21日晚，珀莱雅公告称，旗下全资子公司珀莱雅（海南）拟以3.51亿元现金收购深圳花知晓电子商务有限公司12.5479%的股权。交易完成后，珀莱雅对花知晓的持股比例将从38.4521%提升至51%。财务层面，花知晓也将正式纳入珀莱雅的合并报表范围。
-  
-  珀莱雅关于收购花知晓部...
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/110156)
+> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [无障碍可感知，有爱亦无碍：藏在日常里的 Apple 辅助功能](https://sspai.com/post/110144)
+> 每年五月的第三个周四是全球无障碍宣传日(GlobalAccessibilityAwarenessDay,GAAD)，宣传日由美国开发者JoeDevon与无障碍专家JennisonAsuncion在20 ...查看全文
+- `少数派` [被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要](https://sspai.com/post/81257)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
+- `少数派` [五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役](https://sspai.com/post/109450)
+> 一晃近2000天，我手中的罗技MXMaster3，依旧是我办公时最顺手的伙伴。当初购入它，核心原因就是手大且需要一款适配办公的鼠标——此前我用过雷蛇、赛睿的多款鼠标，并非它们不好用，而是这些鼠标多偏向 ...查看全文
 - `少数派` [派早报：GitHub 在微软治下面临技术和人员流失困境](https://sspai.com/post/110130)
 > GitHub 在微软治下面临技术和人员流失困境老虎、富途、长桥将被全面取缔境内业务谷歌搜索 AI 模式误将 disregard 等关键词当作指令「死了么」更名为「在么在么」用于老人居家安全公安部拟明确取证中获取密码等特殊程序 伦敦 iPhone 盗窃集团采用威胁手法解绑 Apple ID看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具](https://sspai.com/post/109741)
@@ -76,67 +83,57 @@
 > 在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文
 - `少数派` [Maptoposter Online：把你爱的城市画成艺术海报](https://sspai.com/post/109287)
 > 如果你喜欢城市地图、旅行纪念、桌面壁纸、打印海报，或者只是想看看一座城市的路网长什么样，可以试试这个工具。查看全文
-- `少数派` [派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等](https://sspai.com/post/110020)
-> 绿联推出 NAS 新品 DXP4800 GT、哈博森黑鹰 4 号无人机发布等。查看全文
-- `少数派` [新玩意 242｜少数派的编辑们最近买了啥？](https://sspai.com/post/110009)
-> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
-- `少数派` [iOS 里的这些实用辅助功能，每个人都可能用得上](https://sspai.com/post/104073)
-> 说到辅助功能，或许很多人对它的回忆还停留在「小白点」。但随着 iPhone 彻底进入全面屏时代，辅助功能也慢慢变得陌生起来。实际上，Apple 每年都会给它添加不少功能，来方便更多身体有障人士来使用 iPhone。
-不过，尽管它是为了各种有障人群而开发，其中不少功能却能惠及所有 iPhone 用户。而随着 iOS 26 的更新，辅助功能又迎来了不少升级。下面这些实用的小功能，或许还真能帮到你...
-- `少数派` [少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启](https://sspai.com/post/109957)
-> 前段时间，少数派联合飞傲一起做了点有意思的事情：开启「BEATBOXCD机盖板设计大赛」。我们不想它只是一个标准化的CD机，而是希望它带着用户自己的审美和表达，一起参与这台BEATBOXCD机的共创。 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [CBP Directive 3340-049B: Border Search of Electronic Devices](https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices)
-> Article URL: https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices
-Comments URL: https://news.ycombinator.com/item?id=48260140
-Points: 130
-# Comments: 87
-- `Hacker News` [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/)
-> Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/
-Comments URL: https://news.ycombinator.com/item?id=48260117
-Points: 99
-# Comments: 59
-- `Hacker News` [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/)
-> Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/
-Comments URL: https://news.ycombinator.com/item?id=48259861
-Points: 108
-# Comments: 108
-- `Hacker News` [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)
-> Article URL: https://corrode.dev/learn/migration-guides/go-to-rust/
-Comments URL: https://news.ycombinator.com/item?id=48259808
-Points: 161
-# Comments: 163
-- `Hacker News` [Building Pi with Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
-> Article URL: https://lucumr.pocoo.org/2026/5/24/pi-oss/
-Comments URL: https://news.ycombinator.com/item?id=48259192
-Points: 38
-# Comments: 8
-- `Hacker News` [Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer)
-> Article URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer
-Comments URL: https://news.ycombinator.com/item?id=48258995
-Points: 0
+- `Hacker News` [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
+> Article URL: https://lemon.rip/w/6-c-extensions-compilers/
+Comments URL: https://news.ycombinator.com/item?id=48267126
+Points: 3
 # Comments: 0
-- `Hacker News` [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares)
-> Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares
-Comments URL: https://news.ycombinator.com/item?id=48258684
-Points: 332
-# Comments: 355
-- `Hacker News` [Ruby for Good](https://ti.to/codeforgood/rubyforgood)
-> Article URL: https://ti.to/codeforgood/rubyforgood
-Comments URL: https://news.ycombinator.com/item?id=48258254
-Points: 125
-# Comments: 52
-- `Hacker News` [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
-> Article URL: https://audiomass.co/?multitrack=1
-Comments URL: https://news.ycombinator.com/item?id=48258015
-Points: 236
-# Comments: 52
-- `Hacker News` [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
-> Related ongoing thread:DeepSeek makes the V4 Pro price discount permanent - https://news.ycombinator.com/item?id=48237663 - May 2026 (384 comments)
-
-Comments URL: https://news.ycombinator.com/item?...
+- `Hacker News` [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+> Article URL: https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/
+Comments URL: https://news.ycombinator.com/item?id=48266906
+Points: 8
+# Comments: 0
+- `Hacker News` [2026 HIPAA Security Rule Update](https://medcurity.com/hipaa-security-rule-2026-update/)
+> Article URL: https://medcurity.com/hipaa-security-rule-2026-update/
+Comments URL: https://news.ycombinator.com/item?id=48266895
+Points: 15
+# Comments: 0
+- `Hacker News` [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
+> Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/
+Comments URL: https://news.ycombinator.com/item?id=48266485
+P...
+- `Hacker News` [Pope Leo: opaque AI run by few firms risks "New Forms of Dehumanization"](https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/)
+> Article URL: https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/
+Comments URL: https://news.ycombinator.com/item?id=48266435
+Points: 14
+# Comme...
+- `Hacker News` [Microsoft pulls plug on plans for 244-acre data center in Caledonia](https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback)
+> Article URL: https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback
+Comments URL: https://news.ycombinator.com/item?id=...
+- `Hacker News` [Search engines alternatives now that Google isn't Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
+> Article URL: https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/
+Comments URL: https://news.ycombinator.com/item?id=48266051
+Points: 257
+# ...
+- `Hacker News` [Leave Me Behind](http://androidessence.com/leave-me-behind/)
+> Article URL: http://androidessence.com/leave-me-behind/
+Comments URL: https://news.ycombinator.com/item?id=48265876
+Points: 132
+# Comments: 81
+- `Hacker News` [Magnifica Humanitas (Encyclical Letter)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+> Article URL: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
+Comments URL: https://news.ycombinator.com/item?id=48265206
+Points: 365
+# Comments: 134
+- `Hacker News` [IBM Spins Off the First Pure-Play Quantum Chip Foundry](https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/)
+> Article URL: https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/
+Comments URL: https://news.ycombinator.com/item?id=48265056
+Poin...
+- `TechCrunch` [5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase](https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/)
+> Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.
 - `TechCrunch` [Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)
 > We're in the transition period -- all of us.
 - `TechCrunch` [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky indu...](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
@@ -155,8 +152,6 @@ Comments URL: https://news.ycombinator.com/item?...
 > Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.
 - `TechCrunch` [Ferrari is using IBM’s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)
 > IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.
-- `TechCrunch` [Nuclear startup Deep Fission says it’s going public, again, and I have questions](https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/)
-> Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.
 - `The Verge` [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
 > Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar...
 - `The Verge` [On Trails is a wandering tale that blends hiking, science, and history](https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review)
