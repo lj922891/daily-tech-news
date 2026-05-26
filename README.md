@@ -6,10 +6,31 @@
 
 # 📰 每日科技日报 — 2026-05-26
 
-> 自动收集于 2026-05-26 04:08 | 共 50 条
+> 自动收集于 2026-05-26 14:31 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [36氪企业全情报｜更懂股民的舆情数据工具，好用又省心](https://36kr.com/p/3826003757437573?f=rss)
+> 炒股的朋友都有同感：现在信息太多太杂，消息慢一步、判断错一步，都可能影响操作。刷新闻、翻研报、逛股吧，花了大把时间，还是抓不住重点、分不清真假，越看越乱。
+  好消息是 ——36氪企业全情报小程序新版本正式上线啦！这次更新完全站在大家的使用习惯上，把体验和功能都做了优化，帮你少走弯路、少花时间，轻松拿到靠谱情报，不再被信息差牵着走。
+  点击直达小程序：https://wxaurl.cn/J...
+- `36氪` [机器人启蒙，需要一所能“犯错”的幼儿园](https://36kr.com/p/3825969453699970?f=rss)
+> 2024年，强化学习奠基人理查德·萨顿与他的导师安德鲁·巴托共同获得了图灵奖。
+  这个奖项来得不算早。过去三十年，萨顿的理论支撑了AlphaGo、ChatGPT等系统的进化，但他三十年前写下的理论，直到今天才被具身智能行业真正理解：
+  智能体要从试错中学习，要从真实经验里进化。
+  2023年，萨顿参与创办非营利研究机构Openmind。2025年4月，萨顿在联合发表的文章《欢迎来到经验...
+- `36氪` [氪星晚报｜我国人形机器人全球市场占比超八成；三星电子将从下月开始允许员工使用外部AI模型；知情人士：字节跳动本月向Seed员工开放“豆包股”认购权](https://36kr.com/p/3825928694846085?f=rss)
+> 大公司：
+  知情人士：字节跳动本月向Seed员工开放“豆包股”认购权
+  据四位了解该激励计划的知情人士透露，字节跳动正为旗下Seed人工智能部门员工提供与该部门挂钩的低价股票期权。这是字节跳动首次针对特定业务单元发行股权。该激励机制让员工能分享Seed部门的成长收益，且不会被字节跳动其他业务线的业绩稀释收益。
+  空中客车供应不畅，澳洲航空开通伦敦和纽约不经停航班的计划遭推迟
+  空中客...
+- `36氪` [半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用](https://36kr.com/p/3825882266407815?f=rss)
+> 5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型 SkyClaw-v1.0，并同步发布轻量化版本 SkyClaw-v1.0-lite，兼具顶尖性能与极致性价比。
+  SkyClaw-v1.0 支持百万token上下文，深度适配各类真实智能体工作场景，重点优化复杂工具调用、多轮任务执行、代码生成、文件编辑、交互式应用构建与研究型数据分析。模型经过大规模 ...
+- `36氪` [求购Deepseek老股份额；求购长鑫存储老股份额｜资情留言板第183期](https://36kr.com/p/3825834410333062?f=rss)
+> 资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。
+  本文是这个栏目的第183期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr...
 - `36氪` [36氪首发 | 国家级产业基金出手，桥田智能获亿元融资](https://36kr.com/p/3825527430025856?f=rss)
 > 硬氪获悉，上海桥田智能设备有限公司（下称“桥田智能”）已完成A+轮亿元级融资，由国家工业母机产业投资基金独家投资。资金将用于高端产能扩建、核心技术研发迭代及全球化市场布局。
   桥田智能成立于2016年，专注于汽车主机厂机器人末端及周边设备，产品矩阵涵盖快换盘、磁力换模系统、修磨机、工业连接器等。公司此前已获吉利厚同、哇牛资本、美的资本、浙创投等产业资本投资。
@@ -43,36 +64,10 @@
   TOP3大新闻
   胖东来进军房地产？投资65亿元的“梦之城”开工
   胖东来或将进军地产市场。近...
-- `36氪` [消除“罪证”：给写作去除“AI味”的不完全手册（2026版）](https://36kr.com/p/3824601267196037?f=rss)
-> 图源：公众号「有三思  U  Sense」
-  做个测试。读一下这段话：
-  “熊猫是最可爱的动物，它最爱吃竹子，样子最憨态可掬，是世界上最珍贵的宝藏。”
-  如果你笑了，或者皱了眉，很明显，你的“鉴AI雷达”已经觉醒。 
-  近期把网友笑到打鸣的“豆包体”里，“最”是高频词汇。大家纷纷晒出自己使用、调教AI，结果内容啼笑皆非的截图。这场围绕AI味写作的调侃就此...
-- `36氪` [用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3824164325412992?f=rss)
-> 新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。
-  
-  麻亚炜将AI转型划分为四个递进阶段：
-  第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。
-  第二阶段（2023-202...
-- `36氪` [氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开户时间缩短至一个月](https://36kr.com/p/3824439681520002?f=rss)
-> 大公司：
-  番茄小说持续加强低质内容治理，5月处置低质书籍超15万本
-  36氪获悉，近日，番茄小说发布《关于加强低质内容治理公告》。公告显示，5月以来，番茄小说已累计处置低质书籍超15万本，其中拒绝签约低质书籍112706本，处置低质违规书籍40275本。
-  全国首单挂钩蓝色债券合约类信用衍生品交易落地山东
-  36氪获悉，据上海清算所，近日，在中国人民银行山东省分行指导和推动下，山东...
-- `36氪` [搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3824158896312709?f=rss)
-> 半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。
-  
-  广州因特智能科技有限公司孵化于西安电子科技大学广州研究院，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持软硬一体，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。
-  以下为演...
-- `36氪` [圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3824154127093892?f=rss)
-> AIGC如何从生产工具进阶到情感洞察？当AI能写出剧本、生成音乐、表演微表情，人还剩什么？
-  内容产业正在发生生产模式跃迁，传统用户画像在AI时代正在被颠覆，真正要做的是理解用户的情感状态而非静态标签。厂牌效应不会消失，越过技术线之后，人最后坚守的是“手搓”的审美与意义。
-  以下为圆桌对话内容，经36氪整理编辑：
-  
-  刘士武丨36氪游戏主编（主持）
-  庄明浩丨趣丸科技副总裁兼首席...
+- `少数派` [社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树](https://sspai.com/post/110184)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场](https://sspai.com/post/110152)
+> 献给和我们当初一样跃跃欲试的朋友们。查看全文
 - `少数派` [App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App](https://sspai.com/post/109227)
 > Kaori 不仅是为了香水爱好者而设计，如果你有日常喷香水的习惯，不妨通过 Kaori 来记录你的日常和一闪而过与香水有关的想法。查看全文
 - `少数派` [派早报：OPPO 与荣耀发布多款新品，华为发表半导体领域新定律等](https://sspai.com/post/110171)
@@ -89,59 +84,64 @@
 > GitHub 在微软治下面临技术和人员流失困境老虎、富途、长桥将被全面取缔境内业务谷歌搜索 AI 模式误将 disregard 等关键词当作指令「死了么」更名为「在么在么」用于老人居家安全公安部拟明确取证中获取密码等特殊程序 伦敦 iPhone 盗窃集团采用威胁手法解绑 Apple ID看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具](https://sspai.com/post/109741)
 > 一个常驻菜单栏的小工具，双击 ⌘ 就能截图、标注、长截、美化、上传图床——纯 AppKit、零依赖、零订阅、零遥测。查看全文
-- `少数派` [这个周末，来深圳文博会和少数派打个卡吧](https://sspai.com/post/110052)
-> 熟悉少数派的朋友都知道，我们一直在研究怎么让数字生活变得更好玩、更高效。今天（5月22日），这件事有了新的进展。第二十二届中国（深圳）国际文化产业博览交易会之元匠坊分会场正式开幕。这一次，少数派不仅参 ...查看全文
-- `少数派` [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/110046)
-> 📅本周新预告《死神千年血战篇-祸进谭-》正式预告5月19日，TV动画《死神千年血战篇-祸进谭-》发布了正式预告，第1-3集将于6月21日在日本影院先行上映，7月开始播出。田口智久担任总导演，村田光执导 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Why the Smart Home Bubble Popped](https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/)
-> Article URL: https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/
-Comments URL: https://news.ycombinator.com/item?id=48274667
+- `Hacker News` [C64 Basic: Game Map Overhead "Camera View"](https://retrogamecoders.com/overhead-camera-view/)
+> Article URL: https://retrogamecoders.com/overhead-camera-view/
+Comments URL: https://news.ycombinator.com/item?id=48279842
 Points: 6
-# Comments: 2
-- `Hacker News` [Does Anybody Actually Like React?](https://jsx.lol)
-> Article URL: https://jsx.lol
-Comments URL: https://news.ycombinator.com/item?id=48274077
-Points: 86
-# Comments: 90
-- `Hacker News` [Designing for and against the manufactured normalcy field (2012)](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html)
-> Article URL: https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html
-Comments URL: https://news.ycombinator.com/item?id=48273597
-...
-- `Hacker News` [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
-> Article URL: https://support.apple.com/en-us/127115
-Comments URL: https://news.ycombinator.com/item?id=48273169
-Points: 95
-# Comments: 35
-- `Hacker News` [Performance of Rust Language [pdf]](https://github.com/yugr/rust-slides/)
-> Article URL: https://github.com/yugr/rust-slides/
-Comments URL: https://news.ycombinator.com/item?id=48273147
-Points: 30
-# Comments: 14
-- `Hacker News` [Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/)
-> Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/
-Comments URL: https://news.ycombinator.com/item?id=48273030
-Points: 117
-# Comments: 149
-- `Hacker News` [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
-> Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/
-Comments URL: https://news.ycombinator.com/item?id=48272984
-Points: 250
-# Comments: 103
-- `Hacker News` [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/)
-> Article URL: https://ente.com/blog/how-shamirs-secret-sharing-works/
-Comments URL: https://news.ycombinator.com/item?id=48272715
-Points: 91
-# Comments: 9
-- `Hacker News` [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk)
-> Article URL: https://www.apa.org/news/press/releases/2014/04/creativity-walk
-Comments URL: https://news.ycombinator.com/item?id=48272670
-Points: 123
-# Comments: 44
-- `Hacker News` [Show HN: OpenBrief – Local-first video downloader/summarizer](https://github.com/tantara/openbrief)
-> OpenBrief is basically a GUI for yt-dlp with some AI on top — paste a link, it downloads locally, and transcription and voice generation run with local AI on your machine. Summaries and chat over t...
+# Comments: 0
+- `Hacker News` [Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/)
+> Article URL: https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/
+Comments URL: https://news.ycombinator.com/item?id=48279316
+P...
+- `Hacker News` [Outsourcing plus LocalAI will soon become more economical vs. Frontier labs](https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/)
+> Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/
+Comments URL: https://news.ycombinator.com/item?id=48278610
+Points: 33
+# Co...
+- `Hacker News` [Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team](https://vllm.ai/blog/2026-05-26-eagle-3-1)
+> Article URL: https://vllm.ai/blog/2026-05-26-eagle-3-1
+Comments URL: https://news.ycombinator.com/item?id=48278407
+Points: 31
+# Comments: 11
+- `Hacker News` [Netherlands blocks US takeover of vital digital supplier](https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/)
+> Article URL: https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/
+Comments URL: https://news.ycombinator.com/item?id=48278406
+Points: 190
+# Comments: 56
+- `Hacker News` [GitHub Actions down again today](https://www.githubstatus.com/?today)
+> Article URL: https://www.githubstatus.com/?today
+Comments URL: https://news.ycombinator.com/item?id=48278374
+Points: 393
+# Comments: 195
+- `Hacker News` [Incident with Actions and Pages](https://www.githubstatus.com/incidents/gnftqj9htp0g)
+> Article URL: https://www.githubstatus.com/incidents/gnftqj9htp0g
+Comments URL: https://news.ycombinator.com/item?id=48278090
+Points: 42
+# Comments: 11
+- `Hacker News` [Uber president says AI spending is getting 'harder to justify'](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
+> Article URL: https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify
+Comments URL: https://news.ycombinator.com/item?id=48277485
+Points: 51
+# Comments: 11
+- `Hacker News` [Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal](https://ni5arga.com/blog/posts/hacking-cbse/)
+> Article URL: https://ni5arga.com/blog/posts/hacking-cbse/
+Comments URL: https://news.ycombinator.com/item?id=48277357
+Points: 26
+# Comments: 3
+- `Hacker News` [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)
+> Article URL: https://dynip.dev/
+Comments URL: https://news.ycombinator.com/item?id=48276363
+Points: 210
+# Comments: 88
+- `TechCrunch` [TechCrunch Disrupt 2026 Early Bird ticket rates end May 29](https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/)
+> Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.
+- `TechCrunch` [7-Eleven data breach affects over 185,000 people’s personal data](https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/)
+> The data breach included names, dates-of-birth, postal addresses, and Social Security numbers, according to a state government listing.
+- `TechCrunch` [Amazon fulfillment competitor Stord raises $250M at $3B valuation](https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/)
+> Stord was founded in 2015 by then-college students CEO Sean Henry  and CTO Jacob Boudreau while they were still at Georgia Tech.
 - `TechCrunch` [What ClickUp’s mass layoff tells us about the future of work](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
 > The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.
 - `TechCrunch` [The pope’s AI encyclical isn’t really about AI](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/)
@@ -156,32 +156,26 @@ Points: 123
 > We're in the transition period -- all of us.
 - `TechCrunch` [Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky indu...](https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/)
 > Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.
-- `TechCrunch` [6 kitchen gadgets that make adulting feel easier](https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/)
-> From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.
-- `TechCrunch` [TechCrunch Mobility: Robotaxi reality check](https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/)
-> Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
-- `TechCrunch` [I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/)
-> Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.
+- `The Verge` [Jony Ive’s Ferrari looks nothing like a Ferrari](https://www.theverge.com/transportation/937077/ferrari-luce-ev-apple-car-jony-ice-design)
+> Ferrari makes some of the fastest cars on the planet, so it's anyone's guess how the Italian automaker ended up being so incredibly late to the EV party. Long after most automakers have drastically...
+- `The Verge` [Nvidia has retired its GeForce Control Panel app after 20 years](https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement)
+> Nvidia announced more than two years ago that it was working to replace its Control Panel app on Windows with a new Nvidia app. After porting across various features to the Nvidia app, Nvidia is an...
+- `The Verge` [How clips ate the internet](https://www.theverge.com/podcast/937188/clips-internet-feed-fitbit-air-vergecast)
+> Once upon a time, you could probably guess why most things appeared on your feed. Maybe you followed the creator who posted it; maybe you'd liked their stuff in the past; maybe all your friends wer...
+- `The Verge` [Sundar Pichai on AI, the future of search, and what’s happening to the web](https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web)
+> Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after ...
+- `The Verge` [Nobody wants to tell me why they only listen to their own Suno slop](https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop)
+> There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proc...
+- `The Verge` [AI warfare is already here](https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines)
+> The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attende...
+- `The Verge` [Spotify is narrating magazine articles now](https://www.theverge.com/entertainment/937126/spotify-long-form-magazine-article-narration-availability)
+> Would you listen to magazine articles on Spotify? The streaming platform certainly hopes so, as it's launching a new format for narrated long-form articles, alongside its usual array of music, podc...
+- `The Verge` [Uber president says AI spending is getting ‘harder to justify’](https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify)
+> After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid R...
+- `The Verge` [A battery-powered Starlink Mini is likely on the way](https://www.theverge.com/tech/937090/battery-powered-starlink-mini-rumor)
+> Code in recent Starlink firmware suggests that SpaceX might soon release a version of its smallest internet dish with an integrated battery. A battery-powered Starlink Mini would offer untethered p...
 - `The Verge` [Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery](https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth)
 > Nearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, the company has an...
-- `The Verge` [Ferrari reveals its first EV, with design help from Jony Ive](https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom)
-> After months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in collaboration wit...
-- `The Verge` [Cox Media fined after bragging it spied on users through their phones](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine)
-> An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little ...
-- `The Verge` [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
-> Memorial Day is here, meaning the seasonal sales are in full swing. If your plans over the long weekend involve pool parties or barbecues, now is a great time to pick up a portable speaker or set o...
-- `The Verge` [Pope Leo calls for being ‘profoundly human’ in the age of AI](https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare)
-> Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on "safeguarding the h...
-- `The Verge` [Here are our favorite last-minute deals from REI’s giant Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)
-> REI’s annual Anniversary Sale — the retailer’s biggest of the year — is still going strong, letting you save on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a goo...
-- `The Verge` [On Trails is a wandering tale that blends hiking, science, and history](https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review)
-> Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, as someone with t...
-- `The Verge` [Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day](https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale)
-> If you’re looking for a laptop that’ll still perform well several years from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently...
-- `The Verge` [Hackers are learning to exploit chatbot ‘personalities’](https://www.theverge.com/column/935545/hackers-ai-chatbots)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM...
-- `The Verge` [Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo)
-> Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
