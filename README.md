@@ -4,12 +4,45 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-25
+# 📰 每日科技日报 — 2026-05-26
 
-> 自动收集于 2026-05-25 14:27 | 共 50 条
+> 自动收集于 2026-05-26 04:08 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [36氪首发 | 国家级产业基金出手，桥田智能获亿元融资](https://36kr.com/p/3825527430025856?f=rss)
+> 硬氪获悉，上海桥田智能设备有限公司（下称“桥田智能”）已完成A+轮亿元级融资，由国家工业母机产业投资基金独家投资。资金将用于高端产能扩建、核心技术研发迭代及全球化市场布局。
+  桥田智能成立于2016年，专注于汽车主机厂机器人末端及周边设备，产品矩阵涵盖快换盘、磁力换模系统、修磨机、工业连接器等。公司此前已获吉利厚同、哇牛资本、美的资本、浙创投等产业资本投资。
+  公司创始人兼董事长刘小平拥...
+- `36氪` [营销内容从“用AI”到“管AI”的10倍提效| 2026AI Partner·北京亦庄AI+产业大会](https://36kr.com/p/3824179485233541?f=rss)
+> 从2022年首创数字人直播带货，到如今服务LVMH、欧莱雅、宝洁等全球集团，集思科技在三年间积累了超60亿GMV的实战成绩。
+  
+  2023年被称作Agent元年，但2026年才是营销内容Agent真正落地应用的节点，而品牌最核心的资产不是视觉，是上下文——把创始人对品牌的理解沉淀为AI可调用的智力资产。
+  以下为演讲内容，经36氪整理编辑：
+  
+  李世尊丨集思科技CEO
+  大家...
+- `36氪` [对话云鲸CEO张峻彬：理解人性，告别天真](https://36kr.com/p/3824244844859525?f=rss)
+> 作者 | 黄楠
+  编辑 | 袁斯来
+  36岁时，云鲸CEO张峻彬意识到，自己不能再只做一个温和的人。
+  他做过一些得罪人的决定，但更多时候，张峻彬不善于说重话，以至于有人私下说他有些优柔寡断。“公司内部都说，要是彬哥对你的评价是‘还行’，说明你这东西已经很烂了。”他自己开玩笑。
+  过去几年，这种性格底色没有暴露太大短板。因为张峻彬更多泡在产品里...
+- `36氪` [两部 AI 剧集闯入戛纳，水母智能要做 AI 内容工业化的破局者｜项目报道](https://36kr.com/p/3823033729061253?f=rss)
+> 5月8日，第79届戛纳国际电影节內 Fantastic Pavilion 单元公布竖屏剧展演名单。
+  由水母智能旗下中国AI影视公司水母映画出品的竖屏剧集《摸金之天机入梦》（英文名：The Golden Tomb Seeker）以及水母星际出品的《饿塔》（英文名：Series Tower）从全球120个国家、超过1000件竖屏作品中脱颖而出，成为正式展映的21部作品之一。
+  
+  竖屏剧...
+- `36氪` [8点1氪丨胖东来投资65亿的“梦之城”开工；“稚晖君”彭志辉正式出任上纬新材董事长；“死了么”App改名“在么在么”](https://36kr.com/p/3825357879497346?f=rss)
+> 今日热点导览
+  美媒：美伊已就全面开放霍尔木兹海峡达成一致
+  拉勾网及创始人被限消
+  宇树科技6月1日科创板IPO上会，一季度扣非净利润同比下降52.55%
+  1瓶水蜜桃只有0.01克水蜜桃汁，康师傅被指蹭奉化水蜜桃玩文字游戏
+  寒武纪盘中涨超11%，总市值超9000亿创历史新高
+  TOP3大新闻
+  胖东来进军房地产？投资65亿元的“梦之城”开工
+  胖东来或将进军地产市场。近...
 - `36氪` [消除“罪证”：给写作去除“AI味”的不完全手册（2026版）](https://36kr.com/p/3824601267196037?f=rss)
 > 图源：公众号「有三思  U  Sense」
   做个测试。读一下这段话：
@@ -40,29 +73,10 @@
   
   刘士武丨36氪游戏主编（主持）
   庄明浩丨趣丸科技副总裁兼首席...
-- `36氪` [对话欧洲地图商TomTom：中国订单暴涨10倍，帮助中国辅助驾驶出海｜最前线](https://36kr.com/p/3820241871409543?f=rss)
-> 中国汽车出海，离不开“地图”
-  当下，中国车企全球化进程正全面提速，出海已经从企业的可选增量，变为行业确定性增长主线。比亚迪、奇瑞等企业海外销量规模持续走高，小鹏、蔚来、理想、小米等新势力车企也纷纷发力海外高端市场。
-  区别于过往靠性价比、电动化优势打开市场的模式，现阶段中国车企出海的核心壁垒转变为智能化。在海外市场竞争中，智能座舱与高阶辅助驾驶，已经成为中国汽车差异化突围的关键。
-  ...
-- `36氪` [京东加码商业地产，推出更高级大MALL](https://36kr.com/p/3824126842179969?f=rss)
-> 今年4月，京东开启“扫货式”拿地。
-  4月20日，京东花6.63亿竞得杭州钱江世纪城沿江商业用地；4月21日，京东在北京亦庄又花了17.57亿，拿下亦庄新城2宗商业金融用地；4月10日、11日，京东还在宿迁接连拿下两个地块，总价约3.69亿，总建筑面积高达57.2万平方米。单月斥资27.89亿元加仓。
-  就在很多人以为京东还是在玩老一套的时候，5月22日，京东官宣加码商业地产，推出了比京...
-- `36氪` [36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据](https://36kr.com/p/3824089662853513?f=rss)
-> 作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，消费级空间相机公司竹马创新近日完成了数千万天使+轮融资，本轮由商汤国香资本领投，鼎晖VGC、峰瑞资本跟投，深渡资本担任后续独家财务顾问。资金将主要用于产品研发、量产准备及海外市场拓展。
-  竹马创新成立于2025年11月，是一家以Camera + AI为核心的空间智能公司。公司希望定义一种新的AI硬件品类——空间相机：既是消费级3D内容创作工具，更...
-- `36氪` [36氪首发 | 3D打印齿科龙头要切入桌面全彩造物，获君联、达晨等3亿+融资](https://36kr.com/p/3824073646624899?f=rss)
-> 作者 | 张子怡
-  编辑 | 袁斯来
-  硬氪获悉，3D打印高端光固化全栈技术企业、齿科细分龙头——黑格科技（HeyGears）于近期完成超3亿元人民币C轮融资。本轮融资由君联资本、达晨联合领投，歌斐资产、国科投资跟投。
-  本轮资金用途将用于光固化技术研发迭代、全球产业链深化、顶尖人才引进及新一代数字化齿科解决方案、桌面级光固化全彩造物产品的发布。...
-- `36氪` [机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局](https://36kr.com/p/3824053061652616?f=rss)
-> 硬氪获悉，近日，六维力传感器企业蓝点触控宣布完成C++轮数亿元人民币融资，本轮由上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本跟投。本轮融资将主要用于新产品研发、生产数智化建设以及全球市场拓展。
-  蓝点触控半年完成了三轮亿元级融资，此次融资距上一轮C+轮融资仅一个月。股东阵容目前已囊括红杉中国、宁德时代旗下溥泉资本、智元机器人、银河通用、上汽系资本、中芯产业资本等多路力量。
- ...
+- `少数派` [App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App](https://sspai.com/post/109227)
+> Kaori 不仅是为了香水爱好者而设计，如果你有日常喷香水的习惯，不妨通过 Kaori 来记录你的日常和一闪而过与香水有关的想法。查看全文
+- `少数派` [派早报：OPPO 与荣耀发布多款新品，华为发表半导体领域新定律等](https://sspai.com/post/110171)
+> 少数派的近期动态少数派×飞傲多功能便携CD音箱一体机BEATBOX预售开启。火速入手可爱又好玩的经典萌物——监工水獭挂件复刻啦！给獭一个家首款MBTI定制墨水屏「口袋先知」预售进行中，一按知运势。立刻 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/110156)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [无障碍可感知，有爱亦无碍：藏在日常里的 Apple 辅助功能](https://sspai.com/post/110144)
@@ -79,59 +93,63 @@
 > 熟悉少数派的朋友都知道，我们一直在研究怎么让数字生活变得更好玩、更高效。今天（5月22日），这件事有了新的进展。第二十二届中国（深圳）国际文化产业博览交易会之元匠坊分会场正式开幕。这一次，少数派不仅参 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/110046)
 > 📅本周新预告《死神千年血战篇-祸进谭-》正式预告5月19日，TV动画《死神千年血战篇-祸进谭-》发布了正式预告，第1-3集将于6月21日在日本影院先行上映，7月开始播出。田口智久担任总导演，村田光执导 ...查看全文
-- `少数派` [浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」](https://sspai.com/post/110044)
-> 在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文
-- `少数派` [Maptoposter Online：把你爱的城市画成艺术海报](https://sspai.com/post/109287)
-> 如果你喜欢城市地图、旅行纪念、桌面壁纸、打印海报，或者只是想看看一座城市的路网长什么样，可以试试这个工具。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
-> Article URL: https://lemon.rip/w/6-c-extensions-compilers/
-Comments URL: https://news.ycombinator.com/item?id=48267126
-Points: 3
-# Comments: 0
-- `Hacker News` [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
-> Article URL: https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/
-Comments URL: https://news.ycombinator.com/item?id=48266906
-Points: 8
-# Comments: 0
-- `Hacker News` [2026 HIPAA Security Rule Update](https://medcurity.com/hipaa-security-rule-2026-update/)
-> Article URL: https://medcurity.com/hipaa-security-rule-2026-update/
-Comments URL: https://news.ycombinator.com/item?id=48266895
-Points: 15
-# Comments: 0
-- `Hacker News` [Pope Leo XIV says AI must serve humanity, not the powerful few](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
-> Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/
-Comments URL: https://news.ycombinator.com/item?id=48266485
-P...
-- `Hacker News` [Pope Leo: opaque AI run by few firms risks "New Forms of Dehumanization"](https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/)
-> Article URL: https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/
-Comments URL: https://news.ycombinator.com/item?id=48266435
-Points: 14
-# Comme...
-- `Hacker News` [Microsoft pulls plug on plans for 244-acre data center in Caledonia](https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback)
-> Article URL: https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback
-Comments URL: https://news.ycombinator.com/item?id=...
-- `Hacker News` [Search engines alternatives now that Google isn't Google anymore](https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/)
-> Article URL: https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/
-Comments URL: https://news.ycombinator.com/item?id=48266051
-Points: 257
-# ...
-- `Hacker News` [Leave Me Behind](http://androidessence.com/leave-me-behind/)
-> Article URL: http://androidessence.com/leave-me-behind/
-Comments URL: https://news.ycombinator.com/item?id=48265876
-Points: 132
-# Comments: 81
-- `Hacker News` [Magnifica Humanitas (Encyclical Letter)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
-> Article URL: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
-Comments URL: https://news.ycombinator.com/item?id=48265206
-Points: 365
-# Comments: 134
-- `Hacker News` [IBM Spins Off the First Pure-Play Quantum Chip Foundry](https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/)
-> Article URL: https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/
-Comments URL: https://news.ycombinator.com/item?id=48265056
-Poin...
+- `Hacker News` [Why the Smart Home Bubble Popped](https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/)
+> Article URL: https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/
+Comments URL: https://news.ycombinator.com/item?id=48274667
+Points: 6
+# Comments: 2
+- `Hacker News` [Does Anybody Actually Like React?](https://jsx.lol)
+> Article URL: https://jsx.lol
+Comments URL: https://news.ycombinator.com/item?id=48274077
+Points: 86
+# Comments: 90
+- `Hacker News` [Designing for and against the manufactured normalcy field (2012)](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html)
+> Article URL: https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html
+Comments URL: https://news.ycombinator.com/item?id=48273597
+...
+- `Hacker News` [CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude](https://support.apple.com/en-us/127115)
+> Article URL: https://support.apple.com/en-us/127115
+Comments URL: https://news.ycombinator.com/item?id=48273169
+Points: 95
+# Comments: 35
+- `Hacker News` [Performance of Rust Language [pdf]](https://github.com/yugr/rust-slides/)
+> Article URL: https://github.com/yugr/rust-slides/
+Comments URL: https://news.ycombinator.com/item?id=48273147
+Points: 30
+# Comments: 14
+- `Hacker News` [Nobody cracks open a programming book anymore](https://unix.foo/posts/nobody-cracks-open-a-programming-book/)
+> Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/
+Comments URL: https://news.ycombinator.com/item?id=48273030
+Points: 117
+# Comments: 149
+- `Hacker News` [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+> Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/
+Comments URL: https://news.ycombinator.com/item?id=48272984
+Points: 250
+# Comments: 103
+- `Hacker News` [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/)
+> Article URL: https://ente.com/blog/how-shamirs-secret-sharing-works/
+Comments URL: https://news.ycombinator.com/item?id=48272715
+Points: 91
+# Comments: 9
+- `Hacker News` [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk)
+> Article URL: https://www.apa.org/news/press/releases/2014/04/creativity-walk
+Comments URL: https://news.ycombinator.com/item?id=48272670
+Points: 123
+# Comments: 44
+- `Hacker News` [Show HN: OpenBrief – Local-first video downloader/summarizer](https://github.com/tantara/openbrief)
+> OpenBrief is basically a GUI for yt-dlp with some AI on top — paste a link, it downloads locally, and transcription and voice generation run with local AI on your machine. Summaries and chat over t...
+- `TechCrunch` [What ClickUp’s mass layoff tells us about the future of work](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)
+> The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.
+- `TechCrunch` [The pope’s AI encyclical isn’t really about AI](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/)
+> Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.
+- `TechCrunch` [The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI](https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/)
+> Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.
+- `TechCrunch` [Startup Battlefield 200 applications close in days: Apply before May 27](https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/)
+> The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.
 - `TechCrunch` [5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase](https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/)
 > Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.
 - `TechCrunch` [Everyone is navigating AI security in real time — even Google](https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/)
@@ -144,16 +162,18 @@ Poin...
 > Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
 - `TechCrunch` [I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out](https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/)
 > Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.
-- `TechCrunch` [The Dreamie alarm clock got me to stop using my phone in bed](https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/)
-> What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.
-- `TechCrunch` [SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest](https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/)
-> SolarSquare could be valued at up to $500 million in the financing expected to close next month.
-- `TechCrunch` [These special phone and app features can help protect you from spyware](https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/)
-> Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.
-- `TechCrunch` [Ferrari is using IBM’s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)
-> IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.
+- `The Verge` [Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery](https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth)
+> Nearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, the company has an...
+- `The Verge` [Ferrari reveals its first EV, with design help from Jony Ive](https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom)
+> After months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in collaboration wit...
+- `The Verge` [Cox Media fined after bragging it spied on users through their phones](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine)
+> An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little ...
 - `The Verge` [The best Memorial Day sales you can shop this weekend](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
-> Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar...
+> Memorial Day is here, meaning the seasonal sales are in full swing. If your plans over the long weekend involve pool parties or barbecues, now is a great time to pick up a portable speaker or set o...
+- `The Verge` [Pope Leo calls for being ‘profoundly human’ in the age of AI](https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare)
+> Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on "safeguarding the h...
+- `The Verge` [Here are our favorite last-minute deals from REI’s giant Anniversary Sale](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026)
+> REI’s annual Anniversary Sale — the retailer’s biggest of the year — is still going strong, letting you save on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a goo...
 - `The Verge` [On Trails is a wandering tale that blends hiking, science, and history](https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review)
 > Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, as someone with t...
 - `The Verge` [Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day](https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale)
@@ -162,16 +182,6 @@ Poin...
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM...
 - `The Verge` [Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo)
 > Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and ...
-- `The Verge` [Record Club is trying to be Letterboxd for music nerds](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds)
-> There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels...
-- `The Verge` [The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech)
-> Roger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its succes...
-- `The Verge` [Here are 38 Memorial Day deals we recommend for $50 or less](https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50)
-> Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight, but there are also plenty of great deals that won’t set you back nearly as much. In fact, some of the best discount...
-- `The Verge` [Hanging out in my favorite virtual coffee shop in Tokyo](https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam)
-> Finding a cafe that fits you can be a revelatory experience. For me at least, there are few places outside of my house that I can truly feel comfortable in. I'm lucky enough to have two options in ...
-- `The Verge` [I have a new go-to browser](https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer)
-> Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all the old editions at...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
