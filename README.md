@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-05-27
 
-> 自动收集于 2026-05-27 04:21 | 共 50 条
+> 自动收集于 2026-05-27 14:49 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖](https://36kr.com/p/3827497128465287?f=rss)
+> 大公司：
+  程一笑：可灵AI 3月ARR近5亿美元，较去年同期增长4倍
+  36氪获悉，在2026年第一季度业绩电话会上，快手科技创始人兼首席执行官程一笑表示，2026年3月，可灵AI年化收入运行率（ARR）近5亿美元，较去年3月的1亿美元增长4倍。程一笑表示，可灵AI一季度收入高速增长，主要来自B端企业客户API调用收入和P端付费会员订阅收入的双轮驱动。无论是用户数还是月均付费金额，可灵...
 - `36氪` [前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录](https://36kr.com/p/3826932509364869?f=rss)
 > 当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。
   2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。
@@ -60,12 +64,12 @@
   这个奖项来得不算早。过去三十年，萨顿的理论支撑了AlphaGo、ChatGPT等系统的进化，但他三十年前写下的理论，直到今天才被具身智能行业真正理解：
   智能体要从试错中学习，要从真实经验里进化。
   2023年，萨顿参与创办非营利研究机构Openmind。2025年4月，萨顿在联合发表的文章《欢迎来到经验...
-- `36氪` [氪星晚报｜我国人形机器人全球市场占比超八成；三星电子将从下月开始允许员工使用外部AI模型；知情人士：字节跳动本月向Seed员工开放“豆包股”认购权](https://36kr.com/p/3825928694846085?f=rss)
-> 大公司：
-  知情人士：字节跳动本月向Seed员工开放“豆包股”认购权
-  据四位了解该激励计划的知情人士透露，字节跳动正为旗下Seed人工智能部门员工提供与该部门挂钩的低价股票期权。这是字节跳动首次针对特定业务单元发行股权。该激励机制让员工能分享Seed部门的成长收益，且不会被字节跳动其他业务线的业绩稀释收益。
-  空中客车供应不畅，澳洲航空开通伦敦和纽约不经停航班的计划遭推迟
-  空中客...
+- `少数派` [客制化键盘｜近期值得一看的套件与键帽：怪诞主题、复古创新与静电容](https://sspai.com/post/108618)
+> 客制化键盘新品信息速览。查看全文
+- `少数派` [屏忆：这款开源工具，把过目就忘的日常变成「上下文」](https://sspai.com/post/110115)
+> 我们总在训练更聪明的 AI，却很少为未来的自己留下足够真实的生活切片。查看全文
+- `少数派` [为什么没人会喜欢你用 LLM 写出来的东西？](https://sspai.com/post/110102)
+> LLM 的后训练、对齐、蒸馏，不仅让模型输出变得更可控，但没人喜欢这样的东西。查看全文
 - `少数派` [派早报：法拉利发布首款纯电跑车 Luce、森海塞尔发布 Momentum 5 耳机等](https://sspai.com/post/110297)
 > Spotify 音频杂志文章功能开启测试，摩托罗拉海外版系统被存在重定向劫持行为等。查看全文
 - `少数派` [社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树](https://sspai.com/post/110184)
@@ -80,105 +84,97 @@
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [无障碍可感知，有爱亦无碍：藏在日常里的 Apple 辅助功能](https://sspai.com/post/110144)
 > 每年五月的第三个周四是全球无障碍宣传日(GlobalAccessibilityAwarenessDay,GAAD)，宣传日由美国开发者JoeDevon与无障碍专家JennisonAsuncion在20 ...查看全文
-- `少数派` [被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要](https://sspai.com/post/81257)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役](https://sspai.com/post/109450)
-> 一晃近2000天，我手中的罗技MXMaster3，依旧是我办公时最顺手的伙伴。当初购入它，核心原因就是手大且需要一款适配办公的鼠标——此前我用过雷蛇、赛睿的多款鼠标，并非它们不好用，而是这些鼠标多偏向 ...查看全文
-- `少数派` [派早报：GitHub 在微软治下面临技术和人员流失困境](https://sspai.com/post/110130)
-> GitHub 在微软治下面临技术和人员流失困境老虎、富途、长桥将被全面取缔境内业务谷歌搜索 AI 模式误将 disregard 等关键词当作指令「死了么」更名为「在么在么」用于老人居家安全公安部拟明确取证中获取密码等特殊程序 伦敦 iPhone 盗窃集团采用威胁手法解绑 Apple ID看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Gear Commit: Dev gadget box personalized from GitHub activity](https://gearcommit.nanocorp.app/)
-> Article URL: https://gearcommit.nanocorp.app/
-Comments URL: https://news.ycombinator.com/item?id=48288761
-Points: 5
+- `Hacker News` [Declassified CIA Cartography Maps from the 1980s](https://brilliantmaps.com/cia-maps-1980s/)
+> Article URL: https://brilliantmaps.com/cia-maps-1980s/
+Comments URL: https://news.ycombinator.com/item?id=48294831
+Points: 7
 # Comments: 0
-- `Hacker News` [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
-> Article URL: https://pop.rdi.sh/where-does-next-token-prediction-leave-us/
-Comments URL: https://news.ycombinator.com/item?id=48288191
-Points: 49
-# Comments: 21
-- `Hacker News` [Tunecat: Simple Internet Radio](https://codeberg.org/lindenii/tunecat/)
-> Article URL: https://codeberg.org/lindenii/tunecat/
-Comments URL: https://news.ycombinator.com/item?id=48288174
-Points: 19
+- `Hacker News` [The VibeSec Reckoning](https://martinfowler.com/articles/vibesec-reckoning.html)
+> Article URL: https://martinfowler.com/articles/vibesec-reckoning.html
+Comments URL: https://news.ycombinator.com/item?id=48294670
+Points: 4
 # Comments: 0
-- `Hacker News` [Stripe is friendly to “friendly fraud”](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/)
-> Article URL: https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/
-Comments URL: https://news.ycombinator.com/item?id=48287982
-Points: 170
-# Comments: 105
-- `Hacker News` [Erin Brockovich made a map to track data centers around the country](https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/)
-> Article URL: https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/
-Comments URL: https://news.ycombinator.com/item?id=48287952
-Points: 163
-# Comment...
-- `Hacker News` [Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95](https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/)
-> Article URL: https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/
-Comments URL: https://news.ycombinator.com/item?id=48287678
-Points: 68
-...
-- `Hacker News` [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
-> Article URL: https://developers.cloudflare.com/flagship/
-Comments URL: https://news.ycombinator.com/item?id=48287468
-Points: 119
-# Comments: 56
-- `Hacker News` [From Rust to Ruby](https://xlii.space/eng/from-rust-to-ruby/)
-> Article URL: https://xlii.space/eng/from-rust-to-ruby/
-Comments URL: https://news.ycombinator.com/item?id=48286561
-Points: 51
-# Comments: 21
-- `Hacker News` [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943)
-> Article URL: https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943
-Comments URL: https://news.ycombinator.com/item?id=48285592
-Points: 372
-# Comments: 210
-- `Hacker News` [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
-> Article URL: https://www.science.org/content/blog-post/methyl-methacrylate-tank
-Comments URL: https://news.ycombinator.com/item?id=48284712
-Points: 276
-# Comments: 106
-- `TechCrunch` [UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed t...](https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/)
-> The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.
-- `TechCrunch` [What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline](https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/)
-> Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!
-- `TechCrunch` [Trump administration permits Volvo to keep selling connected cars in the US](https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/)
-> Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.
-- `TechCrunch` [Trump administration wants nuclear startups to use plutonium for their reactors](https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/)
-> The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.
-- `TechCrunch` [DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search](https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/)
-> Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.
-- `TechCrunch` [Starship’s path to reusability looks murky after SpaceX’s S-1](https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/)
-> SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and it...
-- `TechCrunch` [SpaceX’s Starlink nabs American Airlines contract, another win for its IPO](https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/)
-> American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.
-- `TechCrunch` [OpenRouter more than doubles valuation to $1.3B in a year](https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/)
-> OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.
-- `TechCrunch` [This startup is betting India’s gig economy can train the world’s robots](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/)
-> Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training ...
-- `TechCrunch` [Dutch government blocks US company from acquisition, citing ‘risk to public interest’](https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/)
-> The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology.
-- `The Verge` [Did the Pope use AI to write about the dangers of AI?](https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram)
-> It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of...
-- `The Verge` [NASA’s permanent Moon base plans start with three missions this year](https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates)
-> On Tuesday, NASA announced several upcoming lunar missions to the Moon's South Pole region. These missions will pave the way for the crewed Artemis landing slated for 2028, starting with three Moon...
-- `The Verge` [Google Health is here, but a lot of people want their Fitbit app back instead](https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai)
-> The Fitbit app is no more. Along with the launch of the new Fitbit Air (which you can expect a full review of once we've spent more time with it), Google has officially replaced it with Google Heal...
-- `The Verge` [GE’s nugget ice maker is nearly half off if you buy it refurbished](https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale)
-> If you’re looking for ways to make staying cool and hydrated easier this summer, Woot is currently selling a refurbished GE Profile Opal 2.0 Ultra Nugget Ice Maker for $264.99 through June 3rd. Tha...
-- `The Verge` [Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir](https://www.theverge.com/entertainment/936358/amazon-spider-noir-review)
-> After years of it seeming like the Spider-Man film rights might be better off in Marvel's hands alone, Into the Spider-Verse came along and proved that Sony was still capable of telling phenomenal ...
-- `The Verge` [The best Memorial Day sales you can still shop](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
-> The long weekend is over, but many of the best Memorial Day deals are still available. Many of our favorite portable speakers are discounted, as are other outdoorsy products we like, including a se...
-- `The Verge` [American Airlines is getting Starlink Wi-Fi](https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed)
-> American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and...
-- `The Verge` [Memory V re-creates the Memorymoog without the massive headaches or price tag](https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer)
-> The Memorymoog is legendary for being an absolutely massive-sounding synth and being incredibly unreliable. But now you can enjoy its classic Moog sound without the headaches or the sky-high vintag...
-- `The Verge` [Saving for a Switch 2 is easier with Newegg’s gift card deal](https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale)
-> If you foresee a bunch of Nintendo purchases in your future, Newegg’s deal on Nintendo gift cards might just help save your wallet. The retailer is offering a deal that lets gamers get $200 worth o...
-- `The Verge` [Oppo’s Bubble is a thin round screen for taking rear camera selfies](https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic)
-> Oppo launched a new smartphone accessory that makes it easier to snap selfies using your smartphone's rear cameras that typically feature better sensors than front-facing cameras. The Bubble offers...
+- `Hacker News` [Italy region: +200% tax on datacenters built in green/agricultural areas](https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID)
+> Article URL: https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID
+Comments URL: https://n...
+- `Hacker News` [Incident with Pull Requests, Issues, Git Operations and API Requests](https://www.githubstatus.com/incidents/xy1tt3hs572m)
+> Article URL: https://www.githubstatus.com/incidents/xy1tt3hs572m
+Comments URL: https://news.ycombinator.com/item?id=48293080
+Points: 135
+# Comments: 113
+- `Hacker News` [XLIDE: VBA without excel](https://github.com/WilliamSmithEdward/xlide_vscode)
+> Article URL: https://github.com/WilliamSmithEdward/xlide_vscode
+Comments URL: https://news.ycombinator.com/item?id=48293014
+Points: 29
+# Comments: 5
+- `Hacker News` [Private Equity Bought America's Essential Services](https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/)
+> Article URL: https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/
+Comments URL: https://news.ycombinator.com/item?id=48292941
+Points: 204
+# Comments: 220
+- `Hacker News` [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+> Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/
+Comments URL: https://news.ycombinator.com/item?id=48292224
+Points: 924
+# Comments: 513
+- `Hacker News` [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
+> Article URL: https://miniscript.org/MiniMicro/index.html#about
+Comments URL: https://news.ycombinator.com/item?id=48291947
+Points: 127
+# Comments: 55
+- `Hacker News` [Go: Support for Generic Methods](https://github.com/golang/go/issues/77273)
+> Article URL: https://github.com/golang/go/issues/77273
+Comments URL: https://news.ycombinator.com/item?id=48291575
+Points: 71
+# Comments: 48
+- `Hacker News` [All of human cooking compressed into 2 megabytes](https://arxiv.org/abs/2605.22391)
+> Article URL: https://arxiv.org/abs/2605.22391
+Comments URL: https://news.ycombinator.com/item?id=48291225
+Points: 151
+# Comments: 60
+- `TechCrunch` [Startup Battlefield 200 applications close today: Nominate a founder or submit your startup](https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/)
+> Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free fund...
+- `TechCrunch` [ElevenLabs’s new music generation model can switch genres mid-track](https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/)
+> ElevenLabs' new model will let users regenerate a section of a song without affecting rest of the track
+- `TechCrunch` [Spotify now lets you ‘clip’ moments from your favorite podcast](https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/)
+> With the new scissors icon, you can clip favorite moments from podcasts and share them with your audience.
+- `TechCrunch` [SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M](https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/)
+> SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.
+- `TechCrunch` [TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days](https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/)
+> There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If yo...
+- `TechCrunch` [China is increasingly keeping its best AI talent to itself](https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/)
+> China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.
+- `TechCrunch` [ClickHouse triples anualized revenue to $250M, charting a path toward an IPO](https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/)
+> The database provider is eyeing a public debut within the next few years.
+- `TechCrunch` [YouTube will now automatically label AI videos](https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/)
+> YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels mor...
+- `TechCrunch` [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+> "CEOs are uniquely prone to AI psychosis," Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.
+- `TechCrunch` [Robinhood now lets your AI agents trade stocks](https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/)
+> Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade
+- `The Verge` [Sony’s DualSense controllers are almost 30 percent off](https://www.theverge.com/gadgets/938029/sony-dualsense-wireless-edge-controller-ps5-pc-deal-sale)
+> Sony has a tradition of marking down its PlayStation 5 hardware a couple of times a year, and one of those opportunities to save is here through June 10th. Its latest Days of Play sale is happening...
+- `The Verge` [Robinhood will let your AI agent trade stocks and make (or lose) lots of money](https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading)
+> Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money,...
+- `The Verge` [This smart bird feeder captures more of my backyard drama](https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review)
+> Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to m...
+- `The Verge` [This Ferrari should have been a Volkswagen](https://www.theverge.com/transportation/938016/this-ferrari-should-have-been-a-volkswagen)
+> It may be the NBA playoffs but right now Ferrari is getting dunked on more than anyone. Whether they own a Ferrari or just have a poster of a Testarossa on their wall, fans in the Ferrari-verse are...
+- `The Verge` [007 First Light is like a James Bond movie in the best way possible](https://www.theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox)
+> The James Bond franchise is nothing if not a spectacle: Aside from the explosions and gun fights, even its calmer moments are dripping in the pomp and glamour of elite ostentation and luxury locale...
+- `The Verge` [Win cool gadgets we can’t keep because The Verge has ethics](https://www.theverge.com/gadgets/936771/today-im-toying-with-giveaway-free-gadgets)
+> When people learn I work for The Verge, they inevitably ask: “Do you get to keep the gadgets?” Now that I film Today I’m Toying With, a video series where I share the joy of tech, I get that questi...
+- `The Verge` [The best part of Mina the Hollower is how it randomizes the Zelda formula](https://www.theverge.com/games/937480/mina-the-hollower-remix-modifiers-randomizer-interview)
+> After rolling credits on Mina the Hollower, I did something unusual for me and immediately started a new file. I'm not typically one to replay games right after I beat them. But Mina, a new action-...
+- `The Verge` [YouTube is putting AI labels where you’ll actually see them](https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates)
+> In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on ...
+- `The Verge` [The Witcher 3 is getting another expansion, more than a decade after launch](https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion)
+> The fourth Witcher game may be a ways off, but fans won't be without Geralt of Rivia for long. CD Projekt Red just announced Songs of the Past, the third expansion for The Witcher 3, which will be ...
+- `The Verge` [Xreal’s budget AR glasses feature anti-shake tech and swappable frames](https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability)
+> Augmented reality wearables provider Xreal has launched a new "X By Xreal" (XBX) subbrand, with its first customizable, lightweight smart glasses coming to the US in July. The new a01 AR glasses wi...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
