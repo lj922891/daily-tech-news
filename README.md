@@ -6,10 +6,41 @@
 
 # 📰 每日科技日报 — 2026-05-28
 
-> 自动收集于 2026-05-28 04:11 | 共 50 条
+> 自动收集于 2026-05-28 15:00 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [快手基本面韧性凸显，可灵AI成第二增长曲线](https://36kr.com/p/3828915666441090?f=rss)
+> 封面来源 |  官方供图
+  5月27日，快手（证券代码：1024.HK）公布了2026年一季度财报。
+  财报显示，快手在2026年一季度实现营业收入337亿元，同比增长3.4%，符合市场预期；利润方面，同期实现经营利润36亿元，同比减少15.6%；同期经调整净利润录得34亿元，对应的经调整净利率为10%。
+  运营层面，2026年一季度，快手的用户增长表现不俗，尤其是...
+- `36氪` [科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵](https://36kr.com/p/3828898785858185?f=rss)
+> 5月28日，雷神在北京举办以《聚势共生 智算同行》为主题的AI工作站新品发布会，正式推出覆盖塔式、迷你PC和移动三大类别的AI工作站全场景产品矩阵。这是业内首批完成三大形态全覆盖的AI工作站产品发布，以行业领先的品类矩阵和旗舰级算力水准，重新定义了AI工作站的性能基准。
+  
+  官方图片
+  AI 正式迈入智能体时代，行业从文本预测转向自主逻辑思考，未来 AI 算力需求将迎来百倍增长，普及...
+- `36氪` [氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭](https://36kr.com/p/3828874222555782?f=rss)
+> 大公司：
+  格林生物创业板IPO过会
+  36氪获悉，深交所上市审核委员会召开2026年第27次上市审核委员会审议会议，审议结果显示，格林生物科技股份有限公司首发符合发行条件、上市条件和信息披露要求。
+  晨光股份：拟以5亿元至10亿元回购股份用于股权激励或员工持股计划
+  36氪获悉，晨光股份公告，公司拟以自有资金通过集中竞价方式回购股份，回购资金总额不低于5亿元（含），不超过10亿元（...
+- `36氪` [科氪 | 一天连签10所高校！京东养车构建产教融合型技师培育体系破解人才缺口难](https://36kr.com/p/3828856781099910?f=rss)
+> 5月28日，2026京东养车合作伙伴大会在北京举行，全国各地超2000名加盟商合作伙伴及产业链合作伙伴齐聚一堂，围绕提升用户体验、增强用户信任、以创新驱动门店更高盈利空间等核心议题深入交流。京东养车宣布2025年年底其门店数量已突破4000家，且门店盈利能力保持稳健增长。京东养车也公布了最新招商政策，推出“3年加盟费低至0元、管理费至高减免12月”等扶持举措。活动现场，京东养车还与10所高校...
+- `36氪` [科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告](https://36kr.com/p/3828851140350592?f=rss)
+> 2026 年 5 月 27 日，全球领先消费级 AR 品牌雷鸟创新（RayNeo）携手 TCL 好莱坞中国剧院举办夏季新品发布会，正式推出行业首款专业影视级 AR 眼镜雷鸟 GT 系列，以极致巨幕、影院级音画与轻盈佩戴，带来真正媲美影院的随身观影体验，售价 1899 元起；同时，新一代 AI 拍摄眼镜雷鸟 V4，在 AI 响应、超长续航、暗光拍摄、防水防尘等核心体验上全面刷新行业上限，带来真...
+- `36氪` [智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型](https://36kr.com/p/3820602297208966?f=rss)
+> 文｜王欣逸 李嘉星
+  编辑｜周鑫雨
+  一家Day 1就在做多模态大模型的公司，无法拒绝参与到具身智能和世界模型热潮之中。
+  2026年，随着Seedance 2.0、GPT Image 2.0等模型的爆火，多模态能力越来越成为行业内绕不开的关键词。5月19日，智象未来首届开放日上，智象未来给出了他们的判断和回答：“原生多模态是实现AGI的必经之路。”
+  本场开放日活动主题为“Imag...
+- `36氪` [前逸动员工创立消费级智能船艇公司，半年内再获新融资｜硬氪首发](https://36kr.com/p/3820713545846917?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，安澜动力科技（深圳）有限公司（以下称“安澜动力”）日前完成数千万天使++轮融资，本轮由南山战新投独家投资。这是公司成立不足一年内完成的第三轮融资。资金将主要用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓，并为下半年种子用户测试的BETA样机交付做好储备。
+  当陆地新能源载具进入存量博弈，一片长期被欧美垄断的蓝海市场正在水面觉醒。随...
 - `36氪` [AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发](https://36kr.com/p/3827585618154118?f=rss)
 > 文丨刘士武
   封面来源 | Funloom 官网
@@ -34,41 +65,10 @@
   
   来源：2026腾讯游戏发布会
   与往届发布会不同的是，此次的发布会上，腾讯在AI游戏应用方面有了更多的输出。在游戏制作板块，腾讯介绍了如《和平精英》中的新A...
-- `36氪` [氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖](https://36kr.com/p/3827497128465287?f=rss)
-> 大公司：
-  程一笑：可灵AI 3月ARR近5亿美元，较去年同期增长4倍
-  36氪获悉，在2026年第一季度业绩电话会上，快手科技创始人兼首席执行官程一笑表示，2026年3月，可灵AI年化收入运行率（ARR）近5亿美元，较去年3月的1亿美元增长4倍。程一笑表示，可灵AI一季度收入高速增长，主要来自B端企业客户API调用收入和P端付费会员订阅收入的双轮驱动。无论是用户数还是月均付费金额，可灵...
-- `36氪` [前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录](https://36kr.com/p/3826932509364869?f=rss)
-> 当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。
-  2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。
-  5月19日至20日，以“带着AI去前线”为主题的2026 AI Part...
-- `36氪` [经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发](https://36kr.com/p/3826922264286083?f=rss)
-> 作者 | 张子怡
-  编辑 | 袁斯来
-  硬氪获悉，AI母婴智能硬件品牌珂迪Coddie（以下简称“Coddie”）完成天使轮融资，融资金额数千万元，由钟鼎资本投资，向阳资本担任独家财务顾问。
-  Coddie团队于2026年初组建，由95后连续创业者何鋡威创立。何鋡威毕业于德国慕尼黑工业大学，先后任职华为、传音控股、拓竹科技等全球化科技企业。技术负...
-- `36氪` [化险为夷的洛克王国，给所有长青游戏上了一课](https://36kr.com/p/3826354349412992?f=rss)
-> 文丨果脯
-  2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。 
-  S2赛季上线前，这款产品更是被寄予厚望，腾讯方面称其“有望成为下一款长青产品”...
-- `36氪` [36氪首发｜男士美妆品牌「GREENLAB绿所」获宝顶创投战略投资，张耀东出任公司董事](https://36kr.com/p/3825817310368385?f=rss)
-> 36氪获悉，无感化面部理容品牌「GREENLAB绿所」（以下简称“绿所”）近日宣布完成千万级新一轮融资，本轮由宝顶创投战略投资。融资完成后，宝顶创投创始合伙人张耀东将出任绿所公司董事，参与品牌战略、产品矩阵、渠道经营等方面的长期建设。
-  这也是继2025年完成Pre-A轮融资后，绿所在半年左右时间内再次获得外部资本加注。据了解，本轮资金将主要用于新品研发量产、品牌建设、渠道经营及组织能力提...
-- `36氪` [硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑](https://36kr.com/p/3826390617870984?f=rss)
-> 文｜周鑫雨 邓咏仪
-  编辑｜张雨忻
-  硅谷持续了两个多月的Token-Maxxing（Token军备竞赛）焦虑，在Meta以一种戏谑的方式按下了休止符。
-  前情大家都知道了：2026年3月，为了鼓吹自己是一家“AI-Native”公司，Meta曾在内部上线了一个“Claudeonomics（Claude经济学）”榜单：员工消耗的Token越多，排名就越高；垫底的员工，有被裁的风险。
- ...
-- `36氪` [红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊](https://36kr.com/p/3826385821192841?f=rss)
-> 文｜周鑫雨
-  编辑｜张雨忻
-  打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态：
-  这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教师。
-  
-  观猹。
-  “观猹”创始人仲泰告诉我：“这才是AI行业最真实的生态。”
-  仲泰，一个在AI创业者和开发者群体中并不陌生的名字。这名02年...
+- `少数派` [从原理到实践：年轻人的第一篇染发及洗护指南](https://sspai.com/prime/story/hair-dye-tutorial)
+> 我不用染发来对抗岁月，但我用它来对抗焦虑。[......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [从零手搓 AI Agent，我学到了什么？](https://sspai.com/post/110370)
+> AI 知识「干中学」——用两天时间梳理完 AI 发展脉络，理解 Agent 能力边界。查看全文
 - `少数派` [免费试读 | 零基础美术启蒙，该如何准备适合的美术器材](https://sspai.com/post/108334)
 > 按：本文是少数派共创栏目《写给家长的幼儿美术启蒙指南》的第三章，在栏目更新完成之际，免费开放给大家阅读，希望能给正在为挑选美术器材而犯难的你有所帮助。本栏目在专业的理论基础之上，结合作者多年育儿经验与 ...查看全文本文为付费栏目文章，出自《经验卷轴：写给家长的幼儿美术启蒙指南》，订阅后可阅读全文。
 - `少数派` [派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等](https://sspai.com/post/110368)
@@ -85,101 +85,99 @@
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场](https://sspai.com/post/110152)
 > 献给和我们当初一样跃跃欲试的朋友们。查看全文
-- `少数派` [App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App](https://sspai.com/post/109227)
-> Kaori 不仅是为了香水爱好者而设计，如果你有日常喷香水的习惯，不妨通过 Kaori 来记录你的日常和一闪而过与香水有关的想法。查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/110156)
-> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Creusot helps you prove your Rust code is correct](https://github.com/creusot-rs/creusot/tree/master)
+> Article URL: https://github.com/creusot-rs/creusot/tree/master
+Comments URL: https://news.ycombinator.com/item?id=48309645
+Points: 5
+# Comments: 0
+- `Hacker News` [How long until AI automates all cognitive labor?](https://futuresearch.ai/blog/agi-timeline-tracker/)
+> Article URL: https://futuresearch.ai/blog/agi-timeline-tracker/
+Comments URL: https://news.ycombinator.com/item?id=48309344
+Points: 29
+# Comments: 30
+- `Hacker News` [EU fines Temu €200M for allowing sale of illegal products](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o)
+> Article URL: https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o
+Comments URL: https://news.ycombinator.com/item?id=48309302
+Points: 30
+# Comments: 9
+- `Hacker News` [Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions)
+> Article URL: https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions
+Comments URL: https://news.ycombinator.com/item?id=48309233
+Points: 105
+...
+- `Hacker News` [Five frontier LLMs disagree on 67% of 1k real-world fact-check claims](https://lenz.io/research/llm-disagreement)
+> Article URL: https://lenz.io/research/llm-disagreement
+Comments URL: https://news.ycombinator.com/item?id=48307887
+Points: 309
+# Comments: 208
+- `Hacker News` [AMD pulls a bait-and-switch on Linux users with Vivado licensing changes](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/)
+> Article URL: https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/
+Comments URL: https://news.ycombinator.com/item?id=48307231
+Points: 245
+# Comments: 103
+- `Hacker News` [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
+> Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/
+Comments URL: https://news.ycombinator.com/item?id=48305446
+Points: 130
+# Comments: 36
+- `Hacker News` [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
+> Article URL: https://hallucinate.site
+Comments URL: https://news.ycombinator.com/item?id=48304260
+Points: 310
+# Comments: 134
+- `Hacker News` [Biff is a command line datetime Swiss army knife](https://github.com/BurntSushi/biff)
+> Article URL: https://github.com/BurntSushi/biff
+Comments URL: https://news.ycombinator.com/item?id=48303881
+Points: 80
+# Comments: 41
 - `Hacker News` [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
 > Article URL: https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer
 Comments URL: https://news.ycombinator.com/item?id=48303599
 Points: 0
 # Comments: 0
-- `Hacker News` ["US has the troops in place to attack Cuba" per Politico](https://www.politico.com/news/2026/05/27/cuba-us-military-attack-00938740)
-> Article URL: https://www.politico.com/news/2026/05/27/cuba-us-military-attack-00938740
-Comments URL: https://news.ycombinator.com/item?id=48303594
-Points: 19
-# Comments: 11
-- `Hacker News` [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)
-> Article URL: https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html
-Comments URL: https://news.ycombinator.com/item?id=48302822
-Points: 67
-# Comments: 32
-- `Hacker News` [Can we have the day off?](https://mlsu.io/posts/day-off/)
-> Article URL: https://mlsu.io/posts/day-off/
-Comments URL: https://news.ycombinator.com/item?id=48302745
-Points: 677
-# Comments: 394
-- `Hacker News` [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)
-> Article URL: https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html
-Comments URL: https://news.ycombinator.com/item?id=48302151
-Points: 167
-# Comments: 90
-- `Hacker News` [Pelica (YC P25) Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer)
-> Article URL: https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer
-Comments URL: https://news.ycombinator.com/item?id=48301851
-Points: 0
-# Comments: 0
-- `Hacker News` [Warm up your MacBook (2019)](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
-> Article URL: https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/
-Comments URL: https://news.ycombinator.com/item?id=48300342
-Points: 47
-# Comments: 47
-- `Hacker News` [Show HN: Open-Source AI Racing Harness](https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness)
-> Hi I'm Dan from Elodin, making an open source real-time capable flight software simulation.For AI Grand Prix contestants, the wait for the Round 1 virtual qualifier simulation has been grueling.If ...
-- `Hacker News` [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
-> https://variety.com/2026/digital/news/youtube-ai-video-label...
-
-Comments URL: https://news.ycombinator.com/item?id=48299753
-Points: 602
-# Comments: 363
-- `Hacker News` [I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)](https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/)
-> Article URL: https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/
-Comments URL: https://news.ycombinator.com/item?id=48299638
-Points: 105
-# Comments: 37
-- `TechCrunch` [Google engineer charged with insider trading after making $1.2M on Polymarket](https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/)
-> According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.
-- `TechCrunch` [Why Google’s AI can’t spell Google (or anything else)](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/)
-> Google is embarrassing itself, again.
-- `TechCrunch` [Rivian will deliver the first R2 SUVs on June 9](https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/)
-> The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is "maybe the most important thing we’ve launched to date."
-- `TechCrunch` [Triomics nabs $22M to bring oncology-specific AI to cancer centers](https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/)
-> The Series B round was led by Battery Ventures.
-- `TechCrunch` [In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips](https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/)
-> Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.
-- `TechCrunch` [Payroll startup Remote says it grew revenue 50% per employee without adding headcount](https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/)
-> Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI a...
-- `TechCrunch` [UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers o...](https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/)
-> The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the ...
-- `TechCrunch` [Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
-> Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscrip...
-- `TechCrunch` [With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup](https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/)
-> Thea Energy's pixel-inspired magnets could give its power plant plans a boost. The fusion startup hopes to get a commercial reactor working by 2034.
-- `TechCrunch` [CrowdStrike and Google take down botnet used by hackers to target open source software developers](https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/)
-> Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.
-- `The Verge` [A Google employee allegedly used inside information to win $1.2 million on Polymarket](https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets)
-> Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News. In their ...
-- `The Verge` [Apple’s newest iPad Air is up to $100 off for the first time](https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale)
-> If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best prices to date. The 11...
-- `The Verge` [All the news about Ferrari’s polarizing Luce EV](https://www.theverge.com/transportation/938513/ferrari-luce-ev)
-> Ferrari fans don’t like the design of the new Luce EV, an electric four-door sedan that just doesn’t look like the Ferraris of old. It was designed with help from Jony Ive’s LoveFrom, but what work...
-- `The Verge` [The new Halide camera app launches with film looks and an upgraded photo editor](https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available)
-> After first being announced in December 2024, Lux Optics has finally released the latest version of its Halide camera app for the iPhone and iPad. The Halide Mark III app's most compelling feature ...
-- `The Verge` [Facebook launches a ‘Plus’ subscription that gives you extra features](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions)
-> After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks ...
-- `The Verge` [Roids were all the rage at the Enhanced Games](https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports)
-> In Las Vegas, the blazing sun beats down on a makeshift Olympic-length pool. Cody Miller stands on the starting block of lane one. His arms are raised in victory. MC Hammer's "U Can't Touch This" t...
-- `The Verge` [Valve raises Steam Deck prices by more than $200](https://www.theverge.com/games/938340/valve-steam-deck-price-increase)
-> Valve has significantly increased the price of the Steam Deck - but now, it's also in stock. The 512GB Steam Deck OLED now costs $789, up from $549, while the 1TB model costs $949, up from $649. As...
-- `The Verge` [The Verge’s 2026 college graduation gift guide](https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas)
-> Graduating from college is exciting, but it can also feel slightly terrifying. Along with celebrating a huge accomplishment, many grads jump right into looking for a job. Some might be getting thei...
-- `The Verge` [You can print, slice, and engrave using this desktop crafting machine](https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter)
-> xTool has announced a new multi-purpose crafting machine that could potentially be one of the most affordable ways to start an Etsy shop. Its modular design facilitates a CMYK print head that works...
-- `The Verge` [Motorola says affiliate hijacking of Amazon app was ‘unintended’](https://www.theverge.com/tech/938249/motorola-device-native-amazon-affiliate-hijack)
-> Motorola says that recently discovered behavior, which saw some of its phones sending users to an affiliate tracking website before opening the Amazon app, was "unintended" and has been "promptly c...
+- `TechCrunch` [Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more](https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/)
+> New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.
+- `TechCrunch` [Rivian under investigation over rear suspension failures on R1 models](https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/)
+> At least two owners have lost control of their vehicles after a critical suspension component broke. In both cases, the vehicles had been previously serviced.
+- `TechCrunch` [RSI is the new AGI — and it’s just as hard to pin down](https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/)
+> A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.
+- `TechCrunch` [At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals](https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/)
+> Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.
+- `TechCrunch` [YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’](https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/)
+> The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.
+- `TechCrunch` [Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand](https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/)
+> After overwhelming demand from founders around the world, TechCrunch has extended the Startup Battlefield 200 application deadline to June 8. Nominate a standout startup or apply yours today.
+- `TechCrunch` [2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/)
+> Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.
+- `TechCrunch` [Visa invests in Replit to power agentic payments for developers](https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/)
+> Visa said that over 1,000 employees has been using Replit for prototyping and development
+- `TechCrunch` [Has the hunt for AI compute uncovered the next Cerebras?](https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/)
+> General Compute is betting SambaNova will be the next breakout chipmaker.
+- `TechCrunch` [Oura unveils its Ring 5 with a thinner, lighter design starting at $399](https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/)
+> The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more.
+- `The Verge` [Waymo to begin passenger rides in its new Ojai robotaxi](https://www.theverge.com/transportation/938156/waymo-zeekr-ojai-robotaxi-passenger-trips)
+> After several months of testing, Waymo is finally ready to invite non-employee passengers into its newest vehicle, the Zeekr RT minivan, which has been rebranded as Ojai. Waymo says it will begin o...
+- `The Verge` [This sound card could give gamers a competitive edge](https://www.theverge.com/tech/938861/fosi-audio-c3-gaming-sound-card-headphone-app-fps-audio-boost)
+> Fosi Audio announced a new sound card today with a unique feature designed to give FPS players an advantage. The C3 Gaming Sound Card, which sits outside your PC or laptop and connects with a USB-C...
+- `The Verge` [These new iOS 27 renders hint at Siri’s big redesign](https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg)
+> Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new ap...
+- `The Verge` [CNN sues Perplexity over ‘verbatim’ copycat articles](https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit)
+> CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate "verbatim" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursd...
+- `The Verge` [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
+> The Nintendo Switch 2 can be enjoyed right out of the box, but it’s even better with the right accessories. Some of these add-ons are more crucial than others, especially if you’re deciding what to...
+- `The Verge` [Rivian’s software chief thinks you don’t need CarPlay or buttons](https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai)
+> Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint ventur...
+- `The Verge` [Qualcomm promises $300 Windows laptops with new Snapdragon C](https://www.theverge.com/tech/938665/qualcomm-promises-300-windows-laptops-with-new-snapdragon-c)
+> They started at $1,000. Then $700. Then $600 budget machines. Now, Qualcomm says the price of its Arm-based Windows laptops will hit $300 this year. Even though RAMageddon has yet to subside and PC...
+- `The Verge` [Intel’s first handheld gaming chip is the Arc G3, and this Acer is using it](https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming)
+> Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel...
+- `The Verge` [Xiaomi 17T Pro arrives with the company’s biggest battery yet](https://www.theverge.com/tech/938795/xiaomi-17t-pro-launch-specs-battery-price)
+> Xiaomi has announced the 17T and 17T Pro, two cheaper spins on its 17 series flagships. As is usual for the T-series, the focus is more on performance than photography, with the biggest batteries X...
+- `The Verge` [They’ve finally made the Oura Ring smaller and lighter](https://www.theverge.com/tech/938518/oura-ring-5-smart-ring-price-specs-wearables-hands-on)
+> Wherever I go, whatever I do, people point at my finger and ask, "Is that an Oura Ring?" Lots of people find they like the design, and they tell me why they're thinking about switching to a smart r...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
