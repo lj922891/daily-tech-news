@@ -4,12 +4,36 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-27
+# 📰 每日科技日报 — 2026-05-28
 
-> 自动收集于 2026-05-27 14:49 | 共 50 条
+> 自动收集于 2026-05-28 04:11 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发](https://36kr.com/p/3827585618154118?f=rss)
+> 文丨刘士武
+  封面来源 | Funloom 官网
+  36氪获悉，AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。 
+  库兰织梦成立于20...
+- `36氪` [8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金](https://36kr.com/p/3828191630348934?f=rss)
+> 今日热点导览
+  
+   阿里员工十三薪将并入年终奖
+   曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方
+   微信小游戏月活跃用户超过5亿
+   聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争
+   SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温
+   长鑫科技科创板IPO获上市委会议通过
+  
+  TOP 3大新闻
+  “高考期间AI工具将禁用”...
+- `36氪` [腾讯游戏的One More Thing，是AI](https://36kr.com/p/3827658881323649?f=rss)
+> 文丨贝果树
+  编辑丨刘士武
+  5月27日，2026年腾讯游戏发布会于晚上八点举办。在发布会上，腾讯从制作、发行、投资三个板块带来了42款游戏的新动态，其中包含15款新品，新品的数量相较于2025年发布会的24款有所减少。
+  
+  来源：2026腾讯游戏发布会
+  与往届发布会不同的是，此次的发布会上，腾讯在AI游戏应用方面有了更多的输出。在游戏制作板块，腾讯介绍了如《和平精英》中的新A...
 - `36氪` [氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖](https://36kr.com/p/3827497128465287?f=rss)
 > 大公司：
   程一笑：可灵AI 3月ARR近5亿美元，较去年同期增长4倍
@@ -45,25 +69,10 @@
   观猹。
   “观猹”创始人仲泰告诉我：“这才是AI行业最真实的生态。”
   仲泰，一个在AI创业者和开发者群体中并不陌生的名字。这名02年...
-- `36氪` [8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐](https://36kr.com/p/3826779946930822?f=rss)
-> 今日热点导览
-  三体公司原CEO许垚被执行死刑，投毒致使其老板林奇中毒身亡
-  算力租赁，遭传闻突袭，上市公司回应
-  胖东来成立文化娱乐公司
-  双汇子公司猪肉被曝抗生素超标37倍，公司回应超标原因
-  知情人士：字节跳动本月向Seed员工开放“豆包股”认购权
-  TOP3大新闻
-  商品标签陷性暗示争议，盒马致歉并下架整改
-  近日，盒马旗下一款“粉木耳”产品因标签设计涉嫌性暗示引发争...
-- `36氪` [36氪企业全情报｜更懂股民的舆情数据工具，好用又省心](https://36kr.com/p/3826003757437573?f=rss)
-> 炒股的朋友都有同感：现在信息太多太杂，消息慢一步、判断错一步，都可能影响操作。刷新闻、翻研报、逛股吧，花了大把时间，还是抓不住重点、分不清真假，越看越乱。
-  好消息是 ——36氪企业全情报小程序新版本正式上线啦！这次更新完全站在大家的使用习惯上，把体验和功能都做了优化，帮你少走弯路、少花时间，轻松拿到靠谱情报，不再被信息差牵着走。
-  点击直达小程序：https://wxaurl.cn/J...
-- `36氪` [机器人启蒙，需要一所能“犯错”的幼儿园](https://36kr.com/p/3825969453699970?f=rss)
-> 2024年，强化学习奠基人理查德·萨顿与他的导师安德鲁·巴托共同获得了图灵奖。
-  这个奖项来得不算早。过去三十年，萨顿的理论支撑了AlphaGo、ChatGPT等系统的进化，但他三十年前写下的理论，直到今天才被具身智能行业真正理解：
-  智能体要从试错中学习，要从真实经验里进化。
-  2023年，萨顿参与创办非营利研究机构Openmind。2025年4月，萨顿在联合发表的文章《欢迎来到经验...
+- `少数派` [免费试读 | 零基础美术启蒙，该如何准备适合的美术器材](https://sspai.com/post/108334)
+> 按：本文是少数派共创栏目《写给家长的幼儿美术启蒙指南》的第三章，在栏目更新完成之际，免费开放给大家阅读，希望能给正在为挑选美术器材而犯难的你有所帮助。本栏目在专业的理论基础之上，结合作者多年育儿经验与 ...查看全文本文为付费栏目文章，出自《经验卷轴：写给家长的幼儿美术启蒙指南》，订阅后可阅读全文。
+- `少数派` [派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等](https://sspai.com/post/110368)
+> 英伟达宣布退役 GeForce 控制面板、《巫师 3：狂猎》将推出全新 DLC 等。查看全文
 - `少数派` [客制化键盘｜近期值得一看的套件与键帽：怪诞主题、复古创新与静电容](https://sspai.com/post/108618)
 > 客制化键盘新品信息速览。查看全文
 - `少数派` [屏忆：这款开源工具，把过目就忘的日常变成「上下文」](https://sspai.com/post/110115)
@@ -78,103 +87,99 @@
 > 献给和我们当初一样跃跃欲试的朋友们。查看全文
 - `少数派` [App+1 | 有太多香水不知道用哪个？我做了一款能帮你选香水的记录 App](https://sspai.com/post/109227)
 > Kaori 不仅是为了香水爱好者而设计，如果你有日常喷香水的习惯，不妨通过 Kaori 来记录你的日常和一闪而过与香水有关的想法。查看全文
-- `少数派` [派早报：OPPO 与荣耀发布多款新品，华为发表半导体领域新定律等](https://sspai.com/post/110171)
-> 少数派的近期动态少数派×飞傲多功能便携CD音箱一体机BEATBOX预售开启。火速入手可爱又好玩的经典萌物——监工水獭挂件复刻啦！给獭一个家首款MBTI定制墨水屏「口袋先知」预售进行中，一按知运势。立刻 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/110156)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [无障碍可感知，有爱亦无碍：藏在日常里的 Apple 辅助功能](https://sspai.com/post/110144)
-> 每年五月的第三个周四是全球无障碍宣传日(GlobalAccessibilityAwarenessDay,GAAD)，宣传日由美国开发者JoeDevon与无障碍专家JennisonAsuncion在20 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Declassified CIA Cartography Maps from the 1980s](https://brilliantmaps.com/cia-maps-1980s/)
-> Article URL: https://brilliantmaps.com/cia-maps-1980s/
-Comments URL: https://news.ycombinator.com/item?id=48294831
-Points: 7
+- `Hacker News` [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer)
+> Article URL: https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer
+Comments URL: https://news.ycombinator.com/item?id=48303599
+Points: 0
 # Comments: 0
-- `Hacker News` [The VibeSec Reckoning](https://martinfowler.com/articles/vibesec-reckoning.html)
-> Article URL: https://martinfowler.com/articles/vibesec-reckoning.html
-Comments URL: https://news.ycombinator.com/item?id=48294670
-Points: 4
+- `Hacker News` ["US has the troops in place to attack Cuba" per Politico](https://www.politico.com/news/2026/05/27/cuba-us-military-attack-00938740)
+> Article URL: https://www.politico.com/news/2026/05/27/cuba-us-military-attack-00938740
+Comments URL: https://news.ycombinator.com/item?id=48303594
+Points: 19
+# Comments: 11
+- `Hacker News` [Google employee charged with $1M Polymarket insider trading bet on search term](https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html)
+> Article URL: https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html
+Comments URL: https://news.ycombinator.com/item?id=48302822
+Points: 67
+# Comments: 32
+- `Hacker News` [Can we have the day off?](https://mlsu.io/posts/day-off/)
+> Article URL: https://mlsu.io/posts/day-off/
+Comments URL: https://news.ycombinator.com/item?id=48302745
+Points: 677
+# Comments: 394
+- `Hacker News` [FBI Arrests CIA Official with $40M in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)
+> Article URL: https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html
+Comments URL: https://news.ycombinator.com/item?id=48302151
+Points: 167
+# Comments: 90
+- `Hacker News` [Pelica (YC P25) Is Hiring](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer)
+> Article URL: https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer
+Comments URL: https://news.ycombinator.com/item?id=48301851
+Points: 0
 # Comments: 0
-- `Hacker News` [Italy region: +200% tax on datacenters built in green/agricultural areas](https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID)
-> Article URL: https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID
-Comments URL: https://n...
-- `Hacker News` [Incident with Pull Requests, Issues, Git Operations and API Requests](https://www.githubstatus.com/incidents/xy1tt3hs572m)
-> Article URL: https://www.githubstatus.com/incidents/xy1tt3hs572m
-Comments URL: https://news.ycombinator.com/item?id=48293080
-Points: 135
-# Comments: 113
-- `Hacker News` [XLIDE: VBA without excel](https://github.com/WilliamSmithEdward/xlide_vscode)
-> Article URL: https://github.com/WilliamSmithEdward/xlide_vscode
-Comments URL: https://news.ycombinator.com/item?id=48293014
-Points: 29
-# Comments: 5
-- `Hacker News` [Private Equity Bought America's Essential Services](https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/)
-> Article URL: https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/
-Comments URL: https://news.ycombinator.com/item?id=48292941
-Points: 204
-# Comments: 220
-- `Hacker News` [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
-> Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/
-Comments URL: https://news.ycombinator.com/item?id=48292224
-Points: 924
-# Comments: 513
-- `Hacker News` [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
-> Article URL: https://miniscript.org/MiniMicro/index.html#about
-Comments URL: https://news.ycombinator.com/item?id=48291947
-Points: 127
-# Comments: 55
-- `Hacker News` [Go: Support for Generic Methods](https://github.com/golang/go/issues/77273)
-> Article URL: https://github.com/golang/go/issues/77273
-Comments URL: https://news.ycombinator.com/item?id=48291575
-Points: 71
-# Comments: 48
-- `Hacker News` [All of human cooking compressed into 2 megabytes](https://arxiv.org/abs/2605.22391)
-> Article URL: https://arxiv.org/abs/2605.22391
-Comments URL: https://news.ycombinator.com/item?id=48291225
-Points: 151
-# Comments: 60
-- `TechCrunch` [Startup Battlefield 200 applications close today: Nominate a founder or submit your startup](https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/)
-> Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free fund...
-- `TechCrunch` [ElevenLabs’s new music generation model can switch genres mid-track](https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/)
-> ElevenLabs' new model will let users regenerate a section of a song without affecting rest of the track
-- `TechCrunch` [Spotify now lets you ‘clip’ moments from your favorite podcast](https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/)
-> With the new scissors icon, you can clip favorite moments from podcasts and share them with your audience.
-- `TechCrunch` [SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M](https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/)
-> SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.
-- `TechCrunch` [TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days](https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/)
-> There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If yo...
-- `TechCrunch` [China is increasingly keeping its best AI talent to itself](https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/)
-> China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.
-- `TechCrunch` [ClickHouse triples anualized revenue to $250M, charting a path toward an IPO](https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/)
-> The database provider is eyeing a public debut within the next few years.
-- `TechCrunch` [YouTube will now automatically label AI videos](https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/)
-> YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels mor...
-- `TechCrunch` [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
-> "CEOs are uniquely prone to AI psychosis," Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.
-- `TechCrunch` [Robinhood now lets your AI agents trade stocks](https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/)
-> Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade
-- `The Verge` [Sony’s DualSense controllers are almost 30 percent off](https://www.theverge.com/gadgets/938029/sony-dualsense-wireless-edge-controller-ps5-pc-deal-sale)
-> Sony has a tradition of marking down its PlayStation 5 hardware a couple of times a year, and one of those opportunities to save is here through June 10th. Its latest Days of Play sale is happening...
-- `The Verge` [Robinhood will let your AI agent trade stocks and make (or lose) lots of money](https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading)
-> Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money,...
-- `The Verge` [This smart bird feeder captures more of my backyard drama](https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review)
-> Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to m...
-- `The Verge` [This Ferrari should have been a Volkswagen](https://www.theverge.com/transportation/938016/this-ferrari-should-have-been-a-volkswagen)
-> It may be the NBA playoffs but right now Ferrari is getting dunked on more than anyone. Whether they own a Ferrari or just have a poster of a Testarossa on their wall, fans in the Ferrari-verse are...
-- `The Verge` [007 First Light is like a James Bond movie in the best way possible](https://www.theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox)
-> The James Bond franchise is nothing if not a spectacle: Aside from the explosions and gun fights, even its calmer moments are dripping in the pomp and glamour of elite ostentation and luxury locale...
-- `The Verge` [Win cool gadgets we can’t keep because The Verge has ethics](https://www.theverge.com/gadgets/936771/today-im-toying-with-giveaway-free-gadgets)
-> When people learn I work for The Verge, they inevitably ask: “Do you get to keep the gadgets?” Now that I film Today I’m Toying With, a video series where I share the joy of tech, I get that questi...
-- `The Verge` [The best part of Mina the Hollower is how it randomizes the Zelda formula](https://www.theverge.com/games/937480/mina-the-hollower-remix-modifiers-randomizer-interview)
-> After rolling credits on Mina the Hollower, I did something unusual for me and immediately started a new file. I'm not typically one to replay games right after I beat them. But Mina, a new action-...
-- `The Verge` [YouTube is putting AI labels where you’ll actually see them](https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates)
-> In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on ...
-- `The Verge` [The Witcher 3 is getting another expansion, more than a decade after launch](https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion)
-> The fourth Witcher game may be a ways off, but fans won't be without Geralt of Rivia for long. CD Projekt Red just announced Songs of the Past, the third expansion for The Witcher 3, which will be ...
-- `The Verge` [Xreal’s budget AR glasses feature anti-shake tech and swappable frames](https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability)
-> Augmented reality wearables provider Xreal has launched a new "X By Xreal" (XBX) subbrand, with its first customizable, lightweight smart glasses coming to the US in July. The new a01 AR glasses wi...
+- `Hacker News` [Warm up your MacBook (2019)](https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/)
+> Article URL: https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/
+Comments URL: https://news.ycombinator.com/item?id=48300342
+Points: 47
+# Comments: 47
+- `Hacker News` [Show HN: Open-Source AI Racing Harness](https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness)
+> Hi I'm Dan from Elodin, making an open source real-time capable flight software simulation.For AI Grand Prix contestants, the wait for the Round 1 virtual qualifier simulation has been grueling.If ...
+- `Hacker News` [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+> https://variety.com/2026/digital/news/youtube-ai-video-label...
+
+Comments URL: https://news.ycombinator.com/item?id=48299753
+Points: 602
+# Comments: 363
+- `Hacker News` [I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)](https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/)
+> Article URL: https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/
+Comments URL: https://news.ycombinator.com/item?id=48299638
+Points: 105
+# Comments: 37
+- `TechCrunch` [Google engineer charged with insider trading after making $1.2M on Polymarket](https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/)
+> According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.
+- `TechCrunch` [Why Google’s AI can’t spell Google (or anything else)](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/)
+> Google is embarrassing itself, again.
+- `TechCrunch` [Rivian will deliver the first R2 SUVs on June 9](https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/)
+> The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is "maybe the most important thing we’ve launched to date."
+- `TechCrunch` [Triomics nabs $22M to bring oncology-specific AI to cancer centers](https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/)
+> The Series B round was led by Battery Ventures.
+- `TechCrunch` [In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips](https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/)
+> Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.
+- `TechCrunch` [Payroll startup Remote says it grew revenue 50% per employee without adding headcount](https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/)
+> Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI a...
+- `TechCrunch` [UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers o...](https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/)
+> The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the ...
+- `TechCrunch` [Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
+> Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscrip...
+- `TechCrunch` [With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup](https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/)
+> Thea Energy's pixel-inspired magnets could give its power plant plans a boost. The fusion startup hopes to get a commercial reactor working by 2034.
+- `TechCrunch` [CrowdStrike and Google take down botnet used by hackers to target open source software developers](https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/)
+> Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.
+- `The Verge` [A Google employee allegedly used inside information to win $1.2 million on Polymarket](https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets)
+> Federal prosecutors charged a Google employee with fraud after he allegedly made $1.2 million on Polymarket bets related to Search-related trends in 2025, as reported earlier by ABC News. In their ...
+- `The Verge` [Apple’s newest iPad Air is up to $100 off for the first time](https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale)
+> If you want an iPad that’s more powerful than the entry-level model but less expensive than the iPad Pro, the latest iPad Air is the one to buy, and it’s down to one its best prices to date. The 11...
+- `The Verge` [All the news about Ferrari’s polarizing Luce EV](https://www.theverge.com/transportation/938513/ferrari-luce-ev)
+> Ferrari fans don’t like the design of the new Luce EV, an electric four-door sedan that just doesn’t look like the Ferraris of old. It was designed with help from Jony Ive’s LoveFrom, but what work...
+- `The Verge` [The new Halide camera app launches with film looks and an upgraded photo editor](https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available)
+> After first being announced in December 2024, Lux Optics has finally released the latest version of its Halide camera app for the iPhone and iPad. The Halide Mark III app's most compelling feature ...
+- `The Verge` [Facebook launches a ‘Plus’ subscription that gives you extra features](https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions)
+> After announcing tests of premium subscriptions for Facebook, Instagram, WhatsApp earlier this year, TechCrunch and Bloomberg report that Meta is launching a global rollout over the next few weeks ...
+- `The Verge` [Roids were all the rage at the Enhanced Games](https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports)
+> In Las Vegas, the blazing sun beats down on a makeshift Olympic-length pool. Cody Miller stands on the starting block of lane one. His arms are raised in victory. MC Hammer's "U Can't Touch This" t...
+- `The Verge` [Valve raises Steam Deck prices by more than $200](https://www.theverge.com/games/938340/valve-steam-deck-price-increase)
+> Valve has significantly increased the price of the Steam Deck - but now, it's also in stock. The 512GB Steam Deck OLED now costs $789, up from $549, while the 1TB model costs $949, up from $649. As...
+- `The Verge` [The Verge’s 2026 college graduation gift guide](https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas)
+> Graduating from college is exciting, but it can also feel slightly terrifying. Along with celebrating a huge accomplishment, many grads jump right into looking for a job. Some might be getting thei...
+- `The Verge` [You can print, slice, and engrave using this desktop crafting machine](https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter)
+> xTool has announced a new multi-purpose crafting machine that could potentially be one of the most affordable ways to start an Etsy shop. Its modular design facilitates a CMYK print head that works...
+- `The Verge` [Motorola says affiliate hijacking of Amazon app was ‘unintended’](https://www.theverge.com/tech/938249/motorola-device-native-amazon-affiliate-hijack)
+> Motorola says that recently discovered behavior, which saw some of its phones sending users to an affiliate tracking website before opening the Amazon app, was "unintended" and has been "promptly c...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
