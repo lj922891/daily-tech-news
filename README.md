@@ -6,10 +6,27 @@
 
 # 📰 每日科技日报 — 2026-05-29
 
-> 自动收集于 2026-05-29 04:13 | 共 50 条
+> 自动收集于 2026-05-29 14:32 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投](https://36kr.com/p/3830254963517318?f=rss)
+> 36氪获悉，北京穿越者载人航天科技有限公司（以下简称“穿越者”）近日完成Pre-A轮亿元融资，由某头部互联网战投领投，探路者集团等跟投，老股东中天汇富、彬复资本持续加注。光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻关。
+  公司方面表示，引入互联网、人工智能、智能制造、户外装备及文旅场景等领域的产业资本，源于商业...
+- `36氪` [氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元](https://36kr.com/p/3830194503526277?f=rss)
+> 大公司：
+  上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付
+  36氪获悉，5月28日，上汽集团迎来全球第一亿辆整车交付，成为我国首家累计产销量突破一亿辆的汽车集团。其中，上汽通用五菱累计贡献超3200万辆。当日，上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付。
+  特斯拉Optimus专属机器人工厂动工，规划年产能最高可达1000万台
+  据报道，特斯拉位于得克萨斯州...
+- `36氪` [科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向](https://36kr.com/p/3830038913558147?f=rss)
+> 2026 年 5 月 25 日，OPPO 举办 “Reno Land 奇幻夜”新品发布会，重磅发布多款新品，全新一代 OPPO Reno16 系列潮流手机、OPPO Pad 6 全能平板、 OPPO Pad Air5 学习平板、OPPO Enco Air5s 真无线降噪耳机、OPPO Bubble潮玩自拍屏同步登场。本次发布会围绕年轻用户学习、创作、社交、直播、游戏全场景需求，以潮流美学、实...
+- `36氪` [铃木敏文去世，他与711的三个反常识故事](https://36kr.com/p/3829890126046851?f=rss)
+> 铃木敏文
+  作者 | 钟艺璇编辑 | 乔芊
+  5月25日，柒和伊控股发布讣告，日本7-Eleven创始人铃木敏文已于日前去世，享年93岁。
+  作为全球规模最大的连锁便利店品牌，7-Eleven与铃木敏文之间是一个续写与重生的故事，但他们的相遇却始于一次偶然。
+  1970年初，时任伊藤洋华堂高管的铃木敏文，远赴美国培训，在前往加利福尼亚的途中，他...
 - `36氪` [谁是世界上第二爱泡泡玛特的人？](https://36kr.com/p/3829746420835715?f=rss)
 > 作者 | 谢芸子
   编辑 | 张帆 
@@ -49,31 +66,19 @@
   
   TOP 3大新闻
   Anthropic新一轮融资后估值达9650亿美元，超越Ope...
-- `36氪` [快手基本面韧性凸显，可灵AI成第二增长曲线](https://36kr.com/p/3828915666441090?f=rss)
-> 封面来源 |  官方供图
-  5月27日，快手（证券代码：1024.HK）公布了2026年一季度财报。
-  财报显示，快手在2026年一季度实现营业收入337亿元，同比增长3.4%，符合市场预期；利润方面，同期实现经营利润36亿元，同比减少15.6%；同期经调整净利润录得34亿元，对应的经调整净利率为10%。
-  运营层面，2026年一季度，快手的用户增长表现不俗，尤其是...
-- `36氪` [科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵](https://36kr.com/p/3828898785858185?f=rss)
-> 5月28日，雷神在北京举办以《聚势共生 智算同行》为主题的AI工作站新品发布会，正式推出覆盖塔式、迷你PC和移动三大类别的AI工作站全场景产品矩阵。这是业内首批完成三大形态全覆盖的AI工作站产品发布，以行业领先的品类矩阵和旗舰级算力水准，重新定义了AI工作站的性能基准。
-  
-  官方图片
-  AI 正式迈入智能体时代，行业从文本预测转向自主逻辑思考，未来 AI 算力需求将迎来百倍增长，普及...
-- `36氪` [氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭](https://36kr.com/p/3828874222555782?f=rss)
-> 大公司：
-  格林生物创业板IPO过会
-  36氪获悉，深交所上市审核委员会召开2026年第27次上市审核委员会审议会议，审议结果显示，格林生物科技股份有限公司首发符合发行条件、上市条件和信息披露要求。
-  晨光股份：拟以5亿元至10亿元回购股份用于股权激励或员工持股计划
-  36氪获悉，晨光股份公告，公司拟以自有资金通过集中竞价方式回购股份，回购资金总额不低于5亿元（含），不超过10亿元（...
-- `36氪` [科氪 | 一天连签10所高校！京东养车构建产教融合型技师培育体系破解人才缺口难](https://36kr.com/p/3828856781099910?f=rss)
-> 5月28日，2026京东养车合作伙伴大会在北京举行，全国各地超2000名加盟商合作伙伴及产业链合作伙伴齐聚一堂，围绕提升用户体验、增强用户信任、以创新驱动门店更高盈利空间等核心议题深入交流。京东养车宣布2025年年底其门店数量已突破4000家，且门店盈利能力保持稳健增长。京东养车也公布了最新招商政策，推出“3年加盟费低至0元、管理费至高减免12月”等扶持举措。活动现场，京东养车还与10所高校...
+- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110446)
+> 📅本周新预告《玩具总动员5》终极预告5月26日，皮克斯动画电影《玩具总动员5》发布了终极预告，将于6月19日内地上映。安德鲁·斯坦顿、麦肯纳·哈里斯执导，胡迪、巴斯光年、翠丝等老朋友们回归，无所不能的 ...查看全文
+- `少数派` [住久了没意思（三）：打造能好好放松的卧室](https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom)
+> 前文回顾：租房常见问题与我的改造原则从有光的地方开始动手对大部分人来说，卧室可能是在家里待得最长时间的区域。除了每天睡觉，周末可能也会花很多时间赖在卧室；如果家里比较小，卧室还可能承担休闲和娱乐的功能 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [Await：五分钟，把点子变成 iPhone 小组件](https://sspai.com/post/110106)
+> 我希望 Await 最后留下的，是一种更轻的创作入口：不必很大，但足够好看和好玩，也足够贴近自己每天使用手机的方式。查看全文
 - `少数派` [什么才是「好」的 Android 音频输出？从一台旧日 Xperia 说起](https://sspai.com/post/110120)
 > Android 早已具备高质量音频输出的能力，但一段声音从在抵达耳机之前，往往还要经过系统层层处理。下面我们一起探究 Android 高保真输出背后的秘密。查看全文
 - `少数派` [派早报：Sony 发布 Bravia 2026 款电视产品等](https://sspai.com/post/110425)
 > Anthropic 发布旗舰模型 Claude Opus 4.8，Intel 发布锐炫 G 系列处理器等。查看全文
 - `少数派` [从原理到实践：年轻人的第一篇染发及洗护指南](https://sspai.com/prime/story/hair-dye-tutorial)
 > 我不用染发来对抗岁月，但我用它来对抗焦虑。[......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
-- `少数派` [从零手搓 AI Agent，我学到了什么？](https://sspai.com/post/110370)
+- `少数派` [AI Agent 干中学，「造轮子」让我学会了什么？](https://sspai.com/post/110370)
 > AI 知识「干中学」——用两天时间梳理完 AI 发展脉络，理解 Agent 能力边界。查看全文
 - `少数派` [免费试读 | 零基础美术启蒙，该如何准备适合的美术器材](https://sspai.com/post/108334)
 > 按：本文是少数派共创栏目《写给家长的幼儿美术启蒙指南》的第三章，在栏目更新完成之际，免费开放给大家阅读，希望能给正在为挑选美术器材而犯难的你有所帮助。本栏目在专业的理论基础之上，结合作者多年育儿经验与 ...查看全文本文为付费栏目文章，出自《经验卷轴：写给家长的幼儿美术启蒙指南》，订阅后可阅读全文。
@@ -81,65 +86,67 @@
 > 英伟达宣布退役 GeForce 控制面板、《巫师 3：狂猎》将推出全新 DLC 等。查看全文
 - `少数派` [客制化键盘｜近期值得一看的套件与键帽：怪诞主题、复古创新与静电容](https://sspai.com/post/108618)
 > 客制化键盘新品信息速览。查看全文
-- `少数派` [屏忆：这款开源工具，把过目就忘的日常变成「上下文」](https://sspai.com/post/110115)
-> 我们总在训练更聪明的 AI，却很少为未来的自己留下足够真实的生活切片。查看全文
-- `少数派` [为什么没人会喜欢你用 LLM 写出来的东西？](https://sspai.com/post/110102)
-> LLM 的后训练、对齐、蒸馏，不仅让模型输出变得更可控，但没人喜欢这样的东西。查看全文
-- `少数派` [社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树](https://sspai.com/post/110184)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
-> Article URL: https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/
-Comments URL: https://news.ycombinator.com/item?id=48318678
-Points: 15
-# Co...
-- `Hacker News` [Cars are trying to spy on you, and it's only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
-> Article URL: https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse
-Comments URL: https://news.ycombinator.com/item?id=48318481
-Points: 73
-# Comments: 30
-- `Hacker News` [Blue Origin's New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821)
-> Article URL: https://twitter.com/nasaspaceflight/status/2060164928472854821
-Comments URL: https://news.ycombinator.com/item?id=48317774
-Points: 136
-# Comments: 71
-- `Hacker News` [Where are the economies of scale in homebuilding?](https://www.construction-physics.com/p/where-are-the-economies-of-scale)
-> Article URL: https://www.construction-physics.com/p/where-are-the-economies-of-scale
-Comments URL: https://news.ycombinator.com/item?id=48317339
-Points: 59
-# Comments: 67
-- `Hacker News` [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/)
-> Article URL: https://minimaxir.com/2026/05/openrouter-hy3/
-Comments URL: https://news.ycombinator.com/item?id=48317294
+- `Hacker News` [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai)
+> Article URL: https://shawnsmucker.substack.com/p/please-use-ai
+Comments URL: https://news.ycombinator.com/item?id=48323101
 Points: 21
-# Comments: 6
-- `Hacker News` [SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims](https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/)
-> Article URL: https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/
-Comments URL: https://news.ycombinator.com/item?id=48317093
-Points: 127
-# Comments...
-- `Hacker News` [Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
-> Article URL: https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895
-Comments URL: https://news.ycombinator.com/item?id=48317043
-Points: 38
-# Comments: 16
-- `Hacker News` [The Silent Critic](https://www.tft.io/the-silent-critic/)
-> Article URL: https://www.tft.io/the-silent-critic/
-Comments URL: https://news.ycombinator.com/item?id=48316958
-Points: 12
-# Comments: 7
-- `Hacker News` [Why Gentoo?](https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/)
-> Article URL: https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/
-Comments URL: https://news.ycombinator.com/item?id=48315980
-Points: 33
-# Comments: 27
-- `Hacker News` [GitHub bans security researcher who posted zero-day Windows exploits](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
-> Article URL: https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claim...
+# Comments: 1
+- `Hacker News` [Show HN: AISlop, a CLI for catching AI generated code smells](https://github.com/scanaislop/aislop)
+> Hi, I’m Kenny, I’ve been building aislop. I starting working on this after using Claude Code, codex and opencode several times and noticing some slops. They aren’t syntax and passes most tests, the...
+- `Hacker News` [Local Git Remotes](https://cblgh.org/posts/local-git-remotes/)
+> Article URL: https://cblgh.org/posts/local-git-remotes/
+Comments URL: https://news.ycombinator.com/item?id=48322389
+Points: 23
+# Comments: 17
+- `Hacker News` [High Density Living, 2000 Years Ago: Inside the Roman Apartment Building](https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/)
+> Article URL: https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/
+Comments URL: https://news.ycombinator.com/item?id=48322241
+Points: 22
+# Comments: 5
+- `Hacker News` [The UK Government's Low Value Purchase System Is a Waste of Time](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/)
+> Article URL: https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/
+Comments URL: https://news.ycombinator.com/item?id=48322154
+Points: 73
+# Comments: 39
+- `Hacker News` [We should be more tired than the model](https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/)
+> Article URL: https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/
+Comments URL: https://news.ycombinator.com/item?id=48322118
+Points: 64
+# Comments: 65
+- `Hacker News` [Cedana (YC S23) Is Hiring](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc)
+> Article URL: https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc
+Comments URL: https://news.ycombinator.com/item?id=48322030
+Points: 0
+# Comments: 0
+- `Hacker News` [Tulip mania: when a single flower was worth more than a house](https://dutchreview.com/culture/tulip-mania-netherlands/)
+> Article URL: https://dutchreview.com/culture/tulip-mania-netherlands/
+Comments URL: https://news.ycombinator.com/item?id=48321956
+Points: 66
+# Comments: 58
+- `Hacker News` [Is AI causing a repeat of Front end's Lost Decade?](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
+> Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/
+Comments URL: https://news.ycombinator.com/item?id=48321631
+Points: 133
+# Comments: 137
+- `Hacker News` [Digital Identity Management in Norway Is a Catastrophe](https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html)
+> Article URL: https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html
+Comments URL: https://news.ycombinator.com/item?id=48321421
+Points: 49
+# Com...
+- `TechCrunch` [Today is the last day to apply to speak at TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/)
+> Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.
+- `TechCrunch` [Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/)
+> You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most ...
+- `TechCrunch` [Kiwibit’s AI-powered bird feeder is my new backyard buddy](https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/)
+> If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.
+- `TechCrunch` [This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s me...](https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/)
+> South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.
 - `TechCrunch` [Blue Origin’s New Glenn rocket explodes during testing in Florida](https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/)
 > The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.
-- `TechCrunch` [Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point](https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/)
+- `TechCrunch` [Glean’s top line crosses $300M as AI budget cutting becomes its major selling point](https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/)
 > The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.
 - `TechCrunch` [Waymo dominates autonomous vehicle registrations as Tesla trails behind](https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/)
 > A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.
@@ -149,34 +156,26 @@ Points: 33
 > As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.
 - `TechCrunch` [Slate Auto will announce pricing and take preorders for its EV on June 24](https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/)
 > The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.
-- `TechCrunch` [Asana acquires no-code agent-builder StackAI](https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/)
-> Asana will incorporate StackAI into its growing suite of AI workflow tools.
-- `TechCrunch` [Bluesky embraces long-form content to counter X Articles](https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/)
-> In its latest update, Bluesky is getting into long-form content.
-- `TechCrunch` [Hackers are trying to steal Signal users’ backups in new wave of phishing attacks](https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/)
-> A new hacking campaign is trying to trick Signal users to give up their secret recovery key, which can be used to access online backups containing past messages.
-- `TechCrunch` [Anthropic raises $65 billion, nears $1T valuation ahead of IPO](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/)
-> Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.
-- `The Verge` [Nintendo’s newest WarioWare is a weirdo smartphone app](https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game)
-> A decade ago, Nintendo made a big splash into the world of mobile gaming with a new Super Mario platformer directed by none other than Shigeru Miyamoto. But even though the game proved popular, it ...
-- `The Verge` [Microsoft 365 Copilot gets a speed boost and cleaner design](https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign)
-> Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable...
-- `The Verge` [Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle](https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale)
-> If you like to read by the pool or at the beach, the 2021 Kindle Paperwhite remains one of the best e-readers available despite its age. That’s because, unlike Amazon’s latest entry-level Kindle, t...
-- `The Verge` [Motorola’s last-gen Razr Ultra is almost half off](https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale)
-> Motorola’s latest Razr Ultra proves that its flip foldable format has evolved to become more than just a nostalgic gimmick. I’d understand if you’re not interested in shelling out $1,499.99 for the...
-- `The Verge` [The line between games and movies keeps getting blurrier](https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games)
-> The most memorable part of 007 First Light is something that's typically pretty boring: the tutorial. In many games, you're forced through a series of tedious lessons in how to play, presented in a...
-- `The Verge` [Claude’s new model is more ‘honest’ when it messes up](https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort)
-> Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's "honesty." According to Anthropic, it trains "all [its] models to be honest - for instance, to avoid makin...
-- `The Verge` [Here’s where you can preorder the new Oura Ring 5](https://www.theverge.com/gadgets/938380/oura-ring-5-preorder-price-release-date-availability)
-> If you’ve been waiting for a smaller version of the Oura Ring, the company’s latest wearable is now available for preorder ahead of its June 4th release from Oura and various third-party retailers,...
-- `The Verge` [A $2,000 AI-generated film will make its debut at Tribeca](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca)
-> Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of prote...
-- `The Verge` [Call of Duty: Warzone is dropping PS4 and Xbox One support later this year](https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support)
-> Activision is planning to drop support for PS4 and Xbox One consoles in Call of Duty: Warzone later this year. Players will need to upgrade to a PS5 or Xbox Series S / X console to continue playing...
-- `The Verge` [YouTube takes baby steps to being a real podcast app](https://www.theverge.com/streaming/939051/youtube-premium-podcast-features)
-> New features coming to YouTube could make it better for listening to podcasts, rolling out to Premium subscribers starting today on Android and coming later to iOS. A new "on-the-go mode" shifts Yo...
+- `The Verge` [How Ferrari bungled the design of its first EV](https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple)
+> For nearly 80 years, Ferrari occupied a unique cultural space where its cars were aspirational, even for people who resented those who could afford them. The price, the exclusivity, and the opacity...
+- `The Verge` [What would you be willing to put in your body?](https://www.theverge.com/column/939462/enhanced-games-biohacking-fda-health-wellness)
+> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
+- `The Verge` [Backrooms is at the forefront of horror’s YouTube wave](https://www.theverge.com/entertainment/938437/backrooms-youtube-kane-parsons-a12)
+> Though YouTube has always been a place where up-and-coming artists could be discovered and make it big, in recent years the platform has become a launching pad for some of Hollywood's most exciting...
+- `The Verge` [Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM](https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs)
+> Acer is aiming to take on the MacBook Neo more directly with a new Swift Air 14, a new 14-inch laptop that starts at $699. The laptop will use Intel's lower-cost Core Series 3 "Wildcat Lake" chips ...
+- `The Verge` [Trump Mobile’s website still says the T1 Phone is ‘American-made’](https://www.theverge.com/tech/939108/trump-mobile-t1-phone-website-american-made)
+> Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. As the phone's supposed launch continues, we notic...
+- `The Verge` [Jony Ive’s funky Ferrari](https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast)
+> Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting,...
+- `The Verge` [Hundreds of prolific Wikipedia editors are threatening to go on strike](https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike)
+> Wikipedia is one of the last bastions of trust on the internet. But last week, volunteer editors and contributors were alarmed to hear that a small but important team of engineers at the nonprofit ...
+- `The Verge` [This AI startup will clean your home for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
+> AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust...
+- `The Verge` [This is MSI’s new Claw 8 EX AI Plus gaming handheld](https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026)
+> MSI has unveiled a new Claw 8 handheld gaming PC ahead of the Computex 2026 show, and this model swaps out its predecessors' Intel Lunar Lake mobile chip for a specialized handheld processor. MSI d...
+- `The Verge` [Adobe’s conversational AI agent is a mediocre design intern](https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern)
+> AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
