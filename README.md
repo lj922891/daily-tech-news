@@ -4,12 +4,42 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-29
+# 📰 每日科技日报 — 2026-05-30
 
-> 自动收集于 2026-05-29 14:32 | 共 50 条
+> 自动收集于 2026-05-30 03:58 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资](https://36kr.com/p/3831135917107075?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，乘物机器人（深圳）有限公司（以下简称“乘物机器人”）近日完成天使轮融资，由中国台湾工业自动化与智能机器人解决方案领域龙头企业和椿科技战略投资，华君资本担任独家财务顾问。
+  乘物机器人成立于2025年，总部位于深圳，专注工业具身智能技术研发与产品解决方案，具备从软硬件研发、数据采集、模型训练、场景部...
+- `36氪` [9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”](https://36kr.com/p/3831073348855433?f=rss)
+> 今日热点导览
+  
+   黄仁勋披露“赶飞机”细节，特朗普要出发时来电话
+   国内航线燃油附加费6月5日起首次下调
+   铁路将实施新规：违规乘车拒不补票将被限制购票
+   iPhone 17系列中国销量破3000万台，Pro Max版占近一半
+   SpaceX据悉将IPO估值目标下调至至少1.8万亿美元
+  
+  TOP3大新闻
+  泡泡玛特上涨，段永平单日盈利近10亿港币
+  泡泡玛...
+- `36氪` [最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策](https://36kr.com/p/3831071878358659?f=rss)
+> “太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。”
+  5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提出了这一判断。
+  
+  西安光机所副所长邵晓鹏在沙龙上演讲
+  “好望角科学沙龙”是由中科创星发起，中科创星、东壁科技数据、上海市研发公共服务平台管理中...
+- `36氪` [千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家](https://36kr.com/p/3830580716365449?f=rss)
+> 为助力千里科技成为“第二个华为”，吉利决定为它增添新的技术筹码。
+  36氪从多位产业人士处了解到，吉利中央研究院数百人的辅助驾驶团队，将在近期被整合入千里科技。目前，吉利研究院辅助驾驶团队，已有人收到了转移合同的通知。
+  有接近吉利的知情人士告诉36氪：“这轮整合后，吉利研究院辅助驾驶团队，被平移至千里智驾与极氪的合资公司千里浩瀚，千里浩瀚今后主要负责为吉利的车型提供定制化开发和量产交付...
+- `36氪` [连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线](https://36kr.com/p/3830545234552452?f=rss)
+> 在中国美妆行业增长放缓、价格竞争加剧的背景下，越来越多品牌开始重新审视“可持续发展”这件事的商业意义。
+  5月26日，自然堂集团发布《2025年度可持续发展报告》，这是其连续第15年披露ESG相关内容。相比早期以公益、环保为主的企业社会责任叙事，今年的报告更强调“可量化”与“产业化”：包括首次按照科学碳目标倡议（SBTi）标准制定减碳路径、扩大范围三碳排放披露边界，以及将生物多样性、绿色原...
 - `36氪` [36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投](https://36kr.com/p/3830254963517318?f=rss)
 > 36氪获悉，北京穿越者载人航天科技有限公司（以下简称“穿越者”）近日完成Pre-A轮亿元融资，由某头部互联网战投领投，探路者集团等跟投，老股东中天汇富、彬复资本持续加注。光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻关。
   公司方面表示，引入互联网、人工智能、智能制造、户外装备及文旅场景等领域的产业资本，源于商业...
@@ -33,39 +63,6 @@
   一纸权益披露文件，让市场看到段永平对泡泡玛特的热爱绝不止是“口嗨”。
   5月27日晚间，段永平与其全资控股的H&H International，同步增持了泡泡玛特的股份，一致行动人持股比例达5.69%，对应约7637.16万股，一跃成为仅次于创始人王宁的第二大股东。
   知名投资人的每一次站台，总是能或多或少地提升市场...
-- `36氪` [再花22亿乘胜追击，北京城建“龍樾”要抢跑了](https://36kr.com/p/3829749268981123?f=rss)
-> 5月28日，北京石景山区黄庄村43号棚户区改造项目SS00-1622-002、SS00-2501-002地块进入现场竞拍，最终该地块由北京城建兴通置业有限公司以底价22亿元摘得，成交楼面价约3.31万元/㎡。
-  北京城建兴通置业有限公司是北京城建的全资子公司。这是去年第四季度以来，北京城建第三次独立拿地补仓。
-  
-  图源：天眼查
-  在拿下石景山黄庄村地块的同一时间，北京城建公布了这个...
-- `36氪` [36氪首发 | 李泽湘系投过的星空摄影设备品牌再获数百万美金融资，产品即将登陆众筹](https://36kr.com/p/3829705374098823?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，星空原野（重庆）科技有限公司（以下简称“星空原野”）近日完成新一轮融资，由线性资本独家投资数百万美金，安可资本担任公司独家财务顾问。此前公司曾获明月湖国际智能产业科创基地（XbotPark 重庆）孵化基金，及重庆市种子投资基金投资。
-  星空原野成立于2024年，是一家聚焦星空摄影设备和智能影像解决...
-- `36氪` [「卡玺CardChic」  获天使轮融资，以中国文化IP＋精品化打造收藏卡品牌 | 36氪首发](https://36kr.com/p/3829202710045827?f=rss)
-> 文 | 小葵
-  编辑 | 刘士武
-  36氪获悉，专注于中国文化IP的精品卡牌发行品牌「卡玺CardChic」近日已完成近千万级人民币天使轮融资。本轮资金将用于重磅IP的签约储备、产品工艺升级以及新一代TCG对战卡牌的研发与推广。 
-  卡玺CardChic创办于2025年，总部位于杭州。核心团队中，创始人李昌林毕业于新加坡南洋理工大学，高中起连续创业，研究生期间创办广告公司并实...
-- `36氪` [半年访谈600+用户、获千万元融资，这名清华毕业生想把脑机“戴”进运动场｜早期项目](https://36kr.com/p/3827323136004992?f=rss)
-> 文｜胡香赟
-  编辑｜海若镜
-  “运动场景中的脑状态监测，正在成为高水平训练和运动健康管理中的新需求。”创业两年，张昊天这样判断。
-  张昊天毕业于清华大学，研究生期间开始探索如何将脑机接口技术应用在C端场景。他坦言，自己最初也没想好具体的落地方向，研究过程中，团队陆续接触过一些运动类企业，发现“重视运动表现结果的场景，对大脑状态监测都存在一定需求”。
-  运动健康类可穿戴设备的需求其实早...
-- `36氪` [8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管学院顾问](https://36kr.com/p/3829622140593288?f=rss)
-> 今日热点导览
-  
-   盒马APP可下单租地种菜？客服：正在小范围试点
-   追觅回应“机构报价一天4980元，能与追觅核心高管面对面交流”
-   京东：未来5年培养10万名工程师
-   蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万元左右
-   加密币集体下跌，加密币24小时超16万人爆仓
-  
-  TOP 3大新闻
-  Anthropic新一轮融资后估值达9650亿美元，超越Ope...
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110446)
 > 📅本周新预告《玩具总动员5》终极预告5月26日，皮克斯动画电影《玩具总动员5》发布了终极预告，将于6月19日内地上映。安德鲁·斯坦顿、麦肯纳·哈里斯执导，胡迪、巴斯光年、翠丝等老朋友们回归，无所不能的 ...查看全文
 - `少数派` [住久了没意思（三）：打造能好好放松的卧室](https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom)
@@ -89,93 +86,92 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai)
-> Article URL: https://shawnsmucker.substack.com/p/please-use-ai
-Comments URL: https://news.ycombinator.com/item?id=48323101
-Points: 21
-# Comments: 1
-- `Hacker News` [Show HN: AISlop, a CLI for catching AI generated code smells](https://github.com/scanaislop/aislop)
-> Hi, I’m Kenny, I’ve been building aislop. I starting working on this after using Claude Code, codex and opencode several times and noticing some slops. They aren’t syntax and passes most tests, the...
-- `Hacker News` [Local Git Remotes](https://cblgh.org/posts/local-git-remotes/)
-> Article URL: https://cblgh.org/posts/local-git-remotes/
-Comments URL: https://news.ycombinator.com/item?id=48322389
-Points: 23
-# Comments: 17
-- `Hacker News` [High Density Living, 2000 Years Ago: Inside the Roman Apartment Building](https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/)
-> Article URL: https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/
-Comments URL: https://news.ycombinator.com/item?id=48322241
-Points: 22
-# Comments: 5
-- `Hacker News` [The UK Government's Low Value Purchase System Is a Waste of Time](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/)
-> Article URL: https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/
-Comments URL: https://news.ycombinator.com/item?id=48322154
-Points: 73
-# Comments: 39
-- `Hacker News` [We should be more tired than the model](https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/)
-> Article URL: https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/
-Comments URL: https://news.ycombinator.com/item?id=48322118
-Points: 64
-# Comments: 65
-- `Hacker News` [Cedana (YC S23) Is Hiring](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc)
-> Article URL: https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc
-Comments URL: https://news.ycombinator.com/item?id=48322030
-Points: 0
-# Comments: 0
-- `Hacker News` [Tulip mania: when a single flower was worth more than a house](https://dutchreview.com/culture/tulip-mania-netherlands/)
-> Article URL: https://dutchreview.com/culture/tulip-mania-netherlands/
-Comments URL: https://news.ycombinator.com/item?id=48321956
-Points: 66
-# Comments: 58
-- `Hacker News` [Is AI causing a repeat of Front end's Lost Decade?](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
-> Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/
-Comments URL: https://news.ycombinator.com/item?id=48321631
-Points: 133
-# Comments: 137
-- `Hacker News` [Digital Identity Management in Norway Is a Catastrophe](https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html)
-> Article URL: https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html
-Comments URL: https://news.ycombinator.com/item?id=48321421
-Points: 49
-# Com...
+- `Hacker News` [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
+> Article URL: https://www.perryts.com/
+Comments URL: https://news.ycombinator.com/item?id=48332151
+Points: 7
+# Comments: 7
+- `Hacker News` [Naphtha Shortages Having a Growing Impact in Japan](https://www.nippon.com/en/japan-data/h02783/)
+> Article URL: https://www.nippon.com/en/japan-data/h02783/
+Comments URL: https://news.ycombinator.com/item?id=48331786
+Points: 25
+# Comments: 8
+- `Hacker News` [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/)
+> Article URL: https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/
+Comments URL: https://news.ycombinator.com/item?id=4...
+- `Hacker News` [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
+> Article URL: https://blog.emberjs.com/ember-released-7-0/
+Comments URL: https://news.ycombinator.com/item?id=48330902
+Points: 30
+# Comments: 7
+- `Hacker News` [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
+> Article URL: https://daringfireball.net/2026/05/what_is_a_dickover
+Comments URL: https://news.ycombinator.com/item?id=48330882
+Points: 169
+# Comments: 78
+- `Hacker News` [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead)
+> Article URL: https://www.quandri.io/engineering-blog/mcp-is-dead
+Comments URL: https://news.ycombinator.com/item?id=48330436
+Points: 119
+# Comments: 100
+- `Hacker News` [Free full BGP feed. IPv4 and IPv6 (2020)](https://lukasz.bromirski.net/post/bgp-w-labie-3/)
+> Article URL: https://lukasz.bromirski.net/post/bgp-w-labie-3/
+Comments URL: https://news.ycombinator.com/item?id=48330088
+Points: 30
+# Comments: 12
+- `Hacker News` [The Last Technical Interview](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564)
+> Article URL: https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564
+Comments URL: https://news.ycombinator.com/item?id=48328405
+Points: 71
+# Comments: 38
+- `Hacker News` [The California state assembly has passed the 'Protect Our Games Act'](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill)
+> Article URL: https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill
+Comments URL: https://news.ycombinator.com/item?id...
+- `Hacker News` [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm)
+> Article URL: https://github.com/jmaczan/tiny-vllm
+Comments URL: https://news.ycombinator.com/item?id=48328184
+Points: 106
+# Comments: 10
+- `TechCrunch` [Founders seize on Indian court ruling to revive criticism of Google’s ad business](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/)
+> The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.
+- `TechCrunch` [I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with pep...](https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)
+> The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.
+- `TechCrunch` [SpaceX awarded $6.45B in Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/)
+> SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.
+- `TechCrunch` [Coders are refusing to work without AI — and that could come back to bite them](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/)
+> While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.
+- `TechCrunch` [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+> The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
+- `TechCrunch` [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/)
+> The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example o...
+- `TechCrunch` [After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/)
+> Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests,...
+- `TechCrunch` [Microsoft under fire for threatening security researcher with criminal investigation](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/)
+> A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.
+- `TechCrunch` [Cognition’s Scott Wu says AI coding agents shouldn’t replace humans](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/)
+> Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.
 - `TechCrunch` [Today is the last day to apply to speak at TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/)
 > Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.
-- `TechCrunch` [Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/)
-> You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most ...
-- `TechCrunch` [Kiwibit’s AI-powered bird feeder is my new backyard buddy](https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/)
-> If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.
-- `TechCrunch` [This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s me...](https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/)
-> South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.
-- `TechCrunch` [Blue Origin’s New Glenn rocket explodes during testing in Florida](https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/)
-> The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.
-- `TechCrunch` [Glean’s top line crosses $300M as AI budget cutting becomes its major selling point](https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/)
-> The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.
-- `TechCrunch` [Waymo dominates autonomous vehicle registrations as Tesla trails behind](https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/)
-> A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.
-- `TechCrunch` [How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline](https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/)
-> Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!
-- `TechCrunch` [The internet is being rebuilt for machines](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/)
-> As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.
-- `TechCrunch` [Slate Auto will announce pricing and take preorders for its EV on June 24](https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/)
-> The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.
-- `The Verge` [How Ferrari bungled the design of its first EV](https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple)
-> For nearly 80 years, Ferrari occupied a unique cultural space where its cars were aspirational, even for people who resented those who could afford them. The price, the exclusivity, and the opacity...
-- `The Verge` [What would you be willing to put in your body?](https://www.theverge.com/column/939462/enhanced-games-biohacking-fda-health-wellness)
-> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
-- `The Verge` [Backrooms is at the forefront of horror’s YouTube wave](https://www.theverge.com/entertainment/938437/backrooms-youtube-kane-parsons-a12)
-> Though YouTube has always been a place where up-and-coming artists could be discovered and make it big, in recent years the platform has become a launching pad for some of Hollywood's most exciting...
-- `The Verge` [Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM](https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs)
-> Acer is aiming to take on the MacBook Neo more directly with a new Swift Air 14, a new 14-inch laptop that starts at $699. The laptop will use Intel's lower-cost Core Series 3 "Wildcat Lake" chips ...
-- `The Verge` [Trump Mobile’s website still says the T1 Phone is ‘American-made’](https://www.theverge.com/tech/939108/trump-mobile-t1-phone-website-american-made)
-> Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. As the phone's supposed launch continues, we notic...
-- `The Verge` [Jony Ive’s funky Ferrari](https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast)
-> Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting,...
-- `The Verge` [Hundreds of prolific Wikipedia editors are threatening to go on strike](https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike)
-> Wikipedia is one of the last bastions of trust on the internet. But last week, volunteer editors and contributors were alarmed to hear that a small but important team of engineers at the nonprofit ...
-- `The Verge` [This AI startup will clean your home for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
-> AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust...
-- `The Verge` [This is MSI’s new Claw 8 EX AI Plus gaming handheld](https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026)
-> MSI has unveiled a new Claw 8 handheld gaming PC ahead of the Computex 2026 show, and this model swaps out its predecessors' Intel Lunar Lake mobile chip for a specialized handheld processor. MSI d...
-- `The Verge` [Adobe’s conversational AI agent is a mediocre design intern](https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern)
-> AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable...
+- `The Verge` [Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser)
+> It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announce...
+- `The Verge` [SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract)
+> The Pentagon awarded SpaceX a $4.16 billion contract to build missile-tracking satellites linked with President Donald Trump's planned "Golden Dome" defense system, as reported earlier by Bloomberg...
+- `The Verge` [Acer’s launching a Linux handheld for streaming your PC games](https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld)
+> The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a "streaming-first handheld and companion device," like a PlayStation Portal for your PC. Announced ahead of Com...
+- `The Verge` [Tech companies desperately want to film you doing chores](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data)
+> This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get...
+- `The Verge` [The Verge’s 2026 high school graduation gift guide](https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas)
+> High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue the...
+- `The Verge` [Microsoft delays Fable (again) to avoid GTA VI](https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi)
+> Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027. However, it will show a "new...
+- `The Verge` [Microsoft teases new Surface hardware and ‘a new era of PC’](https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors)
+> I pondered the other day what's next for Microsoft's Surface PC lineup, and it looks like we're about to find out. Windows and Surface chief Pavan Davuluri has just teased "something new is coming ...
+- `The Verge` [Trump’s mass deportations are only possible with racial profiling](https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations)
+> Border security czar Tom Homan keeps threatening to "flood" New York City with ICE agents. But a new investigation shows that ICE has been quietly ramping up arrests in the New York area already - ...
+- `The Verge` [At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal](https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale)
+> This week, the Steam Deck OLED with 512GB of storage went from $549 to $789, putting it even further out of reach for those who were considering getting one as they came back in stock after months ...
+- `The Verge` [You can buy two of Anker’s Qi2 wireless chargers for under $25](https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale)
+> If you’re looking for a fast iPhone or AirPods charger that’s easy to toss into your purse, backpack, or carry-on, Anker’s Zolo Magnetic Wireless Charger is a smart pick. It’s tiny and comes with a...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
