@@ -6,10 +6,13 @@
 
 # 📰 每日科技日报 — 2026-05-30
 
-> 自动收集于 2026-05-30 03:58 | 共 50 条
+> 自动收集于 2026-05-30 12:57 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线](https://36kr.com/p/3831348302358408?f=rss)
+> 5月29日，欧莱雅中国在复旦大学启动2026年度“有意思青年”高校公益计划，并首次以校园运动会形式开启新一年的项目活动。活动现场，乒乓球运动员马龙、篮球运动员杨力维、足球运动员赵丽娜等体育界人士与高校学生展开互动，欧莱雅同时宣布向中国青少年发展基金会捐赠总价值约468万元的产品，并启动新一年度校园义卖活动。
+  从表面来看，这是一场校园公益活动；但放在全球美妆行业的发展背景下，它更像是美妆品...
 - `36氪` [36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资](https://36kr.com/p/3831135917107075?f=rss)
 > 作者 | 乔钰杰
   编辑 | 袁斯来
@@ -57,12 +60,8 @@
   5月25日，柒和伊控股发布讣告，日本7-Eleven创始人铃木敏文已于日前去世，享年93岁。
   作为全球规模最大的连锁便利店品牌，7-Eleven与铃木敏文之间是一个续写与重生的故事，但他们的相遇却始于一次偶然。
   1970年初，时任伊藤洋华堂高管的铃木敏文，远赴美国培训，在前往加利福尼亚的途中，他...
-- `36氪` [谁是世界上第二爱泡泡玛特的人？](https://36kr.com/p/3829746420835715?f=rss)
-> 作者 | 谢芸子
-  编辑 | 张帆 
-  一纸权益披露文件，让市场看到段永平对泡泡玛特的热爱绝不止是“口嗨”。
-  5月27日晚间，段永平与其全资控股的H&H International，同步增持了泡泡玛特的股份，一致行动人持股比例达5.69%，对应约7637.16万股，一跃成为仅次于创始人王宁的第二大股东。
-  知名投资人的每一次站台，总是能或多或少地提升市场...
+- `少数派` [AI 如何影响你的审美？](https://sspai.com/post/110172)
+> 去感受、去思考、去创作吧，这是只有身为人类的你能做到的事情。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110446)
 > 📅本周新预告《玩具总动员5》终极预告5月26日，皮克斯动画电影《玩具总动员5》发布了终极预告，将于6月19日内地上映。安德鲁·斯坦顿、麦肯纳·哈里斯执导，胡迪、巴斯光年、翠丝等老朋友们回归，无所不能的 ...查看全文
 - `少数派` [住久了没意思（三）：打造能好好放松的卧室](https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom)
@@ -81,57 +80,53 @@
 > 按：本文是少数派共创栏目《写给家长的幼儿美术启蒙指南》的第三章，在栏目更新完成之际，免费开放给大家阅读，希望能给正在为挑选美术器材而犯难的你有所帮助。本栏目在专业的理论基础之上，结合作者多年育儿经验与 ...查看全文本文为付费栏目文章，出自《经验卷轴：写给家长的幼儿美术启蒙指南》，订阅后可阅读全文。
 - `少数派` [派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等](https://sspai.com/post/110368)
 > 英伟达宣布退役 GeForce 控制面板、《巫师 3：狂猎》将推出全新 DLC 等。查看全文
-- `少数派` [客制化键盘｜近期值得一看的套件与键帽：怪诞主题、复古创新与静电容](https://sspai.com/post/108618)
-> 客制化键盘新品信息速览。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/)
-> Article URL: https://www.perryts.com/
-Comments URL: https://news.ycombinator.com/item?id=48332151
-Points: 7
+- `Hacker News` [Adding Linux support back for the BASIC (free) version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US)
+> Article URL: https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US
+Comments URL: https://news.ycombinator.com/i...
+- `Hacker News` [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/)
+> Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/
+Comments URL: https://news.ycombinator.com/item?id=48335135
+Points: 82
+# ...
+- `Hacker News` [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/)
+> Plug-in solar panels (no electrician needed) have just become legal in the UK and will go on sale soon. Helios estimates how much electricity a typical installation could generate at a given addres...
+- `Hacker News` [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync)
+> Article URL: https://github.com/kristapsdz/openrsync
+Comments URL: https://news.ycombinator.com/item?id=48334854
+Points: 6
+# Comments: 1
+- `Hacker News` [Leo's first encyclical attacks technological messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism)
+> Article URL: https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism
+Comments URL: https://news.ycombinator.com/item?id=48334710
+Points: 22
+# Comments: 4
+- `Hacker News` [Pandoc Templates](https://pandoc-templates.org/)
+> Article URL: https://pandoc-templates.org/
+Comments URL: https://news.ycombinator.com/item?id=48334515
+Points: 123
 # Comments: 7
-- `Hacker News` [Naphtha Shortages Having a Growing Impact in Japan](https://www.nippon.com/en/japan-data/h02783/)
-> Article URL: https://www.nippon.com/en/japan-data/h02783/
-Comments URL: https://news.ycombinator.com/item?id=48331786
-Points: 25
-# Comments: 8
-- `Hacker News` [WH proposes rules giving political appointees final approval on research grants](https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/)
-> Article URL: https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/
-Comments URL: https://news.ycombinator.com/item?id=4...
-- `Hacker News` [Ember.js 7.0](https://blog.emberjs.com/ember-released-7-0/)
-> Article URL: https://blog.emberjs.com/ember-released-7-0/
-Comments URL: https://news.ycombinator.com/item?id=48330902
-Points: 30
-# Comments: 7
-- `Hacker News` [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
-> Article URL: https://daringfireball.net/2026/05/what_is_a_dickover
-Comments URL: https://news.ycombinator.com/item?id=48330882
-Points: 169
-# Comments: 78
-- `Hacker News` [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead)
-> Article URL: https://www.quandri.io/engineering-blog/mcp-is-dead
-Comments URL: https://news.ycombinator.com/item?id=48330436
-Points: 119
-# Comments: 100
-- `Hacker News` [Free full BGP feed. IPv4 and IPv6 (2020)](https://lukasz.bromirski.net/post/bgp-w-labie-3/)
-> Article URL: https://lukasz.bromirski.net/post/bgp-w-labie-3/
-Comments URL: https://news.ycombinator.com/item?id=48330088
-Points: 30
+- `Hacker News` [The Kaiser and a "Mediocre Man" Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)
+> Article URL: https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory
+Comments URL: https://news.ycombinator.com/item?id=48334283
+Points: 61
+# Comments: 50
+- `Hacker News` [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
+> Article URL: https://ziglang.org/devlog/2026/#2026-05-26
+Comments URL: https://news.ycombinator.com/item?id=48334048
+Points: 153
+# Comments: 43
+- `Hacker News` [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
+> Article URL: https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/
+Comments URL: https://news.ycombinator.com/item?id=48333820
+Poin...
+- `Hacker News` [OpenRCT2 v0.5.1 "Swamp Castle" released Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)
+> Article URL: https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released
+Comments URL: https://news.ycombinator.com/item?id=48333096
+Points: 20
 # Comments: 12
-- `Hacker News` [The Last Technical Interview](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564)
-> Article URL: https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564
-Comments URL: https://news.ycombinator.com/item?id=48328405
-Points: 71
-# Comments: 38
-- `Hacker News` [The California state assembly has passed the 'Protect Our Games Act'](https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill)
-> Article URL: https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill
-Comments URL: https://news.ycombinator.com/item?id...
-- `Hacker News` [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm)
-> Article URL: https://github.com/jmaczan/tiny-vllm
-Comments URL: https://news.ycombinator.com/item?id=48328184
-Points: 106
-# Comments: 10
 - `TechCrunch` [Founders seize on Indian court ruling to revive criticism of Google’s ad business](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/)
 > The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.
 - `TechCrunch` [I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with pep...](https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)
@@ -152,6 +147,12 @@ Points: 106
 > Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.
 - `TechCrunch` [Today is the last day to apply to speak at TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/)
 > Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.
+- `The Verge` [Sometimes, a short game hits the spot](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc)
+> Slots & Daggers, a low-key, fantasy-themed slot machine roguelike, was one of my favorite games last year. That may sound like a complicated description, but the game mixes ideas from deckbuild...
+- `The Verge` [The SpaceX IPO is great for Elon Musk and terrible for you](https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai)
+> I haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his b...
+- `The Verge` [This is the James Bond game we’ve been waiting for](https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer)
+> Hi, friends! Welcome to Installer No. 130, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old edition...
 - `The Verge` [Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser)
 > It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announce...
 - `The Verge` [SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract)
@@ -166,12 +167,6 @@ Points: 106
 > Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027. However, it will show a "new...
 - `The Verge` [Microsoft teases new Surface hardware and ‘a new era of PC’](https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors)
 > I pondered the other day what's next for Microsoft's Surface PC lineup, and it looks like we're about to find out. Windows and Surface chief Pavan Davuluri has just teased "something new is coming ...
-- `The Verge` [Trump’s mass deportations are only possible with racial profiling](https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations)
-> Border security czar Tom Homan keeps threatening to "flood" New York City with ICE agents. But a new investigation shows that ICE has been quietly ramping up arrests in the New York area already - ...
-- `The Verge` [At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal](https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale)
-> This week, the Steam Deck OLED with 512GB of storage went from $549 to $789, putting it even further out of reach for those who were considering getting one as they came back in stock after months ...
-- `The Verge` [You can buy two of Anker’s Qi2 wireless chargers for under $25](https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale)
-> If you’re looking for a fast iPhone or AirPods charger that’s easy to toss into your purse, backpack, or carry-on, Anker’s Zolo Magnetic Wireless Charger is a smart pick. It’s tiny and comes with a...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
