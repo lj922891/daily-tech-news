@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-05-31
 
-> 自动收集于 2026-05-31 04:23 | 共 50 条
+> 自动收集于 2026-05-31 13:06 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -56,10 +56,12 @@
 > 2026 年 5 月 25 日，OPPO 举办 “Reno Land 奇幻夜”新品发布会，重磅发布多款新品，全新一代 OPPO Reno16 系列潮流手机、OPPO Pad 6 全能平板、 OPPO Pad Air5 学习平板、OPPO Enco Air5s 真无线降噪耳机、OPPO Bubble潮玩自拍屏同步登场。本次发布会围绕年轻用户学习、创作、社交、直播、游戏全场景需求，以潮流美学、实...
 - `36氪` [铃木敏文去世，他与711的三个反常识故事](https://36kr.com/p/3829890126046851?f=rss)
 > 铃木敏文
-  作者 | 钟艺璇编辑 | 乔芊
+  作者 | 钟艺��编辑 | 乔芊
   5月25日，柒和伊控股发布讣告，日本7-Eleven创始人铃木敏文已于日前去世，享年93岁。
   作为全球规模最大的连锁便利店品牌，7-Eleven与铃木敏文之间是一个续写与重生的故事，但他们的相遇却始于一次偶然。
-  1970年初，时任伊藤洋华堂高管的铃木敏文，远赴美国培训，在前往加利福尼亚的途中，他...
+  1970年初，时任伊藤洋华堂高管的铃木敏文，远赴美国培训，在前往加利福尼亚的途中，...
+- `少数派` [本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6](https://sspai.com/post/110488)
+> 给你的快乐查漏补缺。查看全文
 - `少数派` [AI 如何影响你的审美？](https://sspai.com/post/110172)
 > 去感受、去思考、去创作吧，这是只有身为人类的你能做到的事情。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110446)
@@ -78,61 +80,61 @@
 > AI 知识「干中学」——用两天时间梳理完 AI 发展脉络，理解 Agent 能力边界。查看全文
 - `少数派` [免费试读 | 零基础美术启蒙，该如何准备适合的美术器材](https://sspai.com/post/108334)
 > 按：本文是少数派共创栏目《写给家长的幼儿美术启蒙指南》的第三章，在栏目更新完成之际，免费开放给大家阅读，希望能给正在为挑选美术器材而犯难的你有所帮助。本栏目在专业的理论基础之上，结合作者多年育儿经验与 ...查看全文本文为付费栏目文章，出自《经验卷轴：写给家长的幼儿美术启蒙指南》，订阅后可阅读全文。
-- `少数派` [派早报：鸿蒙智行发布新一代问界 M9、蔚来正式推出 ES9 等](https://sspai.com/post/110368)
-> 英伟达宣布退役 GeForce 控制面板、《巫师 3：狂猎》将推出全新 DLC 等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Please Do Not Vibe Fuck Up This Software – Rsync](https://github.com/RsyncProject/rsync/issues/929)
-> Article URL: https://github.com/RsyncProject/rsync/issues/929
-Comments URL: https://news.ycombinator.com/item?id=48342705
-Points: 50
-# Comments: 13
-- `Hacker News` [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
+- `Hacker News` [Backpressure is all you need](https://www.lucasfcosta.com/blog/backpressure-is-all-you-need)
+> Article URL: https://www.lucasfcosta.com/blog/backpressure-is-all-you-need
+Comments URL: https://news.ycombinator.com/item?id=48345090
+Points: 12
+# Comments: 6
+- `Hacker News` [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
+> Article URL: https://jbkempf.com/blog/2026/dav2d/
+Comments URL: https://news.ycombinator.com/item?id=48344961
+Points: 104
+# Comments: 21
+- `Hacker News` [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
+> Article URL: https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html
+Comments URL: https://news.ycombinator.com/item?id=48343714
+Points: 130
+# Comments: 54
+- `Hacker News` [The Website Specification](https://specification.website/)
+> Article URL: https://specification.website/
+Comments URL: https://news.ycombinator.com/item?id=48343683
+Points: 249
+# Comments: 99
+- `Hacker News` [Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]](https://hi.telli.com/join-us)
+> Article URL: https://hi.telli.com/join-us
+Comments URL: https://news.ycombinator.com/item?id=48343635
+Points: 0
+# Comments: 0
+- `Hacker News` [Avian Visitors](https://theodore.net/projects/AvianVisitors/)
+> Article URL: https://theodore.net/projects/AvianVisitors/
+Comments URL: https://news.ycombinator.com/item?id=48343424
+Points: 66
+# Comments: 6
+- `Hacker News` [A pictorial introduction to differential geometry (2017)](https://arxiv.org/abs/1709.08492)
+> Article URL: https://arxiv.org/abs/1709.08492
+Comments URL: https://news.ycombinator.com/item?id=48343287
+Points: 73
+# Comments: 2
+- `Hacker News` [Ahoy, DECmate II the little PDP-8 that could](http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html)
+> Article URL: http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html
+Comments URL: https://news.ycombinator.com/item?id=48343078
+Points: 39
+# Comments: 7
+- `Hacker News` [Mechanical Pencil: An illustrated celebration of the engineering around us](https://mechanical-pencil.com/)
+> Article URL: https://mechanical-pencil.com/
+Comments URL: https://news.ycombinator.com/item?id=48341932
+Points: 110
+# Comments: 14
+- `Hacker News` [Microsoft Office 2019 and 2021 for Mac view-only conversion](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
 > Article URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)
 Comments URL: https://news.ycombinator.com/item?id=48341578
-Points: 600
-# Comments: 194
-- `Hacker News` [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
-> Article URL: https://brie.gay/cheese-paper/
-Comments URL: https://news.ycombinator.com/item?id=48341407
-Points: 69
-# Comments: 14
-- `Hacker News` [Shantell Sans (2023)](https://shantellsans.com/process)
-> Article URL: https://shantellsans.com/process
-Comments URL: https://news.ycombinator.com/item?id=48341062
-Points: 138
-# Comments: 16
-- `Hacker News` [The AV2 Video Standard Has Released (Final v1.0 Specification)](https://av2.aomedia.org)
-> Article URL: https://av2.aomedia.org
-Comments URL: https://news.ycombinator.com/item?id=48340910
-Points: 79
-# Comments: 13
-- `Hacker News` [Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM](https://arxiv.org/abs/2605.29135)
-> Article URL: https://arxiv.org/abs/2605.29135
-Comments URL: https://news.ycombinator.com/item?id=48340616
-Points: 28
-# Comments: 4
-- `Hacker News` [Design Engineering Magazine](https://interfaces.dev/)
-> Article URL: https://interfaces.dev/
-Comments URL: https://news.ycombinator.com/item?id=48340448
-Points: 71
-# Comments: 6
-- `Hacker News` [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
-> Article URL: https://github.com/wolfSSL/wolfCOSE
-Comments URL: https://news.ycombinator.com/item?id=48340422
-Points: 74
-# Comments: 14
-- `Hacker News` [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
-> Article URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/
-Comments URL: https://news.ycombinator.com/item?id=48340411
-Points: 356
-# Comments: 221
-- `Hacker News` [Dusklight – GC Twilight Princess Decompiled](https://twilitrealm.dev/)
-> Article URL: https://twilitrealm.dev/
-Comments URL: https://news.ycombinator.com/item?id=48340262
-Points: 78
-# Comments: 10
+Points: 910
+# Comments: 320
+- `TechCrunch` [What happens in Vega$: steroids, swimmers, and a billion-dollar hustle](https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)
+> The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.
 - `TechCrunch` [SoftBank says it will invest up to €75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
 > The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.
 - `TechCrunch` [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
@@ -151,8 +153,12 @@ Points: 78
 > We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
 - `TechCrunch` [This $300 pizza oven can easily help elevate your summer pizza nights](https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/)
 > The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many other pizza ovens.
-- `TechCrunch` [TikTok’s road to becoming a super app](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/)
-> TikTok may be working to become the app that people use for most of their digital activities.
+- `The Verge` [I went looking for the AI weed vape that gives you Bitcoin for smoking](https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape)
+> The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words "every hit deliver...
+- `The Verge` [User-replaceable batteries are coming back in a big way](https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about gadgets and smartphones, follow Dominic Preston. The Stepback arrives in our sub...
+- `The Verge` [The Mercedes CLA offers great EV specs for an average price](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs)
+> Despite headwinds from the current administration, automakers continue to release well-equipped EVs with bigger battery packs and increasingly faster charging speeds. For those who want to travel f...
 - `The Verge` [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening)
 > The Kane Parsons' film Backrooms is expected to earn up to $90 million in its opening weekend after pulling down $38 million on Friday alone. That's not only above expectations, but absolutely obli...
 - `The Verge` [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves)
@@ -167,12 +173,6 @@ Points: 78
 > I live in a part of Los Angeles where I feel safer bringing pepper spray on walks. The problem is, I don't always remember to bring it with me, and it's not legal to carry it everywhere I go. Pebbl...
 - `The Verge` [The Arduboy FX-C is an excellent time killer you might forget you’re carrying](https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on)
 > As handheld consoles continue to grow and push the limits of what you can actually hold in your hands, the Arduboy FX-C comes in a refreshingly pocketable package.  It manages to squeeze the b...
-- `The Verge` [How one founder’s bet on ‘the old school web’ is paying off](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai)
-> Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at ...
-- `The Verge` [AI grifters are creating fake Black people to sell Shein junk](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)
-> Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media platform from March, she cries to th...
-- `The Verge` [Sometimes, a short game hits the spot](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc)
-> Slots & Daggers, a low-key, fantasy-themed slot machine roguelike, was one of my favorite games last year. That may sound like a complicated description, but the game mixes ideas from deckbuild...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
