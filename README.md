@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-05-30
+# 📰 每日科技日报 — 2026-05-31
 
-> 自动收集于 2026-05-30 12:57 | 共 50 条
+> 自动收集于 2026-05-31 04:23 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -83,90 +83,96 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Adding Linux support back for the BASIC (free) version of Vivado](https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US)
-> Article URL: https://adaptivesupport.amd.com/s/question/0D5Pd00001aT5IcKAK/adding-linux-support-back-for-the-basic-free-version-of-vivado?language=en_US
-Comments URL: https://news.ycombinator.com/i...
-- `Hacker News` [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/)
-> Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/
-Comments URL: https://news.ycombinator.com/item?id=48335135
-Points: 82
-# ...
-- `Hacker News` [Show HN: Helios – what plug-in solar could generate for any address in Britain](https://helios.southlondonscientific.com/)
-> Plug-in solar panels (no electrician needed) have just become legal in the UK and will go on sale soon. Helios estimates how much electricity a typical installation could generate at a given addres...
-- `Hacker News` [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync)
-> Article URL: https://github.com/kristapsdz/openrsync
-Comments URL: https://news.ycombinator.com/item?id=48334854
-Points: 6
-# Comments: 1
-- `Hacker News` [Leo's first encyclical attacks technological messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism)
-> Article URL: https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism
-Comments URL: https://news.ycombinator.com/item?id=48334710
-Points: 22
+- `Hacker News` [Please Do Not Vibe Fuck Up This Software – Rsync](https://github.com/RsyncProject/rsync/issues/929)
+> Article URL: https://github.com/RsyncProject/rsync/issues/929
+Comments URL: https://news.ycombinator.com/item?id=48342705
+Points: 50
+# Comments: 13
+- `Hacker News` [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
+> Article URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)
+Comments URL: https://news.ycombinator.com/item?id=48341578
+Points: 600
+# Comments: 194
+- `Hacker News` [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/)
+> Article URL: https://brie.gay/cheese-paper/
+Comments URL: https://news.ycombinator.com/item?id=48341407
+Points: 69
+# Comments: 14
+- `Hacker News` [Shantell Sans (2023)](https://shantellsans.com/process)
+> Article URL: https://shantellsans.com/process
+Comments URL: https://news.ycombinator.com/item?id=48341062
+Points: 138
+# Comments: 16
+- `Hacker News` [The AV2 Video Standard Has Released (Final v1.0 Specification)](https://av2.aomedia.org)
+> Article URL: https://av2.aomedia.org
+Comments URL: https://news.ycombinator.com/item?id=48340910
+Points: 79
+# Comments: 13
+- `Hacker News` [Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM](https://arxiv.org/abs/2605.29135)
+> Article URL: https://arxiv.org/abs/2605.29135
+Comments URL: https://news.ycombinator.com/item?id=48340616
+Points: 28
 # Comments: 4
-- `Hacker News` [Pandoc Templates](https://pandoc-templates.org/)
-> Article URL: https://pandoc-templates.org/
-Comments URL: https://news.ycombinator.com/item?id=48334515
-Points: 123
-# Comments: 7
-- `Hacker News` [The Kaiser and a "Mediocre Man" Theory of History](https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory)
-> Article URL: https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory
-Comments URL: https://news.ycombinator.com/item?id=48334283
-Points: 61
-# Comments: 50
-- `Hacker News` [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
-> Article URL: https://ziglang.org/devlog/2026/#2026-05-26
-Comments URL: https://news.ycombinator.com/item?id=48334048
-Points: 153
-# Comments: 43
-- `Hacker News` [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
-> Article URL: https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/
-Comments URL: https://news.ycombinator.com/item?id=48333820
-Poin...
-- `Hacker News` [OpenRCT2 v0.5.1 "Swamp Castle" released Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)
-> Article URL: https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released
-Comments URL: https://news.ycombinator.com/item?id=48333096
-Points: 20
-# Comments: 12
-- `TechCrunch` [Founders seize on Indian court ruling to revive criticism of Google’s ad business](https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/)
-> The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.
-- `TechCrunch` [I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with pep...](https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)
-> The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.
-- `TechCrunch` [SpaceX awarded $6.45B in Space Force contracts ahead of IPO](https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/)
-> SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.
-- `TechCrunch` [Coders are refusing to work without AI — and that could come back to bite them](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/)
-> While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.
-- `TechCrunch` [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
-> The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
-- `TechCrunch` [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/)
-> The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example o...
-- `TechCrunch` [After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/)
-> Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests,...
-- `TechCrunch` [Microsoft under fire for threatening security researcher with criminal investigation](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/)
-> A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.
-- `TechCrunch` [Cognition’s Scott Wu says AI coding agents shouldn’t replace humans](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/)
-> Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.
-- `TechCrunch` [Today is the last day to apply to speak at TechCrunch Disrupt 2026](https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/)
-> Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.
+- `Hacker News` [Design Engineering Magazine](https://interfaces.dev/)
+> Article URL: https://interfaces.dev/
+Comments URL: https://news.ycombinator.com/item?id=48340448
+Points: 71
+# Comments: 6
+- `Hacker News` [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE)
+> Article URL: https://github.com/wolfSSL/wolfCOSE
+Comments URL: https://news.ycombinator.com/item?id=48340422
+Points: 74
+# Comments: 14
+- `Hacker News` [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+> Article URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/
+Comments URL: https://news.ycombinator.com/item?id=48340411
+Points: 356
+# Comments: 221
+- `Hacker News` [Dusklight – GC Twilight Princess Decompiled](https://twilitrealm.dev/)
+> Article URL: https://twilitrealm.dev/
+Comments URL: https://news.ycombinator.com/item?id=48340262
+Points: 78
+# Comments: 10
+- `TechCrunch` [SoftBank says it will invest up to €75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
+> The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.
+- `TechCrunch` [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
+> The YouTube-to-prestige-horror pipeline is looking very strong.
+- `TechCrunch` [Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/)
+> A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.
+- `TechCrunch` [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)
+> The golden age of Microsoft's Github Copilot appears to be at an end.
+- `TechCrunch` [Meta is reportedly developing an AI pendant](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/)
+> Meta seems to be making big bets on AI-powered hardware.
+- `TechCrunch` [I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful](https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/)
+> Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.
+- `TechCrunch` [The groupthink boom: what three top VCs really think about the AI frenzy](https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/)
+> "If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already h...
+- `TechCrunch` [As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026](https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
+> We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
+- `TechCrunch` [This $300 pizza oven can easily help elevate your summer pizza nights](https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/)
+> The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many other pizza ovens.
+- `TechCrunch` [TikTok’s road to becoming a super app](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/)
+> TikTok may be working to become the app that people use for most of their digital activities.
+- `The Verge` [Backrooms is a certified blockbuster with a $38 million opening day](https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening)
+> The Kane Parsons' film Backrooms is expected to earn up to $90 million in its opening weekend after pulling down $38 million on Friday alone. That's not only above expectations, but absolutely obli...
+- `The Verge` [Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves)
+> Cecil Baldwin's résumé includes appearances on Gravity Falls, narrating the documentary Scream, Queen! My Nightmare on Elm Street, and performing as part of the New York Neo-Futurists the...
+- `The Verge` [Microsoft is threatening legal action for disclosing exploits](https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability)
+> Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code. S...
+- `The Verge` [Two of our favorite art TVs are more than 40 percent off this weekend](https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal)
+> Art TVs aren’t exactly known for being affordable, which is why Woot’s latest sale is notable. Now through June 26th, the retailer is discounting Samsung’s 2025 Frame TV and Hisense’s 2...
+- `The Verge` [Listen to the new Steam Controller buzz to the tune of Doom](https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom)
+> You may have heard that Valve's new Steam Controller can ring like a telephone or do the Wilhelm scream. But did you know it can sing songs, too? Let me show you. Here's the new Steam Controller pe...
+- `The Verge` [Pebblebee’s Halo watches my back and my belongings](https://www.theverge.com/gadgets/938254/pebblebee-halo-bluetooth-tracker-personal-safety-hands-on-review)
+> I live in a part of Los Angeles where I feel safer bringing pepper spray on walks. The problem is, I don't always remember to bring it with me, and it's not legal to carry it everywhere I go. Pebbl...
+- `The Verge` [The Arduboy FX-C is an excellent time killer you might forget you’re carrying](https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on)
+> As handheld consoles continue to grow and push the limits of what you can actually hold in your hands, the Arduboy FX-C comes in a refreshingly pocketable package.  It manages to squeeze the b...
+- `The Verge` [How one founder’s bet on ‘the old school web’ is paying off](https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai)
+> Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at ...
+- `The Verge` [AI grifters are creating fake Black people to sell Shein junk](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)
+> Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media platform from March, she cries to th...
 - `The Verge` [Sometimes, a short game hits the spot](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc)
 > Slots & Daggers, a low-key, fantasy-themed slot machine roguelike, was one of my favorite games last year. That may sound like a complicated description, but the game mixes ideas from deckbuild...
-- `The Verge` [The SpaceX IPO is great for Elon Musk and terrible for you](https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai)
-> I haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his b...
-- `The Verge` [This is the James Bond game we’ve been waiting for](https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer)
-> Hi, friends! Welcome to Installer No. 130, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old edition...
-- `The Verge` [Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser)
-> It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announce...
-- `The Verge` [SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract)
-> The Pentagon awarded SpaceX a $4.16 billion contract to build missile-tracking satellites linked with President Donald Trump's planned "Golden Dome" defense system, as reported earlier by Bloomberg...
-- `The Verge` [Acer’s launching a Linux handheld for streaming your PC games](https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld)
-> The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a "streaming-first handheld and companion device," like a PlayStation Portal for your PC. Announced ahead of Com...
-- `The Verge` [Tech companies desperately want to film you doing chores](https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data)
-> This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get...
-- `The Verge` [The Verge’s 2026 high school graduation gift guide](https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas)
-> High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue the...
-- `The Verge` [Microsoft delays Fable (again) to avoid GTA VI](https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi)
-> Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027. However, it will show a "new...
-- `The Verge` [Microsoft teases new Surface hardware and ‘a new era of PC’](https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors)
-> I pondered the other day what's next for Microsoft's Surface PC lineup, and it looks like we're about to find out. Windows and Surface chief Pavan Davuluri has just teased "something new is coming ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
