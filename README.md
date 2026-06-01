@@ -6,10 +6,46 @@
 
 # 📰 每日科技日报 — 2026-06-01
 
-> 自动收集于 2026-06-01 04:54 | 共 50 条
+> 自动收集于 2026-06-01 17:10 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [豆包6月下旬正式付费，并加速打通抖音电商丨独家](https://36kr.com/p/3834544830721671?f=rss)
+> 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。
+  随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求...
+- `36氪` [量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家](https://36kr.com/p/3826034537223043?f=rss)
+> 「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。
+  这笔融资背后，是一个逐渐清晰的判断：AI for Science需要量子计算。
+  AI可以学习规律，但模型能力上限，受制于它所见过世界的“分辨率”。在化学...
+- `36氪` [氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用](https://36kr.com/p/3834354415347337?f=rss)
+> 大公司：
+  中通快递在广州成立新物流公司，注册资本5亿
+  36氪获悉，天眼查App显示，近日，广州中竞物流有限公司成立，法定代表人为范嘉玮，注册资本5亿人民币，经营范围包括国内货物运输代理、机械设备租赁、计算机系统服务等。股东信息显示，该公司由中通快递股份有限公司全资持股。
+  OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人
+  OpenAI CEO山姆·奥特曼在社交平台发布...
+- `36氪` [今年盛夏，WAVES之夜会浪的一群年轻人](https://36kr.com/p/3834276149356420?f=rss)
+> 一、每一年，我们都在找一个地方，让年轻人在一起
+  WAVES之夜是WAVES独有的标签。
+  不是又一个分论坛，不是又一个颁奖礼，不是又一场穿西装坐两小时的行业对话。它是WAVES的"晚上"——白天属于议程和逻辑，夜晚属于人和直觉。
+  2023年，我们把年轻人和创业者拉到了北京金海湖的碧波岛上。那个夜晚，有人在草坪上喝啤酒，有人在帐篷里聊融资条款，有人在露天电影前什么都没想，发了一小时呆...
+- `36氪` [硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程](https://36kr.com/p/3834427736024965?f=rss)
+> 作者 | 林晴晴
+  编辑 | 袁斯来
+  硬氪获悉，Micro-LED显示技术公司「秋水半导体」已于近期连续完成Pre-A及A轮融资，合计近2亿元人民币。本轮融资由朝晖资本领投，通商基金、盛宇投资、宁波人才发展基金、嘉溢创投、涌现科技、数字光芯及兴棠资本跟投，兴棠资本担任长期财务顾问。本轮融资资金将主要用于在宁波高新区建设8英寸混合键合量产线及后续研...
+- `36氪` [我们有全世界最多的运动鞋，却没有一支值得爱20年的球队](https://36kr.com/p/3834297577383553?f=rss)
+> 编者按： 当中国体育用品业总产出突破2万亿元，占据体育产业总产出的54.3%，这无疑是一份值得骄傲的成绩单。过去几十年，中国建立起全球最完整、最高效的体育用品供应链，也孕育出一批具有国际竞争力的品牌。
+   但在规模增长之外，另一个问题同样值得关注：当体育产业的大部分价值仍来自商品制造与销售，我们距离一个成熟的体育文化生态还有多远？赛事、IP、社区、俱乐部、体育传媒，以及由此产生的情感认同与...
+- `36氪` [「AromeManpo馥郁满铺」完成近亿元B轮融资，今年线下门店将突破10家](https://36kr.com/p/3832924137138057?f=rss)
+> 作者 |  钟艺璇
+  36氪获悉，芳香馥愈 情绪护肤品牌「AromeManpo馥郁满铺」已于近期完成近亿元B轮融资，投资方为颖通控股，穆棉资本作为独家财务顾问。交易完成后，颖通控股将获得杭州白昼与梦生物科技有限公司（馥郁满铺母公司）增资完成后15%的股权。
+  馥郁满铺诞生于2013年，品牌灵感最初来源于创始人姜腾数十年的芳疗基因，承传欧洲芳疗系统，融汇东西方植物智慧与...
+- `36氪` [连续完成五源、峰瑞两轮数千万元融资，清华00后团队要解决Token账单焦虑｜智能涌现首发](https://36kr.com/p/3834310434875011?f=rss)
+> 文｜王欣逸
+  编辑｜邓咏仪
+  万格智元团队有这样一些标签：00后、博士团队、埋头搞技术。
+  CEO王冠博恰好占全了，他现博士就读于清华大学计算机系，是一位00后连续创业者。
+  其团队相当年轻，规模约20人，其中近90%的成员为00后，大多数为清华、北大等院校的硕博生，也有来自亚马逊、OpenAI、字节跳动等公司的成员。
+  《智能涌现》独家获悉，近日，万格智元连续完成两轮五源资本、峰...
 - `36氪` [获国家队采购、联名比音勒芬，「PLAYTOP」想用东方美学演绎户外功能服饰｜早期项目](https://36kr.com/p/3824416083825027?f=rss)
 > 当户外运动品牌纷纷在“防晒”“速干”“保暖”等参数上展开竞赛时，一家成立仅三年的新锐品牌，开始在功能的基础上，将“东方美学”元素融入一件功能衣中。
   成立于2022年的「PLAYTOP」，是一家将东方美学与天然功能材料融合的户外品牌，瞄准25-40岁追求颜值与舒适体验的高智菁英人群。2025年雪季，PLAYTOP做到了小红书滑雪速干衣用户主动搜索排名第一。
@@ -20,55 +56,10 @@
   在龙旗位于南昌的智能制造工厂中，两台智元精灵G2人形机器人已融入平板产线，承担起多媒体集成测试（MMIT）工站的上下料作业。
   其工作节拍已接近熟练产线员工——依托腰部的三个运动自由度与全向移动底盘，机器人精准从传送带抓取生产完成的平板，送入检测机箱；待测试完毕，又能迅速取出合格产品、利落放回传送带分流。
 ...
-- `36氪` [“世纪合并”落空，雅诗兰黛松了一口气](https://36kr.com/p/3825786926633607?f=rss)
-> 化妆品公司全球市值第四和第九的合并交易落空。
-  5月21日，美国高端美妆巨头雅诗兰黛与西班牙香水美容集团Puig联合宣布，双方已正式终止就潜在合并事宜展开的谈判，协议未能达成。雅诗兰黛盘后股价随即跳涨逾10%，至86.9美元；Puig股价则在马德里市场重挫逾14%。
-  交易告吹的导火索，外界说法不一。路透社援引两名知情人士称，Puig旗下英国彩妆品牌Charlotte Tilbury的同...
-- `36氪` [8点1氪丨停服三年后，天涯社区正式恢复访问；广东辟谣高考将用AI改卷；MiniMax拟科创板上市](https://36kr.com/p/3833859545343618?f=rss)
-> 今日热点导览
-  
-   OpenAI称使用AI攻克“80岁”数学难题
-   亚马逊：关停词元跟踪榜单
-   马斯克辟谣SpaceX估值下调
-   三花智控高管“为孩子教育”减持套现超4.3亿
-   哈根达斯中国被曝将被柠季收购
-  
-  TOP 3大新闻
-  天涯社区正式恢复访问
-  6月1日起，天涯社区正式恢复访问。据“天涯社区”官方微博发布的《关于天涯社区恢复访问进展的情况说明》，自2...
-- `36氪` [当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线](https://36kr.com/p/3831348302358408?f=rss)
-> 5月29日，欧莱雅中国在复旦大学启动2026年度“有意思青年”高校公益计划，并首次以校园运动会形式开启新一年的项目活动。活动现场，乒乓球运动员马龙、篮球运动员杨力维、足球运动员赵丽娜等体育界人士与高校学生展开互动，欧莱雅同时宣布向中国青少年发展基金会捐赠总价值约468万元的产品，并启动新一年度校园义卖活动。
-  从表面来看，这是一场校园公益活动；但放在全球美妆行业的发展背景下，它更像是美妆品...
-- `36氪` [36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资](https://36kr.com/p/3831135917107075?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，乘物机器人（深圳）有限公司（以下简称“乘物机器人”）近日完成天使轮融资，由中国台湾工业自动化与智能机器人解决方案领域龙头企业和椿科技战略投资，华君资本担任独家财务顾问。
-  乘物机器人成立于2025年，总部位于深圳，专注工业具身智能技术研发与产品解决方案，具备从软硬件研发、数据采集、模型训练、场景部...
-- `36氪` [9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”](https://36kr.com/p/3831073348855433?f=rss)
-> 今日热点导览
-  
-   黄仁勋披露“赶飞机”细节，特朗普要出发时来电话
-   国内航线燃油附加费6月5日起首次下调
-   铁路将实施新规：违规乘车拒不补票将被限制购票
-   iPhone 17系列中国销量破3000万台，Pro Max版占近一半
-   SpaceX据悉将IPO估值目标下调至至少1.8万亿美元
-  
-  TOP3大新闻
-  泡泡玛特上涨，段永平单日盈利近10亿港币
-  泡泡玛...
-- `36氪` [最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策](https://36kr.com/p/3831071878358659?f=rss)
-> “太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。”
-  5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提出了这一判断。
-  
-  西安光机所副所长邵晓鹏在沙龙上演讲
-  “好望角科学沙龙”是由中科创星发起，中科创星、东壁科技数据、上海市研发公共服务平台管理中...
-- `36氪` [千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家](https://36kr.com/p/3830580716365449?f=rss)
-> 为助力千里科技成为“第二个华为”，吉利决定为它增添新的技术筹码。
-  36氪从多位产业人士处了解到，吉利中央研究院数百人的辅助驾驶团队，将在近期被整合入千里科技。目前，吉利研究院辅助驾驶团队，已有人收到了转移合同的通知。
-  有接近吉利的知情人士告诉36氪：“这轮整合后，吉利研究院辅助驾驶团队，被平移至千里智驾与极氪的合资公司千里浩瀚，千里浩瀚今后主要负责为吉利的车型提供定制化开发和量产交付...
-- `36氪` [连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线](https://36kr.com/p/3830545234552452?f=rss)
-> 在中国美妆行业增长放缓、价格竞争加剧的背景下，越来越多品牌开始重新审视“可持续发展”这件事的商业意义。
-  5月26日，自然堂集团发布《2025年度可持续发展报告》，这是其连续第15年披露ESG相关内容。相比早期以公益、环保为主的企业社会责任叙事，今年的报告更强调“可量化”与“产业化”：包括首次按照科学碳目标倡议（SBTi）标准制定减碳路径、扩大范围三碳排放披露边界，以及将生物多样性、绿色原...
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/110547)
+> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [成本 600 元不到，我 3D 打印了一把能弹的电吉他](https://sspai.com/post/110412)
+> 有时候，完成比完美更重要。查看全文
 - `少数派` [把一句经文放进每天：「一日一偈」的轻阅读尝试](https://sspai.com/post/110094)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [派早报：Anthropic 估值超过 OpenAI](https://sspai.com/post/110519)
@@ -85,99 +76,96 @@
 > 我希望 Await 最后留下的，是一种更轻的创作入口：不必很大，但足够好看和好玩，也足够贴近自己每天使用手机的方式。查看全文
 - `少数派` [什么才是「好」的 Android 音频输出？从一台旧日 Xperia 说起](https://sspai.com/post/110120)
 > Android 早已具备高质量音频输出的能力，但一段声音从在抵达耳机之前，往往还要经过系统层层处理。下面我们一起探究 Android 高保真输出背后的秘密。查看全文
-- `少数派` [派早报：Sony 发布 Bravia 2026 款电视产品等](https://sspai.com/post/110425)
-> Anthropic 发布旗舰模型 Claude Opus 4.8，Intel 发布锐炫 G 系列处理器等。查看全文
-- `少数派` [从原理到实践：年轻人的第一篇染发及洗护指南](https://sspai.com/prime/story/hair-dye-tutorial)
-> 我不用染发来对抗岁月，但我用它来对抗焦虑。[......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [Marcus Aurelius Had Anxiety Too – Stoicism for People Who Overthink](https://stvrrll1ght.substack.com/p/marcus-aurelius-had-anxiety-too-stoicism)
-> Article URL: https://stvrrll1ght.substack.com/p/marcus-aurelius-had-anxiety-too-stoicism
-Comments URL: https://news.ycombinator.com/item?id=48352379
-Points: 11
-# Comments: 1
-- `Hacker News` [Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a)
-> Article URL: https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a
-Comments URL: https://news.ycombinator.com/item?id=48351858
-Points: 57
-# Comments: 29
-- `Hacker News` [Chuwi Minibook X: the netbook we deserve](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
-> Article URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/
-Comments URL: https://news.ycombinator.com/item?id=48350598
-Points: 119
-# Comments: 110
-- `Hacker News` [ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)
-> Article URL: https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration
-Comments URL: https://news.ycombinator.com/item?id=48349487
-Points: 124
-# Comments: 39
-- `Hacker News` [The History of "Prisencolinensinainciusol"](https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/)
-> Article URL: https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/
-Comments URL: https://news.ycombinator.com/item?id=4...
-- `Hacker News` [Codex just found a "workaround" of not having sudo on my PC](https://twitter.com/i/status/2060746160558543217)
-> Article URL: https://twitter.com/i/status/2060746160558543217
-Comments URL: https://news.ycombinator.com/item?id=48348578
-Points: 433
-# Comments: 212
-- `Hacker News` [Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire](https://github.com/viggy28/streambed)
-> Article URL: https://github.com/viggy28/streambed
-Comments URL: https://news.ycombinator.com/item?id=48348429
+- `Hacker News` [AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)
+> Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md
+Comments URL: https://news.ycombinator.com/item?id=48359232
+Points: 6
+# Comments: 0
+- `Hacker News` [DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
+> Article URL: https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/
+Comments URL: https://news.ycombinator.com/item?id=48359130
+Points: 70...
+- `Hacker News` [The newest Instagram "exploit" is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+> Article URL: https://www.0xsid.com/blog/meta-account-takeover-fiasco
+Comments URL: https://news.ycombinator.com/item?id=48359102
 Points: 79
-# Comments: 15
-- `Hacker News` [Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)](https://lwn.net/Articles/104185/)
-> Article URL: https://lwn.net/Articles/104185/
-Comments URL: https://news.ycombinator.com/item?id=48347961
-Points: 70
-# Comments: 54
-- `Hacker News` [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
-> Article URL: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/
-Comments URL: https://news.ycombinator.co...
-- `Hacker News` [The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)
-> Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai
-Comments URL: https://news.ycombinator.com/item?id=48347153
-Points: 130
-# Comments: 66
+# Comments: 10
+- `Hacker News` [Anthropic confidentially submits draft S-1 to the SEC](https://www.anthropic.com/news/confidential-draft-s1-sec)
+> Article URL: https://www.anthropic.com/news/confidential-draft-s1-sec
+Comments URL: https://news.ycombinator.com/item?id=48358646
+Points: 132
+# Comments: 79
+- `Hacker News` [Lifelike biochemistry continued to unfold in sterilized soil](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/)
+> Article URL: https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/
+Comments URL: https://news.ycombinator.com/item?id=48357905
+Points: 67
+# Comments: 5
+- `Hacker News` [Ask HN: Who is hiring? (June 2026)](https://news.ycombinator.com/item?id=48357725)
+> Please state the location and include REMOTE for remote work, REMOTE (US)
+or similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally ar...
+- `Hacker News` [KDE at 30](https://kde.org/anniversaries/30/)
+> Article URL: https://kde.org/anniversaries/30/
+Comments URL: https://news.ycombinator.com/item?id=48357355
+Points: 101
+# Comments: 47
+- `Hacker News` [The Pirate Bay Remains Resilient, 20 Years After the Raid](https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/)
+> Article URL: https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/
+Comments URL: https://news.ycombinator.com/item?id=48357154
+Points: 230
+# Comments: 91
+- `Hacker News` [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
+> Article URL: https://cs336.stanford.edu/
+Comments URL: https://news.ycombinator.com/item?id=48357075
+Points: 131
+# Comments: 10
+- `Hacker News` [Show HN: A CSS 3D Engine (no WebGL)](https://github.com/LayoutitStudio/polycss)
+> Article URL: https://github.com/LayoutitStudio/polycss
+Comments URL: https://news.ycombinator.com/item?id=48356946
+Points: 21
+# Comments: 7
+- `TechCrunch` [Zigging when most are zagging, ex-Meta CTO raises $250M climate fund](https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/)
+> Mike Schroepfer's Gigascale Capital has raised a large fund to back founders building climate-friendly solutions for the world's energy and material shortages.
+- `TechCrunch` [Anthropic files to go public](https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/)
+> The company said Monday it has filed confidentially for an IPO.
+- `TechCrunch` [SpaceX says it may issue ‘significant’ equity in ‘future transactions’](https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/)
+> The company added a warning to prospective investors that a major dilution could be in the cards after it goes public.
+- `TechCrunch` [This AI weather startup is out-forecasting government agencies](https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/)
+> Windborne Systems' newest weather forecasting model beats the best government predictions by days.
+- `TechCrunch` [DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
+> Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.
+- `TechCrunch` [Revolut rolls out services to thousands of users in India ahead of broader launch](https://techcrunch.com/2026/06/01/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launch/)
+> The British fintech has built a waitlist of about 450,000 users in India as it prepares for a broader launch.
+- `TechCrunch` [Strava declares war on scrapers ahead of IPO](https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/)
+> Strava will charge a flat monthly fee from developers to access its API.
+- `TechCrunch` [Unastella, a South Korean rocket startup that launched from home, raises $24M](https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/)
+> The Seoul-based rocket startup is developing its own launch vehicles and engines.
 - `TechCrunch` [Erin Brockovich takes aim at data center secrecy](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/)
 > Environmental activist Erin Brockovich has a new mission.
 - `TechCrunch` [This weekend’s two biggest movies were both directed by YouTubers](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/)
 > The YouTube-to-prestige-horror pipeline is looking very strong.
-- `TechCrunch` [‘This is fine’ artist KC Green reaches agreement with AI startup Artisan](https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/)
-> The startup has apparently taken down the ads using KC Green's "This is fine" meme.
-- `TechCrunch` [TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce](https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
-- `TechCrunch` [Making sense of the debate over AI psychosis](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/)
-> On the latest episode of Equity, we debate whether tech CEOs are "uniquely prone to AI psychosis."
-- `TechCrunch` [Black founders raise highest amount of quarterly funding since 2022, but there’s a catch](https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/)
-> Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions."
-- `TechCrunch` [What happens in Vega$: steroids, swimmers, and a billion-dollar hustle](https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/)
-> The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.
-- `TechCrunch` [SoftBank says it will invest up to €75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)
-> The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.
-- `TechCrunch` [Snap alums unveil Ghost Angels fund](https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/)
-> A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.
-- `TechCrunch` [‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)
-> The golden age of Microsoft's Github Copilot appears to be at an end.
-- `The Verge` [This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark](https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures)
-> Once upon a time, Microsoft had to write off $900 million betting an Arm-based Nvidia chip could power its first flagship Windows portable, the original Microsoft Surface. But today, it's trying ag...
-- `The Verge` [Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date)
-> This fall, Nvidia will officially become a consumer PC chipmaker like Intel, AMD, Apple, and Qualcomm, putting a complete computing chip - not just graphics - into the very heart of laptops and min...
-- `The Verge` [AMD’s new pitch: our old tech is so good you should just keep using it](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d)
-> Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. But for desktop P...
-- `The Verge` [The QD-OLED gaming monitor that started it all got a big upgrade](https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs)
-> Alienware is taking to this year's Computex 2026 in Taipei to announce some cool gaming monitors, most notably two exciting OLED options that are coming at different points this year. First off, th...
-- `The Verge` [Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599](https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price)
-> Dell is making good on its tease from CES and finally announcing a new XPS 13. The XPS 13 returns as a budget-friendly option, launching in July at a promotional student price of $599 - though that...
-- `The Verge` [Apple’s strategy for smart glasses is the same as smart watches](https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches)
-> Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply...
-- `The Verge` [How to watch Nvidia’s Computex keynote](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote)
-> NVIDIA's CEO Jensen Huang is set to take the stage for his GTC Taipei keynote at 8PM PT / 11PM ET. You can watch all the announcements here and embedded below. Rumors have been flying about what to...
-- `The Verge` [Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex](https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex)
-> The A Minecraft Movie sequel officially has a title: A Minecraft Movie Squared. What's more, we now know that Kirsten Dunst will star as Alex, the game's female character option, and that Matt Berr...
-- `The Verge` [Feeble Little Horse leans into digital weirdness on bitknot](https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review)
-> From the opening moments of bitknot, it's obvious that Feeble Little Horse has found an entirely new gear. Where on Girl with Fish the blown-out textures were more '90s indie rock and shoegaze, on ...
-- `The Verge` [United flight forced to turn around because of a Bluetooth speaker name](https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb)
-> United flight 236 from Newark to Palma de Mallorca on Saturday night was forced to turn around just an hour after takeoff due to security concerns around a Bluetooth signal. Multiple Redditors clai...
+- `The Verge` [Anthropic has officially filed to go public](https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public)
+> After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securiti...
+- `The Verge` [Sony’s new fight stick and gaming monitor launch in August](https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price)
+> Sony is sharing new details about some of its upcoming gaming-focused hardware, including pricing and August launch dates for its FlexStrike fight stick and its 27-inch monitor. The FlexStrike figh...
+- `The Verge` [Summer Game Fest 2026: All the news from gaming’s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)
+> Get ready for some gaming news. It’s officially June, which means splashy new events from PlayStation, Xbox, and gaming hype man Geoff Keighley. But this season doesn’t just feature the...
+- `The Verge` [An affordable, long-lasting AirTag alternative is $15 right now](https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale)
+> There are many solid Bluetooth trackers for iPhones that tap into Apple’s expansive Find My network. Some are thin, some are a bit chunkier. And, evidently, some look like tiny soccer balls. Ugreen...
+- `The Verge` [The next big career move for young Hollywood? Reading audio smut](https://www.theverge.com/entertainment/940869/quinn-erotica-rent-free-ember-and-ice-heated-rivalry-off-campus)
+> Though Gen Z has developed a reputation for being so disinterested in sex that they don't even want to see it on TV, the popularity of series like Heated Rivalry and The Summer I Turned Pretty has ...
+- `The Verge` [Your guide to June’s biggest gaming events](https://www.theverge.com/games/939238/video-game-gaming-events-summer-game-fest-schedule-2026)
+> It's early June, which means it's video game event season once again. Now that E3 has been gone for a few years, a bunch of showcases and presentations have started to fill the void, including big ...
+- `The Verge` [Microsoft to unveil new AI models and Windows improvements at Build](https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect)
+> Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developer...
+- `The Verge` [Computex 2026: All the news and announcements](https://www.theverge.com/tech/940844/computex-2026)
+> Computex 2026 is kicking off in Taipei, Taiwan this week, where Nvidia, AMD, Qualcomm, Intel, and other tech brands are announcing new laptops, handhelds, chips, and more.  Nvidia unveiled RTX...
+- `The Verge` [AI is blowing up music. How should the Grammys handle it?](https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason)
+> Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative...
+- `The Verge` [Strava blames zero-code AI apps and scrapers as it tightens API access](https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps)
+> The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an a...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
