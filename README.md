@@ -6,10 +6,21 @@
 
 # 📰 每日科技日报 — 2026-06-03
 
-> 自动收集于 2026-06-03 04:50 | 共 50 条
+> 自动收集于 2026-06-03 16:10 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司](https://36kr.com/p/3837330582008963?f=rss)
+> 大公司：
+  瑞典AI初创公司Lovable与Google Cloud扩大多年期合作
+  据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设施，从而向全球用户扩展其AI驱动的软件开发服务。（界面）
+  美银：英伟达2027财年下半年Vera CPU销售额有望达200亿美元
+  美银分析师Vivek Arya团队更新了英伟...
+- `36氪` [36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元](https://36kr.com/p/3836973710423429?f=rss)
+> 文｜邓咏仪
+  编辑｜张雨忻 杨轩
+  36 氪独家获悉，字节跳动火山引擎在今年 4 月已将 MaaS 业务营收目标上调至 150 亿元，且这个营收目标几乎每月都在上调。而在 2025 年底，这一目标还是 100 亿元。
+   36 氪了解到，在 2025 年，火山全年的 MaaS 收入约 15 亿元左右，等于截止目前 2026 年的营收目标是去年实际营收的 10 倍。可以说，火山...
 - `36氪` [深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发](https://36kr.com/p/3836068296209537?f=rss)
 > 作者｜黄楠
   编辑｜袁斯来
@@ -53,16 +64,10 @@
 - `36氪` [深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发](https://36kr.com/p/3800191597583621?f=rss)
 > 36氪获悉，植物纤维皮革面料公司深圳朴飞生物（以下简称超级皮儿PEELSPHERE®）已完成新一轮融资，由头部创投机构——深圳市创新投资集团有限公司（深创投）独家战略投资。此轮资金将主要用于新产品研发与团队扩充。
   超级皮儿PEELSPHERE®是一家做植纤皮革面料的公司。它所切入的场景清晰而纯粹：在消费品牌对材料性能、设计表达、健康环保和综合赋能提出更高要求的背景下，如何通过绿色科技，将...
-- `36氪` [36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场](https://36kr.com/p/3835387558065541?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，近日，居家养老消费电子品牌「元生智能」完成新一轮超千万元Pre-A轮融资。本轮融资由银创资本领投，东科创跟投。本轮资金将主要用于渠道拓展以及相关新产品的持续迭代。
-  元生智能是硬氪长期关注的企业，成立于2022年，主要为65岁以上空巢、独居老人提供居家看护产品。公司创始人、CEO邓龙生曾任小天才学...
-- `36氪` [前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”](https://36kr.com/p/3834292242130825?f=rss)
-> 具身智能的落地，正在从实验室走向最真实、最繁忙的物理世界。
-  而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。
-  36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。
-  元节核心团队在成立公司前有过较长时期的探索和孵化，此次...
+- `少数派` [小车车里的大世界：车模收藏入坑指南](https://sspai.com/post/110114)
+> 从小时候第一台保时捷卡宴车模，到工作后重新入坑小米 SU7，本文的作者把自己这些年收藏车模的经验整理成了一篇新手指南。文章从 1:18、1:43、1:64 等常见的车模比例谈起，涵盖了品牌选择、购买渠道、创意玩法等，很适合新手入坑。车模不只是玩具，也是一种能放在桌面上的汽车梦。查看全文
+- `少数派` [让原生体验「接地气」：Pixel Text 与「原点系列」工具集](https://sspai.com/post/110458)
+> 「原点系列」希望能在那些真正影响使用的地方做一些细致的修补，这个名字也代表着我对工具应用的一点执念。一个工具最好有清楚的边界，知道自己要解决什么，也知道自己不应该做什么。查看全文
 - `少数派` [App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio](https://sspai.com/post/110059)
 > 既不用安装客户端，也不用学习剪辑，Mockup Studio 帮你轻松制作产品演示视频。查看全文
 - `少数派` [派早报：Apple 公布 2026 年 Apple 设计大奖得主等](https://sspai.com/post/110658)
@@ -79,104 +84,96 @@
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [成本 600 元不到，我 3D 打印了一把能弹的电吉他](https://sspai.com/post/110412)
 > 有时候，完成比完美更重要。查看全文
-- `少数派` [把一句经文放进每天：「一日一偈」的轻阅读尝试](https://sspai.com/post/110094)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6](https://sspai.com/post/110488)
-> 给你的快乐查漏补缺。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [America's Data Center Build-Out Is Falling Way Behind Schedule](https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8)
-> Article URL: https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8
-Comments URL: https://news.ycombinator.com/item?id=48379704
-Points: 12
-# Comments: 3
-- `Hacker News` [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
-> Article URL: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/
-Comments URL: https://news.ycombinator.com/item?id=48379669
-Points: 7
-# Comments: 0
-- `Hacker News` [The American Missile Crisis](https://research.contrary.com/report/the-american-missile-crisis)
-> Article URL: https://research.contrary.com/report/the-american-missile-crisis
-Comments URL: https://news.ycombinator.com/item?id=48379551
-Points: 19
-# Comments: 8
-- `Hacker News` [HHS is overriding peer review to require changes to research scope, design](https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants)
-> Article URL: https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants
-Comments URL: https://news.ycombinator.com/item?id=48379434
-Points: 24
-# Comments: 8
-- `Hacker News` [Agentic Mfw](https://agenticmotherfucking.website)
-> Article URL: https://agenticmotherfucking.website
-Comments URL: https://news.ycombinator.com/item?id=48379203
-Points: 75
-# Comments: 21
-- `Hacker News` [NLAB: The worlds smallest electronics lab](https://getnlab.com/)
-> Article URL: https://getnlab.com/
-Comments URL: https://news.ycombinator.com/item?id=48379005
-Points: 7
-# Comments: 3
-- `Hacker News` [Can A.I. produce writing that we want to read?](https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read)
-> Article URL: https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read
-Comments URL: https://news.ycombinator.com/item?id=48378995
-Points: 11
+- `Hacker News` [A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs)
+> Article URL: https://letsencrypt.org/2026/06/03/pq-certs
+Comments URL: https://news.ycombinator.com/item?id=48385114
+Points: 28
+# Comments: 7
+- `Hacker News` [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
+> Article URL: https://www.blackmagicdesign.com/products/davinciresolve/whatsnew
+Comments URL: https://news.ycombinator.com/item?id=48384482
+Points: 89
 # Comments: 35
-- `Hacker News` [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
-> Article URL: https://www.capstone-engine.org/
-Comments URL: https://news.ycombinator.com/item?id=48378925
-Points: 21
+- `Hacker News` [Shopify Is Down](https://www.shopifystatus.com)
+> Article URL: https://www.shopifystatus.com
+Comments URL: https://news.ycombinator.com/item?id=48384221
+Points: 53
+# Comments: 38
+- `Hacker News` [I built a ceiling projection mapping of the planes flying over my house](https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/)
+> Article URL: https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/
+Comments URL: https://news.ycombinator.com/item?id=48383823
+Points: 105
+# Com...
+- `Hacker News` [Show HN: Tired of duct-taping access control into agent prompts. Here's the fix](https://github.com/yaodub/cast)
+> Article URL: https://github.com/yaodub/cast
+Comments URL: https://news.ycombinator.com/item?id=48383471
+Points: 10
+# Comments: 13
+- `Hacker News` [32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building](https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building)
+> Article URL: https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building
+Comments URL: https://news.ycombinator.com/item?id=48...
+- `Hacker News` [Meta workers can opt out of being tracked at work up to 30 min](https://www.bbc.com/news/articles/c93x0k194yno)
+> Article URL: https://www.bbc.com/news/articles/c93x0k194yno
+Comments URL: https://news.ycombinator.com/item?id=48383220
+Points: 331
+# Comments: 300
+- `Hacker News` [Piramidal (YC W24) – Software Engineers – NYC Onsite](https://news.ycombinator.com/item?id=48382853)
+> Comments URL: https://news.ycombinator.com/item?id=48382853
+Points: 0
 # Comments: 0
-- `Hacker News` [Roku LT Operating System open source distribution](https://blog.roku.com/developer/roku-lt-os)
-> Article URL: https://blog.roku.com/developer/roku-lt-os
-Comments URL: https://news.ycombinator.com/item?id=48378495
-Points: 45
-# Comments: 11
-- `Hacker News` [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
-> https://law.stanford.edu/wp-content/uploads/2026/06/salinas_...
-
-Comments URL: https://news.ycombinator.com/item?id=48377761
-Points: 137
-# Comments: 128
-- `TechCrunch` [Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in...](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/)
-> Even in a future of robot taxis, someone still has to return the things passengers leave behind.
-- `TechCrunch` [Cyera eyes $12B valuation at 80x ARR multiple despite operating losses](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/)
-> The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.
-- `TechCrunch` [Cyberdecks are having a moment, rejecting big tech surveillance with style and substance](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/)
-> Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purs...
-- `TechCrunch` [Uber caps employee AI spending after blowing through budget in 4 months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/)
-> Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.
-- `TechCrunch` [New Microsoft tool lets devs spin up AI behavior tests using text descriptions](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/)
-> Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.
-- `TechCrunch` [A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon](https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/)
-> A new reading subscription from Everand offers access to both e-books and audiobooks, and Fable's book club community.
-- `TechCrunch` [Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/)
-> The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.
-- `TechCrunch` [Microsoft launches Scout, an OpenClaw-inspired personal assistant](https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/)
-> Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.
-- `TechCrunch` [Ex-Anduril engineer raises $42M to build the Amazon of composite parts](https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/)
-> Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.
-- `TechCrunch` [Google rolls out fake call detection to protect against AI deepfake impersonation scams](https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/)
-> As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority fi...
-- `The Verge` [God of War Laufey is coming to the PS5](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer)
-> Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica Studio. Currently, ...
-- `The Verge` [Remedy’s Control sequel launches in September](https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer)
-> Control Resonant, the upcoming sequel to Remedy Entertainment's Control, will be released on September 24th, 2026, according to a trailer that premiered during Tuesday's PlayStation State of Play s...
-- `The Verge` [Here’s seven bloody minutes of Wolverine on the PS5](https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026)
-> At its big State of Play show on Tuesday, Sony shared new look Marvel's Wolverine, the next big title from Insomniac Games that's launching exclusively on PS5 on September 15th. Dressed in the icon...
-- `The Verge` [PlayStation State of Play June 2026: All the news and trailers](https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers)
-> While the majority of Summer Game Fest takes place over the weekend, Sony is getting a jump on things with its next State of Play showcase, which airs on June 2nd at 5PM ET. It’s coming at a ...
-- `The Verge` [I held the next-gen handheld](https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview)
-> Intel couldn't catch a break. Layoffs. Shakedowns. Crashing CPUs torpedoing its reputation, sending desktop gamers fleeing to AMD. Apple and Qualcomm pushing Intel out of multiple flagship laptops....
-- `The Verge` [Microsoft Build 2026: The 7 biggest announcements](https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements)
-> Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-o...
-- `The Verge` [Trump signs executive order to review AI models before they’re released](https://www.theverge.com/policy/941775/trump-ai-executive-order)
-> President Donald Trump signed an executive order Tuesday creating a "voluntary framework" for AI companies to share their frontier models with the federal government before they're released "to pro...
-- `The Verge` [Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing](https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build)
-> Microsoft claimed last year that it had made a key breakthrough in quantum computing with Majorana 1, the company's first quantum processor. While physicists were immediately skeptical of Microsoft...
-- `The Verge` [Microsoft’s first advanced reasoning AI is here](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026)
-> Microsoft announced a bunch of new in-house AI models at Build 2026, including a new "flagship" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced ...
-- `The Verge` [The durable, floatable UE Wonderboom 4 speaker is cheaper than ever](https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale)
-> I like the UE Wonderboom 4 Bluetooth speaker so much that I bought two of them, though I wish I could have paid less for them. Fortunately, you can stock up on the cheap, so long as you like the co...
+- `Hacker News` [Every Byte Matters](https://fzakaria.com/2026/06/01/every-byte-matters)
+> Article URL: https://fzakaria.com/2026/06/01/every-byte-matters
+Comments URL: https://news.ycombinator.com/item?id=48382382
+Points: 155
+# Comments: 73
+- `Hacker News` [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
+> Article URL: https://blog.nns.ee/2026/06/03/katana-badusb/
+Comments URL: https://news.ycombinator.com/item?id=48382310
+Points: 411
+# Comments: 73
+- `TechCrunch` [Amazon will show AI product images when you search for some reason](https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/)
+> Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.
+- `TechCrunch` [Still facing copyright lawsuits, AI music generator Suno raises another $400M](https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/)
+> The prominent AI music generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation.
+- `TechCrunch` [These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked](https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/)
+> The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.
+- `TechCrunch` [GitLab cuts 14% of staff as it scales its platform to serve AI workloads](https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/)
+> The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform.
+- `TechCrunch` [Publishers will be able to opt out of AI Search, thanks to new regulation](https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/)
+> U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.
+- `TechCrunch` [TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup](https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/)
+> The app allows users to engage with other fans, explore trending videos, and access curated creator feeds.
+- `TechCrunch` [The worst hacks and breaches of 2026 (so far)](https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/)
+> From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.
+- `TechCrunch` [Meet Wander, a StumbleUpon-inspired tool for discovering the ‘small web’](https://techcrunch.com/2026/06/03/meet-wander-a-stumbleupon-inspired-tool-for-discovering-the-small-web/)
+> This open-source community project lets you create a StumbleUpon-like experience for recommending your favorite sites.
+- `TechCrunch` [Meta’s AI agent for WhatsApp Business is now available globally](https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/)
+> WhatsApp will charge businesses for using its AI agent based on token usage
+- `TechCrunch` [Coralogix raises $200M on bet that someone needs to watch the AI agents](https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/)
+> The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.
+- `The Verge` [Amazon’s search bar will invent AI-generated products you can’t buy](https://www.theverge.com/tech/942547/amazon-search-bar-ai-images)
+> Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to t...
+- `The Verge` [PlayStation is getting back to what it’s good at](https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026)
+> PlayStation used its most recent State of Play showcase to make it clear where its focus is. After a series of costly live-service stumbles, it's getting back to focusing on premium, narrative-driv...
+- `The Verge` [Supernatural isn’t dead after all](https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr)
+> A few months ago, Meta effectively handed Supernatural, a popular VR fitness game on the Meta Quest, a death sentence. As part of overarching VR layoffs, the company announced the game would no lon...
+- `The Verge` [Dreame’s L20 Ultra robovac is an unbeatable deal for $280](https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale)
+> The Dreame L20 Ultra isn’t the company’s newest model, but it’s still a great robovac / mop hybrid that offers strong performance while requiring very little day-to-day maintenance than...
+- `The Verge` [Microsoft and OpenAI broke up — now they’re ready to fight](https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition)
+> At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenCl...
+- `The Verge` [A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box](https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on)
+> Microsoft has two new Surface devices arriving later this year, both powered by Nvidia's RTX Spark chips. I got a chance to take a closer look at both the Surface Laptop Ultra and Surface RTX Spark...
+- `The Verge` [SwitchBot’s acquisition of Nanoleaf is about more than lighting](https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics)
+> Smart lighting company Nanoleaf has been acquired by OneRobotics, the parent company of SwitchBot. In an exclusive interview with The Verge, Nanoleaf CEO Gimmy Chu says the company will remain inde...
+- `The Verge` [Trans teens have something to say](https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing)
+> By the time the Children's Hospital closed its doors to trans patients, Sage had already stopped taking testosterone. A nonbinary high school student, they originally received treatment for the rap...
+- `The Verge` [AI has a water problem — Google thinks it has a fix](https://www.theverge.com/policy/942296/google-water-commitments-data-centers)
+> In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local commun...
+- `The Verge` [Google must let publishers opt out of AI Search features, rules UK](https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out)
+> Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and M...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
