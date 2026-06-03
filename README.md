@@ -4,12 +4,33 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-02
+# 📰 每日科技日报 — 2026-06-03
 
-> 自动收集于 2026-06-02 15:52 | 共 50 条
+> 自动收集于 2026-06-03 04:50 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发](https://36kr.com/p/3836068296209537?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。
+  目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯...
+- `36氪` [36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑](https://36kr.com/p/3836744788014208?f=rss)
+> 作者丨欧雪
+  编辑丨袁斯来
+  硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。
+  旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能...
+- `36氪` [8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈](https://36kr.com/p/3836703946257542?f=rss)
+> 今日热点导览
+  
+   豆包付费或专注复杂任务， 定价锚定ChatGPT
+   英伟达CEO黄仁勋：Vera CPU将比GPU更受欢迎，将成为公司新的主要增长动力
+   中国内地航线燃油附加费将下调
+   标签上存在拼写错误，瑞幸客服称遇到“HeeloKitty”可退款
+   马尔代夫将限制16岁以下青少年访问部分社媒平台
+  
+  TOP 3大新闻
+  腾讯股价暴涨：创2021年1月以来...
 - `36氪` [氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金9...](https://36kr.com/p/3834354708031111?f=rss)
 > 大公司：
   高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜
@@ -42,24 +63,10 @@
   而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。
   36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金、知名投资人个人跟投。资金将主要用于餐饮场景具身世界模型研发及核心产品落地。
   元节核心团队在成立公司前有过较长时期的探索和孵化，此次...
-- `36氪` [8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿](https://36kr.com/p/3835278829008257?f=rss)
-> 今日热点导览
-  
-   闲鱼回应读取用户手机内文物照片上架售卖
-   赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力
-   英伟达推出NVIDIA DSX平台
-   OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人
-   4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车
-  
-  TOP 3大新闻
-  豆包预计6月下旬正式付费，并加速打通抖音电商
-  5月初旬，豆包将...
-- `36氪` [首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发](https://36kr.com/p/3834400181741440?f=rss)
-> 36氪获悉，NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。
-  Aippy成立于2025年，由港股上市公司赤子城科技孵化，其创始人、CEO Evan (叶椿建）是赤子城联合创始人，并长期担任赤子城CTO，在海外...
-- `36氪` [豆包6月下旬正式付费，并加速打通抖音电商丨独家](https://36kr.com/p/3834544830721671?f=rss)
-> 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。
-  随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求...
+- `少数派` [App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio](https://sspai.com/post/110059)
+> 既不用安装客户端，也不用学习剪辑，Mockup Studio 帮你轻松制作产品演示视频。查看全文
+- `少数派` [派早报：Apple 公布 2026 年 Apple 设计大奖得主等](https://sspai.com/post/110658)
+> 微软 Build 2026 与索尼 6 月 State of Play 资讯汇总等。查看全文
 - `少数派` [得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer](https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer)
 > AppTamer是St.ClairSoftware开发多年的一款菜单栏工具。它常驻后台、实时监控所有运行中的进程，主打以可视化的方式管控应用后台资源占用。通过AppTamer，用户既可以设定进程的CP ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈](https://sspai.com/post/110550)
@@ -74,102 +81,102 @@
 > 有时候，完成比完美更重要。查看全文
 - `少数派` [把一句经文放进每天：「一日一偈」的轻阅读尝试](https://sspai.com/post/110094)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [派早报：Anthropic 估值超过 OpenAI](https://sspai.com/post/110519)
-> Anthropic 估值超过 OpenAI海盗湾被查封二十周年，至今仍维持运营高通推出骁龙 C 系列，用于对标 MacBook Neo 的笔记本 PCLast.fm 重归独立运营vivo 发布 vivo S60 系列北京互联网法院称有未成年人游戏充值单案超 60 万元比尔·盖茨公众形象面临空前危机看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [本月玩什么｜混音青春、007 初露锋芒、归零巡礼、地平线 6](https://sspai.com/post/110488)
 > 给你的快乐查漏补缺。查看全文
-- `少数派` [AI 如何影响你的审美？](https://sspai.com/post/110172)
-> 去感受、去思考、去创作吧，这是只有身为人类的你能做到的事情。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Meta repeatedly snubs EU body over Facebook and Instagram user bans](https://www.bbc.com/news/articles/c152yvwjwkko)
-> Article URL: https://www.bbc.com/news/articles/c152yvwjwkko
-Comments URL: https://news.ycombinator.com/item?id=48371224
-Points: 20
-# Comments: 7
-- `Hacker News` [Preparing for KDE Plasma's Last X11-Supported Release](https://blog.davidedmundson.co.uk/blog/596/)
-> Article URL: https://blog.davidedmundson.co.uk/blog/596/
-Comments URL: https://news.ycombinator.com/item?id=48370588
-Points: 25
+- `Hacker News` [America's Data Center Build-Out Is Falling Way Behind Schedule](https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8)
+> Article URL: https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8
+Comments URL: https://news.ycombinator.com/item?id=48379704
+Points: 12
+# Comments: 3
+- `Hacker News` [The Unreasonable Redundancy of Nature's Protein Folds](https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/)
+> Article URL: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/
+Comments URL: https://news.ycombinator.com/item?id=48379669
+Points: 7
 # Comments: 0
-- `Hacker News` [Please don't spam people looking for employment. It's just cruel](https://news.ycombinator.com/item?id=48370330)
-> Earlier I posted in a “Who wants to be hired?” thread, looking for a place where I could apply my experience in hospitality, food tech and automation.A couple hours later I received an email:“Hi Il...
-- `Hacker News` [Fidonet: Technology, Use, Tools, and History (1993)](https://www.fidonet.org/inet92_Randy_Bush.txt)
-> Article URL: https://www.fidonet.org/inet92_Randy_Bush.txt
-Comments URL: https://news.ycombinator.com/item?id=48370291
+- `Hacker News` [The American Missile Crisis](https://research.contrary.com/report/the-american-missile-crisis)
+> Article URL: https://research.contrary.com/report/the-american-missile-crisis
+Comments URL: https://news.ycombinator.com/item?id=48379551
+Points: 19
+# Comments: 8
+- `Hacker News` [HHS is overriding peer review to require changes to research scope, design](https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants)
+> Article URL: https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants
+Comments URL: https://news.ycombinator.com/item?id=48379434
+Points: 24
+# Comments: 8
+- `Hacker News` [Agentic Mfw](https://agenticmotherfucking.website)
+> Article URL: https://agenticmotherfucking.website
+Comments URL: https://news.ycombinator.com/item?id=48379203
+Points: 75
+# Comments: 21
+- `Hacker News` [NLAB: The worlds smallest electronics lab](https://getnlab.com/)
+> Article URL: https://getnlab.com/
+Comments URL: https://news.ycombinator.com/item?id=48379005
+Points: 7
+# Comments: 3
+- `Hacker News` [Can A.I. produce writing that we want to read?](https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read)
+> Article URL: https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read
+Comments URL: https://news.ycombinator.com/item?id=48378995
+Points: 11
+# Comments: 35
+- `Hacker News` [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/)
+> Article URL: https://www.capstone-engine.org/
+Comments URL: https://news.ycombinator.com/item?id=48378925
+Points: 21
+# Comments: 0
+- `Hacker News` [Roku LT Operating System open source distribution](https://blog.roku.com/developer/roku-lt-os)
+> Article URL: https://blog.roku.com/developer/roku-lt-os
+Comments URL: https://news.ycombinator.com/item?id=48378495
 Points: 45
-# Comments: 9
-- `Hacker News` [A walking tour of surveillance infrastructure in Seattle](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/)
-> Article URL: https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/
-Comments URL: https://news.ycombinator.com/item?id=48369980
-Points: 65
-# Comments: 17
-- `Hacker News` [Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing)
-> Article URL: https://www.anthropic.com/news/expanding-project-glasswing
-Comments URL: https://news.ycombinator.com/item?id=48369863
-Points: 57
-# Comments: 56
-- `Hacker News` [Great Question (YC W21) Is Hiring Applied AI Interns](https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern)
-> Article URL: https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern
-Comments URL: https://news.ycombinator.com/item?id=48369098
-Points: 0
-# Comments: 0
-- `Hacker News` [Apple rejected my dictation app for using the accessibility API](https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/)
-> Article URL: https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/
-Comments URL: https://news.ycombinator.com/item?id=48369088
-Points: 185
-# Comments: 118
-- `Hacker News` [CSS-Native Parallax Effect](https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/)
-> Article URL: https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/
-Comments URL: https://news.ycombinator.com/item?id=48368291
-Points: 80
-# Comments: 39
-- `Hacker News` [Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai](https://blog.adafruit.com/)
-> Article URL: https://blog.adafruit.com/
-Comments URL: https://news.ycombinator.com/item?id=48368121
-Points: 368
+# Comments: 11
+- `Hacker News` [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+> https://law.stanford.edu/wp-content/uploads/2026/06/salinas_...
+
+Comments URL: https://news.ycombinator.com/item?id=48377761
+Points: 137
 # Comments: 128
-- `TechCrunch` [Password manager Dashlane says hackers stole some customers’ password vaults](https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/)
-> The password manager giant said hackers were able to 'brute-force' its two-factor system, allowing them to access customer accounts and download their password vaults.
-- `TechCrunch` [Turning your purse into a cyberdeck is the most fun way to resist big tech](https://techcrunch.com/2026/06/02/turning-your-purse-into-a-cyberdeck-is-the-most-fun-way-to-resist-big-tech/)
-> The women building these over-the-top, bedazzled cyberdecks aren’t in it for the glitter alone. This trend is reaching its peak at a time when people feel powerless against big tech.
-- `TechCrunch` [How Europe’s AI strategy diverges from Silicon Valley’s](https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/)
-> The global AI race is often framed as a battle between the United States and China. But at VivaTech, Europe is expected to make the case for an entirely different model.
-- `TechCrunch` [Meta tests ‘Series’ for episodic Reels on Instagram and Facebook](https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/)
-> Meta told TechCrunch that it's considering ways to monetize the new feature, but didn't share specifics on what that could look like.
-- `TechCrunch` [X caters to creators with new ‘React with Video’ feature](https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/)
-> X will now let you 'react with video' to posts.
-- `TechCrunch` [Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries](https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/)
-> Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, heal...
-- `TechCrunch` [Apple’s MacBook Neo is winning over a new generation of buyers](https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/)
-> The MacBook Neo shipped 1.1 million units in its first weeks on sale, IDC estimates, as Apple pushes deeper into the mainstream laptop market.
-- `TechCrunch` [Amazon Prime Day 2026 takes place June 23-26](https://techcrunch.com/2026/06/02/amazon-prime-day-2026-takes-place-june-23-26/)
-> Groceries and household essentials will be a main focus of this year's deals event.
-- `TechCrunch` [Blue Origin plans to launch New Glenn again this year after explosion](https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/)
-> CEO Dave Limp said damage to the company's launchpad in Florida was not as bad as expected. But Blue Origin still hasn't shared the cause of last week's explosion.
-- `TechCrunch` [ZeroDrift raises $10M to protect AI models from themselves](https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/)
-> A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.
-- `The Verge` [Ableton is letting musicians build browser-style extensions for Live](https://www.theverge.com/tech/941674/ableton-live-extensions-sdk-music-daw)
-> Ableton already has Max for Live, which allows users to build MIDI effects, synths, and samplers for its digital audio workstation (DAW). But now with its Extensions SDK, features can be added to A...
-- `The Verge` [The screenless Camp Snap 2 is slimmer and comes with more filters](https://www.theverge.com/tech/941427/camp-snap-2-digital-screenless-camera-filters-kid-lock)
-> After expanding its offerings to video with the CS-8 inspired by Kodak and Canon's retro Super 8mm film cameras, Camp Snap is returning to its roots. The Camp Snap 2 is a sequel to the company's fi...
-- `The Verge` [Lego’s Smart Play Pokémon can train and battle, but don’t do the one thing I wish they could](https://www.theverge.com/gadgets/941484/lego-pokemon-smart-play-brick-sets)
-> When Lego announced its tech-packed Smart Bricks at CES, we were impressed by the potential - enough to give it our Best in Show award. But when the first Star Wars sets actually launched in March,...
-- `The Verge` [Thermacell’s latest smart mosquito system is bigger and more expensive](https://www.theverge.com/tech/941146/liv-2-dot-0-smart-mosquito-repellent-system-thermacell)
-> Thermacell has launched Liv 2.0, the next generation of its Wi-Fi-connected smart mosquito protection system. It features new hardware and can cover a larger area, and Thermacell says its formula c...
-- `The Verge` [Amazon’s four-day Prime Day begins on June 23rd](https://www.theverge.com/gadgets/940021/amazon-prime-day-2026-june-dates-deals)
-> Amazon bucked its usual tradition of having Prime Day in July. Prime Day 2026 is happening in June, kicking off in just a few weeks. Prime members will get access to many deals starting June 23rd a...
-- `The Verge` [Gemini Spark is the most impressive and terrifying AI experience I’ve had yet](https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning)
-> According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword w...
-- `The Verge` [People are leaving a lot of weird stuff in their robotaxis](https://www.theverge.com/transportation/941150/uber-lost-found-robotaxi-items-waymo-motional-avride)
-> A unicorn Beanie Baby. A 15-pound green bowling ball. A pair of dentures. These are just some of the items left behind in robotaxis in the past year, according to Uber's annual Lost and Found Index...
-- `The Verge` [How to watch Microsoft’s Build 2026 conference](https://www.theverge.com/tech/941379/microsoft-build-conference-2026-how-to-watch-livestream)
-> Microsoft is kicking off its yearly Build developer conference in San Francisco today, sandwiched between the recent Google I/O and Apple's upcoming WWDC event. While tickets to attend Build in per...
-- `The Verge` [The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands](https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands)
-> We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on...
-- `The Verge` [Pebblebee’s Halo can help track lost items and keep you safe, and it’s on sale for $50](https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale)
-> If you’re planning to travel this summer, both a Bluetooth tracker and a personal safety device can come in handy, especially if you’ll be exploring on your own. The Pebblebee Halo comb...
+- `TechCrunch` [Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in...](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/)
+> Even in a future of robot taxis, someone still has to return the things passengers leave behind.
+- `TechCrunch` [Cyera eyes $12B valuation at 80x ARR multiple despite operating losses](https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/)
+> The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.
+- `TechCrunch` [Cyberdecks are having a moment, rejecting big tech surveillance with style and substance](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/)
+> Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purs...
+- `TechCrunch` [Uber caps employee AI spending after blowing through budget in 4 months](https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/)
+> Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.
+- `TechCrunch` [New Microsoft tool lets devs spin up AI behavior tests using text descriptions](https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/)
+> Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.
+- `TechCrunch` [A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon](https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/)
+> A new reading subscription from Everand offers access to both e-books and audiobooks, and Fable's book club community.
+- `TechCrunch` [Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/)
+> The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.
+- `TechCrunch` [Microsoft launches Scout, an OpenClaw-inspired personal assistant](https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/)
+> Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.
+- `TechCrunch` [Ex-Anduril engineer raises $42M to build the Amazon of composite parts](https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/)
+> Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.
+- `TechCrunch` [Google rolls out fake call detection to protect against AI deepfake impersonation scams](https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/)
+> As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority fi...
+- `The Verge` [God of War Laufey is coming to the PS5](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer)
+> Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica Studio. Currently, ...
+- `The Verge` [Remedy’s Control sequel launches in September](https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer)
+> Control Resonant, the upcoming sequel to Remedy Entertainment's Control, will be released on September 24th, 2026, according to a trailer that premiered during Tuesday's PlayStation State of Play s...
+- `The Verge` [Here’s seven bloody minutes of Wolverine on the PS5](https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026)
+> At its big State of Play show on Tuesday, Sony shared new look Marvel's Wolverine, the next big title from Insomniac Games that's launching exclusively on PS5 on September 15th. Dressed in the icon...
+- `The Verge` [PlayStation State of Play June 2026: All the news and trailers](https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers)
+> While the majority of Summer Game Fest takes place over the weekend, Sony is getting a jump on things with its next State of Play showcase, which airs on June 2nd at 5PM ET. It’s coming at a ...
+- `The Verge` [I held the next-gen handheld](https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview)
+> Intel couldn't catch a break. Layoffs. Shakedowns. Crashing CPUs torpedoing its reputation, sending desktop gamers fleeing to AMD. Apple and Qualcomm pushing Intel out of multiple flagship laptops....
+- `The Verge` [Microsoft Build 2026: The 7 biggest announcements](https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements)
+> Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-o...
+- `The Verge` [Trump signs executive order to review AI models before they’re released](https://www.theverge.com/policy/941775/trump-ai-executive-order)
+> President Donald Trump signed an executive order Tuesday creating a "voluntary framework" for AI companies to share their frontier models with the federal government before they're released "to pro...
+- `The Verge` [Microsoft’s next-gen quantum chip cuts timeline to useful quantum computing](https://www.theverge.com/news/940874/microsoft-majorana-2-quantum-chip-build)
+> Microsoft claimed last year that it had made a key breakthrough in quantum computing with Majorana 1, the company's first quantum processor. While physicists were immediately skeptical of Microsoft...
+- `The Verge` [Microsoft’s first advanced reasoning AI is here](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026)
+> Microsoft announced a bunch of new in-house AI models at Build 2026, including a new "flagship" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced ...
+- `The Verge` [The durable, floatable UE Wonderboom 4 speaker is cheaper than ever](https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale)
+> I like the UE Wonderboom 4 Bluetooth speaker so much that I bought two of them, though I wish I could have paid less for them. Fortunately, you can stock up on the cheap, so long as you like the co...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
