@@ -4,12 +4,51 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-04
+# 📰 每日科技日报 — 2026-06-05
 
-> 自动收集于 2026-06-04 14:28 | 共 50 条
+> 自动收集于 2026-06-05 04:20 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [微信AI对手机厂商打开一道窄门｜焦点分析](https://36kr.com/p/3839575253993985?f=rss)
+> 文｜王毓婵 梁键强
+  编辑｜张雨忻
+  昨日，腾讯客服回应称，微信正在与华为、小米、荣耀、OPPO、vivo等手机厂商合作推出A2A助手能力，目前已有多家厂商完成接入。
+  “您可以通过对应手机系统的AI助手发起微信音视频通话或向指定好友发送消息。该功能基于A2A（Agent-to-Agent）协作机制，数据安全与隐私通过双重授权机制保障。合作旨在将微信高频沟通功能融入手机系统助手，为您提...
+- `36氪` [前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发](https://36kr.com/p/3839600052898054?f=rss)
+> 作者丨欧雪
+  编辑丨袁斯来
+  硬氪获悉，线控底盘核心零部件供应商毫秒智控已于近期完成数千万元天使+轮融资，本轮投资方为松禾资本和苏高新融晟。这也是公司成立仅一年以来，继获得厚雪资本天使轮独家投资后，接连完成的第二轮融资。
+  毫秒智控2025年4月成立于上海，专注于线控转向（SBW）系统及核心电控部件的研发与生产。
+  毫秒智控的核心竞争力，源于其极度稀缺的团队基因。创始人兼 CEO李杰...
+- `36氪` [硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资](https://36kr.com/p/3838835333253385?f=rss)
+> 作者 | 邱晓芬
+  编辑 | 袁斯来
+  硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括智谱、阶跃星辰、商汤科技。此外，华勤、上汽恒旭等产业投资方持续加注。
+  「原力灵机」是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO唐文斌创立，团队核心创始成员为旷视科技原班人马。
+  有意思的是，此...
+- `36氪` [为什么库里没有选择安踏？](https://36kr.com/p/3836116289877385?f=rss)
+> 文｜贺哲馨
+  编辑｜乔芊
+  2026年6月2日，NBA现役金州勇士队球星斯蒂芬·库里（Stephen Curry）在其个人社交媒体上宣布，个人品牌“库里品牌”（Curry Brand）将与李宁正式签约。
+  ESPN援引知情人士称，这份合同有效期长达十年，内容涵盖篮球产品、运动休闲服饰、库里以个人品牌签约运动员的权利，以及完整的高尔夫球杆产品线，合同具体金额未披露。
+  李宁由此成为库里...
+- `36氪` [国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发](https://36kr.com/p/3835460873385348?f=rss)
+> 文｜胡香赟
+  编辑｜海若镜
+  36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。
+  百曜科技是36氪持续追踪报道的企业（附链接），公司创始团队...
+- `36氪` [8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉](https://36kr.com/p/3839505332161026?f=rss)
+> 今日热点导览
+  
+   微信正与手机厂商合作推出Agent-to-Agent助手能力
+   擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万
+   腾讯客服回应与华为、小米等合作
+   神农旅游集团就国道收费进行道歉
+   苹果智能眼镜推迟至2029年，无显示屏AI眼镜仍将于2027年推出
+  
+  TOP 3 大新闻
+  分析师曝苹果Vision Pro产品线被移除，2...
 - `36氪` [00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期](https://36kr.com/p/3838702884604421?f=rss)
 > “妨碍真理发现过程的，不是谎言，而是极其精辟的错误见解。”德国物理学家兼讽刺作家利希滕贝格在面对启蒙运动中的种种愚昧时，戏谑式地写下了这一句名言。
   许多误判之所以危险，恰恰因为它们看上去过于正确。它们能在一个短周期里解释世界，也容易在世界已经变化之后，继续以“共识”的面貌停留在原地。
@@ -27,47 +66,11 @@
 > 文｜周鑫雨
   编辑｜张雨忻 杨轩
   《智能涌现》从多个信源处独家获悉，2026 年，字节 AI 有四个重要的命题：
-  加大对世界模型训练的投入，年底前，模型性能达到现阶段世界模型全球  SOTA（最佳）Google Genie 3 的水平。
+  加��对世界模型训练的投入，年底前，模型性能达到现阶段世界模型全球  SOTA（最佳）Google Genie 3 的水平。
   视频模型继续保持领先地位，探索“动态生成”等新方向。
-  进一步打好 Coding 的地基，做好 Coding 的 Dog...
-- `36氪` [李宁需要库里，但库里更需要李宁](https://36kr.com/p/3838185031305474?f=rss)
-> 作者 | 谢芸子
-  编辑 | 张帆 
-  一条消息让体育圈炸了锅。
-  6月2日，NBA球星斯蒂芬·库里与中国运动品牌李宁，签下了一为期十年的代言。双方均未披露具体金额，但业内口径相当统一：这是一份总价超过4亿美元（约合27亿元人民币）的超级合同。
-  据多方信息，库里每年保底可获3000万美元的代言费，还能从其个人品牌Curry Brand的销售中得到提成，...
-- `36氪` [深圳具身公司获得汇川、中国电信亿元融资，“视触觉”传感器出货量行业第一｜硬氪首发](https://36kr.com/p/3837269482091656?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  硬氪获悉，戴盟机器人近日完成亿元A轮融资，由汇川技术旗下产业基金汇川产投与中国电信联合投资。资金将用于进一步打造超大规模含物理交互信息数据集，加速物理世界模型研发、并驱动真实物理场景下的数据飞轮与商业闭环。
-  戴盟机器人于2023年正式运营，核心团队长期聚焦机器人灵巧操作与物理交互智能领域。联合创始人兼首席科学家王煜教授曾任港科大机器人研究院创始院长，他所...
-- `36氪` [深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发](https://36kr.com/p/3837650456430851?f=rss)
-> 作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，微型高性能电机企业指尖智擎近期完成数千万元Pre-A轮融资，由深创投领投，天启资本与卓源亚洲跟投。资金将主要用于新一代微型轴向磁通电机的量产爬坡、空心杯电机产线建设及全球头部客户的供应链交付保障。多维资本担任本轮独家财务顾问。
-  指尖智擎成立于2024年8月，公司主打产品包括微型轴向磁通关节模组与空心杯电机，核心应用场景覆盖灵巧手、消费级机器人、...
-- `36氪` [8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元](https://36kr.com/p/3838091144464644?f=rss)
-> 今日热点导览
-  
-   名创优品称会员买单仅限潮玩商品
-   谷歌扩大Quick Share与AirDrop互传适配范围，覆盖更多安卓机型
-   Meta在全球范围扩大青少年内容管控
-   多家银行下架3年期5年期定期存款
-  
-  TOP 3大新闻
-  A股第4只两千元股诞生，联讯仪器盘中股价冲破2000元
-  6月3日，联讯仪器盘中股价冲破2000元，最高达2047.88元。公司总市值...
-- `36氪` [氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司](https://36kr.com/p/3837330582008963?f=rss)
-> 大公司：
-  瑞典AI初创公司Lovable与Google Cloud扩大多年期合作
-  据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设施，从而向全球用户扩展其AI驱动的软件开发服务。（界面）
-  美银：英伟达2027财年下半年Vera CPU销售额有望达200亿美元
-  美银分析师Vivek Arya团队更新了英伟...
-- `36氪` [36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元](https://36kr.com/p/3836973710423429?f=rss)
-> 文｜邓咏仪
-  编辑｜张雨忻 杨轩
-  36 氪独家获悉，字节跳动火山引擎在今年 4 月已将 MaaS 业务营收目标上调至 150 亿元，且这个营收目标几乎每月都在上调。而在 2025 年底，这一目标还是 100 亿元。
-   36 氪了解到，在 2025 年，火山全年的 MaaS 收入约 15 亿元左右，等于截止目前 2026 年的营收目标是去年实际营收的 10 倍。可以说，火山...
+  进一步打好 Coding 的地基，做好 Coding 的 Do...
+- `少数派` [派早报：Google 相关资讯三则、华为发布智慧屏 S7 X Pro等](https://sspai.com/post/110754)
+> Apple、Google 联合推出 Eclipsa Video HDR 开源标准等。查看全文
 - `少数派` [新玩意 243｜少数派的编辑们最近买了啥？](https://sspai.com/post/110736)
 > 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
 - `少数派` [它不会是下一场新冠：简单了解汉坦病毒](https://sspai.com/post/110717)
@@ -82,8 +85,6 @@
 > 「原点系列」希望能在那些真正影响使用的地方做一些细致的修补，这个名字也代表着我对工具应用的一点执念。一个工具最好有清楚的边界，知道自己要解决什么，也知道自己不应该做什么。查看全文
 - `少数派` [App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio](https://sspai.com/post/110059)
 > 既不用安装客户端，也不用学习剪辑，Mockup Studio 帮你轻松制作产品演示视频。查看全文
-- `少数派` [派早报：Apple 公布 2026 年 Apple 设计大奖得主等](https://sspai.com/post/110658)
-> 微软 Build 2026 与索尼 6 月 State of Play 资讯汇总等。查看全文
 - `少数派` [得力管家还是多此一举？聊聊 macOS 后台进程管理工具 App Tamer](https://sspai.com/prime/story/manage-macos-background-activities-with-app-tamer)
 > AppTamer是St.ClairSoftware开发多年的一款菜单栏工具。它常驻后台、实时监控所有运行中的进程，主打以可视化的方式管控应用后台资源占用。通过AppTamer，用户既可以设定进程的CP ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [在视频时代，认真拍一张照片：OPPO Find X9 Ultra 影像漫谈](https://sspai.com/post/110550)
@@ -91,93 +92,94 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [EU should expand to 40 states – including Canada](https://www.cnbc.com/2026/06/04/finland-stubb-eu-canada-turkey-norway.html)
-> Article URL: https://www.cnbc.com/2026/06/04/finland-stubb-eu-canada-turkey-norway.html
-Comments URL: https://news.ycombinator.com/item?id=48398901
+- `Hacker News` [Azure Linux 4.0 is Microsoft's first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/)
+> Article URL: https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/
+Comments URL: https://news.ycombinator.com/item?id=48407499
 Points: 14
-# Comments: 2
-- `Hacker News` [Bitcoin Has Longest Losing Streak Since August in Bruising Week](https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends)
-> Article URL: https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends
-Comments URL: https://news.ycombinator.com/item?id=48398073
-Points...
-- `Hacker News` [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
-> Article URL: https://blog.cloudflare.com/voidzero-joins-cloudflare/
-Comments URL: https://news.ycombinator.com/item?id=48398055
-Points: 143
-# Comments: 77
-- `Hacker News` [Ask HN: So what happened to Facebook "localhost" tracking?](https://news.ycombinator.com/item?id=48397731)
-> It was discussed a year ago.
-https://news.ycombinator.com/item?id=44235467
-
-Comments URL: https://news.ycombinator.com/item?id=48397731
-Points: 28
-# Comments: 24
-- `Hacker News` [AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus)
-> Article URL: https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus
-Comments URL: https://news.ycombinator.com/item?id=48397435
-Points: 0
-...
-- `Hacker News` [French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56](https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56)
-> Article URL: https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56
-Comments URL: https://news.ycombinator.com/item?id=48397233
-Points: 1...
-- `Hacker News` [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
-> Article URL: https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement
-Comments URL: https://news.ycombinator.com/item?id=48397199
-Points: 34
+# Comments: 9
+- `Hacker News` [The Causes of Long Covid](https://www.science.org/content/blog-post/causes-long-covid)
+> Article URL: https://www.science.org/content/blog-post/causes-long-covid
+Comments URL: https://news.ycombinator.com/item?id=48407451
+Points: 25
 # Comments: 6
-- `Hacker News` [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)
-> Article URL: https://www.fieggen.com/shoelace/secureknot.htm
-Comments URL: https://news.ycombinator.com/item?id=48397028
-Points: 81
-# Comments: 27
-- `Hacker News` [Gaussian Point Splatting](https://momentsingraphics.de/Siggraph2026.html)
-> Article URL: https://momentsingraphics.de/Siggraph2026.html
-Comments URL: https://news.ycombinator.com/item?id=48396792
-Points: 99
-# Comments: 34
-- `Hacker News` [Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites](https://uruky.com/?il=en)
-> You can get a 2h free trial by solving a proof-of-work captcha when topping up your account for the first time.If you'd like to learn more, an independent interview was posted a couple of weeks ago...
-- `TechCrunch` [Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission](https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/)
-> Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.
-- `TechCrunch` [Oura Ring 5 review: Thinner, lighter, better](https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/)
-> The Ring 5, which Oura describes as the world’s smallest smart ring, is 40% smaller than its predecessor and starts at $399.
-- `TechCrunch` [Benchmark raises its first-ever growth fund as part of $2B capital raise](https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/)
-> The legendary abandons its more than 20 year tradition of keeping its funds to about $425 million.
-- `TechCrunch` [Quick commerce FirstClub doubles valuation to $255M in nine months](https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/)
-> The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.
-- `TechCrunch` [Lovable signs multiyear deal with Google Cloud to up usage 5x, source says](https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/)
-> Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.
-- `TechCrunch` [Defense tech is flooded with money, but who’s built to last?](https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/)
-> Defense tech is red hot right now. Anduril and Mach Industries just doubled and quadrupled their valuations, respectively, and the U.S. government is proposing a&...
-- `TechCrunch` [Uber to put 500 data-collection vehicles on the road this year](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/)
-> The modified Ioniq 5 will be loaded with sensors to capture data for Uber's new AV Labs division.
-- `TechCrunch` [Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal](https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/)
-> If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.
-- `TechCrunch` [Meta mercifully spun out VR fitness game Supernatural instead of just killing it](https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/)
-> Meta appears to have listened to the Supernatural users who protested the app's sad fate after sweeping layoffs.
-- `TechCrunch` [Substack’s new ‘Reply Rules’ feature lets creators control how people respond](https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/)
-> Substack's new Reply Rules feature is currently available for all English-language publications and is designed to give creators greater control over how their audiences respond.
+- `Hacker News` [What happens if Japan takes in zero immigrants?](https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero)
+> Article URL: https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero
+Comments URL: https://news.ycombinator.com/item?id=48407068
+Points: 13
+# Comments: 7
+- `Hacker News` [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
+> https://developers.meta.com/horizon/blog/build-apps-for-port...
+
+Comments URL: https://news.ycombinator.com/item?id=48406640
+Points: 124
+# Comments: 28
+- `Hacker News` [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review)
+> Article URL: https://github.com/alibaba/open-code-review
+Comments URL: https://news.ycombinator.com/item?id=48406358
+Points: 85
+# Comments: 21
+- `Hacker News` [South Korean Forums Will Need to Scan Every Images with AI Censorship Tools](https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341)
+> Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341
+Comments URL: https://news.ycombinator.com/item?id=484...
+- `Hacker News` [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
+> Article URL: https://arxiv.org/abs/2606.04032
+Comments URL: https://news.ycombinator.com/item?id=48405931
+Points: 125
+# Comments: 20
+- `Hacker News` [Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate](https://arxiv.org/abs/2604.24881)
+> Article URL: https://arxiv.org/abs/2604.24881
+Comments URL: https://news.ycombinator.com/item?id=48405841
+Points: 19
+# Comments: 0
+- `Hacker News` [SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation)
+> Article URL: https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation
+Comments URL: https://news.ycombinator.com/item?id=48405718
+Points: 22...
+- `Hacker News` [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
+> Article URL: https://xeiaso.net/notes/2026/ipv6-zones-go-url/
+Comments URL: https://news.ycombinator.com/item?id=48405019
+Points: 104
+# Comments: 79
+- `TechCrunch` [Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites](https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/)
+> The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.
+- `TechCrunch` [Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/)
+> Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory...
+- `TechCrunch` [Airbnb’s Brian Chesky plans to launch a new AI lab](https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/)
+> The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.
+- `TechCrunch` [Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app](https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/)
+> This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.
+- `TechCrunch` [Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18](https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/)
+> On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking pl...
+- `TechCrunch` [Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney](https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/)
+> On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the A...
+- `TechCrunch` [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/)
+> Meta may have found one way to slash its massive data center bill: tents.
+- `TechCrunch` [Apple approves Poke as the first AI agent on its Messages for Business platform](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/)
+> Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.
+- `TechCrunch` [Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft](https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/)
+> Fusion startup Helion is racing to complete a power plant for Microsoft by 2028. A fresh infusion of cash should help with that.
+- `TechCrunch` [Meta’s Oversight Board says account bans lack due process, transparency](https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/)
+> Meta's board cites "due process" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations.
+- `The Verge` [Valve says it’s ready to launch the Steam Machine this summer](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified)
+> Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardwa...
+- `The Verge` [Cyberdecks used to look like little laptops, but now they’re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
+> DIYer and TikTok user Annike Tan, who goes by @ubeboobey, can carry her cyberdeck around without anyone noticing because it doesn't look like a computer at all. Tan, who has been featured in The Cu...
+- `The Verge` [Kevin O’Leary agrees to downsize massive Utah data center](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center)
+> Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tan...
+- `The Verge` [Google is letting social media stars customize their search result page](https://www.theverge.com/tech/943233/google-search-profiles-custom-page)
+> Google now lets big creators and publishers in the US claim dedicated profiles in Search to highlight things like videos, articles, and their other profiles online. But this feature won't be availa...
+- `The Verge` [Amazon’s new plan for games: James Bond and AI Snoop Dogg](https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna)
+> Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs d...
+- `The Verge` [Belkin’s new Joy-Con grips also boost the Switch 2’s battery life](https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller)
+> Most of Belkin's Switch 2 accessories are designed to either protect or power up Nintendo's latest handheld, like its Charging Case Pro that actually does both at the same time. Its new multitaskin...
+- `The Verge` [Cash App made a magic wand for contactless payments](https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch)
+> The convenience of contactless payments can already feel magical, but Cash App is really leaning into that with its latest accessory. The mobile payment service is launching the Cash App Wand: an N...
+- `The Verge` [Windows is back on the Microsoft menu](https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad)
+> I can't remember the last time Microsoft kicked off a Build keynote with Windows front and center, but that's exactly what CEO Satya Nadella did this week. Nadella didn't address the issues Microso...
+- `The Verge` [Remarkable’s refurbished Paper Pro bundle is hundreds off](https://www.theverge.com/gadgets/942999/remarkable-paper-pro-vizio-soundbar-marathon-deal-sale)
+> Color E Ink tablets aren’t usually affordable. I’m not going to say that Woot’s price on a refurbished “good as new” Remarkable Paper Pro is cheap, but it’s pretty fantastic compared to buying one ...
 - `The Verge` [TSMC struggles to keep up with AI demand: ‘We can only support so much’](https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles)
 > Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to repor...
-- `The Verge` [We’re giving away a Prime Day grab bag loaded with over $800 of free tech](https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes)
-> We’re always testing out new products here The Verge, which presents a bit of a problem for our inventory closet in New York City. It’s literally overflowing with gadgets, new and old, so we’re res...
-- `The Verge` [Elon Musk is steamrolling Wall Street to become a trillionaire](https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds)
-> Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I...
-- `The Verge` [Let us filter AI slop, you cowards](https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok)
-> It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the l...
-- `The Verge` [AI leaders call for tougher protections against AI-aided bioweapons](https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress)
-> Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open...
-- `The Verge` [Yes, the Oura Ring 5 is noticeably smaller](https://www.theverge.com/gadgets/942616/oura-ring-5-size-comparison-first-impressions)
-> This is not an Oura Ring 5 review. That's coming later, once I've had enough time to really test the new durability and battery life claims, plus the new software updates that start rolling out tod...
-- `The Verge` [This Google Photos update has saved your digital photo frame](https://www.theverge.com/tech/942860/aura-frame-google-photos-api-update-auto-sync)
-> Aura's digital photo frames will continue to automatically sync with your Google Photos albums, after API changes threatened to remove the feature. Aura is now rolling out a full migration to Googl...
-- `The Verge` [Amazon develops a warehouse robot that workers can speak to](https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus)
-> Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot tow...
-- `The Verge` [Shokz upgraded its open earbuds with better sound and a lighter design](https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones)
-> Shokz has announced two new versions of its open earbuds. Like the original OpenDots One that launched in May 2025, the new Shokz OpenDots 2 and OpenDots Air are both designed to be worn clipped to...
-- `The Verge` [Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU](https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu)
-> Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily replace the battery. To meet its obligations from a new EU regulation that's set to go into effect ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
