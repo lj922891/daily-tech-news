@@ -4,12 +4,20 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-05
+# 📰 每日科技日报 — 2026-06-06
 
-> 自动收集于 2026-06-05 14:17 | 共 50 条
+> 自动收集于 2026-06-06 04:02 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事](https://36kr.com/p/3840996342073604?f=rss)
+> 今日热点导览
+  SpaceX据悉将其IPO的日本融资目标提高至25亿美元
+  二手房挂牌量回落新房库存下降，楼市供需关系向好
+  B站宣布启动AI创造公开赛
+  TOP3大新闻
+  数据显示，豆包推出付费后月活减少610万 
+  据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年...
 - `36氪` [氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业](https://36kr.com/p/3840267945969929?f=rss)
 > 大公司：
   首关15亿元，英诺科创三期基金持续聚焦早期科技投资
@@ -19,9 +27,9 @@
 - `36氪` [Token大战中，华为云选择了第三条路｜最前线](https://36kr.com/p/3840016255126016?f=rss)
 > 作者 | 邓咏仪
   编辑 | 张雨忻
-  “在国产化算力供应受限的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”
+  “在当前国产化算力正在成长的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”
   6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。
-  他举了个例子：一个人闲来无事在手机上问 AI ...
+  他举了个例子：一个人闲来无事在手机上问 A...
 - `36氪` [中国入境游距离「世界第一」还有多远？](https://36kr.com/p/3840001908361472?f=rss)
 > “曾有外国友人让我推荐中国的最佳旅行目的地，我的回答是：你应该看看中国的山。”
   最近的一场入境游研讨会，携程集团联合创始人兼董事局主席梁建章这样回答。在他的表述中，中国有世界最高的山——喜马拉雅；全世界最美的山，则在中国南方最独特的喀斯特地貌——桂林。
@@ -60,17 +68,8 @@
   编辑｜海若镜
   36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。
   百曜科技是36氪持续追踪报道的企业（附链接），公司创始团队...
-- `36氪` [8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉](https://36kr.com/p/3839505332161026?f=rss)
-> 今日热点导览
-  
-   微信正与手机厂商合作推出Agent-to-Agent助手能力
-   擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万
-   腾讯客服回应与华为、小米等合作
-   神农旅游集团就国道收费进行道歉
-   苹果智能眼镜推迟至2029年，无显示屏AI眼镜仍将于2027年推出
-  
-  TOP 3 大新闻
-  分析师曝苹果Vision Pro产品线被移除，2...
+- `少数派` [2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处](https://sspai.com/post/110763)
+> Apple 设计大奖结果公布，而这 12 款 app 又有什么特别之处呢？查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110786)
 > 📅本周新预告《逃出绝命街》正式预告6月1日，电影《逃出绝命街》发布了正式预告，将于8月14日在北美上映。大卫·罗伯特·米切尔执导，J·J·艾布拉姆斯制片，安妮·海瑟薇、伊万·麦克格雷格主演，一场雷暴之 ...查看全文
 - `少数派` [macOS 存储管理漫谈：去重是节约空间的最好方法](https://sspai.com/prime/story/macos-storage-management-deduplication)
@@ -89,96 +88,92 @@
 > 人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。查看全文
 - `少数派` [比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署](https://sspai.com/post/110126)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等](https://sspai.com/post/110698)
-> OpenAI 扩展 Codex 的使用场景、华米推出 Amazfit Balance 3 智能手表等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Programmers will document for Claude, but not for each other](https://blog.plover.com/2026/03/09/#documentation-wins-2)
-> Article URL: https://blog.plover.com/2026/03/09/#documentation-wins-2
-Comments URL: https://news.ycombinator.com/item?id=48411510
-Points: 54
-# Comments: 49
-- `Hacker News` [Nango (YC W23, dev infra) is hiring staff back end engineers](https://nango.dev/careers)
-> Article URL: https://nango.dev/careers
-Comments URL: https://news.ycombinator.com/item?id=48411227
-Points: 0
-# Comments: 0
-- `Hacker News` [Communication on European Tech Sovereignty, and an EU Open-Source Strategy](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy)
-> Article URL: https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy
-Comments URL: https://news.ycombinator.com/item?id=48410602...
-- `Hacker News` [Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens](https://github.com/zdk/lowfat)
-> Hi HN,Not sure if anyone would be interested.But, just wanted to share that I've been maintaining my small tool called 'lowfat' that helps me filters some of my verbose CLI output.It's a single bin...
-- `Hacker News` [Entanglement Builds Space-Time. Now "Magic" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
-> Article URL: https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/
-Comments URL: https://news.ycombinator.com/item?id=48409675
-Points: 80
-# Comments: 53
-- `Hacker News` [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)
-> Article URL: https://arxiv.org/abs/2606.03673
-Comments URL: https://news.ycombinator.com/item?id=48409664
-Points: 212
-# Comments: 83
-- `Hacker News` [ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bit-Pirate)
-> Article URL: https://github.com/geo-tp/ESP32-Bit-Pirate
-Comments URL: https://news.ycombinator.com/item?id=48409306
-Points: 79
-# Comments: 32
-- `Hacker News` [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
-> Article URL: https://ladybird.org/posts/changing-how-we-develop-ladybird/
-Comments URL: https://news.ycombinator.com/item?id=48409191
-Points: 538
-# Comments: 345
-- `Hacker News` [Lee Kuan Yew's Singapore Story](https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story)
-> Article URL: https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story
-Comments URL: https://news.ycombinator.com/item?id=48409173
-Points: 54
-# Comments: 58
-- `Hacker News` [Fine-tuning an LLM to write docs like it's 1995](https://passo.uno/fine-tuning-docs-llm/)
-> Article URL: https://passo.uno/fine-tuning-docs-llm/
-Comments URL: https://news.ycombinator.com/item?id=48408442
-Points: 124
-# Comments: 46
-- `TechCrunch` [AirTrunk commits $30B to build 5GW of AI data centers in India](https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/)
-> The Australian data center operator plans to set up 5GW of capacity in India.
-- `TechCrunch` [Mira Murati steps back into the spotlight, carefully](https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/)
-> In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.
-- `TechCrunch` [Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites](https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/)
-> The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.
-- `TechCrunch` [Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns](https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/)
-> Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory...
-- `TechCrunch` [Airbnb’s Brian Chesky plans to launch a new AI lab](https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/)
-> The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.
-- `TechCrunch` [Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app](https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/)
-> This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.
-- `TechCrunch` [Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18](https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/)
-> On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking pl...
-- `TechCrunch` [Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney](https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/)
-> On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the A...
-- `TechCrunch` [Meta steals a tactic from Tesla and builds data centers in tents](https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/)
-> Meta may have found one way to slash its massive data center bill: tents.
-- `TechCrunch` [Apple approves Poke as the first AI agent on its Messages for Business platform](https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/)
-> Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.
-- `The Verge` [MAHA wants to make cotton the new beef tallow](https://www.theverge.com/report/943944/maha-rfk-jr-cotton-natural-fiber-clothing-microplastics)
-> In between beef tallow fries, raw milk, and vaccine denialism, Make America Healthy Again figureheads have set their sights on another slice of life: our clothing. "The MAHA movement doesn't stop w...
-- `The Verge` [What do you mean my new smart scale is ‘built for GLP-1 users’?](https://www.theverge.com/column/943639/optimizer-glp-1-tech-withings-oura-health)
-> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
-- `The Verge` [Can AI tell if your script will make a hit film?](https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood)
-> When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance ...
-- `The Verge` [Why isn’t the Trump phone made in the USA?](https://www.theverge.com/tech/943852/trump-phone-made-in-the-usa-ftc-assembled-china)
-> Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, I'm investigating where it might have b...
-- `The Verge` [This chunky little tablet got my kid to clean up his toys](https://www.theverge.com/tech/943219/skylight-buddy-kids-calendar-chore-tracker-review)
-> Never underestimate the power that a cheap tablet holds over a kid under six. The Skylight Buddy is a device with one job: to be a cute little guy that helps your kid track routines and chores. It'...
-- `The Verge` [I customized a MacBook Neo with colorful spare parts](https://www.theverge.com/tech/942839/macbook-neo-customization-color-mods-official-parts-frankenlaptop)
-> The MacBook Neo is Apple's cheapest laptop, its most colorful, and its easiest to repair in years. That means owners can buy replacement parts in all four of its available colors and swap them in o...
-- `The Verge` [Porsche’s Cayenne Coupe Turbo will even make 911 owners nervous](https://www.theverge.com/transportation/943004/porsche-cayenne-coupe-turbo-review-specs-price)
-> Back in 2002, Porsche fans sputtered with rage as the Cayenne made its debut at the Paris Motor. More than 20 years later, Porsche now sells more SUVs than anything else in its lineup. Last year, t...
-- `The Verge` [Valve says it’s ready to launch the Steam Machine this summer](https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified)
-> Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardwa...
-- `The Verge` [Cyberdecks used to look like little laptops, but now they’re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
-> DIYer and TikTok user Annike Tan, who goes by @ubeboobey, can carry her cyberdeck around without anyone noticing because it doesn't look like a computer at all. Tan, who has been featured in The Cu...
-- `The Verge` [Kevin O’Leary agrees to downsize massive Utah data center](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center)
-> Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tan...
+- `Hacker News` [OpenAI Help: Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
+> Article URL: https://help.openai.com/en/articles/20001061-lockdown-mode
+Comments URL: https://news.ycombinator.com/item?id=48421145
+Points: 7
+# Comments: 3
+- `Hacker News` [Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)
+> Genuine question.Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates t...
+- `Hacker News` [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/)
+> This weekend is the ABC Classic FM countdown, which prompted me to dust off an old un-published data visualisation of rankings from previous years.I've considered adding a search function, but I al...
+- `Hacker News` [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
+> Article URL: https://salvagedcircuitry.com/sigma-45mm.html
+Comments URL: https://news.ycombinator.com/item?id=48420148
+Points: 91
+# Comments: 26
+- `Hacker News` [Nordstjernen Web Browser 1.0.0 released](https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0)
+> Article URL: https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0
+Comments URL: https://news.ycombinator.com/item?id=48419821
+Points: 21
+# Comments: 11
+- `Hacker News` [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
+> Article URL: https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html
+Comments URL: https://news.ycombinator.com/item?id=48419571
+Points: 31
+# Comments: 19
+- `Hacker News` [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
+> https://xcancel.com/eastdakota/status/2062860530360959273More of these (via https://news.ycombinator.com/item?id=48418641 below):https://xcancel.com/gregisenberg/status/2061794787825479818 (https:/...
+- `Hacker News` [Transformers are inherently succinct](https://openreview.net/pdf?id=Yxz92UuPLQ)
+> This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers.
+
+Comments URL: https://news.ycombinator.com/item?id=48416635
+Points: 99
+# Commen...
+- `Hacker News` [Aging and Eye Problems](https://ldstephens.net/posts/aging-and-eye-problems/)
+> Article URL: https://ldstephens.net/posts/aging-and-eye-problems/
+Comments URL: https://news.ycombinator.com/item?id=48416392
+Points: 68
+# Comments: 34
+- `Hacker News` [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
+> https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m...https://www.adyen.com/press-and-media/adyen-payments-gov-uk
+
+Comments URL: https://news.ycombinator.com/item?id=48415217
+Points: 376
+#...
+- `TechCrunch` [Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)
+> After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.
+- `TechCrunch` [Founders share VC horror stories, and some are naming names](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/)
+> A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.
+- `TechCrunch` [Former cyber executive turned whistleblower accuses IBM of covering up several data breaches](https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/)
+> IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.
+- `TechCrunch` [Startup Battlefield 200 applications officially close in 3 days](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/)
+> Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October...
+- `TechCrunch` [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
+> In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.
+- `TechCrunch` [GM’s electric future depends on a new battery — and this facility](https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/)
+> GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.
+- `TechCrunch` [As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew](https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/)
+> Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months.
+- `TechCrunch` [The most interesting startups right now want to get you off your phone](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/)
+> While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startu...
+- `TechCrunch` [Supabase doubles valuation to $10B in 8 months](https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/)
+> Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.
+- `TechCrunch` [Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person](https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/)
+> Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or r...
+- `The Verge` [More than a decade later, the team behind N++ is back with a multiplayer sequel](https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel)
+> Back in 2015, the two-person studio Metanet released N++, a brutally hard 2D platformer that was a decade in the making, building off of previous releases dating back to the freeware Flash title N....
+- `The Verge` [Grand Theft Auto VI is warping the video game release calendar](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest)
+> Who's afraid of the next GTA? Based on the last few days of Summer Game Fest, just about everyone. Grand Theft Auto VI hasn't been present at any of the keynote events, but its presence was felt ev...
+- `The Verge` [Final Fantasy VII’s remake trilogy will conclude with Revelation](https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement)
+> Square Enix has officially announced the third and final game in its Final Fantasy VII remake trilogy: Final Fantasy VII Revelation. It will release on multiple platforms simultaneously - PC, PS5, ...
+- `The Verge` [Control Resonant is a sequel — and also a starting point](https://www.theverge.com/games/944151/control-resonant-hands-on)
+> Chronologically, Control Resonant is a sequel to 2019's Control. But in most other ways, the games aren't directly connected. To developer Remedy, they're more like two sides of the same coin. When...
+- `The Verge` [Congress still can’t decide what to do about warrantless surveillance](https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte)
+> The deadline to reauthorize Section 702 of the Foreign Intelligence Surveillance Act is coming up a week from now on June 12th, and legislators seem no closer to reaching a deal. If this sounds lik...
+- `The Verge` [Summer Game Fest Live 2026: The biggest news, trailers, and announcements](https://www.theverge.com/games/939484/summer-game-fest-live-2026-biggest-news-trailers-announcements)
+> Geoff Keighley’s annual June showcase for videos games has officially happened, and it was a big one. Across a two hour event — and another hour for Day of the Devs — we got news about the th...
+- `The Verge` [Gone in 60 minutes](https://www.theverge.com/entertainment/944337/gone-in-60-minutes)
+> It should have been the final straw. The new power couple of editorial failure - Bari Weiss and Nick Bilton - had fired legendary 60 Minutes journalist Scott Pelley. Why? Because he dared to questi...
+- `The Verge` [The Sonos Era 100 speaker is down to its lowest price in months](https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale)
+> Whether you’re considering starting a Sonos speaker setup, or adding to an existing group, the Sonos Era 100 is worth picking up. The compact, capable smart speaker is currently marked down to $189...
+- `The Verge` [This is your laptop… on AI](https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast)
+> We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. ...
+- `The Verge` [What happens when your phone is confiscated at the airport](https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists)
+> Even if you've done nothing wrong, it's never a good idea to hand your phone to the cops. But international travelers at American airports often have no choice - even if they're US citizens. When M...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
