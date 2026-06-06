@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-06-06
 
-> 自动收集于 2026-06-06 04:02 | 共 50 条
+> 自动收集于 2026-06-06 13:01 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -91,49 +91,55 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [OpenAI Help: Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
+- `Hacker News` [Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer)
+> Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer
+Comments URL: https://news.ycombinator.com/item?id=48424103
+Points: 0
+# Comments: 0
+- `Hacker News` [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
+> Article URL: https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/
+Comments URL: https://news.ycombinator.com/item?id=48423990
+Points: 62
+# Comments: 61
+- `Hacker News` [Introduction – Rust for Python Programmers](https://microsoft.github.io/RustTraining/python-book/)
+> Article URL: https://microsoft.github.io/RustTraining/python-book/
+Comments URL: https://news.ycombinator.com/item?id=48423615
+Points: 20
+# Comments: 7
+- `Hacker News` [Do women’s mate preferences change across the ovulatory cycle? (2014) [pdf]](https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf)
+> Article URL: https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf
+Comments URL: https://news.ycombinator.com/item?id=48423541
+Points: 26
+# Comments: 22
+- `Hacker News` [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+> Article URL: https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/
+Comments URL: https://news.ycombinator.com/item?id=48422993
+Points: 82
+# C...
+- `Hacker News` [Zig Zen Update](https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2)
+> Article URL: https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2
+Comments URL: https://news.ycombinator.com/item?id=48422769
+Points: 99
+# Comments: 33
+- `Hacker News` [Azure Linux Desktop](https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/)
+> Article URL: https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/
+Comments URL: https://news.ycombinator.com/item?id=48422451
+Points: 24
+# ...
+- `Hacker News` [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
+> Article URL: https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/
+Comments URL: https://news.ycombinator.com/item?id=48421442
+Point...
+- `Hacker News` [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
+> Article URL: https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/
+Comments URL: https://news.ycombinator.com/item?id=48421171
+Points: 104
+# Comments: 35
+- `Hacker News` [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
 > Article URL: https://help.openai.com/en/articles/20001061-lockdown-mode
 Comments URL: https://news.ycombinator.com/item?id=48421145
-Points: 7
-# Comments: 3
-- `Hacker News` [Ask HN: Why is the HN crowd so anti-AI?](https://news.ycombinator.com/item?id=48420827)
-> Genuine question.Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates t...
-- `Hacker News` [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/)
-> This weekend is the ABC Classic FM countdown, which prompted me to dust off an old un-published data visualisation of rankings from previous years.I've considered adding a search function, but I al...
-- `Hacker News` [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
-> Article URL: https://salvagedcircuitry.com/sigma-45mm.html
-Comments URL: https://news.ycombinator.com/item?id=48420148
-Points: 91
-# Comments: 26
-- `Hacker News` [Nordstjernen Web Browser 1.0.0 released](https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0)
-> Article URL: https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0
-Comments URL: https://news.ycombinator.com/item?id=48419821
-Points: 21
-# Comments: 11
-- `Hacker News` [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
-> Article URL: https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html
-Comments URL: https://news.ycombinator.com/item?id=48419571
-Points: 31
-# Comments: 19
-- `Hacker News` [Three of our worst VC stories](https://twitter.com/eastdakota/status/2062860530360959273)
-> https://xcancel.com/eastdakota/status/2062860530360959273More of these (via https://news.ycombinator.com/item?id=48418641 below):https://xcancel.com/gregisenberg/status/2061794787825479818 (https:/...
-- `Hacker News` [Transformers are inherently succinct](https://openreview.net/pdf?id=Yxz92UuPLQ)
-> This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers.
-
-Comments URL: https://news.ycombinator.com/item?id=48416635
-Points: 99
-# Commen...
-- `Hacker News` [Aging and Eye Problems](https://ldstephens.net/posts/aging-and-eye-problems/)
-> Article URL: https://ldstephens.net/posts/aging-and-eye-problems/
-Comments URL: https://news.ycombinator.com/item?id=48416392
-Points: 68
-# Comments: 34
-- `Hacker News` [Gov.uk has replaced Stripe with Dutch provider Adyen](https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763)
-> https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m...https://www.adyen.com/press-and-media/adyen-payments-gov-uk
-
-Comments URL: https://news.ycombinator.com/item?id=48415217
-Points: 376
-#...
+Points: 69
+# Comments: 31
 - `TechCrunch` [Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)
 > After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.
 - `TechCrunch` [Founders share VC horror stories, and some are naming names](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/)
@@ -154,6 +160,12 @@ Points: 376
 > Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.
 - `TechCrunch` [Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person](https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/)
 > Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or r...
+- `The Verge` [Kabuto Park captures the fleeting joy of summer vacation](https://www.theverge.com/entertainment/944060/kabuto-park-review-xbox-nintendo-switch-steam)
+> There are a lot of games that remind me of summer - hot days in the backseat with a copy of Dragon Warrior III, cooling off in the basement while grinding Gran Turismo races - but there aren't a lo...
+- `The Verge` [Here comes new Siri again](https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini)
+> Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to rei...
+- `The Verge` [The next YouTube phenomenon hitting the big screen](https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer)
+> Hi, friends! Welcome to Installer No. 131, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy last week of productivity before the World Cup starts, and a...
 - `The Verge` [More than a decade later, the team behind N++ is back with a multiplayer sequel](https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel)
 > Back in 2015, the two-person studio Metanet released N++, a brutally hard 2D platformer that was a decade in the making, building off of previous releases dating back to the freeware Flash title N....
 - `The Verge` [Grand Theft Auto VI is warping the video game release calendar](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest)
@@ -168,12 +180,6 @@ Points: 376
 > Geoff Keighley’s annual June showcase for videos games has officially happened, and it was a big one. Across a two hour event — and another hour for Day of the Devs — we got news about the th...
 - `The Verge` [Gone in 60 minutes](https://www.theverge.com/entertainment/944337/gone-in-60-minutes)
 > It should have been the final straw. The new power couple of editorial failure - Bari Weiss and Nick Bilton - had fired legendary 60 Minutes journalist Scott Pelley. Why? Because he dared to questi...
-- `The Verge` [The Sonos Era 100 speaker is down to its lowest price in months](https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale)
-> Whether you’re considering starting a Sonos speaker setup, or adding to an existing group, the Sonos Era 100 is worth picking up. The compact, capable smart speaker is currently marked down to $189...
-- `The Verge` [This is your laptop… on AI](https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast)
-> We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. ...
-- `The Verge` [What happens when your phone is confiscated at the airport](https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists)
-> Even if you've done nothing wrong, it's never a good idea to hand your phone to the cops. But international travelers at American airports often have no choice - even if they're US citizens. When M...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
