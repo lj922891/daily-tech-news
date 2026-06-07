@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-06-07
 
-> 自动收集于 2026-06-07 04:39 | 共 50 条
+> 自动收集于 2026-06-07 13:14 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -37,9 +37,9 @@
   近期，携程集团宣布了一项新的战略计划：未来五年，公司将引入2亿人次...
 - `36氪` [探店13家，理想/蔚来/问界如何征服50万客群？](https://36kr.com/p/3839803361741313?f=rss)
 > 一周之内，三款“9系”旗舰SUV密集上市，高端新能源市场竞争战况升级。
-  5月15日，理想发布新一代L9，其中Livis版本搭载800V主动悬架、线控制动、线控转向的全线��底盘，售价50.98万元起。
+  5月15日，理想发布新一代L9，其中Livis版本搭载800V主动悬架、线控制动、线控转向的全线控底盘，售价50.98万元起。
   5月27日，蔚来ES9与问界新M9同天发布。姚明也称“空间大”的蔚来ES9，起售价49.8万元；在高端市场已经破局的问界M9，起售价49.98万元。
-  冲击50万元级的高端市场，似乎...
+  冲击50万元级的高端市场，似乎已...
 - `36氪` [微信AI对手机厂商打开一道窄门｜焦点分析](https://36kr.com/p/3839575253993985?f=rss)
 > 文｜王毓婵 梁键强
   编辑｜张雨忻
@@ -68,6 +68,8 @@
   编辑｜海若镜
   36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。
   百曜科技是36氪持续追踪报道的企业（附链接），公司创始团队...
+- `少数派` [接住来自空间站的信号：如何用手台接收 SSTV？](https://sspai.com/post/110108)
+> 它不是玄学，也不是单纯的浪漫。它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验。查看全文
 - `少数派` [2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处](https://sspai.com/post/110763)
 > Apple 设计大奖结果公布，而这 12 款 app 又有什么特别之处呢？查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110786)
@@ -86,60 +88,57 @@
 > 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
 - `少数派` [它不会是下一场新冠：简单了解汉坦病毒](https://sspai.com/post/110717)
 > 人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。查看全文
-- `少数派` [比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署](https://sspai.com/post/110126)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
+> Article URL: https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/
+Comments URL: https://news.ycombinator.com/item?id=48434312
+Points: 3...
+- `Hacker News` [Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.](https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle)
+> Article URL: https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle
+Comments URL: https://news.ycombinator.com/item?id=48434204
+Points: 5
+# Comme...
+- `Hacker News` [9 Mothers (YC P26) Is Hiring](https://9mothers.com/careers)
+> Article URL: https://9mothers.com/careers
+Comments URL: https://news.ycombinator.com/item?id=48433987
+Points: 0
+# Comments: 0
+- `Hacker News` [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
+> Article URL: https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/
+Comments URL: https://news.ycombinator.com/item?id=48433410
+Point...
+- `Hacker News` [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
+> Article URL: https://arxiv.org/abs/2606.04299
+Comments URL: https://news.ycombinator.com/item?id=48433305
+Points: 15
+# Comments: 0
+- `Hacker News` [Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers](https://kyushu.dev/)
+> Article URL: https://kyushu.dev/
+Comments URL: https://news.ycombinator.com/item?id=48432722
+Points: 6
+# Comments: 5
+- `Hacker News` [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
+> Article URL: https://www.ioccc.org/2025/
+Comments URL: https://news.ycombinator.com/item?id=48432199
+Points: 243
+# Comments: 57
+- `Hacker News` [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
+> Article URL: https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/
+Comments URL: https://news.ycombinator.com/item?id=48431981
+Points: 196
+# Comments: 170
 - `Hacker News` [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
 > Article URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398
 Comments URL: https://news.ycombinator.com/item?id=48431461
-Points: 43
-# Comments: 14
+Points: 209
+# Comments: 94
 - `Hacker News` [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
 > Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses
 Comments URL: https://news.ycombinator.com/item?id=48431286
-Points: 32
-# Comments: 17
-- `Hacker News` [Show HN: TakoVM – Isolated model and tool execution used by enterprises](https://github.com/las7/TakoVM)
-> Article URL: https://github.com/las7/TakoVM
-Comments URL: https://news.ycombinator.com/item?id=48431257
-Points: 8
-# Comments: 0
-- `Hacker News` [How Liminalism Became the Defining Aesthetic of Our Time](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
-> Article URL: https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/
-Comments URL: https://news.ycombinator.com/item?id=48431085
-Points: 11
-# Comments: 2
-- `Hacker News` [Show HN: Oproxy – inspect and modify network traffic from the browser](https://github.com/sauravrao637/oproxy)
-> Article URL: https://github.com/sauravrao637/oproxy
-Comments URL: https://news.ycombinator.com/item?id=48431079
-Points: 20
-# Comments: 1
-- `Hacker News` [Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)
-> Article URL: https://arxiv.org/abs/2601.14470
-Comments URL: https://news.ycombinator.com/item?id=48430923
-Points: 49
-# Comments: 10
-- `Hacker News` [An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World](https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight)
-> Article URL: https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight
-Comments URL: https://news.ycombinator.com/item?id=48430860
-Poi...
-- `Hacker News` [Show HN: DomainTasker – avoid losing domains and surprise renewals](https://domaintasker.com/)
-> Article URL: https://domaintasker.com/
-Comments URL: https://news.ycombinator.com/item?id=48430693
-Points: 17
-# Comments: 9
-- `Hacker News` [Public Domain Image Archive](https://pdimagearchive.org/)
-> Article URL: https://pdimagearchive.org/
-Comments URL: https://news.ycombinator.com/item?id=48430539
-Points: 63
-# Comments: 11
-- `Hacker News` [Computex 2026: Are We Heading for the Agentic PC Era Yet?](https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/)
-> Article URL: https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/
-Comments URL: https://news.ycombinator.com/item?id=48428647
-Points: 29
-# Comments: 30
+Points: 109
+# Comments: 50
 - `TechCrunch` [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
 > Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.
 - `TechCrunch` [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
@@ -160,6 +159,12 @@ Points: 29
 > Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October...
 - `TechCrunch` [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
 > In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.
+- `The Verge` [Kill some time with these much needed distractions](https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole)
+> Constantly being plugged into the news grind is mentally exhausting. Sometimes we just need to take a break, unwind, and do something fun. That’s why we’ve built up a collection of distractin...
+- `The Verge` [AI ‘content creators’ are getting harder to spot](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8A...
+- `The Verge` [JMGO’s N3 Ultimate projector is the new portable 4K champ](https://www.theverge.com/reviews/943732/best-portable-4k-projector-review)
+> Sorry Anker: JMGO now makes my favorite flagship portable projector. The N3 Ultimate is an excellent portable 4K projector that defeats moderate ambient light at severe placement angles and can riv...
 - `The Verge` [The first Story-Rich showcase was packed with narrative-driven games](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers)
 > Fellow Traveller, the publisher behind games like Titanium Court and 1000xResist, just wrapped up its Story-Rich Showcase, which featured a bunch of narrative-driven indie games. With more than 20 ...
 - `The Verge` [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
@@ -174,12 +179,6 @@ Points: 29
 > A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was c...
 - `The Verge` [Benn Jordan longs for the days of tech that didn’t spy on you](https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire)
 > Benn Jordan may have initially gained notoriety for his music as Flashbulb and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But about five years ago, Benn decided to t...
-- `The Verge` [82-0 is the best basketball game, to hell with NBA 2K](https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game)
-> 82-0 marries the stat nerd fun of fantasy basketball with instant gratification and a bit of dumb luck. The goal is to draft a team of players that could (theoretically) have a perfect 82-0 season....
-- `The Verge` [Meta made its own AI-generated clickbait news feed](https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles)
-> Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a "For You" section that populates a list ...
-- `The Verge` [Kabuto Park captures the fleeting joy of summer vacation](https://www.theverge.com/entertainment/944060/kabuto-park-review-xbox-nintendo-switch-steam)
-> There are a lot of games that remind me of summer - hot days in the backseat with a copy of Dragon Warrior III, cooling off in the basement while grinding Gran Turismo races - but there aren't a lo...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
