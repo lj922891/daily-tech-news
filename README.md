@@ -4,12 +4,34 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-07
+# 📰 每日科技日报 — 2026-06-08
 
-> 自动收集于 2026-06-07 13:14 | 共 50 条
+> 自动收集于 2026-06-08 04:44 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯](https://36kr.com/p/3844006775360002?f=rss)
+> 作者 | 邱晓芬
+  编辑 | 袁斯来
+  「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。
+  作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。
+  但范典做第一款产品用了三年。
+  20...
+- `36氪` [「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发](https://36kr.com/p/3841459663030532?f=rss)
+> 文｜胡香赟
+  编辑｜海若镜
+  36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。
+  华超神控于2025年创立，创始人李昕是中国科学院与德国弗劳恩霍夫IGD研究所联合培养生物医学工程博士，曾任G...
+- `36氪` [8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像](https://36kr.com/p/3843764238174729?f=rss)
+> 今日热点导览
+  AI等机器网络请求量首超人类
+  瑞幸咖啡回应拿铁去冰仅半杯
+  宗馥莉自有品牌KELLYONE回归
+  多家低成本航空公司对登机箱登机收费
+  黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案
+  TOP3大新闻
+  八家上市公司集中公告“补税” 
+  6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿元。其中...
 - `36氪` [9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事](https://36kr.com/p/3840996342073604?f=rss)
 > 今日热点导览
   SpaceX据悉将其IPO的日本融资目标提高至25亿美元
@@ -51,23 +73,10 @@
   硬氪获悉，线控底盘核心零部件供应商毫秒智控已于近期完成数千万元天使+轮融资，本轮投资方为松禾资本和苏高新融晟。这也是公司成立仅一年以来，继获得厚雪资本天使轮独家投资后，接连完成的第二轮融资。
   毫秒智控2025年4月成立于上海，专注于线控转向（SBW）系统及核心电控部件的研发与生产。
   毫秒智控的核心竞争力，源于其极度稀缺的团队基因。创始人兼 CEO李杰...
-- `36氪` [硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资](https://36kr.com/p/3838835333253385?f=rss)
-> 作者 | 邱晓芬
-  编辑 | 袁斯来
-  硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括智谱、阶跃星辰、商汤科技。此外，华勤、上汽恒旭等产业投资方持续加注。
-  「原力灵机」是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO唐文斌创立，团队核心创始成员为旷视科技原班人马。
-  有意思的是，此...
-- `36氪` [为什么库里没有选择安踏？](https://36kr.com/p/3836116289877385?f=rss)
-> 文｜贺哲馨
-  编辑｜乔芊
-  2026年6月2日，NBA现役金州勇士队球星斯蒂芬·库里（Stephen Curry）在其个人社交媒体上宣布，个人品牌“库里品牌”（Curry Brand）将与李宁正式签约。
-  ESPN援引知情人士称，这份合同有效期长达十年，内容涵盖篮球产品、运动休闲服饰、库里以个人品牌签约运动员的权利，以及完整的高尔夫球杆产品线，合同具体金额未披露。
-  李宁由此成为库里...
-- `36氪` [国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发](https://36kr.com/p/3835460873385348?f=rss)
-> 文｜胡香赟
-  编辑｜海若镜
-  36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。
-  百曜科技是36氪持续追踪报道的企业（附链接），公司创始团队...
+- `少数派` [大语言模型正在变成大编程模型](https://sspai.com/post/110746)
+> 大语言模型的语言能力，好像并没有随着基础模型的迭代而提升？查看全文
+- `少数派` [派早报：乘用车越造越重，12 年增重近 400 公斤](https://sspai.com/post/110847)
+> 乘用车越造越重，12 年增重近 400 公斤iFixit 拆解华强北山寨苹果产品Cloudflare 收购 Vite 背后公司rsync 疑因 AI 参与维护出现 bug，引发争议OpenAI 与美国政府商讨捐赠股权美国平均上路车龄达到 13 年看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [接住来自空间站的信号：如何用手台接收 SSTV？](https://sspai.com/post/110108)
 > 它不是玄学，也不是单纯的浪漫。它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验。查看全文
 - `少数派` [2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处](https://sspai.com/post/110763)
@@ -84,61 +93,66 @@
 > 今年WWDC全球开发者大会即将在北京时间6月9日凌晨拉开帷幕，对Apple来说今年这一次活动是一个非常关键的节点：首先，2024年WWDC上画的饼至今没有兑现，而AI竞赛在2026年已经进入了白热化， ...查看全文
 - `少数派` [派早报：Google 相关资讯三则、华为发布智慧屏 S7 X Pro等](https://sspai.com/post/110754)
 > Apple、Google 联合推出 Eclipsa Video HDR 开源标准等。查看全文
-- `少数派` [新玩意 243｜少数派的编辑们最近买了啥？](https://sspai.com/post/110736)
-> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
-- `少数派` [它不会是下一场新冠：简单了解汉坦病毒](https://sspai.com/post/110717)
-> 人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
-> Article URL: https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/
-Comments URL: https://news.ycombinator.com/item?id=48434312
-Points: 3...
-- `Hacker News` [Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.](https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle)
-> Article URL: https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle
-Comments URL: https://news.ycombinator.com/item?id=48434204
-Points: 5
-# Comme...
-- `Hacker News` [9 Mothers (YC P26) Is Hiring](https://9mothers.com/careers)
-> Article URL: https://9mothers.com/careers
-Comments URL: https://news.ycombinator.com/item?id=48433987
-Points: 0
-# Comments: 0
-- `Hacker News` [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/)
-> Article URL: https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/
-Comments URL: https://news.ycombinator.com/item?id=48433410
-Point...
-- `Hacker News` [Efficient and Training-Free Single-Image Diffusion Models](https://arxiv.org/abs/2606.04299)
-> Article URL: https://arxiv.org/abs/2606.04299
-Comments URL: https://news.ycombinator.com/item?id=48433305
-Points: 15
-# Comments: 0
-- `Hacker News` [Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers](https://kyushu.dev/)
-> Article URL: https://kyushu.dev/
-Comments URL: https://news.ycombinator.com/item?id=48432722
-Points: 6
+- `Hacker News` [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+> Article URL: https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/
+Comments URL: https://news.ycombinator.com/item?id=48440952
+Points: 28
+# Comments: 4
+- `Hacker News` [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
+> Article URL: https://igerman.cc/blog/dopamine-fracking/
+Comments URL: https://news.ycombinator.com/item?id=48440792
+Points: 23
+# Comments: 4
+- `Hacker News` [Texas grid flags risks as data centers, crypto sites fail voltage tests](https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/)
+> Article URL: https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/
+Comments URL: https://news.ycombinator.com/item?id=48440610
+Poin...
+- `Hacker News` [Algorithmic Monocultures in Hiring](https://algorithmichiring.github.io/)
+> Article URL: https://algorithmichiring.github.io/
+Comments URL: https://news.ycombinator.com/item?id=48440549
+Points: 40
 # Comments: 5
-- `Hacker News` [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
-> Article URL: https://www.ioccc.org/2025/
-Comments URL: https://news.ycombinator.com/item?id=48432199
-Points: 243
-# Comments: 57
-- `Hacker News` [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
-> Article URL: https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/
-Comments URL: https://news.ycombinator.com/item?id=48431981
-Points: 196
-# Comments: 170
-- `Hacker News` [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
-> Article URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398
-Comments URL: https://news.ycombinator.com/item?id=48431461
-Points: 209
-# Comments: 94
-- `Hacker News` [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
-> Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses
-Comments URL: https://news.ycombinator.com/item?id=48431286
-Points: 109
-# Comments: 50
+- `Hacker News` [New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)
+> Article URL: https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08
+Comments URL: https://news.ycombinator.com/item?i...
+- `Hacker News` [DeepSeek V4 Pro beats GPT-5.5 Pro on precision](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision)
+> Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision
+Comments URL: https://news.ycombinator.com/item?id=48440448
+Points: 156
+# Comments: 44
+- `Hacker News` [1worldflag: A blue dot on a transparent background](https://1worldflag.com/)
+> Article URL: https://1worldflag.com/
+Comments URL: https://news.ycombinator.com/item?id=48440435
+Points: 31
+# Comments: 11
+- `Hacker News` [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
+> Article URL: https://teenage.engineering/products/apc-2
+Comments URL: https://news.ycombinator.com/item?id=48440383
+Points: 144
+# Comments: 74
+- `Hacker News` [7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible](https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html)
+> Article URL: https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html
+Comments URL: https://news.ycombinator.com/item?id=48440360
+Points: 67
+# Comments: 13
+- `Hacker News` [The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)
+> Article URL: https://ranpara.net/posts/perceptron-explained-from-scratch/
+Comments URL: https://news.ycombinator.com/item?id=48440064
+Points: 108
+# Comments: 14
+- `TechCrunch` [Is this the dawn of the Tokenpocalypse?](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)
+> We're likely to see more price increases as the big AI companies plan to go public.
+- `TechCrunch` [Notion restores access to Anthropic after service disruption](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)
+> Notion's head of product said he was "astonished" at “the amount of people RT-ing this."
+- `TechCrunch` [OpenAI is still working on that ‘super app’](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
+> "Chat is dead" — at least, according to a senior OpenAI employee.
+- `TechCrunch` [TechCrunch Mobility: Inside GM’s $900M EV battery gamble](https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/)
+> Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
+- `TechCrunch` [Hacked, leaked, and held for ransom: the worst breaches of 2026 so far](https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/)
+> From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.
 - `TechCrunch` [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
 > Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.
 - `TechCrunch` [What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates](https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/)
@@ -149,36 +163,26 @@ Points: 109
 > President Donald Trump said he's discussing deals "where the American people can benefit from the success of AI."
 - `TechCrunch` [Beyond Instagram: Introducing the next generation of social apps](https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/)
 > These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community.
-- `TechCrunch` [Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus](https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/)
-> After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.
-- `TechCrunch` [Founders share VC horror stories, and some are naming names](https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/)
-> A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.
-- `TechCrunch` [Former cyber executive turned whistleblower accuses IBM of covering up several data breaches](https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/)
-> IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.
-- `TechCrunch` [Startup Battlefield 200 applications officially close in 3 days](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/)
-> Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October...
-- `TechCrunch` [Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)
-> In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.
-- `The Verge` [Kill some time with these much needed distractions](https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole)
-> Constantly being plugged into the news grind is mentally exhausting. Sometimes we just need to take a break, unwind, and do something fun. That’s why we’ve built up a collection of distractin...
-- `The Verge` [AI ‘content creators’ are getting harder to spot](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8A...
-- `The Verge` [JMGO’s N3 Ultimate projector is the new portable 4K champ](https://www.theverge.com/reviews/943732/best-portable-4k-projector-review)
-> Sorry Anker: JMGO now makes my favorite flagship portable projector. The N3 Ultimate is an excellent portable 4K projector that defeats moderate ambient light at severe placement angles and can riv...
-- `The Verge` [The first Story-Rich showcase was packed with narrative-driven games](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers)
-> Fellow Traveller, the publisher behind games like Titanium Court and 1000xResist, just wrapped up its Story-Rich Showcase, which featured a bunch of narrative-driven indie games. With more than 20 ...
-- `The Verge` [GOG apologizes for emailing people Nazi symbols](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun)
-> GOG sent a newsletter about the game The End of the Sun on June 5th that included symbols associated with the Nazi SS. The Steam competitor issued a statement attributing the inclusion to a "series...
-- `The Verge` [The cutest games from the Wholesome Direct 2026 showcase](https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers)
-> Every year at Summer Game Fest, nestled in between the splashy blockbuster showcases, the Wholesome Direct provides a nice change of pace. It's similarly packed with games - this year's edition had...
-- `The Verge` [Summer Game Fest 2026: All the news from gaming’s busiest week](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026)
-> Get ready for some gaming news. It’s officially June, which means splashy new events from PlayStation, Xbox, gaming hype man Geoff Keighley, and more. PlayStation kicked things off with a big...
-- `The Verge` [4K Blu-rays are three for $33 ahead of Father’s Day](https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale)
-> If you know a dad with a predilection for physical media, he might really dig what you buy for him with this deal at Gruv. Ahead of Father’s Day on June 21st, the online seller (operated by Univers...
-- `The Verge` [The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center](https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center)
-> A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was c...
-- `The Verge` [Benn Jordan longs for the days of tech that didn’t spy on you](https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire)
-> Benn Jordan may have initially gained notoriety for his music as Flashbulb and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But about five years ago, Benn decided to t...
+- `The Verge` [NASA will wear high-tech Prada long johns to the Moon](https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis)
+> We've seen Axiom Space and Prada's collaboration on the Axiom Extravehicular Mobility Unit (AxEMU) spacesuit. Now the company has revealed the Liquid Cooling and Ventilation Garment (LCVG) that ast...
+- `The Verge` [The 7 biggest storylines from Summer Game Fest 2026](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories)
+> The 2026 edition of Summer Game Fest just wrapped up, and it was surprisingly hectic. The nearly week-long event came at a challenging time for the games industry, and for the most part the big key...
+- `The Verge` [Persona 6 exists, and that’s all we know](https://www.theverge.com/entertainment/945256/persona-6-teaser)
+> This year's Summer Game Fest turned out to be a good one for fans of Japanese RPGs. First, the conclusion of the Final Fantasy VII remake trilogy was announced at SGF Live, and now we have the long...
+- `The Verge` [Microsoft’s Xbox 25th anniversary console comes in translucent green](https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date)
+> Microsoft has created a special edition Xbox Series X to celebrate 25 years of the console. The Xbox 25th-anniversary console takes design cues from the original Xbox console, with both the console...
+- `The Verge` [Minecraft Dungeons 2 gets a September release date](https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer)
+> Minecraft Dungeons 2, a sequel to Microsoft's dungeon crawler spinoff Minecraft Dungeons, will be released on September 29th. The company originally revealed the game in a brief trailer in March, p...
+- `The Verge` [Fable launches in late February after recent delay](https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026)
+> Just a few days after pushing Fable out of 2026, Microsoft showed off more footage of Fable, the first new entry in the storied RPG franchise since 2010's Fable III, at its Xbox Games Showcase on S...
+- `The Verge` [Halo: Campaign Evolved arrives July 28th](https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026)
+> As part of its Xbox Games Showcase on Sunday, Microsoft revealed new details about Halo: Campaign Evolved, the upcoming remake of Halo: Combat Evolved's campaign mode. The remake will debut on Xbox...
+- `The Verge` [Gears of War: E-Day isn’t coming to the PS5](https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch)
+> Apparently, the "return of Xbox" means a retreat from other platforms. At its Xbox Games Showcase today, Microsoft revealed that Gears of War: E-Day - which was previously rumored for a PS5 launch ...
+- `The Verge` [The Verge Weekend Questionnaire](https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire)
+> Have you ever wondered what the most indispensable app is for your favorite musician or how the world’s tech CEOs stay focused? Well, that’s the sort of thing we aim to uncover in our V...
+- `The Verge` [Xbox Games Showcase 2026: All the news and trailers](https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers)
+> The console industry is in a weird place, and both Xbox and PlayStation have a chance to change the narrative a bit with their showcases at Summer Game Fest. Sony did that by focusing on the single...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
