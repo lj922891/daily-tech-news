@@ -4,12 +4,48 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-08
+# 📰 每日科技日报 — 2026-06-09
 
-> 自动收集于 2026-06-08 15:21 | 共 50 条
+> 自动收集于 2026-06-09 04:05 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上](https://36kr.com/p/3845356968839680?f=rss)
+> 作者 | 邱晓芬
+  编辑 | 袁斯来
+  6月9日，位于加州库比蒂诺的苹果总部被Swift标志性的暖色系渐变背景填满，熟悉的倒计时欢呼声依旧，但WWDC 2026选了一条更克制的路线——
+  这次，苹果没有如往常一般发布新硬件，也不预热万众瞩目的折叠屏，而是把一个多小时演讲的最大篇幅，留给了软件与AI。
+  显然，苹果正试图把过去两年的"AI迟到者"...
+- `36氪` [36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先](https://36kr.com/p/3845295918909954?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，苏州墨锋新材料科技有限公司（下称“墨锋科技”）近日完成新一轮千万元融资，由险峰基金、成都科创投集团投资，资金将主要用于产线扩建与产能扩张。
+  墨锋科技成立于2023年，技术源自四川大学近20年高分子材料研究成果，聚焦高性能POD（聚芳噁二唑）薄膜产业化。
+  POD作为一种耐高温聚合物，早在上世纪...
+- `36氪` [36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司](https://36kr.com/p/3845293120621057?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，隼瞻科技有限公司（下称“隼瞻科技”）近日完成近亿元天使+轮融资。本轮融资引入英飞尼迪资本、白云金控、深圳中小担创投、厚天资本、华盖资本、嘉誉创投等多家战略投资人，老股东毅达资本、达泰资本持续加持。
+  隼瞻科技成立于2023年初，专注芯片处理器模块及开发平台，致力于打造基于“RISC-V+DSA”的...
+- `36氪` [生殖学博士入局脑机接口，想做一款缓解女性经期情绪问题的脑机"发箍"｜早期项目](https://36kr.com/p/3843971153267208?f=rss)
+> 文｜胡香赟
+  编辑｜海若镜
+  对许多女性而言，经期不只是一次生理周期的重复，更是一场身心双重的考验。腹痛、头痛、疲劳、焦虑、易怒……这些经前期综合征（PMS）带来的不适，严重时甚至会影响工作和生活。然而，目前主流的缓解方式仍然高度依赖止痛药，长期服药存在副作用风险，而物理热敷、休息调整固然能带来一定舒缓，却效果有限。
+  有没有一种更温和、无创的方式，能安全有效地缓解经期不适？这一市场痛...
+- `36氪` [「百奥几何」完成数亿元战略融资，打造生命科学"微观世界模型"｜36氪首发](https://36kr.com/p/3839626642344454?f=rss)
+> 文｜胡香赟
+  编辑｜海若镜
+  36氪获悉，近日，AI原生生物科技公司百奥几何已完成数亿元战略融资。由上海生物医药创新转化基金、国科投资、达晨财智、星连资本联合领投，高榕资本、指数人工智能产业创新基金跟投。指数资本担任独家财务顾问。另据介绍，本轮募集资金将重点用于生命科学微观世界模型GeoFlow的持续迭代，以及自研药物管线的推进。
+  当前，人工智能正沿两条主线加速演进：��大语言模型与...
+- `36氪` [8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件](https://36kr.com/p/3845196412193284?f=rss)
+> 今日热点导览
+  阿里巴巴成立Token Foundry事业部
+  微信宣布面向开发者提供接入微信AI生态的能力
+  全球70%PPE树脂断供，PCB价格大涨
+  英伟达与LG集团合建AI工厂，合作推进机器人、自动驾驶及自主AI
+  TOP3大新闻
+  苹果推出全新Siri AI，新一代操作系统iOS 27正式发布
+  在WWDC 2026开发者大会上，新一代操作系统iOS 27正式发布，本...
 - `36氪` [世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线](https://36kr.com/p/3844185422400008?f=rss)
 > 2026年美加墨世界杯进入倒计时，对于普通球迷而言，世界杯意味着绿茵场上的竞争与激情；但对于体育装备制造业来说，这项全球顶级赛事同样是检验供应链实力与技术能力的重要时刻。
   2025年10月，阿迪达斯正式发布2026年世界杯官方比赛用球"三重浪（TRIONDA）"。据阿迪达斯方面介绍，这款比赛用球在中国广东的一家代工厂完成生产与检测，每一颗出厂用球均印有"MADE IN CHINA"字样。...
@@ -30,48 +66,12 @@
 > 2026年，全球平均每小时就有一家新的AI公司诞生。 
   AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。
   但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，到底能不能顺畅...
-- `36氪` [产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯](https://36kr.com/p/3844006775360002?f=rss)
-> 作者 | 邱晓芬
-  编辑 | 袁斯来
-  「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。
-  作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。
-  但范典做第一款产品用了三年。
-  20...
-- `36氪` [「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发](https://36kr.com/p/3841459663030532?f=rss)
-> 文｜胡香赟
-  编辑｜海若镜
-  36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。
-  华超神控于2025年创立，创始人李昕是中国科学院与德国弗劳恩霍夫IGD研究所联合培养生物医学工程博士，曾任G...
-- `36氪` [8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像](https://36kr.com/p/3843764238174729?f=rss)
-> 今日热点导览
-  AI等机器网络请求量首超人类
-  瑞幸咖啡回应拿铁去冰仅半杯
-  宗馥莉自有品牌KELLYONE回归
-  多家低成本航空公司对登机箱登机收费
-  黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案
-  TOP3大新闻
-  八家上市公司集中公告“补税” 
-  6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿元。其中...
-- `36氪` [9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事](https://36kr.com/p/3840996342073604?f=rss)
-> 今日热点导览
-  SpaceX据悉将其IPO的日本融资目标提高至25亿美元
-  二手房挂牌量回落新房库存下降，楼市供需关系向好
-  B站宣布启动AI创造公开赛
-  TOP3大新闻
-  数据显示，豆包推出付费后月活减少610万 
-  据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年...
-- `36氪` [氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业](https://36kr.com/p/3840267945969929?f=rss)
-> 大公司：
-  首关15亿元，英诺科创三期基金持续聚焦早期科技投资
-  36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。
-  比特币“金库”公司市值蒸发620亿美元
-  比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做实业，坚...
-- `36氪` [Token大战中，华为云选择了第三条路｜最前线](https://36kr.com/p/3840016255126016?f=rss)
-> 作者 | 邓咏仪
-  编辑 | 张雨忻
-  “在当前国产化算力正在成长的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。”
-  6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。
-  他举了个例子：一个人闲来无事在手机上问 A...
+- `少数派` [派早报：WWDC26 全球开发者大会开幕等](https://sspai.com/post/110889)
+> 少数派的近期动态少数派×AKKO联合共创带屏键盘即将上线，6月11日，来直播间一起共创。即刻预约可爱又好玩的经典萌物——监工水獭挂件复刻啦！会员点数也可兑换！给獭一个家首款MBTI定制墨水屏「口袋先知 ...查看全文
+- `少数派` [一图流 | Apple WWDC26 开幕式回顾](https://sspai.com/post/110887)
+> WWDC26 开幕式一图流来啦。查看全文
+- `少数派` [Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾](https://sspai.com/post/110888)
+> Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。查看全文
 - `少数派` [派评｜近期值得关注的 App](https://sspai.com/post/110874)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [少数派正版软件 + 付费教程 618 促销活动限时开启](https://sspai.com/post/110853)
@@ -86,102 +86,96 @@
 > 它不是玄学，也不是单纯的浪漫。它是频率、传播、天线、轨道、多普勒效应，以及我们手中那一点点设备共同完成的一次小小实验。查看全文
 - `少数派` [2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处](https://sspai.com/post/110763)
 > Apple 设计大奖结果公布，而这 12 款 app 又有什么特别之处呢？查看全文
-- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/110786)
-> 📅本周新预告《逃出绝命街》正式预告6月1日，电影《逃出绝命街》发布了正式预告，将于8月14日在北美上映。大卫·罗伯特·米切尔执导，J·J·艾布拉姆斯制片，安妮·海瑟薇、伊万·麦克格雷格主演，一场雷暴之 ...查看全文
-- `少数派` [macOS 存储管理漫谈：去重是节约空间的最好方法](https://sspai.com/prime/story/macos-storage-management-deduplication)
-> 虽然最近各种用LLM帮忙整理电脑里的文件、删除垃圾数据的帖子很火，但我天然对这种LLM用法抱有一丝警惕，我始终相信电脑里存在的文件都有自己的意义。所以我就想在这篇文章里和大家聊聊macOS里的存储管理 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
-- `少数派` [31 位普通人，给一只背包开出了成绩单](https://sspai.com/post/110666)
-> 写在前面一只背包，能不能让你体面地背去客户的会议室，也能陪你参加朋友聚会？装下两三天的差旅行李之后，它还能让你背得轻松吗？当包里同时塞着笔记本、平板和各种重设备，容量、舒适与防护，究竟能不能兼得？带着 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)
-> hope you enjoy
-
-Comments URL: https://news.ycombinator.com/item?id=48445554
-Points: 82
-# Comments: 12
-- `Hacker News` [Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code](https://intunedhq.com)
-> Hey HN, we're Faisal and Ahmad from Intuned (https://intunedhq.com). We’re building a platform for building, deploying, and maintaining browser automations.Customers primarily use the Intuned AI ag...
-- `Hacker News` [Zig by Example](https://github.com/boringcollege/zig-by-example)
-> Article URL: https://github.com/boringcollege/zig-by-example
-Comments URL: https://news.ycombinator.com/item?id=48444871
-Points: 119
-# Comments: 35
-- `Hacker News` [Nvidia partners with LG robotics to build humanoid robots in South Korea](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/)
-> Article URL: https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/
-Comments URL: https://news.ycombinator.com/item?id=48444451
-Points: 38
-# Comments: 36
-- `Hacker News` [Are you expected to run five Python type-checkers now?](https://pyrefly.org/blog/too-many-type-checkers/)
-> Article URL: https://pyrefly.org/blog/too-many-type-checkers/
-Comments URL: https://news.ycombinator.com/item?id=48444442
-Points: 48
-# Comments: 24
-- `Hacker News` [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social)
-> Article URL: https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social
-Comments URL: https://news.ycombinator.com/item?id=48444228
-Points: 195
-# Comments: 157
-- `Hacker News` [Config Files That Run Code: Supply Chain Security Blindspot](https://safedep.io/config-files-that-run-code/)
-> Article URL: https://safedep.io/config-files-that-run-code/
-Comments URL: https://news.ycombinator.com/item?id=48443135
-Points: 40
-# Comments: 5
-- `Hacker News` [The Cypherpunk Library](https://www.cypherpunkbooks.com)
-> Article URL: https://www.cypherpunkbooks.com
-Comments URL: https://news.ycombinator.com/item?id=48442725
-Points: 205
-# Comments: 66
-- `Hacker News` [Age verification tech could put children at greater risk, says think tank](https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank)
-> Article URL: https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank
-Comments URL: https://news.ycombinator.com/item?id=48442371
-Point...
-- `Hacker News` [How much of Thermo Fisher's antibody data has been manipulated?](https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/)
-> Article URL: https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/
-Comments URL: https://news.ycombinator.com/item?id=48442075
-Points: 227
-# Comment...
-- `TechCrunch` [Sam Bankman-Fried applies for a pardon from Trump](https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/)
-> The FTX co-founder is serving a 25-year sentence, doled out in 2024.
-- `TechCrunch` [Eventbrite and Vimeo owner Bending Spoons files to go public](https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/)
-> Bending Spoons say its app caters to a user base of over 500 million monthly active users.
-- `TechCrunch` [Massachusetts votes to pass new privacy rights bill that bans sale of precise location data](https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/)
-> The bill is expected to blanket ban companies and startups from selling people's precise location data across the state.
-- `TechCrunch` [Uber, Wayve and Waymo are headed towards a robotaxi showdown in London](https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/)
-> Uber customers in the UK can now join an interest list to increase their chances of being matched with a Wayve robotaxi.
-- `TechCrunch` [Is this the dawn of the Tokenpocalypse?](https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/)
-> We're likely to see more price increases as the big AI companies plan to go public.
-- `TechCrunch` [Notion restores access to Anthropic after service disruption](https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/)
-> Notion's head of product said he was "astonished" at “the amount of people RT-ing this."
-- `TechCrunch` [OpenAI is still working on that ‘super app’](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
-> "Chat is dead" — at least, according to a senior OpenAI employee.
-- `TechCrunch` [TechCrunch Mobility: Inside GM’s $900M EV battery gamble](https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/)
-> Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
-- `TechCrunch` [Hacked, leaked, and held for ransom: the worst breaches of 2026 so far](https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/)
-> From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.
-- `TechCrunch` [OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/)
-> Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.
-- `The Verge` [Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot](https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts)
-> Hackers likely took over 20,225 Instagram accounts using Meta's AI support chatbot, the company confirmed in a notice filed with the state of Maine. In the notice, spotted earlier by Bleeping Compu...
-- `The Verge` [Microsoft’s AI chief says superintelligence is near, but won’t take your job](https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation)
-> Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, ...
-- `The Verge` [Nintendo’s next Direct showcase is on June 9th](https://www.theverge.com/entertainment/945670/nintendo-direct-june-2026-switch-2)
-> Summer Game Fest may be over, but the flood of gaming news isn't. Nintendo just announced that it'll be holding its next Direct showcase event on June 9th at 10AM ET. The stream, which you can find...
-- `The Verge` [Xbox exclusives are back and more complicated than ever](https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing)
-> Two years ago, when Microsoft first revealed that it was bringing four Xbox-exclusive games to the PS5 and Nintendo Switch, it made the announcement far more complicated than necessary. That's not ...
-- `The Verge` [Uber tells London to get ready for robotaxis](https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london)
-> Uber is getting ready to put robotaxis on London's streets, opening an interest list for riders who want to be among the first to hail one of Wayve's autonomous vehicles when the service goes live ...
-- `The Verge` [WWDC 2026: How to watch and what to expect](https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch)
-> Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's eve...
-- `The Verge` [NASA will wear high-tech Prada long johns to the Moon](https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis)
-> We've seen Axiom Space and Prada's collaboration on the Axiom Extravehicular Mobility Unit (AxEMU) spacesuit. Now the company has revealed the Liquid Cooling and Ventilation Garment (LCVG) that ast...
-- `The Verge` [The 7 biggest storylines from Summer Game Fest 2026](https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories)
-> The 2026 edition of Summer Game Fest just wrapped up, and it was surprisingly hectic. The nearly week-long event came at a challenging time for the games industry, and for the most part the big key...
-- `The Verge` [Persona 6 exists, and that’s all we know](https://www.theverge.com/entertainment/945256/persona-6-teaser)
-> This year's Summer Game Fest turned out to be a good one for fans of Japanese RPGs. First, the conclusion of the Final Fantasy VII remake trilogy was announced at SGF Live, and now we have the long...
-- `The Verge` [Microsoft’s Xbox 25th anniversary console comes in translucent green](https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date)
-> Microsoft has created a special edition Xbox Series X to celebrate 25 years of the console. The Xbox 25th-anniversary console takes design cues from the original Xbox console, with both the console...
+- `Hacker News` [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+> Article URL: https://www.anthropic.com/news/claude-fable-5-mythos-5
+Comments URL: https://news.ycombinator.com/item?id=48456104
+Points: 4
+# Comments: 2
+- `Hacker News` [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
+> Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer
+Comments URL: https://news.ycombinator.com/item?id=48456015
+Points: 0
+# Comments: 0
+- `Hacker News` [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
+> Article URL: https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449
+Comments URL: https://news.ycombinator.com/item?id=48455928
+Points: 29
+# ...
+- `Hacker News` [We Think the SpaceX IPO Is Overvalued](https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545)
+> Article URL: https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545
+Comments URL: https://news.ycombinator.com/item?id=48455233
+Points: 143
+# Comments: 130
+- `Hacker News` [Federal judge blocks H1B visa $100K fee](https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/)
+> Article URL: https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/
+Comments URL: https://news.ycombinator.com/item?id=48454210
+Points: 101
+# Comments: 165
+- `Hacker News` [Show HN: Mach – A compiled systems language looking for contributions](https://github.com/octalide/mach)
+> Hi HN,I'm the creator of Mach (https://github.com/octalide/mach or https://machlang.org). Two days ago, we finally achieved full self hosting. I wanted to make a post here to show off the language ...
+- `Hacker News` [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+> Article URL: https://openai.com/index/openai-submits-confidential-s-1/
+Comments URL: https://news.ycombinator.com/item?id=48452317
+Points: 314
+# Comments: 235
+- `Hacker News` [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)
+> Article URL: https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/
+Comments URL: https://news.ycombinator.com/item?id=48452000
+Points: 32
+# Comments: 14
+- `Hacker News` [FrontierCode](https://cognition.ai/blog/frontier-code)
+> Article URL: https://cognition.ai/blog/frontier-code
+Comments URL: https://news.ycombinator.com/item?id=48451723
+Points: 122
+# Comments: 21
+- `Hacker News` [I'm building a parallel internet, and it's called The Thinnernet](https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html)
+> Article URL: https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html
+Comments URL: https://news.ycombinator.com/item?id=48450694
+Points: 58
+# Comments: 58
+- `TechCrunch` [Why Apple’s slow-and-steady AI bet is starting to look pretty smart](https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/)
+> Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?
+- `TechCrunch` [Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks](https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/)
+> Sequoia is just one of the top firms that sells same equity at two different prices.
+- `TechCrunch` [As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says](https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/)
+> Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.
+- `TechCrunch` [Apple’s WWDC AI demos looked more real after $250M false ad settlement](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/)
+> The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.
+- `TechCrunch` [OpenAI files confidentially for IPO, following Anthropic](https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/)
+> The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.
+- `TechCrunch` [Apple plays catch-up at WWDC](https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/)
+> Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users ...
+- `TechCrunch` [Apple bets cheaper AI will woo small developers](https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/)
+> As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.
+- `TechCrunch` [Waymo bought Apple’s self-driving car proving ground for $220M](https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/)
+> Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Marico...
+- `TechCrunch` [Microsoft’s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+> Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.
+- `TechCrunch` [WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more](https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/)
+> Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.
+- `The Verge` [Instagram is finally letting everyone reorganize their profile grid](https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid)
+> Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th...
+- `The Verge` [Apple’s Screen Time updates are too little, too late](https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late)
+> Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much new beyond a redesi...
+- `The Verge` [5 things I already love from the iOS 27 beta](https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things)
+> iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still...
+- `The Verge` [Apple is using AI to fix Safari’s extension problem](https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions)
+> Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requiremen...
+- `The Verge` [Where was tvOS 27 at WWDC?](https://www.theverge.com/tech/946329/tvos-27-absent-wwdc)
+> Every year, Apple's Worldwide Developers Conference gives us a first look at what's coming next to the company's many operating systems. But missing from today's keynote, apart from a single graphi...
+- `The Verge` [Apple’s new parental controls are for keeping Apple out of trouble](https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc)
+> When Apple put child safety front and center at WWDC on Monday, its stated goal was helping parents fine-tune their kids' online experiences and avoid excessive screen time. But amid a global debat...
+- `The Verge` [OpenAI files for IPO, following Anthropic](https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential)
+> OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitt...
+- `The Verge` [44 things coming to your Apple devices that you might have missed](https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed)
+> This year's WWDC keynote was all about AI. But with all the attention on Apple Intelligence and Siri AI, the company breezed by - or neglected to mention - a bunch of cool, smaller features across ...
+- `The Verge` [Apple drops support for a long list of Apple Watches with latest OS updates](https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped)
+> I hope you have a modern Apple Watch or iPad, because otherwise watchOS 27 and iPadOS 27 won't run on your device. Apple often drops support for older devices with its latest software updates, but ...
+- `The Verge` [Apple announces watchOS 27, now with Siri AI](https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026)
+> Apple just announced watchOS 27, the next version of its Apple Watch operating system, introducing support for Siri AI, a redesigned "dynamic" app grid, and improvements to health and fitness track...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
