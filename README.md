@@ -6,10 +6,23 @@
 
 # 📰 每日科技日报 — 2026-06-10
 
-> 自动收集于 2026-06-10 04:16 | 共 50 条
+> 自动收集于 2026-06-10 14:45 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [雅典表发布2026新品系列，180周年之际加码机械创新与艺术合作｜最前线](https://36kr.com/p/3847339087140104?f=rss)
+> 2026年6月，上海敬华艺术空间被布置成一间“奇想实验室”。瑞士高级制表品牌Ulysse Nardin雅典表在此举办“奇想无界，创造无境”2026新品品鉴会，将全新[Super] Freak奇想超级腕表、与中国当代艺术家刘人岛合作的鎏金系列《名扬四海》联名腕表，以及多枚代表性时计一并陈列。
+  对这家1846年诞生于瑞士勒洛克的独立制表商而言，这是一个被精心挑选的时间点——品牌创立180周年...
+- `36氪` [氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市](https://36kr.com/p/3847079661193733?f=rss)
+> 大公司：
+  瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长
+  36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表人职责，公司法定代表人变更为韩猛，相关工商变更登记手续正在办理中。韩猛持有公司股份45000股，占总股本的0.01%。...
+- `36氪` [独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段](https://36kr.com/p/3846956646124036?f=rss)
+> 文｜周鑫雨
+  编辑｜张雨忻
+  《智能涌现》独家获悉，字节跳动 AI 制药业务线已启动拆分与独立融资进程。
+  据悉，拆分后字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。
+  新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI...
 - `36氪` [最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店](https://36kr.com/p/3846793046133257?f=rss)
 > 文｜张子怡
   编辑｜袁斯来
@@ -49,24 +62,12 @@
   但在聚集了数千万乃至上亿参与者的游戏竞技场里，作弊行为的边界却显得模糊。
   在网络游戏领域，作弊有一个更广为人知的称呼：“开外挂”。它包含一切通过非官方允许的外部程序或硬件，获取超过正常玩家所拥有的信息与操作能力的行为。而在涉及游戏的场景中，外挂往往不包含在单机游戏里使用数据修改器，而是特指多人竞技游戏中的透视、自瞄等工具。
   ...
-- `36氪` [氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%](https://36kr.com/p/3845899768760580?f=rss)
-> 大公司：
-  猫眼娱乐：作为首批内测开发者接入微信AI生态布局
-  36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。
-  京东方A：控股子公司拟终止向不特定合格投资者公开发行股票并撤回申请文件
-  36氪获悉，京东方A公告，公司控股子公司京东方能源...
-- `36氪` [累计在轨23万小时零失效，星载光电赛道跑出一匹黑马｜36氪首发](https://36kr.com/p/3845819328023043?f=rss)
-> 文 | 阿至
-  封面来源｜Pexels
-  星载组合光纤放大器，一个藏在卫星激光通信终端里的“隐形赛道”，随着国内低轨星座进入规模化部署倒计时，正在悄然升温。
-  36氪获悉，星载光电核心部组件供应商天津寰宇星通科技有限公司（以下简称“寰宇星通”）近期已完成数千万元Pre-A+轮融资，由滁州启金翌鑫独家领投，后续又获得了上市公司金春股份的追加投资。本轮资金将主要用于星载...
-- `36氪` [登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目](https://36kr.com/p/3845645258541319?f=rss)
-> 文｜李嘉星
-  编辑｜周鑫雨
-  一句话介绍
-  context-mode 是一款专为 AI 编程打造的上下文优化 MCP（Anthropic 发布的模型上下文协议）插件。
-  它解决了开发者在长周期开发中遭遇的“模型失忆”与“Token 过多消耗”的核心痛点。
-  据团队表示，在编程场景下，context-mode 能够让 AI 编程的成本降低 98%，同时将大模型的记忆力从30分钟提升至...
+- `少数派` [线下活动｜周日到广州来，给你一张过去的 CD](https://sspai.com/post/110911)
+> 故事的开端今年因为和飞傲合作多功能便携CD音箱一体机BeatBox，我们对CD以及CD文化的了解也加深了不少，也因此认识不少真正的CD、唱片收藏大佬，谢江川川哥就是其中一位。川哥是一家唱片店的老板，从 ...查看全文
+- `少数派` [又是一年 618：可以直接抄作业的护肤搭配清单](https://sspai.com/post/110614)
+> 直接从搭配开始，为不同肤质、不同诉求的人群提供具体的产品搭配建议。查看全文
+- `少数派` [告别阅读焦虑：一份硬核科学阅读指南](https://sspai.com/post/110557)
+> 阅读是个熟练功夫。查看全文
 - `少数派` [这些人用实测，给麦金獭钢化膜交了份真实答卷](https://sspai.com/post/110868)
 > 编注：挑选钢化膜向来讲究贴合自身机型与使用习惯，优劣好坏仅凭介绍难以定论。麦金獭钢化膜上线已有一段时日，少数派编辑部汇总大量真实买家反馈，内容拆分为「用户体验」、「进阶体验」两部分，帮大家选购前摸清产 ...查看全文
 - `少数派` [派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等](https://sspai.com/post/110925)
@@ -81,102 +82,96 @@
 > WWDC26 开幕式一图流来啦。查看全文
 - `少数派` [Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾](https://sspai.com/post/110888)
 > Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。查看全文
-- `少数派` [派评｜近期值得关注的 App](https://sspai.com/post/110874)
-> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [少数派正版软件 + 付费教程 618 促销活动限时开启](https://sspai.com/post/110853)
-> 又到了每年的618购物节，少数派照例为大家带来了众多优质正版软件和实用教程的大型活动专场。如果你有心仪的软件或者教程，都可以趁着优惠果断出手。TL;DR:活动时间：2025年6月8日（周一）至6月22 ...查看全文
-- `少数派` [2026 美加墨世界杯观赛指南](https://sspai.com/post/110681)
-> 四年一届的暑期大片，又要上演啦。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
-> https://www.youtube.com/watch?v=K5LAFEjTlBA
-
-Comments URL: https://news.ycombinator.com/item?id=48470581
-Points: 37
-# Comments: 16
-- `Hacker News` [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
-> Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/
-Comments URL: https://news.ycombinator.com/ite...
-- `Hacker News` [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
-> Article URL: https://github.com/apple/container/blob/main/docs/container-machine.md
-Comments URL: https://news.ycombinator.com/item?id=48469658
-Points: 367
-# Comments: 135
-- `Hacker News` [It's death](https://jesseduffield.com/ITS-DEATH/)
-> Article URL: https://jesseduffield.com/ITS-DEATH/
-Comments URL: https://news.ycombinator.com/item?id=48469347
-Points: 134
-# Comments: 40
-- `Hacker News` [Show HN: Nucleus – A security-hardened, Nix-native container runtime](https://github.com/sig-id/nucleus)
-> Hi HN, I've been building Nucleus, a lightweight Linux container runtime focused on two workloads: ephemeral AI-agent sandboxes and declarative NixOS services. It's a single Rust binary, no daemon....
-- `Hacker News` [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/)
-> Article URL: https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/
-Comments URL: https://news.ycombinator.com/item?id=48468766
-Points: 93
-# Comments: 30
-- `Hacker News` [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
-> Related: https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/
-
-Comments URL: https://news.ycombinator.com/item?id=48467896
-Points: 610
-# Comments: 298
-- `Hacker News` [Exif Smuggling (2025)](https://github.com/signalblur/exifsmugglingpoc)
-> Article URL: https://github.com/signalblur/exifsmugglingpoc
-Comments URL: https://news.ycombinator.com/item?id=48467759
-Points: 70
+- `Hacker News` [Britain Became as Poor as Mississippi](https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/)
+> Article URL: https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/
+Comments URL: https://news.ycombinator.com/item?id=48476751
+Points: 19
+# Comments: 5
+- `Hacker News` [GnuCash is right. It's also why I built my own finance app](https://k-id.app/blog/gnucash-is-right/)
+> Article URL: https://k-id.app/blog/gnucash-is-right/
+Comments URL: https://news.ycombinator.com/item?id=48476514
+Points: 9
+# Comments: 7
+- `Hacker News` [Notes on DeepSeek](https://twitter.com/NikoMcCarty/status/2064686557400100884)
+> Article URL: https://twitter.com/NikoMcCarty/status/2064686557400100884
+Comments URL: https://news.ycombinator.com/item?id=48476474
+Points: 18
+# Comments: 3
+- `Hacker News` [PgDog is funded and coming to a database near you](https://pgdog.dev/blog/our-funding-announcement)
+> Article URL: https://pgdog.dev/blog/our-funding-announcement
+Comments URL: https://news.ycombinator.com/item?id=48476466
+Points: 28
+# Comments: 15
+- `Hacker News` [ICE denies having a protester database. A letter to Congress sheds more light](https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs)
+> Article URL: https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs
+Comments URL: https://news.ycombinator.com/item?id=48476067
+Points: 66
+# Comments: 11
+- `Hacker News` [I Hate (Most) Keyboard 'Fn' Keys](https://danq.me/2026/06/09/fn-keys/)
+> Article URL: https://danq.me/2026/06/09/fn-keys/
+Comments URL: https://news.ycombinator.com/item?id=48475938
+Points: 104
+# Comments: 77
+- `Hacker News` [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
+> Article URL: https://mohkohn.co.uk/writing/html-first/
+Comments URL: https://news.ycombinator.com/item?id=48475483
+Points: 191
+# Comments: 70
+- `Hacker News` [All 9,300 Japanese train station, animated by the year it opened (1872–2026)](https://jivx.com/eki)
+> Article URL: https://jivx.com/eki
+Comments URL: https://news.ycombinator.com/item?id=48475100
+Points: 64
 # Comments: 23
-- `Hacker News` [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
-> Article URL: https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/
-Comments URL: https://news.ycombinator.com/item?id=48467705
-Points: 242
-# Comments: 76
-- `Hacker News` [Grit: Rewriting Git in Rust with agents](https://blog.gitbutler.com/true-grit)
-> Article URL: https://blog.gitbutler.com/true-grit
-Comments URL: https://news.ycombinator.com/item?id=48466812
-Points: 98
-# Comments: 135
-- `TechCrunch` [Top Lucid Motors executive departs amid new CEO’s leadership shakeup](https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/)
-> The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned.
-- `TechCrunch` [Google just fired a warning shot in the AI subscription price wars](https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/)
-> Google just made it significantly cheaper to enjoy its budget AI subscription tier.
-- `TechCrunch` [How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund](https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/)
-> Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.
-- `TechCrunch` [GM joins race to build batteries for AI data centers and the grid](https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/)
-> GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.
-- `TechCrunch` [Hey, Siri, here’s what I actually want from AI](https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/)
-> I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?
-- `TechCrunch` [Anthropic’s Fable 5 can make weirdly fun video games with the click of a button](https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/)
-> Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.
-- `TechCrunch` [Can tech companies learn to love cheaper AI models?](https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/)
-> If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.
-- `TechCrunch` [WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more](https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/)
-> Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.
-- `TechCrunch` [CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang](https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/)
-> Check Point said hackers broke into dozens of organizations by exploiting a VPN bug in several of its products used across the government.
-- `TechCrunch` [Anthropic’s Claude Fable 5 is a version of Mythos the public can access today](https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/)
-> Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.
-- `The Verge` [I tried Siri AI, and so far it actually works](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)
-> Parents want one thing, and one thing only, out of AI: to add a list of soccer games or "spirit week" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I hav...
-- `The Verge` [Congress just gave DHS another $70 billion](https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation)
-> Congress narrowly voted to fund President Donald Trump's mass deportation agenda, giving the Department of Homeland Security $70 billion over the next three years. The house voted 214 to 212 in fav...
-- `The Verge` [The App Store is going to add subscription bundles soon](https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store)
-> Later this year, you will be able to get bundled subscriptions for iPhone apps, as Apple announced it's expanding App Store bundles so they can include offers from different companies. It's similar...
-- `The Verge` [GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech](https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion)
-> At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data cen...
-- `The Verge` [Microsoft AI head calls out Anthropic for acting like Claude is conscious](https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious)
-> Microsoft AI CEO Mustafa Suleyman says it's "really, really dangerous" for Anthropic to speculate about Claude's consciousness inside its "constitution," or the instructions that tell the model how...
-- `The Verge` [Nintendo is playing things too safe](https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis)
-> Tuesday's Nintendo Direct showcase felt like an important moment for the company. With the Switch 2 heading into its second holiday season, one in which the hardware will be even more expensive tha...
-- `The Verge` [Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air](https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale)
-> Whether you’re shopping for Father’s Day or trying to keep your kids entertained over summer break, you don’t need to spend a fortune to get a great Fitbit right now. You can curr...
-- `The Verge` [Apple wants Europe to blink](https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai)
-> It took a few years, but Apple finally made its AI look useful. Now millions of iPhone users in Europe are being told they won't be getting Siri AI anytime soon, if ever - and Apple wants them to b...
-- `The Verge` [Anthropic releases its first Mythos-class model Claude Fable](https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos)
-> Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 "shows exceptional performance in sof...
-- `The Verge` [SwitchBot’s E Ink Weather Station is already 20 percent off](https://www.theverge.com/gadgets/946753/switchbot-weather-station-jackery-explorer-deal-sale)
-> We’re only a few days since the SwitchBot Smart E Ink Weather Station launched, and you can already save $25 on the smart home gadget. Visit Amazon and clip the on-page coupon to bring the price do...
+- `Hacker News` [Show HN: macOS menu bar gauges for your Claude Code quota](https://github.com/grzegorz-raczek-unit8/claude-quota)
+> Article URL: https://github.com/grzegorz-raczek-unit8/claude-quota
+Comments URL: https://news.ycombinator.com/item?id=48473845
+Points: 36
+# Comments: 24
+- `Hacker News` [AWS Bedrock to require sharing data with Anthropic for Mythos and future models](https://news.ycombinator.com/item?id=48473166)
+> > For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on Mythos-class models. Retaining data for a ...
+- `TechCrunch` [Pinterest bets on creators with Amazon Storefront integration](https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/)
+> Pinterest is adding support for Amazon Storefronts, allowing creators to earn affiliate commissions more easily while showcasing their product recommendations in one place.
+- `TechCrunch` [Warner Music acquires AI attribution startup Sureel AI](https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/)
+> Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.
+- `TechCrunch` [ServiceNow tells customers a bug left some of their data exposed to the internet](https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/)
+> ServiceNow is used by thousands of enterprises to automate their internal processes, but says several customers had data accessed because of a security bug.
+- `TechCrunch` [Jedify raises $24M to help companies arm AI agents with context on their business](https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/)
+> The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.
+- `TechCrunch` [Decart’s new world model can simulate hours of photorealistic driving — with some caveats](https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/)
+> Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.
+- `TechCrunch` [Snapchat limits users under 16 to sharing Spotlights with friends](https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/)
+> Users under 16 years old will get a separate profile to show Stories and Spotlight posts to friends that they follow back.
+- `TechCrunch` [Why everyone’s an energy company now](https://techcrunch.com/2026/06/10/why-everyones-an-energy-company-now/)
+> Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.
+- `TechCrunch` [Avalanche’s desktop fusion reactor delivers blistering-hot plasma](https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/)
+> Fusion power startup Avalanche Energy said its reactor prototype heated a plasma to over 10 million degrees C.
+- `TechCrunch` [Why two SpaceX alumni are betting on solar and batteries to power the AI craze](https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/)
+> Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas. It hopes to build gigawatts worth by 2030.
+- `TechCrunch` [Waymo says it built a better benchmark for comparing robotaxis to humans](https://techcrunch.com/2026/06/10/waymo-says-it-built-a-better-benchmark-for-comparing-robotaxis-to-humans/)
+> Waymo created a new computer model to help it better understand how humans behave in crash scenarios that its robotaxis encounter.
+- `The Verge` [Valve is phasing out physical Steam gift cards due to scammers](https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers)
+> After over a decade, Steam will no longer sell physical gift cards in stores. In a support page spotted earlier by Windows Central, Valve says it will no longer restock its gift cards once they run...
+- `The Verge` [Five questions for the duo behind The Pelley Minutes](https://www.theverge.com/report/947472/five-questions-for-the-duo-behind-the-pelley-minutes)
+> Websites are so back! Today's website worth visiting is The Pelley Minutes, a clever project that puts the career of longtime 60 Minutes correspondent Scott Pelley into perspective. The show may on...
+- `The Verge` [The Social Reckoning trailer gives us our first look at Jeremy Strong as Zuck](https://www.theverge.com/entertainment/947682/social-reckoning-trailer-aaron-sorkin-jeremy-strong-allen-white-facebook)
+> Over 15 years after David Fincher and Aaron Sorkin's The Social Network premiered in theaters, Sony has released the first trailer for The Social Reckoning ahead of its theatrical release on Octobe...
+- `The Verge` [The AirPods Pro 3 are $179 at Walmart, their best-ever price](https://www.theverge.com/gadgets/947719/airpods-pro-3-walmart-deal-sale)
+> Ahead of Prime Day, Walmart is offering the best price we’ve seen yet on the Apple AirPods 3 wireless earbuds. Originally $249 (though commonly selling somewhere between $200 and $220), they’re $17...
+- `The Verge` [I’m relieved Siri AI isn’t trying to be a health coach](https://www.theverge.com/column/947005/optimizer-siri-ai-wwdc-2026-health-coaches)
+> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This wee...
+- `The Verge` [Google’s Nest Cam with Floodlight is selling at its lowest price yet](https://www.theverge.com/gadgets/947264/google-nest-cam-floodlight-deal-sale)
+> The Google Nest Cam with Floodlight is marked down to $179.99 ($100 off) at multiple retailers, including Amazon, Best Buy, Home Depot, and directly from Google. This weather-resistant outdoor came...
+- `The Verge` [AT&T is launching $3 ‘unlimited’ day passes for iPads](https://www.theverge.com/tech/947574/att-unlimited-day-pass-ipad-data-plan)
+> AT&T has introduced a new "Unlimited Day Pass" cellular data offer for iPad users who need brief connectivity instead of signing up for a long-term plan. The day pass is available for $3 in the...
+- `The Verge` [Insta360’s Luna Ultra 8K stabilized camera is now available in the US](https://www.theverge.com/tech/947218/insta360-luna-ultra-dual-camera-stabilized-8k-telephoto-leica-us-availability-pricing)
+> Following months of teases, leaks, a secretive debut at NAB 2026, and an initial launch in China, Insta360 finally announced global availability for its first handheld stabilized camera. The Luna U...
+- `The Verge` [The three sets of earbuds I reach for](https://www.theverge.com/gadgets/947325/three-earbuds-i-consistently-use)
+> I have been an audio reviewer for 20 years. My time as a freelance headphones panelist at Wirecutter, and the multitude of reviews I’ve written for sites like Reviewed, Digital Trends, IGN, and now...
+- `The Verge` [BYD to install thousands of 5-minute EV chargers across Europe](https://www.theverge.com/transportation/947553/byd-flash-chargers-uk-europe-ev-blade-battery)
+> Chinese EV colossus BYD has announced plans to speed up its conquest of the European auto market with the rollout of superfast Flash Chargers across the continent. BYD has already installed the fir...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
