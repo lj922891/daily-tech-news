@@ -6,10 +6,29 @@
 
 # 📰 每日科技日报 — 2026-06-11
 
-> 自动收集于 2026-06-11 04:39 | 共 50 条
+> 自动收集于 2026-06-11 15:28 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折](https://36kr.com/p/3848516305605892?f=rss)
+> 大公司：
+  克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官
+  7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯坦将在担任该新职务的同时，继续兼任雷诺集团首席传播官，并向雷诺集团首席执行官福兰（Franç...
+- `36氪` [ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约](https://36kr.com/p/3848564910036229?f=rss)
+> 两个月后，ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。
+  作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。
+  作为ChinaJoy Vision Fut...
+- `36氪` [最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态](https://36kr.com/p/3848476414792709?f=rss)
+> 文｜张子怡
+  编辑｜袁斯来
+  近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。
+  这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但...
+- `36氪` [48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标](https://36kr.com/p/3848383082222849?f=rss)
+> 文丨贝果树
+  编辑丨果脯
+  5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。
+  彼时，这款游戏刚发售12天，销量超过了20万份。
+  或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至...
 - `36氪` [浪往南走：今年盛夏，WAVES来到番禺](https://36kr.com/p/3848188076381187?f=rss)
 > 浪来了，你到不到？
   
@@ -47,28 +66,14 @@
   《智能涌现》独家获悉，字节跳动 AI 制药业务线已启动拆分与独立融资进程。
   据悉，拆分后字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。同时，该业务也将继续从火山引擎获得算力支持。
   新公司将由字节跳动 AI 制药团队主导负责。字节 AI 制药团队成立于 2021 年，由刘凯负责，据悉核心成员约50人，由 AI...
-- `36氪` [最前线｜AI跨境电商工具混战，StoreClaw想用“一个大脑”接管卖家的店](https://36kr.com/p/3846793046133257?f=rss)
-> 文｜张子怡
-  编辑｜袁斯来
-  在竞争常年格外激烈的跨境电商行业，精细化运营已成为决定商家利润的关键，多渠道布局则是规避风险的普遍运营选择。当前，“Shopify独立站+亚马逊+TikTok Shop”的多渠道三位一体布局，已成为中大型出海卖家的标配。
-  不过，多渠道运作伴随着极高的人力成本与管理成本。有数据显示，一个典型的跨境商家在日常运营中，平均需要配置超过3.5个功能各异的点状工具...
-- `36氪` [36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件](https://36kr.com/p/3846789531404549?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。
-  微面科技聚焦自研人类感知理解基座模型，打造新一代人机交互范式，创始团队主要来自清华大学，具备大模型、人机交互、软件工程与医学复合背景。
-  当前，AI交互存在一个隐形天花板：极度依赖用户显性输入，缺乏对隐性非语...
-- `36氪` [医药圈最强“奥斯卡”也没救回股价，创新药被彻底抛弃了么](https://36kr.com/p/3845683804555529?f=rss)
-> 文｜胡香赟
-  编辑｜海若镜
-  基本面向上、股价向下，是近期创新药板块的真实写照。
-  6月以来，股市创新药板块延续跌势。上周，在全球肿瘤临床权威“风向标”的美国临床肿瘤学会（ASCO）上，多家中国创新药企公布了高价值的临床研究成果，但却未能成为扭转行情的催化剂。
-  既往，ASCO上公布的新药临床研究进展是影响创新药企股价的关键变量。当下，随着BD出海热潮，ASCO又被赋予了“集中检验新...
-- `36氪` [清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发](https://36kr.com/p/3844720012151040?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。Maple Pledge枫承资本长期出任私募股权融资顾问。
-  资金将重点用于自研世界模型的架构搭建、算法...
+- `少数派` [家庭饮品 DIY 指南（一）：工欲善其事，必先利其器](https://sspai.com/prime/story/home-made-beverages-1)
+> 前言其实开始喝咖啡以后，就对各种饮品的制作自然而然的来了兴趣，经过几年的积累，略有心得，感觉可以拿来跟大家分享一下。这次的主题家庭饮品DIY。通过简单的设备、物料以及简单的制作方法，教大家如何在家做饮 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [618 相机存储卡选购全攻略（2026）](https://sspai.com/post/110334)
+> 希望这篇攻略，能帮各位摄影玩家精准避坑，在今年 618 选到适配自己设备、稳定耐用、性价比拉满的存储卡。查看全文
+- `少数派` [5月音乐推荐：不可错过的9张惊喜专辑](https://sspai.com/post/110670)
+> 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
+- `少数派` [苹果新增的「围绝经期」提醒，你该比 watchOS 27 多了解一点](https://sspai.com/post/75419)
+> 当它突然出现在生命里时，你就知道了该如何面对；当它出现在身边人身上，你也知道该如何帮助她们步入这个全新的人生阶段。查看全文
 - `少数派` [派早报：Insta360 发布首款手持云台相机 Luna Ultra 等](https://sspai.com/post/110951)
 > 罗技发布首款折叠鼠标 Mobi Fold，雷蛇发布魔音海妖 V3 专业版麦克风等查看全文
 - `少数派` [线下活动｜周日到广州来，给你一张过去的 CD](https://sspai.com/post/110911)
@@ -81,68 +86,69 @@
 > 编注：挑选钢化膜向来讲究贴合自身机型与使用习惯，优劣好坏仅凭介绍难以定论。麦金獭钢化膜上线已有一段时日，少数派编辑部汇总大量真实买家反馈，内容拆分为「用户体验」、「进阶体验」两部分，帮大家选购前摸清产 ...查看全文
 - `少数派` [派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等](https://sspai.com/post/110925)
 > 小米发布 MiMo V2.5-Pro-UltraSpeed，Marshall Stockwell III 发布等。查看全文
-- `少数派` [社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架](https://sspai.com/post/110907)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [众测招募｜灵犀 Linx 键盘功能共创计划开启](https://sspai.com/post/110863)
-> 少数派联合思维重置与Akko共创的新产品「灵犀Linx键盘」即将上市。在产品正式发布前，我们希望邀请一批用户提前参与体验，共同验证功能设计和使用场景。本次将面向少数派社区招募10名体验用户。关于灵犀L ...查看全文
-- `少数派` [一图流 | Apple WWDC26 开幕式回顾](https://sspai.com/post/110887)
-> WWDC26 开幕式一图流来啦。查看全文
-- `少数派` [Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾](https://sspai.com/post/110888)
-> Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Are insecure code completions in PyCharm a vulnerability?](https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability)
-> Article URL: https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability
-Comments URL: https://news.ycombinator.com/item?id=48485160
-Points: 9
+- `Hacker News` [Amazon Says Its Data Centers Use 2.5B Gallons of Water](https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water)
+> Article URL: https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water
+Comments URL: https://news.ycombinator.com/item?id=48491253
+Points: 20
+...
+- `Hacker News` [Driving in America Is Headlight Hell](https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/)
+> Article URL: https://www.theatlantic.com/technology/2026/06/car-headlights-too-bright-adaptive-beams/687488/
+Comments URL: https://news.ycombinator.com/item?id=48491214
+Points: 12
 # Comments: 1
-- `Hacker News` [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
-> Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/
-Comments URL: https://news.ycombinator.com/item?id=48484584
-Points: 222
-# Comments: 56
-- `Hacker News` [Deficient executive control in transformer attention](https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838)
-> Article URL: https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838
-Comments URL: https://news.ycombinator.com/item?id=48484282
-Points: 29
-# Comments: 10
-- `Hacker News` [Unix GC Remastered](https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/)
-> Article URL: https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/
-Comments URL: https://news.ycombinator.com/item?id=48483854
-Points: 24
-# Comments: 2
-- `Hacker News` [Sequoyah’s syllabary created a written language for the Cherokee](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/)
-> https://en.wikipedia.org/wiki/Cherokee_syllabary#Unicode
-
-Comments URL: https://news.ycombinator.com/item?id=48483387
-Points: 127
-# Comments: 81
-- `Hacker News` [What is it like to be a bat? (1974) [pdf]](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
-> Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf
-Comments URL: https://news.ycombinator.com/item?id=48482293
-Points: 75
-# Comments: 71
-- `Hacker News` [Raspberry Pi 5 – 16GB RAM](https://www.adafruit.com/product/6125?src=raspberrypi)
-> Article URL: https://www.adafruit.com/product/6125?src=raspberrypi
-Comments URL: https://news.ycombinator.com/item?id=48481857
-Points: 197
-# Comments: 215
-- `Hacker News` [πFS](https://github.com/philipl/pifs)
-> Article URL: https://github.com/philipl/pifs
-Comments URL: https://news.ycombinator.com/item?id=48480978
-Points: 589
-# Comments: 143
-- `Hacker News` [GeoLibre 1.0](https://geolibre.app/)
-> Article URL: https://geolibre.app/
-Comments URL: https://news.ycombinator.com/item?id=48479852
-Points: 186
-# Comments: 12
-- `Hacker News` [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
-> Article URL: https://spectrum.ieee.org/curiosity-rover-jpl-mars-science
-Comments URL: https://news.ycombinator.com/item?id=48479705
-Points: 197
-# Comments: 52
+- `Hacker News` [AMD Gaslights Security Researcher, Changes Rules Retroactively [video]](https://www.youtube.com/watch?v=4HjWHNLRMB0)
+> Article URL: https://www.youtube.com/watch?v=4HjWHNLRMB0
+Comments URL: https://news.ycombinator.com/item?id=48490946
+Points: 15
+# Comments: 4
+- `Hacker News` [MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)
+> Article URL: https://mimo.xiaomi.com/mimocode
+Comments URL: https://news.ycombinator.com/item?id=48490826
+Points: 67
+# Comments: 32
+- `Hacker News` [Nextcloud Hub 26 Spring: Built together, designed for the future](https://nextcloud.com/blog/nextcloud-hub26-spring/)
+> Article URL: https://nextcloud.com/blog/nextcloud-hub26-spring/
+Comments URL: https://news.ycombinator.com/item?id=48490715
+Points: 49
+# Comments: 17
+- `Hacker News` [Euro-Office: First version of the open-source web office is here](https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html)
+> Article URL: https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html
+Comments URL: https://news.ycombinator.com/item?id=48490564
+Points: 26
+# Comm...
+- `Hacker News` [MapComplete – Contibute to OpenStreetMaps](https://mapcomplete.org/)
+> Article URL: https://mapcomplete.org/
+Comments URL: https://news.ycombinator.com/item?id=48490532
+Points: 54
+# Comments: 7
+- `Hacker News` [US-Canada border library gets new Quebec-only entrance](https://www.bbc.com/news/videos/clyrvrde160o)
+> Article URL: https://www.bbc.com/news/videos/clyrvrde160o
+Comments URL: https://news.ycombinator.com/item?id=48490245
+Points: 84
+# Comments: 57
+- `Hacker News` [Why Thermodynamics Rules Future Orbital Data Centers](https://spectrum.ieee.org/orbital-data-centers-heat)
+> Article URL: https://spectrum.ieee.org/orbital-data-centers-heat
+Comments URL: https://news.ycombinator.com/item?id=48490094
+Points: 21
+# Comments: 14
+- `Hacker News` [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)
+> Article URL: https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6
+Comments URL: https://news.ycombinator.com/item?id=48490057
+Points: 144
+# Comments: 95
+- `TechCrunch` [Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal](https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/)
+> Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures.
+- `TechCrunch` [DoorDash’s new AI chatbot lets you order with prompts and photos](https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/)
+> The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.
+- `TechCrunch` [Endurance Energy raises $54M to harness a massive untapped energy source](https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/)
+> SpaceX alumni Andrew Redd is betting the ocean has vast amounts of untapped geothermal energy.
+- `TechCrunch` [South Korea hits Coupang with $400M+ fine for data breach that affected millions](https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/)
+> South Korean authorities issued the record-breaking fine following a data breach that affected over 30 million customers.
+- `TechCrunch` [Anthropic taps TCS to scale its enterprise AI deployments](https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/)
+> The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.
 - `TechCrunch` [Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing](https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/)
 > The decision comes as India emerges as the world’s largest GCC market.
 - `TechCrunch` [Anthropic’s Dario Amodei has just one direct report](https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/)
@@ -153,36 +159,26 @@ Points: 197
 > Andrew Yang’s 2020 presidential campaign was based on a warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas l...
 - `TechCrunch` [Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations](https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/)
 > The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities.
-- `TechCrunch` [Everyone wants a piece of Tesla’s battery business](https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/)
-> Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.
-- `TechCrunch` [Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues](https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/)
-> Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.
-- `TechCrunch` [North Koreans behind nearly half of US tech industry hacks, says CrowdStrike](https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/)
-> North Korean hackers posing as remote IT workers and recruiters remain a major threat to U.S., European, and Asian companies, accounting for about half of all attacks over the past 12 months.
-- `TechCrunch` [Wing drone delivery might not be a novelty anymore](https://techcrunch.com/2026/06/10/wing-drone-delivery-might-not-be-a-novelty-anymore/)
-> Wing is expanding into seven more U.S. cities through its partnership with Walmart.
-- `TechCrunch` [Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming](https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/)
-> The media giant is pushing to expand its mobile and gaming business.
-- `The Verge` [Bluesky is getting ‘communities’](https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit)
-> Bluesky will be getting "communities," which will function as smaller spaces where you can "go deeper and hang out with people who care about the same stuff" sometime this year, according to head o...
-- `The Verge` [Framework delays its first Laptop 13 Pro shipments by a month](https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august)
-> The Framework Laptop 13 Pro is delayed. The new 13-inch Framework flagship was set to launch in June, but shipments from the first batch are now expected in July - and there's still a chance some s...
-- `The Verge` [Apple’s new Siri AI knows when to shut up](https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality)
-> Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I...
-- `The Verge` [Nearly a million passports and photo IDs were left unprotected on the public internet](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal)
-> Typing a few letters and numbers into my web browser, I find myself gaping at the identity documents of complete strangers. The passport of a young woman from Germany. The passport of a man from Sp...
-- `The Verge` [Xbox warns of a ‘reset’ as it prepares for layoffs](https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma)
-> Microsoft's Xbox division will be hit with significant layoffs next month, according to people familiar with Microsoft's plans. The company has been preparing for the layoffs internally for weeks, ...
-- `The Verge` [Apple, Google add support for Thread 1.4](https://www.theverge.com/tech/947888/apple-google-add-support-for-thread-1-4)
-> Apple and Google are updating their smart home streaming devices to Thread 1.4. As first spotted by Matter Alpha and 9to5 Google, the latest spec has arrived on compatible Apple TVs in the tvOS 27 ...
-- `The Verge` [Kalshi adds required employment verification for some prediction market bets](https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading)
-> The CFTC is considering its first regulation for prediction markets, as arrests over "insider trading" on everything from military operations to Google Search data continue to stack up. As CoinDesk...
-- `The Verge` [Claude Fable won’t answer basic biology questions](https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions)
-> Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic bi...
-- `The Verge` [Microsoft, like, totally gets why students are booing AI-pilled graduation speakers](https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft)
-> New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 wor...
-- `The Verge` [The future of AI regulation is courting the strangest, most anxious bedfellows](https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms)
-> Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board her...
+- `The Verge` [The Nintendo Switch 2 is $15 off at Woot](https://www.theverge.com/gadgets/948292/nintendo-switch-2-deal-sale-woot)
+> Woot is hosting a small, but welcome deal on the Nintendo Switch 2 through June 19th. New customers can save $15 on the $449.99 console with the code NEW15 used at checkout. Sure, these are microsc...
+- `The Verge` [The Weather Channel app now predicts bad allergy days](https://www.theverge.com/tech/948363/weather-channel-mobile-app-ios-android-pollen-forecast)
+> The Weather Company announced an "enhanced allergy experience" now available through its The Weather Channel app designed to help allergy sufferers better understand when their symptoms might flare...
+- `The Verge` [With the World Cup looming, there’s still no clear replacement for sports Twitter](https://www.theverge.com/entertainment/947956/world-cup-2026-social-media)
+> Three years ago, when the women's World Cup kicked off in Australia and New Zealand, my social feeds were in a strange place. Twitter had just transformed into X, newcomer Threads was seemingly asc...
+- `The Verge` [Cash App’s launching a phone service](https://www.theverge.com/tech/948181/cash-app-mobile)
+> Cash App's AT&T-based MVNO will offer an unlimited 5G data plan for $40 per month including taxes and fees. The new mobile service is powered by Gigs, the same firm behind the Klarna mobile ser...
+- `The Verge` [I went to the woods to drink surprisingly great espresso](https://www.theverge.com/tech/942873/ikape-cera-portable-espresso-review)
+> With summer's return, I'm again reminded of my limits as I head into the great outdoors: I can put up with a heavy, uncomfortable backpack, bug bites, mud, and even bland dehydrated food, but I wil...
+- `The Verge` [Boox’s new e-reader could replace your Kindle, Kobo, and digital notepad](https://www.theverge.com/tech/947769/boox-onyx-go-6-gen-ii-android-11-e-reader-google-play)
+> Boox has announced a new version of its smallest e-reader that expands the Go 6's functionality to now include note-taking. The new Go 6 (Gen II) sticks with a 6-inch, 300PPI E Ink screen like its ...
+- `The Verge` [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)
+> Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The com...
+- `The Verge` [The library rules (and so do library streaming services)](https://www.theverge.com/tech/942657/library-ebook-borrowing-stream-tv-movies-hoopla-kanopy-overdrive)
+> Summer is almost here, and that means getting outside, having fun in the sun, and touching grass. But if you need to cool down for a bit, allow me to sing the praises of the library. If your local ...
+- `The Verge` [iFixit Trump phone teardown confirms it’s an HTC dupe](https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro)
+> After getting its hands on a Trump phone and tearing it apart, iFixit has confirmed what I first reported back in February: the T1 Phone is an almost exact duplicate of the HTC U24 Pro. iFixit part...
+- `The Verge` [YouTube is introducing DMs (again)](https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability)
+> YouTube is reintroducing private messaging after testing new ways for users to share videos and "have conversations about them" last year. In an announcement on its official blog, YouTube says it's...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
