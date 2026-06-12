@@ -6,10 +6,21 @@
 
 # 📰 每日科技日报 — 2026-06-12
 
-> 自动收集于 2026-06-12 04:42 | 共 50 条
+> 自动收集于 2026-06-12 14:27 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”](https://36kr.com/p/3849942472512769?f=rss)
+> 大公司：
+  OpenAI CEO奥特曼推迟访韩计划
+  据报道，OpenAI首席执行官山姆·奥特曼因个人原因推迟访韩计划。奥特曼原定于14日至15日访韩，会见三星电子、Kakao、NAVER等企业负责人。
+  Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划
+  当地时间6月11日，Alphabet旗下自动驾驶公司Waymo宣布，将推出仅限受邀用户参与的Waymo Pr...
+- `36氪` [神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite](https://36kr.com/p/3846882883963139?f=rss)
+> 比亚迪泰国罗勇工厂，曾接连陷入神秘“失窃案”。然而盘点下来，钢材螺栓数目齐全，劳保用品甚至都没有异常消耗。
+  实际上，被盗的并非值钱物件，而是车间水房里，桶装水塑料标签上的“BYD”Logo（品牌符号）。
+  那些本应随意摆放的桶装水，总会被转成同一个角度。桶身上原本完整的BYD字样齐齐消失，只留下一道被小刀精心裁剪过的轮廓痕迹。
+  李有才是首批加入比亚迪罗勇项目的员工之一，他告诉36氪...
 - `36氪` [顶流偶像“空空”匿名作序的《浮生别院》，究竟有何魔力？](https://36kr.com/p/3849664394204419?f=rss)
 > 2017年，周志峰卖掉北京的一处房产，把它换成了菜市口附近的一处院子。
   院子不到180平米。但在设计师的巧思下，它被切分成茶室、餐厅、厨房、小花园和主卧等多个独立又连通的空间，曲径通幽。盛夏时，旁边一棵活了一百二十年的国槐展露出枝繁叶茂，几乎将小院的大部分笼罩在它的“势力”之下。
@@ -45,25 +56,20 @@
 > 文｜张子怡
   编辑｜袁斯来
   近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。
-  这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但...
+  这一新品类的推出，切��低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，...
 - `36氪` [48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标](https://36kr.com/p/3848383082222849?f=rss)
 > 文丨贝果树
   编辑丨果脯
   5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。
   彼时，这款游戏刚发售12天，销量超过了20万份。
   或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一Neotro在22年发售的独立射击游戏《NeverAwake》在Steam平台上，甚至...
-- `36氪` [浪往南走：今年盛夏，WAVES来到番禺](https://36kr.com/p/3848188076381187?f=rss)
-> 浪来了，你到不到？
-  
-  WAVES是36氪每年夏天最重要的一场会。
-  但它不仅仅是一个“会”。
-  从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，没有礼服，没有人念稿。白天是圆桌和碰撞，晚上是脱口秀、AI集市和珠江边的清风。
- ...
-- `36氪` [36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内](https://36kr.com/p/3848094835217666?f=rss)
-> 作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近期已完成数千万元天使+轮融资，由创维投资独家投资。资金将主要用于市场拓展、产能提升及新产品开发。
-  中微精仪成立于2024年11月，专注于碳化硅晶锭激光剥离、金刚石激光剥离、水导激光精密加工等高端工业激光装备的研发与制造。公司创始人陈景煜为澳大利亚新南威尔士大学研究员，长...
+- `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/110992)
+> 📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》新预告6月11日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了新预告，将于7月7日开始播出。木村翔马执导，圆城塔编剧， ...查看全文
+- `少数派` [Level Read：让英语学习从「读得懂」开始，每天都进步一点点](https://sspai.com/post/110329)
+> 你不需要一开始就读最难的内容，不需要把英语变成一件很痛苦的任务。每天读一篇适合自己难度的英文新闻，听一听、查几个词、慢慢积累。查看全文
+- `少数派` [把 AI 装进口袋，然后把它忘掉：
+YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914)
+> 拿到YoooClawC·ONE，还没拆箱的第一印象是：这也太小了吧，包装盒都比我想象中小了好几倍。打开后，发现C·ONE是一张信用卡大小的紫色超薄哑光卡片，没有屏幕、只有一个长条LED呼吸灯和一个按键 ...查看全文
 - `少数派` [WWDC 26 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/110967)
 > 除了大谈特谈的 AI，今年的 WWDC 开幕式上还有这些有趣的细节值得注意。查看全文
 - `少数派` [派早报：五电商平台因「百亿补贴」问题被约谈、Xbox 启动业务重置计划等](https://sspai.com/post/110975)
@@ -78,65 +84,65 @@
 > 当它突然出现在生命里时，你就知道了该如何面对；当它出现在身边人身上，你也知道该如何帮助她们步入这个全新的人生阶段。查看全文
 - `少数派` [派早报：Insta360 发布首款手持云台相机 Luna Ultra 等](https://sspai.com/post/110951)
 > 罗技发布首款折叠鼠标 Mobi Fold，雷蛇发布魔音海妖 V3 专业版麦克风等查看全文
-- `少数派` [线下活动｜周日到广州来，给你一张过去的 CD](https://sspai.com/post/110911)
-> 故事的开端今年因为和飞傲合作多功能便携CD音箱一体机BeatBox，我们对CD以及CD文化的了解也加深了不少，也因此认识不少真正的CD、唱片收藏大佬，谢江川川哥就是其中一位。川哥是一家唱片店的老板，从 ...查看全文
-- `少数派` [又是一年 618：可以直接抄作业的护肤搭配清单](https://sspai.com/post/110614)
-> 直接从搭配开始，为不同肤质、不同诉求的人群提供具体的产品搭配建议。查看全文
-- `少数派` [告别阅读焦虑：一份硬核科学阅读指南](https://sspai.com/post/110557)
-> 阅读是个熟练功夫。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
-> Article URL: https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/
-Comments URL: https://news.ycombinator.com/item?id=48498573
-Points: 218
-# Comments: 172
-- `Hacker News` [Removing 'um' from a recording is harder than it sounds](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
-> Article URL: https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/
-Comments URL: https://news.ycombinator.com/item?id=48498421
-Points: 31
+- `Hacker News` [WASI 0.3.0 Released](https://github.com/WebAssembly/WASI/releases/tag/v0.3.0)
+> Article URL: https://github.com/WebAssembly/WASI/releases/tag/v0.3.0
+Comments URL: https://news.ycombinator.com/item?id=48504063
+Points: 6
+# Comments: 0
+- `Hacker News` [SpaceX's president is floating a Tesla merger as the company begins trading](https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226)
+> Article URL: https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226
+Comments URL: https://news.ycombinator.com/item?id=48504013
+Points: 36
+# Comments: 17
+- `Hacker News` [The Unsung Hero of the Lord of the Rings](https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the)
+> Article URL: https://www.theculturist.io/p/the-unsung-hero-of-the-lord-of-the
+Comments URL: https://news.ycombinator.com/item?id=48503796
+Points: 12
 # Comments: 11
-- `Hacker News` [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
-> Article URL: https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf
-Comments URL: https://news.ycombinator.com/item?id=48498385
-Points: 209
-# Comments: 75
-- `Hacker News` [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
-> Article URL: https://tombedor.dev/human-attention-and-human-effort/
-Comments URL: https://news.ycombinator.com/item?id=48497609
-Points: 381
-# Comments: 120
-- `Hacker News` [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/)
-> Article URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
-Comments URL: https://news.ycombinator.com/item?id=48497576
-Points: 65
-# Comments: 41
-- `Hacker News` [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
-> Article URL: https://fablepool.com
-Comments URL: https://news.ycombinator.com/item?id=48496539
-Points: 310
-# Comments: 174
-- `Hacker News` [Show HN: Boo – Screen-style terminal multiplexer built on libghostty](https://github.com/coder/boo)
-> Article URL: https://github.com/coder/boo
-Comments URL: https://news.ycombinator.com/item?id=48496250
-Points: 61
-# Comments: 20
-- `Hacker News` [Apple didn't revolutionize power supplies; new transistors did (2012)](https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html)
-> Article URL: https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html
-Comments URL: https://news.ycombinator.com/item?id=48493564
-Points: 103
-# Comments: 9
-- `Hacker News` [WikiLambda the Ultimate](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research)
-> Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research
-Comments URL: https://news.ycombinator.com/item?id=48493218
-Points: 11
-# Comments: 2
-- `Hacker News` [Software is made between commits](https://zed.dev/blog/introducing-deltadb)
-> Article URL: https://zed.dev/blog/introducing-deltadb
-Comments URL: https://news.ycombinator.com/item?id=48492533
-Points: 228
-# Comments: 167
+- `Hacker News` [Hazel (YC W24) Is Hiring a Full Stack Engineer](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci)
+> Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci
+Comments URL: https://news.ycombinator.com/item?id=48503717
+Points: 0
+# Comments: 0
+- `Hacker News` [Encrypted Spaces An architecture for collaborative applications](https://encryptedspaces.org/)
+> Article URL: https://encryptedspaces.org/
+Comments URL: https://news.ycombinator.com/item?id=48503219
+Points: 3
+# Comments: 0
+- `Hacker News` [Maxproof](https://arxiv.org/abs/2606.13473)
+> Article URL: https://arxiv.org/abs/2606.13473
+Comments URL: https://news.ycombinator.com/item?id=48503014
+Points: 57
+# Comments: 3
+- `Hacker News` [David Hockney, Who Restored the Human Form to Art, Dies at 88](https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html)
+> Article URL: https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html
+Comments URL: https://news.ycombinator.com/item?id=48502730
+Points: 63
+# Comments: 12
+- `Hacker News` [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/)
+> Article URL: https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/
+Comments URL: https://news.ycombinator.com/item?id=48502601
+Points: 131
+# Comments: 100
+- `Hacker News` [Kimi K2.7-Code: open-source coding model with better token efficiency](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
+> Article URL: https://huggingface.co/moonshotai/Kimi-K2.7-Code
+Comments URL: https://news.ycombinator.com/item?id=48502347
+Points: 177
+# Comments: 80
+- `Hacker News` [The Future of Email](https://www.fastmail.com/blog/the-future-of-email/)
+> Article URL: https://www.fastmail.com/blog/the-future-of-email/
+Comments URL: https://news.ycombinator.com/item?id=48502321
+Points: 109
+# Comments: 106
+- `TechCrunch` [SpaceX IPO: Everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/)
+> TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and m...
+- `TechCrunch` [US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to...](https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/)
+> The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.
+- `TechCrunch` [Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale](https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/)
+> Avataar AI's distilled video model is priced at $0.005 for every second of generation
 - `TechCrunch` [Equal AI raises $30M to screen calls so Indians don’t have to](https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/)
 > Equal AI said that its AI-powered call assistant now has over a million monthly active users.
 - `TechCrunch` [Theker just raised $85M to build the factory robot that doesn’t specialize in anything](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/)
@@ -151,32 +157,26 @@ Points: 228
 > After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.
 - `TechCrunch` [Bluesky launches group chats, as company shifts focus to community features](https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/)
 > Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.
-- `TechCrunch` [Meta’s Edits app is getting an AI assistant and a desktop version](https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/)
-> By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.
-- `TechCrunch` [Coinbase’s new tool can help agents trade and pay for premium research](https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/)
-> Coinbase's agent can use x402 protocol to get access to data and APIs.
-- `TechCrunch` [Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave](https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/)
-> Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.
+- `The Verge` [Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’](https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer)
+> Amazon founder Jeff Bezos says his new AI startup will work toward developing an "artificial general engineer," according to reports from The New York Times and CNBC. The startup, called Prometheus...
+- `The Verge` [SpaceX is now public](https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk)
+> SpaceX is now a publicly traded company. In one of the most highly anticipated and controversial public offerings of all time, the rocket venture helmed by Elon Musk started trading on Nasdaq on Ju...
+- `The Verge` [Sorry, the Ooni pizza oven is totally worth it](https://www.theverge.com/gadgets/943057/ooni-portable-pizza-oven-is-great-for-bbqs)
+> Summer is approaching, which means it's time to enjoy some gloriously warm weather beside the grill. But let me pitch you on an alternative: Instead of the usual burgers, hot dogs, and kebabs, what...
+- `The Verge` [BMW’s Neue Klasse M concept brings next-gen EV tech to motorsports](https://www.theverge.com/transportation/948635/bmw-neue-klasse-m-concept-motorsports-ev)
+> Just in time for Le Mans, BMW is pulling the cover off its new M performance concept built on the Bavarian automaker's Neue Klasse next-generation architecture. The concept is the debut of a new de...
+- `The Verge` [The Nintendo DS is still the best gaming handheld for travel](https://www.theverge.com/games/942678/nintendo-ds-rules-for-travel)
+> Even with the looming specter of rising prices, there's never been a better time for portable gaming. The Steam Deck has ushered in a new era of handheld PCs, the Analogue Pocket and other Game Boy...
+- `The Verge` [Summer Upgrade Week](https://www.theverge.com/tech/942658/summer-upgrade-week-2026)
+> The sun is out, the sky is clear. It’s time to get outside and disconnect — from work, at least. This summer, we’re looking at all the ways to upgrade our free time indoors and out, from smart ligh...
+- `The Verge` [This portable light is great for way more than camping](https://www.theverge.com/tech/942932/portable-light-camping-work-travel)
+> It's intended for camping, but BougeRV's T1 light is so versatile that it also makes for a great summer travel companion that'll continue to light the dark corners of your life long after you retur...
+- `The Verge` [Siri won’t be your AI girlfriend](https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend)
+> Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri...
 - `The Verge` [Amazon’s Echo Hub gets a customizable new look and Ring’s AI features](https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign)
-> Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support...
+> Amazon's rolling out a free software update for Echo Hub devices that gives the homescreen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support,...
 - `The Verge` [Logitech’s awesome MX Master 3S mouse drops to under $100](https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal)
 > The platform-agnostic Logitech MX Master 3S wireless mouse is discounted to $89.99 at Amazon ($30 off), matching the best price we’ve seen so far this year. While it may look like a somewhat ordina...
-- `The Verge` [Blink’s six-piece outdoor camera kit is a great deal under $200](https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale)
-> You can save on a big set of outdoor security cameras ahead of Prime Day. Amazon has a five-pack of Blink cameras with a video doorbell included that’s marked down to $166.99. The bundle includes a...
-- `The Verge` [Roborock’s Q10 S5 Plus robovac is over half off, matching its best price to date](https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale)
-> Even at full price, the Roborock Q10 S5 Plus offers impressive value, boasting features typically reserved for pricier robovac models at a fraction of the price. That’s especially true today....
-- `The Verge` [Amazon’s data centers used 2.5 billion gallons of water last year](https://www.theverge.com/tech/948534/amazon-data-centers-water-use)
-> Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With c...
-- `The Verge` [The bill that would let Jimmy Kimmel sue Brendan Carr is here](https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship)
-> Under a new bipartisan bill, Americans could sue for damages if a government official illegally tries to coerce a social media, AI, or broadcasting company to remove their post - regardless of whet...
-- `The Verge` [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
-> Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later. T...
-- `The Verge` [A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going d...](https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse)
-> Congress has failed to pass a three-week extension of Section 702 of the Foreign Intelligence Surveillance Act (FISA), with the House voting 218-198 against reauthorizing the controversial warrantl...
-- `The Verge` [Waymo introduces $30-a-month premium tier for riders who want faster pickups](https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back)
-> Uber One, meet Waymo Premier. The robotaxi operator announced a new $29.99-a-month premium tier for riders who want a more elevated and exclusive autonomous experience. The invite-only membership s...
-- `The Verge` [I’ve found the Goldilocks of portable MIDI controllers](https://www.theverge.com/tech/948024/arturia-minilab-37-midi-controller-review)
-> I have tested more portable MIDI controllers than I can keep track of, and I will tell you right now: 37 keys is the ideal size. While Arturia's 25-key MiniLab MK3 is a solid controller that easily...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
