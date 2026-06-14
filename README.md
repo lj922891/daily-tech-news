@@ -6,10 +6,15 @@
 
 # 📰 每日科技日报 — 2026-06-14
 
-> 自动收集于 2026-06-14 04:48 | 共 50 条
+> 自动收集于 2026-06-14 13:22 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [增长停滞两年后，H&M重组全球架构，大中华区降级｜独家](https://36kr.com/p/3850942780838912?f=rss)
+> 文｜贺哲馨
+  编辑｜乔芊
+  36氪独家获悉，瑞典快时尚巨头H&M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。
+  大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed...
 - `36氪` [高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发](https://36kr.com/p/3851572421432324?f=rss)
 > 作者｜黄楠
   编辑｜袁斯来
@@ -18,11 +23,11 @@
 - `36氪` [曼联，要被卖了](https://36kr.com/p/3851350342325504?f=rss)
 > 图片来源：视觉中国
   作者/余梦莹
-  报道/投���界PEdaily
+  报道/投资界PEdaily
   史上最盛大世界杯正在上演。
   48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C罗、莫德里奇“最后一舞”，哈兰德、姆巴佩、亚马尔崛起，诸神之战拉开帷幕。
   赛场之外，一家老牌足球豪门却站在了十字路口——彭博社消息，掌控英超球队曼联超20年的格雷泽家族内部，近期正在讨论出售事宜。
-  绰号“红...
+  绰号“红魔”...
 - `36氪` [36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑](https://36kr.com/p/3846972367866119?f=rss)
 > 在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书...
 - `36氪` [“宁王系”，排队 IPO](https://36kr.com/p/3851106394117383?f=rss)
@@ -66,12 +71,6 @@
   TOP3大新闻
   SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍
   当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯达克交易所完成了上市。...
-- `36氪` [氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”](https://36kr.com/p/3849942472512769?f=rss)
-> 大公司：
-  OpenAI CEO奥特曼推迟访韩计划
-  据报道，OpenAI首席执行官山姆·奥特曼因个人原因推迟访韩计划。奥特曼原定于14日至15日访韩，会见三星电子、Kakao、NAVER等企业负责人。
-  Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划
-  当地时间6月11日，Alphabet旗下自动驾驶公司Waymo宣布，将推出仅限受邀用户参与的Waymo Pr...
 - `少数派` [TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验](https://sspai.com/post/110761)
 > 一代上的好几处优势这次依然保持得不错。查看全文
 - `少数派` [具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能](https://sspai.com/post/110973)
@@ -96,56 +95,56 @@ YoooClaw C·ONE 智能硬件一个月使用体验](https://sspai.com/post/110914
 
 ## 🌍 国际科技
 
-- `Hacker News` [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf)
-> Article URL: https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf
-Comments URL: https://news.ycombinator.com/item?id=48523773
+- `Hacker News` [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+> Article URL: https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+Comments URL: https://news.ycombinator.com/item?id=48526661
+Points: 22
+# Comments: 7
+- `Hacker News` [How to Earn a Billion Dollars](https://paulgraham.com/earn.html)
+> Article URL: https://paulgraham.com/earn.html
+Comments URL: https://news.ycombinator.com/item?id=48526360
+Points: 37
+# Comments: 78
+- `Hacker News` [Don't trust large context windows](https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows)
+> Article URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows
+Comments URL: https://news.ycombinator.com/item?id=48524620
+Points: 158
+# Comments: 110
+- `Hacker News` [Tribblix: The retro Illumos distribution](http://tribblix.org/)
+> Article URL: http://tribblix.org/
+Comments URL: https://news.ycombinator.com/item?id=48524434
 Points: 55
-# Comments: 51
+# Comments: 20
+- `Hacker News` [Phoenix LiveView 1.2](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
+> Article URL: https://phoenixframework.org/blog/phoenix-liveview-1-2-released
+Comments URL: https://news.ycombinator.com/item?id=48524293
+Points: 145
+# Comments: 38
+- `Hacker News` [Pac-Man, but you're the ghost](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
+> Article URL: https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost
+Comments URL: https://news.ycombinator.com/item?id=48524135
+Points: 138
+# Comments: 60
+- `Hacker News` [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
+> Article URL: https://sqltoerdiagram.com/
+Comments URL: https://news.ycombinator.com/item?id=48523992
+Points: 242
+# Comments: 44
+- `Hacker News` [Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist)
+> Article URL: https://www.anthropic.com/research/making-claude-a-chemist
+Comments URL: https://news.ycombinator.com/item?id=48523752
+Points: 52
+# Comments: 53
 - `Hacker News` [Weave: Merging based on language structure and not lines](https://ataraxy-labs.github.io/weave/)
 > Article URL: https://ataraxy-labs.github.io/weave/
 Comments URL: https://news.ycombinator.com/item?id=48523705
-Points: 8
-# Comments: 1
+Points: 55
+# Comments: 36
 - `Hacker News` [Building a serial and VGA "everything console"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html)
 > Article URL: http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html
 Comments URL: https://news.ycombinator.com/item?id=48523615
-Points: 9
-# Comments: 0
-- `Hacker News` [Quadratic funding democratizes allocation by rewarding projects w/ broad support](https://internetfreedom.torproject.org/funding-distribution/)
-> Article URL: https://internetfreedom.torproject.org/funding-distribution/
-Comments URL: https://news.ycombinator.com/item?id=48523612
-Points: 5
-# Comments: 3
-- `Hacker News` [Apt Encounters of the Third Kind](https://igor-blue.github.io/2021/03/24/apt1.html)
-> Article URL: https://igor-blue.github.io/2021/03/24/apt1.html
-Comments URL: https://news.ycombinator.com/item?id=48523550
-Points: 14
-# Comments: 3
-- `Hacker News` [4 things to know about the new sunscreen ingredient the FDA approved](https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol)
-> Article URL: https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol
-Comments URL: https://news.ycombinator.com/item?id=48523203
-Points: 64
-# Comments: 23
-- `Hacker News` [10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/)
-> Article URL: https://juniperspring.org/posts/honda-evil-valet/
-Comments URL: https://news.ycombinator.com/item?id=48523080
-Points: 115
-# Comments: 18
-- `Hacker News` [ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware](https://www.phoronix.com/news/ReactOS-Running-Half-Life)
-> Article URL: https://www.phoronix.com/news/ReactOS-Running-Half-Life
-Comments URL: https://news.ycombinator.com/item?id=48522486
-Points: 138
-# Comments: 24
-- `Hacker News` [Ancient genome duplications laid the foundations of complex brains](https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains)
-> Article URL: https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains
-Comments URL: https://news.ycombinator.com/item?id=48522310
-Points: 25
-# Comment...
-- `Hacker News` [Human Routers of Machine Words](https://borretti.me/article/human-routers-of-machine-words)
-> Article URL: https://borretti.me/article/human-routers-of-machine-words
-Comments URL: https://news.ycombinator.com/item?id=48521709
-Points: 45
-# Comments: 22
+Points: 41
+# Comments: 5
 - `TechCrunch` [As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)
 > Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.
 - `TechCrunch` [Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)
@@ -166,6 +165,8 @@ Points: 45
 > Anthropic isn't hiding its frustration. "We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people," t...
 - `TechCrunch` [SpaceX IPO: Live updates on everything you need to know](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/)
 > TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and m...
+- `The Verge` [Solid-state batteries still aren’t ready, but gels are](https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback ar...
 - `The Verge` [Amazon security research reportedly led to the White House’s Anthropic Fable ban](https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban)
 > According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and c...
 - `The Verge` [X-Men ’97 has what Master of the Universe is missing](https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel)
@@ -184,8 +185,6 @@ Points: 45
 > When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. "~ Channel is unrecoverably brok...
 - `The Verge` [Anthropic cuts off Fable 5 and Mythos 5 access following government order](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security)
 > On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order in...
-- `The Verge` [Echo Isle is a pint-sized adventure inspired by classic Zelda](https://www.theverge.com/games/947136/echo-isle-review-pc)
-> Echo Isle is heavily inspired by The Legend of Zelda, and it's not afraid to show it: The retro graphics bear a striking resemblance to Link's Awakening, the main character wears a blue tunic and w...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
