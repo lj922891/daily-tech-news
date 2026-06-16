@@ -4,12 +4,24 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-15
+# 📰 每日科技日报 — 2026-06-16
 
-> 自动收集于 2026-06-15 16:49 | 共 40 条
+> 自动收集于 2026-06-16 05:07 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌](https://36kr.com/p/3855082873476102?f=rss)
+> 今日热点导览
+  
+   国内品牌金饰价格普涨
+   小红书公布世界杯开赛数据
+   阿里巴巴达摩院退出旗下科技公司
+   罗马仕接连变更法定代表人
+   遇见小面创始人向“渝见小面”致歉
+  
+  TOP3大新闻
+  针对多发食品安全问题，市场监管总局约谈山姆总部
+  记者15日了解到，针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题，近日，市场监管总局依法对沃...
 - `36氪` [Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”](https://36kr.com/p/3854510160549124?f=rss)
 > 在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？
   6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，Pocket 4P 定位为“装进口袋里的电影机”，搭载双摄系统、17级动态范围与 D-Log 2 专业色彩曲线，试图在口袋级设备中进一步容纳专业影像能力。
@@ -61,14 +73,10 @@
   编辑｜袁斯来
   硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。
   SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为...
-- `36氪` [曼联，要被卖了](https://36kr.com/p/3851350342325504?f=rss)
-> 图片来源：视觉中国
-  作者/余梦莹
-  报道/投资界PEdaily
-  史上最盛大世界杯正在上演。
-  48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C罗、莫德里奇“最后一舞”，哈兰德、姆巴佩、亚马尔崛起，诸神之战拉开帷幕。
-  赛场之外，一家老牌足球豪门却站在了十字路口——彭博社消息，掌控英超球队曼联超20年的格雷泽家族内部，近期正在讨论出售事宜。
-  绰号“红魔”...
+- `少数派` [今年 618，这些鼠标值得一看](https://sspai.com/post/111065)
+> 介绍点值得买的鼠标，顺便推荐一点鼠标垫。查看全文
+- `少数派` [派早报：大疆发布 Osmo Pocket 4P 双主摄口袋电影机等](https://sspai.com/post/111080)
+> 少数派的近期动态少数派×AKKO联合共创带屏键盘功能共创计划开启。参与众测招募尝鲜27系列新系统的朋友，你的满意度如何？来一派投票少数派正版软件、付费教程618促销活动限时开启。点击省钱可爱又好玩的经 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/111068)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容](https://sspai.com/post/111003)
@@ -85,53 +93,99 @@
 > 一代上的好几处优势这次依然保持得不错。查看全文
 - `少数派` [具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能](https://sspai.com/post/110973)
 > 少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文
-- `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/110992)
-> 📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》新预告6月11日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了新预告，将于7月7日开始播出。木村翔马执导，圆城塔编剧， ...查看全文
-- `少数派` [Level Read：让英语学习从「读得懂」开始，每天都进步一点点](https://sspai.com/post/110329)
-> 你不需要一开始就读最难的内容，不需要把英语变成一件很痛苦的任务。每天读一篇适合自己难度的英文新闻，听一听、查几个词、慢慢积累。查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+> Article URL: https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419
+Comments URL: https://news.ycombinator.com/item?id=48550693
+Points: 19
+# Comments: 0
+- `Hacker News` [Microsoft turns to AWS as GitHub faces AI capacity crunch](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)
+> Article URL: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch
+Comments URL: https://news.ycombinator.com/item?id=48549918
+Points: 136
+# Comments: 56
+- `Hacker News` [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/)
+> Article URL: https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/
+Comments URL: https://news.ycombinator.com/item?id=48548975
+Points: 77
+# Comments: 61
+- `Hacker News` [Reviews have become expensive, rewrites have become cheap](http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/)
+> Article URL: http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/
+Comments URL: https://news.ycombinator.com/item?id=48548883
+Points: 39
+# Comments: 34
+- `Hacker News` [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)
+> Article URL: https://www.richardosgood.com/posts/banned-book-library/
+Comments URL: https://news.ycombinator.com/item?id=48547985
+Points: 251
+# Comments: 118
+- `Hacker News` [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/)
+> Article URL: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
+Comments URL: https://news.ycombinator.com/item?id=48547566
+Points: 109
+# Comments: 50
+- `Hacker News` [Peopleless economy? Not technically impossible](https://gmalandrakis.com/writings/ad-economicum.html)
+> Article URL: https://gmalandrakis.com/writings/ad-economicum.html
+Comments URL: https://news.ycombinator.com/item?id=48547062
+Points: 129
+# Comments: 247
+- `Hacker News` [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
+> Article URL: https://fred.stlouisfed.org/series/IPG33591S
+Comments URL: https://news.ycombinator.com/item?id=48546616
+Points: 186
+# Comments: 156
+- `Hacker News` [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/)
+> Article URL: https://michaelenger.com/blog/i-love-the-computer/
+Comments URL: https://news.ycombinator.com/item?id=48546441
+Points: 181
+# Comments: 109
+- `Hacker News` [What job interviews taught me about Kubernetes](https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/)
+> Article URL: https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/
+Comments URL: https://news.ycombinator.com/item?id=48546428
+Points: 126
+# Comments: 97
+- `TechCrunch` [Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties](https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/)
+> AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.
+- `TechCrunch` [The US government’s Anthropic models ban was never about an AI jailbreak](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/)
+> The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune ...
+- `TechCrunch` [Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/)
+> Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.
+- `TechCrunch` [SpaceX is public: Everything you need to know post-IPO](https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/)
+> TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and m...
+- `TechCrunch` [These are the countries moving to ban social media for children](https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/)
+> Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and...
 - `TechCrunch` [Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/)
-> A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the a...
+> A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the a...
 - `TechCrunch` [SpaceX’s biggest-ever IPO just grew to $85.7 billion raised](https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/)
 > SpaceX's IPO underwriters maxed out their share purchases, adding to an already historic amount of money raised.
 - `TechCrunch` [UK unveils sweeping social media ban for users under 16](https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/)
 > The ban would apply to a range of social media platforms, including Snapchat, TikTok, YouTube, Instagram, Facebook, and X.
-- `TechCrunch` [Salesforce acquires AI customer service platform Fin for $3.6 billion](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/)
+- `TechCrunch` [Salesforce acquires AI customer service platform Fin for $3.6B](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/)
 > Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.
 - `TechCrunch` [Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech](https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/)
 > Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.
-- `TechCrunch` [Fox to acquire Roku in $22 billion deal](https://techcrunch.com/2026/06/15/fox-to-acquire-roku-in-22-billion-deal/)
-> Fox says the deal will create the third-largest television company in the United States.
-- `TechCrunch` [As AI agents become employees, NewCore emerges with $66M to give them identities](https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/)
-> NewCore argues the next challenge in enterprise security will be managing AI agents, not people.
-- `TechCrunch` [A satellite just learned to find things on its own — here’s what that means](https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/)
-> In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.
-- `TechCrunch` [The AI layoff wave is becoming a powder keg](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/)
-> What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.
-- `TechCrunch` [Orbio raises $21 million to automate hiring and onboarding for frontline workers](https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/)
-> Orbio announces $21 Million Series A in round led by Dawn Capital.
-- `The Verge` [Roblox exec says ticking a box for age verification is ‘not enough anymore’](https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc)
-> Roblox's vice president of safety product policy, Eliza Jacobs, told NBC News that Roblox is "optimistic" that its new facial age estimation tech will "continue to get better," saying, "Ticking a b...
-- `The Verge` [My favorite Qi2 power bank is cheaper than ever for Verge readers](https://www.theverge.com/gadgets/949766/baseus-am52-usbc-power-bank-magsafe-deal-sale)
-> I recently published a buying guide on the best Qi2 power banks. Out of seven feature-packed batteries, I really dug the Baseus AM52 10,000mAh power bank that has a built-in USB-C cable. It’s fast ...
-- `The Verge` [The Verge’s Father’s Day 2026 gift guide](https://www.theverge.com/gadgets/943212/best-fathers-day-gift-ideas)
-> With Father's Day on the horizon, happening June 21st, it's time to start thinking about what kind of gifts you want to buy for the fathers you care about. You know your dad best - he may be a man ...
-- `The Verge` [Happy birthday to the Trump phone](https://www.theverge.com/policy/949093/trump-mobile-t1-phone-one-year-anniversary)
-> From the day it was announced, on June 16th, 2025, the Trump phone sounded ridiculous. The T1 Phone 8002 (gold version), as it was officially called, was a combination of contradictory specs, produ...
-- `The Verge` [Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use](https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military)
-> Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the ...
-- `The Verge` [Google Earth’s flight simulator is now available in your browser](https://www.theverge.com/tech/949749/google-earth-flight-simulator-browser-experimental)
-> On Friday Google announced it was making a relatively unknown feature of Google Earth available to a wider audience. The desktop version of Google Earth has had a hidden flight simulator mode since...
-- `The Verge` [Fox is buying Roku](https://www.theverge.com/business/949727/fox-roku-acquisition-22-billion)
-> Fox has announced that it's acquiring Roku outright, in a deal that values the streaming company at $22 billion. Once the deal is complete, Fox content will be promoted more heavily than before on ...
-- `The Verge` [All the gear a 20-year gadget blogging veteran packs when traveling](https://www.theverge.com/gadgets/947310/gadget-veteran-travel-gear)
-> Through more than two decades of travel for both work and leisure, my packing list has evolved from a random assortment of gadgets and accessories thrown together at the last minute into a refined ...
-- `The Verge` [Honor’s Magic V6 sets three foldable firsts](https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review)
-> On paper, the Honor Magic V6 sounds like a tremendous leap forward for foldable phones: It's the thinnest one yet, with the biggest battery, and the best water-resistance ever. In practice, only th...
-- `The Verge` [Under-16 social media ban announced by UK government](https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement)
-> The UK is the latest country to follow Australia in implementing a total social media ban for children under 16, Prime Minister Keir Starmer has announced. The ban, which could take effect from ear...
+- `The Verge` [Inside the fight over Claude Mythos 5](https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls)
+> As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release...
+- `The Verge` [Facebook’s new AI Mode search gets its info from public posts](https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook)
+> Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the "AI Mode" option will appear alongside the usual search modes like "People"...
+- `The Verge` [Xbox is closing down Hellblade creator Ninja Theory](https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua)
+> Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will fi...
+- `The Verge` [Fox wants to take over your TV — and the tech inside it](https://www.theverge.com/streaming/950116/fox-roku-takeover)
+> Fox is about to take over the TVs in more than 100 million homes worldwide. On Monday, Fox announced that it's acquiring Roku, the streaming middleman that serves as a portal for viewers to hop int...
+- `The Verge` [Amazon’s Smart Thermostat is on sale for just $58](https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale)
+> If your electricity bill climbs every summer, a smart thermostat could help keep cooling costs in check. The Amazon Smart Thermostat is an excellent option for its price, especially today. It’...
+- `The Verge` [All the news about Anthropic’s new AI fight with the White House](https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown)
+> Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI ...
+- `The Verge` [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals)
+> Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s ...
+- `The Verge` [Trump’s Anthropic shutdown just made the case for non-American AI](https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai)
+> At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it bl...
+- `The Verge` [Google Chrome is closing the loopholes that let old ad blockers keep working](https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes)
+> Google Chrome version 150 and 151, expected in late June and July, respectively, will cut off support for the last remaining workarounds for running older ad blockers, 9to5Google reports. Google ph...
+- `The Verge` [Big Tech’s desperate last push at AI regulation](https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress)
+> For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the presi...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
