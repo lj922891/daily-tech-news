@@ -6,10 +6,27 @@
 
 # 📰 每日科技日报 — 2026-06-18
 
-> 自动收集于 2026-06-18 04:41 | 共 50 条
+> 自动收集于 2026-06-18 14:38 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相](https://36kr.com/p/3858676671599881?f=rss)
+> 6月17日，爱玛黑翼品牌战略发布会在四川省体育馆盛大开启。体育馆化身爱玛黑翼玩家街区，潮流青年齐聚现场。爱玛黑翼以“全速热爱”为品牌主张，携爱玛黑翼S360电竞版、爱玛黑翼S360赛道版、爱玛黑翼S790赛博版三款车型重磅亮相，首位中国F1车手周冠宇以爱玛黑翼“全速领航员”身份在线助力品牌发布。爱玛黑翼的登场，标志着爱玛电动车在男性出行科技领域树立起全新坐标，正式构建起“他硬核”增长格局，向...
+- `36氪` [氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功](https://36kr.com/p/3858015526704129?f=rss)
+> 大公司：
+  滴滴自动驾驶参加伦敦MOVE 2026大会
+  6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范...
+- `36氪` [蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争](https://36kr.com/p/3858329994875908?f=rss)
+> 文｜肖漫编辑｜李勤
+  6月18日，蔚来同时向两代平台车型（包含8款NT2.0平台车型、4款NT2.5平台车型，以及6款NT3.0车型）推送了最新版的世界模型，这意味着，蔚来现在能让同一套复杂的智驾代码，现在能跑在不同代际的芯片上。
+  软件迭代节奏被硬件绑架曾是一个困扰行业的难题。很多车企无法在不同版本、配置的车型上迭代同一款软件，这带来的结果是，很长时间内只有使用最新版本硬件的车才能用上...
+- `36氪` [中国游戏的错位竞争：头部赌3A，腰部吃存量 | 游戏风向标](https://36kr.com/p/3858373969286148?f=rss)
+> 文丨小葵
+  编辑丨果脯
+  中国游戏产业正站在一个微妙的分水岭上。
+  一边，腾讯网易等头部大厂利用资本，以全球资源整合或漫长自研周期，向代表行业塔尖的3A单机游戏发起冲锋；另一边，以4399百奥为代表的腰部力量，在各自深耕的细分赛道里，通过成熟玩法复刻与精细化运营，稳守利润阵地。
+  今年夏日游戏节的发布会上，数十家全球顶尖游戏厂商轮番登台，发布了超过50款新作的最新消息。
+  在海外大...
 - `36氪` [12306要忙着赚钱了](https://36kr.com/p/3858061678760965?f=rss)
 > 作者 | 王晗玉
   编辑 | 张帆
@@ -18,8 +35,8 @@
 - `36氪` [北大科学家下场做脑机接口，种子轮融了近亿元](https://36kr.com/p/3855480467543042?f=rss)
 > 文 | 孙小雯
   访谈 / 编辑 | 海若镜
-  「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。
-  当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的...
+  「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本��融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。
+  当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”...
 - `36氪` [红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发](https://36kr.com/p/3856708724315400?f=rss)
 > 作者｜黄楠
   编辑｜袁斯来
@@ -47,27 +64,10 @@
   TOP 3 大新闻
   监管约谈山姆后，沃尔玛中国多位高管变动
   36氪了解到，山姆会员商店中国CMO（首席采购官）张青已于近日提交辞呈。此外，据36...
-- `36氪` [氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协...](https://36kr.com/p/3857175761081348?f=rss)
-> 大公司：
-  监管约谈山姆后，沃尔玛中国多位高管变动
-  36氪了解到，山姆会员商店中国 CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现任沃尔玛国际部战略副总裁，将加入沃尔玛中国，担任沃尔玛中国战略副总裁，直接向朱晓静汇报。内部邮件称，Tony将在完成工作签证流程后于2026年8月正式加入中国团队，并与妻子...
-- `36氪` [风拂阳澄，来半岛解锁夏日限定AI狂欢！](https://36kr.com/p/3857051317359622?f=rss)
-> 风口已至，静候同行。 
-  
-  提起阳澄湖，你的脑海里浮现的画面是什么？ 
-  是远近闻名的阳澄湖大闸蟹，是波光粼粼的度假区风光，还是惬意舒展的环湖骑行赛道？在大多数人的印象里，阳澄湖半岛风光旖旎，向来是周末卸下疲惫、放松身心的度假好去处。
-  
-  然而在今年盛夏，这片湖畔热土将迎来全新的科技活力。
-  当你再次漫步于阳澄湖畔，迎面走来的可能是身着外骨骼机甲在执勤的景...
-- `36氪` [浙大系创业者冲港股IPO，仙工智能招股书五大看点](https://36kr.com/p/3857011810112521?f=rss)
-> 6月15日，智能机器人公司仙工智能（06106.HK）开始招股，招股价101.60港元，每手50股，市值112.27亿港元。
-  仙工智能最早于2025年5月第一次向港交所递交招股书，6个月失效后，又于当年11月重新递交，直到今年6月才通过聆讯。仙工智能这次是以18C特专科技公司身份赴港上市，预计6月24日挂牌敲钟。中金独家保荐，招银国际为整体协调人。
-  有意思的是，这家公司的核心壁垒不在...
-- `36氪` [把AI当「电子校医」的大学生，一个人看病不慌了](https://36kr.com/p/3856958075802633?f=rss)
-> 01.深夜急诊室：校医下班后，“电子校医”上线了
-  深夜11点，宿舍快熄灯了，张雯的小腹突然一阵绞痛，疼得她揪紧被子，直冒冷汗。校医室这个点已经下班了，室友说陪她去校外医院。但张雯犹豫了，大半夜不想折腾，万一一会儿就缓过来了呢？
-  她打开蚂蚁阿福，把自己的症状输进去，“凌晨腹部绞痛，一阵一阵的，没有拉肚子，没有发烧，也不是生理期。”
-  阿福很快给出分析，“大概率是腹部受凉引起的肠道痉挛...
+- `少数派` [新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
+> 编注：我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内容，将会在对应条目标注「广告」；若有标注「厂商 ...查看全文
+- `少数派` [Nothing Phone 杂谈：活下去再谈未来，然后呢？](https://sspai.com/post/110442)
+> 我依然相信他们能给已成红海的手机市场带来变数与惊喜，正如标志性的透明后盖与微弱闪烁的灯光，每一次触碰都仿佛钟表倒转，回到光芒与图案代表个性的千禧年代。查看全文
 - `少数派` [具透 | visionOS 27 首个开发者测试版中值得关注的新内容](https://sspai.com/post/111198)
 > 新环境、弧形窗口，visionOS 27 中值得关系的新内容。查看全文
 - `少数派` [派早报：Android 17 正式推送、微软发布 Surface 新品等](https://sspai.com/post/111191)
@@ -84,62 +84,67 @@
 > 夏普推出 AQUOS R11 手机、理光宣布 GR 系列调整建议零售价等。查看全文
 - `少数派` [具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性](https://sspai.com/post/111030)
 > macOS Golden Gate 27 首个开发者测试版更新，我们整理了你所关心的所有细节。查看全文
-- `少数派` [社区速递 145 | 尝鲜激进傻快新系统、告别「电流麦」与平价人体工学椅](https://sspai.com/post/111099)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [独家采访 Home Assistant 创始人：离全面本土化还有多远](https://sspai.com/post/110086)
-> 或许你没有直接听说过HomeAssistant，但每当你想在家里做些复杂的自动化，亦或是打破品牌壁垒的生态联通——比如把米家的设备无缝接入AppleHome，那么这个名字一定会进入你的视野。作为一个开 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Nim Conf 2026 (Online, Sat June 20)](https://conf.nim-lang.org/)
-> Article URL: https://conf.nim-lang.org/
-Comments URL: https://news.ycombinator.com/item?id=48580504
-Points: 3
-# Comments: 1
-- `Hacker News` [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
-> Article URL: https://blog.alexellis.io/local-ai-is-not-opus/
-Comments URL: https://news.ycombinator.com/item?id=48580209
-Points: 15
-# Comments: 1
-- `Hacker News` [[x86] AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)
-> Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/
-Comments URL: https://news.ycombinator.com/item?id=48579913
-Points: 19
-# Comments: 8
-- `Hacker News` [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
-> https://www.midjourney.com/medicalVideo: https://x.com/midjourney/status/2067422898407837797
-
-Comments URL: https://news.ycombinator.com/item?id=48579650
-Points: 304
-# Comments: 258
-- `Hacker News` [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921)
-> Article URL: https://www.horg.com/horg/?page_id=921
-Comments URL: https://news.ycombinator.com/item?id=48578388
-Points: 103
-# Comments: 18
-- `Hacker News` [Clojure Hosted on Go](https://github.com/glojurelang/glojure)
-> Article URL: https://github.com/glojurelang/glojure
-Comments URL: https://news.ycombinator.com/item?id=48578326
-Points: 65
-# Comments: 9
-- `Hacker News` [Storied Colors – a catalogue of named colors](https://storiedcolors.com/)
-> Article URL: https://storiedcolors.com/
-Comments URL: https://news.ycombinator.com/item?id=48577374
-Points: 121
-# Comments: 28
-- `Hacker News` [Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct](https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/)
-> Article URL: https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/
-Comments URL: https://news.ycombinator.com/item?id...
-- `Hacker News` [Loreline – Tools for writing interactive fiction](https://loreline.app/en/)
-> Article URL: https://loreline.app/en/
-Comments URL: https://news.ycombinator.com/item?id=48576395
-Points: 101
+- `Hacker News` [Git platform built for agentic era](https://gitlawb.com/node)
+> Article URL: https://gitlawb.com/node
+Comments URL: https://news.ycombinator.com/item?id=48584873
+Points: 5
+# Comments: 3
+- `Hacker News` [How Alberta Eradicated Rats](https://worksinprogress.co/issue/albertas-war-on-rats/)
+> Article URL: https://worksinprogress.co/issue/albertas-war-on-rats/
+Comments URL: https://news.ycombinator.com/item?id=48584709
+Points: 11
+# Comments: 2
+- `Hacker News` [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
+> Article URL: https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/
+Comments URL: https://news.ycombinator.com/item?id=48584497
+Points: 83
+# Com...
+- `Hacker News` [Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/)
+> Article URL: https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/
+Comments URL: https://news.ycombinator.com/item?i...
+- `Hacker News` [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
+> Article URL: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner
+Comments URL: https://news.ycombinator.com/item?id=48584135
+Points: 165
+# Comments: 64
+- `Hacker News` [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
+> Article URL: https://orchidfiles.com/github-repositories-distributing-malware/
+Comments URL: https://news.ycombinator.com/item?id=48583928
+Points: 108
+# Comments: 30
+- `Hacker News` [Modos Color Monitor Pushes E-Paper Displays Further](https://spectrum.ieee.org/modos-e-paper-monitor)
+> Article URL: https://spectrum.ieee.org/modos-e-paper-monitor
+Comments URL: https://news.ycombinator.com/item?id=48583897
+Points: 38
 # Comments: 12
-- `Hacker News` [How Madrid built its metro cheaply (2024)](https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/)
-> Article URL: https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/
-Comments URL: https://news.ycombinator.com/item?id=48575997
-Points: 67
-# Comments: 27
+- `Hacker News` [We built a persistent agent memory layer on Elasticsearch with 0.89 recall](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
+> Article URL: https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
+Comments URL: https://news.ycombinator.com/item?id=48583703
+Points: 52
+# Comments: 12
+- `Hacker News` [Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
+> Article URL: https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/
+Comments URL: https://news.ycombinator.com/item?id=48583606
+Points: 74
+# Comments: 5
+- `Hacker News` [Hospitals and universities repurposing drugs at 90% lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost)
+> Article URL: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost
+Comments URL: https://news.ycombinator.com/item?id=48583386
+Points: 124
+# Comments: 54
+- `TechCrunch` [Spotify’s reserved ticket sales to music superfans are now going live](https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/)
+> Spotify is launching "Reserved," a new system that will hold two concert tickets for an artist's superfans before they're on sale to the public.
+- `TechCrunch` [Adobe adds its AI assistant to Premiere, Illustrator and InDesign](https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/)
+> Adobe is updating its Firefly AI assistant with new chops, and adding it to Premiere, Illustrator, InDesign and Frame.io.
+- `TechCrunch` [Pixi’s new iOS app turns text messages into interactive AR experiences](https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/)
+> Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).
+- `TechCrunch` [Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones](https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/)
+> The company has identified at least 13 instances where its robotaxis drove into highway sections closed for construction.
+- `TechCrunch` [NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
+> Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.
 - `TechCrunch` [How to turn off AI in your Google Docs](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/)
 > Here's what you need to do to get those pesky "write with Gemini" pop-ups to go away.
 - `TechCrunch` [AI is hurting Apple in more ways than one: it may force iPhone price increases](https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/)
@@ -150,17 +155,19 @@ Points: 67
 > The former Sequoia Capital leader is filling an "existing vacancy" on SpaceX's board, days after the company went public in the largest IPO ever.
 - `TechCrunch` [After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/)
 > Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.
-- `TechCrunch` [NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/)
-> Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber ...
-- `TechCrunch` [FTC lawsuit reveals how subscription scam networks evade app store enforcement](https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/)
-> A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints.
-- `TechCrunch` [World leaders want American AI. They just don’t want America to be able to turn it off.](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/)
-> French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.
-- `TechCrunch` [Anthropic becomes first AI startup to join the Frontier carbon removal coalition](https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/)
-> Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.
-- `TechCrunch` [Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies a...](https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/)
-> An alleged Russian-speaking group of cybercriminals is reportedly compromising and targeting several major companies that use Fortinet Firewalls and VPNs through previously known passwords.
-- `The Verge` [Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan)
+- `The Verge` [The best robot vacuum deals available ahead of Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
+> If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. Prime Day is next week, but many retailer...
+- `The Verge` [Who decides when AI is too dangerous?](https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump)
+> On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weeken...
+- `The Verge` [Amazon’s Kindle Colorsoft bundle is almost half off for Prime Day](https://www.theverge.com/gadgets/951234/amazon-kindle-colorsoft-bundle-prime-day-deal-sale)
+> Amazon’s Kindle Colorsoft Essentials Bundle is on sale for $182.97 (originally $334.97) as an early Prime Day deal, the lowest price we’ve seen for the combo. Unlike other Kindles, the Colorsoft’s ...
+- `The Verge` [Photoshop and Premiere now have AI assistants](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch)
+> Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta la...
+- `The Verge` [Adobe’s redesigned AI studio remembers what your creations look like](https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update)
+> Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a "reimagined" AI studio that lets you edit and generate new designs from a single interface. The new Firefly expe...
+- `The Verge` [This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers insi...](https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review)
+> Anime collaborations are everywhere, from Gundam watches and Naruto nights at Major League ballparks to just about anything Evangelion. But these Ghost in the Shell keyboards from Iqunix are some o...
+- `The Verge` [Midjourney goes from generating cat images to full-body ultrasound scans](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan)
 > Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the "cat pictures" produced by its A...
 - `The Verge` [Tim Cook says RAM expenses are ‘unsustainable’ and Apple is going to raise prices](https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram)
 > Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says "price increases are unavoidable:" We're doing ou...
@@ -168,18 +175,6 @@ Points: 67
 > VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, styl...
 - `The Verge` [Epic wants to let you bring your Fortnite skins to other games](https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse)
 > Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game devel...
-- `The Verge` [Anthropic got hit by export rules nobody understands](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls)
-> Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including...
-- `The Verge` [Two-thirds of Americans think AI is advancing too quickly](https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly)
-> According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots h...
-- `The Verge` [The Echo Dot Max is cheaper than ever in an early Prime Day sale](https://www.theverge.com/gadgets/951602/amazon-echo-dot-max-early-prime-day-deal-sale)
-> We’re seeing good early Prime Day deals ahead of the event next week, and unsurprisingly, some of the best deals are on Amazon’s own devices. Several Echo speakers have dropped to new low pri...
-- `The Verge` [Vibe-decoding the White House-Anthropic fight over Fable](https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house)
-> Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! G...
-- `The Verge` [Can anyone look cool wearing Snap’s $2,000 glasses?](https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion)
-> Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an at...
-- `The Verge` [We got free GTA V upgrades before GTA VI](https://www.theverge.com/games/951533/gta-v-ps5-xbox-series-x-upgrade)
-> Rockstar Games will allow players to upgrade older versions of Grand Theft Auto V for PlayStation 5 and Xbox Series X / S for free just months before the launch of GTA VI. Starting June 18th, playe...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
