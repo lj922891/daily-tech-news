@@ -6,10 +6,13 @@
 
 # 📰 每日科技日报 — 2026-06-19
 
-> 自动收集于 2026-06-19 05:00 | 共 50 条
+> 自动收集于 2026-06-19 14:35 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万](https://36kr.com/p/3859926114161665?f=rss)
+> 硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。
+  ZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理...
 - `36氪` [安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向](https://36kr.com/p/3859469888508933?f=rss)
 > 36氪获悉，6月16日，安踏在上海创新创意设计研究院发布全新跑鞋技术平台“折纸科技（ANTA FOLD）”，并同步推出首款搭载该技术的跑鞋产品折纸H1。
   过去十余年，运动鞋行业的创新主要围绕材料展开。从EVA、TPU到Pebax等高性能发泡材料，各大品牌持续通过中底材料升级提升缓震与回弹表现。近年来，随着材料性能逐渐接近瓶颈，越来越多品牌开始将研发重点延伸至结构设计领域，希望通过几何构型...
@@ -47,13 +50,8 @@
   编辑｜袁斯来
   硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。 
   这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C...
-- `36氪` [36氪「2026最具价值成长企业100」正式发布](https://36kr.com/p/3857980507919622?f=rss)
->  
-   
-  时代从不被旁观者定义，它只发生在那些正在成长的人身上。
-  今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。
-  在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。
-  商...
+- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/111216)
+> 📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》正式预告6月16日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了正式预告，宣布坂本真绫、山路和弘、安元洋贵、中村悠一配 ...查看全文
 - `少数派` [新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
 > 编注：我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内容，将会在对应条目标注「广告」；若有标注「厂商 ...查看全文
 - `少数派` [Nothing Phone 杂谈：活下去再谈未来，然后呢？](https://sspai.com/post/110442)
@@ -72,56 +70,62 @@
 > 骑共享单车游香港，听起来似乎不是什么主流选择。的确，香港总体来说对单车不算很友好。特别是港岛、九龙一带，地形起伏大，开发密度高，基本没有条件开辟单车径，政府也明确不鼓励以单车代步。不过，在临近深圳的新 ...查看全文
 - `少数派` [派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等](https://sspai.com/post/111124)
 > 夏普推出 AQUOS R11 手机、理光宣布 GR 系列调整建议零售价等。查看全文
-- `少数派` [具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性](https://sspai.com/post/111030)
-> macOS Golden Gate 27 首个开发者测试版更新，我们整理了你所关心的所有细节。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Let's Encrypt has been down most of today](https://letsencrypt.status.io/#2026)
-> Article URL: https://letsencrypt.status.io/#2026
-Comments URL: https://news.ycombinator.com/item?id=48594715
+- `Hacker News` [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace)
+> Article URL: https://www.jakeworth.com/posts/leave-a-trace
+Comments URL: https://news.ycombinator.com/item?id=48597939
 Points: 60
-# Comments: 13
-- `Hacker News` [Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
-> Article URL: https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885
-Comments URL: https://news.ycombinator.com/item?id=48594592
-Points: 33
-# Comments: 4
+# Comments: 45
+- `Hacker News` [NASA picks Eric Schmidt's rocket company for Mars mission](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
+> Article URL: https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/
+Comments URL: https://news.ycombinator.com/item?id=48597910
+Po...
+- `Hacker News` [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/)
+> Article URL: https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/
+Comments URL: https://news.ycombinator.com/item?id=48596911
+Points: 140
+# Comments: 116
+- `Hacker News` [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
+> Article URL: https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel
+Comments URL: https://news.ycombinator.com/item?id=48596910
+Points: 67
+# Comments: 32
+- `Hacker News` [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+> Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a
+Comments URL: https://news.ycombinator.com/item?id=48595511
+Points: 329
+# Comments: 168
+- `Hacker News` [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
+> Article URL: https://mnot.net/blog/2026/well_known_uris
+Comments URL: https://news.ycombinator.com/item?id=48595331
+Points: 114
+# Comments: 62
 - `Hacker News` [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
 > Article URL: https://simonwillison.net/2026/Jun/18/datasette-apps/
 Comments URL: https://news.ycombinator.com/item?id=48593731
-Points: 49
-# Comments: 13
+Points: 110
+# Comments: 40
 - `Hacker News` [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
 > Article URL: https://www.flexport.com/company/careers/
 Comments URL: https://news.ycombinator.com/item?id=48593694
 Points: 0
 # Comments: 0
+- `Hacker News` [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
+> Article URL: https://www.theescapenewsletter.com/p/the-airpods-effect
+Comments URL: https://news.ycombinator.com/item?id=48592832
+Points: 212
+# Comments: 385
 - `Hacker News` [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
 > Article URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/
 Comments URL: https://news.ycombinator.com/item?id=48592163
-Points: 146
-# Comments: 58
-- `Hacker News` [Show HN: Are You in the Weights?](https://www.intheweights.com/)
-> With more traffic moving off-web and into LLMs, I got curious about what traces we leave "in the weights". My design partner and I built a site in the past few weeks that checks recognition across ...
-- `Hacker News` [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
-> Article URL: https://www.dpolakovic.space/blogs/zork-part2#update
-Comments URL: https://news.ycombinator.com/item?id=48591066
-Points: 74
-# Comments: 11
-- `Hacker News` [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
-> https://web.archive.org/web/20260618212028/https://www.thatp...https://archive.ph/I4zjA
-
-Comments URL: https://news.ycombinator.com/item?id=48589501
-Points: 286
-# Comments: 133
-- `Hacker News` [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
-> Article URL: https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/
-Comments URL: https://news.ycombinator.com/item?id=48588755
-Points: 91
-# Comments: 95
-- `Hacker News` [Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/)
-> Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project ...
+Points: 220
+# Comments: 78
+- `TechCrunch` [The CEO of Allbirds’ new AI biz has a plan, but no employees](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/)
+> Call it a startup with a sole founder and a very large seed round, but what's next is less clear.
+- `TechCrunch` [The US says ASML’s top chip tool may be in China. ASML says it isn’t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
+> There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
 - `TechCrunch` [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
 > Telegram argues India should block specific content, not an entire platform used by millions.
 - `TechCrunch` [Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/)
@@ -138,10 +142,16 @@ Points: 91
 > Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.
 - `TechCrunch` [Almost half of US singles feel negatively about AI in dating, Match says](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/)
 > About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.
-- `TechCrunch` [Amazon hopes to challenge Nvidia more directly by selling its AI chips](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
-> AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.
-- `TechCrunch` [Mivo’s new app takes a mindful approach to managing screen time](https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/)
-> Notably, unlike other apps that might just try to pull you away from your phone, Mivo lets the user decide if they want to continue, encouraging users to become more aware of how and why they’re us...
+- `The Verge` [The film about Sam Altman has been dropped by Amazon MGM](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped)
+> Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spann...
+- `The Verge` [Our long national sunscreen nightmare is almost over](https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health)
+> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
+- `The Verge` [T1 Phone PR firm is ‘not assisting Trump Mobile any further’](https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further)
+> Where's the Trump phone? We're going to keep talking about it every week. We don't have the phones we preordered yet, but this week we received unexpected news from Trump Mobile's media relations m...
+- `The Verge` [In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human](https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv)
+> When Colin Farrell was doing press for the first season of the detective series Sugar, he had to be very careful with how he spoke. Sugar is a story about a quirky private detective, but it's also ...
+- `The Verge` [Kaleidescape’s movie player blows streaming, and your wallet, away](https://www.theverge.com/tech/951718/kaleidescape-strato-e-review)
+> We've lost something in the past 15 years. Netflix, Amazon, Disney, Apple; they've all convinced us that streaming is the best way to watch movies and shows at home. With everything at our fingerti...
 - `The Verge` [Barret Zoph is out at OpenAI again after just five months](https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab)
 > Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-foun...
 - `The Verge` [Valve is so behind on Steam Controller orders that some won’t ship until 2027](https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date)
@@ -152,16 +162,6 @@ Points: 91
 > The easiest way to save on a streaming service is often to pay for a year upfront, which HBO Max is currently making a lot cheaper. Through July 15, 2026, new and returning subscribers can get 28 p...
 - `The Verge` [Snap’s Specs look good on nobody](https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast)
 > Snap's new smart glasses are probably the most impressive bit of face-computer technology we've seen. They're not VR-headset huge; they don't have a big charging puck; thanks to Snap's many years o...
-- `The Verge` [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals)
-> Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s ...
-- `The Verge` [This robotic self-driving toilet comes to you](https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet)
-> During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't ...
-- `The Verge` [A year of Walmart Plus is half off ahead of Prime Day](https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale)
-> Do you often find yourself shopping at the big blue, or perhaps you’re just looking for an alternative to Amazon? Either way, Walmart is currently offering a year of its Walmart Plus subscription f...
-- `The Verge` [Firefox’s new home page widgets are helping me focus](https://www.theverge.com/tech/952354/firefox-home-page-widgets)
-> I launched Firefox this morning to find some new blocks on my home page. The widgets that are currently rolling out add sports scores, time zones, a focus timer, and a checklist, which are already ...
-- `The Verge` [The Onion’s rebooted InfoWars is coming July 2nd](https://www.theverge.com/news/952264/the-onion-infowars-takeover-alex-jones-relaunch)
-> The Onion's InfoWars officially has a launch date: On July 2nd, the conspiracy network previously run by Alex Jones will return as a comedy and media platform. The reboot comes more than a year and...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
