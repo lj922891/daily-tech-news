@@ -4,12 +4,17 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-18
+# 📰 每日科技日报 — 2026-06-19
 
-> 自动收集于 2026-06-18 14:38 | 共 50 条
+> 自动收集于 2026-06-19 05:00 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向](https://36kr.com/p/3859469888508933?f=rss)
+> 36氪获悉，6月16日，安踏在上海创新创意设计研究院发布全新跑鞋技术平台“折纸科技（ANTA FOLD）”，并同步推出首款搭载该技术的跑鞋产品折纸H1。
+  过去十余年，运动鞋行业的创新主要围绕材料展开。从EVA、TPU到Pebax等高性能发泡材料，各大品牌持续通过中底材料升级提升缓震与回弹表现。近年来，随着材料性能逐渐接近瓶颈，越来越多品牌开始将研发重点延伸至结构设计领域，希望通过几何构型...
+- `36氪` [科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心](https://36kr.com/p/3858803016881154?f=rss)
+> 国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。然而，在四川省体育馆的一场发布会上，爱玛正式发布了旗下专为年轻男性打造的极速运动品类品牌——“爱玛黑翼”（AIMA BLACK WING）。首位中国F1车手周冠宇化身“全速领航员”在线助力，爱玛黑翼S360电竞版、爱玛黑翼S360赛道版以及爱玛黑翼S790...
 - `36氪` [科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相](https://36kr.com/p/3858676671599881?f=rss)
 > 6月17日，爱玛黑翼品牌战略发布会在四川省体育馆盛大开启。体育馆化身爱玛黑翼玩家街区，潮流青年齐聚现场。爱玛黑翼以“全速热爱”为品牌主张，携爱玛黑翼S360电竞版、爱玛黑翼S360赛道版、爱玛黑翼S790赛博版三款车型重磅亮相，首位中国F1车手周冠宇以爱玛黑翼“全速领航员”身份在线助力品牌发布。爱玛黑翼的登场，标志着爱玛电动车在男性出行科技领域树立起全新坐标，正式构建起“他硬核”增长格局，向...
 - `36氪` [氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功](https://36kr.com/p/3858015526704129?f=rss)
@@ -35,8 +40,8 @@
 - `36氪` [北大科学家下场做脑机接口，种子轮融了近亿元](https://36kr.com/p/3855480467543042?f=rss)
 > 文 | 孙小雯
   访谈 / 编辑 | 海若镜
-  「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本��融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。
-  当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”...
+  「暗涌Waves」独家获悉，侵入式脑机接口公司「芯生视界」近日完成近亿元人民币种子轮融资。本轮融资由经纬创投领投，星连资本、燕缘创投、水木创投跟投。
+  当下，侵入式脑机接口已经在治疗瘫痪、脑控外设等医疗场景落地，验证长期植入的安全、有效。与此同时，AI Agent和具身智能技术加速进化，也放大了市场对脑机接口的期待：改写未来“人机交互”的...
 - `36氪` [红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发](https://36kr.com/p/3856708724315400?f=rss)
 > 作者｜黄楠
   编辑｜袁斯来
@@ -49,21 +54,6 @@
   今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。
   在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。
   商...
-- `36氪` [中科院博士冲上市，市值超105亿港币](https://36kr.com/p/3857959588418823?f=rss)
-> 本文约1900字，建议阅读4分钟
-  作者 | 彭孝秋
-  6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。
-  上市后，中科闻歌将成为"通用决策大模型第一股"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%...
-- `36氪` [8点1氪丨山姆首席采购官张青已提交辞呈；豆包每天收入不足百万；不得以长期、大额补贴扰乱市场秩序，外卖平台新规公开征求意见](https://36kr.com/p/3857925631104004?f=rss)
-> 今日热点导览
-  SpaceX华裔女工程师辟谣
-  国内成品油价即将迎来两连跌
-  必胜客中国对外投资超60家企业
-  苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone
-  OpenAI 2026年前三个月烧钱37亿美元
-  TOP 3 大新闻
-  监管约谈山姆后，沃尔玛中国多位高管变动
-  36氪了解到，山姆会员商店中国CMO（首席采购官）张青已于近日提交辞呈。此外，据36...
 - `少数派` [新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
 > 编注：我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内容，将会在对应条目标注「广告」；若有标注「厂商 ...查看全文
 - `少数派` [Nothing Phone 杂谈：活下去再谈未来，然后呢？](https://sspai.com/post/110442)
@@ -87,94 +77,91 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Git platform built for agentic era](https://gitlawb.com/node)
-> Article URL: https://gitlawb.com/node
-Comments URL: https://news.ycombinator.com/item?id=48584873
-Points: 5
-# Comments: 3
-- `Hacker News` [How Alberta Eradicated Rats](https://worksinprogress.co/issue/albertas-war-on-rats/)
-> Article URL: https://worksinprogress.co/issue/albertas-war-on-rats/
-Comments URL: https://news.ycombinator.com/item?id=48584709
-Points: 11
-# Comments: 2
-- `Hacker News` [Has W Social switched to closed source?](https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/)
-> Article URL: https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/
-Comments URL: https://news.ycombinator.com/item?id=48584497
-Points: 83
-# Com...
-- `Hacker News` [Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly](https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/)
-> Article URL: https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/
-Comments URL: https://news.ycombinator.com/item?i...
-- `Hacker News` [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
-> Article URL: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner
-Comments URL: https://news.ycombinator.com/item?id=48584135
-Points: 165
-# Comments: 64
-- `Hacker News` [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
-> Article URL: https://orchidfiles.com/github-repositories-distributing-malware/
-Comments URL: https://news.ycombinator.com/item?id=48583928
-Points: 108
-# Comments: 30
-- `Hacker News` [Modos Color Monitor Pushes E-Paper Displays Further](https://spectrum.ieee.org/modos-e-paper-monitor)
-> Article URL: https://spectrum.ieee.org/modos-e-paper-monitor
-Comments URL: https://news.ycombinator.com/item?id=48583897
-Points: 38
-# Comments: 12
-- `Hacker News` [We built a persistent agent memory layer on Elasticsearch with 0.89 recall](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
-> Article URL: https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch
-Comments URL: https://news.ycombinator.com/item?id=48583703
-Points: 52
-# Comments: 12
-- `Hacker News` [Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
-> Article URL: https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/
-Comments URL: https://news.ycombinator.com/item?id=48583606
+- `Hacker News` [Let's Encrypt has been down most of today](https://letsencrypt.status.io/#2026)
+> Article URL: https://letsencrypt.status.io/#2026
+Comments URL: https://news.ycombinator.com/item?id=48594715
+Points: 60
+# Comments: 13
+- `Hacker News` [Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
+> Article URL: https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885
+Comments URL: https://news.ycombinator.com/item?id=48594592
+Points: 33
+# Comments: 4
+- `Hacker News` [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
+> Article URL: https://simonwillison.net/2026/Jun/18/datasette-apps/
+Comments URL: https://news.ycombinator.com/item?id=48593731
+Points: 49
+# Comments: 13
+- `Hacker News` [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
+> Article URL: https://www.flexport.com/company/careers/
+Comments URL: https://news.ycombinator.com/item?id=48593694
+Points: 0
+# Comments: 0
+- `Hacker News` [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
+> Article URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/
+Comments URL: https://news.ycombinator.com/item?id=48592163
+Points: 146
+# Comments: 58
+- `Hacker News` [Show HN: Are You in the Weights?](https://www.intheweights.com/)
+> With more traffic moving off-web and into LLMs, I got curious about what traces we leave "in the weights". My design partner and I built a site in the past few weeks that checks recognition across ...
+- `Hacker News` [Zork name origin got an update on Wikipedia](https://www.dpolakovic.space/blogs/zork-part2#update)
+> Article URL: https://www.dpolakovic.space/blogs/zork-part2#update
+Comments URL: https://news.ycombinator.com/item?id=48591066
 Points: 74
-# Comments: 5
-- `Hacker News` [Hospitals and universities repurposing drugs at 90% lower cost](https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost)
-> Article URL: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost
-Comments URL: https://news.ycombinator.com/item?id=48583386
-Points: 124
-# Comments: 54
-- `TechCrunch` [Spotify’s reserved ticket sales to music superfans are now going live](https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/)
-> Spotify is launching "Reserved," a new system that will hold two concert tickets for an artist's superfans before they're on sale to the public.
-- `TechCrunch` [Adobe adds its AI assistant to Premiere, Illustrator and InDesign](https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/)
-> Adobe is updating its Firefly AI assistant with new chops, and adding it to Premiere, Illustrator, InDesign and Frame.io.
-- `TechCrunch` [Pixi’s new iOS app turns text messages into interactive AR experiences](https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/)
-> Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).
-- `TechCrunch` [Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones](https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/)
-> The company has identified at least 13 instances where its robotaxis drove into highway sections closed for construction.
-- `TechCrunch` [NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
-> Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.
-- `TechCrunch` [How to turn off AI in your Google Docs](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/)
-> Here's what you need to do to get those pesky "write with Gemini" pop-ups to go away.
-- `TechCrunch` [AI is hurting Apple in more ways than one: it may force iPhone price increases](https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/)
-> CEO Tim Cook said in a recent interview that the situation is "unsustainable."
-- `TechCrunch` [Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI](https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/)
-> Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.
-- `TechCrunch` [Roelof Botha joins SpaceX’s board of directors](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/)
-> The former Sequoia Capital leader is filling an "existing vacancy" on SpaceX's board, days after the company went public in the largest IPO ever.
-- `TechCrunch` [After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/)
-> Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.
-- `The Verge` [The best robot vacuum deals available ahead of Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
-> If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. Prime Day is next week, but many retailer...
-- `The Verge` [Who decides when AI is too dangerous?](https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump)
-> On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weeken...
-- `The Verge` [Amazon’s Kindle Colorsoft bundle is almost half off for Prime Day](https://www.theverge.com/gadgets/951234/amazon-kindle-colorsoft-bundle-prime-day-deal-sale)
-> Amazon’s Kindle Colorsoft Essentials Bundle is on sale for $182.97 (originally $334.97) as an early Prime Day deal, the lowest price we’ve seen for the combo. Unlike other Kindles, the Colorsoft’s ...
-- `The Verge` [Photoshop and Premiere now have AI assistants](https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch)
-> Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta la...
-- `The Verge` [Adobe’s redesigned AI studio remembers what your creations look like](https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update)
-> Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a "reimagined" AI studio that lets you edit and generate new designs from a single interface. The new Firefly expe...
-- `The Verge` [This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers insi...](https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review)
-> Anime collaborations are everywhere, from Gundam watches and Naruto nights at Major League ballparks to just about anything Evangelion. But these Ghost in the Shell keyboards from Iqunix are some o...
-- `The Verge` [Midjourney goes from generating cat images to full-body ultrasound scans](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan)
-> Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the "cat pictures" produced by its A...
-- `The Verge` [Tim Cook says RAM expenses are ‘unsustainable’ and Apple is going to raise prices](https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram)
-> Apple is planning to raise prices in response to the ongoing memory shortage. In an interview with The Wall Street Journal, Apple CEO Tim Cook says "price increases are unavoidable:" We're doing ou...
-- `The Verge` [VSCO launches Studio Pro mobile photo editing app and plans $500 per year subscription](https://www.theverge.com/tech/951863/vsco-studio-pro-vsco-one-subscription)
-> VSCO is taking on Adobe with a new Studio Pro editing app rolling out today on iOS and coming to macOS later this year, as Bloomberg reports. At launch, the app offers tools for batch editing, styl...
-- `The Verge` [Epic wants to let you bring your Fortnite skins to other games](https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse)
-> Epic Games has been touting the potential of an interoperable metaverse for years, though that vision hasn't yet become a reality. But with Unreal Engine 6, the next major version of its game devel...
+# Comments: 11
+- `Hacker News` [I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M](https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/)
+> https://web.archive.org/web/20260618212028/https://www.thatp...https://archive.ph/I4zjA
+
+Comments URL: https://news.ycombinator.com/item?id=48589501
+Points: 286
+# Comments: 133
+- `Hacker News` [The Token Compression Illusion: Why I'm Skeptical of RTK](https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/)
+> Article URL: https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/
+Comments URL: https://news.ycombinator.com/item?id=48588755
+Points: 91
+# Comments: 95
+- `Hacker News` [Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/)
+> Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project ...
+- `TechCrunch` [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
+> Telegram argues India should block specific content, not an entire platform used by millions.
+- `TechCrunch` [Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/)
+> DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.
+- `TechCrunch` [AI inference startup Baseten reportedly raising $1.5B months after its last mega-round](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
+> Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush" marches on.
+- `TechCrunch` [Snap spins off AI video team into new company, Dotmo, due to costs](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/)
+> The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.
+- `TechCrunch` [OpenAI is bringing on some big guns in the lead-up to its IPO](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/)
+> OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.
+- `TechCrunch` [The 11 standout startups from YC’s Demo Day, according to VCs](https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/)
+> TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.
+- `TechCrunch` [Rivian owners file lawsuit alleging false promises on self-driving features](https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/)
+> Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.
+- `TechCrunch` [Almost half of US singles feel negatively about AI in dating, Match says](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/)
+> About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.
+- `TechCrunch` [Amazon hopes to challenge Nvidia more directly by selling its AI chips](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
+> AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.
+- `TechCrunch` [Mivo’s new app takes a mindful approach to managing screen time](https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/)
+> Notably, unlike other apps that might just try to pull you away from your phone, Mivo lets the user decide if they want to continue, encouraging users to become more aware of how and why they’re us...
+- `The Verge` [Barret Zoph is out at OpenAI again after just five months](https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab)
+> Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-foun...
+- `The Verge` [Valve is so behind on Steam Controller orders that some won’t ship until 2027](https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date)
+> Valve has some good news and bad news about Steam Controllers. The good news: If you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll b...
+- `The Verge` [You can now use the Game Boy Camera with your phone](https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone)
+> The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new funct...
+- `The Verge` [HBO Max’s annual plans are 28 percent off right now](https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale)
+> The easiest way to save on a streaming service is often to pay for a year upfront, which HBO Max is currently making a lot cheaper. Through July 15, 2026, new and returning subscribers can get 28 p...
+- `The Verge` [Snap’s Specs look good on nobody](https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast)
+> Snap's new smart glasses are probably the most impressive bit of face-computer technology we've seen. They're not VR-headset huge; they don't have a big charging puck; thanks to Snap's many years o...
+- `The Verge` [The best early Amazon Prime Day deals so far](https://www.theverge.com/gadgets/944084/best-early-prime-day-deals)
+> Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s ...
+- `The Verge` [This robotic self-driving toilet comes to you](https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet)
+> During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't ...
+- `The Verge` [A year of Walmart Plus is half off ahead of Prime Day](https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale)
+> Do you often find yourself shopping at the big blue, or perhaps you’re just looking for an alternative to Amazon? Either way, Walmart is currently offering a year of its Walmart Plus subscription f...
+- `The Verge` [Firefox’s new home page widgets are helping me focus](https://www.theverge.com/tech/952354/firefox-home-page-widgets)
+> I launched Firefox this morning to find some new blocks on my home page. The widgets that are currently rolling out add sports scores, time zones, a focus timer, and a checklist, which are already ...
+- `The Verge` [The Onion’s rebooted InfoWars is coming July 2nd](https://www.theverge.com/news/952264/the-onion-infowars-takeover-alex-jones-relaunch)
+> The Onion's InfoWars officially has a launch date: On July 2nd, the conspiracy network previously run by Alex Jones will return as a comedy and media platform. The reboot comes more than a year and...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
