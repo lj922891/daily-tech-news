@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-19
+# 📰 每日科技日报 — 2026-06-20
 
-> 自动收集于 2026-06-19 14:35 | 共 50 条
+> 自动收集于 2026-06-20 04:13 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -73,75 +73,34 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace)
-> Article URL: https://www.jakeworth.com/posts/leave-a-trace
-Comments URL: https://news.ycombinator.com/item?id=48597939
-Points: 60
-# Comments: 45
-- `Hacker News` [NASA picks Eric Schmidt's rocket company for Mars mission](https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/)
-> Article URL: https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/
-Comments URL: https://news.ycombinator.com/item?id=48597910
-Po...
-- `Hacker News` [The room the economy can't see](https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/)
-> Article URL: https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/
-Comments URL: https://news.ycombinator.com/item?id=48596911
-Points: 140
-# Comments: 116
-- `Hacker News` [Norway greenlights first full-scale ship tunnel](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
-> Article URL: https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel
-Comments URL: https://news.ycombinator.com/item?id=48596910
-Points: 67
-# Comments: 32
-- `Hacker News` [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
-> Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a
-Comments URL: https://news.ycombinator.com/item?id=48595511
-Points: 329
-# Comments: 168
-- `Hacker News` [So You Want to Define a Well-Known URI](https://mnot.net/blog/2026/well_known_uris)
-> Article URL: https://mnot.net/blog/2026/well_known_uris
-Comments URL: https://news.ycombinator.com/item?id=48595331
-Points: 114
-# Comments: 62
-- `Hacker News` [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/)
-> Article URL: https://simonwillison.net/2026/Jun/18/datasette-apps/
-Comments URL: https://news.ycombinator.com/item?id=48593731
-Points: 110
-# Comments: 40
-- `Hacker News` [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/)
-> Article URL: https://www.flexport.com/company/careers/
-Comments URL: https://news.ycombinator.com/item?id=48593694
-Points: 0
-# Comments: 0
-- `Hacker News` [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect)
-> Article URL: https://www.theescapenewsletter.com/p/the-airpods-effect
-Comments URL: https://news.ycombinator.com/item?id=48592832
-Points: 212
-# Comments: 385
-- `Hacker News` [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
-> Article URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/
-Comments URL: https://news.ycombinator.com/item?id=48592163
-Points: 220
-# Comments: 78
-- `TechCrunch` [The CEO of Allbirds’ new AI biz has a plan, but no employees](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/)
+- `TechCrunch` [He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)
+> French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
+- `TechCrunch` [Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
+> For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.
+- `TechCrunch` [Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/)
+> Go’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also supplied the taxi-hailing app...
+- `TechCrunch` [Aura’s impressive e-ink photo frame doesn’t even look digital](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/)
+> What’s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space wit...
+- `TechCrunch` [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/)
+> Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.
+- `TechCrunch` [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)
+> Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers alleg...
+- `TechCrunch` [Billionaire Ambani wants AI in every call, app, and home](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/)
+> Reliance is weaving AI into telecom services used by more than 500 million people.
+- `TechCrunch` [The CEO of Allbirds’ new AI biz has a plan, but no team](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/)
 > Call it a startup with a sole founder and a very large seed round, but what's next is less clear.
-- `TechCrunch` [The US says ASML’s top chip tool may be in China. ASML says it isn’t](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
+- `TechCrunch` [The US says ASML’s top chip tool may be in China, but how?](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
 > There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
 - `TechCrunch` [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
 > Telegram argues India should block specific content, not an entire platform used by millions.
-- `TechCrunch` [Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/)
-> DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.
-- `TechCrunch` [AI inference startup Baseten reportedly raising $1.5B months after its last mega-round](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
-> Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush" marches on.
-- `TechCrunch` [Snap spins off AI video team into new company, Dotmo, due to costs](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/)
-> The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.
-- `TechCrunch` [OpenAI is bringing on some big guns in the lead-up to its IPO](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/)
-> OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.
-- `TechCrunch` [The 11 standout startups from YC’s Demo Day, according to VCs](https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/)
-> TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.
-- `TechCrunch` [Rivian owners file lawsuit alleging false promises on self-driving features](https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/)
-> Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicles.
-- `TechCrunch` [Almost half of US singles feel negatively about AI in dating, Match says](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/)
-> About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.
+- `The Verge` [Nothing cancels this year’s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices)
+> Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be ...
+- `The Verge` [NASA selects Eric Schmidt’s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars)
+> Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-p...
+- `The Verge` [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb)
+> Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first ti...
+- `The Verge` [The NTS Radio Player brings the best of internet radio to your hi-fi](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming)
+> NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonem...
 - `The Verge` [The film about Sam Altman has been dropped by Amazon MGM](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped)
 > Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spann...
 - `The Verge` [Our long national sunscreen nightmare is almost over](https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health)
@@ -154,14 +113,6 @@ Points: 220
 > We've lost something in the past 15 years. Netflix, Amazon, Disney, Apple; they've all convinced us that streaming is the best way to watch movies and shows at home. With everything at our fingerti...
 - `The Verge` [Barret Zoph is out at OpenAI again after just five months](https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab)
 > Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-foun...
-- `The Verge` [Valve is so behind on Steam Controller orders that some won’t ship until 2027](https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date)
-> Valve has some good news and bad news about Steam Controllers. The good news: If you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll b...
-- `The Verge` [You can now use the Game Boy Camera with your phone](https://www.theverge.com/tech/952173/epilogue-gb-operator-game-boy-camera-ios-android-app-iphone)
-> The $50 GB Operator is an accessory that lets you connect, play, and authenticate Game Boy, Game Boy Color, and Game Boy Advance cartridges on PCs and other devices. Now it's getting some new funct...
-- `The Verge` [HBO Max’s annual plans are 28 percent off right now](https://www.theverge.com/gadgets/952326/hbo-max-annual-plan-deal-sale)
-> The easiest way to save on a streaming service is often to pay for a year upfront, which HBO Max is currently making a lot cheaper. Through July 15, 2026, new and returning subscribers can get 28 p...
-- `The Verge` [Snap’s Specs look good on nobody](https://www.theverge.com/podcast/952126/snap-specs-ar-glasses-vergecast)
-> Snap's new smart glasses are probably the most impressive bit of face-computer technology we've seen. They're not VR-headset huge; they don't have a big charging puck; thanks to Snap's many years o...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
