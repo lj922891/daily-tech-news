@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-06-20
 
-> 自动收集于 2026-06-20 04:13 | 共 40 条
+> 自动收集于 2026-06-20 13:20 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -62,7 +62,7 @@
 > 高通发布骁龙 Reality Elite 旗舰 XR 芯片、Grok Imagine Video 1.5 模型正式上线等。查看全文
 - `少数派` [WWDC26 在现场，与 Apple 设计大奖提名开发者聊聊他们的 app](https://sspai.com/post/111181)
 > 在WWDC26全球开发者大会正式开幕前，本年度的Apple设计大奖再次先行一步揭晓。今年的Apple设计大奖也一如以往，继续分设乐趣横生、多元包容、创新思维、出色互动、社会影响、视觉图像六大类别，每个 ...查看全文
-- `少数派` [模糊算法让图像更清晰？游戏里的「抗锯齿」到底在做什么](https://sspai.com/post/110720)
+- `少数派` [模糊算法让图像更「清晰」？游戏里的「抗锯齿」到底在做什么](https://sspai.com/post/110720)
 > 前言随意启动一款3D游戏，打开图形设置界面，你大概率能发现一个选项——「抗锯齿」。你可能参考了网上的设置教程，切换到了TAA，抑或是MSAA、DLSS等的设置选项，画面看起来似乎更好了。那么这些字母的 ...查看全文
 - `少数派` [具透 | 动态应用网格、Liquid Glass 微调，watchOS 27 首个开发者测试版一览](https://sspai.com/post/110958)
 > AI 之外，watchOS 27 中还有这些新功能。查看全文
@@ -73,9 +73,53 @@
 
 ## 🌍 国际科技
 
+- `Hacker News` [Lithuanian startup launches open-source network to detect Shahed-type drones](https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones)
+> Article URL: https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones
+Comments URL: https://news.ycombinator.com/item?id=4860859...
+- `Hacker News` [16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating](https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating)
+> Article URL: https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating
+Comments URL: https://news.ycombinator.com/item?id=...
+- `Hacker News` [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com)
+> Article URL: https://bootimus.com
+Comments URL: https://news.ycombinator.com/item?id=48608255
+Points: 9
+# Comments: 1
+- `Hacker News` [CSSQuake](https://cssquake.com/)
+> Article URL: https://cssquake.com/
+Comments URL: https://news.ycombinator.com/item?id=48608223
+Points: 107
+# Comments: 20
+- `Hacker News` [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
+> Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/
+Comments URL: https://news.ycombinator.com/item?id=48606619
+Points: 192
+# Comments: 74
+- `Hacker News` [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
+> Article URL: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering
+Comments URL: https://news.ycombinator....
+- `Hacker News` [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
+> Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/
+Comments URL: https://news.ycombinator.com/item?id=48606140
+Points: 225
+# Comments: 52
+- `Hacker News` [LLMs Are Complicated Now](https://ianbarber.blog/2026/06/19/llms-are-complicated-now/)
+> Article URL: https://ianbarber.blog/2026/06/19/llms-are-complicated-now/
+Comments URL: https://news.ycombinator.com/item?id=48605355
+Points: 66
+# Comments: 15
+- `Hacker News` [Surprising economics of load-balanced systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
+> Article URL: https://brooker.co.za/blog/2020/08/06/erlang.html
+Comments URL: https://news.ycombinator.com/item?id=48602918
+Points: 128
+# Comments: 30
+- `Hacker News` [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll)
+> Article URL: https://www.legacy.com/legacy/robert-bobby-prince-lll
+Comments URL: https://news.ycombinator.com/item?id=48602352
+Points: 410
+# Comments: 48
 - `TechCrunch` [He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)
 > French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
-- `TechCrunch` [Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
+- `TechCrunch` [From PGP to Mythos: a brief history of export controls that didn’t stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
 > For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.
 - `TechCrunch` [Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/)
 > Go’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also supplied the taxi-hailing app...
@@ -93,6 +137,10 @@
 > There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
 - `TechCrunch` [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
 > Telegram argues India should block specific content, not an entire platform used by millions.
+- `The Verge` [Toy Story has the right take on tech](https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer)
+> Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editio...
+- `The Verge` [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review)
+> I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circ...
 - `The Verge` [Nothing cancels this year’s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices)
 > Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be ...
 - `The Verge` [NASA selects Eric Schmidt’s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars)
@@ -109,10 +157,6 @@
 > Where's the Trump phone? We're going to keep talking about it every week. We don't have the phones we preordered yet, but this week we received unexpected news from Trump Mobile's media relations m...
 - `The Verge` [In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human](https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv)
 > When Colin Farrell was doing press for the first season of the detective series Sugar, he had to be very careful with how he spoke. Sugar is a story about a quirky private detective, but it's also ...
-- `The Verge` [Kaleidescape’s movie player blows streaming, and your wallet, away](https://www.theverge.com/tech/951718/kaleidescape-strato-e-review)
-> We've lost something in the past 15 years. Netflix, Amazon, Disney, Apple; they've all convinced us that streaming is the best way to watch movies and shows at home. With everything at our fingerti...
-- `The Verge` [Barret Zoph is out at OpenAI again after just five months](https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab)
-> Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-foun...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
