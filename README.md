@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-20
+# 📰 每日科技日报 — 2026-06-21
 
-> 自动收集于 2026-06-20 13:20 | 共 50 条
+> 自动收集于 2026-06-21 04:57 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -50,6 +50,8 @@
   编辑｜袁斯来
   硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。 
   这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C...
+- `少数派` [AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发](https://sspai.com/post/110972)
+> Agent 和人一样离不开闭环。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/111216)
 > 📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》正式预告6月16日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了正式预告，宣布坂本真绫、山路和弘、安元洋贵、中村悠一配 ...查看全文
 - `少数派` [新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
@@ -68,75 +70,85 @@
 > AI 之外，watchOS 27 中还有这些新功能。查看全文
 - `少数派` [在香港骑共享单车：访客视角的经验分享](https://sspai.com/post/110750)
 > 骑共享单车游香港，听起来似乎不是什么主流选择。的确，香港总体来说对单车不算很友好。特别是港岛、九龙一带，地形起伏大，开发密度高，基本没有条件开辟单车径，政府也明确不鼓励以单车代步。不过，在临近深圳的新 ...查看全文
-- `少数派` [派早报：SpaceX 宣布收购 Cursor、字节跳动推出 Seedance 2.0 Mini 等](https://sspai.com/post/111124)
-> 夏普推出 AQUOS R11 手机、理光宣布 GR 系列调整建议零售价等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Lithuanian startup launches open-source network to detect Shahed-type drones](https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones)
-> Article URL: https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones
-Comments URL: https://news.ycombinator.com/item?id=4860859...
-- `Hacker News` [16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating](https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating)
-> Article URL: https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating
-Comments URL: https://news.ycombinator.com/item?id=...
-- `Hacker News` [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com)
-> Article URL: https://bootimus.com
-Comments URL: https://news.ycombinator.com/item?id=48608255
-Points: 9
-# Comments: 1
-- `Hacker News` [CSSQuake](https://cssquake.com/)
-> Article URL: https://cssquake.com/
-Comments URL: https://news.ycombinator.com/item?id=48608223
-Points: 107
-# Comments: 20
-- `Hacker News` [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
-> Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/
-Comments URL: https://news.ycombinator.com/item?id=48606619
-Points: 192
-# Comments: 74
-- `Hacker News` [Satellite reveals immense scale of GPS signal tampering](https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering)
-> Article URL: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering
-Comments URL: https://news.ycombinator....
-- `Hacker News` [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
-> Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/
-Comments URL: https://news.ycombinator.com/item?id=48606140
-Points: 225
-# Comments: 52
-- `Hacker News` [LLMs Are Complicated Now](https://ianbarber.blog/2026/06/19/llms-are-complicated-now/)
-> Article URL: https://ianbarber.blog/2026/06/19/llms-are-complicated-now/
-Comments URL: https://news.ycombinator.com/item?id=48605355
-Points: 66
+- `Hacker News` [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
+> Article URL: https://www.sciencedaily.com/releases/2026/06/260614012006.htm
+Comments URL: https://news.ycombinator.com/item?id=48615569
+Points: 24
+# Comments: 7
+- `Hacker News` [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
+> Article URL: https://en.wikipedia.org/wiki/Armstrong_effect
+Comments URL: https://news.ycombinator.com/item?id=48615529
+Points: 3
+# Comments: 0
+- `Hacker News` [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
+> Article URL: https://fosterelli.co/developers-dont-understand-cors
+Comments URL: https://news.ycombinator.com/item?id=48614844
+Points: 53
+# Comments: 22
+- `Hacker News` [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
+> Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/
+Comments URL: https://news.ycombinator.com/item?id=48614631
+Points: 93
+# Comments: 56
+- `Hacker News` [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
+> Article URL: https://www.anthropic.com/research/project-fetch-phase-two
+Comments URL: https://news.ycombinator.com/item?id=48614311
+Points: 48
 # Comments: 15
-- `Hacker News` [Surprising economics of load-balanced systems](https://brooker.co.za/blog/2020/08/06/erlang.html)
-> Article URL: https://brooker.co.za/blog/2020/08/06/erlang.html
-Comments URL: https://news.ycombinator.com/item?id=48602918
-Points: 128
-# Comments: 30
-- `Hacker News` [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll)
-> Article URL: https://www.legacy.com/legacy/robert-bobby-prince-lll
-Comments URL: https://news.ycombinator.com/item?id=48602352
-Points: 410
-# Comments: 48
+- `Hacker News` [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+> Article URL: https://sibexi.co/posts/epoll-vs-io_uring/
+Comments URL: https://news.ycombinator.com/item?id=48613872
+Points: 95
+# Comments: 24
+- `Hacker News` [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
+> Article URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland
+Comments URL: https://news.ycombinator.com/item?id=48613755
+Points: 155
+# Comments: 75
+- `Hacker News` [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
+> Article URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9
+Comments URL: https://news.ycombinator.com/item?id=48613555
+Points: 102
+# Comments: 21
+- `Hacker News` [Supermarket giant Tesco sues VMware for breach of contract (2025)](https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651)
+> Article URL: https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651
+Comments URL: https://news.ycombinator.com/item?id=48613008
+Points: 1...
+- `Hacker News` [Linux eliminates the strncpy API after six years of work, 360 patches](https://www.phoronix.com/news/Linux-7.2-Drops-strncpy)
+> https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/lin...
+
+Comments URL: https://news.ycombinator.com/item?id=48612943
+Points: 132
+# Comments: 109
+- `TechCrunch` [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
+> "These are not your friends. These are not conscious beings. These are not sentient interlocutors.”
+- `TechCrunch` [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/)
+> So ... what's your In the Weights score?
+- `TechCrunch` [Founders Fund’s outlier bet on humanely killed fish](https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/)
+> Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.
+- `TechCrunch` [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)
+> Jumper isn't the only big name leaving Google DeepMind.
+- `TechCrunch` [Every new iOS 27 feature that’s worth knowing about](https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/)
+> While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.
 - `TechCrunch` [He made your free video player run smoothly. Now he’s doing that for robots.](https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/)
 > French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.
 - `TechCrunch` [From PGP to Mythos: a brief history of export controls that didn’t stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)
 > For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.
-- `TechCrunch` [Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/)
-> Go’s IPO — Japan’s biggest so far this year — has done more than provide a much-needed boost to the country’s languishing listing season. It has also supplied the taxi-hailing app...
+- `TechCrunch` [Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters](https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/)
+> Go's IPO — Japan's biggest so far this year — has done more than provide a much-needed boost to the country's languishing listing season. It has also supplied the taxi-hailing app with the capital ...
 - `TechCrunch` [Aura’s impressive e-ink photo frame doesn’t even look digital](https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/)
-> What’s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space wit...
+> All of Aura's frames connect to the Aura app, which is where you can upload photos from your phone, web, email, iCloud, or Google Photos.
 - `TechCrunch` [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/)
 > Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.
-- `TechCrunch` [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)
-> Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers alleg...
-- `TechCrunch` [Billionaire Ambani wants AI in every call, app, and home](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/)
-> Reliance is weaving AI into telecom services used by more than 500 million people.
-- `TechCrunch` [The CEO of Allbirds’ new AI biz has a plan, but no team](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/)
-> Call it a startup with a sole founder and a very large seed round, but what's next is less clear.
-- `TechCrunch` [The US says ASML’s top chip tool may be in China, but how?](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
-> There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
-- `TechCrunch` [Telegram ban in India sparks a rush to VPNs, rival apps](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
-> Telegram argues India should block specific content, not an entire platform used by millions.
+- `The Verge` [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)
+> Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 m...
+- `The Verge` [Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives](https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview)
+> Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instrumen...
+- `The Verge` [Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG](https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir)
+> From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with t...
 - `The Verge` [Toy Story has the right take on tech](https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer)
 > Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editio...
 - `The Verge` [SwitchBot’s Standing Circulator Fan is worth fighting for](https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review)
@@ -151,12 +163,6 @@ Points: 410
 > NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonem...
 - `The Verge` [The film about Sam Altman has been dropped by Amazon MGM](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped)
 > Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spann...
-- `The Verge` [Our long national sunscreen nightmare is almost over](https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health)
-> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
-- `The Verge` [T1 Phone PR firm is ‘not assisting Trump Mobile any further’](https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further)
-> Where's the Trump phone? We're going to keep talking about it every week. We don't have the phones we preordered yet, but this week we received unexpected news from Trump Mobile's media relations m...
-- `The Verge` [In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human](https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv)
-> When Colin Farrell was doing press for the first season of the detective series Sugar, he had to be very careful with how he spoke. Sugar is a story about a quirky private detective, but it's also ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
