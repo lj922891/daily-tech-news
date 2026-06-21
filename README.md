@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-06-21
 
-> 自动收集于 2026-06-21 04:57 | 共 50 条
+> 自动收集于 2026-06-21 13:29 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -73,56 +73,56 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
-> Article URL: https://www.sciencedaily.com/releases/2026/06/260614012006.htm
-Comments URL: https://news.ycombinator.com/item?id=48615569
-Points: 24
+- `Hacker News` [Anthropic to Require ID Verification for Certain Capabilities Starting July 8](https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/)
+> Article URL: https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/
+Comments URL: https://news.ycombinator.com/item?id=48618455
+Points: 44
+# Comments: 25
+- `Hacker News` [David Ahl's Basic Computer Games Ported to C](https://github.com/proteanthread/bcg)
+> Article URL: https://github.com/proteanthread/bcg
+Comments URL: https://news.ycombinator.com/item?id=48618226
+Points: 11
+# Comments: 2
+- `Hacker News` [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
+> Article URL: https://www.beyondallreason.info
+Comments URL: https://news.ycombinator.com/item?id=48617990
+Points: 54
+# Comments: 20
+- `Hacker News` [The case against geometric algebra (2024)](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
+> Article URL: https://alexkritchevsky.com/2024/02/28/geometric-algebra.html
+Comments URL: https://news.ycombinator.com/item?id=48617782
+Points: 48
+# Comments: 17
+- `Hacker News` [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
+> Article URL: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/
+Comments URL: https://news.ycombinator.com/item?id=48616800
+Points: 213
+# Comments: 202
+- `Hacker News` [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
+> Article URL: https://github.com/namgyaaal/avoxelgame
+Comments URL: https://news.ycombinator.com/item?id=48616713
+Points: 85
 # Comments: 7
-- `Hacker News` [Armstrong Effect](https://en.wikipedia.org/wiki/Armstrong_effect)
-> Article URL: https://en.wikipedia.org/wiki/Armstrong_effect
-Comments URL: https://news.ycombinator.com/item?id=48615529
-Points: 3
-# Comments: 0
+- `Hacker News` [Windows UI evolution: Clicking an unassociated file](https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html)
+> Article URL: https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html
+Comments URL: https://news.ycombinator.com/item?id=48616173
+Points: 68
+# Comments: 43
+- `Hacker News` [Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)
+> Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html
+Comments URL: https://news.ycombinator.com/item?id=48615680
+Points: 118
+# Comments: 28
 - `Hacker News` [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
 > Article URL: https://fosterelli.co/developers-dont-understand-cors
 Comments URL: https://news.ycombinator.com/item?id=48614844
-Points: 53
-# Comments: 22
-- `Hacker News` [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/)
-> Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/
-Comments URL: https://news.ycombinator.com/item?id=48614631
-Points: 93
-# Comments: 56
-- `Hacker News` [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two)
-> Article URL: https://www.anthropic.com/research/project-fetch-phase-two
-Comments URL: https://news.ycombinator.com/item?id=48614311
-Points: 48
-# Comments: 15
+Points: 247
+# Comments: 182
 - `Hacker News` [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
 > Article URL: https://sibexi.co/posts/epoll-vs-io_uring/
 Comments URL: https://news.ycombinator.com/item?id=48613872
-Points: 95
-# Comments: 24
-- `Hacker News` [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
-> Article URL: https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland
-Comments URL: https://news.ycombinator.com/item?id=48613755
-Points: 155
-# Comments: 75
-- `Hacker News` [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
-> Article URL: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9
-Comments URL: https://news.ycombinator.com/item?id=48613555
-Points: 102
-# Comments: 21
-- `Hacker News` [Supermarket giant Tesco sues VMware for breach of contract (2025)](https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651)
-> Article URL: https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651
-Comments URL: https://news.ycombinator.com/item?id=48613008
-Points: 1...
-- `Hacker News` [Linux eliminates the strncpy API after six years of work, 360 patches](https://www.phoronix.com/news/Linux-7.2-Drops-strncpy)
-> https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/lin...
-
-Comments URL: https://news.ycombinator.com/item?id=48612943
-Points: 132
-# Comments: 109
+Points: 193
+# Comments: 48
 - `TechCrunch` [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
 > "These are not your friends. These are not conscious beings. These are not sentient interlocutors.”
 - `TechCrunch` [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/)
@@ -143,6 +143,12 @@ Points: 132
 > All of Aura's frames connect to the Aura app, which is where you can upload photos from your phone, web, email, iCloud, or Google Photos.
 - `TechCrunch` [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/)
 > Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.
+- `The Verge` [How Roomba started a robot revolution](https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history)
+> If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, ...
+- `The Verge` [Electric air taxis are stuck in the courtroom](https://www.theverge.com/column/950975/electric-air-taxis-lawsuits)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Step...
+- `The Verge` [Sony’s Xperia 1 VIII is still a phone for the fans](https://www.theverge.com/tech/952245/sony-xperia-1-viii-review)
+> The Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous ...
 - `The Verge` [The Atlantic created a searchable database of the music used to train AI](https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data)
 > Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 m...
 - `The Verge` [Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives](https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview)
@@ -157,12 +163,6 @@ Points: 132
 > Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be ...
 - `The Verge` [NASA selects Eric Schmidt’s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars)
 > Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-p...
-- `The Verge` [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb)
-> Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first ti...
-- `The Verge` [The NTS Radio Player brings the best of internet radio to your hi-fi](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming)
-> NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonem...
-- `The Verge` [The film about Sam Altman has been dropped by Amazon MGM](https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped)
-> Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spann...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
