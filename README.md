@@ -4,12 +4,55 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-22
+# 📰 每日科技日报 — 2026-06-23
 
-> 自动收集于 2026-06-22 16:22 | 共 50 条
+> 自动收集于 2026-06-23 04:03 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！](https://36kr.com/p/3865226824389892?f=rss)
+> 盛夏赴约WAVES 2026！一群迎风的少数人，掀起中国新一代创新力量的风口。
+  
+  
+  2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道”变成“主流共识”，年轻的创业者们正在重新定义中国创新的未来坐标。
+  每一年，由36氪主办的WAVES大会，都是中国创投圈的年度风向标。今年的WAVES2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，...
+- `36氪` [瓷瓷乐玩 ：当传统文化遇上新消费浪潮 | 36氪WAVES2026新浪潮](https://36kr.com/p/3865208157738247?f=rss)
+> “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
+  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用1...
+- `36氪` [刚注册就成独角兽，具身创企昆仑行90天融资数十亿元｜36氪独家](https://36kr.com/p/3865188719121668?f=rss)
+> 离开阿里云一年多以后，前阿里集团副总裁、阿里云中国区总裁任庚，以昆仑行创始人的身份，再次切入AI的战场。这次他锚定的领域，是AI的落地终端——机器人。
+  36氪获悉，昆仑行机器人注册不到90天，已接连完成了3轮融资，累计融资规模为数十亿元。3轮融资后，公司估值已超十亿美元，成为具身行业独角兽。这样的节奏显然刷新了具身智能行业的独角兽速度。
+  公司此前发布的信息显示，昆仑行机器人“对标特斯...
+- `36氪` [从用户决策到Agent参与，值得买科技分享AI时代品牌经营新课题](https://36kr.com/p/3865177262101513?f=rss)
+> 6月16日-17日，36氪WAVES 2026新浪潮大会在广州举行。17日，值得买科技营销FDE（Forward Deployed Engineer，即前沿部署工程师）朱越受邀出席并发表主题演讲，结合公司在AI消费服务与品牌营销场景中的一线实践，分享了Agent时代消费决策链路的变化，以及品牌在此环境下如何更精准地被AI看见、理解和选择。
+  
+  作为36氪旗下年度重要科技创新活动，WAV...
+- `36氪` [硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达](https://36kr.com/p/3865136165344516?f=rss)
+> 作者 | 林晴晴
+  编辑 | 袁斯来
+  硬氪获悉，人工智能芯片公司「凌川科技」近日完成数亿元A+轮融资，本轮由啟赋资本领投，产业投资方新国都、知名投资机构金浦投资、朝晖资本、BV百度风投、水木投资集团、亦庄科创二期基金（北京科创亦庄直投基金），以及全球知名家办等参与投资，老股东顺禧基金、九智资本持续追加投资。项目落地北京亦庄，获亦庄国投重点支持，本...
+- `36氪` [36氪首发 | 龚虹嘉、陆奇、海外资本下注，北大团队用肌电腕带做新一代数采终端](https://36kr.com/p/3865125383443463?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，雪梦未来（SnowOrigin）团队获得龚虹嘉、陆奇及海外机构投资。这支北大背景团队以sEMG（表面肌电）运动神经信号解码技术为切入点，通过神经腕带、第一视角采集设备以及自研NMH（Neural Math Hybrid）AI解码模型，构建新一代面向具身智能的人类操控数据采集方案。
+  目前，随着具身...
+- `36氪` [秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐](https://36kr.com/p/3865070004212994?f=rss)
+> 本文约3000字，建议阅读6分钟
+  作者 | 彭孝秋
+  
+   编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
+   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第一期，华健未来。
+  ...
+- `36氪` [8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子](https://36kr.com/p/3865001641006081?f=rss)
+> 今日热点导览
+  三星电子向韩国所有员工开放ChatGPT和Codex
+  港股智谱暴涨，总市值突破1万亿港元
+  何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事
+  杨子卸任巨力集团职务
+  供应链公司：已向苹果首款折叠屏iPhone小批量供货
+  TOP3大新闻
+  纳指收跌1.3%，SpaceX下挫16%并跌破IPO首日收盘价
+  美股三大指数收盘涨跌不一，道指涨0.29%，纳指跌1.32...
 - `36氪` [映界科技：一支00后团队的空间智能“赌注” | 水下项目](https://36kr.com/p/3864071269569540?f=rss)
 > 当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。
   感知瓶颈是今天几乎所有具身智能从业者都无法回避的现实。成立不到三个月的「映界科技」（MirrorSpace）正试图补齐具身智能产业链中的这个短板。映界科技由三位平均年龄仅有24岁的博士团队创办，...
@@ -17,42 +60,10 @@
 > 大公司：
   赢创计划全球裁员3200人
   赢创近日宣布，将延长“赢创定制”增效计划，涉及赢创全球所有业务及职能部门，拟裁减约3200个岗位，其中德国本土约占2150个。相关措施计划于2027年启动，持续至2029年底。6月22日，赢创确认，德国以外地区将削减1050个职位，中国区包含在内，但具体裁员数量尚未明确。“赢创定制”计划于2023年10月推出，原定目标为2026年底前累计削减约2...
-- `36氪` [圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮](https://36kr.com/p/3864054145209602?f=rss)
-> 每一个创业者，都有一段“没人相信”的日子。但正是那段日子，把他们推向了浪尖。创业是鲜活的，接下来这一场，我们听一听那些在质疑声中长大的创业者，怎么把“不可能”变成“不，可能”。
-  以下为圆桌对话内容，经36氪整理编辑:
-  
-  许嘉婧｜36氪后浪研究所 主理人（主持人）
-  徐子悦 ｜PhotonPay 光子易商务副总裁
-  程刚｜KOOK语音 创始人兼CEO
-  徐良威｜智域基石CTO...
-- `36氪` [圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮](https://36kr.com/p/3864033017549832?f=rss)
-> “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
-  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用1...
-- `36氪` [HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮](https://36kr.com/p/3864002982286342?f=rss)
-> “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
-  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用1...
-- `36氪` [补齐市场信息差！36氪股市舆情交流群开放，实物抽奖等你来！](https://36kr.com/p/3863967437247751?f=rss)
-> 一、36氪官方大数据股市舆情工具介绍
-  36氪企业全情报是36氪联合红麦数据推出的专业资本市场情报平台，依托全网大数据资源，实时同步个股、产业一手资讯，同时通过智能算法识别行情潜藏风险，一站式查询板块、个股完整消息脉络。
-  小程序直达链接，手机端可直接打开使用，无需下载任何软件：
-   https://channel.36kr.com/api/x/wechat/urlLink?...
-- `36氪` [云鲸智能创始人兼CEO张峻彬：十年 | 36氪WAVES2026新浪潮](https://36kr.com/p/3863988138956032?f=rss)
-> “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
-  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用1...
-- `36氪` [广州市番禺协诚实业有限公司副总经理龙德洋：真正的城市服务，藏在分分秒秒的坚守里](https://36kr.com/p/3863849524859911?f=rss)
-> “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
-  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用1...
-- `36氪` [36氪首发 | 联想之星险峰联合领投，AI算力中心感知与效能管理方案商完成天使轮融资](https://36kr.com/p/3863885024973832?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，芯感通科技有限公司（以下简称“芯感通”）日前完成数千万元天使轮融资，由联想之星与险峰联合领投。本轮融资将主要用于芯片研发迭代、产品验证及市场拓展。
-  随着大模型训练规模持续扩大和商业服务展开，AI算力基础设施的铺设在快速亟需高效能运营，同时，高性能GPU也将算力推入高能量密度、高功耗时代。
-  从...
-- `36氪` [36氪首发 | 核心团队曾攻关国家重点大飞机装配，航空航天智能装备商完成数千万元融资](https://36kr.com/p/3863883390194692?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，大飞机智能装配装备企业大连坤达自动化有限公司（以下简称“大连坤达”）今日完成数千万元A轮融资，投资方为泰州永鑫融堰创业投资合伙企业（有限合伙）（以下简称“永鑫方舟”），大桉资本担任独家财务顾问。本轮资金将主要用于新一代智能装配系统研发、核心产品产能扩充及补充流动资金。
-  大连坤达成立于2016年，...
+- `少数派` [把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP](https://sspai.com/post/110947)
+> 当样本量积累到足够多时，面试其实是一场有迹可循的推理小游戏。查看全文
+- `少数派` [派早报：荣耀发布 X80 Pro Max 等新品等](https://sspai.com/post/111385)
+> 少数派的近期动态少数派×AKKO联合共创带屏键盘功能共创计划开启。参与众测招募尝鲜27系列新系统的朋友，你的满意度如何？来一派投票少数派正版软件、付费教程618促销活动限时开启。点击省钱可爱又好玩的经 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/111360)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [具透｜Android 17 正式版：大屏体验，先看 Google？](https://sspai.com/post/108899)
@@ -69,102 +80,99 @@
 > 📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》正式预告6月16日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了正式预告，宣布坂本真绫、山路和弘、安元洋贵、中村悠一配 ...查看全文
 - `少数派` [新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
 > 编注：我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内容，将会在对应条目标注「广告」；若有标注「厂商 ...查看全文
-- `少数派` [Nothing Phone 杂谈：活下去再谈未来，然后呢？](https://sspai.com/post/110442)
-> 我依然相信他们能给已成红海的手机市场带来变数与惊喜，正如标志性的透明后盖与微弱闪烁的灯光，每一次触碰都仿佛钟表倒转，回到光芒与图案代表个性的千禧年代。查看全文
-- `少数派` [具透 | visionOS 27 首个开发者测试版中值得关注的新内容](https://sspai.com/post/111198)
-> 新环境、弧形窗口，visionOS 27 中值得关系的新内容。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Git is forever. I'm building Oak anyways](https://oak.space/blog)
-> Article URL: https://oak.space/blog
-Comments URL: https://news.ycombinator.com/item?id=48631726
-Points: 17
-# Comments: 18
-- `Hacker News` [DHL Set to Transport Goods on New Wind-Powered Cargo Ships](https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0)
-> Article URL: https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0
-Comments URL: https://news.ycombinator.com/item?id=48631058
-Points: 51
-...
-- `Hacker News` [I built Ponytrail, a local audit trail for AI coding-agent edits](https://github.com/0xroylee/ponytrail)
-> Article URL: https://github.com/0xroylee/ponytrail
-Comments URL: https://news.ycombinator.com/item?id=48631043
-Points: 20
-# Comments: 9
-- `Hacker News` [Claude Code's "extended thinking" is a summary- not authentic thinking](https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/)
-> Article URL: https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/
-Comments URL: https://news.ycombinator.com/item?id=48630535
-Points: 103
-# Comments: 79
-- `Hacker News` [Nvidia Halos](https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/)
-> Article URL: https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/
-Comments URL: https://news.ycombinator.com/item?id=48630220
-Points: 54
-# Comments: 29
-- `Hacker News` [Moebius: 0.2B image inpainting model with 10B-level performance](https://hustvl.github.io/Moebius/)
-> Article URL: https://hustvl.github.io/Moebius/
-Comments URL: https://news.ycombinator.com/item?id=48630171
-Points: 61
-# Comments: 10
-- `Hacker News` [Never Give Them Your Face](https://nevergivethemyourface.com/)
-> Article URL: https://nevergivethemyourface.com/
-Comments URL: https://news.ycombinator.com/item?id=48630066
-Points: 386
-# Comments: 228
-- `Hacker News` [Chevron signs 20-year power agreement with Microsoft for West Texas data center](https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center)
-> Article URL: https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center
-Comments URL: https://news.ycombinator.com/item?id=48630029
-Poi...
-- `Hacker News` [Pledging Another $400k to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
-> Article URL: https://mitchellh.com/writing/zig-donation-2026
-Comments URL: https://news.ycombinator.com/item?id=48630020
-Points: 422
-# Comments: 121
-- `Hacker News` [Die analysis of the 8087 math coprocessor's fast bit shifter (2020)](https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html)
-> Article URL: https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html
-Comments URL: https://news.ycombinator.com/item?id=48629982
-Points: 28
-# Comments: 7
-- `TechCrunch` [WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah, and invests $900M in startup](https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/)
-> WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart.
-- `TechCrunch` [Instagram looks to take on streaming services with longer-form, episodic and live formats for its...](https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/)
-> Instagram is coming for streaming services like Netflix and Amazon Prime Video as it sets its ambitions for living room viewing.
-- `TechCrunch` [The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26](https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/)
-> Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register here.
-- `TechCrunch` [Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’](https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/)
-> The company is also eliminating a production shift at its Arizona factory to align "production plans with anticipated demand."
-- `TechCrunch` [Seedcamp raises $320M for its new fund to expand its US footprint](https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/)
-> After 18 years of focusing on Europe, early-stage investor Seedcamp said that it has raised $320 million for its latest fund which will see it expanding its presence in the United States.
-- `TechCrunch` [Klue hack results in data breach at several cybersecurity firms](https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/)
-> Huntress, HackerOne, Jamf, Recorded Future, and Tanium are among the cybersecurity companies that had data stolen following an earlier breach at market research firm Klue.
-- `TechCrunch` [Ethan Thornton is trying to do everything all at once](https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/)
-> Mach's approach differs sharply from some of its peers.
-- `TechCrunch` [Ubisoft co-founder Claude Guillemot dies in plane crash](https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/)
-> Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.
-- `TechCrunch` [Polymarket reportedly paid creators to post deceptive videos about fake bets](https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/)
-> Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.
-- `TechCrunch` [TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance](https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/)
-> Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
-- `The Verge` [The Nintendo Switch 2 is up to $50 off for Prime Day](https://www.theverge.com/gadgets/948292/nintendo-switch-2-deal-sale-woot)
-> We should have all guessed that Woot might improve on its $15 off sale from last week on the Nintendo Switch 2. Now that Prime Day is upon us, the online seller is now offering the base console for...
-- `The Verge` [Apple’s latest AirTags are cheaper than ever for Prime Day](https://www.theverge.com/gadgets/951987/apple-airtag-second-gen-prime-day-deal-sale-2026)
-> Prime Day has brought a number of Apple deals, but one of the most useful if you’re planning to travel over the July 4th weekend or later this summer is on the new AirTags. The four-pack has ...
-- `The Verge` [WhatsApp head Will Cathcart is stepping down after seven years](https://www.theverge.com/tech/953464/whatsapp-will-cathcart-stepping-down-cred)
-> Will Cathcart, who led WhatsApp for the past seven years, is stepping down from his role as Meta appoints a new leader. On Monday, Meta CEO Mark Zuckerberg announced on Facebook that Kunal Shah, th...
-- `The Verge` [Patreon CEO Jack Conte on supporting artists in the AI slop era](https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte)
-> Today, I’m talking with Jack Conte, the CEO of Patreon. Jack last joined me on the show almost exactly five years ago, in the summer of 2021, and a lot has changed on the internet and in the creato...
-- `The Verge` [Apple’s AirPods Max 2 are $150 off for the first time](https://www.theverge.com/gadgets/953322/apple-airpods-max-2-usbc-prime-day-walmart-deal-sale)
-> Walmart has the Apple AirPods Max 2 in every color discounted to $399.99 (normally $549) during Walmart Deals, the lowest price we’ve seen yet by a long shot. Amazon currently has the starlight col...
-- `The Verge` [Wyze’s new smart scale can break down your body composition for less than $80](https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition)
-> Seven months after introducing its $119.98 Ultra BodyScan smart scale, Wyze announced a cheaper $79.98 alternative available today that makes a few compromises to shave $40 off the price. There's n...
-- `The Verge` [Read this before you vibe-code another app](https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps)
-> Bob Starr was delighted with his vibe-coded website. "Boomberg" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until mo...
-- `The Verge` [Bose thinks it can be a media company for some reason](https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company)
-> The history books are littered with the corpses of corporate record labels started by companies that had no business being in the music industry. Bose thinks it can be the exception to the rule. It...
-- `The Verge` [Cold Court’s debut EP is an infectious, glitchy genre mashup](https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review)
-> Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles the hyperpop you'v...
-- `The Verge` [Polymarket reportedly paid people to post fake videos of themselves placing bets](https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets)
-> According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 decepti...
+- `Hacker News` [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
+> Article URL: https://arxiv.org/abs/2606.03748
+Comments URL: https://news.ycombinator.com/item?id=48639434
+Points: 8
+# Comments: 0
+- `Hacker News` [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
+> Article URL: https://arxiv.org/abs/2606.16140
+Comments URL: https://news.ycombinator.com/item?id=48639240
+Points: 35
+# Comments: 11
+- `Hacker News` [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses)
+> Article URL: https://www.openculture.com/freeonlinecourses
+Comments URL: https://news.ycombinator.com/item?id=48639184
+Points: 86
+# Comments: 17
+- `Hacker News` [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
+> Article URL: https://blog.roboflow.com/yolo26/
+Comments URL: https://news.ycombinator.com/item?id=48639165
+Points: 8
+# Comments: 0
+- `Hacker News` [SpaceX sheds $400B in market value as debut rally hits reverse](https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4)
+> Article URL: https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4
+Comments URL: https://news.ycombinator.com/item?id=48639057
+Points: 35
+# Comments: 20
+- `Hacker News` [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
+> Article URL: https://jchri.st/blog/in-praise-of-memcached/
+Comments URL: https://news.ycombinator.com/item?id=48638886
+Points: 70
+# Comments: 24
+- `Hacker News` [ytr: YouTube Radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs)
+> Article URL: https://xenodium.com/ytr-youtube-radio-for-emacs
+Comments URL: https://news.ycombinator.com/item?id=48636380
+Points: 69
+# Comments: 8
+- `Hacker News` [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)
+> Article URL: https://unsloth.ai/docs/models/glm-5.2
+Comments URL: https://news.ycombinator.com/item?id=48636377
+Points: 235
+# Comments: 107
+- `Hacker News` [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+> Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering
+Comments URL: https://news.ycombinator.com/item?id=48636125
+Points: 0
+# Comments: 0
+- `Hacker News` [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
+> Article URL: https://mrmarket.lol/job-application-asked-for-my-sat-scores/
+Comments URL: https://news.ycombinator.com/item?id=48636062
+Points: 105
+# Comments: 260
+- `TechCrunch` [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+> A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
+- `TechCrunch` [OpenAI launches new initiative to help find and patch open-source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/)
+> OpenAI is attempting to tackle the security issues of the open source software community.
+- `TechCrunch` [Tesla pushes back on Autopilot narrative after fatal Texas crash](https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/)
+> Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.
+- `TechCrunch` [Shareholders sue Uber’s board over sexual assaults, other incidents](https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/)
+> The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.
+- `TechCrunch` [The AI world is getting ‘loopy’](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/)
+> The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.
+- `TechCrunch` [Microsoft and Chevron plan one of the largest gas-powered data center projects in US](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/)
+> Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.
+- `TechCrunch` [AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)
+> What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.
+- `TechCrunch` [Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/)
+> Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.
+- `TechCrunch` [Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach](https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/)
+> The incident comes as Tata Electronics expands its role in global technology supply chains.
+- `TechCrunch` [A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak](https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/)
+> European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older iPhones.
+- `The Verge` [Nvidia says its AI data center design runs hotter to use a lot less water](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)
+> Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled...
+- `The Verge` [Valve describes just how brutal RAM negotiations are in 2026](https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis)
+> Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more. The ...
+- `The Verge` [AI is cursing renters with the promise of impossible homes](https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings)
+> Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be "hell." After looking at a lot of tiny, overpriced places she ...
+- `The Verge` [The Apple Watch SE 3 is just $199 for Prime Day](https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale)
+> The Apple Watch SE 3 is at an all-time low of $199, making the sleeper hit of last year’s Apple Watches an even better value. While the Series 11 and Ultra 3 were iterative updates, the SE 3 was a ...
+- `The Verge` [The Steam Machine is the start of an even more expensive future for game consoles](https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix)
+> It's no secret that just about every aspect of video games is getting more expensive. Game consoles are getting regular price hikes, PC components are spiking in cost, and the golden age of afforda...
+- `The Verge` [Google invests in A24 to build AI movie tools](https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership)
+> Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers "expand their storytelling possibilities." As part of this new resear...
+- `The Verge` [Valve is working with AMD to bring FSR 4 to the Steam Machine](https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler)
+> The Steam Machine is a cool little console that's about as powerful as a PlayStation 5, according to my colleague Sean Hollister's in-depth review. But one area where it lags behind is with its ear...
+- `The Verge` [Here’s how you can reserve a Steam Machine](https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process)
+> The Steam Machine is here, but getting one is a little complicated. Valve is taking preorders using a reservation system, which is intended to make the process more fair and harder for bots to expl...
+- `The Verge` [Valve will finally let you build your own Steam Machine with SteamOS for desktop](https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia)
+> If you don't get lucky with Valve's Steam Machine reservation system, you can make your own Steam Machine instead. Valve says that "starting with the SteamOS 3.8 release, you can put together your ...
+- `The Verge` [Valve explains why it isn’t subsidizing the Steam Machine](https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing)
+> Valve finally announced the price of the Steam Machine, and like a lot of new gadgets these days, it's not cheap: It starts at $1,049 for a 512GB model, and a 2TB model costs $300 more. Configurati...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
