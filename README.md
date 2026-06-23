@@ -6,10 +6,58 @@
 
 # 📰 每日科技日报 — 2026-06-23
 
-> 自动收集于 2026-06-23 04:03 | 共 50 条
+> 自动收集于 2026-06-23 14:14 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES](https://36kr.com/p/3865630193030145?f=rss)
+> AI不是一阵风，它正在变成地平线。而地平线的意思是——你看不到它的尽头，但它一直在那里。
+  当下AI热潮涌动，行业共识尚未形成，但真正的机遇往往诞生在共识之前。接下来就让我们进入比共识更早一步 AI 创投的真实棋局圆桌论坛 !
+  以下为圆桌对话内容，经36氪整理编辑：
+  
+  巴芮｜暗涌副主编（主持人）
+  朱天宇｜蓝驰创投 管理合伙人
+  秦深涛｜OriginFlow创始人&...
+- `36氪` [只租办公室的拼多多，在雄安买了一栋楼](https://36kr.com/p/3865625576297476?f=rss)
+> 扎堆雄安的互联网大厂又多了一个。
+  6月21日，拼多多集团与中国电建完成正式签约，通过整体购置方式持有雄安·电建智汇城数字新消费电商产业园的办公楼。
+  这是拼多多第一次“买楼”。
+  
+  雄安新区产业园
+  拼多多自2015年9月正式成立上线以来，尽管已经发展到了约2.55万员工，超4300亿营收，但它始终采取轻资产办公模式，坚持不买楼、不盖楼。目前拼多多所在的办公地，包括金虹桥国际中...
+- `36氪` [以“高导热+高强韧”镁合金切入机器人等高端制造领域，「宜镁华」完成数千万元天使轮融资｜36氪首发](https://36kr.com/p/3864082158785539?f=rss)
+> 36氪获悉，「宜镁华」近期宣布完成数千万元天使轮融资。本轮融资由星河创投与华中实业集团投资。资金将用于产能建设、研发投入和团队扩充等。
+  宜镁华专注于镁合金材料研发，零部件开发设计与零部件产品制造，背靠上海交通大学轻合金精密成型国家工程研究中心，自研高导高强合金设计技术、超高导热复材设计及界面调控技术与半固态注塑成型工艺，切入机器人关节电机模组、外骨骼、汽车结构件等高附加值场景，目前已与包...
+- `36氪` [WAVES 2026：盛夏的这场讨论，留下了创投圈值得反复回看的观点](https://36kr.com/p/3865596826768643?f=rss)
+> WAVES 2026汇聚众多投资人、产业领袖与创业者，围绕AI与产业未来展开深度对话。嘉宾核心观点现集中呈现。
+  
+  
+  6月16-17日，36氪WAVES 2026新浪潮大会落地广州番禺良仓新造创意园，大会汇聚了来自 AI、硬科技、出海、医疗、消费硬件等核心赛道的顶级投资人、产业掌舵人与青年创业者，围绕“今年盛夏”的主题展开了一场场直戳本质的深度对话，在滚烫的盛夏里，为中国...
+- `36氪` [回到没有AI的那一天，寻找第一性原理 | WAVES2026](https://36kr.com/p/3865565708752134?f=rss)
+> 我们不妨想一下，如果有一天，AI突然消失了，我们会失去什么？这个问题不是为了制造恐慌，而是为了让我们想清楚：我们今天投AI，到底是在投它的能力，还是投它背后的人性需求？接下来这个环节当中，回到没有AI的那一天，去找第一性原理。上一场李丰的演讲给了我们一个思考的起点，现在，我们要把它变成一场辩论。
+  以下为圆桌对话内容，经36氪整理编辑：
+  
+  图源：Waves现场
+  海若镜｜暗涌副主...
+- `36氪` [主题圆桌：从无声到轰鸣，令人期待的消费硬件 | WAVES2026](https://36kr.com/p/3865523201692931?f=rss)
+> 消费硬件曾经一度被投资人“冷落”，因为它太慢、太重、太不性感。但现在，一批新的消费硬件正在从无声到轰鸣。它们不靠故事，靠体验。不靠流量，靠复购。相信之后，是产品。这一场，我们来看一看那些被“最早相信的人”投出来的硬件，长成了什么样子。
+  以下为对话内容，经36氪整理编辑：
+  
+  刘可心｜深渡资本 创始合伙人（主持人）
+  郑华良｜跃迁资本 创始合伙人
+  梁昊｜云启资本 执行董事
+  ...
+- `36氪` [氪星晚报｜索尼集团计划近三十年来首次发行美元债券；甲骨文上财年裁员约2.1万；豆包发布2.1 Pro模型](https://36kr.com/p/3865513055540481?f=rss)
+> 大公司：
+  甲骨文上财年裁员约2.1万
+  甲骨文上财年裁员约2.1万，减员规模大于此前已知水平，其中包括因使用人工智能（AI）而被取消的岗位。甲骨文周一在年度财务监管申报文件中称：“我们在各项业务中采用和部署AI技术，已经导致并且未来可能继续导致员工人数减少。”
+  英伟达宣布Vera Rubin NVL4系统Q4起供货
+  6月22日，英伟达宣布推出Vera Rubin超级计算平台，用...
+- `36氪` [有智青年挑战赛暨全国AI+场景应用大赛决赛收官！在WAVES 2026的舞台上，挖掘中国下一代AI独角](https://36kr.com/p/3865480064504835?f=rss)
+> 有智青年挑战赛暨全国AI+场景应用大赛决赛在WAVES新浪潮大会期间举行，汇聚多支青年团队围绕AI与数字经济前沿场景展开角逐，展现青年创业者的技术探索与落地能力。
+  
+  
+  2026年，AI全面进入“行动者”时代。当大模型、智能体、具身智能从实验室的技术概念，全面走进千行百业的产业落地场景，AI工具的平民化与普及化，依托开源生态、轻量化开发工具与普惠算力，不断压低创新创业的成本，大批怀...
 - `36氪` [WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！](https://36kr.com/p/3865226824389892?f=rss)
 > 盛夏赴约WAVES 2026！一群迎风的少数人，掀起中国新一代创新力量的风口。
   
@@ -19,47 +67,10 @@
 - `36氪` [瓷瓷乐玩 ：当传统文化遇上新消费浪潮 | 36氪WAVES2026新浪潮](https://36kr.com/p/3865208157738247?f=rss)
 > “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
   每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用1...
-- `36氪` [刚注册就成独角兽，具身创企昆仑行90天融资数十亿元｜36氪独家](https://36kr.com/p/3865188719121668?f=rss)
-> 离开阿里云一年多以后，前阿里集团副总裁、阿里云中国区总裁任庚，以昆仑行创始人的身份，再次切入AI的战场。这次他锚定的领域，是AI的落地终端——机器人。
-  36氪获悉，昆仑行机器人注册不到90天，已接连完成了3轮融资，累计融资规模为数十亿元。3轮融资后，公司估值已超十亿美元，成为具身行业独角兽。这样的节奏显然刷新了具身智能行业的独角兽速度。
-  公司此前发布的信息显示，昆仑行机器人“对标特斯...
-- `36氪` [从用户决策到Agent参与，值得买科技分享AI时代品牌经营新课题](https://36kr.com/p/3865177262101513?f=rss)
-> 6月16日-17日，36氪WAVES 2026新浪潮大会在广州举行。17日，值得买科技营销FDE（Forward Deployed Engineer，即前沿部署工程师）朱越受邀出席并发表主题演讲，结合公司在AI消费服务与品牌营销场景中的一线实践，分享了Agent时代消费决策链路的变化，以及品牌在此环境下如何更精准地被AI看见、理解和选择。
-  
-  作为36氪旗下年度重要科技创新活动，WAV...
-- `36氪` [硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达](https://36kr.com/p/3865136165344516?f=rss)
-> 作者 | 林晴晴
-  编辑 | 袁斯来
-  硬氪获悉，人工智能芯片公司「凌川科技」近日完成数亿元A+轮融资，本轮由啟赋资本领投，产业投资方新国都、知名投资机构金浦投资、朝晖资本、BV百度风投、水木投资集团、亦庄科创二期基金（北京科创亦庄直投基金），以及全球知名家办等参与投资，老股东顺禧基金、九智资本持续追加投资。项目落地北京亦庄，获亦庄国投重点支持，本...
-- `36氪` [36氪首发 | 龚虹嘉、陆奇、海外资本下注，北大团队用肌电腕带做新一代数采终端](https://36kr.com/p/3865125383443463?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，雪梦未来（SnowOrigin）团队获得龚虹嘉、陆奇及海外机构投资。这支北大背景团队以sEMG（表面肌电）运动神经信号解码技术为切入点，通过神经腕带、第一视角采集设备以及自研NMH（Neural Math Hybrid）AI解码模型，构建新一代面向具身智能的人类操控数据采集方案。
-  目前，随着具身...
-- `36氪` [秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐](https://36kr.com/p/3865070004212994?f=rss)
-> 本文约3000字，建议阅读6分钟
-  作者 | 彭孝秋
-  
-   编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
-   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第一期，华健未来。
-  ...
-- `36氪` [8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子](https://36kr.com/p/3865001641006081?f=rss)
-> 今日热点导览
-  三星电子向韩国所有员工开放ChatGPT和Codex
-  港股智谱暴涨，总市值突破1万亿港元
-  何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事
-  杨子卸任巨力集团职务
-  供应链公司：已向苹果首款折叠屏iPhone小批量供货
-  TOP3大新闻
-  纳指收跌1.3%，SpaceX下挫16%并跌破IPO首日收盘价
-  美股三大指数收盘涨跌不一，道指涨0.29%，纳指跌1.32...
-- `36氪` [映界科技：一支00后团队的空间智能“赌注” | 水下项目](https://36kr.com/p/3864071269569540?f=rss)
-> 当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。
-  感知瓶颈是今天几乎所有具身智能从业者都无法回避的现实。成立不到三个月的「映界科技」（MirrorSpace）正试图补齐具身智能产业链中的这个短板。映界科技由三位平均年龄仅有24岁的博士团队创办，...
-- `36氪` [氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex](https://36kr.com/p/3864065855706120?f=rss)
-> 大公司：
-  赢创计划全球裁员3200人
-  赢创近日宣布，将延长“赢创定制”增效计划，涉及赢创全球所有业务及职能部门，拟裁减约3200个岗位，其中德国本土约占2150个。相关措施计划于2027年启动，持续至2029年底。6月22日，赢创确认，德国以外地区将削减1050个职位，中国区包含在内，但具体裁员数量尚未明确。“赢创定制”计划于2023年10月推出，原定目标为2026年底前累计削减约2...
+- `少数派` [社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器](https://sspai.com/post/111410)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源](https://sspai.com/post/111261)
+> 2026 年让我们再谈 macOS 的画面缩放机制。查看全文
 - `少数派` [把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP](https://sspai.com/post/110947)
 > 当样本量积累到足够多时，面试其实是一场有迹可循的推理小游戏。查看全文
 - `少数派` [派早报：荣耀发布 X80 Pro Max 等新品等](https://sspai.com/post/111385)
@@ -76,67 +87,68 @@
 > 英特尔将为苹果代工芯片库克称 iPhone 涨价不可避免美国科技公司政策转向，限制员工 AI 成本Modos 推出开源 13.3 寸彩色墨水屏Manus 原投资人计划将其原价购回CMF 已取消今年发布计划看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发](https://sspai.com/post/110972)
 > Agent 和人一样离不开闭环。查看全文
-- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/111216)
-> 📅本周新预告《攻壳机动队THEGHOSTINTHESHELL》正式预告6月16日，TV动画《攻壳机动队THEGHOSTINTHESHELL》发布了正式预告，宣布坂本真绫、山路和弘、安元洋贵、中村悠一配 ...查看全文
-- `少数派` [新玩意 244｜少数派的编辑们最近买了啥？](https://sspai.com/post/111211)
-> 编注：我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内容，将会在对应条目标注「广告」；若有标注「厂商 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](https://arxiv.org/abs/2606.03748)
-> Article URL: https://arxiv.org/abs/2606.03748
-Comments URL: https://news.ycombinator.com/item?id=48639434
-Points: 8
+- `Hacker News` [Spying on kids to save kids from spying is stupid](https://pluralistic.net/2026/06/23/destroy-the-village/)
+> Article URL: https://pluralistic.net/2026/06/23/destroy-the-village/
+Comments URL: https://news.ycombinator.com/item?id=48645173
+Points: 6
 # Comments: 0
-- `Hacker News` [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
-> Article URL: https://arxiv.org/abs/2606.16140
-Comments URL: https://news.ycombinator.com/item?id=48639240
-Points: 35
-# Comments: 11
-- `Hacker News` [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses)
-> Article URL: https://www.openculture.com/freeonlinecourses
-Comments URL: https://news.ycombinator.com/item?id=48639184
-Points: 86
-# Comments: 17
-- `Hacker News` [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/)
-> Article URL: https://blog.roboflow.com/yolo26/
-Comments URL: https://news.ycombinator.com/item?id=48639165
-Points: 8
-# Comments: 0
-- `Hacker News` [SpaceX sheds $400B in market value as debut rally hits reverse](https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4)
-> Article URL: https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4
-Comments URL: https://news.ycombinator.com/item?id=48639057
-Points: 35
-# Comments: 20
-- `Hacker News` [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
-> Article URL: https://jchri.st/blog/in-praise-of-memcached/
-Comments URL: https://news.ycombinator.com/item?id=48638886
-Points: 70
+- `Hacker News` [MSG Made Dossier on Activists Who Opposed Facial Recognition](https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/)
+> Article URL: https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/
+Comments URL: https://news.ycombinator.com/item?id=48644781
+Points: 14
+# Comment...
+- `Hacker News` [Oracle shed about 20k roles globally in the last year](https://www.bbc.com/news/articles/c4gy0x0j5deo)
+> Article URL: https://www.bbc.com/news/articles/c4gy0x0j5deo
+Comments URL: https://news.ycombinator.com/item?id=48643620
+Points: 81
+# Comments: 78
+- `Hacker News` [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
+> Article URL: https://github.com/baidu/Unlimited-OCR
+Comments URL: https://news.ycombinator.com/item?id=48643426
+Points: 156
+# Comments: 46
+- `Hacker News` [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/)
+> Article URL: https://lucumr.pocoo.org/2026/6/23/the-coming-loop/
+Comments URL: https://news.ycombinator.com/item?id=48643180
+Points: 110
+# Comments: 98
+- `Hacker News` [Apple is going to raise device prices, but when?](https://daringfireball.net/linked/2026/06/22/apple-device-prices-when)
+> Article URL: https://daringfireball.net/linked/2026/06/22/apple-device-prices-when
+Comments URL: https://news.ycombinator.com/item?id=48643079
+Points: 50
+# Comments: 35
+- `Hacker News` [Crypto in 2026: Oh, This Is the Bad Place](https://www.stephendiehl.com/posts/bad_place_2026/)
+> Article URL: https://www.stephendiehl.com/posts/bad_place_2026/
+Comments URL: https://news.ycombinator.com/item?id=48642699
+Points: 193
+# Comments: 200
+- `Hacker News` [Show HN: Shumai – open-source Frame.io alternative for creative work](https://github.com/shumaiOne/shumai)
+> Shumai is an open source platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first work...
+- `Hacker News` [You already have a Git server](https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html)
+> Article URL: https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html
+Comments URL: https://news.ycombinator.com/item?id=48642610
+Points: 14
+# Comments: 6
+- `Hacker News` [The Traditional Vi](https://ex-vi.sourceforge.net/)
+> Article URL: https://ex-vi.sourceforge.net/
+Comments URL: https://news.ycombinator.com/item?id=48642232
+Points: 41
 # Comments: 24
-- `Hacker News` [ytr: YouTube Radio for Emacs](https://xenodium.com/ytr-youtube-radio-for-emacs)
-> Article URL: https://xenodium.com/ytr-youtube-radio-for-emacs
-Comments URL: https://news.ycombinator.com/item?id=48636380
-Points: 69
-# Comments: 8
-- `Hacker News` [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)
-> Article URL: https://unsloth.ai/docs/models/glm-5.2
-Comments URL: https://news.ycombinator.com/item?id=48636377
-Points: 235
-# Comments: 107
-- `Hacker News` [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
-> Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering
-Comments URL: https://news.ycombinator.com/item?id=48636125
-Points: 0
-# Comments: 0
-- `Hacker News` [Job application asked for my SAT scores](https://mrmarket.lol/job-application-asked-for-my-sat-scores/)
-> Article URL: https://mrmarket.lol/job-application-asked-for-my-sat-scores/
-Comments URL: https://news.ycombinator.com/item?id=48636062
-Points: 105
-# Comments: 260
-- `TechCrunch` [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+- `TechCrunch` [Meta debuts new, cheaper smart glasses under its own brand](https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/)
+> The smart glasses are available in several countries starting today in a variety of color and lens combinations.
+- `TechCrunch` [4 days left to save up to $190 on TechCrunch Founder Summit 2026](https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/)
+> Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.
+- `TechCrunch` [Ribbie turns real-time baseball stats into arcade-like, pixel art broadcasts](https://techcrunch.com/2026/06/23/ribbie-turns-real-time-baseball-stats-into-arcade-like-pixel-art-broadcasts/)
+> Ribbie lets you follow along live with MLB games with a delightful, arcade-inspired interface.
+- `TechCrunch` [Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates](https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/)
+> Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between Link...
+- `TechCrunch` [The running list: Major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
 > A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
-- `TechCrunch` [OpenAI launches new initiative to help find and patch open-source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/)
-> OpenAI is attempting to tackle the security issues of the open source software community.
+- `TechCrunch` [OpenAI launches new initiative to help find and patch open source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/)
+> OpenAI is using AI to help the open source community better protect itself.
 - `TechCrunch` [Tesla pushes back on Autopilot narrative after fatal Texas crash](https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/)
 > Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.
 - `TechCrunch` [Shareholders sue Uber’s board over sexual assaults, other incidents](https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/)
@@ -145,34 +157,26 @@ Points: 105
 > The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.
 - `TechCrunch` [Microsoft and Chevron plan one of the largest gas-powered data center projects in US](https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/)
 > Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant.
-- `TechCrunch` [AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)
-> What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.
-- `TechCrunch` [Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/)
-> Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.
-- `TechCrunch` [Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach](https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/)
-> The incident comes as Tata Electronics expands its role in global technology supply chains.
-- `TechCrunch` [A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak](https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/)
-> European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older iPhones.
-- `The Verge` [Nvidia says its AI data center design runs hotter to use a lot less water](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)
-> Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled...
-- `The Verge` [Valve describes just how brutal RAM negotiations are in 2026](https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis)
-> Valve's Steam Machine finally has a price: a whopping $1,049 for the 512GB configuration or $1,349 for the 2TB version. And those are without bundled controllers, which drive up the cost more. The ...
-- `The Verge` [AI is cursing renters with the promise of impossible homes](https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings)
-> Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be "hell." After looking at a lot of tiny, overpriced places she ...
-- `The Verge` [The Apple Watch SE 3 is just $199 for Prime Day](https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale)
-> The Apple Watch SE 3 is at an all-time low of $199, making the sleeper hit of last year’s Apple Watches an even better value. While the Series 11 and Ultra 3 were iterative updates, the SE 3 was a ...
-- `The Verge` [The Steam Machine is the start of an even more expensive future for game consoles](https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix)
-> It's no secret that just about every aspect of video games is getting more expensive. Game consoles are getting regular price hikes, PC components are spiking in cost, and the golden age of afforda...
-- `The Verge` [Google invests in A24 to build AI movie tools](https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership)
-> Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers "expand their storytelling possibilities." As part of this new resear...
-- `The Verge` [Valve is working with AMD to bring FSR 4 to the Steam Machine](https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler)
-> The Steam Machine is a cool little console that's about as powerful as a PlayStation 5, according to my colleague Sean Hollister's in-depth review. But one area where it lags behind is with its ear...
-- `The Verge` [Here’s how you can reserve a Steam Machine](https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process)
-> The Steam Machine is here, but getting one is a little complicated. Valve is taking preorders using a reservation system, which is intended to make the process more fair and harder for bots to expl...
-- `The Verge` [Valve will finally let you build your own Steam Machine with SteamOS for desktop](https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia)
-> If you don't get lucky with Valve's Steam Machine reservation system, you can make your own Steam Machine instead. Valve says that "starting with the SteamOS 3.8 release, you can put together your ...
-- `The Verge` [Valve explains why it isn’t subsidizing the Steam Machine](https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing)
-> Valve finally announced the price of the Steam Machine, and like a lot of new gadgets these days, it's not cheap: It starts at $1,049 for a 512GB model, and a 2TB model costs $300 more. Configurati...
+- `The Verge` [My go-to Kindle is back at its best price yet for Prime Day](https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale)
+> If you’ve been thinking about picking up a Kindle, Amazon’s Prime Day sale is a great time to do it. The retailer is currently offering steep discounts on several of its e-readers, including the la...
+- `The Verge` [Valve confirms it’s working with Intel and Nvidia on SteamOS for more GPUs](https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux)
+> MSI's Intel-powered Claw gaming handhelds have so far mostly been Windows machines, meaning that anyone who picks one up has to deal with the crusty experience that is Windows on a handheld gaming ...
+- `The Verge` [I’m not giving up my Steam Deck for MSI’s new Claw](https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on)
+> This is not a review of the MSI Claw 8 EX AI Plus, the first gaming handheld available with Intel's new Arc G3 Extreme handheld gaming chip. Now that my colleague Sean Hollister is done reviewing t...
+- `The Verge` [Meta launches cheaper smart glasses without Ray-Ban](https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy)
+> For the past three years, "Meta" and "Ray-Ban" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different...
+- `The Verge` [The best Prime Day deals we found on our favorite gear](https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale)
+> Amazon’s Prime Day is on, and it’s happening for the next four days. Prime members can jump into the deals now until the sale officially ends at 3:01AM ET / 12:01AM PT June 27th. Many discounts wil...
+- `The Verge` [These are the best smart home deals this Prime Day](https://www.theverge.com/tech/953017/best-smart-home-deals-robot-vacuums-locks-doorbell)
+> Every Prime Day is a good day to make your home smarter, as deals on connected gear proliferate not just on Amazon but all across the web. And this Prime Day is no different. I sifted through hundr...
+- `The Verge` [Elon Musk and the plot to hijack America’s broadband](https://www.theverge.com/policy/953944/bead-broadband-funding-trump-musk-bezos)
+> At 9PM ET on the night of May 28th, a Blue Origin New Glenn rocket sat on the launchpad at the Cape Canaveral Space Force Station. The craft was in the middle of a hot-fire test awaiting the arriva...
+- `The Verge` [The best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
+> If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. Prime Day has kicked off, though more tha...
+- `The Verge` [The best Apple deals you can get during Prime Day](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
+> Amazon’s Prime Day sale is here, and whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 h...
+- `The Verge` [The Verge’s guide to Amazon Prime Day 2026](https://www.theverge.com/gadgets/951437/amazon-prime-day-tech-deals-guide-2026)
+> Amazon Prime Day 2026 is happening now and is delivering some of the best deals we’ve seen this summer. As expected, there were a ton of price drops at Amazon, Best Buy, and Walmart on a range of p...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
