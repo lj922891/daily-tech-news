@@ -6,10 +6,38 @@
 
 # 📰 每日科技日报 — 2026-06-25
 
-> 自动收集于 2026-06-25 04:06 | 共 50 条
+> 自动收集于 2026-06-25 13:56 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重](https://36kr.com/p/3868596994069509?f=rss)
+> 减重1亿斤，是什么概念？ 
+  简单算一笔“热量账”。按医学建议的安全减重速度（每周1-2斤）计算，一个人单打独斗，全部减完大概要花100多万年。
+  但如果把它拆分到全国人民身上，再加上专业健康AI“带减”，这个几乎不可能完成的目标就变得触手可及。
+  在国家卫健委等16部门联合倡议的“体重管理年”行动背景下，6月25日，AI健康应用“阿福”宣布正式上线“科学减重1亿斤”健康行动...
+- `36氪` [美光的好财报，黄金的坏消息](https://36kr.com/p/3868523068298499?f=rss)
+> 美东时间6月24日，存储巨头美光科技发布了2026 财年第三财季财报。数据显示，2026财年第三季度，公司实现收入415 亿美元，环比增长 74%，同比增长346%，连续第五个季度刷新历史纪录。同期，公司合并毛利率录得84.9%，环比提高10个百分点；经营现金流达到254亿美元，自由现金流为183亿美元，均创季度新高。
+  在业绩远超市场预期的同时，财报及后续的电话会中，美光还披露了16份S...
+- `36氪` [氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟](https://36kr.com/p/3868502221018370?f=rss)
+> 大公司：
+  百度：已有1500万人使用百度AI志愿助手填报
+  36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。
+  名创优品寇维宣：乐园系门店年内破百家
+  36氪获悉，名创优品集团全球副总裁兼首席渠道发展官寇维宣透露，名创优品乐园系门店正加速扩张，预计年内全球将突破100...
+- `36氪` [开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年](https://36kr.com/p/3868349472920576?f=rss)
+> “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
+  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以 ‘今年盛夏’ 为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，...
+- `36氪` [RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线](https://36kr.com/p/3868276479710466?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。
+  大语言模型有标准的文本Token，自动驾驶有统一的视觉或点云表征，这些基础格式的确定，让数据和...
+- `36氪` [科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶](https://36kr.com/p/3868204527457287?f=rss)
+> 2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透大众消费市场。
+  在激烈的竞争态势下，全球领先消费级 AR 品牌雷鸟创新（RayNeo）持续...
+- `36氪` [峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段](https://36kr.com/p/3868045479711745?f=rss)
+> “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
+  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用1...
 - `36氪` [主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮](https://36kr.com/p/3867998907667462?f=rss)
 > “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
   每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用1...
@@ -23,45 +51,12 @@
   给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。
   这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。
   在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研...
-- `36氪` [秋声 | 紫鸟浏览器冲港股IPO，两个草根逆袭的暴利故事](https://36kr.com/p/3868019442881537?f=rss)
-> 本文约4500字，建议阅读7分钟
-  作者 | 彭孝秋
-  
-   编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
-   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第二期，紫讯。
-  
- ...
-- `36氪` [36氪首发 | 固态变压器领域累计出货超50MW，功率半导体模组厂商完成数千万元融资](https://36kr.com/p/3867975570035717?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，矽迪半导体近日完成数千万元人民币天使轮+融资，由苏创投和婧嘉投资共同投资，后浪资本担任战略财务顾问。本轮融资资金将主要用于固态变压器（SST）功率模组研发、产品迭代以及供应链体系建设。
-  矽迪半导体成立于2023年，主要从事功率半导体模组的研发、制造与销售，产品覆盖全碳化硅（SiC）功率模组、IG...
-- `36氪` [光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮](https://36kr.com/p/3866562600227847?f=rss)
->  “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
-  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投...
-- `36氪` [8点1氪丨SK海力士已提交美国IPO申请；马斯克身家蒸发3400亿美元，已不是万亿富豪；券商暂停股票类跨境TRS新增](https://36kr.com/p/3867827741086728?f=rss)
-> 今日热点导览
-  豆包专业版正式上线，采用三级阶梯定价方案
-  半导体新股暴涨900%，中一签该股最高盈利超20万元
-  以色列证实向伊朗偷运数万台“星链”接收器
-  霍尔木兹海峡对商船完全开放60天，国际油价下跌
-  券商暂停股票类跨境TRS新增，后续业务规模或将逐步归零
-  消息称苹果将于7月下旬量产首款可折叠iPhone
-  TOP3大新闻
-  SK海力士已提交美国IPO申请
-  据报...
-- `36氪` [氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观](https://36kr.com/p/3867032586867972?f=rss)
-> 大公司：
-  华东医药：全资子公司获得注射用HDM2005药物临床试验批准通知书36氪获悉，华东医药公告，全资子公司杭州中美华东制药有限公司收到国家药监局核准签发的《药物临床试验批准通知书》，注射用HDM2005联合PD-1单抗和AD用于治疗经典型霍奇金淋巴瘤的临床试验申请获批。该药物为靶向ROR1的ADC药物，目前正围绕恶性肿瘤开展多适应症临床开发。本次获批将提升公司在肿瘤治疗领域的核心竞...
-- `36氪` [完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发](https://36kr.com/p/3865060112438533?f=rss)
-> 文｜王欣逸
-  编辑｜张雨忻
-  2026 年开年来，3D 生成模型赛道相当热闹。
-  今年第一季度，影眸科技发布首个 3D 编辑模型 Rodin Gen-2 Edit，让 AI 3D 模型第一次可编辑；今年 6 月，VAST 官宣了新一轮融资，Meshy 也紧随其后，宣称自己发布了全球首款 3D AI Agent。
-  近日，影眸科技——这支扎根学术...
-- `36氪` [圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮](https://36kr.com/p/3866900608701449?f=rss)
-> “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
-  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用1...
+- `少数派` [新玩意 245｜少数派的编辑们最近买了啥？](https://sspai.com/post/111518)
+> 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ...查看全文
+- `少数派` [给记忆一个归处：我为什么开始使用 Apple 手记](https://sspai.com/post/111421)
+> 《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记， ...查看全文
+- `少数派` [把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验](https://sspai.com/post/111483)
+> 手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...查看全文
 - `少数派` [风暖鸟声碎，日高花影重：我的昆明与腾冲行记](https://sspai.com/post/111349)
 > 云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！查看全文
 - `少数派` [派早报：豆包推出专业版、GTA VI 开启预售等](https://sspai.com/post/111476)
@@ -76,17 +71,46 @@
 > Cloudflare 联合主流浏览器厂商推进 PACT 协议，腾讯推出 TenPayGo 等。查看全文
 - `少数派` [社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器](https://sspai.com/post/111410)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [运行在 macOS 中的「超采样」：HiDPI 与 Mac 显示溯源](https://sspai.com/post/111261)
-> 2026 年让我们再谈 macOS 的画面缩放机制。查看全文
-- `少数派` [把面试变成一场「开卷推理」：我的全流程备战与复盘 SOP](https://sspai.com/post/110947)
-> 当样本量积累到足够多时，面试其实是一场有迹可循的推理小游戏。查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/111360)
-> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Ask HN: Where is our profession (programmer) going?](https://news.ycombinator.com/item?id=48668199)
-> I had been running a small (3 people) software company for about 4 years. Since closing down, I recently hung out at a friend's company to see what they were working on (15 ppl). To preface: I'm a ...
+- `Hacker News` [Countries are competing to see which can carry out mass surveillance the best](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance)
+> Article URL: https://mullvad.net/en/why-privacy-matters/state-mass-surveillance
+Comments URL: https://news.ycombinator.com/item?id=48672764
+Points: 128
+# Comments: 28
+- `Hacker News` [Apple announces significant price increases for MacBooks, iPads, more](https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/)
+> Article URL: https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/
+Comments URL: https://news.ycombinator.com/item?id=48672732
+Points: 114
+# Comments: 86
+- `Hacker News` [You didn't vibe code it, you stole it from open source&enterprise-licensed code](https://twitter.com/mfts0/status/2070080422482977095)
+> Article URL: https://twitter.com/mfts0/status/2070080422482977095
+Comments URL: https://news.ycombinator.com/item?id=48672328
+Points: 155
+# Comments: 64
+- `Hacker News` [Show HN: Turn native language audio into flashcards and shadowing practice](https://lingochunk.com/try)
+> Here is a tool I built initially for myself to help with my German and Greek language studies. It started as a hack for creating Anki cards from native language audio. It extracts the words, finds ...
+- `Hacker News` [LastPass notifies users of yet another data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/)
+> Article URL: https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/
+Comments URL: https://news.ycombinator.com/item?id=48671468
+Points: 159
+# Comments: 71
+- `Hacker News` [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/)
+> Article URL: https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/
+Comments URL: https://news.ycombinator.com/item?id=48671392
+Points: 159
+# Comments: 21
+- `Hacker News` [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
+> Article URL: https://utaw.tech/news/wikipedia-recognition
+Comments URL: https://news.ycombinator.com/item?id=48669932
+Points: 134
+# Comments: 143
+- `Hacker News` [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
+> Article URL: https://hl2.slqnt.dev/
+Comments URL: https://news.ycombinator.com/item?id=48669534
+Points: 411
+# Comments: 159
 - `Hacker News` [Medical students are using popular research tool to pump out misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies)
 > Article URL: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies
 Comments URL: https://news.ycombinator.com/item?id=48668119
@@ -94,43 +118,14 @@ Points:...
 - `Hacker News` [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/)
 > Article URL: https://blog.cloudflare.com/oauth-for-all/
 Comments URL: https://news.ycombinator.com/item?id=48668033
-Points: 25
-# Comments: 6
-- `Hacker News` [Zombie unicorns are haunting Silicon Valley](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley)
-> Article URL: https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley
-Comments URL: https://news.ycombinator.com/item?id=48668020
-Points: 9
-# Comments: 4
-- `Hacker News` [Writers and Drugs](https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/)
-> Article URL: https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/
-Comments URL: https://news.ycombinator.com/item?id=48667853
-Points: 8
-# Comments: 5
-- `Hacker News` [Bible as RAG Database](https://www.crosscanon.com/)
-> Article URL: https://www.crosscanon.com/
-Comments URL: https://news.ycombinator.com/item?id=48667807
-Points: 59
-# Comments: 34
-- `Hacker News` [Exploring the internal representations of Pangram 3.3.2](https://www.pangram.com/pangram-space)
-> Article URL: https://www.pangram.com/pangram-space
-Comments URL: https://news.ycombinator.com/item?id=48667761
-Points: 14
-# Comments: 4
-- `Hacker News` [Ending All Respiratory Infections](https://blog.interceptfund.com/p/ending-respiratory-infections)
-> Article URL: https://blog.interceptfund.com/p/ending-respiratory-infections
-Comments URL: https://news.ycombinator.com/item?id=48667588
-Points: 73
-# Comments: 25
-- `Hacker News` [Mixing Visual and Textual Code](https://arxiv.org/abs/2603.15855)
-> Article URL: https://arxiv.org/abs/2603.15855
-Comments URL: https://news.ycombinator.com/item?id=48667560
-Points: 21
-# Comments: 1
-- `Hacker News` [What I'm Finding About LLM Code Style and Token Costs](https://www.jimmont.com/llm-style-token-costs)
-> Article URL: https://www.jimmont.com/llm-style-token-costs
-Comments URL: https://news.ycombinator.com/item?id=48667409
-Points: 17
-# Comments: 7
+Points: 247
+# Comments: 103
+- `TechCrunch` [Adobe acquires image and video enhancement tool maker Topaz Labs](https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/)
+> Adobe said that it will integrate Topaz Labs' tools across its apps.
+- `TechCrunch` [Amazon ups India bet with fresh $13B AI infrastructure investment](https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/)
+> Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.
+- `TechCrunch` [Cellebrite said it cut off Russia, but Russia used its tools anyway](https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/)
+> Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop s...
 - `TechCrunch` [Europe is pushing back on Washington’s chip war](https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/)
 > As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH...
 - `TechCrunch` [Former Infosys chief has a new startup that wants to challenge the IT services world](https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/)
@@ -145,32 +140,26 @@ Points: 17
 > Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.
 - `TechCrunch` [The memory chip crunch is paying off for this US company](https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/)
 > Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.
-- `TechCrunch` [New website names and shames companies that still don’t offer passkeys to users](https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/)
-> According to a new site, 24% of the most popular websites in the world don't offer support for passkeys, which are considered the most secure way to log in to apps and services.
-- `TechCrunch` [Companies are scrambling to stop employees from maxing out AI budgets with small tasks](https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/)
-> The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.
-- `TechCrunch` [Here’s why Slate changed the battery in its cheap EV truck](https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/)
-> While there was probably a moment when Slate’s leadership had to green-light the switch from one battery type to another, the momentum toward that decision had been building for years.
+- `The Verge` [Samsung’s new budget phone costs $50 more despite downgrades](https://www.theverge.com/tech/956835/samsung-galaxy-a27-5g-launch-price-specs)
+> The Galaxy A27 has been announced, and at $349.99 it's $50 more than last year's A26. That's understandable in the current economic climate, but a harder sell given that Samsung has also downgraded...
+- `The Verge` [Leica’s $6,690 SL3-P pairs 44-megapixel stills with 8K video](https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price)
+> Following the launch of the SL3 in 2024 and last year's SL3-S that was optimized for speed and capturing fast moving subjects, Leica announced the new SL3-P today delivering some of the best featur...
+- `The Verge` [Our 29 favorite gaming deals on Prime Day for Switch, PS5, and Xbox](https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale)
+> There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are ph...
+- `The Verge` [Apple raises prices on Macs, iPads, and more by hundreds of dollars](https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage)
+> Apple is hiking the prices of its MacBooks, iPads, and other devices by hundreds of dollars in response to the ongoing memory and storage shortages. While the new MacBook Neo will now start at $699...
+- `The Verge` [Ford had to hire back former engineers to fix mistakes made by its automated systems](https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes)
+> To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its r...
+- `The Verge` [Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers](https://www.theverge.com/streaming/956712/disney-youtube-tv-directv-streaming-settlement)
+> YouTube TV and DirecTV Stream customers may be eligible for a cash payout, after Disney agreed to pay $50 million to settle claims that it forced the services to increase their subscription prices....
+- `The Verge` [The 124 best tech deals for day three of Prime Day](https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three)
+> It’s day three of Prime Day, folks. We’re nearly 75 percent of the way through Amazon’s four-day sales event, and unsurprisingly, many deals are still sticking around. There have ...
+- `The Verge` [Is this solar e-bike a good idea or sophisticated e-waste?](https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy)
+> I like the idea of a solar-powered electric bike, but I don't think anyone should buy the new Phosgo Go5 - not yet, anyway. This "world's first AI solar e-bike" promises to "eliminate range anxiety...
+- `The Verge` [Facebook’s Creator Studio has been revived as an AI companion app](https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch)
+> Meta is bringing back the Facebook Creator Studio page manager, now "reimagined" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences an...
 - `The Verge` [The top tech Prime Day deals to shop on day two](https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale)
-> Welcome to day two of Amazon’s four-day Prime Day event, which, if we’re being honest, looks a lot like day one. That’s actually good news, though, because many of the best deals ...
-- `The Verge` [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
-> Amazon’s Prime Day is now in its second day, and whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch...
-- `The Verge` [The 16 best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
-> If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on day two of Prime Day, ...
-- `The Verge` [Charlie Kirk’s legacy is a 30-year sentence for moving zines](https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa)
-> Just days after a gunman killed conservative activist Charlie Kirk, it became clear that President Donald Trump would use the assassination to fuel a crackdown on free speech. To avenge Kirk's deat...
-- `The Verge` [Microsoft introduces cheaper Surface devices with half the memory](https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram)
-> Microsoft just added a cheaper 12-inch Surface Pro and 13-inch Surface Laptop to its lineup. Both models come equipped with 8GB of RAM instead of 16GB, costing $849 for the specced-down Surface Pro...
-- `The Verge` [A new paper argues Microsoft exaggerated its quantum claims a year ago](https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims)
-> A critique published in Nature Wednesday calls the basic technology behind Microsoft's "breakthrough" quantum computing chip the Majorana 1 into question. Microsoft unveiled the chip in February 20...
-- `The Verge` [Congresswoman denies staff used AI to write defense funding amendment](https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude)
-> Rep. Anna Paulina Luna (R-FL) says her staff used AI for "spellcheck" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says "NO Legislation is e...
-- `The Verge` [GTA VI is a worrying sign for the future of physical games](https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games)
-> Rockstar Games has finally given Grand Theft Auto VI a price ahead of the game's November 19th launch. But while announcing that the game would cost $79.99, Rockstar also confirmed that the physica...
-- `The Verge` [Google is finally opening the Play Store to outside payments](https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust)
-> While the court still hasn't signed off on the massive settlement resolving Epic's antitrust lawsuit against Google for having a monopoly over Android's app store with Google Play, the tech giant s...
-- `The Verge` [Prime Day deals under $50 that are really worth it](https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50)
-> If you’re looking for a good deal without spending hundreds, Prime Day discounts have pushed some of our favorite products under $50. You can pick up everything from Nintendo Switch games to Blueto...
+> Update, June 25th: We’re now onto day three of Amazon’s Prime Day sales event, and you can find our new main roundup of deals here. Welcome to day two of Amazon’s four-day Prime Day event, wh...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
