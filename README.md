@@ -6,10 +6,38 @@
 
 # 📰 每日科技日报 — 2026-06-26
 
-> 自动收集于 2026-06-26 04:13 | 共 50 条
+> 自动收集于 2026-06-26 13:54 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍](https://36kr.com/p/3869884559332356?f=rss)
+> 大公司：
+  五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长
+  36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会非独立董事的议案》，自本次股东会审议通过之日起，曾从钦不再担任公司董事职务，其担任的董事长、董事会专门委员会主任委员及委员职务一并自动解除（原定任期至公司第七届董事会日期届满之日即202...
+- `36氪` [《走进AIE》，谁是下一个主角](https://36kr.com/p/3869838577620231?f=rss)
+> 一展两地，链接全球    AIE 电子展成为龙头企业的必选舞台
+  全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。
+  技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。为此，AIE 组委会联合南方...
+- `36氪` [对话张亚勤：AI不是泡沫，但AI公司有泡沫](https://36kr.com/p/3866837793952769?f=rss)
+> 文 | 海若镜
+  访谈 | 海若镜 巴芮
+  6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。
+  访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。
+  五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士...
+- `36氪` [中科闻歌开盘暴涨81%，北京再增一家硬科技IPO](https://36kr.com/p/3869622921041156?f=rss)
+> 本文约900字，建议阅读2分钟
+  作者 | 彭孝秋
+  6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。
+  
+  关于中科闻歌深度报道，可查看此前报道—...
+- `36氪` [历经13年，二手车交易平台大搜车终于登陆纳斯达克](https://36kr.com/p/3869474592363528?f=rss)
+> 北京时间  2026 年 6 月 25 日，DSC Holdings Ltd.（以下简称"大搜车"或"公司"，纳斯达克代码："DSC"）正式在美国纳斯达克全球市场挂牌交易，成为 2026 年首家赴美上市的中国企业。公司本次发行 3,000,000 份美国存托股份（ADS），发行价定为每股 ADS 17.00 美元，总发行规模约 5,100 万美元（未计超额配售权）。公司另...
+- `36氪` [戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”](https://36kr.com/p/3869445453305090?f=rss)
+> 文｜王欣逸
+  编辑｜周鑫雨
+  半年前，我们第一次和基点起源创始人兼 CEO 戴宗宏交流时，这家逆流入局 B 端定制化的AI公司，刚刚推进了 7、8 个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。
+  半年后，基点对质疑声的回应，是数千万元的在手订单。
+  戴宗宏对《智能涌现》透露，基点起源的订单数...
 - `36氪` [年入27亿，一颗中国糖果拿捏「美国味」](https://36kr.com/p/3868550907237636?f=rss)
 > 作者 | 谢芸子
   编辑 | 张帆
@@ -34,31 +62,14 @@
    逾八成澳大利亚未成年人“绕过”了社媒禁令
    IBM发布全球首款亚纳米芯片技术
   ...
-- `36氪` [抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重](https://36kr.com/p/3868596994069509?f=rss)
-> 减重1亿斤，是什么概念？ 
-  简单算一笔“热量账”。按医学建议的安全减重速度（每周1-2斤）计算，一个人单打独斗，全部减完大概要花100多万年。
-  但如果把它拆分到全国人民身上，再加上专业健康AI“带减”，这个几乎不可能完成的目标就变得触手可及。
-  在国家卫健委等16部门联合倡议的“体重管理年”行动背景下，6月25日，AI健康应用“阿福”宣布正式上线“科学减重1亿斤”健康行动...
-- `36氪` [美光的好财报，黄金的坏消息](https://36kr.com/p/3868523068298499?f=rss)
-> 美东时间6月24日，存储巨头美光科技发布了2026 财年第三财季财报。数据显示，2026财年第三季度，公司实现收入415 亿美元，环比增长 74%，同比增长346%，连续第五个季度刷新历史纪录。同期，公司合并毛利率录得84.9%，环比提高10个百分点；经营现金流达到254亿美元，自由现金流为183亿美元，均创季度新高。
-  在业绩远超市场预期的同时，财报及后续的电话会中，美光还披露了16份S...
-- `36氪` [氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟](https://36kr.com/p/3868502221018370?f=rss)
-> 大公司：
-  百度：已有1500万人使用百度AI志愿助手填报
-  36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。
-  名创优品寇维宣：乐园系门店年内破百家
-  36氪获悉，名创优品集团全球副总裁兼首席渠道发展官寇维宣透露，名创优品乐园系门店正加速扩张，预计年内全球将突破100...
-- `36氪` [开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年](https://36kr.com/p/3868349472920576?f=rss)
-> “2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。
-  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以 ‘今年盛夏’ 为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，...
-- `36氪` [RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线](https://36kr.com/p/3868276479710466?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。
-  大语言模型有标准的文本Token，自动驾驶有统一的视觉或点云表征，这些基础格式的确定，让数据和...
-- `36氪` [科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶](https://36kr.com/p/3868204527457287?f=rss)
-> 2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透大众消费市场。
-  在激烈的竞争态势下，全球领先消费级 AR 品牌雷鸟创新（RayNeo）持续...
+- `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/111562)
+> 📅本周新预告《克拉拉与太阳》首支预告6月23日，电影《克拉拉与太阳》发布了首支预告，将于10月23日在北美上映。塔伊加·维迪提执导，詹娜·奥尔特加、艾米·亚当斯主演，改编自石黑一雄的同名小说，人工智能 ...查看全文
+- `少数派` [探索快捷指令的上限：用网页视图创建丰富界面与交互](https://sspai.com/prime/story/create-webview-in-shortcuts)
+> 从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [空调续命之外的清凉：这是我们的夏日降温「新」方案](https://sspai.com/post/100319)
+> 当夏天的热浪席卷城市，北方在烈日下承受着如烤箱般的双面炙烤，南方在骄阳下忍受着如蒸笼般的闷湿高温，能够每天陪伴我们的「降温好物」成为必需。又是一年盛夏时，我们邀请了6位少数派作者，聊聊那些真正融入日常 ...查看全文
+- `少数派` [林檎越东瀛：苹果的日本之旅](https://sspai.com/post/111297)
+> 当年「林檎渡东瀛」的试探，终演变成一场与亚洲产业命运相依的交响。查看全文
 - `少数派` [派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观](https://sspai.com/post/111541)
 > Apple 调整产品价格，Figma 发布多项更新等。查看全文
 - `少数派` [新玩意 245｜少数派的编辑们最近买了啥？](https://sspai.com/post/111518)
@@ -71,70 +82,66 @@
 > 云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！查看全文
 - `少数派` [派早报：豆包推出专业版、GTA VI 开启预售等](https://sspai.com/post/111476)
 > OpenAI 发布 AI 推理芯片 Jalapeño、Goodram 推出 SD 存储卡 PRO S6B0 等。查看全文
-- `少数派` [TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验](https://sspai.com/post/111289)
-> Enco Clip2 作为耳夹品类里定位相对中高端的产品，我们一起来看看它的表现吧。查看全文
-- `少数派` [从观众到志愿者：加入 TEDxShenzhen 需要做些什么？](https://sspai.com/post/111428)
-> 前言今年是我加入TEDxShenzhen的第三年，经历了2024年和2025年的两次年度大会，我们迎来了2026年的纳新和年度大会筹备。今年纳新时，有几位朋友问我是如何加入Tedx的，刚好编辑也问我有 ...查看全文
-- `少数派` [DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备](https://sspai.com/post/111223)
-> 2026 年是 AI agent 的第一年，2026 年也是 FireWire 的最后一年。查看全文
-- `少数派` [社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器](https://sspai.com/post/111410)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [No-One Escapes the Permanent Underclass](https://borretti.me/article/no-one-escapes-the-permanent-underclass)
-> Article URL: https://borretti.me/article/no-one-escapes-the-permanent-underclass
-Comments URL: https://news.ycombinator.com/item?id=48682016
-Points: 23
-# Comments: 11
+- `Hacker News` [Google hallucinated that I am sponsored by Ground News](https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB)
+> Article URL: https://www.youtube.com/post/UgkxsAIUDMQTYc15yQqURsGy0Kg7O1x2TtnB
+Comments URL: https://news.ycombinator.com/item?id=48686050
+Points: 36
+# Comments: 37
+- `Hacker News` [Captcha proves you're human. HATCHA proves you're not](https://github.com/mondaycom/HATCHA)
+> Article URL: https://github.com/mondaycom/HATCHA
+Comments URL: https://news.ycombinator.com/item?id=48685677
+Points: 57
+# Comments: 64
+- `Hacker News` [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
+> Article URL: https://akrites.org/letter/
+Comments URL: https://news.ycombinator.com/item?id=48682737
+Points: 334
+# Comments: 160
 - `Hacker News` [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
 > Article URL: https://graphicore.github.io/librebarcode/
 Comments URL: https://news.ycombinator.com/item?id=48681949
-Points: 18
-# Comments: 0
+Points: 209
+# Comments: 34
 - `Hacker News` [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/)
 > Article URL: https://www.fernandoi.cl/posts/hackmyclaw/
 Comments URL: https://news.ycombinator.com/item?id=48681687
-Points: 9
-# Comments: 0
-- `Hacker News` [A data race that doesn't compile](https://corentin-core.github.io/posts/ruxe-type-level-disjointness/)
-> Article URL: https://corentin-core.github.io/posts/ruxe-type-level-disjointness/
-Comments URL: https://news.ycombinator.com/item?id=48681361
-Points: 22
-# Comments: 5
+Points: 237
+# Comments: 92
 - `Hacker News` [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
 > Article URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/
 Comments URL: https://news.ycombinator.com/item?id=48681220
-Points: 71
-# Comments: 22
+Points: 230
+# Comments: 120
 - `Hacker News` [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)](https://gchandbook.org/)
 > Article URL: https://gchandbook.org/
 Comments URL: https://news.ycombinator.com/item?id=48680370
-Points: 79
-# Comments: 12
+Points: 181
+# Comments: 35
 - `Hacker News` [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet)
 > Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet
 Comments URL: https://news.ycombinator.com/item?id=48679608
-Points: 501
-# Comments: 237
-- `Hacker News` [Migrating from Proxmox to NixOS and Incus](https://www.nijho.lt/post/proxmox-to-nixos/)
-> Article URL: https://www.nijho.lt/post/proxmox-to-nixos/
-Comments URL: https://news.ycombinator.com/item?id=48679385
-Points: 64
-# Comments: 38
+Points: 856
+# Comments: 416
 - `Hacker News` [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/)
 > Article URL: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/
 Comments URL: https://news.ycombinator.com/item?id=48679007
-Points: 125
-# Comments: 31
+Points: 163
+# Comments: 40
 - `Hacker News` [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
 > https://runtimewire.com/article/om-malik-taught-silicon-vall...
 
 Comments URL: https://news.ycombinator.com/item?id=48678852
-Points: 609
-# Comments: 60
+Points: 1038
+# Comments: 123
+- `TechCrunch` [Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that](https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/)
+> Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others.
+- `TechCrunch` [Early Bird pricing ends tonight for TechCrunch Founder Summit](https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/)
+> Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.
 - `TechCrunch` [The White House is asking OpenAI to slow roll the release of its new model over safety concerns](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/)
-> penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.
+> OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.
 - `TechCrunch` [YouTube Shorts are getting even shorter with an update that lets you double the playback speed](https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/)
 > YouTube Shorts is getting a makeover.
 - `TechCrunch` [Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents](https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/)
@@ -149,10 +156,18 @@ Points: 609
 > Base Power is skipping the PJM's troubled interconnection queue by placing its batteries at people's homes, offering backup services in exchange.
 - `TechCrunch` [Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/)
 > Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.
-- `TechCrunch` [General Intuition’s $2.3B bet that video games can train AI agents for the real world](https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/)
-> General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.
-- `TechCrunch` [Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x](https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/)
-> Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.
+- `The Verge` [Prime Day is offering rare discounts on Philips Hue smart lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale)
+> Philips Hue products don’t often see major discounts, which makes this year’s Prime Day deals especially notable. Prices have dropped significantly across much of the company’s sm...
+- `The Verge` [With GTA looming, consoles are getting expensive at the worst possible time](https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes)
+> The release of Grand Theft Auto VI is a singular moment, the kind of massive cultural phenomenon that makes people want to go out and buy a console to play it. It is the preeminent modern example o...
+- `The Verge` [Samsung will soon start charging to access its smart home API](https://www.theverge.com/tech/957597/samsung-smartthings-api-charges)
+> From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for "non-commercial, individual developers." It won't just...
+- `The Verge` [Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades](https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman)
+> Apple is expected to shake up its usual Mac silicon release strategy, with Bloomberg's Mark Gurman reporting that there won't be Pro or Max versions of the upcoming M6 chip. Instead, Apple wants to...
+- `The Verge` [It’s the last day of Prime Day — here are over 130 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four)
+> We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, he...
+- `The Verge` [Trump Mobile will take your $499 right now](https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit)
+> Where's the Trump phone? We're going to keep talking about it every week. We still don't have the phones we preordered yet, but this week the T1 hit open sale, no deposit required. Trump Mobile's T...
 - `The Verge` [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
 > Amazon’s Prime Day is now in its third day, and whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch ...
 - `The Verge` [Android 17’s new foldable gaming mode could make flippy phones more fun](https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller)
@@ -161,18 +176,6 @@ Points: 609
 > YouTube is adding even more TikTok-like features to Shorts, including a new "clear screen" mode that removes the icons and text from the video you're watching. In a blog post on Thursday, YouTube s...
 - `The Verge` [OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)
 > The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI C...
-- `The Verge` [Framework has good news and bad news](https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu)
-> Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the "MacBook Pro for ...
-- `The Verge` [Score a discounted Xbox console before the prices jump](https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale)
-> Microsoft announced today that the price of all Xbox models will rise in August, the second time in less than a year as memory prices continue to wreak havoc on every industry from cars to computin...
-- `The Verge` [Instagram wants to monopolize your attention](https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video)
-> This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In add...
-- `The Verge` [RAMageddon just got extremely real](https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase)
-> As far as prices go, Apple is kind of a reverse canary in the coal mine. With its famously generous margins and immense purchasing volume, it can afford to ride out price fluctuations in its supply...
-- `The Verge` [The 16 best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
-> If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on day three of Prime Day...
-- `The Verge` [It’s a bad time to want a new computer](https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve)
-> It's not exactly surprising that RAMaggeddon is making new tech hardware really expensive. But if you've been in the market for things like a new computer or tablet, this week has been filled with ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
