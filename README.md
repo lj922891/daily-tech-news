@@ -6,10 +6,17 @@
 
 # 📰 每日科技日报 — 2026-06-27
 
-> 自动收集于 2026-06-27 03:59 | 共 50 条
+> 自动收集于 2026-06-27 13:02 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完](https://36kr.com/p/3871109381035011?f=rss)
+> 本文约2500字，建议阅读5分钟
+  作者 | 彭孝秋
+  
+   编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
+   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。
+...
 - `36氪` [G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线](https://36kr.com/p/3869740772316162?f=rss)
 > 作者｜黄楠
   编辑｜袁斯来
@@ -58,12 +65,8 @@
   关于中科闻歌深度报道，可查看此前报道—...
 - `36氪` [历经13年，二手车交易平台大搜车终于登陆纳斯达克](https://36kr.com/p/3869474592363528?f=rss)
 > 北京时间  2026 年 6 月 25 日，DSC Holdings Ltd.（以下简称"大搜车"或"公司"，纳斯达克代码："DSC"）正式在美国纳斯达克全球市场挂牌交易，成为 2026 年首家赴美上市的中国企业。公司本次发行 3,000,000 份美国存托股份（ADS），发行价定为每股 ADS 17.00 美元，总发行规模约 5,100 万美元（未计超额配售权）。公司另...
-- `36氪` [戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”](https://36kr.com/p/3869445453305090?f=rss)
-> 文｜王欣逸
-  编辑｜周鑫雨
-  半年前，我们第一次和基点起源创始人兼 CEO 戴宗宏交流时，这家逆流入局 B 端定制化的AI公司，刚刚推进了 7、8 个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。
-  半年后，基点对质疑声的回应，是数千万元的在手订单。
-  戴宗宏对《智能涌现》透露，基点起源的订单数...
+- `少数派` [俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼](https://sspai.com/post/111347)
+> 在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/111562)
 > 📅本周新预告《克拉拉与太阳》首支预告6月23日，电影《克拉拉与太阳》发布了首支预告，将于10月23日在北美上映。塔伊加·维迪提执导，詹娜·奥尔特加、艾米·亚当斯主演，改编自石黑一雄的同名小说，人工智能 ...查看全文
 - `少数派` [探索快捷指令的上限：用网页视图创建丰富界面与交互](https://sspai.com/prime/story/create-webview-in-shortcuts)
@@ -82,60 +85,61 @@
 > 手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...查看全文
 - `少数派` [风暖鸟声碎，日高花影重：我的昆明与腾冲行记](https://sspai.com/post/111349)
 > 云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！查看全文
-- `少数派` [派早报：豆包推出专业版、GTA VI 开启预售等](https://sspai.com/post/111476)
-> OpenAI 发布 AI 推理芯片 Jalapeño、Goodram 推出 SD 存储卡 PRO S6B0 等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
-> Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I've been working on...
-- `Hacker News` [Om](https://daringfireball.net/2026/06/om)
-> Related: Om Malik has died - https://news.ycombinator.com/item?id=48678852 - June 2026 (161 comments)
-
-Comments URL: https://news.ycombinator.com/item?id=48693391
-Points: 178
-# Comments: 12
-- `Hacker News` [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
-> https://archive.md/ArXuFhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a...
-
-Comments URL: https://news.ycombinator.com/item?id=48692995
-Points: 277
-# Comments: 268
-- `Hacker News` [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
-> Article URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed
-Comments URL: https://news.ycombinator.com/item?id=48692946
-Point...
-- `Hacker News` [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics)
-> Article URL: https://spectrum.ieee.org/ai-in-mathematics
-Comments URL: https://news.ycombinator.com/item?id=48692883
-Points: 71
-# Comments: 33
-- `Hacker News` [The open source DOCX editor submitted to HN a few weeks ago has been deleted](https://news.ycombinator.com/item?id=48692474)
-> The github repo under eigenpal is gone. The web site at docx-editor is 503. No idea what's going on.
-
-Comments URL: https://news.ycombinator.com/item?id=48692474
-Points: 72
-# Comments: 36
-- `Hacker News` [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map)
-> Article URL: https://github.com/Tessil/hopscotch-map
-Comments URL: https://news.ycombinator.com/item?id=48692090
-Points: 73
-# Comments: 12
-- `Hacker News` [The gap between open weights LLMs and closed source LLMs](https://blog.doubleword.ai/frontier-os-llm)
-> Article URL: https://blog.doubleword.ai/frontier-os-llm
-Comments URL: https://news.ycombinator.com/item?id=48692058
-Points: 140
-# Comments: 118
-- `Hacker News` [We can still stop California's 3D printer surveillance scheme](https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme)
-> Article URL: https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme
-Comments URL: https://news.ycombinator.com/item?id=48692051
-Points: 271
-# Comments: 92
-- `Hacker News` [Hightouch (YC S19) Is Hiring](https://hightouch.com/careers#open-positions)
-> Article URL: https://hightouch.com/careers#open-positions
-Comments URL: https://news.ycombinator.com/item?id=48691893
+- `Hacker News` [OpenRA](https://www.openra.net/)
+> Article URL: https://www.openra.net/
+Comments URL: https://news.ycombinator.com/item?id=48697560
+Points: 10
+# Comments: 3
+- `Hacker News` [Nox Metals (YC S25) Is Hiring SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer)
+> Article URL: https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer
+Comments URL: https://news.ycombinator.com/item?id=48697504
 Points: 0
 # Comments: 0
+- `Hacker News` [If You Can't Hold It, You Don't Own It](https://dervis.de/physical/)
+> Article URL: https://dervis.de/physical/
+Comments URL: https://news.ycombinator.com/item?id=48697335
+Points: 6
+# Comments: 0
+- `Hacker News` [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
+> Article URL: https://w.pitula.me/fintech-engineering-handbook/
+Comments URL: https://news.ycombinator.com/item?id=48696982
+Points: 108
+# Comments: 33
+- `Hacker News` [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
+> Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf
+Comments URL: https://news.ycombinator.com/item?id=48696585
+Points: 439
+# Comments: 138
+- `Hacker News` [Beer CSS – Build material design in record time](https://www.beercss.com)
+> Article URL: https://www.beercss.com
+Comments URL: https://news.ycombinator.com/item?id=48696510
+Points: 57
+# Comments: 14
+- `Hacker News` [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
+> Article URL: https://github.com/schlae/IBM_MCGA
+Comments URL: https://news.ycombinator.com/item?id=48695363
+Points: 45
+# Comments: 8
+- `Hacker News` [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
+> Article URL: https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1
+Comments URL: https://news.ycombinator.com/item?id=48695149
+Points: 191
+# Comments: 34
+- `Hacker News` [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
+> Article URL: https://www.sfwriter.com/wordstar.htm
+Comments URL: https://news.ycombinator.com/item?id=48694853
+Points: 114
+# Comments: 49
+- `Hacker News` [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
+> Article URL: https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/
+Comments URL: https://news.ycombinator.com/item?id=48694631
+Points: 82
+# Comments: 12
+- `TechCrunch` [Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
+> New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
 - `TechCrunch` [Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
 > Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.
 - `TechCrunch` [FTC gives Musk the OK to acquire SpaceX alumni startup Mesh](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/)
@@ -154,8 +158,12 @@ Points: 0
 > The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years.
 - `TechCrunch` [Tesla settles FSD crash lawsuit as federal investigations continue](https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/)
 > The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.
-- `TechCrunch` [TikTok’s road to becoming a super app](https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/)
-> TikTok may be working to become the app that people use for most of their digital activities.
+- `The Verge` [Inside the room where the smart home industry is still betting on Matter](https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability)
+> Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry'...
+- `The Verge` [This puzzle game’s simple premise hides surprising depth](https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android)
+> What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited cons...
+- `The Verge` [This might be the new best smart speaker](https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer)
+> Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the o...
 - `The Verge` [Prime Day is almost over, but these are still the best Apple deals I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
 > Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Appl...
 - `The Verge` [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four)
@@ -170,12 +178,6 @@ Points: 0
 > Philips Hue products don’t often see major discounts, which makes this year’s Prime Day deals especially notable. Prices have dropped significantly across much of the company’s sm...
 - `The Verge` [My favorite Govee smart lamps are at their lowest prices ever for Prime Day](https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale)
 > We’ve already rounded up the best Philips Hue deals of Prime Day, but if you’re looking for something a little more budget-friendly, Govee’s latest sale is worth checking out. The...
-- `The Verge` [After covering Prime Day for 36 hours over four days, this is the one thing I bought](https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor)
-> We’ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I’m most hyped for is a simp...
-- `The Verge` [Our favorite Prime Day gadgets under $100 you don’t need but will really want](https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale)
-> Prime Day has a funny way of convincing you to buy things you weren’t shopping for in the first place. You sign on intending to buy something sensible you actually need, like a pack of USB-C ...
-- `The Verge` [These are the best deals you can still get on MacBooks before Apple’s price hike kicks in](https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes)
-> Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple lap...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
