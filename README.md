@@ -4,12 +4,18 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-27
+# 📰 每日科技日报 — 2026-06-28
 
-> 自动收集于 2026-06-27 13:02 | 共 50 条
+> 自动收集于 2026-06-28 04:22 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [一折买 Miu Miu，谁在做奢侈品牌的"拼多多"？｜商业Friday](https://36kr.com/p/3867976058803459?f=rss)
+> 文｜贺哲馨
+  编辑｜乔芊
+  Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。提交申请后的第三天，她依旧没有收到邀请消息。“我还以为填完资料就能进去。”她说。
+  按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。
+  “有点像抽签，也...
 - `36氪` [秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完](https://36kr.com/p/3871109381035011?f=rss)
 > 本文约2500字，建议阅读5分钟
   作者 | 彭孝秋
@@ -63,8 +69,6 @@
   6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。
   
   关于中科闻歌深度报道，可查看此前报道—...
-- `36氪` [历经13年，二手车交易平台大搜车终于登陆纳斯达克](https://36kr.com/p/3869474592363528?f=rss)
-> 北京时间  2026 年 6 月 25 日，DSC Holdings Ltd.（以下简称"大搜车"或"公司"，纳斯达克代码："DSC"）正式在美国纳斯达克全球市场挂牌交易，成为 2026 年首家赴美上市的中国企业。公司本次发行 3,000,000 份美国存托股份（ADS），发行价定为每股 ADS 17.00 美元，总发行规模约 5,100 万美元（未计超额配售权）。公司另...
 - `少数派` [俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼](https://sspai.com/post/111347)
 > 在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/111562)
@@ -88,59 +92,64 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [OpenRA](https://www.openra.net/)
-> Article URL: https://www.openra.net/
-Comments URL: https://news.ycombinator.com/item?id=48697560
-Points: 10
-# Comments: 3
-- `Hacker News` [Nox Metals (YC S25) Is Hiring SWE](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer)
-> Article URL: https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer
-Comments URL: https://news.ycombinator.com/item?id=48697504
-Points: 0
-# Comments: 0
-- `Hacker News` [If You Can't Hold It, You Don't Own It](https://dervis.de/physical/)
-> Article URL: https://dervis.de/physical/
-Comments URL: https://news.ycombinator.com/item?id=48697335
-Points: 6
-# Comments: 0
-- `Hacker News` [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
-> Article URL: https://w.pitula.me/fintech-engineering-handbook/
-Comments URL: https://news.ycombinator.com/item?id=48696982
-Points: 108
-# Comments: 33
-- `Hacker News` [DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
-> Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf
-Comments URL: https://news.ycombinator.com/item?id=48696585
-Points: 439
-# Comments: 138
-- `Hacker News` [Beer CSS – Build material design in record time](https://www.beercss.com)
-> Article URL: https://www.beercss.com
-Comments URL: https://news.ycombinator.com/item?id=48696510
-Points: 57
-# Comments: 14
-- `Hacker News` [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA)
-> Article URL: https://github.com/schlae/IBM_MCGA
-Comments URL: https://news.ycombinator.com/item?id=48695363
-Points: 45
-# Comments: 8
-- `Hacker News` [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
-> Article URL: https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1
-Comments URL: https://news.ycombinator.com/item?id=48695149
-Points: 191
-# Comments: 34
-- `Hacker News` [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
-> Article URL: https://www.sfwriter.com/wordstar.htm
-Comments URL: https://news.ycombinator.com/item?id=48694853
-Points: 114
-# Comments: 49
-- `Hacker News` [Anatomy of a Failed (Nation-State?) Attack](https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/)
-> Article URL: https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/
-Comments URL: https://news.ycombinator.com/item?id=48694631
-Points: 82
-# Comments: 12
+- `Hacker News` [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
+> Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html
+Comments URL: https://news.ycombinator.com/item?id=48703968
+Points: 30
+# Comments: 6
+- `Hacker News` [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
+> Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep
+Comments URL: https://news.ycombinator.com/item?id=48703759
+Points: 69
+# Comments: 11
+- `Hacker News` [Feds Killed Polestar and Spared Volvo. That Should Terrify You](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
+> Article URL: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you
+Comments URL: https://news.ycombinator.com/item?id=48703613
+Points: 52
+# Comments: 30
+- `Hacker News` [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
+> Article URL: https://jayacunzo.com/blog/your-move-chief
+Comments URL: https://news.ycombinator.com/item?id=48703452
+Points: 99
+# Comments: 58
+- `Hacker News` [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
+> Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey wit...
+- `Hacker News` [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
+> Article URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md
+Comments URL: https://news.ycombinator.com/item?id=48703258
+Points: 67
+# Comments: 4
+- `Hacker News` [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
+> Article URL: https://clickhouse.com/blog/walrus-postgres-backups-in-rust
+Comments URL: https://news.ycombinator.com/item?id=48702848
+Points: 23
+# Comments: 1
+- `Hacker News` [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
+> Article URL: https://evilbit.de/dns-resolver-guide.html
+Comments URL: https://news.ycombinator.com/item?id=48702273
+Points: 94
+# Comments: 28
+- `Hacker News` [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
+> Article URL: https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu
+Comments URL: https://news.ycombinator.com/item?id=48702060
+Points: 145
+# Comme...
+- `Hacker News` [What Ozempic does to the gut-brain axis](https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis)
+> Article URL: https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis
+Comments URL: https://news.ycombinator.com/item?id=48701984
+Points: 111
+# Comment...
+- `TechCrunch` [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/)
+> Instagram users could soon see more ways to tune their content.
+- `TechCrunch` [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
+> Not everyone is buying Elon Musk’s vision for orbital data centers.
+- `TechCrunch` [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
+> Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.
+- `TechCrunch` [The fittest founder in the room got cancer. Here’s how he used AI to fight back.](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/)
+> When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.
 - `TechCrunch` [Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
 > New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
-- `TechCrunch` [Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
+- `TechCrunch` [Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
 > Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.
 - `TechCrunch` [FTC gives Musk the OK to acquire SpaceX alumni startup Mesh](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/)
 > Mesh came out of stealth in February with a $50 million Series A.
@@ -150,14 +159,18 @@ Points: 82
 > General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.
 - `TechCrunch` [OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/)
 > “We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global...
-- `TechCrunch` [OpenAI poaches Uber India chief to lead its biggest market outside the US](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/)
-> The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.
-- `TechCrunch` [Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/)
-> Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom infere...
-- `TechCrunch` [Russian hackers were behind $2.5B hack of Jaguar Land Rover: Report](https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/)
-> The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years.
-- `TechCrunch` [Tesla settles FSD crash lawsuit as federal investigations continue](https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/)
-> The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.
+- `The Verge` [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler)
+> Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selecta...
+- `The Verge` [Margaret Atwood says the problem with AI is ‘garbage in, garbage out’](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)
+> Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at thes...
+- `The Verge` [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt)
+> Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over t...
+- `The Verge` [The Guardian’s Kai Wright refuses to buy a new phone](https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire)
+> Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The Un...
+- `The Verge` [Indie developers got tired of waiting for a new Star Fox, so they’re making their own](https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games)
+> Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering "cocky little freaks!" in time with a monkey ...
+- `The Verge` [Why is Apple asking me to pay more for Big Tech’s AI obsession?](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)
+> Tim Cook recently said price increases were "unavoidable" and described the company's pricing as "unsustainable." The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from...
 - `The Verge` [Inside the room where the smart home industry is still betting on Matter](https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability)
 > Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry'...
 - `The Verge` [This puzzle game’s simple premise hides surprising depth](https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android)
@@ -166,18 +179,6 @@ Points: 82
 > Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the o...
 - `The Verge` [Prime Day is almost over, but these are still the best Apple deals I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
 > Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Appl...
-- `The Verge` [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four)
-> We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, he...
-- `The Verge` [24 Prime Day deals Verge readers are grabbing before Prime Day ends](https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers)
-> There are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we’ve already tested and can stand behind. But our recommendation...
-- `The Verge` [The 17 best robot vacuum deals you can still get before Prime Day ends](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)
-> If you’ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We’re now on the final day of Prime...
-- `The Verge` [Anthropic’s Mythos 5 is back](https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations)
-> After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of org...
-- `The Verge` [Prime Day’s final hours bring rare discounts on Philips Hue smart lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale)
-> Philips Hue products don’t often see major discounts, which makes this year’s Prime Day deals especially notable. Prices have dropped significantly across much of the company’s sm...
-- `The Verge` [My favorite Govee smart lamps are at their lowest prices ever for Prime Day](https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale)
-> We’ve already rounded up the best Philips Hue deals of Prime Day, but if you’re looking for something a little more budget-friendly, Govee’s latest sale is worth checking out. The...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
