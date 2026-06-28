@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-06-28
 
-> 自动收集于 2026-06-28 04:22 | 共 50 条
+> 自动收集于 2026-06-28 13:08 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -69,6 +69,8 @@
   6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。
   
   关于中科闻歌深度报道，可查看此前报道—...
+- `少数派` [兜兜转转四款笔记软件，我终于为思考找到了安身之所](https://sspai.com/post/110935)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼](https://sspai.com/post/111347)
 > 在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/111562)
@@ -87,58 +89,58 @@
 > 《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记， ...查看全文
 - `少数派` [把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验](https://sspai.com/post/111483)
 > 手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...查看全文
-- `少数派` [风暖鸟声碎，日高花影重：我的昆明与腾冲行记](https://sspai.com/post/111349)
-> 云南气候实在是太好了，昆明海拔将近两千，每次出门都有一种凉爽感包裹全身。而腾冲太适合旅居了，既有中高端的酒店可供享受奢靡之风，也有历史文化供我们反思来时的路，更好的去面对未来，还有拿上衣服就可以随地大小泡的温泉，美哉！查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html)
-> Article URL: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html
-Comments URL: https://news.ycombinator.com/item?id=48703968
-Points: 30
-# Comments: 6
+- `Hacker News` [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)
+> Article URL: https://github.com/openai/codex/issues/2847
+Comments URL: https://news.ycombinator.com/item?id=48706714
+Points: 5
+# Comments: 2
+- `Hacker News` [Kids act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
+> Article URL: https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online
+Comments URL: https://news.ycombinator.com/item?id=48706560
+Points: 12
+# Comments: 5
+- `Hacker News` [More evidence of life on Mars but still no life (2025)](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
+> Article URL: https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645
+Comments URL: https://news.ycombinator.com/item?id=48706554
+Points: 17
+# Comments: 9
+- `Hacker News` [DLL that was not present in memory despite not being formally unloaded](https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467)
+> Article URL: https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467
+Comments URL: https://news.ycombinator.com/item?id=48705910
+Points: 35
+# Comments: 5
+- `Hacker News` [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
+> Article URL: https://github.com/cfenollosa/bashblog
+Comments URL: https://news.ycombinator.com/item?id=48704454
+Points: 70
+# Comments: 44
+- `Hacker News` [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
+> Article URL: https://github.com/itsthelore/wayfinder-router
+Comments URL: https://news.ycombinator.com/item?id=48704373
+Points: 83
+# Comments: 34
 - `Hacker News` [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
 > Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep
 Comments URL: https://news.ycombinator.com/item?id=48703759
-Points: 69
-# Comments: 11
-- `Hacker News` [Feds Killed Polestar and Spared Volvo. That Should Terrify You](https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you)
-> Article URL: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you
-Comments URL: https://news.ycombinator.com/item?id=48703613
-Points: 52
-# Comments: 30
-- `Hacker News` [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
+Points: 296
+# Comments: 78
+- `Hacker News` [The best response to AI slop and online noise is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
 > Article URL: https://jayacunzo.com/blog/your-move-chief
 Comments URL: https://news.ycombinator.com/item?id=48703452
-Points: 99
-# Comments: 58
+Points: 289
+# Comments: 154
+- `Hacker News` [Turning music into a chore is how I became a musician (2022)](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/)
+> Article URL: https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/
+Comments URL: https://news.ycombinator.com/item?id=48703418
+Points: 56
+# Comments: 19
 - `Hacker News` [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
 > Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey wit...
-- `Hacker News` [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
-> Article URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md
-Comments URL: https://news.ycombinator.com/item?id=48703258
-Points: 67
-# Comments: 4
-- `Hacker News` [WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups](https://clickhouse.com/blog/walrus-postgres-backups-in-rust)
-> Article URL: https://clickhouse.com/blog/walrus-postgres-backups-in-rust
-Comments URL: https://news.ycombinator.com/item?id=48702848
-Points: 23
-# Comments: 1
-- `Hacker News` [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html)
-> Article URL: https://evilbit.de/dns-resolver-guide.html
-Comments URL: https://news.ycombinator.com/item?id=48702273
-Points: 94
-# Comments: 28
-- `Hacker News` [Michigan spent $1.8B and only created 602 jobs](https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu)
-> Article URL: https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu
-Comments URL: https://news.ycombinator.com/item?id=48702060
-Points: 145
-# Comme...
-- `Hacker News` [What Ozempic does to the gut-brain axis](https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis)
-> Article URL: https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis
-Comments URL: https://news.ycombinator.com/item?id=48701984
-Points: 111
-# Comment...
+- `TechCrunch` [Indian payments chief thinks AI will be heavily involved in next era of digital payment growth](https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/)
+> Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model
 - `TechCrunch` [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/)
 > Instagram users could soon see more ways to tune their content.
 - `TechCrunch` [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
@@ -157,8 +159,12 @@ Points: 111
 > Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.
 - `TechCrunch` [Novak Djokovic has a new job —  advisor to private equity firm General Atlantic](https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/)
 > General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.
-- `TechCrunch` [OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/)
-> “We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global...
+- `The Verge` [Nest’s quest to fix your thermostat](https://www.theverge.com/podcast/958735/nest-thermostat-version-history)
+> The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then ride...
+- `The Verge` [Ad-free streaming is a luxury now](https://www.theverge.com/column/958379/streaming-industry-ads)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscriber...
+- `The Verge` [TMD’s keyless bike lock is a $280 solution to a $60 problem](https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review)
+> I've seen lots of so-called "smart" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's ...
 - `The Verge` [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler)
 > Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selecta...
 - `The Verge` [Margaret Atwood says the problem with AI is ‘garbage in, garbage out’](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)
@@ -173,12 +179,6 @@ Points: 111
 > Tim Cook recently said price increases were "unavoidable" and described the company's pricing as "unsustainable." The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from...
 - `The Verge` [Inside the room where the smart home industry is still betting on Matter](https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability)
 > Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry'...
-- `The Verge` [This puzzle game’s simple premise hides surprising depth](https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android)
-> What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited cons...
-- `The Verge` [This might be the new best smart speaker](https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer)
-> Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the o...
-- `The Verge` [Prime Day is almost over, but these are still the best Apple deals I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
-> Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Appl...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
