@@ -6,10 +6,46 @@
 
 # 📰 每日科技日报 — 2026-06-29
 
-> 自动收集于 2026-06-29 04:41 | 共 50 条
+> 自动收集于 2026-06-29 15:24 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [烧光5000亿后，京东方开始给股民赚钱](https://36kr.com/p/3874045136720899?f=rss)
+> 作者 | 范亮
+  编辑 | 张帆
+  很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。
+  人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价为4.17元/股。二十多年过去，股价累计涨幅只有18%。...
+- `36氪` [氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”](https://36kr.com/p/3873626425332743?f=rss)
+> 大公司：
+  蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家
+  36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。
+  中国移动确认设立Token办...
+- `36氪` [自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线](https://36kr.com/p/3874015941645570?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于消费级陪伴产品，
+  一个不可忽视的事实是，在语音和视觉占据智能产品交互主流的今天，触觉作为人类出生后最先发育、最本能的感觉通道，在消费级智能硬件中的潜力尚未被充分释放。大多数智能设...
+- `36氪` [独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径](https://36kr.com/p/3873965241931014?f=rss)
+> “每一代模型，我们都在押注一个非共识。”
+  文｜邓咏仪
+  编辑｜张雨忻
+  Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。
+  Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故事也已经被讲过很多遍：在上一段创业“光年之外”戛然而止后，曹越很快就投入到 Sand.ai 的创业中，做视频生成模型。
+  彼时，市场的主流叙事是 Dif...
+- `36氪` [智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%](https://36kr.com/p/3873902389794053?f=rss)
+> 继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据，2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40%。
+  其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业样本。CGM学名称作“持续葡萄糖监测系统”，能够连续监测人体血糖变化，在“控糖”成为流行生活方式的当下，迅速走进普罗大众的生活。
+  2020年前，中国C...
+- `36氪` [36氪首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资](https://36kr.com/p/3873806295274756?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，广州宸思通讯科技有限公司（以下简称“宸思科技”）近日完成新一轮融资，由厦门高新投独家投资。本轮资金将主要用于核心技术研发和产品储备，加速数字相控阵芯片及模组产品的迭代升级。
+  宸思科技成立于2020年，总部位于广州黄埔区，聚焦数字相控阵芯片及模组研发，具备“芯片+模组+产品”的垂直整合能力，可为低...
+- `36氪` [被健康家电「背刺」后，这届年轻人更会买了](https://36kr.com/p/3873786445813001?f=rss)
+> 那些年，我们交过的“健康”智商税
+  马上就要撞到墙了。
+  王焱的大脑还没反应过来，身体已经感觉到了一股推背感。在试驾这辆主打“智能”与“安全”的新能源汽车时，他不小心把油门当成了刹车，一脚踩了下去，等他意识到的时候，车子正在像头野兽一般往前猛窜。
+  在极其危险的几秒里，王焱以为这款车在发布会上被吹上天的风险预警与瞬间干预能立刻奏效。然而，智驾系统一片死寂，没有任何警报声，更没有主动刹停...
 - `36氪` [36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元](https://36kr.com/p/3873710996902912?f=rss)
 > 作者 | 张子怡
   编辑 | 袁斯来
@@ -28,50 +64,10 @@
    鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。
   
   6...
-- `36氪` [36氪首发 | 「CAYE咖爷科技」完成近4亿元B轮融资，系商用全自动咖啡机赛道单笔最大规模融资](https://36kr.com/p/3872276297618436?f=rss)
-> 作者 | 钟艺璇
-  36氪获悉，商用全自动咖啡机品牌「CAYE咖爷科技」已完成近4亿元B轮融资，本轮融资由老股东美团龙珠领投，柏睿资本、高瓴创投、苏创投等机构联合跟投。这也是目前商用全自动咖啡机赛道规模最大的单笔融资。 
-  CAYE咖爷是36氪持续关注的公司，该公司成立于2022年12月，围绕自研 Bionic Barista 仿生咖啡师系统，CAYE咖爷对...
-- `36氪` [港大教授李弘扬创业做通用全身具身大脑，获真格高榕IDG五源等数亿种子轮融资｜硬氪独家](https://36kr.com/p/3868055841641476?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  硬氪独家获悉，通用全身具身大脑���司「源策未来Archon Robotics」近日完成数亿元种子轮融资，本轮投资方包括真格基金、高榕创投、IDG资本、五源资本等头部美元基金，以及戈壁创投与香港大学联名基金、奇绩创投、上海创智学院等。光源资本担任独家财务顾问。
-  本轮资金将主要用于全身人形基础模型研发、多模态全身动作数据采集、人才团队扩充，以及多地研发中心...
-- `36氪` [中国卖家涌向拉美：高增长与合规门槛齐升丨最前线](https://36kr.com/p/3873539789034501?f=rss)
-> 作者丨欧雪
-  编辑丨袁斯来
-  6月26日，亚马逊全球开店在杭州宣布推出“拉美速通计划”，计划在2026年内面向3000个具备长期投入意愿的中国品牌，提供巴西本土公司注册协助、墨西哥RFC税号解决方案、最高12000美元补贴及物流费用减免等支持，帮助卖家全面扎根拉美市场。
-  拉美正在成为跨境电商的新热土。据eMarketer数据，2025年拉美零售电商市场规模接近1900亿美元，增速是全...
-- `36氪` [8点1氪丨两大存储巨头今日发布大规模投资计划；江淮汽车股价腰斩，章建平9日套现近3亿元；Anthropic Fable 5有望很快恢复访问](https://36kr.com/p/3873476968272902?f=rss)
-> 今日热点导览
-  
-   《给阿嬷的情书》总票房已突破19亿元
-   梁文锋署名，DeepSeek发布最新论文
-   WPS回应C盘占用问题，即将更新七月版本上线磁盘存储管理功能
-   触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max
-   美国��管部门关闭针对特斯拉Model 3及Model Y转向失控调查
-  
-  TOP 3大新闻
-  韩国将于6月29日宣...
-- `36氪` [一折买 Miu Miu，谁在做奢侈品牌的"拼多多"？｜商业Friday](https://36kr.com/p/3867976058803459?f=rss)
-> 文｜贺哲馨
-  编辑｜乔芊
-  Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。提交申请后的第三天，她依旧没有收到邀请消息。“我还以为填完资料就能进去。”她说。
-  按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。
-  “有点像抽签，也...
-- `36氪` [秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完](https://36kr.com/p/3871109381035011?f=rss)
-> 本文约2500字，建议阅读5分钟
-  作者 | 彭孝秋
-  
-   编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
-   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。
-...
-- `36氪` [G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线](https://36kr.com/p/3869740772316162?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。
-  从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。
-  物流行业的AI化进程加速。据中国物流与采购联合会等机...
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/111697)
+> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [在格鲁吉亚的大地上：徒步篇](https://sspai.com/post/111369)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失](https://sspai.com/post/111462)
 > 越是优化的声音系统，越容易在某些类型的音乐上暴露疲劳感；而越是追求响度，也越容易在归一化之后原形毕露。查看全文
 - `少数派` [派早报：微软改口称 8GB 足够运行 Windows 11](https://sspai.com/post/111639)
@@ -88,57 +84,67 @@
 > 当夏天的热浪席卷城市，北方在烈日下承受着如烤箱般的双面炙烤，南方在骄阳下忍受着如蒸笼般的闷湿高温，能够每天陪伴我们的「降温好物」成为必需。又是一年盛夏时，我们邀请了6位少数派作者，聊聊那些真正融入日常 ...查看全文
 - `少数派` [林檎越东瀛：苹果的日本之旅](https://sspai.com/post/111297)
 > 当年「林檎渡东瀛」的试探，终演变成一场与亚洲产业命运相依的交响。查看全文
-- `少数派` [派早报：鸿蒙智行发布尊界 S800 Grand Design 典藏大观](https://sspai.com/post/111541)
-> Apple 调整产品价格，Figma 发布多项更新等。查看全文
-- `少数派` [新玩意 245｜少数派的编辑们最近买了啥？](https://sspai.com/post/111518)
-> 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
-> Article URL: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026
-Comments URL: https://news.ycombinator.com/item?id=48714529
-Points: 118
-# Comments: 24
-- `Hacker News` [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
-> Article URL: https://danunparsed.com/p/hackerrank-open-source-ats
-Comments URL: https://news.ycombinator.com/item?id=48713832
-Points: 5
+- `Hacker News` [WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
+> Article URL: https://humphri.es/blog/WATaBoy/
+Comments URL: https://news.ycombinator.com/item?id=48720190
+Points: 3
 # Comments: 0
-- `Hacker News` [You might not need a service worker](https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/)
-> Article URL: https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/
-Comments URL: https://news.ycombinator.com/item?id=48713453
-Points: 7
+- `Hacker News` [WebGL Without a GPU](https://microlink.io/blog/webgl-without-a-gpu)
+> Article URL: https://microlink.io/blog/webgl-without-a-gpu
+Comments URL: https://news.ycombinator.com/item?id=48720179
+Points: 4
 # Comments: 0
-- `Hacker News` [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)
-> Article URL: https://arxiv.org/abs/2401.07013
-Comments URL: https://news.ycombinator.com/item?id=48712420
-Points: 66
-# Comments: 13
-- `Hacker News` [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
-> Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime...
-- `Hacker News` [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
-> Hi everyone,I started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI   field in anthropic. The two interesting reasons that led me to cre...
-- `Hacker News` [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
-> Article URL: https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number
-Comments URL: https://news.ycombinator.com/item?id=48710775
-Points: 90
-# Comments: 48
-- `Hacker News` [Librepods: AirPods liberated](https://github.com/librepods-org/librepods)
-> Article URL: https://github.com/librepods-org/librepods
-Comments URL: https://news.ycombinator.com/item?id=48710232
-Points: 319
-# Comments: 101
-- `Hacker News` [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
-> Article URL: https://dam.stanford.edu/memory-prices.html
-Comments URL: https://news.ycombinator.com/item?id=48710092
-Points: 229
-# Comments: 85
-- `Hacker News` [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
-> Article URL: https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
-Comments URL: https://news.ycombinator.com/item?id=48709670
-Points: 596
-# Comments: 288
+- `Hacker News` [Data breach exposes up to 14.2M email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
+> Article URL: https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/
+Comments URL: https://news.ycombinator.com/item?id=48719712
+Points: 19
+# ...
+- `Hacker News` [A field guide to the modern front end for developers who hand-wrote HTML](https://davidpoblador.com/deep-dives/the-descent/)
+> Article URL: https://davidpoblador.com/deep-dives/the-descent/
+Comments URL: https://news.ycombinator.com/item?id=48719665
+Points: 41
+# Comments: 23
+- `Hacker News` [Mag 7 starting to underperform [pdf]](https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf)
+> Article URL: https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf
+Comments URL: https://news.ycombinator.com/item?id=48719532
+Points: 76
+# Comments: 35
+- `Hacker News` [RocketLab Acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)
+> Article URL: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully
+Comments URL: https://news.ycombinator.com/item?id=487194...
+- `Hacker News` [Instagram is incorporating users' photos in ads for Meta Glasses](https://twitter.com/i/status/2071277885646868536)
+> Article URL: https://twitter.com/i/status/2071277885646868536
+Comments URL: https://news.ycombinator.com/item?id=48719027
+Points: 97
+# Comments: 30
+- `Hacker News` [Building Principia for Windows XP](https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/)
+> Article URL: https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/
+Comments URL: https://news.ycombinator.com/item?id=48718995
+Points: 51
+# Comments: 8
+- `Hacker News` [Studio Canal Movies purchased on PlayStation Store removed without refund](https://www.playstation.com/en-gb/legal/psvideocontent/)
+> Article URL: https://www.playstation.com/en-gb/legal/psvideocontent/
+Comments URL: https://news.ycombinator.com/item?id=48718967
+Points: 63
+# Comments: 22
+- `Hacker News` [What happens when you run a CUDA kernel?](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/)
+> Article URL: https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/
+Comments URL: https://news.ycombinator.com/item?id=48718863
+Points: 47
+# Comments: 3
+- `TechCrunch` [Rocket Lab continues buying spree by acquiring satellite company Iridium](https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/)
+> The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX.
+- `TechCrunch` [Robot hand company settles Tesla trade secret suit and announces $11M raise](https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/)
+> The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.
+- `TechCrunch` [Pocket raises $11M in bet on rising demand for AI note-taking devices](https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/)
+> Pocket sells a $129 credit card-shaped puck, which sticks to the back of your phone, and promises unlimited recordings, transcriptions, and to-do items.
+- `TechCrunch` [Flipper Device’s new Busy Bar is a customizable display for productivity](https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/)
+> Flipper Device's new Busy Bar will retail for $249.
+- `TechCrunch` [Omen AI’s plan to optimize data centers is all wet](https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/)
+> Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.
 - `TechCrunch` [California law targeting loud streaming ads takes effect on July 1](https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/)
 > Streaming ads might be getting a lot quieter.
 - `TechCrunch` [Ford rehires ‘gray beard’ engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
@@ -149,36 +155,26 @@ Points: 596
 > Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
 - `TechCrunch` [Why Wall Street thinks US memory maker Micron is the next Nvidia](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/)
 > Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.
-- `TechCrunch` [Govee’s smart nugget ice maker makes every iced drink feel like a luxury](https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/)
-> For some people, the ice in a beverage is almost as important as the drink itself. That’s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Ma...
-- `TechCrunch` [Indian payments chief thinks AI will be heavily involved in next era of digital payment growth](https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/)
-> Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model
-- `TechCrunch` [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/)
-> Instagram users could soon see more ways to tune their content.
-- `TechCrunch` [SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)
-> Not everyone is buying Elon Musk’s vision for orbital data centers.
-- `TechCrunch` [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
-> Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.
+- `The Verge` [These camera-free smart glasses made me feel like Tony Stark](https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on)
+> Xgimi, the Chinese company known for its all-in-one smart projectors, is expanding its portfolio with a new line of screen-equipped smart glasses that first debuted at CES 2026. Unlike AR glasses f...
+- `The Verge` [Supreme Court allows firing of FTC commissioners, ends agency independence](https://www.theverge.com/policy/958974/supreme-court-slaughter-trump-decision-ftc-agency-independence)
+> The Supreme Court just placed once-independent agencies more firmly under presidential control. The court ruled in Slaughter v. Trump with a 6-3 vote that President Donald Trump had the authority t...
+- `The Verge` [Let him cook: How Weber Blackstone CEO Roger Dahle went from upstart to the biggest name in grilling](https://www.theverge.com/podcast/958790/weber-blackstone-ceo-roger-dahle-grilling-griddles-merger-outdoor-cooking)
+> It’s time for our annual Fourth of July grill episode here at Decoder. This is when we invite the CEOs of outdoor cooking companies onto the show to explain just how their businesses kind of look l...
+- `The Verge` [Rocket Lab is buying Iridium’s satellite network for $8 billion to take on SpaceX](https://www.theverge.com/science/958891/rocket-lab-iridium-acquisition-satellite-communications)
+> Rocket Lab, the space company best known for its small satellite launcher Electron, has announced plans to acquire Iridium Communications for $8 billion. The deal will combine Rocket Lab's launch s...
+- `The Verge` [The Flipper Zero creators’ Busy Bar productivity display will go on sale next month](https://www.theverge.com/tech/957784/flipper-devices-busy-bar-productivity-multitool-timer-led-display-presale)
+> First announced over a year ago in April 2025, the Busy Bar will be available for purchase starting on July 14th when the device also starts shipping. Created by the same team behind the Flipper Ze...
+- `The Verge` [How to end a TV show](https://www.theverge.com/entertainment/957707/from-season-4-finale-tv-show-endings)
+> Ending any story is hard, but that's especially true of mystery-packed TV shows. Series like Lost initially hook viewers with constantly building secrets and questions, to the point that they can o...
+- `The Verge` [Comcast is splitting in two](https://www.theverge.com/tech/958849/comcast-nbcuniversal-company-spinoff-announcement)
+> Comcast has announced plans to separate itself into two publicly traded companies, spinning off its NBCUniversal and Sky broadcasting arms. The shake up aims to protect the media conglomerate's pro...
+- `The Verge` [The war against ‘woke’ could end US science as we know it](https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research)
+> A sneaky rule change has the potential to blow up scientific research in the United States. But there's still time to fight it. On May 29th, the Office of Management and Budget (OMB) issued a 412-p...
 - `The Verge` [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity)
 > China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models f...
 - `The Verge` [Suno launches Spark incubator program to feed independent artists to its AI machine](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine)
 > Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artist...
-- `The Verge` [China claims the world’s fastest supercomputer](https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer)
-> Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking...
-- `The Verge` [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review)
-> I'm sure we're all familiar with Dark Crystal, so we know that Jim Henson can be weird and tackle slightly more mature subject matter. But there is little in his oeuvre that is quite as mind-bendin...
-- `The Verge` [Prosecutors used ChatGPT logs as evidence in the Palisades fire trial](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial)
-> Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to loc...
-- `The Verge` [Nest’s quest to fix your thermostat](https://www.theverge.com/podcast/958735/nest-thermostat-version-history)
-> The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then ride...
-- `The Verge` [Ad-free streaming is a luxury now](https://www.theverge.com/column/958379/streaming-industry-ads)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about the streaming industry, follow Emma Roth. The Stepback arrives in our subscriber...
-- `The Verge` [TMD’s keyless bike lock is a $280 solution to a $60 problem](https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review)
-> I've seen lots of so-called "smart" bike locks over the years, but none so far could justify the added cost. A newcomer that got its start securing ATMs for banks is trying to change that. There's ...
-- `The Verge` [Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler](https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler)
-> Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selecta...
-- `The Verge` [Margaret Atwood says the problem with AI is ‘garbage in, garbage out’](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)
-> Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at thes...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
