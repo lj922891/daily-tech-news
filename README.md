@@ -4,12 +4,55 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-28
+# 📰 每日科技日报 — 2026-06-29
 
-> 自动收集于 2026-06-28 13:08 | 共 50 条
+> 自动收集于 2026-06-29 04:41 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元](https://36kr.com/p/3873710996902912?f=rss)
+> 作者 | 张子怡
+  编辑 | 袁斯来
+  近日，AI可穿戴品牌AIVELA宣布完成数百万美元首轮融资。本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。
+  本轮融资将主要用于下一代AI可穿戴产品研发、健康数据与AI Agent能力建设、全球市场拓展以及核心团队扩张。AIVELA将以智能指环、智能手链等贴身可穿...
+- `36氪` [36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场](https://36kr.com/p/3873706225751296?f=rss)
+> 作者 | 张子怡
+  编辑 | 袁斯来
+  硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。
+  本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织...
+- `36氪` [秋声 | 海光芯正IPO背后，卖铲生意为何越做越亏？](https://36kr.com/p/3873681978840071?f=rss)
+> 本文约2500字，建议阅读5分钟
+  作者 | 彭孝秋
+  
+   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
+   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。
+  
+  6...
+- `36氪` [36氪首发 | 「CAYE咖爷科技」完成近4亿元B轮融资，系商用全自动咖啡机赛道单笔最大规模融资](https://36kr.com/p/3872276297618436?f=rss)
+> 作者 | 钟艺璇
+  36氪获悉，商用全自动咖啡机品牌「CAYE咖爷科技」已完成近4亿元B轮融资，本轮融资由老股东美团龙珠领投，柏睿资本、高瓴创投、苏创投等机构联合跟投。这也是目前商用全自动咖啡机赛道规模最大的单笔融资。 
+  CAYE咖爷是36氪持续关注的公司，该公司成立于2022年12月，围绕自研 Bionic Barista 仿生咖啡师系统，CAYE咖爷对...
+- `36氪` [港大教授李弘扬创业做通用全身具身大脑，获真格高榕IDG五源等数亿种子轮融资｜硬氪独家](https://36kr.com/p/3868055841641476?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  硬氪独家获悉，通用全身具身大脑���司「源策未来Archon Robotics」近日完成数亿元种子轮融资，本轮投资方包括真格基金、高榕创投、IDG资本、五源资本等头部美元基金，以及戈壁创投与香港大学联名基金、奇绩创投、上海创智学院等。光源资本担任独家财务顾问。
+  本轮资金将主要用于全身人形基础模型研发、多模态全身动作数据采集、人才团队扩充，以及多地研发中心...
+- `36氪` [中国卖家涌向拉美：高增长与合规门槛齐升丨最前线](https://36kr.com/p/3873539789034501?f=rss)
+> 作者丨欧雪
+  编辑丨袁斯来
+  6月26日，亚马逊全球开店在杭州宣布推出“拉美速通计划”，计划在2026年内面向3000个具备长期投入意愿的中国品牌，提供巴西本土公司注册协助、墨西哥RFC税号解决方案、最高12000美元补贴及物流费用减免等支持，帮助卖家全面扎根拉美市场。
+  拉美正在成为跨境电商的新热土。据eMarketer数据，2025年拉美零售电商市场规模接近1900亿美元，增速是全...
+- `36氪` [8点1氪丨两大存储巨头今日发布大规模投资计划；江淮汽车股价腰斩，章建平9日套现近3亿元；Anthropic Fable 5有望很快恢复访问](https://36kr.com/p/3873476968272902?f=rss)
+> 今日热点导览
+  
+   《给阿嬷的情书》总票房已突破19亿元
+   梁文锋署名，DeepSeek发布最新论文
+   WPS回应C盘占用问题，即将更新七月版本上线磁盘存储管理功能
+   触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max
+   美国��管部门关闭针对特斯拉Model 3及Model Y转向失控调查
+  
+  TOP 3大新闻
+  韩国将于6月29日宣...
 - `36氪` [一折买 Miu Miu，谁在做奢侈品牌的"拼多多"？｜商业Friday](https://36kr.com/p/3867976058803459?f=rss)
 > 文｜贺哲馨
   编辑｜乔芊
@@ -29,46 +72,10 @@
   6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。
   从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。
   物流行业的AI化进程加速。据中国物流与采购联合会等机...
-- `36氪` [9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元](https://36kr.com/p/3870720040588295?f=rss)
-> 今日热点导览
-  OpenAI官宣推出GPT-5.6
-  亚洲“果链”股价几乎全线大幅下跌
-  SpaceX计划为美国消费者推出新的星链移动服务
-  美团股价低迷，王兴回应
-  小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人
-  微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹
-  TOP3大新闻
-  苹果涨价引山姆代购潮，部分门店已卖断货
-  近日，社交媒体上多名网友反馈，多...
-- `36氪` [理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底](https://36kr.com/p/3866946087867394?f=rss)
-> 图源视觉中国
-  动力电池一直是新能源汽车里高频博弈的战场。
-  它通常占据一辆新能源车30%-40%的BOM（物料）成本；与此同时，作为电车心脏，又直接决定续航、补能效率、安全性和寿命等核心体验，是少数能够同时影响产品力与成本结构的零部件。
-  这意味着，围绕动力电池的博弈在车企与供应商之间，甚至电池产业内部从未间断。过去几年，无论是特斯拉、比亚迪、吉利，还是国内头部新势力，都相继走向电池...
-- `36氪` [追赶FSD V14，理想在补哪些课？｜最前线](https://36kr.com/p/3870292939658242?f=rss)
-> 过去几年，智能驾驶行业的竞争重心经历了几次明显变化。
-  最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。
-  到了今天，越来越多公司发现，仅仅拥有更大的模型已经不足以形成代际优势，真正决定上限的，开始变成模型、数据、算力和芯片之间...
-- `36氪` [氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍](https://36kr.com/p/3869884559332356?f=rss)
-> 大公司：
-  五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长
-  36氪获悉，五粮液公告，因曾从钦无法正常履职，公司于2026年6月26日召开2025年度股东会，审议通过《关于免去董事及补选第七届董事会非独立董事的议案》，自本次股东会审议通过之日起，曾从钦不再担任公司董事职务，其担任的董事长、董事会专门委员会主任委员及委员职务一并自动解除（原定任期至公司第七届董事会日期届满之日即202...
-- `36氪` [《走进AIE》，谁是下一个主角](https://36kr.com/p/3869838577620231?f=rss)
-> 一展两地，链接全球    AIE 电子展成为龙头企业的必选舞台
-  全球智能制造产业加速演进，粤港澳大湾区正成为打造世界级科技展会的核心阵地。2026全球智能制造与电子产品博览会（AIE）依托大湾区完备的产业生态，致力于打造中国智能制造首发平台。
-  技术创新的源头既来自产业一线的龙头力量，也来自科研院所的前沿探索，更来自真实场景中的实战检验。为此，AIE 组委会联合南方...
-- `36氪` [对话张亚勤：AI不是泡沫，但AI公司有泡沫](https://36kr.com/p/3866837793952769?f=rss)
-> 文 | 海若镜
-  访谈 | 海若镜 巴芮
-  6月盛夏，在清华无锡研究院智能产业创新中心，我们见到了张亚勤院士。他匆匆赶来，一进门，就建议让室内温度降得更低些。
-  访谈中，聊起当下具身智能、AI投资创业热潮，张亚勤也觉得应该降降温，“更冷静些，不要急躁”。
-  五年前，张亚勤创建了清华大学智能产业研究院（以下简称AIR)，聚集了多位有AI产业经验的知名教授。据介绍，如今AIR的第一届博士...
-- `36氪` [中科闻歌开盘暴涨81%，北京再增一家硬科技IPO](https://36kr.com/p/3869622921041156?f=rss)
-> 本文约900字，建议阅读2分钟
-  作者 | 彭孝秋
-  6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。
-  
-  关于中科闻歌深度报道，可查看此前报道—...
+- `少数派` [让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失](https://sspai.com/post/111462)
+> 越是优化的声音系统，越容易在某些类型的音乐上暴露疲劳感；而越是追求响度，也越容易在归一化之后原形毕露。查看全文
+- `少数派` [派早报：微软改口称 8GB 足够运行 Windows 11](https://sspai.com/post/111639)
+> 微软改口称 8GB 足够运行 Windows 11OpenAI 发布 GPT 5.6，称需美国政府批准提供对象Notion Mail 宣布关闭央视报道网络测评乱象苹果、奥迪前员工推出豪华电瓶车俄罗斯主流应用被苹果下架，克宫呼吁改用 Android看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [兜兜转转四款笔记软件，我终于为思考找到了安身之所](https://sspai.com/post/110935)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼](https://sspai.com/post/111347)
@@ -85,60 +92,65 @@
 > Apple 调整产品价格，Figma 发布多项更新等。查看全文
 - `少数派` [新玩意 245｜少数派的编辑们最近买了啥？](https://sspai.com/post/111518)
 > 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：GoogleSta ...查看全文
-- `少数派` [给记忆一个归处：我为什么开始使用 Apple 手记](https://sspai.com/post/111421)
-> 《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并不是为了写日记， ...查看全文
-- `少数派` [把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验](https://sspai.com/post/111483)
-> 手机主屏幕的个性化，如今越发受到重视。遍观各大手机操作系统的更新，几乎都会提到主屏幕装扮方式的增加——从壁纸、时钟再到图标、挂件，几乎没有哪个角落是不能按自己喜好调整的。对比之下，手机背面反而成为了「 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)
-> Article URL: https://github.com/openai/codex/issues/2847
-Comments URL: https://news.ycombinator.com/item?id=48706714
+- `Hacker News` [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
+> Article URL: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026
+Comments URL: https://news.ycombinator.com/item?id=48714529
+Points: 118
+# Comments: 24
+- `Hacker News` [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
+> Article URL: https://danunparsed.com/p/hackerrank-open-source-ats
+Comments URL: https://news.ycombinator.com/item?id=48713832
 Points: 5
-# Comments: 2
-- `Hacker News` [Kids act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
-> Article URL: https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online
-Comments URL: https://news.ycombinator.com/item?id=48706560
-Points: 12
-# Comments: 5
-- `Hacker News` [More evidence of life on Mars but still no life (2025)](https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645)
-> Article URL: https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645
-Comments URL: https://news.ycombinator.com/item?id=48706554
-Points: 17
-# Comments: 9
-- `Hacker News` [DLL that was not present in memory despite not being formally unloaded](https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467)
-> Article URL: https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467
-Comments URL: https://news.ycombinator.com/item?id=48705910
-Points: 35
-# Comments: 5
-- `Hacker News` [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
-> Article URL: https://github.com/cfenollosa/bashblog
-Comments URL: https://news.ycombinator.com/item?id=48704454
-Points: 70
-# Comments: 44
-- `Hacker News` [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
-> Article URL: https://github.com/itsthelore/wayfinder-router
-Comments URL: https://news.ycombinator.com/item?id=48704373
-Points: 83
-# Comments: 34
-- `Hacker News` [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
-> Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep
-Comments URL: https://news.ycombinator.com/item?id=48703759
-Points: 296
-# Comments: 78
-- `Hacker News` [The best response to AI slop and online noise is from Robin Williams](https://jayacunzo.com/blog/your-move-chief)
-> Article URL: https://jayacunzo.com/blog/your-move-chief
-Comments URL: https://news.ycombinator.com/item?id=48703452
-Points: 289
-# Comments: 154
-- `Hacker News` [Turning music into a chore is how I became a musician (2022)](https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/)
-> Article URL: https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/
-Comments URL: https://news.ycombinator.com/item?id=48703418
-Points: 56
-# Comments: 19
-- `Hacker News` [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
-> Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey wit...
+# Comments: 0
+- `Hacker News` [You might not need a service worker](https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/)
+> Article URL: https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/
+Comments URL: https://news.ycombinator.com/item?id=48713453
+Points: 7
+# Comments: 0
+- `Hacker News` [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013)
+> Article URL: https://arxiv.org/abs/2401.07013
+Comments URL: https://news.ycombinator.com/item?id=48712420
+Points: 66
+# Comments: 13
+- `Hacker News` [Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](https://github.com/kamaludu/bash4llm/)
+> Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime...
+- `Hacker News` [Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch](https://github.com/JustVugg/nanoeuler)
+> Hi everyone,I started working on nanoeuler after the ban of anthropic's fable because my ambition and dream is to work in the AI   field in anthropic. The two interesting reasons that led me to cre...
+- `Hacker News` [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number)
+> Article URL: https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number
+Comments URL: https://news.ycombinator.com/item?id=48710775
+Points: 90
+# Comments: 48
+- `Hacker News` [Librepods: AirPods liberated](https://github.com/librepods-org/librepods)
+> Article URL: https://github.com/librepods-org/librepods
+Comments URL: https://news.ycombinator.com/item?id=48710232
+Points: 319
+# Comments: 101
+- `Hacker News` [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
+> Article URL: https://dam.stanford.edu/memory-prices.html
+Comments URL: https://news.ycombinator.com/item?id=48710092
+Points: 229
+# Comments: 85
+- `Hacker News` [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
+> Article URL: https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
+Comments URL: https://news.ycombinator.com/item?id=48709670
+Points: 596
+# Comments: 288
+- `TechCrunch` [California law targeting loud streaming ads takes effect on July 1](https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/)
+> Streaming ads might be getting a lot quieter.
+- `TechCrunch` [Ford rehires ‘gray beard’ engineers after AI falls short](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/)
+> "Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”
+- `TechCrunch` [Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience](https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/)
+> Has Silicon Valley been building the wrong things?
+- `TechCrunch` [TechCrunch Mobility: All eyes on Tesla FSD](https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
+- `TechCrunch` [Why Wall Street thinks US memory maker Micron is the next Nvidia](https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/)
+> Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.
+- `TechCrunch` [Govee’s smart nugget ice maker makes every iced drink feel like a luxury](https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/)
+> For some people, the ice in a beverage is almost as important as the drink itself. That’s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Ma...
 - `TechCrunch` [Indian payments chief thinks AI will be heavily involved in next era of digital payment growth](https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/)
 > Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model
 - `TechCrunch` [Instagram is testing more ways to customize ‘Your Algorithm’](https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/)
@@ -147,18 +159,16 @@ Points: 56
 > Not everyone is buying Elon Musk’s vision for orbital data centers.
 - `TechCrunch` [Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)
 > Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.
-- `TechCrunch` [The fittest founder in the room got cancer. Here’s how he used AI to fight back.](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/)
-> When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.
-- `TechCrunch` [Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)
-> New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
-- `TechCrunch` [Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)
-> Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.
-- `TechCrunch` [FTC gives Musk the OK to acquire SpaceX alumni startup Mesh](https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/)
-> Mesh came out of stealth in February with a $50 million Series A.
-- `TechCrunch` [Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source ...](https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/)
-> Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.
-- `TechCrunch` [Novak Djokovic has a new job —  advisor to private equity firm General Atlantic](https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/)
-> General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.
+- `The Verge` [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity)
+> China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models f...
+- `The Verge` [Suno launches Spark incubator program to feed independent artists to its AI machine](https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine)
+> Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artist...
+- `The Verge` [China claims the world’s fastest supercomputer](https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer)
+> Despite trade restrictions, China has reclaimed the title of the world's fastest supercomputer for the first time since 2018. LineShine has pushed El Capitan out of number one on the TOP500 ranking...
+- `The Verge` [The Cube is Jim Henson’s little-known proto-Black Mirror masterpiece](https://www.theverge.com/entertainment/958757/jim-henson-the-cube-black-mirror-tv-movie-review)
+> I'm sure we're all familiar with Dark Crystal, so we know that Jim Henson can be weird and tackle slightly more mature subject matter. But there is little in his oeuvre that is quite as mind-bendin...
+- `The Verge` [Prosecutors used ChatGPT logs as evidence in the Palisades fire trial](https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial)
+> Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to loc...
 - `The Verge` [Nest’s quest to fix your thermostat](https://www.theverge.com/podcast/958735/nest-thermostat-version-history)
 > The founding story of Nest is pretty much a perfect tech myth. A legendary product maker (in this case, Tony Fadell) helps create one of the most successful products ever (the iPhone) and then ride...
 - `The Verge` [Ad-free streaming is a luxury now](https://www.theverge.com/column/958379/streaming-industry-ads)
@@ -169,16 +179,6 @@ Points: 56
 > Teenage Engineering has already issued multiple substantial updates for its surprisingly capable $329 EP-133 KO II sampler. Its latest is one of the biggest yet. OS 2.5 adds audio over USB, selecta...
 - `The Verge` [Margaret Atwood says the problem with AI is ‘garbage in, garbage out’](https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out)
 > Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at thes...
-- `The Verge` [Apple wants permission to buy memory from a blacklisted Chinese supplier](https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt)
-> Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over t...
-- `The Verge` [The Guardian’s Kai Wright refuses to buy a new phone](https://www.theverge.com/report/958695/kai-wright-npr-guardian-interview-questionnaire)
-> Kai Wright is the co-host of Stateside with Kai and Carter over at the Guardian. But Wright has been bringing his unique insights to listeners for years. He's also hosted Notes From America, The Un...
-- `The Verge` [Indie developers got tired of waiting for a new Star Fox, so they’re making their own](https://www.theverge.com/entertainment/957679/indie-developers-star-fox-games)
-> Nostalgia remains a powerful force. So much so that, in exploring the echoes of a late-'90s childhood spent skimming the water of Corneria and sneering "cocky little freaks!" in time with a monkey ...
-- `The Verge` [Why is Apple asking me to pay more for Big Tech’s AI obsession?](https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech)
-> Tim Cook recently said price increases were "unavoidable" and described the company's pricing as "unsustainable." The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from...
-- `The Verge` [Inside the room where the smart home industry is still betting on Matter](https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability)
-> Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry'...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
