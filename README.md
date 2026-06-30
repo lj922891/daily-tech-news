@@ -6,10 +6,18 @@
 
 # 📰 每日科技日报 — 2026-06-30
 
-> 自动收集于 2026-06-30 04:08 | 共 50 条
+> 自动收集于 2026-06-30 13:49 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系](https://36kr.com/p/3873626697470985?f=rss)
+> 大公司：
+  保时捷中国回应取消多门店销售授权
+  近日，有媒体报道称，安徽芜湖、山东济宁、江苏淮安及广西南宁部分保时捷中心，将于6月30日终止经销业务，这意味着上述门店将失去保时捷官方独立销售授权，此事引起广泛关注。6月30日，保时捷中国向记者表示，山东济宁、江苏淮安、广西南宁兴宁保时捷中心将于6月30日终止经销业务，安徽芜湖保时捷中心将于7月31日终止销售业务，但售后仍正常运营，为车主提...
+- `36氪` [科氪 | 小尺寸大满足！全球首款水冷RGB平板发布，185HzOLED屏幕+PC模拟器平板秒变台式主机](https://36kr.com/p/3875513946206216?f=rss)
+> 2025年6月30日，继红魔电竞平板 3 Pro 开创OLED 小平板赛道后，红魔再度突破技术边界，正式发布红魔游戏平板 5 Pro。作为行业首款搭载主动水冷散热+RGB 可视化水冷灯效的游戏平板，红魔游戏平板 5 Pro以「水冷散热、透明美学、跨端 3A、全能 AI 生产力」四大核心革新，实现小尺寸机身、PC级散热、极致电竞视效、全场景多设备融合，重新定义游戏平板的性能与体验上限。
+  
+...
 - `36氪` [成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发](https://36kr.com/p/3875120747942913?f=rss)
 > 文 | 阿至
   光谱定量遥感赛道跑出一匹黑马。
@@ -23,14 +31,6 @@
   编辑 | 袁斯来
   硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。
   纽娲机器人（下称“纽娲”）成立于2026年2月，半年不到的时间已先后获得多家财务、产业基金投资。创始人杨睿刚博士，...
-- `36氪` [36氪官方福利来袭！15秒体验股市情报工具，免费抽取定制周边好礼~](https://36kr.com/p/3873992162382849?f=rss)
-> 官方免费抽奖来袭，15秒体验即可参与领周边
-  无门槛，所有微信用户都能参与，纯粹是36氪给各位投资者的专属福利。
-  只需打开微信，扫描下方识别小程序码进入36氪企业全情报，浏览15秒资讯后任意订阅一家企业，就能参与免费抽奖，多款36氪官方定制实用周边随机送出，中奖机会人人有。
-  
-  扫描二维码参与抽奖！
-  本次活动丰厚奖品清单：
-  🏆一等奖：36氪专属跪地外星人摆件，精致金属质感...
 - `36氪` [8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元](https://36kr.com/p/3874911939482880?f=rss)
 > 今日热点导览
   
@@ -65,10 +65,10 @@
   Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。
   Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故事也已经被讲过很多遍：在上一段创业“光年之外”戛然而止后，曹越很快就投入到 Sand.ai 的创业中，做视频生成模型。
   彼时，市场的主流叙事是 Dif...
-- `36氪` [智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%](https://36kr.com/p/3873902389794053?f=rss)
-> 继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据，2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40%。
-  其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业样本。CGM学名称作“持续葡萄糖监测系统”，能够连续监测人体血糖变化，在“控糖”成为流行生活方式的当下，迅速走进普罗大众的生活。
-  2020年前，中国C...
+- `少数派` [社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机](https://sspai.com/post/111744)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [「弯道超车」赛车入门指北：从周五到周日，F1 车队在忙什么？](https://sspai.com/post/111084)
+> 理解了这条线，再打开下一场比赛，赛程表就不再只是一堆缩写。查看全文
 - `少数派` [100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机](https://sspai.com/post/111706)
 > 前言创业不易，硬件创业更难，尤其是AI硬件创业更是难上加难。难也意味着门槛。在滚滚而来的AI大势之下，门内的景色金光闪闪，首先要做的是迈过这个门槛。准确地说，我的硬件项目正式研发到投产经历了108天。 ...查看全文
 - `少数派` [派早报：DeepSeek V4 正式版 7 月中旬上线等](https://sspai.com/post/111707)
@@ -85,62 +85,61 @@
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼](https://sspai.com/post/111347)
 > 在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。查看全文
-- `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/111562)
-> 📅本周新预告《克拉拉与太阳》首支预告6月23日，电影《克拉拉与太阳》发布了首支预告，将于10月23日在北美上映。塔伊加·维迪提执导，詹娜·奥尔特加、艾米·亚当斯主演，改编自石黑一雄的同名小说，人工智能 ...查看全文
-- `少数派` [探索快捷指令的上限：用网页视图创建丰富界面与交互](https://sspai.com/prime/story/create-webview-in-shortcuts)
-> 从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
+- `Hacker News` [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds](https://www.gutenberg.org/ebooks/24518)
+> Article URL: https://www.gutenberg.org/ebooks/24518
+Comments URL: https://news.ycombinator.com/item?id=48731989
+Points: 15
+# Comments: 2
+- `Hacker News` [Parse, Don't Validate – In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
+> Article URL: https://cekrem.github.io/posts/parse-dont-validate-typescript/
+Comments URL: https://news.ycombinator.com/item?id=48730818
+Points: 61
+# Comments: 45
+- `Hacker News` [European digital ID wallets rely on safety services of Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)
+> Article URL: https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/
+Comments URL: https://news.ycombinator.com/item?id=48730729
+Points: 393
+# Comments: 167
+- `Hacker News` [Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)](https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/)
+> Article URL: https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/
+Comments URL: https://news.ycombinator.com/item?id=48730713
+Points: 22
+# Comments: 1
+- `Hacker News` [Exercise intensity influences body composition in healthy older adults (2025)](https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext)
+> Article URL: https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext
+Comments URL: https://news.ycombinator.com/item?id=48730694
+Points: 83
+# Comments: 68
+- `Hacker News` [The US ambassador had Belgian police stop our reporting](https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting)
+> Article URL: https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting
+Comments URL: https://news.ycombinator.com/item?id=48730608
+Points: 316
+# Comments: 119
+- `Hacker News` [Antares Achieves Criticality of Mark-0 Reactor](https://antaresindustries.com/updates/antares-achieves-criticality)
+> Article URL: https://antaresindustries.com/updates/antares-achieves-criticality
+Comments URL: https://news.ycombinator.com/item?id=48730246
+Points: 54
+# Comments: 51
 - `Hacker News` [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html)
 > Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html
 Comments URL: https://news.ycombinator.com/item?id=48727323
-Points: 27
-# Comments: 14
-- `Hacker News` [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches)
+Points: 91
+# Comments: 23
+- `Hacker News` [Memory Safe Context Switching](https://fil-c.org/context_switches)
 > Article URL: https://fil-c.org/context_switches
 Comments URL: https://news.ycombinator.com/item?id=48727177
-Points: 50
-# Comments: 19
+Points: 161
+# Comments: 25
 - `Hacker News` [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)
 > Article URL: https://longcat.chat/blog/longcat-2.0/
 Comments URL: https://news.ycombinator.com/item?id=48727116
-Points: 47
-# Comments: 12
-- `Hacker News` [Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso](https://github.com/SMJAI/open-memory-protocol)
-> Article URL: https://github.com/SMJAI/open-memory-protocol
-Comments URL: https://news.ycombinator.com/item?id=48726966
-Points: 16
-# Comments: 5
-- `Hacker News` [South Korea to spend $1T on more memory chip production and humanoid robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/)
-> Article URL: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
-Comments URL: https://news.ycombinator.com/item?id=48726102
-Points: 163
-#...
-- `Hacker News` [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html)
-> Article URL: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html
-Comments URL: https://news.ycombinator.com/item?id=48726073
-Points: 79
-# Comments: 32
-- `Hacker News` [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
-> Article URL: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/
-Comments URL: https://news.ycombinator.com/item?id=48724230
-Points:...
-- `Hacker News` [Micro-Agent: Beat Frontier Models with Collaboration Inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
-> Article URL: https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models
-Comments URL: https://news.ycombinator.com/item?id=48722802
-Points: 61
-# Comments: 19
-- `Hacker News` [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
-> Article URL: https://github.com/deepreinforce-ai/Ornith-1
-Comments URL: https://news.ycombinator.com/item?id=48722052
-Points: 172
-# Comments: 32
-- `Hacker News` [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
-> Article URL: https://quesma.com/blog/qwen-36-is-awesome/
-Comments URL: https://news.ycombinator.com/item?id=48721903
-Points: 694
-# Comments: 542
+Points: 196
+# Comments: 51
+- `TechCrunch` [Crypto exchange OKX wants AI agents to hire and pay each other](https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/)
+> OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.
 - `TechCrunch` [The AI jobs debate just got messier](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/)
 > A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.
 - `TechCrunch` [Vibe coding platform Base44 launches own model as AI startups seek defensibility](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/)
@@ -159,15 +158,19 @@ Points: 694
 > The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.
 - `TechCrunch` [Arena, the AI leaderboard everyone uses, is now a $100M business](https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/)
 > The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.
-- `TechCrunch` [Cursor now has a mobile app for guiding your coding agent on the go](https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/)
-> Cursor has launched a new mobile app for remote oversight over coding agents.
+- `The Verge` [Meet the lawyer who beat Elon Musk — twice](https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter)
+> Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a...
+- `The Verge` [This motor could be the future of e-bikes](https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt)
+> Imagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill ge...
+- `The Verge` [Our best look yet at Samsung’s new wide foldable](https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks)
+> Samsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android ...
 - `The Verge` [T-Mobile is booting customers from its oldest plans](https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint)
 > Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to ...
 - `The Verge` [After a great start, DC’s new cinematic universe is already slowing down](https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop)
 > While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubi...
 - `The Verge` [Leaked iPhone 18 Pro photos reportedly wound up on the dark web](https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web)
 > Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a dro...
-- `The Verge` [Tidal won’t pay royalties on AI-generated music but isn’t banning it outright](https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label)
+- `The Verge` [Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright](https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label)
 > Tidal shared its new policies regarding AI-generated music today and how the platform plans to "protect artists" and "inform listeners." Instead of banning it outright, starting on July 15th Tidal ...
 - `The Verge` [Sony’s next-gen PlayStation will go ‘beyond the living room’](https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room)
 > Sony hinted in a recent Q&A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room. Here's the relevant port...
@@ -175,12 +178,6 @@ Points: 694
 > OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, along...
 - `The Verge` [At $499, Apple’s M3-powered iPad Air is a good deal](https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale)
 > Most of Apple’s price increases have gone into effect, resulting in iPads and other products costing hundreds more than they did a few days ago. If last week’s Prime Day sale wasn’t a g...
-- `The Verge` [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale)
-> July 4th sales are typically a precursor to what we’d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week’s big Prime Day sale is over, yet the...
-- `The Verge` [WhatsApp is launching usernames: here’s how to reserve yours](https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability)
-> WhatsApp is introducing a new way to add and chat with contacts, without having to share your phone number. Usernames will launch "later this year," in a move to make the communications platform "e...
-- `The Verge` [Lawmakers want to ban AI companies from selling your health data](https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon)
-> A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, S...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
