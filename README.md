@@ -4,12 +4,41 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-06-30
+# 📰 每日科技日报 — 2026-07-01
 
-> 自动收集于 2026-06-30 13:49 | 共 50 条
+> 自动收集于 2026-07-01 04:24 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [告别硬件出海上一个十年，前安克CMO做了款AI时代的Memory产品｜硬氪专访](https://36kr.com/p/3867992509125636?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  2024年，当王时远从工作了9年的安克辞职时，他发现自己面对的是一个全新的世界。
+  王时远亲历了硬件出海的黄金十年，是国内最早搭建海外营销体系、建立规则的那批人。他2015年加入安克，先做海外，后做国内，从安克CMO到转任中国区总裁，最多的时候带了四五百人的团队。
+  2025年，从安克离开创业时，出海硬件创业已经有一套成熟的流程：打样、上众筹、以众筹成绩...
+- `36氪` [苏大教授创业做机器人触觉系统，获松禾资本千万级天使轮融资｜硬氪首发](https://36kr.com/p/3874358072710407?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，感知纪元科技有限公司（以下简称“感知纪元”）近日完成千万级天使轮融资，本轮由松禾资本领衔投资。融资资金将主要用于中试产线搭建、核心产品迭代升级及团队扩充，加速推进多模态智能触觉电子皮肤从研发走向量产。
+  感知纪元成立于2025年12月，感知纪元定位于机器人触觉基础设施提供商，通过自研多模态电子皮肤、触觉感知硬件及AI算法，为机器人提供完整的触觉系...
+- `36氪` [赤子城独家投资：4人创业团队「MobAI」，推出AI互动平台「Lunaverse Stories」 | 36氪首发](https://36kr.com/p/3875622047805447?f=rss)
+> 文丨刘士武
+  36氪获悉，AI 创业公司「MobAI」已完成数百万元天使轮融资，由港股上市公司赤子城科技独家投资。目前，由MobAI开发的AI互动叙事应用Lunaverse Stories 已进入邀请制测试阶段。 
+  熟悉AI互动类产品的人应该对MobAI并不陌生。 
+  一年前，MobAI创始人钟文鼎（Vito）当时还在一家头部VC上班，工作之余和联创共同开发一款叫...
+- `36氪` [8点1氪丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光](https://36kr.com/p/3876318522077442?f=rss)
+> 今日热点导览
+  
+   客服回应蔚来APP发生大面积闪退
+   字节跳动：2026年一季度80名员工因触碰红线被辞退
+   兆易创新提示风险：未来可能存在股价快速回落风险
+   董明珠：出口没做好，接下来加快改进
+   现货黄金价格再度跌破4000美元，距1月高点已回落近30%
+   优必选全尺寸超仿生机器人售价公布
+  
+  TOP 3大新闻
+  “史上最严电池安全令”正式施行
+  7月...
 - `36氪` [氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系](https://36kr.com/p/3873626697470985?f=rss)
 > 大公司：
   保时捷中国回应取消多门店销售授权
@@ -43,28 +72,10 @@
   TOP 3大新闻
   涉嫌操纵内存价格，三星、SK海力士、美光遭集体诉讼
   随着全球内存短缺危机加剧，美国...
-- `36氪` [烧光5000亿后，京东方开始给股民赚钱](https://36kr.com/p/3874045136720899?f=rss)
-> 作者 | 范亮
-  编辑 | 张帆
-  很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。
-  人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价为4.17元/股。二十多年过去，股价累计涨幅只有18%。...
-- `36氪` [氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”](https://36kr.com/p/3873626425332743?f=rss)
-> 大公司：
-  蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家
-  36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。
-  中国移动确认设立Token办...
-- `36氪` [自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线](https://36kr.com/p/3874015941645570?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于消费级陪伴产品，
-  一个不可忽视的事实是，在语音和视觉占据智能产品交互主流的今天，触觉作为人类出生后最先发育、最本能的感觉通道，在消费级智能硬件中的潜力尚未被充分释放。大多数智能设...
-- `36氪` [独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径](https://36kr.com/p/3873965241931014?f=rss)
-> “每一代模型，我们都在押注一个非共识。”
-  文｜邓咏仪
-  编辑｜张雨忻
-  Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。
-  Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故事也已经被讲过很多遍：在上一段创业“光年之外”戛然而止后，曹越很快就投入到 Sand.ai 的创业中，做视频生成模型。
-  彼时，市场的主流叙事是 Dif...
+- `少数派` [年度报告不够看？微信读书 Skill 上手体验](https://sspai.com/post/109932)
+> 人对自己或许会偶尔不诚实，但你的书架是很诚实的。查看全文
+- `少数派` [派早报：Google 推出 Eclipsa Video 视频标准等](https://sspai.com/post/111773)
+> Anthropic 发布 Claude Sonnet 5 和 Claude Science，Google 发布 Nano Banana 2 Lite 和 Gemini Omni Flash 等。查看全文
 - `少数派` [社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机](https://sspai.com/post/111744)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [「弯道超车」赛车入门指北：从周五到周日，F1 车队在忙什么？](https://sspai.com/post/111084)
@@ -81,103 +92,101 @@
 > 越是优化的声音系统，越容易在某些类型的音乐上暴露疲劳感；而越是追求响度，也越容易在归一化之后原形毕露。查看全文
 - `少数派` [派早报：微软改口称 8GB 足够运行 Windows 11](https://sspai.com/post/111639)
 > 微软改口称 8GB 足够运行 Windows 11OpenAI 发布 GPT 5.6，称需美国政府批准提供对象Notion Mail 宣布关闭央视报道网络测评乱象苹果、奥迪前员工推出豪华电瓶车俄罗斯主流应用被苹果下架，克宫呼吁改用 Android看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [兜兜转转四款笔记软件，我终于为思考找到了安身之所](https://sspai.com/post/110935)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼](https://sspai.com/post/111347)
-> 在莫斯科的时代折叠与彼得堡的文化巡礼之间，发现俄罗斯的不同面貌。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds](https://www.gutenberg.org/ebooks/24518)
-> Article URL: https://www.gutenberg.org/ebooks/24518
-Comments URL: https://news.ycombinator.com/item?id=48731989
-Points: 15
-# Comments: 2
-- `Hacker News` [Parse, Don't Validate – In a Language That Doesn't Want You To](https://cekrem.github.io/posts/parse-dont-validate-typescript/)
-> Article URL: https://cekrem.github.io/posts/parse-dont-validate-typescript/
-Comments URL: https://news.ycombinator.com/item?id=48730818
-Points: 61
-# Comments: 45
-- `Hacker News` [European digital ID wallets rely on safety services of Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)
-> Article URL: https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/
-Comments URL: https://news.ycombinator.com/item?id=48730729
-Points: 393
-# Comments: 167
-- `Hacker News` [Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)](https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/)
-> Article URL: https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/
-Comments URL: https://news.ycombinator.com/item?id=48730713
-Points: 22
-# Comments: 1
-- `Hacker News` [Exercise intensity influences body composition in healthy older adults (2025)](https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext)
-> Article URL: https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext
-Comments URL: https://news.ycombinator.com/item?id=48730694
-Points: 83
+- `Hacker News` [Supersonic flight returning to US after half-century ban](https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/)
+> https://www.faa.gov/newsroom/trumps-transportation-secretary...
+
+Comments URL: https://news.ycombinator.com/item?id=48741654
+Points: 29
+# Comments: 16
+- `Hacker News` [Americans see their country's past, present and future](https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future)
+> Article URL: https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future
+Comments URL: https://news.ycombinator.com/item?id=48741360
+Points: 9
+# Com...
+- `Hacker News` [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
+> Article URL: https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens
+Comments URL: https://news.ycombinator.com/item?id=48741359
+Points: 32
+# Comments: 4
+- `Hacker News` [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
+> Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341
+Comments URL: https://news.ycombinator.com/item?id=48740771
+Points: 409
+# Comments: 196
+- `Hacker News` [Google copybara: moving code between repositories](https://github.com/google/copybara)
+> Article URL: https://github.com/google/copybara
+Comments URL: https://news.ycombinator.com/item?id=48740698
+Points: 117
+# Comments: 17
+- `Hacker News` [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
+> Article URL: https://hatari.frama.io/hatari/online/hatari.html
+Comments URL: https://news.ycombinator.com/item?id=48740135
+Points: 44
+# Comments: 4
+- `Hacker News` [TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
+> Article URL: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/
+Comments URL: https://news.ycombinator.com/item?id=48739919
+Points: 53
+# Comments: 6
+- `Hacker News` [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
+> Article URL: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1
+Comments URL: https://news.ycombinator.com/item?id=48739466
+Points: 125
 # Comments: 68
-- `Hacker News` [The US ambassador had Belgian police stop our reporting](https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting)
-> Article URL: https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting
-Comments URL: https://news.ycombinator.com/item?id=48730608
-Points: 316
-# Comments: 119
-- `Hacker News` [Antares Achieves Criticality of Mark-0 Reactor](https://antaresindustries.com/updates/antares-achieves-criticality)
-> Article URL: https://antaresindustries.com/updates/antares-achieves-criticality
-Comments URL: https://news.ycombinator.com/item?id=48730246
-Points: 54
-# Comments: 51
-- `Hacker News` [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html)
-> Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html
-Comments URL: https://news.ycombinator.com/item?id=48727323
-Points: 91
-# Comments: 23
-- `Hacker News` [Memory Safe Context Switching](https://fil-c.org/context_switches)
-> Article URL: https://fil-c.org/context_switches
-Comments URL: https://news.ycombinator.com/item?id=48727177
-Points: 161
-# Comments: 25
-- `Hacker News` [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)
-> Article URL: https://longcat.chat/blog/longcat-2.0/
-Comments URL: https://news.ycombinator.com/item?id=48727116
-Points: 196
-# Comments: 51
-- `TechCrunch` [Crypto exchange OKX wants AI agents to hire and pay each other](https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/)
-> OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.
-- `TechCrunch` [The AI jobs debate just got messier](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/)
-> A new report finds "high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.
-- `TechCrunch` [Vibe coding platform Base44 launches own model as AI startups seek defensibility](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/)
-> Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.
-- `TechCrunch` [Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role](https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/)
-> VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.
-- `TechCrunch` [Gemini’s personalized AI image generation is now free for US users](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/)
-> Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.
-- `TechCrunch` [Watch out, Amazon: The Kobo eReader now has a Goodreads rival](https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/)
-> Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.
-- `TechCrunch` [Waymo and Uber quietly part ways in Phoenix](https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/)
-> Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner.
-- `TechCrunch` [Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price](https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/)
-> As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.
-- `TechCrunch` [South Korean tech giants commit over $550B to ease ‘RAMageddon’](https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/)
-> The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.
-- `TechCrunch` [Arena, the AI leaderboard everyone uses, is now a $100M business](https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/)
-> The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.
-- `The Verge` [Meet the lawyer who beat Elon Musk — twice](https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter)
-> Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a...
-- `The Verge` [This motor could be the future of e-bikes](https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt)
-> Imagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill ge...
-- `The Verge` [Our best look yet at Samsung’s new wide foldable](https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks)
-> Samsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android ...
-- `The Verge` [T-Mobile is booting customers from its oldest plans](https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint)
-> Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to ...
-- `The Verge` [After a great start, DC’s new cinematic universe is already slowing down](https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop)
-> While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubi...
-- `The Verge` [Leaked iPhone 18 Pro photos reportedly wound up on the dark web](https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web)
-> Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a dro...
-- `The Verge` [Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright](https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label)
-> Tidal shared its new policies regarding AI-generated music today and how the platform plans to "protect artists" and "inform listeners." Instead of banning it outright, starting on July 15th Tidal ...
-- `The Verge` [Sony’s next-gen PlayStation will go ‘beyond the living room’](https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room)
-> Sony hinted in a recent Q&A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room. Here's the relevant port...
-- `The Verge` [OpenAI is teasing new hardware… for Codex](https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder)
-> OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, along...
-- `The Verge` [At $499, Apple’s M3-powered iPad Air is a good deal](https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale)
-> Most of Apple’s price increases have gone into effect, resulting in iPads and other products costing hundreds more than they did a few days ago. If last week’s Prime Day sale wasn’t a g...
+- `Hacker News` [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
+> https://github.com/ngrok/weberneteshttps://webernetes-demo.ngrok.app/
+
+Comments URL: https://news.ycombinator.com/item?id=48738985
+Points: 195
+# Comments: 65
+- `Hacker News` [Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06)
+> Article URL: https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06
+Comments URL: https://news.ycombinator.com/item?id=48738938
+Points: 127
+# Comments: 30
+- `TechCrunch` [The “Father of the Internet” is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
+> Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.
+- `TechCrunch` [Trump drops restrictions on Anthropic’s Mythos and Fable models](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/)
+> Anthropic said it would begin restoring access to the Fable on July 1.
+- `TechCrunch` [Wayve launches $85M employee tender offer at $8.5B valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/)
+> Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.
+- `TechCrunch` [Startup Battlefield Australia application closes in days: Apply before July 6](https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/)
+> What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.
+- `TechCrunch` [OpenClaw is finally available on Android and iOS](https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/)
+> The free open source agentic program is finally invading your phone.
+- `TechCrunch` [The DeepMind trio who built a poker AI are now making money for quant hedge funds](https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/)
+> EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.
+- `TechCrunch` [Realta Fusion generates electricity directly from a fusion reaction, an apparent first](https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/)
+> “We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.
+- `TechCrunch` [Google introduces a faster, cheaper image generator with Nano Banana 2 Lite](https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/)
+> Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.
+- `TechCrunch` [Clicks shows off its BlackBerry-inspired phone in a new hands-on video](https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/)
+> A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.
+- `TechCrunch` [Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip](https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/)
+> Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.
+- `The Verge` [Meta is adding ridiculous ‘rate limits’ and a soft paywall to its smart glasses](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit)
+> Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will s...
+- `The Verge` [Anthropic’s long-sidelined Fable 5 is greenlit to return](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back)
+> After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring acces...
+- `The Verge` [Dish files for bankruptcy, but not shutting down](https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy)
+> Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy," as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down i...
+- `The Verge` [Amazon fined $2.25 million for failing to help identity theft victims](https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine)
+> The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its compla...
+- `The Verge` [Acer’s Swift Go 16 is a lot of laptop for $900](https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale)
+> As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go...
+- `The Verge` [Google’s NotebookLM can sum up your research in a TikTok-style clip](https://www.theverge.com/tech/959778/google-notebooklm-ai-clips)
+> Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-...
+- `The Verge` [LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever](https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale)
+> The price of LG’s UltraGear 27GX700A-B 1440p gaming monitor that came out last August has dropped to nearly its best price yet. You can grab it at Amazon for $484.99 or at LG for $499.99 (originall...
+- `The Verge` [007 First Light’s developer lays off staff but claims its next franchise will continue](https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs)
+> IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an "external partner" on its next big franchise, Project Fan...
+- `The Verge` [Moto’s Tag 2 tracker is $20 for a limited time](https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale)
+> Announced at CES 2026, the Moto Tag 2 has finally arrived in the US. The Bluetooth tracker with improved battery life over its predecessor, plus UWB sensing for more accurate tracking, is available...
+- `The Verge` [Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show](https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder)
+> A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on f...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
