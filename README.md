@@ -6,72 +6,58 @@
 
 # 📰 每日科技日报 — 2026-07-01
 
-> 自动收集于 2026-07-01 04:24 | 共 50 条
+> 自动收集于 2026-07-01 14:00 | 共 50 条
 
 ## 🇨🇳 中文科技
 
-- `36氪` [告别硬件出海上一个十年，前安克CMO做了款AI时代的Memory产品｜硬氪专访](https://36kr.com/p/3867992509125636?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  2024年，当王时远从工作了9年的安克辞职时，他发现自己面对的是一个全新的世界。
-  王时远亲历了硬件出海的黄金十年，是国内最早搭建海外营销体系、建立规则的那批人。他2015年加入安克，先做海外，后做国内，从安克CMO到转任中国区总裁，最多的时候带了四五百人的团队。
-  2025年，从安克离开创业时，出海硬件创业已经有一套成熟的流程：打样、上众筹、以众筹成绩...
-- `36氪` [苏大教授创业做机器人触觉系统，获松禾资本千万级天使轮融资｜硬氪首发](https://36kr.com/p/3874358072710407?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  硬氪获悉，感知纪元科技有限公司（以下简称“感知纪元”）近日完成千万级天使轮融资，本轮由松禾资本领衔投资。融资资金将主要用于中试产线搭建、核心产品迭代升级及团队扩充，加速推进多模态智能触觉电子皮肤从研发走向量产。
-  感知纪元成立于2025年12月，感知纪元定位于机器人触觉基础设施提供商，通过自研多模态电子皮肤、触觉感知硬件及AI算法，为机器人提供完整的触觉系...
-- `36氪` [赤子城独家投资：4人创业团队「MobAI」，推出AI互动平台「Lunaverse Stories」 | 36氪首发](https://36kr.com/p/3875622047805447?f=rss)
-> 文丨刘士武
-  36氪获悉，AI 创业公司「MobAI」已完成数百万元天使轮融资，由港股上市公司赤子城科技独家投资。目前，由MobAI开发的AI互动叙事应用Lunaverse Stories 已进入邀请制测试阶段。 
-  熟悉AI互动类产品的人应该对MobAI并不陌生。 
-  一年前，MobAI创始人钟文鼎（Vito）当时还在一家头部VC上班，工作之余和联创共同开发一款叫...
-- `36氪` [8点1氪丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光](https://36kr.com/p/3876318522077442?f=rss)
-> 今日热点导览
-  
-   客服回应蔚来APP发生大面积闪退
-   字节跳动：2026年一季度80名员工因触碰红线被辞退
-   兆易创新提示风险：未来可能存在股价快速回落风险
-   董明珠：出口没做好，接下来加快改进
-   现货黄金价格再度跌破4000美元，距1月高点已回落近30%
-   优必选全尺寸超仿生机器人售价公布
-  
-  TOP 3大新闻
-  “史上最严电池安全令”正式施行
-  7月...
-- `36氪` [氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系](https://36kr.com/p/3873626697470985?f=rss)
-> 大公司：
-  保时捷中国回应取消多门店销售授权
-  近日，有媒体报道称，安徽芜湖、山东济宁、江苏淮安及广西南宁部分保时捷中心，将于6月30日终止经销业务，这意味着上述门店将失去保时捷官方独立销售授权，此事引起广泛关注。6月30日，保时捷中国向记者表示，山东济宁、江苏淮安、广西南宁兴宁保时捷中心将于6月30日终止经销业务，安徽芜湖保时捷中心将于7月31日终止销售业务，但售后仍正常运营，为车主提...
-- `36氪` [科氪 | 小尺寸大满足！全球首款水冷RGB平板发布，185HzOLED屏幕+PC模拟器平板秒变台式主机](https://36kr.com/p/3875513946206216?f=rss)
-> 2025年6月30日，继红魔电竞平板 3 Pro 开创OLED 小平板赛道后，红魔再度突破技术边界，正式发布红魔游戏平板 5 Pro。作为行业首款搭载主动水冷散热+RGB 可视化水冷灯效的游戏平板，红魔游戏平板 5 Pro以「水冷散热、透明美学、跨端 3A、全能 AI 生产力」四大核心革新，实现小尺寸机身、PC级散热、极致电竞视效、全场景多设备融合，重新定义游戏平板的性能与体验上限。
-  
+- `36氪` [独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签](https://36kr.com/p/3877109751803904?f=rss)
+> 文｜周鑫雨
+  编辑｜张雨忻
+  《长安的荔枝》，是 97 年清华博导李一鸣很喜欢的故事。
+  故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。
+  这个设定在唐朝的故事，在李一鸣眼中，却与当下的“世界模型”赛道，形成了巧妙的互文：
+  Physical AI（物理AI）的场景、解决的问题，...
+- `36氪` [硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资](https://36kr.com/p/3877060559433984?f=rss)
+> 硬氪获悉，近期，航墨科技完成由中投万方、三贤科技、北航天汇、诚美资本、三合投资、常州金控的近亿元天使轮投资，德太资本担任长期战略融资顾问，此次融资主要用来产品研发和市场推广。
+  航墨科技成立于2022年，是一家专注于智能变刚度关节技术及消费级智能外骨骼的研发落地的高科技公司，核心技术来源于北京航空航天大学机器人所重点研发计划项目。
+  公司创始人代万辉是北航机器人所硕士、清华大学MBA，曾...
+- `36氪` [硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈](https://36kr.com/p/3877057215393793?f=rss)
+> 硬氪获悉，硅基光子企业「灵动芯光」正式宣布完成数千万元天使++轮融资，本轮融资由磐霖资本领投、同方投资与深天使合作的子基金汇泽天诚跟投。
+  此次募集的资金将全部聚焦于芯片间光互联核心技术研发与产品落地，重点推进 SmartComb多波长密波光源的产品化及SmartPHY光I/O小芯粒的研发工作。
+  灵动芯光成立于2022年，是一家致力于硅基光子集成芯片设计与应用的高技术公司，主要面向物联...
+- `36氪` [硬氪首发 | 全球首款近视老花智能变焦眼镜企业融资数千万，韶音、高秉强押注](https://36kr.com/p/3877054691930118?f=rss)
+> 硬氪获悉，智能眼镜企业「众见科技」已完成数千万元三轮融资，投资方为韶音、高秉强教授旗下高锋耐心基金、昊辰资本、SEEFund、上市公司光峰科技、高秉强教授个人等，此次融资主要用于研发推进，目前初代产品已完成落地。奇域资本将担任独家财务顾问。
+  众见科技成立于2023年，是一家从事先进光学技术及智能眼镜产品研发的科技创新企业，针对视光需求，致力于帮助用户解决相关问题。
+  创始人赵鹏是26届...
+- `36氪` [硬氪前线 | 东昇聚变获数亿元融资，国内唯一布局“氘-氦3”路线核聚变企业](https://36kr.com/p/3877051217047816?f=rss)
+> 硬氪获悉，核聚变企业东昇聚变近日完成新一轮数亿元融资，由CMC资本旗下华文清能基金及多个一线市场化基金及产业资本等联合领投。
+  东昇聚变成立于2025年7月，总部位于上海，致力于发展以“氘-氦3”为燃料的强磁场紧凑型聚变电站技术。公司集结大批国内聚变产业资深工程与科研骨干全职加盟，核心团队均具备十年以上聚变大装置研发及工程落地从业积淀。同时，公司汇聚众多国际高端科研人才，吸纳来自全球顶尖高...
+- `36氪` [宠物科技品牌宠爱友家，既要做AI硬件也要做食品｜涌现新栏目](https://36kr.com/p/3827530174862208?f=rss)
+> 文｜梁键强
+  编辑｜王毓婵
+  一句话介绍
+  宠爱友家核心产品包括AI鲜食料理机、AI智能项圈、AI伴宠机器人，以及猫砂盆、饮水机、喂食器等智能用品，致力于用AI连接宠物喂养、健康监测和陪伴多场景。
+  公司围绕智能硬件、功能性食品和营销服务三大业务布局，试图打造宠物健康管理与科学喂养解决方案。
+  团队介绍
+  宠爱友家负责人曹勇，目前全面负责宠爱友家整体运营管理。其拥有5年宠物赛道创...
+- `36氪` [硬氪首发 | 牛津博士创业抗衰老药物，Monolith领投，同步研究宠物药和人药](https://36kr.com/p/3877047915475200?f=rss)
+> 硬氪获悉，AI抗衰药物研发公司「无尽方舟」已完成数千万元种子轮融资，Monolith领投，九合创投跟投。此次融资将主要用于加速核心药物的工程化生产与猫狗临床验证，并同时推进H2P跨物种平台及干湿结合药物研发平台两大AI系统的建设。
+  无尽方舟成立于2026年5月，切入的是一个在长寿产业中足够前沿、但验证路径更短的方向：先在犬、猫等宠物身上建立衰老干预药效模型，再反向推动人类抗衰药物管线。
 ...
-- `36氪` [成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发](https://36kr.com/p/3875120747942913?f=rss)
-> 文 | 阿至
-  光谱定量遥感赛道跑出一匹黑马。
-  36氪未来产业独家获悉，光学载荷与微纳卫星系统解决方案提供商上海谱星航天科技有限公司（下简称“谱星航天”）已于近期连续完成天使+、Pre-A两轮融资，累计规模为数亿元。
-  Pre-A轮由国泰海通、尚融资本、司南基金联合领投，徐汇资本、联融志道、金浦投资跟投，老股东联想控股、鼎农科技、普华资本追投。天使+轮投资方为联想...
-- `36氪` [万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法](https://36kr.com/p/3875047283659777?f=rss)
-> 过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。 
-  年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VL...
-- `36氪` [36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”](https://36kr.com/p/3875059110221064?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。
-  纽娲机器人（下称“纽娲”）成立于2026年2月，半年不到的时间已先后获得多家财务、产业基金投资。创始人杨睿刚博士，...
-- `36氪` [8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元](https://36kr.com/p/3874911939482880?f=rss)
-> 今日热点导览
-  
-   马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus
-   美的回应空调产品在欧洲被疯抢
-   蔚来回应车漆洗车时被冲掉：高压水枪操作不规范
-   滚石唱片就屠颖去世追责万豪喜来登
-   百度昆仑芯拟赴港IPO
-  
-  TOP 3大新闻
-  涉嫌操纵内存价格，三星、SK海力士、美光遭集体诉讼
-  随着全球内存短缺危机加剧，美国...
+- `36氪` [AI尽头的终极能源之战：核聚变、百亿估值神话与投资狂潮](https://36kr.com/p/3877043321237504?f=rss)
+> 今年夏天，作为一家基金的投资人，你难保不会接到老板的狠话：2026，必须下注一家核聚变企业！
+  可惜他们手里的TS，大概率递不出去。一个2025年刚成立的核聚变企业，起初估值5亿，关完一轮涨到30亿，几个月之后可以再涨两三倍。公司创始人是业界大佬，普通投资人根本见不到本人，最多和其他机构一起拼桌见见CFO。这位CFO私下告诉硬氪，TA入行时觉得3年能做到100亿估值，没想到半年就快完成这一...
+- `36氪` [硬氪首发 | 全尺寸全重量国内率先首飞，北航系全倾转eVTOL企业再获数千万融资](https://36kr.com/p/3877039462150409?f=rss)
+> 硬氪获悉，eVTOL企业蜻蜓翼行近日完成Pre-A轮数千万元融资，资方为梅花创投。此次融资金额主要用于研发队伍的扩充、样机研制和适航取证。在此之前，已获得普华资本和祥峰投资两轮领投。
+  蜻蜓翼行成立于2024年8月，是一家聚焦未来空中立体交通赛道，以全倾转构型eVTOL 飞行器为核心业务的航空科技企业，创始团队在2010年就开始倾转路线研发，至今已有16年，是国内少有的具备全倾转构型设计能...
+- `36氪` [硬氪首发 | 前存储上市公司老将带队做AI超算设备，年营收已达数千万](https://36kr.com/p/3877035735740673?f=rss)
+> 硬氪获悉，算力基础设施企业华弘数科近日完成数千万Pre-A轮融资，领投方为吴中金控，此次融资将主要用来发展AI应用和算力落地的生态建设、工厂产能的进一步扩大和基地的建设与推进。
+  华弘数科成立于2021年，总部位于北京，后迁至苏州，专注全液冷边端侧超级计算机研发，是跨界全液冷散热与IT算力的一体化平台。
+  其创始人罗华曾任同有科技（300302）董事兼副总经理，是前10大股东，曾在同有科...
+- `少数派` [声擎×少数派｜「角落新声」征文活动](https://sspai.com/post/111709)
+> 那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文
+- `少数派` [[送码] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发](https://sspai.com/post/111640)
+> 2017年6月21日，白描App按下了发布键。那时的它还很简单，甚至有些单薄：拍下一张图片，识别里面的文字，再复制出来。它最初想解决的，也只是一个非常具体、非常日常的小烦恼：帮女朋友把读书笔记从照片里 ...查看全文
 - `少数派` [年度报告不够看？微信读书 Skill 上手体验](https://sspai.com/post/109932)
 > 人对自己或许会偶尔不诚实，但你的书架是很诚实的。查看全文
 - `少数派` [派早报：Google 推出 Eclipsa Video 视频标准等](https://sspai.com/post/111773)
@@ -88,69 +74,62 @@
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [在格鲁吉亚的大地上：徒步篇](https://sspai.com/post/111369)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失](https://sspai.com/post/111462)
-> 越是优化的声音系统，越容易在某些类型的音乐上暴露疲劳感；而越是追求响度，也越容易在归一化之后原形毕露。查看全文
-- `少数派` [派早报：微软改口称 8GB 足够运行 Windows 11](https://sspai.com/post/111639)
-> 微软改口称 8GB 足够运行 Windows 11OpenAI 发布 GPT 5.6，称需美国政府批准提供对象Notion Mail 宣布关闭央视报道网络测评乱象苹果、奥迪前员工推出豪华电瓶车俄罗斯主流应用被苹果下架，克宫呼吁改用 Android看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Supersonic flight returning to US after half-century ban](https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/)
-> https://www.faa.gov/newsroom/trumps-transportation-secretary...
-
-Comments URL: https://news.ycombinator.com/item?id=48741654
-Points: 29
-# Comments: 16
-- `Hacker News` [Americans see their country's past, present and future](https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future)
-> Article URL: https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future
-Comments URL: https://news.ycombinator.com/item?id=48741360
-Points: 9
-# Com...
-- `Hacker News` [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens)
-> Article URL: https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens
-Comments URL: https://news.ycombinator.com/item?id=48741359
-Points: 32
-# Comments: 4
-- `Hacker News` [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)
-> Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341
-Comments URL: https://news.ycombinator.com/item?id=48740771
-Points: 409
-# Comments: 196
-- `Hacker News` [Google copybara: moving code between repositories](https://github.com/google/copybara)
-> Article URL: https://github.com/google/copybara
-Comments URL: https://news.ycombinator.com/item?id=48740698
-Points: 117
-# Comments: 17
-- `Hacker News` [Hatari – Online Atari ST/STE/TT/Falcon Emulator](https://hatari.frama.io/hatari/online/hatari.html)
-> Article URL: https://hatari.frama.io/hatari/online/hatari.html
-Comments URL: https://news.ycombinator.com/item?id=48740135
-Points: 44
-# Comments: 4
-- `Hacker News` [TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
-> Article URL: https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/
-Comments URL: https://news.ycombinator.com/item?id=48739919
-Points: 53
-# Comments: 6
-- `Hacker News` [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1)
-> Article URL: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1
-Comments URL: https://news.ycombinator.com/item?id=48739466
-Points: 125
-# Comments: 68
-- `Hacker News` [I ported Kubernetes to the browser](https://ngrok.com/blog/i-ported-kubernetes-to-the-browser)
-> https://github.com/ngrok/weberneteshttps://webernetes-demo.ngrok.app/
-
-Comments URL: https://news.ycombinator.com/item?id=48738985
-Points: 195
-# Comments: 65
-- `Hacker News` [Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06)
-> Article URL: https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06
-Comments URL: https://news.ycombinator.com/item?id=48738938
-Points: 127
-# Comments: 30
-- `TechCrunch` [The “Father of the Internet” is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
+- `Hacker News` [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
+> Hi all, it’s Greg and Max, founders of Parsewise hereParsewise transforms a bucket of unstructured data into schema compliant data retaining lineage for values resolved across documents.
+Imagine gi...
+- `Hacker News` [Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
+> Article URL: https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html
+Comments URL: https://news.ycombinator.com/item?id=48746445
+Points: 79
+# Comments: 50
+- `Hacker News` [What's wrong with EU age verification? (Nothing)](https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/)
+> Article URL: https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/
+Comments URL: https://news.ycombinator.com/item?id=48746404
+Points: 8
+# Comments: 0
+- `Hacker News` [Manufact (YC S25) Is Hiring a Developer Advocate in SF](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel)
+> Article URL: https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel
+Comments URL: https://news.ycombinator.com/item?id=48746331
+Points: 0
+# Comments: 0
+- `Hacker News` [Sony will no longer produce discs for PlayStation games starting in January 2028](https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028)
+> Article URL: https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028
+Comments URL: https://news.ycombinator.com/item?id=48745785
+Points: 46
+# Comments: 33
+- `Hacker News` [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/)
+> Article URL: https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/
+Comments URL: https://news.ycombinator.com/item...
+- `Hacker News` [Nintendo has raised its employees base salary by 10%](https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/)
+> Article URL: https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/
+Comments URL: https://news.ycombinator.com/item?id=48745113
+Points: 151
+# Comments: 45
+- `Hacker News` [Swedish court says Google is to pay $1.5B to Klarna in antitrust damages](https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/)
+> Article URL: https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/
+Comments URL: https://news.ycombinator.com/item?id=48745061
+Points: 78...
+- `Hacker News` [The Internet I Grew Up with Doesn't Exist Anymore](https://cleberg.net/blog/internet.html)
+> Article URL: https://cleberg.net/blog/internet.html
+Comments URL: https://news.ycombinator.com/item?id=48744655
+Points: 147
+# Comments: 124
+- `Hacker News` [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)
+> Article URL: https://asahilinux.org/2026/06/progress-report-7-1/
+Comments URL: https://news.ycombinator.com/item?id=48744518
+Points: 319
+# Comments: 80
+- `TechCrunch` [Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026](https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/)
+> The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build ...
+- `TechCrunch` [Meta, like SpaceX, looks to turn excess AI compute into cash](https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/)
+> Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google C...
+- `TechCrunch` [The ‘Father of the Internet’ is finally retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 > Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.
 - `TechCrunch` [Trump drops restrictions on Anthropic’s Mythos and Fable models](https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/)
-> Anthropic said it would begin restoring access to the Fable on July 1.
+> The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.
 - `TechCrunch` [Wayve launches $85M employee tender offer at $8.5B valuation](https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/)
 > Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.
 - `TechCrunch` [Startup Battlefield Australia application closes in days: Apply before July 6](https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/)
@@ -163,30 +142,26 @@ Points: 127
 > “We can take power from a plasma,” Kieran Furlong, co-founder and CEO of Realta Fusion, told TechCrunch. The milestone shows “what’s possible,” he added.
 - `TechCrunch` [Google introduces a faster, cheaper image generator with Nano Banana 2 Lite](https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/)
 > Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.
-- `TechCrunch` [Clicks shows off its BlackBerry-inspired phone in a new hands-on video](https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/)
-> A new video shows the final production version of the upcoming Clicks Communicator, a BlackBerry-like smartphone that runs modern apps.
-- `TechCrunch` [Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip](https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/)
-> Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.
+- `The Verge` [Sony is closing the PS3 and Vita digital stores](https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down)
+> It's the end of an era for the PlayStation store on PS3 and PS Vita, with Sony now planning to shut down its digital distribution service on both consoles. The PlayStation store on PS3 will close i...
+- `The Verge` [Sony is killing all physical PlayStation game discs](https://www.theverge.com/games/960160/sony-playstation-disc-production-ending)
+> Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games. From that point onwards, new releases will only be available in digital v...
+- `The Verge` [Google built a great smart speaker, but Gemini isn’t ready for it](https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home)
+> Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen co...
+- `The Verge` [Rhythm Heaven never misses a beat](https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch)
+> Rhythm Heaven isn't Nintendo's best-known series, nor its most prolific. Prior to the launch of Rhythm Heaven Groove on the Switch this week - it's out on July 2nd - there were only four previous e...
+- `The Verge` [Range anxiety](https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain)
+> The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of...
+- `The Verge` [The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed](https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on)
+> Dbrand is the company that shipped a product that told Nintendo's legal team to "go fuck yourself," and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to ...
+- `The Verge` [Fujifilm launches two new QuickSnap cameras because Gen Z can’t get enough](https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability)
+> Fujifilm is expanding its QuickSnap lineup with a new disposable camera focused on taking monochrome photos and another built to survive harsh outdoor environments. The $22.90 QuickSnap Black and W...
+- `The Verge` [Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart](https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination)
+> Getty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutterstock's business from being included in the ...
 - `The Verge` [Meta is adding ridiculous ‘rate limits’ and a soft paywall to its smart glasses](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit)
 > Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will s...
 - `The Verge` [Anthropic’s long-sidelined Fable 5 is greenlit to return](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back)
 > After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring acces...
-- `The Verge` [Dish files for bankruptcy, but not shutting down](https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy)
-> Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy," as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down i...
-- `The Verge` [Amazon fined $2.25 million for failing to help identity theft victims](https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine)
-> The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its compla...
-- `The Verge` [Acer’s Swift Go 16 is a lot of laptop for $900](https://www.theverge.com/gadgets/959687/acer-swift-go-16-ai-deal-sale)
-> As high memory and storage prices have driven up the cost of everything from consoles to computers, finding a competent laptop for under $1,000 has become a challenge. Thankfully, the Acer Swift Go...
-- `The Verge` [Google’s NotebookLM can sum up your research in a TikTok-style clip](https://www.theverge.com/tech/959778/google-notebooklm-ai-clips)
-> Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-...
-- `The Verge` [LG’s 27-inch Tandem OLED gaming monitor is cheaper than ever](https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale)
-> The price of LG’s UltraGear 27GX700A-B 1440p gaming monitor that came out last August has dropped to nearly its best price yet. You can grab it at Amazon for $484.99 or at LG for $499.99 (originall...
-- `The Verge` [007 First Light’s developer lays off staff but claims its next franchise will continue](https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs)
-> IO Interactive, the studio behind the Hitman series and 007 First Light, announced that it is laying off staff after a relationship with an "external partner" on its next big franchise, Project Fan...
-- `The Verge` [Moto’s Tag 2 tracker is $20 for a limited time](https://www.theverge.com/gadgets/959657/moto-tag-2-deal-sale)
-> Announced at CES 2026, the Moto Tag 2 has finally arrived in the US. The Bluetooth tracker with improved battery life over its predecessor, plus UWB sensing for more accurate tracking, is available...
-- `The Verge` [Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show](https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder)
-> A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on f...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
