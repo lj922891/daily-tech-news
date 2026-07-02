@@ -6,10 +6,38 @@
 
 # 📰 每日科技日报 — 2026-07-02
 
-> 自动收集于 2026-07-02 04:03 | 共 50 条
+> 自动收集于 2026-07-02 13:24 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [谁能想到，系统流「爽文」最先被AI Agent实现了](https://36kr.com/p/3878522627518471?f=rss)
+> 撰文｜深海
+  
+  网文里的“系统流”，被拍成了职场短剧
+  千禧年初的网文圈，有三大经典题材在爽文届立于不败之地：无限流、快穿流、系统流。
+  这三大爽文战神体横空出世时，对IP界几乎是降维打击。当传统小说还在费劲搭世界观、铺人物成长弧光时，系统流已经绕过漫长的发育过程，直接把爽感推到最大。系统，这个堪称bug的存在，无论主角进入什么样的世界副本，面对不同的任务、危机和奖励，它总会尽职尽...
+- `36氪` [36氪 AI 工具测评，正在找第一批「抢跑者」](https://36kr.com/p/3878412963508486?f=rss)
+> 我们是一群每天深度使用 AI 工具的人
+  最近我们碰到一个普遍现象💡 ：很多人在用 AI 工具时，容易陷入自己的信息茧房。
+  不同的人拿到同一个 AI 工具，产出能差出好几个量级。
+  不是不愿意用，可能是你缺一种灵感。
+  自己埋头苦干一个月毫无头绪的事情，三个人凑在一块儿交流一番便有了答案。
+  所以，我们想搭一个高密度碰撞的平台：小白能学到东西，资深使用者能看到更多可能。一起抢跑，...
+- `36氪` [享道被困16%“平台税”](https://36kr.com/p/3878254740549638?f=rss)
+> 作者 | 张帆
+  编辑 | 黄绎达
+  2026年5月，背靠上汽集团的享道出行再次向港交所递交招股书，开启了第二次IPO冲刺。与2025年10月的首次递表相比，本次更新的核心在于补充了完整的2025年全年财务与运营数据。
+  透过这份招股书，享道试图向市场释放一个关键信号：盈利能力正在好转。
+  01 增长悖论：司机流失与单量增长的“剪刀差”
+  近...
+- `36氪` [秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股](https://36kr.com/p/3878131056701447?f=rss)
+> 本文约3300字，建议阅读7分钟
+  作者 | 彭孝秋
+  
+   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
+   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第六期，古瑞瓦特。
+  
+  上...
 - `36氪` [36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景](https://36kr.com/p/3877863381741577?f=rss)
 > 作者 | 乔钰杰
   编辑 | 袁斯来
@@ -50,21 +78,12 @@
   故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。
   这个设定在唐朝的故事，在李一鸣眼中，却与当下的“世界模型”赛道，形成了巧妙的互文：
   Physical AI（物理AI）的场景、解决的问题，...
-- `36氪` [硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资](https://36kr.com/p/3877060559433984?f=rss)
-> 硬氪获悉，近期，航墨科技完成由中投万方、三贤科技、北航天汇、诚美资本、三合投资、常州金控的近亿元天使轮投资，德太资本担任长期战略融资顾问，此次融资主要用来产品研发和市场推广。
-  航墨科技成立于2022年，是一家专注于智能变刚度关节技术及消费级智能外骨骼的研发落地的高科技公司，核心技术来源于北京航空航天大学机器人所重点研发计划项目。
-  公司创始人代万辉是北航机器人所硕士、清华大学MBA，曾...
-- `36氪` [硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈](https://36kr.com/p/3877057215393793?f=rss)
-> 硬氪获悉，硅基光子企业「灵动芯光」正式宣布完成数千万元天使++轮融资，本轮融资由磐霖资本领投、同方投资与深天使合作的子基金汇泽天诚跟投。
-  此次募集的资金将全部聚焦于芯片间光互联核心技术研发与产品落地，重点推进 SmartComb多波长密波光源的产品化及SmartPHY光I/O小芯粒的研发工作。
-  灵动芯光成立于2022年，是一家致力于硅基光子集成芯片设计与应用的高技术公司，主要面向物联...
-- `36氪` [硬氪首发 | 全球首款近视老花智能变焦眼镜企业融资数千万，韶音、高秉强押注](https://36kr.com/p/3877054691930118?f=rss)
-> 硬氪获悉，智能眼镜企业「众见科技」已完成数千万元三轮融资，投资方为韶音、高秉强教授旗下高锋耐心基金、昊辰资本、SEEFund、上市公司光峰科技、高秉强教授个人等，此次融资主要用于研发推进，目前初代产品已完成落地。奇域资本将担任独家财务顾问。
-  众见科技成立于2023年，是一家从事先进光学技术及智能眼镜产品研发的科技创新企业，针对视光需求，致力于帮助用户解决相关问题。
-  创始人赵鹏是26届...
-- `36氪` [硬氪前线 | 东昇聚变获数亿元融资，国内唯一布局“氘-氦3”路线核聚变企业](https://36kr.com/p/3877051217047816?f=rss)
-> 硬氪获悉，核聚变企业东昇聚变近日完成新一轮数亿元融资，由CMC资本旗下华文清能基金及多个一线市场化基金及产业资本等联合领投。
-  东昇聚变成立于2025年7月，总部位于上海，致力于发展以“氘-氦3”为燃料的强磁场紧凑型聚变电站技术。公司集结大批国内聚变产业资深工程与科研骨干全职加盟，核心团队均具备十年以上聚变大装置研发及工程落地从业积淀。同时，公司汇聚众多国际高端科研人才，吸纳来自全球顶尖高...
+- `少数派` [iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息](https://sspai.com/post/110950)
+> 你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...查看全文
+- `少数派` [共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机](https://sspai.com/post/111069)
+> 近年来，伴随着复古浪潮的席卷而来，许多玩家似乎又重新关注起了一些老游戏、老设备。从2022年的3DS涨价风波，到后来层出不穷的所谓「开源掌机」，大家似乎都在寻找一个通往童年的入口，重新回味那些历久弥新 ...查看全文
+- `少数派` [家用游戏机的新选择，Steam Machine 玩起来怎么样？](https://sspai.com/post/111763)
+> 本文由IGN中国编译自IGNUS相关内容，原作者JacquelineThomas、编译者Tony，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>在经历八个月的等待之后，SteamMach ...查看全文
 - `少数派` [派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等](https://sspai.com/post/111861)
 > Gmail Live 进入测试阶段、大我推出 B251 PRO 显示器等。查看全文
 - `少数派` [声擎×少数派｜「角落新声」征文活动](https://sspai.com/post/111709)
@@ -79,59 +98,65 @@
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [「弯道超车」赛车入门指北：从周五到周日，F1 车队在忙什么？](https://sspai.com/post/111084)
 > 理解了这条线，再打开下一场比赛，赛程表就不再只是一堆缩写。查看全文
-- `少数派` [100 天从创意到落地：我们做了一台可以随口问 AI 的对讲机](https://sspai.com/post/111706)
-> 前言创业不易，硬件创业更难，尤其是AI硬件创业更是难上加难。难也意味着门槛。在滚滚而来的AI大势之下，门内的景色金光闪闪，首先要做的是迈过这个门槛。准确地说，我的硬件项目正式研发到投产经历了108天。 ...查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/111697)
-> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [在格鲁吉亚的大地上：徒步篇](https://sspai.com/post/111369)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Show HN: Meow – The 4th and final JavaScript runtime and toolchain](https://meow.style)
-> Yes, I said final. Fight me in the comments.But seriously: there are basically exactly 3 serious JS runtimes in the world. (Now 4... or 1, idk).Why? Because the modern JS ecosystem is a fragmented,...
-- `Hacker News` [Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers](https://senior-swe-bench.snorkel.ai/)
-> Article URL: https://senior-swe-bench.snorkel.ai/
-Comments URL: https://news.ycombinator.com/item?id=48755928
-Points: 13
-# Comments: 8
-- `Hacker News` [Bring Back Crappy Forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
-> Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/
-Comments URL: https://news.ycombinator.com/item?id=48755731
-Points: 39
-# Comments: 21
-- `Hacker News` [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
-> Article URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/
-Comments URL: https://news.ycombinator.com/item?id=48755005
-Points: 92
-# Comments: 10
-- `Hacker News` [Global review confirms mRNA vaccines are safe, effective and full of promise](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/)
-> Article URL: https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/
-Comments URL: https://news.ycombinator.com/item?id=48754963
-Points: 198
-# Comments: 164
-- `Hacker News` [The  HTML Element](https://developer.chrome.com/blog/usermedia-html-element)
-> Article URL: https://developer.chrome.com/blog/usermedia-html-element
-Comments URL: https://news.ycombinator.com/item?id=48754700
-Points: 53
-# Comments: 23
-- `Hacker News` [Healthy but sedentary people show early decline in cellular energy production](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
-> Article URL: https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production
-Comments URL: https://news.ycombinator.com/item?id=48754155
-...
-- `Hacker News` [The Underhanded C Contest](https://underhanded-c.org/)
-> Article URL: https://underhanded-c.org/
-Comments URL: https://news.ycombinator.com/item?id=48754080
-Points: 54
-# Comments: 7
-- `Hacker News` [Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
-> Article URL: https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/
-Comments URL: https://news.ycombinator....
-- `Hacker News` [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
-> Article URL: https://zcode.z.ai/en
-Comments URL: https://news.ycombinator.com/item?id=48753715
-Points: 268
-# Comments: 236
+- `Hacker News` [AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
+> Article URL: https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/
+Comments URL: https://news.ycombinator.com/item?id=4876059...
+- `Hacker News` [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/)
+> Article URL: https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/
+Comments URL: https://news.ycombinator.com/item?id=48760289
+Points: 119
+# Comments: 55
+- `Hacker News` [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)
+> Article URL: https://arxiv.org/abs/2607.01232
+Comments URL: https://news.ycombinator.com/item?id=48760201
+Points: 10
+# Comments: 1
+- `Hacker News` [Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)
+> Article URL: https://voidzero.dev/posts/announcing-vite-plus-beta
+Comments URL: https://news.ycombinator.com/item?id=48759761
+Points: 64
+# Comments: 28
+- `Hacker News` [Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass](https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0)
+> Article URL: https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0
+Comments URL: https://news.ycombinator.com/item?id=48758970
+Points: 99
+# Comments: 51
+- `Hacker News` [Google loses fight over record $4.7B EU antitrust fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
+> Article URL: https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html
+Comments URL: https://news.ycombinator.com/item?id=48758309
+Points: 167
+# Comment...
+- `Hacker News` [The Fall of the Theorem Economy](https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy)
+> Article URL: https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy
+Comments URL: https://news.ycombinator.com/item?id=48758048
+Points: 108
+# Comments: 43
+- `Hacker News` [CursorBench 3.1](https://cursor.com/evals)
+> Article URL: https://cursor.com/evals
+Comments URL: https://news.ycombinator.com/item?id=48756840
+Points: 95
+# Comments: 60
+- `Hacker News` [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
+> Article URL: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/
+Comments URL: https://news.ycombinator.com/item?id=48756602
+Points: 234
+# Comments: 103
+- `Hacker News` [Android Developer Verification: Threat masquerading as Protection](https://f-droid.org/2026/07/01/adv-malware.html)
+> Article URL: https://f-droid.org/2026/07/01/adv-malware.html
+Comments URL: https://news.ycombinator.com/item?id=48755965
+Points: 931
+# Comments: 388
+- `TechCrunch` [Tesla saw a massive sales jump in the second quarter](https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/)
+> The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cybertruck.
+- `TechCrunch` [Rivian raises EV sales forecast as Q2 production ramps up](https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/)
+> The company now expects to ship a few thousand more vehicles by the end of 2026 than it previously expected, after launching its R2 SUV last month.
+- `TechCrunch` [Yep, we’re using OpenClaw to date now](https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/)
+> Ben Guez has "a bunch of potential international wives in [his] DMs," thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.
+- `TechCrunch` [Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office](https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/)
+> Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.
 - `TechCrunch` [Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year](https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/)
 > Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.
 - `TechCrunch` [Bending Spoons defies SaaS slump, surges 40% on first day of trading](https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/)
@@ -144,34 +169,26 @@ Points: 268
 > Research appears to reveal a bug that could render the feature effectively useless.
 - `TechCrunch` [SpaceX has an AI device prototype, and it sure sounds phone-ish](https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/)
 > SpaceX reportedly showed investors a "handset-like" AI device before going public. It could be another signal SpaceX wants to expand into wireless.
-- `TechCrunch` [Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller](https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/)
-> Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructur...
-- `TechCrunch` [Neocloud Together AI raises $800M, leaps to $8.3B valuation](https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/)
-> The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.
-- `TechCrunch` [Lime begins life as a public company after years of uncertainty](https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/)
-> The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.
-- `TechCrunch` [Cloudflare’s new policy pushes AI companies to pay for publishers’ content](https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/)
-> Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.
+- `The Verge` [Mystery box shows are complicated for everyone — even the actors](https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box)
+> Silo is such a complicated show that even its showrunner gets confused sometimes. While filming the final seasons of the Apple TV sci-fi thriller, Graham Yost remembers two instances where he messe...
+- `The Verge` [BitTorrent’s disastrous, legendary, and controversial story](https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy)
+> Twenty-five years ago today, a young, little-known programmer by the name of Bram Cohen fired off a short message to a mailing list for peer-to-peer enthusiasts. "My new app, BitTorrent, is now in ...
+- `The Verge` [OpenAI floats giving Trump administration 5 percent cut of AI boom](https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump)
+> OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the ...
+- `The Verge` [Amazon has enough satellites to launch its Starlink competitor](https://www.theverge.com/science/960563/amazon-leo-service-tipping-point)
+> Amazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night's launch, Amazon Leo has 396 satellites deployed, which is "enoug...
 - `The Verge` [Apple’s entry-level MacBook Pro could be up for a redesign](https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update)
 > Apple is working on a "revamped" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros tha...
 - `The Verge` [The funeral for PlayStation discs has begun](https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores)
 > Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games s...
 - `The Verge` [Xbox’s ‘reset’: all the news about Microsoft’s looming layoffs and studio closures](https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures)
-> Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-promoted chief content officer Matt Booty sent a memo to staff warning of an &#...
+> Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly promoted chief content officer Matt Booty sent a memo to staff warning of an &#...
 - `The Verge` [Elon Musk denies a report about SpaceX’s AI phone prototype](https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk)
 > Elon Musk says a report about a SpaceX AI phone prototype is "utterly false." The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a "handset-like prototype" to som...
 - `The Verge` [Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million](https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds)
 > After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports....
 - `The Verge` [Xbox testing disc-to-digital feature that digitizes a physical game collection](https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection)
 > Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell ...
-- `The Verge` [My favorite Kindle alternative is $30 off after a recent price increase](https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale)
-> Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today’s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.9...
-- `The Verge` [Comcast’s split could make or break Peacock](https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming)
-> NBCUniversal executives are about to find out whether Peacock will sink or swim in the streaming industry. Now that Comcast is planning to split NBCUniversal, Peacock, and Sky from its broadband an...
-- `The Verge` [The best Switch 2 case I’ve tried is cheaper than usual](https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale)
-> Dbrand apparently knows how to really whiff a product launch, as we recently saw with the Steam Machine Companion Cube shell. But it also makes the best case out there for the Nintendo Switch 2, wh...
-- `The Verge` [Sony is killing discs — and showing us why it’s a terrible idea](https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation)
-> The future of video game preservation just took a major hit. This morning, Sony announced that, starting in January 2028, the company will no longer produce physical PlayStation discs, which means ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
