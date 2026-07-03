@@ -6,10 +6,34 @@
 
 # 📰 每日科技日报 — 2026-07-03
 
-> 自动收集于 2026-07-03 03:49 | 共 50 条
+> 自动收集于 2026-07-03 13:28 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线](https://36kr.com/p/3879807100023040?f=rss)
+> 文｜胡香赟
+  编辑｜海若镜
+  2026年6月底，西班牙瓦尔德希伯伦大学医院（Vall d’Hebron University Hospital）宣布完成欧洲首例单孔机器人儿科肾输尿管切除术。
+  瓦尔德希伯伦大学医院是西班牙规模最大的综合医院之一，年接诊量过百万人次，在整个欧洲医疗系统内，这家医院对前沿医疗技术、产品的探索都称得上“先锋”。此前，世界首例供体来自安乐死患者的面部移植手术就...
+- `36氪` [秋声 | 袁进辉新公司冲港股IPO，成立不到三年](https://36kr.com/p/3879814941437956?f=rss)
+> 本文约2700字，建议阅读6分钟
+  作者 | 彭孝秋
+  
+   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
+   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第七期，硅基流动。
+  
+  Q...
+- `36氪` [氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实](https://36kr.com/p/3879796756754694?f=rss)
+> 大公司：
+  德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元
+  针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿模型或“超级智能”布局，而更可能是将较旧、非核心或阶段性闲置的算力对外变现，同时保留最新一代芯片用于内部训练。此举有望把市场对Meta“高资本开支、收入回报有限”的担忧，转向对其新增高利...
+- `36氪` [理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家](https://36kr.com/p/3877919172047111?f=rss)
+> 图源视觉中国
+  文｜肖漫编辑｜李勤、杨轩
+  “回归创业状态”，去年李想说出这个目标后，理想汽车还在进行组织和流程精简。
+  36氪汽车从多位知情人士处获悉，理想即将围绕产品决策流程进行新一轮组织架构调整，计划将产品部的部分关键职能拆分，并入研发部门。
+  从群组关系来看，理想汽车产品部由范皓宇负责，包含电动本体、空间智能、自动驾驶终端产品、交互设计、平台运营、App与官网等。
+  了解调...
 - `36氪` [36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一](https://36kr.com/p/3877990989819909?f=rss)
 > 作者 | 张子怡
   编辑 | 袁斯来
@@ -49,31 +73,14 @@
   不是不愿意用，可能是你缺一种灵感。
   自己埋头苦干一个月毫无头绪的事情，三个人凑在一块儿交流一番便有了答案。
   所以，我们想搭一个高密度碰撞的平台：小白能学到东西，资深使用者能看到更多可能。一起抢跑，...
-- `36氪` [享道被困16%“平台税”](https://36kr.com/p/3878254740549638?f=rss)
-> 作者 | 张帆
-  编辑 | 黄绎达
-  2026年5月，背靠上汽集团的享道出行再次向港交所递交招股书，开启了第二次IPO冲刺。与2025年10月的首次递表相比，本次更新的核心在于补充了完整的2025年全年财务与运营数据。
-  透过这份招股书，享道试图向市场释放一个关键信号：盈利能力正在好转。
-  01 增长悖论：司机流失与单量增长的“剪刀差”
-  近...
-- `36氪` [秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股](https://36kr.com/p/3878131056701447?f=rss)
-> 本文约3300字，建议阅读7分钟
-  作者 | 彭孝秋
-  
-   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
-   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第六期，古瑞瓦特。
-  
-  上...
-- `36氪` [36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景](https://36kr.com/p/3877863381741577?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，深圳可立点科技有限公司（以下简称“可立点科技”）近日完成战略融资，由力合科创领投，江苏中科智能科学技术应用研究院旗下平台跟投。本轮融资将主要用于产品研发迭代、核心团队建设及商业化落地推进。
-  可立点科技总部位于深圳，是一家聚焦“AI+机器人”养老场景的科技公司，围绕银发群体布局家庭陪伴与院内康复两...
-- `36氪` [36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注](https://36kr.com/p/3877830625046535?f=rss)
-> 作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，聚焦通用空中智能的硅羽科技（SPARO）半年内已连续完成四轮数亿元融资，在种子轮耀途资本之后，锦秋基金、阿里巴巴、弘毅投资、普洛斯隐山资本、云时资本相继入局。资金用途方面，现阶段融资将主要⽤于扩充关键岗位的团队建设、推进产品线的商业化落地与规模化交付，以及加速技术平台的持续迭代。
-  硅羽科技成立于2026年2月，专注于通用空中智能，致力于推动飞行...
+- `少数派` [住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路](https://sspai.com/prime/story/how-to-design-a-rental-living-room)
+> 前文回顾：租房常见问题与我的改造原则从有光的地方开始动手打造能好好放松的卧室只要你的房子还有分区可言，那正常情况下就一定有一个可以称之为客厅的区域。在第一篇文章中我已经提到，对我们很多人来说，客厅可能 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/111917)
+> 📅本周新预告《奥德赛》终极预告7月1日，克里斯托弗·诺兰导演新作《奥德赛》发布了终极预告，北美7月17日、中国内地8月14日上映。马特·达蒙、汤姆·霍兰德、安妮·海瑟薇、赞达亚、露皮塔·尼永奥、罗伯特 ...查看全文
+- `少数派` [快捷指令｜让 iPhone 用上锤子的「大爆炸」](https://sspai.com/post/111405)
+> 敬「少许的牺牲是必要的」。查看全文
+- `少数派` [这四个工作习惯，或许也能帮你找到掌控感](https://sspai.com/post/111708)
+> 无论你追求的是更高的职位、更自由的时间、还是某种更纯粹的成就感，有一件事大概是共通的：那就是尽量让自己的人生，少一点完全依赖运气的成分，多一点可被掌控、可被验证的路径。查看全文
 - `少数派` [派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等](https://sspai.com/post/111898)
 > Apple「隐藏邮件地址」功能存在隐私漏洞，System76 推出 Linux 轻薄本 Lemur Pro 等。查看全文
 - `少数派` [iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息](https://sspai.com/post/110950)
@@ -86,62 +93,60 @@
 > Gmail Live 进入测试阶段、大我推出 B251 PRO 显示器等。查看全文
 - `少数派` [声擎×少数派｜「角落新声」征文活动](https://sspai.com/post/111709)
 > 那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文
-- `少数派` [[送码] 白描 App 的 9 周年：推出鸿蒙版，白描 PDF 共创首发](https://sspai.com/post/111640)
-> 2017年6月21日，白描App按下了发布键。那时的它还很简单，甚至有些单薄：拍下一张图片，识别里面的文字，再复制出来。它最初想解决的，也只是一个非常具体、非常日常的小烦恼：帮女朋友把读书笔记从照片里 ...查看全文
-- `少数派` [年度报告不够看？微信读书 Skill 上手体验](https://sspai.com/post/109932)
-> 人对自己或许会偶尔不诚实，但你的书架是很诚实的。查看全文
-- `少数派` [社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机](https://sspai.com/post/111744)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [「弯道超车」赛车入门指北：从周五到周日，F1 车队在忙什么？](https://sspai.com/post/111084)
-> 理解了这条线，再打开下一场比赛，赛程表就不再只是一堆缩写。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
-> Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts
-Comments URL: https://news.ycombinator.com/item?id=48769397
-Points: 67
-# Comments: 81
-- `Hacker News` [Order a burned CD of your own public GitHub repo](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl)
-> Article URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl
-Comments URL: https://news....
-- `Hacker News` [An American Privacy Emergency](https://scottaaronson.blog/?p=9902)
-> Recent and related:Noise infusion banned from statistical products published by Census Bureau - https://news.ycombinator.com/item?id=48517377 - June 2026 (604 comments)
-
-Comments URL: https://news....
-- `Hacker News` [Right to Local Intelligence](https://righttointelligence.org/)
-> Article URL: https://righttointelligence.org/
-Comments URL: https://news.ycombinator.com/item?id=48768951
-Points: 62
-# Comments: 25
-- `Hacker News` [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
-> Article URL: https://github.com/FractalFir/crustc
-Comments URL: https://news.ycombinator.com/item?id=48768464
-Points: 169
-# Comments: 31
-- `Hacker News` [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html)
-> Article URL: https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html
-Comments URL: https://news.y...
-- `Hacker News` [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
-> Article URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data
-Comments URL: https://news.ycombinator.com/item?id=48767347
-Points: 576
-# Comments: 102
-- `Hacker News` [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/)
-> Article URL: http://www.lmdb.tech/doc/
-Comments URL: https://news.ycombinator.com/item?id=48766598
-Points: 67
-# Comments: 38
-- `Hacker News` [Great Salt Lake Tracker – Grow the Flow](https://growtheflowutah.org/laketracker/)
-> Article URL: https://growtheflowutah.org/laketracker/
-Comments URL: https://news.ycombinator.com/item?id=48766286
-Points: 70
-# Comments: 29
-- `Hacker News` [EFF letter to FTC on X consent order (2 July 2026) [pdf]](https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf)
-> Article URL: https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf
-Comments URL: https://news.ycombinator.com/item?id=48766209
-Points: 114
-# Comment...
+- `Hacker News` [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
+> Article URL: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/
+Comments URL: https://news.ycombinator.com/item?id=48774518
+Points: 10
+...
+- `Hacker News` [PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
+> Article URL: https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit
+Comments URL: https://news.ycombinator.com/item?id=48774509
+Points: 4
+# Comments: 0
+- `Hacker News` [Zuckerberg 'Admits' Meta's Layoffs Were Ineffective](https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html)
+> Article URL: https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html
+Comments URL: https://news.ycombinator.com/item?id=48774454
+Points: 6
+# Comments: 1
+- `Hacker News` [AI Data Centers Use More Water Than Most Tech Giants Report](https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902)
+> Article URL: https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902
+Comments URL: https://news.ycombinator.com/item?id=48774246
+Points: 19
+# Comments: 7
+- `Hacker News` [Commodore 64 Basic for PostgreSQL](https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html)
+> Article URL: https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html
+Comments URL: https://news.ycombinator.com/item?id=48772717
+Points: 22
+# Comments: 6
+- `Hacker News` [Wordgard: The new in-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/)
+> Article URL: https://wordgard.net/
+Comments URL: https://news.ycombinator.com/item?id=48772573
+Points: 80
+# Comments: 33
+- `Hacker News` [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/)
+> Article URL: https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/
+Comments URL: https://news.ycombinator.com/item?id=48772443
+Po...
+- `Hacker News` [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
+> Article URL: https://weli.dev/blog/half-baked-product/
+Comments URL: https://news.ycombinator.com/item?id=48772388
+Points: 492
+# Comments: 131
+- `Hacker News` [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
+> Article URL: https://manticoresearch.com/blog/onnx-embeddings-speedup/
+Comments URL: https://news.ycombinator.com/item?id=48770477
+Points: 69
+# Comments: 11
+- `Hacker News` [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
+> Article URL: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/
+Comments URL: https://news.ycombinator.com/item?id=48769639
+Points: 137
+# Comments: 33
+- `TechCrunch` [Politician who investigated spyware abuses had his phone hacked with Pegasus spyware](https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/)
+> A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the s...
 - `TechCrunch` [Last chance to apply — Startup Battlefield Australia applications close July 6](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/)
 > If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.
 - `TechCrunch` [Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
@@ -160,8 +165,14 @@ Points: 114
 > Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.
 - `TechCrunch` [Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees](https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/)
 > Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the costs and benefits of services.
-- `TechCrunch` [Anthropic is discussing a new custom chip with Samsung](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)
-> The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.
+- `The Verge` [Jon Prosser responds to Apple lawsuit by blaming the other guy](https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak)
+> YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he "plan...
+- `The Verge` [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list)
+> In the AI slop-loaded, algorithm-powered modern reality, trends come and go - and the tech industry is no different. For the last few years, The Verge staff has compiled a selection of things that ...
+- `The Verge` [Apple TV is hitting its stride](https://www.theverge.com/entertainment/960985/apple-tv-hits-2026)
+> Since its inception, Apple TV, née Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally spe...
+- `The Verge` [A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered](https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video)
+> Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its d...
 - `The Verge` [Sony’s PlayStation disc factory is already being repurposed](https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead)
 > The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tan...
 - `The Verge` [Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home](https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges)
@@ -174,14 +185,6 @@ Points: 114
 > If our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veggies, Weber just so happens to have a variety of grills, smokers, griddles, and acc...
 - `The Verge` [The video game disc is dead](https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast)
 > For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games h...
-- `The Verge` [Influencer screenings aren’t going away](https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings)
-> For a few days, it seemed like Universal decided that there would be no advanced screenings of Christopher Nolan's The Odyssey for influencers. But on Monday, influencers sat alongside traditional ...
-- `The Verge` [Godox’s feature-packed key light is down to its best price yet](https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale)
-> If you don’t want to spend $180 on the Elgato Key Light, the Godox ES45 Desktop LED Key Light is a more affordable option that offers nearly as much brightness and plenty of features, including adj...
-- `The Verge` [Tesla’s Q2 sales jump 25 percent](https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report)
-> Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. The company said that it pro...
-- `The Verge` [AI won’t save advertising, says Digitas’ Amy Lanzi](https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators)
-> We’ve got a special Decoder today — I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber Villa at the Cannes Lions advertising festival...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
