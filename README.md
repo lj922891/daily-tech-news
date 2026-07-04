@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-07-04
 
-> 自动收集于 2026-07-04 03:41 | 共 50 条
+> 自动收集于 2026-07-04 12:53 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -77,6 +77,8 @@
   TOP3大新闻
   证监会同意宇树科技科创板IPO注册
   7月2日，证监会网站显示，同意宇树科技首次公开发行股票...
+- `少数派` [[送码] 聆听用户建议，1Capture 新增多项实用截图功能](https://sspai.com/post/111645)
+> 各位少数派的朋友好，距离上一次在少数派介绍1Capture已经过去一年。过去这段时间里，我们开发的这款Mac截图与录屏工具继续做了多轮更新，也根据用户反馈补齐了一些更适合团队协作和产品展示的功能。市场 ...查看全文
 - `少数派` [住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路](https://sspai.com/prime/story/how-to-design-a-rental-living-room)
 > 前文回顾：租房常见问题与我的改造原则从有光的地方开始动手打造能好好放松的卧室只要你的房子还有分区可言，那正常情况下就一定有一个可以称之为客厅的区域。在第一篇文章中我已经提到，对我们很多人来说，客厅可能 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/111917)
@@ -95,57 +97,57 @@
 > 本文由IGN中国编译自IGNUS相关内容，原作者JacquelineThomas、编译者Tony，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>在经历八个月的等待之后，SteamMach ...查看全文
 - `少数派` [派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等](https://sspai.com/post/111861)
 > Gmail Live 进入测试阶段、大我推出 B251 PRO 显示器等。查看全文
-- `少数派` [声擎×少数派｜「角落新声」征文活动](https://sspai.com/post/111709)
-> 那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Astrophysicists Puzzle over Webb's New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
+> Article URL: https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/
+Comments URL: https://news.ycombinator.com/item?id=48783948
+Points: 55
+# Comments: 17
+- `Hacker News` [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+> Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/
+Comments URL: https://news.ycombinator.com/item?id=48783117
+Points: 426
+# Comments: 251
+- `Hacker News` [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
+> Article URL: https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post
+Comments URL: https://news.ycombinator.com/item?id=48782671
+Points: 119
+# Comments: 59
+- `Hacker News` [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
+> Article URL: https://www.marginalia.nu/log/a_135_learn/
+Comments URL: https://news.ycombinator.com/item?id=48782435
+Points: 161
+# Comments: 68
 - `Hacker News` [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
 > Article URL: https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/
 Comments URL: https://news.ycombinator.com/item?id=48782219
-Points: 5
-# Comments: 0
+Points: 103
+# Comments: 23
 - `Hacker News` [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
 > Article URL: https://mrbruh.com/msicenter/
 Comments URL: https://news.ycombinator.com/item?id=48781688
-Points: 37
-# Comments: 8
+Points: 104
+# Comments: 39
 - `Hacker News` [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
 > Article URL: https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/
 Comments URL: https://news.ycombinator.com/item?id=48781597
-Points: 43
-# Comments: 2
-- `Hacker News` [Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/)
-> Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/
-Comments URL: https://news.ycombinator.com/item?id=487...
+Points: 103
+# Comments: 25
 - `Hacker News` [Odin, Wikipedia and engagement farming](https://katamari64.se/posts/2026/odin-wikipedia/)
 > Article URL: https://katamari64.se/posts/2026/odin-wikipedia/
 Comments URL: https://news.ycombinator.com/item?id=48781196
-Points: 57
-# Comments: 71
-- `Hacker News` [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
-> Article URL: https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see
-Comments URL: https://news.ycombinator.com/item?id=48780996
-Points: 53
-# Comments: 10
+Points: 174
+# Comments: 229
 - `Hacker News` [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
 > Article URL: https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/
 Comments URL: https://news.ycombinator.com/item?id=48780913
-Points: 52
-# Comments: 12
-- `Hacker News` [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+Points: 107
+# Comments: 19
+- `Hacker News` [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
 > Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/
 Comments URL: https://news.ycombinator.com/item?id=48780...
-- `Hacker News` [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
-> Article URL: https://github.com/FossPrime/Steam-Controller-Auto-Charge
-Comments URL: https://news.ycombinator.com/item?id=48780865
-Points: 91
-# Comments: 19
-- `Hacker News` [Dispersion loss counteracts embedding condensation in small language models](https://chenliu-1996.github.io/projects/LM-Dispersion/)
-> Article URL: https://chenliu-1996.github.io/projects/LM-Dispersion/
-Comments URL: https://news.ycombinator.com/item?id=48780826
-Points: 26
-# Comments: 6
 - `TechCrunch` [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 > The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
 - `TechCrunch` [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
@@ -166,6 +168,10 @@ Points: 26
 > Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.
 - `TechCrunch` [IQM, Europe’s first public quantum company, admits the future of the tech is uncertain](https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/)
 > IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.
+- `The Verge` [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector)
+> Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer...
+- `The Verge` [Qi fan fan](https://www.theverge.com/tech/961332/qi-active-cooling-really-works)
+> Despite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky, but ...
 - `The Verge` [Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM](https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update)
 > The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it wa...
 - `The Verge` [While you’re watching the World Cup, the feds may be watching you](https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras)
@@ -182,10 +188,6 @@ Points: 26
 > YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he "plan...
 - `The Verge` [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list)
 > In the AI slop-loaded, algorithm-powered modern reality, trends come and go - and the tech industry is no different. For the last few years, The Verge staff has compiled a selection of things that ...
-- `The Verge` [Apple TV is hitting its stride](https://www.theverge.com/entertainment/960985/apple-tv-hits-2026)
-> Since its inception, Apple TV, née Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally spe...
-- `The Verge` [A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered](https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video)
-> Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its d...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
