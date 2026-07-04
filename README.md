@@ -4,12 +4,34 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-03
+# 📰 每日科技日报 — 2026-07-04
 
-> 自动收集于 2026-07-03 13:28 | 共 50 条
+> 自动收集于 2026-07-04 03:41 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？](https://36kr.com/p/3880770270425089?f=rss)
+> 《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。
+  7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。
+  当天的机甲徒步活动由傲鲨联合户外平台...
+- `36氪` [9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司](https://36kr.com/p/3880629882679301?f=rss)
+> 今日热点导览
+  
+   三部门：调整节能汽车、新能源汽车车船税优惠政策
+   三星传获Meta超10万亿韩元AI芯片代工订单
+   茉莉奶白小程序更换彩色Logo
+   Meta打算出售富余算力引发科技股回落
+   英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗
+  
+  TOP3大新闻
+  因存在植入后门风险，阿里内部全面禁用Claude Code
+  36氪从阿里内部...
+- `36氪` [36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资](https://36kr.com/p/3879991356157952?f=rss)
+> 图源/企业
+  作者丨欧雪
+  编辑丨袁斯来
+  硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。
+  光引科技2021年成立于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔为剑桥大学博士、剑桥大学副教授，在光子集成领域深耕超16年...
 - `36氪` [400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线](https://36kr.com/p/3879807100023040?f=rss)
 > 文｜胡香赟
   编辑｜海若镜
@@ -55,24 +77,6 @@
   TOP3大新闻
   证监会同意宇树科技科创板IPO注册
   7月2日，证监会网站显示，同意宇树科技首次公开发行股票...
-- `36氪` [氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读](https://36kr.com/p/3878550357946625?f=rss)
-> 大公司：
-  奥飞娱乐：上半年净利润同比预增305.30%—413.38%36氪获悉，奥飞娱乐发布2026年半年度业绩预告，预计2026年上半年归属于上市公司股东的净利润为1.5亿元—1.9亿元，比上年同期增长305.30%—413.38%。
-  雀巢称消费者因价格压力避开中等包装产品
-  雀巢表示，在美国消费者专注于产品可负担性、购买者纷纷转向大包装或经济型包装而避开中等规格产品的背景下，...
-- `36氪` [谁能想到，系统流「爽文」最先被AI Agent实现了](https://36kr.com/p/3878522627518471?f=rss)
-> 撰文｜深海
-  
-  网文里的“系统流”，被拍成了职场短剧
-  千禧年初的网文圈，有三大经典题材在爽文届立于不败之地：无限流、快穿流、系统流。
-  这三大爽文战神体横空出世时，对IP界几乎是降维打击。当传统小说还在费劲搭世界观、铺人物成长弧光时，系统流已经绕过漫长的发育过程，直接把爽感推到最大。系统，这个堪称bug的存在，无论主角进入什么样的世界副本，面对不同的任务、危机和奖励，它总会尽职尽...
-- `36氪` [36氪 AI 工具测评，正在找第一批「抢跑者」](https://36kr.com/p/3878412963508486?f=rss)
-> 我们是一群每天深度使用 AI 工具的人
-  最近我们碰到一个普遍现象💡 ：很多人在用 AI 工具时，容易陷入自己的信息茧房。
-  不同的人拿到同一个 AI 工具，产出能差出好几个量级。
-  不是不愿意用，可能是你缺一种灵感。
-  自己埋头苦干一个月毫无头绪的事情，三个人凑在一块儿交流一番便有了答案。
-  所以，我们想搭一个高密度碰撞的平台：小白能学到东西，资深使用者能看到更多可能。一起抢跑，...
 - `少数派` [住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路](https://sspai.com/prime/story/how-to-design-a-rental-living-room)
 > 前文回顾：租房常见问题与我的改造原则从有光的地方开始动手打造能好好放松的卧室只要你的房子还有分区可言，那正常情况下就一定有一个可以称之为客厅的区域。在第一篇文章中我已经提到，对我们很多人来说，客厅可能 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/111917)
@@ -96,55 +100,60 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
-> Article URL: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/
-Comments URL: https://news.ycombinator.com/item?id=48774518
-Points: 10
-...
-- `Hacker News` [PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
-> Article URL: https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit
-Comments URL: https://news.ycombinator.com/item?id=48774509
-Points: 4
+- `Hacker News` [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
+> Article URL: https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/
+Comments URL: https://news.ycombinator.com/item?id=48782219
+Points: 5
 # Comments: 0
-- `Hacker News` [Zuckerberg 'Admits' Meta's Layoffs Were Ineffective](https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html)
-> Article URL: https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html
-Comments URL: https://news.ycombinator.com/item?id=48774454
-Points: 6
-# Comments: 1
-- `Hacker News` [AI Data Centers Use More Water Than Most Tech Giants Report](https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902)
-> Article URL: https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902
-Comments URL: https://news.ycombinator.com/item?id=48774246
-Points: 19
-# Comments: 7
-- `Hacker News` [Commodore 64 Basic for PostgreSQL](https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html)
-> Article URL: https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html
-Comments URL: https://news.ycombinator.com/item?id=48772717
-Points: 22
+- `Hacker News` [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
+> Article URL: https://mrbruh.com/msicenter/
+Comments URL: https://news.ycombinator.com/item?id=48781688
+Points: 37
+# Comments: 8
+- `Hacker News` [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
+> Article URL: https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/
+Comments URL: https://news.ycombinator.com/item?id=48781597
+Points: 43
+# Comments: 2
+- `Hacker News` [Scientists discover guidance system for migratory songbirds](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/)
+> Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/
+Comments URL: https://news.ycombinator.com/item?id=487...
+- `Hacker News` [Odin, Wikipedia and engagement farming](https://katamari64.se/posts/2026/odin-wikipedia/)
+> Article URL: https://katamari64.se/posts/2026/odin-wikipedia/
+Comments URL: https://news.ycombinator.com/item?id=48781196
+Points: 57
+# Comments: 71
+- `Hacker News` [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see)
+> Article URL: https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see
+Comments URL: https://news.ycombinator.com/item?id=48780996
+Points: 53
+# Comments: 10
+- `Hacker News` [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
+> Article URL: https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/
+Comments URL: https://news.ycombinator.com/item?id=48780913
+Points: 52
+# Comments: 12
+- `Hacker News` [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+> Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/
+Comments URL: https://news.ycombinator.com/item?id=48780...
+- `Hacker News` [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
+> Article URL: https://github.com/FossPrime/Steam-Controller-Auto-Charge
+Comments URL: https://news.ycombinator.com/item?id=48780865
+Points: 91
+# Comments: 19
+- `Hacker News` [Dispersion loss counteracts embedding condensation in small language models](https://chenliu-1996.github.io/projects/LM-Dispersion/)
+> Article URL: https://chenliu-1996.github.io/projects/LM-Dispersion/
+Comments URL: https://news.ycombinator.com/item?id=48780826
+Points: 26
 # Comments: 6
-- `Hacker News` [Wordgard: The new in-browser rich-text editor from the creator of ProseMirror](https://wordgard.net/)
-> Article URL: https://wordgard.net/
-Comments URL: https://news.ycombinator.com/item?id=48772573
-Points: 80
-# Comments: 33
-- `Hacker News` [Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says](https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/)
-> Article URL: https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/
-Comments URL: https://news.ycombinator.com/item?id=48772443
-Po...
-- `Hacker News` [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
-> Article URL: https://weli.dev/blog/half-baked-product/
-Comments URL: https://news.ycombinator.com/item?id=48772388
-Points: 492
-# Comments: 131
-- `Hacker News` [14× faster embeddings: how we rebuilt the ONNX path in Manticore](https://manticoresearch.com/blog/onnx-embeddings-speedup/)
-> Article URL: https://manticoresearch.com/blog/onnx-embeddings-speedup/
-Comments URL: https://news.ycombinator.com/item?id=48770477
-Points: 69
-# Comments: 11
-- `Hacker News` [The Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/)
-> Article URL: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/
-Comments URL: https://news.ycombinator.com/item?id=48769639
-Points: 137
-# Comments: 33
+- `TechCrunch` [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+> The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
+- `TechCrunch` [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
+> We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
+- `TechCrunch` [The Dune keypad device can be your meeting controller and more](https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/)
+> The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.
+- `TechCrunch` [Chevy built an all-American EV truck — why is nobody buying it?](https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/)
+> The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.
 - `TechCrunch` [Politician who investigated spyware abuses had his phone hacked with Pegasus spyware](https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/)
 > A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the s...
 - `TechCrunch` [Last chance to apply — Startup Battlefield Australia applications close July 6](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/)
@@ -157,14 +166,18 @@ Points: 137
 > Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.
 - `TechCrunch` [IQM, Europe’s first public quantum company, admits the future of the tech is uncertain](https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/)
 > IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.
-- `TechCrunch` [Jersey Mike’s IPO illustrates how bad the AI hype has become](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/)
-> Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.
-- `TechCrunch` [A warning sign about AI’s real cost, courtesy of Google and Amazon](https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/)
-> AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges.
-- `TechCrunch` [Meta quietly launches vibe-coded gaming app Pocket](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/)
-> Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.
-- `TechCrunch` [Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees](https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/)
-> Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the costs and benefits of services.
+- `The Verge` [Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM](https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update)
+> The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it wa...
+- `The Verge` [While you’re watching the World Cup, the feds may be watching you](https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras)
+> It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of peopl...
+- `The Verge` [This slim camera has a transparent LCD screen for a viewfinder](https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen)
+> Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while in...
+- `The Verge` [I finally got my Trump phone](https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions)
+> Where's the Trump phone? We're going to keep talking about it every week. One year on, our phones have finally arrived. 12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump ...
+- `The Verge` [Hydration isn’t complicated: Just drink water](https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave)
+> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
+- `The Verge` [Anthropic wants to develop its own drugs](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development)
+> At the event "The Briefing: AI for Science" earlier this week, Anthropic announced Claude Science, a new "AI workbench for scientists" that pulls fragmented tools and datasets into one environment,...
 - `The Verge` [Jon Prosser responds to Apple lawsuit by blaming the other guy](https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak)
 > YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he "plan...
 - `The Verge` [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list)
@@ -173,18 +186,6 @@ Points: 137
 > Since its inception, Apple TV, née Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally spe...
 - `The Verge` [A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered](https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video)
 > Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its d...
-- `The Verge` [Sony’s PlayStation disc factory is already being repurposed](https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead)
-> The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tan...
-- `The Verge` [Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home](https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges)
-> The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-y...
-- `The Verge` [Meta has a new app called Pocket that is absolutely nothing like the old Pocket](https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai)
-> Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and shar...
-- `The Verge` [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale)
-> July 4th sales are typically a precursor to what we’d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week’s big Prime Day sale is over, yet the...
-- `The Verge` [Weber marks down grills and griddles to their best prices ever for July 4th](https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal)
-> If our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veggies, Weber just so happens to have a variety of grills, smokers, griddles, and acc...
-- `The Verge` [The video game disc is dead](https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast)
-> For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games h...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
