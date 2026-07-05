@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-04
+# 📰 每日科技日报 — 2026-07-05
 
-> 自动收集于 2026-07-04 12:53 | 共 50 条
+> 自动收集于 2026-07-05 04:01 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -100,54 +100,62 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Astrophysicists Puzzle over Webb's New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
-> Article URL: https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/
-Comments URL: https://news.ycombinator.com/item?id=48783948
-Points: 55
-# Comments: 17
-- `Hacker News` [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
-> Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/
-Comments URL: https://news.ycombinator.com/item?id=48783117
-Points: 426
-# Comments: 251
-- `Hacker News` [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
-> Article URL: https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post
-Comments URL: https://news.ycombinator.com/item?id=48782671
-Points: 119
-# Comments: 59
-- `Hacker News` [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
-> Article URL: https://www.marginalia.nu/log/a_135_learn/
-Comments URL: https://news.ycombinator.com/item?id=48782435
-Points: 161
-# Comments: 68
-- `Hacker News` [Synthesis is harder than analysis](https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/)
-> Article URL: https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/
-Comments URL: https://news.ycombinator.com/item?id=48782219
-Points: 103
-# Comments: 23
-- `Hacker News` [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
-> Article URL: https://mrbruh.com/msicenter/
-Comments URL: https://news.ycombinator.com/item?id=48781688
-Points: 104
-# Comments: 39
-- `Hacker News` [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/)
-> Article URL: https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/
-Comments URL: https://news.ycombinator.com/item?id=48781597
-Points: 103
-# Comments: 25
-- `Hacker News` [Odin, Wikipedia and engagement farming](https://katamari64.se/posts/2026/odin-wikipedia/)
-> Article URL: https://katamari64.se/posts/2026/odin-wikipedia/
-Comments URL: https://news.ycombinator.com/item?id=48781196
-Points: 174
-# Comments: 229
-- `Hacker News` [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/)
-> Article URL: https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/
-Comments URL: https://news.ycombinator.com/item?id=48780913
-Points: 107
-# Comments: 19
-- `Hacker News` [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
-> Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/
-Comments URL: https://news.ycombinator.com/item?id=48780...
+- `Hacker News` [University of Oxford Is Older Than the Aztec Empire and Other Facts of History](https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/)
+> Article URL: https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/
+Comments URL: https://news.ycombinator.com...
+- `Hacker News` [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
+> Article URL: https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/
+Comments URL: https://news.ycombinator.com/item?id=48790689
+Points: 16
+# Comments: 1
+- `Hacker News` [Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478)
+> Article URL: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478
+Comments URL: https://news.ycombinator.com/item?id=48790583
+Points: 8
+# Comments: 1
+- `Hacker News` [Egg consumption inversely correlated with Alzheimer's](https://pubmed.ncbi.nlm.nih.gov/42002260/)
+> Article URL: https://pubmed.ncbi.nlm.nih.gov/42002260/
+Comments URL: https://news.ycombinator.com/item?id=48790349
+Points: 50
+# Comments: 29
+- `Hacker News` [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/)
+> Article URL: https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/
+Comments URL: https://news.ycombinator.com/item?id=48790240
+Points: 22
+...
+- `Hacker News` [Reflections on the Guillotine (1957)](https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine)
+> Article URL: https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine
+Comments URL: https://news.ycombinator.com/item?id=48790036
+Points: 32
+# Comments: 9
+- `Hacker News` [Mapping with In-Memory Layers to Reduce LLM Overload](https://ridgetext.com/blog/mapbox-llm-composition)
+> Article URL: https://ridgetext.com/blog/mapbox-llm-composition
+Comments URL: https://news.ycombinator.com/item?id=48789986
+Points: 12
+# Comments: 0
+- `Hacker News` [Drone Autonomy Crash Course](https://www.cggonzalez.com/blog/index.html)
+> Article URL: https://www.cggonzalez.com/blog/index.html
+Comments URL: https://news.ycombinator.com/item?id=48789965
+Points: 18
+# Comments: 1
+- `Hacker News` [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
+> Article URL: https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets
+Comments URL: https://news.ycombinator.com/item?id=48789712
+Points: 60
+# Comments: 13
+- `Hacker News` [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
+> Article URL: https://github.com/openai/codex/issues/30364
+Comments URL: https://news.ycombinator.com/item?id=48789428
+Points: 180
+# Comments: 56
+- `TechCrunch` [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/)
+> Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
+- `TechCrunch` [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)
+> As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.
+- `TechCrunch` [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)
+> Alibaba has reportedly classified Claude Code as high-risk software.
+- `TechCrunch` [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
+> Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”
 - `TechCrunch` [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 > The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
 - `TechCrunch` [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
@@ -160,14 +168,18 @@ Comments URL: https://news.ycombinator.com/item?id=48780...
 > A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the s...
 - `TechCrunch` [Last chance to apply — Startup Battlefield Australia applications close July 6](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/)
 > If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.
-- `TechCrunch` [Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
-> At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.
-- `TechCrunch` [Private space pilots are flying orbital missions for the US Space Force](https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/)
-> True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.
-- `TechCrunch` [Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections](https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/)
-> Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.
-- `TechCrunch` [IQM, Europe’s first public quantum company, admits the future of the tech is uncertain](https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/)
-> IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.
+- `The Verge` [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)
+> The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off it...
+- `The Verge` [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
+> The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Repub...
+- `The Verge` [Matic’s robot vacuum is getting a $250 price hike in September](https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy)
+> The Matic is our favorite robot vacuum by a pretty comfortable margin. If you’ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its...
+- `The Verge` [Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard](https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview)
+> Erick the Architect is a founding member of, and the primary producer for, the legendary Flatbush Zombies. He's toured the world, performed on Kimmel and Fallon, played Coachella, and collaborated ...
+- `The Verge` [Hey number pad lovers, this is a keyboard we can finally agree on](https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review)
+> I know a vocal group of people who swear by the number pad on their keyboard. And yet, for years I haven't cared about using one - until I put my hands on the Epomaker RT98. It's a mechanical keybo...
+- `The Verge` [The square-ish phone that I wanted to love](https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on)
+> The Ikko MindOne Pro is delightfully small. I keep calling it a square phone, which isn't quite right; the screen is square, but the phone itself is slightly rectangular. The camera flips up so you...
 - `The Verge` [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector)
 > Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer...
 - `The Verge` [Qi fan fan](https://www.theverge.com/tech/961332/qi-active-cooling-really-works)
@@ -176,18 +188,6 @@ Comments URL: https://news.ycombinator.com/item?id=48780...
 > The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it wa...
 - `The Verge` [While you’re watching the World Cup, the feds may be watching you](https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras)
 > It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of peopl...
-- `The Verge` [This slim camera has a transparent LCD screen for a viewfinder](https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen)
-> Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while in...
-- `The Verge` [I finally got my Trump phone](https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions)
-> Where's the Trump phone? We're going to keep talking about it every week. One year on, our phones have finally arrived. 12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump ...
-- `The Verge` [Hydration isn’t complicated: Just drink water](https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave)
-> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
-- `The Verge` [Anthropic wants to develop its own drugs](https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development)
-> At the event "The Briefing: AI for Science" earlier this week, Anthropic announced Claude Science, a new "AI workbench for scientists" that pulls fragmented tools and datasets into one environment,...
-- `The Verge` [Jon Prosser responds to Apple lawsuit by blaming the other guy](https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak)
-> YouTuber Jon Prosser has finally filed a formal response to Apple's lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he "plan...
-- `The Verge` [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list)
-> In the AI slop-loaded, algorithm-powered modern reality, trends come and go - and the tech industry is no different. For the last few years, The Verge staff has compiled a selection of things that ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
