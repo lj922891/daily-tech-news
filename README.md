@@ -6,10 +6,27 @@
 
 # 📰 每日科技日报 — 2026-07-05
 
-> 自动收集于 2026-07-05 04:01 | 共 50 条
+> 自动收集于 2026-07-05 13:01 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统](https://36kr.com/p/3882365879005186?f=rss)
+> 作者 | 邱晓芬
+  编辑 | 袁斯来
+  硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。
+  「忆生科技」致力于从科学第一性原理出发，用"感知—预测—交互"闭环构建机器人"大脑+小脑"统一系统，...
+- `36氪` [硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业](https://36kr.com/p/3882364132077577?f=rss)
+> 作者 | 邱晓芬
+  编辑 | 袁斯来
+  硬氪获悉，具身智能公司「光象科技」宣布完成累计数亿元天使轮融资。
+  最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本、上市公司行云科技等头部财投与产投深度参与，老股东零一创投、L2F光源创业者基金持续加注。
+  本轮资金将重点投入物理原生基座模型的研发迭代，并推进...
+- `36氪` [硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过](https://36kr.com/p/3882361033322755?f=rss)
+> 作者 | 邱晓芬
+  编辑 | 袁斯来
+  硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。
+  这是目前餐饮垂直机器人领域规模最大的一笔融资之一。
+  在此之前，「影智XBOT」还完成了一轮天使融资...
 - `36氪` [对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？](https://36kr.com/p/3880770270425089?f=rss)
 > 《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。
   7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。
@@ -26,7 +43,7 @@
   TOP3大新闻
   因存在植入后门风险，阿里内部全面禁用Claude Code
   36氪从阿里内部...
-- `36氪` [36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资](https://36kr.com/p/3879991356157952?f=rss)
+- `36氪` [36氪首发 | 剑桥副教授创业硅光芯片，已合作华为，获一亿投资](https://36kr.com/p/3879991356157952?f=rss)
 > 图源/企业
   作者丨欧雪
   编辑丨袁斯来
@@ -56,27 +73,8 @@
   36氪汽车从多位知情人士处获悉，理想即将围绕产品决策流程进行新一轮组织架构调整，计划将产品部的部分关键职能拆分，并入研发部门。
   从群组关系来看，理想汽车产品部由范皓宇负责，包含电动本体、空间智能、自动驾驶终端产品、交互设计、平台运营、App与官网等。
   了解调...
-- `36氪` [36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一](https://36kr.com/p/3877990989819909?f=rss)
-> 作者 | 张子怡
-  编辑 | 袁斯来
-  硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。
-  成立不到两年时间，OMOWAY已获得数轮融资。截...
-- `36氪` [36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投](https://36kr.com/p/3879274157928449?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。
-  启航氢能成立于2024年4月，技术起源于嘉庚创新实验室电氢耦合研究团队。公司专注于电氢耦合技术及应用场景的装备研发、生...
-- `36氪` [8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉](https://36kr.com/p/3879158039834629?f=rss)
-> 今日热点导览
-  苹果拟于今明两年推出至少五款新iPhone
-  AI版支付宝开放公测，上线72项办事技能
-  特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱
-  LV起诉茉莉奶白，茉莉奶白被判赔1030万元
-  6月赴日航班取消1488个
-  安克创新港股上市首日破发
-  TOP3大新闻
-  证监会同意宇树科技科创板IPO注册
-  7月2日，证监会网站显示，同意宇树科技首次公开发行股票...
+- `少数派` [背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」](https://sspai.com/post/111632)
+> 每个单词都认识，为什么还是读不懂英文？查看全文
 - `少数派` [[送码] 聆听用户建议，1Capture 新增多项实用截图功能](https://sspai.com/post/111645)
 > 各位少数派的朋友好，距离上一次在少数派介绍1Capture已经过去一年。过去这段时间里，我们开发的这款Mac截图与录屏工具继续做了多轮更新，也根据用户反馈补齐了一些更适合团队协作和产品展示的功能。市场 ...查看全文
 - `少数派` [住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路](https://sspai.com/prime/story/how-to-design-a-rental-living-room)
@@ -95,59 +93,60 @@
 > 近年来，伴随着复古浪潮的席卷而来，许多玩家似乎又重新关注起了一些老游戏、老设备。从2022年的3DS涨价风波，到后来层出不穷的所谓「开源掌机」，大家似乎都在寻找一个通往童年的入口，重新回味那些历久弥新 ...查看全文
 - `少数派` [家用游戏机的新选择，Steam Machine 玩起来怎么样？](https://sspai.com/post/111763)
 > 本文由IGN中国编译自IGNUS相关内容，原作者JacquelineThomas、编译者Tony，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>在经历八个月的等待之后，SteamMach ...查看全文
-- `少数派` [派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等](https://sspai.com/post/111861)
-> Gmail Live 进入测试阶段、大我推出 B251 PRO 显示器等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [University of Oxford Is Older Than the Aztec Empire and Other Facts of History](https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/)
-> Article URL: https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/
-Comments URL: https://news.ycombinator.com...
-- `Hacker News` [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
-> Article URL: https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/
-Comments URL: https://news.ycombinator.com/item?id=48790689
-Points: 16
+- `Hacker News` [Educators disciplined over Charlie Kirk posts are securing big payouts](https://www.nbcnews.com/news/us-news/educators-disciplined-charlie-kirk-posts-are-securing-big-payouts-rcna352568)
+> Article URL: https://www.nbcnews.com/news/us-news/educators-disciplined-charlie-kirk-posts-are-securing-big-payouts-rcna352568
+Comments URL: https://news.ycombinator.com/item?id=48793726
+Points: 18...
+- `Hacker News` [The Engineer in the Half-Space](https://yusufaytas.com/the-engineer-in-the-half-space)
+> Article URL: https://yusufaytas.com/the-engineer-in-the-half-space
+Comments URL: https://news.ycombinator.com/item?id=48793716
+Points: 17
 # Comments: 1
-- `Hacker News` [Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478)
-> Article URL: https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478
-Comments URL: https://news.ycombinator.com/item?id=48790583
-Points: 8
-# Comments: 1
-- `Hacker News` [Egg consumption inversely correlated with Alzheimer's](https://pubmed.ncbi.nlm.nih.gov/42002260/)
-> Article URL: https://pubmed.ncbi.nlm.nih.gov/42002260/
-Comments URL: https://news.ycombinator.com/item?id=48790349
-Points: 50
-# Comments: 29
-- `Hacker News` [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/)
-> Article URL: https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/
-Comments URL: https://news.ycombinator.com/item?id=48790240
-Points: 22
-...
-- `Hacker News` [Reflections on the Guillotine (1957)](https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine)
-> Article URL: https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine
-Comments URL: https://news.ycombinator.com/item?id=48790036
-Points: 32
-# Comments: 9
-- `Hacker News` [Mapping with In-Memory Layers to Reduce LLM Overload](https://ridgetext.com/blog/mapbox-llm-composition)
-> Article URL: https://ridgetext.com/blog/mapbox-llm-composition
-Comments URL: https://news.ycombinator.com/item?id=48789986
+- `Hacker News` [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)
+> Article URL: https://www.bbc.com/news/articles/cz758x04g83o
+Comments URL: https://news.ycombinator.com/item?id=48792780
+Points: 17
+# Comments: 4
+- `Hacker News` [Claude Design System Prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
+> Article URL: https://github.com/Trystan-SA/claude-design-system-prompt
+Comments URL: https://news.ycombinator.com/item?id=48792399
+Points: 42
+# Comments: 7
+- `Hacker News` [Apocketlypse](https://0dd.company/galleries/triumph/1.html)
+> Article URL: https://0dd.company/galleries/triumph/1.html
+Comments URL: https://news.ycombinator.com/item?id=48792352
+Points: 26
+# Comments: 5
+- `Hacker News` [Knowledge Should Not Be Gated](https://www.formaly.io/blog/knowledge-should-not-be-gated)
+> Article URL: https://www.formaly.io/blog/knowledge-should-not-be-gated
+Comments URL: https://news.ycombinator.com/item?id=48792195
+Points: 21
+# Comments: 2
+- `Hacker News` [Programmers need to start meditating](https://jacob.gold/posts/programmers-need-to-start-meditating-now/)
+> Article URL: https://jacob.gold/posts/programmers-need-to-start-meditating-now/
+Comments URL: https://news.ycombinator.com/item?id=48792080
+Points: 103
+# Comments: 106
+- `Hacker News` [Fast Software, the Best Software (2019)](https://craigmod.com/essays/fast_software/)
+> Article URL: https://craigmod.com/essays/fast_software/
+Comments URL: https://news.ycombinator.com/item?id=48792008
+Points: 55
+# Comments: 23
+- `Hacker News` [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
+> Article URL: https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/
+Comments URL: https://news.ycombinator.com/item?id=48791990
+Points: 14
+# Comments: 4
+- `Hacker News` [Dark Mode with Web Standards](https://olliewilliams.xyz/blog/dark-mode/)
+> Article URL: https://olliewilliams.xyz/blog/dark-mode/
+Comments URL: https://news.ycombinator.com/item?id=48791973
 Points: 12
-# Comments: 0
-- `Hacker News` [Drone Autonomy Crash Course](https://www.cggonzalez.com/blog/index.html)
-> Article URL: https://www.cggonzalez.com/blog/index.html
-Comments URL: https://news.ycombinator.com/item?id=48789965
-Points: 18
-# Comments: 1
-- `Hacker News` [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
-> Article URL: https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets
-Comments URL: https://news.ycombinator.com/item?id=48789712
-Points: 60
-# Comments: 13
-- `Hacker News` [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
-> Article URL: https://github.com/openai/codex/issues/30364
-Comments URL: https://news.ycombinator.com/item?id=48789428
-Points: 180
-# Comments: 56
+# Comments: 2
+- `TechCrunch` [Almost 90 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/)
+> With AI igniting an investor frenzy, more startups are achieving unicorn status every month.
 - `TechCrunch` [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/)
 > Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
 - `TechCrunch` [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)
@@ -166,8 +165,10 @@ Points: 180
 > The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.
 - `TechCrunch` [Politician who investigated spyware abuses had his phone hacked with Pegasus spyware](https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/)
 > A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the s...
-- `TechCrunch` [Last chance to apply — Startup Battlefield Australia applications close July 6](https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/)
-> If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.
+- `The Verge` [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review)
+> When I first started testing Vizio's 65-inch Mini LED Quantum TV, I thought the big story was that Vizio was back and that it had a quantum-dot TV for under $398 - the cheapest on the market. Vizio...
+- `The Verge` [Xbox is a disaster](https://www.theverge.com/column/960600/xbox-is-a-disaster)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the bleak state of the video game industry, follow Andrew Webster. The Stepback arrives ...
 - `The Verge` [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)
 > The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off it...
 - `The Verge` [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
@@ -184,10 +185,6 @@ Points: 180
 > Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer...
 - `The Verge` [Qi fan fan](https://www.theverge.com/tech/961332/qi-active-cooling-really-works)
 > Despite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky, but ...
-- `The Verge` [Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM](https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update)
-> The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it wa...
-- `The Verge` [While you’re watching the World Cup, the feds may be watching you](https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras)
-> It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of peopl...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
