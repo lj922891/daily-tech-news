@@ -6,10 +6,41 @@
 
 # 📰 每日科技日报 — 2026-07-06
 
-> 自动收集于 2026-07-06 04:07 | 共 50 条
+> 自动收集于 2026-07-06 14:50 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime](https://36kr.com/p/3884024701874183?f=rss)
+> 大公司：
+  郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销”
+  知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部，约占苹果总出货量的10%。该产品价格可能在2300至2500美元左右，而供应限制将导...
+- `36氪` [获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目](https://36kr.com/p/3883591654895873?f=rss)
+> 文｜吴思瑾
+  编辑｜邓咏仪
+  01 一句话介绍
+  北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。
+  简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业绩提升，反向降低对...
+- `36氪` [36氪首发｜前西门子、罗罗电动飞行团队创业做航空电驱系统，两轮连融数千万元](https://36kr.com/p/3883721315971078?f=rss)
+> 本文约3000字，建议阅读6分钟
+  作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，开普动能航空技术有限责任公司（以下简称“开普动能”）近期连续完成种子轮及天使轮融资，两轮融资合计金额达数千万元人民币，由零以资本领投、新鼎资本跟投，唯快资本担任长期财务顾问。
+  随着eVTOL产业进入工程化阶段，航空电驱系统正成为产业链中技术壁垒最高的核心环节...
+- `36氪` [上市前夜 | 哈工大在读博士以百亿市值冲港股IPO，创始三人只剩一人](https://36kr.com/p/3883708118921480?f=rss)
+> 本文约3600字，建议阅读8分钟
+  作者 | 彭孝秋
+  
+   编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第二期——珞石机器人。
+  
+  7月6日上午10点，珞石机器人港股IPO招股结束。此次IPO定价38港元，每手100股，对应市值99.46亿港元。合计募资8.75亿港元，五家基石认购31....
+- `36氪` [上市前夜｜4个月净利润38.4亿元，深圳存储黑马冲港股IPO](https://36kr.com/p/3883706720727303?f=rss)
+> 本文约3400字，建议阅读7分钟
+  作者 | 彭孝秋
+  
+   编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第一期——深圳宏芯宇电子。
+  
+  7月3日，一家名叫宏芯宇电子的深圳公司，向港交所递交了招股书，此次IPO独家保荐人是中信建投。
+  招股书里最亮眼的是这么一组数字：2026年前四个月，...
 - `36氪` [跨境电商风向转变：新生代不再只拼价格，开始争“定价权”丨最前线](https://36kr.com/p/3883561480876297?f=rss)
 > 作者丨欧雪
   编辑丨最前线
@@ -42,39 +73,12 @@
 - `36氪` [鄂尔多斯、和达金服共同领投，「贻如科技」完成超亿元A轮融资｜36氪首发](https://36kr.com/p/3880060701388809?f=rss)
 > 36氪获悉，生物基皮革公司「贻如科技」完成超亿元A轮融资，本轮融资由鄂尔多斯集团与和达金服共同领投，巢生资本跟投，易凯资本担任独家财务顾问。本轮资金将主要用于推动公司商业化开拓与产能建设，并依托AI技术加速生物基皮革的技术革新与产品迭代。
   贻如科技成立于2021年，以合成生物学为底层技术，创造以生物基皮革为代表的新一代创新生物基材料——通过微生物发酵直接生产生物基树脂原料，经加工后制成皮...
-- `36氪` [硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统](https://36kr.com/p/3882365879005186?f=rss)
-> 作者 | 邱晓芬
-  编辑 | 袁斯来
-  硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。
-  「忆生科技」致力于从科学第一性原理出发，用"感知—预测—交互"闭环构建机器人"大脑+小脑"统一系统，...
-- `36氪` [硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业](https://36kr.com/p/3882364132077577?f=rss)
-> 作者 | 邱晓芬
-  编辑 | 袁斯来
-  硬氪获悉，具身智能公司「光象科技」宣布完成累计数亿元天使轮融资。
-  最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本、上市公司行云科技等头部财投与产投深度参与，老股东零一创投、L2F光源创业者基金持续加注。
-  本轮资金将重点投入物理原生基座模型的研发迭代，并推进...
-- `36氪` [硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过](https://36kr.com/p/3882361033322755?f=rss)
-> 作者 | 邱晓芬
-  编辑 | 袁斯来
-  硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。
-  这是目前餐饮垂直机器人领域规模最大的一笔融资之一。
-  在此之前，「影智XBOT」还完成了一轮天使融资...
-- `36氪` [对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？](https://36kr.com/p/3880770270425089?f=rss)
-> 《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。
-  7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。
-  当天的机甲徒步活动由傲鲨联合户外平台...
-- `36氪` [9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司](https://36kr.com/p/3880629882679301?f=rss)
-> 今日热点导览
-  
-   三部门：调整节能汽车、新能源汽车车船税优惠政策
-   三星传获Meta超10万亿韩元AI芯片代工订单
-   茉莉奶白小程序更换彩色Logo
-   Meta打算出售富余算力引发科技股回落
-   英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗
-  
-  TOP3大新闻
-  因存在植入后门风险，阿里内部全面禁用Claude Code
-  36氪从阿里内部...
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/111999)
+> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它](https://sspai.com/post/111113)
+> 但恰恰是这些取舍让我重新开始思考：什么才是真正重要的体验。查看全文
+- `少数派` [自动给文章术语加百科链接，这个方案一分钟搞定](https://sspai.com/post/111702)
+> 我给博客做了一个「术语小助手」，让陌生名词不再打断阅读。查看全文
 - `少数派` [派早报：阿里禁用 Claude 模型](https://sspai.com/post/111973)
 > 阿里禁用 Claude 模型索尼调整计划，2028 年前发售游戏可继续生产光盘千问、豆包将下线智能体功能Android 反垄断案欧洲终审败诉 混动车、商用纯电车将不再免征车船税电商法修正案征求意见看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」](https://sspai.com/post/111632)
@@ -89,65 +93,65 @@
 > 敬「少许的牺牲是必要的」。查看全文
 - `少数派` [这四个工作习惯，或许也能帮你找到掌控感](https://sspai.com/post/111708)
 > 无论你追求的是更高的职位、更自由的时间、还是某种更纯粹的成就感，有一件事大概是共通的：那就是尽量让自己的人生，少一点完全依赖运气的成分，多一点可被掌控、可被验证的路径。查看全文
-- `少数派` [派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等](https://sspai.com/post/111898)
-> Apple「隐藏邮件地址」功能存在隐私漏洞，System76 推出 Linux 轻薄本 Lemur Pro 等。查看全文
-- `少数派` [iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息](https://sspai.com/post/110950)
-> 你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...查看全文
-- `少数派` [共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机](https://sspai.com/post/111069)
-> 近年来，伴随着复古浪潮的席卷而来，许多玩家似乎又重新关注起了一些老游戏、老设备。从2022年的3DS涨价风波，到后来层出不穷的所谓「开源掌机」，大家似乎都在寻找一个通往童年的入口，重新回味那些历久弥新 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)
-> Article URL: https://qount25.dev/Shrimple/
-Comments URL: https://news.ycombinator.com/item?id=48800026
-Points: 3
-# Comments: 1
-- `Hacker News` [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
-> Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support
-Comments URL: https://news.ycombinator.com/item?id=48799929
-Points: 17
-# Comments: 1
-- `Hacker News` [The Sneakerweb](https://sneakerweb.org/)
-> Article URL: https://sneakerweb.org/
-Comments URL: https://news.ycombinator.com/item?id=48799781
-Points: 27
-# Comments: 6
-- `Hacker News` [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
-> Article URL: https://twitter.com/thsottiaux/status/2073933490513752151
-Comments URL: https://news.ycombinator.com/item?id=48799614
-Points: 130
-# Comments: 66
-- `Hacker News` [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
-> Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt
-Comments URL: https://news.ycombinator.com/item?id=48799256
-Points: 118
-# Comments: 41
-- `Hacker News` [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
-> Article URL: https://www.wysr.xyz/p/the-private-capture-of-public-genius
-Comments URL: https://news.ycombinator.com/item?id=48799178
-Points: 56
-# Comments: 14
-- `Hacker News` [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
-> Article URL: https://iamwillwang.com/notes/has-not-been-viewed-much/
-Comments URL: https://news.ycombinator.com/item?id=48799155
-Points: 126
-# Comments: 35
-- `Hacker News` [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
-> Article URL: https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/
-Comments URL: https://news.ycombinator.com/item?id=48799026
-Points: 28
-# Comments: 16
-- `Hacker News` [Does Code Cleanliness Affect Coding Agents?](https://arxiv.org/abs/2605.20049)
-> Article URL: https://arxiv.org/abs/2605.20049
-Comments URL: https://news.ycombinator.com/item?id=48798815
-Points: 52
-# Comments: 23
-- `Hacker News` [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
-> Article URL: https://github.com/514-labs/dnsglobe
-Comments URL: https://news.ycombinator.com/item?id=48798313
+- `Hacker News` [Footage Shows Cop Stalking Woman After Surveilling Her with a LPR](https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/)
+> Article URL: https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/
+Comments URL: https://news.ycombinator.com/item?id=488044...
+- `Hacker News` [Aluminum Foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)
+> Article URL: https://dernocua.github.io/notes/aluminum-foil.html
+Comments URL: https://news.ycombinator.com/item?id=48804297
+Points: 42
+# Comments: 8
+- `Hacker News` ['There Is No Going Back': The Inside Story of Europe's Rupture with America](https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c)
+> Article URL: https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c
+Comments URL: https://news.ycombinator.com/item?id=48804278
+Points: 24
+# Comments: 5
+- `Hacker News` [Real time map of France's rail network](https://carto.tchoo.net/)
+> Article URL: https://carto.tchoo.net/
+Comments URL: https://news.ycombinator.com/item?id=48804218
 Points: 32
-# Comments: 24
+# Comments: 8
+- `Hacker News` [Nintendo announces new product revisions in Europe with replaceable batteries](https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html)
+> Article URL: https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html
+Comments URL: https://news.ycombina...
+- `Hacker News` [Show HN: Scan your AI agents for dangerous capabilities](https://github.com/makerchecker/MakerChecker)
+> Article URL: https://github.com/makerchecker/MakerChecker
+Comments URL: https://news.ycombinator.com/item?id=48804182
+Points: 19
+# Comments: 10
+- `Hacker News` [How Kalshi Infects the News](https://www.publicnotice.co/p/kalshi-cnn-cnbc)
+> Article URL: https://www.publicnotice.co/p/kalshi-cnn-cnbc
+Comments URL: https://news.ycombinator.com/item?id=48804123
+Points: 6
+# Comments: 1
+- `Hacker News` [Why low-latency Java still requires discipline?](https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline)
+> Article URL: https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline
+Comments URL: https://news.ycombinator.com/item?id=48804017
+Points: 22
+# Comments: 4
+- `Hacker News` [Workers Cache](https://blog.cloudflare.com/workers-cache/)
+> Article URL: https://blog.cloudflare.com/workers-cache/
+Comments URL: https://news.ycombinator.com/item?id=48804014
+Points: 134
+# Comments: 44
+- `Hacker News` [Show HN: Pet Reminder – A macOS reminder app with a desktop pet](https://reminder.w3cub.com/)
+> Article URL: https://reminder.w3cub.com/
+Comments URL: https://news.ycombinator.com/item?id=48804000
+Points: 13
+# Comments: 3
+- `TechCrunch` [Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year](https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/)
+> The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the country and its top allies.
+- `TechCrunch` [How to reserve and change your WhatsApp username](https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/)
+> WhatsApp now lets users reserve usernames ahead of the feature’s full rollout, making it possible to connect without sharing a phone number once usernames go live.
+- `TechCrunch` [Station F ramps up as a launchpad for Europe’s hottest AI startups](https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/)
+> Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping ...
+- `TechCrunch` [Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent](https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/)
+> Even Realities, an ex-Apple team building camera-free smart glasses, raised $150 million from Meituan and Tencent at a $1 billion valuation.
+- `TechCrunch` [This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home ...](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/)
+> While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
 - `TechCrunch` [Uber’s European expansion plans may have hit a speed bump](https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/)
 > Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.
 - `TechCrunch` [Trump memecoin investors lost $3.8 billion, analysis finds](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/)
@@ -158,36 +162,26 @@ Points: 32
 > The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.
 - `TechCrunch` [What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
 > Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.
-- `TechCrunch` [Almost 90 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/)
-> With AI igniting an investor frenzy, more startups are achieving unicorn status every month.
-- `TechCrunch` [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/)
-> Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
-- `TechCrunch` [Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)
-> As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.
-- `TechCrunch` [Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)
-> Alibaba has reportedly classified Claude Code as high-risk software.
-- `TechCrunch` [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
-> Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”
+- `The Verge` [Inside the big business of the creator economy, with the agents making it happen](https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing)
+> We’ve got another special episode of Decoder today, recorded at the Cannes Lions advertising festival in the South of France. I’m talking with Ali Berman and Raina Penchansky, who run the Creators ...
+- `The Verge` [Nintendo will stop selling the original Switch in Europe next year](https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued)
+> Nintendo is making a new version of the Switch 2 with a replaceable battery in Europe - but its predecessor has a very different future. As part of an updated FAQ about revisions to Nintendo hardwa...
+- `The Verge` [Can Partiful keep the party going?](https://www.theverge.com/report/960635/partiful-app-event-planning-data-palantir)
+> One hundred dollars will buy you 8 pounds of glitter; 10 Domino's pizzas; 406 miniature disco balls from Temu; or 100 cans of Coors Light. For a friend's birthday party one year, Ayla D'Silva spent...
+- `The Verge` [Microsoft is selling off four Xbox studios as part of significant gaming cuts](https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026)
+> Microsoft is laying off 4,800 employees today, and more than 30 percent of the job losses are in the company's Xbox division. The significant gaming cuts will affect nearly every part of Xbox and a...
+- `The Verge` [Microsoft is laying off 4,800 employees](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox)
+> A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximat...
 - `The Verge` [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep)
 > Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealth...
-- `The Verge` [Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review)
-> There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip hop. While the label featured plenty of experimental, boundary-pushing, an...
+- `The Verge` [Mr. Lif’s Emergency Rations EP is post-9/11 hip-hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review)
+> There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip-hop. While the label featured plenty of experimental, boundary-pushing, an...
 - `The Verge` [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy)
 > Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launch, with physical cases cont...
 - `The Verge` [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence)
 > "Group project, but make it 1776." That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers t...
 - `The Verge` [The Sourdough Sidekick automates the boring bit of baking](https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter)
 > Baking sourdough bread is inherently old-fashioned, relying on natural fermentation and wild yeast instead of the simple, predictable commercial stuff. So it might sound anathema to bring a gadget ...
-- `The Verge` [How Keurig saved — and ruined — your coffee](https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history)
-> Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You ...
-- `The Verge` [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review)
-> When I first started testing Vizio's 65-inch Mini LED Quantum TV, I thought the big story was that Vizio was back and that it had a quantum-dot TV for under $398 - the cheapest on the market. Vizio...
-- `The Verge` [Xbox is a disaster](https://www.theverge.com/column/960600/xbox-is-a-disaster)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the bleak state of the video game industry, follow Andrew Webster. The Stepback arrives ...
-- `The Verge` [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)
-> The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off it...
-- `The Verge` [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
-> The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Repub...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
