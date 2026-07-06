@@ -4,12 +4,44 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-05
+# 📰 每日科技日报 — 2026-07-06
 
-> 自动收集于 2026-07-05 13:01 | 共 50 条
+> 自动收集于 2026-07-06 04:07 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [跨境电商风向转变：新生代不再只拼价格，开始争“定价权”丨最前线](https://36kr.com/p/3883561480876297?f=rss)
+> 作者丨欧雪
+  编辑丨最前线
+  6月30日，亚马逊全球开店与福布斯中国联合发布“2026福布斯中国新生代跨境电商30人评选”，30位入选者平均年龄仅35岁，95后已开始崭露头角。
+  入选者既有3D打印、庭院机器人、AI助听器等硬核科技赛道的开拓者，也有家具、家居、服装等传统产业的变革者。他们来自广东、浙江、江苏三省，占比超过75%。更重要的是，这些年轻创业者共同票选出了三个年度关键词：“...
+- `36氪` [AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪](https://36kr.com/p/3883456791163138?f=rss)
+> 访谈｜任彩茹 兰杰 彭倩
+  文｜任彩茹
+  编辑｜乔芊 杨轩
+  “630”减员，AI是祸首还是替罪羊?
+  “现在公司有（减员）名单，你在这里面。”5月中的一天，林越被组长叫进会议室，对方开门见山。
+  林越的第一反应是平静，他早有预料。早在今年三四月，一些互联网公司内部便传出要裁员的风声。开年以来，中国互联网大公司围绕AI提效激进开展的token竞赛、培训会、隐形考核等，无处不在。当所...
+- `36氪` [2026，量子计算迟到的狂欢：能拿订单、奔赴IPO、市值破百亿](https://36kr.com/p/3883513899380744?f=rss)
+> 图源/视觉中国
+  作者丨欧雪
+  编辑丨袁斯来
+  如果在七年前，有人告诉一个投资人，量子计算公司会有订单，还能在纳斯达克上市，市值破150亿美元，对方大概率会把这人当个骗子。
+  他们很多人都记得前几年那场“量子寒冬”。那一年，谷歌用量子处理器完成了一项计算， 200秒算出了超级计算机1万年才能得出的结果。人们以为， 量子霸权实现了，量子计算机真的能解决经典计算机无法解决的问题。
+  狂...
+- `36氪` [8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价](https://36kr.com/p/3883400536453381?f=rss)
+> 今日热点导览
+  苹果Siri AI秋季上线，仅限iPhone 15 Pro及以上机型
+  蒋方舟再回应被清华教授指控论文造假
+  张雪称负债接近1亿元，本月将还清全部债务
+  黑石集团放弃全球最大数据中心项目，意味着该建设计划已宣告破产
+  印度政府：正调查苹果手机信息泄露事件
+  TOP3大新闻
+  7-11起诉耐克，指控其新鞋配色抄袭7-11标志性颜色
+  据报道，跨国连锁零售公司7-...
+- `36氪` [鄂尔多斯、和达金服共同领投，「贻如科技」完成超亿元A轮融资｜36氪首发](https://36kr.com/p/3880060701388809?f=rss)
+> 36氪获悉，生物基皮革公司「贻如科技」完成超亿元A轮融资，本轮融资由鄂尔多斯集团与和达金服共同领投，巢生资本跟投，易凯资本担任独家财务顾问。本轮资金将主要用于推动公司商业化开拓与产能建设，并依托AI技术加速生物基皮革的技术革新与产品迭代。
+  贻如科技成立于2021年，以合成生物学为底层技术，创造以生物基皮革为代表的新一代创新生物基材料——通过微生物发酵直接生产生物基树脂原料，经加工后制成皮...
 - `36氪` [硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统](https://36kr.com/p/3882365879005186?f=rss)
 > 作者 | 邱晓芬
   编辑 | 袁斯来
@@ -43,36 +75,8 @@
   TOP3大新闻
   因存在植入后门风险，阿里内部全面禁用Claude Code
   36氪从阿里内部...
-- `36氪` [36氪首发 | 剑桥副教授创业硅光芯片，已合作华为，获一亿投资](https://36kr.com/p/3879991356157952?f=rss)
-> 图源/企业
-  作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。
-  光引科技2021年成立于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔为剑桥大学博士、剑桥大学副教授，在光子集成领域深耕超16年...
-- `36氪` [400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线](https://36kr.com/p/3879807100023040?f=rss)
-> 文｜胡香赟
-  编辑｜海若镜
-  2026年6月底，西班牙瓦尔德希伯伦大学医院（Vall d’Hebron University Hospital）宣布完成欧洲首例单孔机器人儿科肾输尿管切除术。
-  瓦尔德希伯伦大学医院是西班牙规模最大的综合医院之一，年接诊量过百万人次，在整个欧洲医疗系统内，这家医院对前沿医疗技术、产品的探索都称得上“先锋”。此前，世界首例供体来自安乐死患者的面部移植手术就...
-- `36氪` [秋声 | 袁进辉新公司冲港股IPO，成立不到三年](https://36kr.com/p/3879814941437956?f=rss)
-> 本文约2700字，建议阅读6分钟
-  作者 | 彭孝秋
-  
-   编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。
-   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第七期，硅基流动。
-  
-  Q...
-- `36氪` [氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实](https://36kr.com/p/3879796756754694?f=rss)
-> 大公司：
-  德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元
-  针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿模型或“超级智能”布局，而更可能是将较旧、非核心或阶段性闲置的算力对外变现，同时保留最新一代芯片用于内部训练。此举有望把市场对Meta“高资本开支、收入回报有限”的担忧，转向对其新增高利...
-- `36氪` [理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家](https://36kr.com/p/3877919172047111?f=rss)
-> 图源视觉中国
-  文｜肖漫编辑｜李勤、杨轩
-  “回归创业状态”，去年李想说出这个目标后，理想汽车还在进行组织和流程精简。
-  36氪汽车从多位知情人士处获悉，理想即将围绕产品决策流程进行新一轮组织架构调整，计划将产品部的部分关键职能拆分，并入研发部门。
-  从群组关系来看，理想汽车产品部由范皓宇负责，包含电动本体、空间智能、自动驾驶终端产品、交互设计、平台运营、App与官网等。
-  了解调...
+- `少数派` [派早报：阿里禁用 Claude 模型](https://sspai.com/post/111973)
+> 阿里禁用 Claude 模型索尼调整计划，2028 年前发售游戏可继续生产光盘千问、豆包将下线智能体功能Android 反垄断案欧洲终审败诉 混动车、商用纯电车将不再免征车船税电商法修正案征求意见看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」](https://sspai.com/post/111632)
 > 每个单词都认识，为什么还是读不懂英文？查看全文
 - `少数派` [[送码] 聆听用户建议，1Capture 新增多项实用截图功能](https://sspai.com/post/111645)
@@ -91,60 +95,69 @@
 > 你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真正有空时却想不起存到了哪里。收到快递取件 ...查看全文
 - `少数派` [共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机](https://sspai.com/post/111069)
 > 近年来，伴随着复古浪潮的席卷而来，许多玩家似乎又重新关注起了一些老游戏、老设备。从2022年的3DS涨价风波，到后来层出不穷的所谓「开源掌机」，大家似乎都在寻找一个通往童年的入口，重新回味那些历久弥新 ...查看全文
-- `少数派` [家用游戏机的新选择，Steam Machine 玩起来怎么样？](https://sspai.com/post/111763)
-> 本文由IGN中国编译自IGNUS相关内容，原作者JacquelineThomas、编译者Tony，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>在经历八个月的等待之后，SteamMach ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Educators disciplined over Charlie Kirk posts are securing big payouts](https://www.nbcnews.com/news/us-news/educators-disciplined-charlie-kirk-posts-are-securing-big-payouts-rcna352568)
-> Article URL: https://www.nbcnews.com/news/us-news/educators-disciplined-charlie-kirk-posts-are-securing-big-payouts-rcna352568
-Comments URL: https://news.ycombinator.com/item?id=48793726
-Points: 18...
-- `Hacker News` [The Engineer in the Half-Space](https://yusufaytas.com/the-engineer-in-the-half-space)
-> Article URL: https://yusufaytas.com/the-engineer-in-the-half-space
-Comments URL: https://news.ycombinator.com/item?id=48793716
+- `Hacker News` [Shrimple – A Simpler, Nicer Markdown](https://qount25.dev/Shrimple/)
+> Article URL: https://qount25.dev/Shrimple/
+Comments URL: https://news.ycombinator.com/item?id=48800026
+Points: 3
+# Comments: 1
+- `Hacker News` [Building relationships with customers through support didn't turn out as hoped](https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support)
+> Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support
+Comments URL: https://news.ycombinator.com/item?id=48799929
 Points: 17
 # Comments: 1
-- `Hacker News` [Scientist who cleaned space toilet on work now leading Mars exploration](https://www.bbc.com/news/articles/cz758x04g83o)
-> Article URL: https://www.bbc.com/news/articles/cz758x04g83o
-Comments URL: https://news.ycombinator.com/item?id=48792780
-Points: 17
-# Comments: 4
-- `Hacker News` [Claude Design System Prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
-> Article URL: https://github.com/Trystan-SA/claude-design-system-prompt
-Comments URL: https://news.ycombinator.com/item?id=48792399
-Points: 42
-# Comments: 7
-- `Hacker News` [Apocketlypse](https://0dd.company/galleries/triumph/1.html)
-> Article URL: https://0dd.company/galleries/triumph/1.html
-Comments URL: https://news.ycombinator.com/item?id=48792352
-Points: 26
-# Comments: 5
-- `Hacker News` [Knowledge Should Not Be Gated](https://www.formaly.io/blog/knowledge-should-not-be-gated)
-> Article URL: https://www.formaly.io/blog/knowledge-should-not-be-gated
-Comments URL: https://news.ycombinator.com/item?id=48792195
-Points: 21
-# Comments: 2
-- `Hacker News` [Programmers need to start meditating](https://jacob.gold/posts/programmers-need-to-start-meditating-now/)
-> Article URL: https://jacob.gold/posts/programmers-need-to-start-meditating-now/
-Comments URL: https://news.ycombinator.com/item?id=48792080
-Points: 103
-# Comments: 106
-- `Hacker News` [Fast Software, the Best Software (2019)](https://craigmod.com/essays/fast_software/)
-> Article URL: https://craigmod.com/essays/fast_software/
-Comments URL: https://news.ycombinator.com/item?id=48792008
-Points: 55
+- `Hacker News` [The Sneakerweb](https://sneakerweb.org/)
+> Article URL: https://sneakerweb.org/
+Comments URL: https://news.ycombinator.com/item?id=48799781
+Points: 27
+# Comments: 6
+- `Hacker News` [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+> Article URL: https://twitter.com/thsottiaux/status/2073933490513752151
+Comments URL: https://news.ycombinator.com/item?id=48799614
+Points: 130
+# Comments: 66
+- `Hacker News` [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)
+> Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt
+Comments URL: https://news.ycombinator.com/item?id=48799256
+Points: 118
+# Comments: 41
+- `Hacker News` [The Private Capture of Public Genius](https://www.wysr.xyz/p/the-private-capture-of-public-genius)
+> Article URL: https://www.wysr.xyz/p/the-private-capture-of-public-genius
+Comments URL: https://news.ycombinator.com/item?id=48799178
+Points: 56
+# Comments: 14
+- `Hacker News` [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
+> Article URL: https://iamwillwang.com/notes/has-not-been-viewed-much/
+Comments URL: https://news.ycombinator.com/item?id=48799155
+Points: 126
+# Comments: 35
+- `Hacker News` [Connections in Math: the two kinds of random](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
+> Article URL: https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/
+Comments URL: https://news.ycombinator.com/item?id=48799026
+Points: 28
+# Comments: 16
+- `Hacker News` [Does Code Cleanliness Affect Coding Agents?](https://arxiv.org/abs/2605.20049)
+> Article URL: https://arxiv.org/abs/2605.20049
+Comments URL: https://news.ycombinator.com/item?id=48798815
+Points: 52
 # Comments: 23
-- `Hacker News` [Reducing Assumptions, Exploding Your Code](https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/)
-> Article URL: https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/
-Comments URL: https://news.ycombinator.com/item?id=48791990
-Points: 14
-# Comments: 4
-- `Hacker News` [Dark Mode with Web Standards](https://olliewilliams.xyz/blog/dark-mode/)
-> Article URL: https://olliewilliams.xyz/blog/dark-mode/
-Comments URL: https://news.ycombinator.com/item?id=48791973
-Points: 12
-# Comments: 2
+- `Hacker News` [DNSGlobe – Rust TUI to watch DNS propagate around the world](https://github.com/514-labs/dnsglobe)
+> Article URL: https://github.com/514-labs/dnsglobe
+Comments URL: https://news.ycombinator.com/item?id=48798313
+Points: 32
+# Comments: 24
+- `TechCrunch` [Uber’s European expansion plans may have hit a speed bump](https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/)
+> Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.
+- `TechCrunch` [Trump memecoin investors lost $3.8 billion, analysis finds](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/)
+> Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.
+- `TechCrunch` [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
+> These may be the last days of Amazon’s Mechanical Turk.
+- `TechCrunch` [5 desk gadgets that can make your workday better](https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/)
+> The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.
+- `TechCrunch` [What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
+> Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.
 - `TechCrunch` [Almost 90 new unicorns have been minted so far this year — here they are](https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/)
 > With AI igniting an investor frenzy, more startups are achieving unicorn status every month.
 - `TechCrunch` [New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/)
@@ -155,16 +168,18 @@ Points: 12
 > Alibaba has reportedly classified Claude Code as high-risk software.
 - `TechCrunch` [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
 > Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”
-- `TechCrunch` [The only AI glossary you’ll need this year](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
-> The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
-- `TechCrunch` [The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari](https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/)
-> We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
-- `TechCrunch` [The Dune keypad device can be your meeting controller and more](https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/)
-> The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.
-- `TechCrunch` [Chevy built an all-American EV truck — why is nobody buying it?](https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/)
-> The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.
-- `TechCrunch` [Politician who investigated spyware abuses had his phone hacked with Pegasus spyware](https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/)
-> A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the s...
+- `The Verge` [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep)
+> Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealth...
+- `The Verge` [Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review)
+> There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip hop. While the label featured plenty of experimental, boundary-pushing, an...
+- `The Verge` [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy)
+> Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launch, with physical cases cont...
+- `The Verge` [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence)
+> "Group project, but make it 1776." That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers t...
+- `The Verge` [The Sourdough Sidekick automates the boring bit of baking](https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter)
+> Baking sourdough bread is inherently old-fashioned, relying on natural fermentation and wild yeast instead of the simple, predictable commercial stuff. So it might sound anathema to bring a gadget ...
+- `The Verge` [How Keurig saved — and ruined — your coffee](https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history)
+> Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You ...
 - `The Verge` [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review)
 > When I first started testing Vizio's 65-inch Mini LED Quantum TV, I thought the big story was that Vizio was back and that it had a quantum-dot TV for under $398 - the cheapest on the market. Vizio...
 - `The Verge` [Xbox is a disaster](https://www.theverge.com/column/960600/xbox-is-a-disaster)
@@ -173,18 +188,6 @@ Points: 12
 > The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off it...
 - `The Verge` [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
 > The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Repub...
-- `The Verge` [Matic’s robot vacuum is getting a $250 price hike in September](https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy)
-> The Matic is our favorite robot vacuum by a pretty comfortable margin. If you’ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its...
-- `The Verge` [Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard](https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview)
-> Erick the Architect is a founding member of, and the primary producer for, the legendary Flatbush Zombies. He's toured the world, performed on Kimmel and Fallon, played Coachella, and collaborated ...
-- `The Verge` [Hey number pad lovers, this is a keyboard we can finally agree on](https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review)
-> I know a vocal group of people who swear by the number pad on their keyboard. And yet, for years I haven't cared about using one - until I put my hands on the Epomaker RT98. It's a mechanical keybo...
-- `The Verge` [The square-ish phone that I wanted to love](https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on)
-> The Ikko MindOne Pro is delightfully small. I keep calling it a square phone, which isn't quite right; the screen is square, but the phone itself is slightly rectangular. The camera flips up so you...
-- `The Verge` [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector)
-> Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer...
-- `The Verge` [Qi fan fan](https://www.theverge.com/tech/961332/qi-active-cooling-really-works)
-> Despite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky, but ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
