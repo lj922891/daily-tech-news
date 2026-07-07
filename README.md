@@ -4,12 +4,41 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-06
+# 📰 每日科技日报 — 2026-07-07
 
-> 自动收集于 2026-07-06 14:50 | 共 50 条
+> 自动收集于 2026-07-07 03:58 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察](https://36kr.com/p/3876837605585160?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。
+  工程师背景出身，曾就职于大疆、美团等头部大厂，拿过顶级机构的钱，履历足以支撑他选择任何一个被市场验证过的热门赛道，在最短时间内做出产品、讲故事、滚动融资。
+  但胡文鑫扎进了一个过去三十年几乎无人问津的品类：家用纺织机。
+  很少有人知道胡文鑫具体在做什么。浪爪智能成立于20...
+- `36氪` [用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发](https://36kr.com/p/3883943959621634?f=rss)
+> 文｜胡香赟
+  编辑｜海若镜
+  36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作，以及团队扩充等。此外，华源智因团队已计划启动新一轮融资。
+  华源智因创始团队由资深医药产业从业者、计算生物学研发人员组成，并邀请到深圳国家基因库等单位专家组成科学顾问委员会，形成...
+- `36氪` [36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资](https://36kr.com/p/3884289424437511?f=rss)
+> 图源/企业
+  
+   本文约2000字，建议阅读5分钟
+  
+  作者丨欧雪
+  编辑丨袁斯来
+  硬氪获悉，上海快粼光电科技有限公司（以下简称“快粼光电”）近期已完成数千万元天使轮融资。本轮融资由小苗朗程领投，一村资本跟投。中岚科创担任长期财务顾问，提供产业协同和资本对接服务。此次募集资金将主要用于公司超高速光探测芯片的研发迭代与送样验证，加速国产光探测芯片量产进程以及企业高端人才引进。...
+- `36氪` [8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”](https://36kr.com/p/3884831072514309?f=rss)
+> 今日热点导览
+  华为Mate90系列有望搭载基于韬定律的新麒麟芯片
+  央视曝光滴眼液涉事企业被立案，对滴眼液乱象开展调查处置 
+  千问大模型升级实时语音识别大模型Fun-ASR-Realtime
+  WPS回应“滥收费、背刺用户”言论
+  TOP3大新闻
+  SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模
+  据报道，SK海力士将以约44万亿韩元...
 - `36氪` [氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime](https://36kr.com/p/3884024701874183?f=rss)
 > 大公司：
   郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销”
@@ -44,35 +73,10 @@
 - `36氪` [跨境电商风向转变：新生代不再只拼价格，开始争“定价权”丨最前线](https://36kr.com/p/3883561480876297?f=rss)
 > 作者丨欧雪
   编辑丨最前线
-  6月30日，亚马逊全球开店与福布斯中国联合发布“2026福布斯中国新生代跨境电商30人评选”，30位入选者平均年龄仅35岁，95后已开始崭露头角。
-  入选者既有3D打印、庭院机器人、AI助听器等硬核科技赛道的开拓者，也有家具、家居、服装等传统产业的变革者。他们来自广东、浙江、江苏三省，占比超过75%。更重要的是，这些年轻创业者共同票选出了三个年度关键词：“...
-- `36氪` [AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪](https://36kr.com/p/3883456791163138?f=rss)
-> 访谈｜任彩茹 兰杰 彭倩
-  文｜任彩茹
-  编辑｜乔芊 杨轩
-  “630”减员，AI是祸首还是替罪羊?
-  “现在公司有（减员）名单，你在这里面。”5月中的一天，林越被组长叫进会议室，对方开门见山。
-  林越的第一反应是平静，他早有预料。早在今年三四月，一些互联网公司内部便传出要裁员的风声。开年以来，中国互联网大公司围绕AI提效激进开展的token竞赛、培训会、隐形考核等，无处不在。当所...
-- `36氪` [2026，量子计算迟到的狂欢：能拿订单、奔赴IPO、市值破百亿](https://36kr.com/p/3883513899380744?f=rss)
-> 图源/视觉中国
-  作者丨欧雪
-  编辑丨袁斯来
-  如果在七年前，有人告诉一个投资人，量子计算公司会有订单，还能在纳斯达克上市，市值破150亿美元，对方大概率会把这人当个骗子。
-  他们很多人都记得前几年那场“量子寒冬”。那一年，谷歌用量子处理器完成了一项计算， 200秒算出了超级计算机1万年才能得出的结果。人们以为， 量子霸权实现了，量子计算机真的能解决经典计算机无法解决的问题。
-  狂...
-- `36氪` [8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价](https://36kr.com/p/3883400536453381?f=rss)
-> 今日热点导览
-  苹果Siri AI秋季上线，仅限iPhone 15 Pro及以上机型
-  蒋方舟再回应被清华教授指控论文造假
-  张雪称负债接近1亿元，本月将还清全部债务
-  黑石集团放弃全球最大数据中心项目，意味着该建设计划已宣告破产
-  印度政府：正调查苹果手机信息泄露事件
-  TOP3大新闻
-  7-11起诉耐克，指控其新鞋配色抄袭7-11标志性颜色
-  据报道，跨国连锁零售公司7-...
-- `36氪` [鄂尔多斯、和达金服共同领投，「贻如科技」完成超亿元A轮融资｜36氪首发](https://36kr.com/p/3880060701388809?f=rss)
-> 36氪获悉，生物基皮革公司「贻如科技」完成超亿元A轮融资，本轮融资由鄂尔多斯集团与和达金服共同领投，巢生资本跟投，易凯资本担任独家财务顾问。本轮资金将主要用于推动公司商业化开拓与产能建设，并依托AI技术加速生物基皮革的技术革新与产品迭代。
-  贻如科技成立于2021年，以合成生物学为底层技术，创造以生物基皮革为代表的新一代创新生物基材料——通过微生物发酵直接生产生物基树脂原料，经加工后制成皮...
+  6月30日，亚马逊全球开店与福布斯中国联合发布“2026福布斯中国新生代跨境电商30人评选���，30位入选者平均年龄仅35岁，95后已开始崭露头角。
+  入选者既有3D打印、庭院机器人、AI助听器等硬核科技赛道的开拓者，也有家具、家居、服装等传统产业的变革者。他们来自广东、浙江、江苏三省，占比超过75%。更重要的是，这些年轻创业者共同票选出了三个年度关键词...
+- `少数派` [派早报：Xbox 启动史上最大的业务重组计划等](https://sspai.com/post/112010)
+> 少数派的近期动态声擎×少数派｜「角落新声」征文活动已经启动。投稿赚音箱少数派×AKKO联合共创带屏键盘计划于7月9日开启。预约直播你可能错过的文章自动给文章术语加百科链接，这个方案一分钟搞定iPhon ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/111999)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它](https://sspai.com/post/111113)
@@ -91,77 +95,91 @@
 > 📅本周新预告《奥德赛》终极预告7月1日，克里斯托弗·诺兰导演新作《奥德赛》发布了终极预告，北美7月17日、中国内地8月14日上映。马特·达蒙、汤姆·霍兰德、安妮·海瑟薇、赞达亚、露皮塔·尼永奥、罗伯特 ...查看全文
 - `少数派` [快捷指令｜让 iPhone 用上锤子的「大爆炸」](https://sspai.com/post/111405)
 > 敬「少许的牺牲是必要的」。查看全文
-- `少数派` [这四个工作习惯，或许也能帮你找到掌控感](https://sspai.com/post/111708)
-> 无论你追求的是更高的职位、更自由的时间、还是某种更纯粹的成就感，有一件事大概是共通的：那就是尽量让自己的人生，少一点完全依赖运气的成分，多一点可被掌控、可被验证的路径。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Footage Shows Cop Stalking Woman After Surveilling Her with a LPR](https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/)
-> Article URL: https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/
-Comments URL: https://news.ycombinator.com/item?id=488044...
-- `Hacker News` [Aluminum Foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)
-> Article URL: https://dernocua.github.io/notes/aluminum-foil.html
-Comments URL: https://news.ycombinator.com/item?id=48804297
+- `Hacker News` [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
+> Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home
+Comments URL: https://news.ycombinator.com/item?id=48812156
+Points: 91
+# Comments: 23
+- `Hacker News` [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
+> Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals
+Comments URL: https://news.ycombinator.com/item?id=48812055
 Points: 42
-# Comments: 8
-- `Hacker News` ['There Is No Going Back': The Inside Story of Europe's Rupture with America](https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c)
-> Article URL: https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c
-Comments URL: https://news.ycombinator.com/item?id=48804278
-Points: 24
-# Comments: 5
-- `Hacker News` [Real time map of France's rail network](https://carto.tchoo.net/)
-> Article URL: https://carto.tchoo.net/
-Comments URL: https://news.ycombinator.com/item?id=48804218
-Points: 32
-# Comments: 8
-- `Hacker News` [Nintendo announces new product revisions in Europe with replaceable batteries](https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html)
-> Article URL: https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html
-Comments URL: https://news.ycombina...
-- `Hacker News` [Show HN: Scan your AI agents for dangerous capabilities](https://github.com/makerchecker/MakerChecker)
-> Article URL: https://github.com/makerchecker/MakerChecker
-Comments URL: https://news.ycombinator.com/item?id=48804182
-Points: 19
 # Comments: 10
-- `Hacker News` [How Kalshi Infects the News](https://www.publicnotice.co/p/kalshi-cnn-cnbc)
-> Article URL: https://www.publicnotice.co/p/kalshi-cnn-cnbc
-Comments URL: https://news.ycombinator.com/item?id=48804123
-Points: 6
-# Comments: 1
-- `Hacker News` [Why low-latency Java still requires discipline?](https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline)
-> Article URL: https://chronicle.software/insights/blogs/why-low-latency-java-still-requires-discipline
-Comments URL: https://news.ycombinator.com/item?id=48804017
-Points: 22
-# Comments: 4
-- `Hacker News` [Workers Cache](https://blog.cloudflare.com/workers-cache/)
-> Article URL: https://blog.cloudflare.com/workers-cache/
-Comments URL: https://news.ycombinator.com/item?id=48804014
-Points: 134
-# Comments: 44
-- `Hacker News` [Show HN: Pet Reminder – A macOS reminder app with a desktop pet](https://reminder.w3cub.com/)
-> Article URL: https://reminder.w3cub.com/
-Comments URL: https://news.ycombinator.com/item?id=48804000
-Points: 13
-# Comments: 3
-- `TechCrunch` [Canadian spy agency says it hacked drug traffickers, extremists and a ransomware gang last year](https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/)
-> The hacking operations disclosed in a Canadian spy agency's annual report underscores some pressing national security threats facing the country and its top allies.
-- `TechCrunch` [How to reserve and change your WhatsApp username](https://techcrunch.com/2026/07/06/how-to-reserve-and-change-your-whatsapp-username/)
-> WhatsApp now lets users reserve usernames ahead of the feature’s full rollout, making it possible to connect without sharing a phone number once usernames go live.
-- `TechCrunch` [Station F ramps up as a launchpad for Europe’s hottest AI startups](https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/)
-> Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping ...
-- `TechCrunch` [Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent](https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/)
-> Even Realities, an ex-Apple team building camera-free smart glasses, raised $150 million from Meituan and Tencent at a $1 billion valuation.
-- `TechCrunch` [This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home ...](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/)
-> While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
-- `TechCrunch` [Uber’s European expansion plans may have hit a speed bump](https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/)
-> Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.
-- `TechCrunch` [Trump memecoin investors lost $3.8 billion, analysis finds](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/)
-> Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.
-- `TechCrunch` [Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
-> These may be the last days of Amazon’s Mechanical Turk.
-- `TechCrunch` [5 desk gadgets that can make your workday better](https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/)
-> The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.
-- `TechCrunch` [What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public](https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/)
-> Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.
+- `Hacker News` [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)
+> Article URL: https://ternlight-demo.vercel.app/
+Comments URL: https://news.ycombinator.com/item?id=48811644
+Points: 119
+# Comments: 34
+- `Hacker News` [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
+> Article URL: https://github.com/MaximeRivest/Riddle
+Comments URL: https://news.ycombinator.com/item?id=48811591
+Points: 215
+# Comments: 131
+- `Hacker News` [OpenSSH 10.4/10.4p1 Released](https://www.openssh.org/txt/release-10.4)
+> Article URL: https://www.openssh.org/txt/release-10.4
+Comments URL: https://news.ycombinator.com/item?id=48811373
+Points: 41
+# Comments: 11
+- `Hacker News` [Acronym Fatigue Series Introduction: why I'm wary of acronyms](https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/)
+> Article URL: https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/
+Comments URL: https://news.ycombinator.com/item?id=48811339
+Points: 30
+# Comments: 17
+- `Hacker News` [Poly/ML – A Standard ML Implementation](https://github.com/polyml/polyml)
+> Article URL: https://github.com/polyml/polyml
+Comments URL: https://news.ycombinator.com/item?id=48811317
+Points: 31
+# Comments: 6
+- `Hacker News` [Full Writeup of the Windows GDID](https://github.com/SmtimesIWndr/gdid-reversal)
+> Article URL: https://github.com/SmtimesIWndr/gdid-reversal
+Comments URL: https://news.ycombinator.com/item?id=48811081
+Points: 46
+# Comments: 22
+- `Hacker News` [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code)
+> Article URL: https://stevekrouse.com/learn-to-code
+Comments URL: https://news.ycombinator.com/item?id=48810439
+Points: 131
+# Comments: 129
+- `Hacker News` [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+> Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/
+Comments URL: https://news.ycombinator.com/item?id=48809877
+Points: 222
+# Comments: 146
+- `TechCrunch` [Netflix invented binge-watching. Now it may have outgrown it.](https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/)
+> A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.
+- `TechCrunch` [The ‘first’ AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)
+> An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and suppl...
+- `TechCrunch` [US investors will soon get access to SK Hynix, another memory maker riding the AI boom](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)
+> SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.
+- `TechCrunch` [Vercel CEO Guillermo Rauch on the fight to split off models from agents](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/)
+> "The reality is, when you're optimizing for production, you start looking at a price/performance," Guillermo Rauch tells TechCrunch.
+- `TechCrunch` [You can now customize Siri’s pace and expressivity in the latest iOS 27 beta](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/)
+> The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.
+- `TechCrunch` [Every major tech layoff in 2026 that has name-checked AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+> A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
+- `TechCrunch` [Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all](https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/)
+> Bookship.org seemed to delay this anticipated partnership again, but tells TechCrunch that it has settled business terms  and is working on integration.
+- `TechCrunch` [If you use Google, you’re training its AI. Here’s how to opt out.](https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/)
+> Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,...
+- `TechCrunch` [Apple brings back card payments for Apple Account purchases in India after a four-year hiatus](https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/)
+> Apple has started a phased rollout of card payments for Apple Account purchases in India after adapting to the country's payments framework.
+- `TechCrunch` [Microsoft lays off nearly 5,000 employees across Xbox, commercial sales](https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/)
+> Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial ...
+- `The Verge` [Hoto’s PixelDrive screwdriver is down to $60, matching its best price](https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale)
+> If your Prime Day purchases included a new desk, TV stand, bookshelf, or other furniture you still haven’t assembled, Hoto’s PixelDrive cordless screwdriver can help speed up the proces...
+- `The Verge` [America’s greatest idea is still under threat](https://www.theverge.com/policy/961802/america-250-free-speech)
+> The United States of America recently turned 250 years old. What a spectacle! The fireworks were amazing, and millions of proud people celebrated across the nation - even around the world. France l...
+- `The Verge` [Five questions for Dr. Rubin, who’s armed with a mic and a bowtie](https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview)
+> Bullshit is cheap but truth is expensive. Anyone with half a brain cell can post wild misinformation that goes mega viral, which wastes the time and expertise of highly trained people who feel an o...
+- `The Verge` [Former Xbox studios Double Fine and Compulsion will keep games after going indie](https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie)
+> Microsoft is spinning off four of its Xbox game studios - Compulsion Games, Double Fine Productions, Ninja Theory, and Undead Labs - as part of the restructuring announced today. However, two that ...
+- `The Verge` [I spy](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)
+> I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the firs...
+- `The Verge` [The DJI Osmo Pocket 3 lookalike is down to $329](https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale)
+> Initially, I was going to tell you about a good deal happening on the DJI Osmo Pocket 3, which is down from the $500 it’s sold at most of the year to $378 at multiple retailers. But there’s a bette...
 - `The Verge` [Inside the big business of the creator economy, with the agents making it happen](https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing)
 > We’ve got another special episode of Decoder today, recorded at the Cannes Lions advertising festival in the South of France. I’m talking with Ali Berman and Raina Penchansky, who run the Creators ...
 - `The Verge` [Nintendo will stop selling the original Switch in Europe next year](https://www.theverge.com/games/961632/nintendo-switch-europe-discontinued)
@@ -170,18 +188,6 @@ Points: 13
 > One hundred dollars will buy you 8 pounds of glitter; 10 Domino's pizzas; 406 miniature disco balls from Temu; or 100 cans of Coors Light. For a friend's birthday party one year, Ayla D'Silva spent...
 - `The Verge` [Microsoft is selling off four Xbox studios as part of significant gaming cuts](https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026)
 > Microsoft is laying off 4,800 employees today, and more than 30 percent of the job losses are in the company's Xbox division. The significant gaming cuts will affect nearly every part of Xbox and a...
-- `The Verge` [Microsoft is laying off 4,800 employees](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox)
-> A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximat...
-- `The Verge` [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep)
-> Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealth...
-- `The Verge` [Mr. Lif’s Emergency Rations EP is post-9/11 hip-hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review)
-> There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip-hop. While the label featured plenty of experimental, boundary-pushing, an...
-- `The Verge` [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy)
-> Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launch, with physical cases cont...
-- `The Verge` [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence)
-> "Group project, but make it 1776." That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers t...
-- `The Verge` [The Sourdough Sidekick automates the boring bit of baking](https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter)
-> Baking sourdough bread is inherently old-fashioned, relying on natural fermentation and wild yeast instead of the simple, predictable commercial stuff. So it might sound anathema to bring a gadget ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
