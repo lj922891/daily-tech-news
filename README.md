@@ -6,10 +6,28 @@
 
 # 📰 每日科技日报 — 2026-07-08
 
-> 自动收集于 2026-07-08 03:24 | 共 50 条
+> 自动收集于 2026-07-08 13:22 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [eVTOL 走向商业化，难点不只在“飞起来”](https://36kr.com/p/3886750049808389?f=rss)
+> 低空经济的热度，很多时候是从一架飞行器开始的。
+  过去几年，eVTOL真机亮相、飞行汽车概念升温、低空航线试点、地方产业基金入场，让这个行业快速成为新兴产业里的高频词。相比传统无人机，eVTOL为代表的载人载货飞行器，显然承载了更大的想象力：它不仅指向低空物流、应急救援、城市治理，也指向未来城市空中交通、城际运输和立体出行。
+  
+  这股热度背后，更值得关注的不是市场空间想象，而是产业正...
+- `36氪` [从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海](https://36kr.com/p/3886574096265481?f=rss)
+> 20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。
+  从廉价服装到二次元，日本输出海外的核心产品在过去七十年里换了好几轮，从侧面说明一国出海的主流产品从来不是固定的，会跟着国家的...
+- `36氪` [地产AI进入落地战，深度智联又甩出一张牌](https://36kr.com/p/3886709249241349?f=rss)
+> 7月7日，易居（中国）控股有限公司董事局主席、总裁周忻再一次来到台前，给公司的AI产品站台，推出其核心战略产品“地产模数通——企业专属大模型一体机”。同时，克而瑞地产AI分析师“小瑞”正式上岗。
+  不到两个月前，易居旗下的深度智联刚刚发布了全球首个房地产经纪人智能体“易居·小新”，用中立无佣模式替代传统中介。迹象显示，深度智联在加速AI产品落地。
+  周忻说，地产模数通“是第一个开箱即用的...
+- `36氪` [氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5](https://36kr.com/p/3886678879727880?f=rss)
+> 大公司：
+  雷军回应SkyNomad上市时间
+  36氪获悉，7月8日，小米创办人，董事长兼CEO @雷军 在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复表示“快了”。
+  必和必拓在世界最大铁矿石出口港口的工人将罢工8小时
+  7月8日，工会表示，必和必拓集团位于西澳州Port Hedland铁矿石出口码头的工人将于7月16日举行8小时罢工。此次...
 - `36氪` [AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评](https://36kr.com/p/3886403765596418?f=rss)
 > 2026年，AI视频生成赛道已迈入全面爆发的成熟竞速期，Seedance 2.0 的出圈更是让AI视频变成一场“全民狂欢”。
   短短两年间，AI视频从最初几秒的碎片化模糊画面，到如今分钟级长视频的连贯叙事、真实物理世界的精准还原，AI视频工具的迭代速度远超预期，AI视频工具完成了从“能用”到“好用”再到“专业”的三级跳，让创意落地的门槛降至新低——专业团队能用它预演大片，普通用户也能一键生...
@@ -42,24 +60,12 @@
 > 文｜胡香赟
   编辑｜海若镜
   36 氪获悉，德睿智药近期已完成 5200 万美元B轮融资，投资方包括头部人民币和美元基金，凯乘资本为独家财务顾问。募集资金将用于AI制药引擎Molecule Arts Platform（MAP）升级迭代，完善其多智能体（Multi-Agent）协同体系与临床数据闭环（Clinical Data-in-the-Loop），以及推进自研口服GLP-1小分子MD...
-- `36氪` [瑞为技术暗盘破发，收盘跌17%｜敲钟时刻](https://36kr.com/p/3885560015220997?f=rss)
-> 《敲钟时刻》栏目聚焦企业正式登陆资本市场的关键时刻。每一次敲钟之后，市场都会给出它对一家企业增长、估值与成色的第一重答案。
-  
-  在7月7日下午的暗盘，视觉具身智能第一股瑞为技术（07656.HK）破发了。暗盘收在17.99港元，较21.66港元的发行价跌16.94%，对应市值54.92亿港元。
-  
-  整个暗盘交易中，盘中最高冲到25港元，涨15.4%；最低砸到16.07港元，跌25...
-- `36氪` [易控智驾暗盘破发：盘中一度跌近两成、收涨4%｜敲钟时刻](https://36kr.com/p/3885481886674951?f=rss)
-> 《敲钟时刻》栏目聚焦企业正式登陆资本市场的关键时刻。每一次敲钟之后，市场都会给出它对一家企业增长、估值与成色的第一重答案。
-  
-  上市前夜，全球矿区无人驾驶第一股易控智驾（07687.HK）在富途暗盘走出一条 V 形。截至 7 月 7 日 18:30 暗盘收盘，报 91.50 港元，较发行价 87.92 港元上涨 4.07%。但这抹红并不轻松，全天振幅接近 25%，是...
-- `36氪` [氪星晚报 ｜苹果折叠屏已在量产；潘功胜：香港可以抓住有利时机，吸引更多主权财富和国际企业到港发债融资](https://36kr.com/p/3885457443385346?f=rss)
-> 大公司：
-  网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言
-  36氪获悉，近日，有网民发布题为《7月1日新规正式落地！新车智驾芯片自主化率不低于70%》的文章。文中称“7月1日，工信部联合市监总局出台的《新能源汽车车规级AI芯片技术规范》正式强制执行”，并称“国内生产、销售的所有新能源乘用车，智驾芯片全链路关键技术自主化率必须达到70%以上，不达标车型禁止申报、生产、上牌”...
-- `36氪` [不做fast follow的人，都想创造一个新的世界丨36氪离线聚会第三期](https://36kr.com/p/3885415199076352?f=rss)
-> “理性的人让自己适应世界，不理性的人坚持让世界适应自己。因此，一切进步都取决于不理性的人。”
-  萧伯纳在《人与超人》里的论断，其实缺少了一个前提：让世界适应自己，你得先看见一个别人还没看见的世界。
-  无法否认的是，过去二十年在中国的科技行业里，有一条相对成熟的路径：fast follow。看硅谷做了什么，更快、更便宜地做一遍。这种方式催生了一批优秀的公司，却难免也带来了一个盲区：当前方没...
+- `少数派` [乌兰布统，草原观星](https://sspai.com/post/111923)
+> 以后争取每年都来乌兰布统这一大片地方走走看看。查看全文
+- `少数派` [我的出行好伙伴，用 iPhone 一站式解决旅途痛点](https://sspai.com/post/112044)
+> 暑期将至，许多「大朋友、小朋友」都会选择在最近两个月内出游。在旅行的过程中，我们难免会遇到各种各样的问题，也会遇到各种各样令人心烦的琐事。如果你恰好在使用iPhone，不妨看看我如何从出发前、在路上、 ...查看全文
+- `少数派` [好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级](https://sspai.com/post/110993)
+> 如果你最近正在考虑升级自己的桌面，或者想体验墨水屏显示器、屏幕挂灯、阅读灯在真实环境下的使用效果，欢迎来到少数派深圳线下体验店，坐下来试试看。查看全文
 - `少数派` [派早报：Nothing Ear (3a) 发布、Meta 推出 Muse 图像生成模型等](https://sspai.com/post/112049)
 > Google Voice 推出付费订阅方案并调整 Android 设备备份策略等。查看全文
 - `少数派` [家庭饮品 DIY 指南（二）：常用液体物料推荐](https://sspai.com/prime/story/home-made-beverages-2)
@@ -74,65 +80,69 @@
 > 少数派的近期动态声擎×少数派｜「角落新声」征文活动已经启动。投稿赚音箱少数派×AKKO联合共创带屏键盘计划于7月9日开启。预约直播你可能错过的文章自动给文章术语加百科链接，这个方案一分钟搞定iPhon ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/111999)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它](https://sspai.com/post/111113)
-> 但恰恰是这些取舍让我重新开始思考：什么才是真正重要的体验。查看全文
-- `少数派` [自动给文章术语加百科链接，这个方案一分钟搞定](https://sspai.com/post/111702)
-> 我给博客做了一个「术语小助手」，让陌生名词不再打断阅读。查看全文
-- `少数派` [派早报：阿里禁用 Claude 模型](https://sspai.com/post/111973)
-> 阿里禁用 Claude 模型索尼调整计划，2028 年前发售游戏可继续生产光盘千问、豆包将下线智能体功能Android 反垄断案欧洲终审败诉 混动车、商用纯电车将不再免征车船税电商法修正案征求意见看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
-> Article URL: https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong
-Comments URL: https://news.ycombinator.com/item?id=48826703
-Points: 32
-# Comments: 13
-- `Hacker News` [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/)
-> I built a chiptune song generator and its broadcasting algorithmically generated chiptune music.
-
-Comments URL: https://news.ycombinator.com/item?id=48826094
-Points: 23
-# Comments: 4
-- `Hacker News` [Rlm-Workflow](https://try.works/projects#rlm-workflow)
-> Article URL: https://try.works/projects#rlm-workflow
-Comments URL: https://news.ycombinator.com/item?id=48825906
-Points: 5
-# Comments: 0
-- `Hacker News` [An interactive explorer for Benford's Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/)
-> Article URL: https://vatsalbakshi.com/blog/benfords-law/
-Comments URL: https://news.ycombinator.com/item?id=48825816
-Points: 20
+- `Hacker News` [Tiny data centre used to heat public swimming pool](https://www.bbc.com/news/technology-64939558)
+> Article URL: https://www.bbc.com/news/technology-64939558
+Comments URL: https://news.ycombinator.com/item?id=48831499
+Points: 7
+# Comments: 1
+- `Hacker News` [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)
+> Article URL: https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/
+Comments URL: https://news.ycombinator.com/item?id=48830565
+Points: 87
+#...
+- `Hacker News` [List of European organizations that have banned personal messaging apps at work](https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work)
+> Article URL: https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work
+Comments URL: https://news.ycombinator.com/item?id=48830371
+Points: 33
+#...
+- `Hacker News` [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+> Article URL: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/
+Comments URL: https://news.ycombinator.com/item?id=4...
+- `Hacker News` [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql)
+> Article URL: https://github.com/dekart-xyz/geosql
+Comments URL: https://news.ycombinator.com/item?id=48829242
+Points: 52
 # Comments: 6
+- `Hacker News` [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
+> Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/
+Comments URL: https://news.ycombinator.com/item?id=48827858
+Points: 308
+# Comments: 121
+- `Hacker News` [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
+> Article URL: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/
+Comments URL: https://news.ycombinator.com/item?id=48827325
+Points: 241
+# Comments: 163
+- `Hacker News` [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
+> Article URL: https://www.digipres.org/the-floppy-guide/
+Comments URL: https://news.ycombinator.com/item?id=48827092
+Points: 116
+# Comments: 33
+- `Hacker News` [LineageOS Statistics](https://stats.lineageos.org)
+> Article URL: https://stats.lineageos.org
+Comments URL: https://news.ycombinator.com/item?id=48826329
+Points: 133
+# Comments: 83
 - `Hacker News` [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
 > Article URL: https://kb.cert.org/vuls/id/213560
 Comments URL: https://news.ycombinator.com/item?id=48825749
-Points: 54
-# Comments: 9
-- `Hacker News` [Show HN: Fortress – a stealth Chromium so your agents stop getting blocked](https://github.com/tiliondev/fortress)
-> Article URL: https://github.com/tiliondev/fortress
-Comments URL: https://news.ycombinator.com/item?id=48825745
-Points: 34
-# Comments: 28
-- `Hacker News` [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
-> Article URL: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/
-Comments URL: https://news.ycombinator.com/item?id=48825...
-- `Hacker News` [Show HN: Free Mermaid Diagram Editor](https://moxiedocs.com/mermaid-diagram-editor)
-> I've been slowly adding some new free tools to Moxie Docs (partly for SEO, partly to illustrate some of our feature sets before any commitment) for some reason this mermaid editor one blew up on Go...
-- `Hacker News` [Git Hash Chain Malleability](https://arxiv.org/abs/2607.02820)
-> Article URL: https://arxiv.org/abs/2607.02820
-Comments URL: https://news.ycombinator.com/item?id=48825356
-Points: 9
-# Comments: 5
-- `Hacker News` [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
-> Article URL: https://www.gao.gov/products/gao-26-108193
-Comments URL: https://news.ycombinator.com/item?id=48824826
-Points: 134
-# Comments: 55
+Points: 262
+# Comments: 89
+- `TechCrunch` [Venus Williams-backed WeWard can now lock your apps until you hit your steps](https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/)
+> With funding from tennis star and angel investor Venus Williams, the French app WeWard says that it increases walking time by almost 25%.
+- `TechCrunch` [Former OpenAI exec Kevin Weil is now on the board of Stoke Space](https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/)
+> Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.
+- `TechCrunch` [Hot French startup ZML releases free product to speed inference across lots of AI chips](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/)
+> ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.
+- `TechCrunch` [AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round](https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/)
+> AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.
 - `TechCrunch` [Final extension: Startup Battlefield Australia applications now close July 20](https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/)
 > If you're building something ambitious, this is a fast track to the people who can move your startup forward.
 - `TechCrunch` [Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of...](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/)
-> The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.
+> The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.
 - `TechCrunch` [Why the rise of open source AI isn’t hurting Anthropic … yet](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)
 > Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.
 - `TechCrunch` [Microsoft joins AI cost-cutting trend by relying more on its own models](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/)
@@ -141,14 +151,14 @@ Points: 134
 > The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.
 - `TechCrunch` [Google’s Pixel event is set for August 12](https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/)
 > Google's upcoming event in August will introduce new Pixel devices.
-- `TechCrunch` [Figma acquires team behind a vibe-coding app](https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/)
-> The Y Combinator-backed company started a vibe-coding platform and later built an agent-creation product.
-- `TechCrunch` [Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others](https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/)
-> Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.
-- `TechCrunch` [Hacked, leaked, and held for ransom: The worst breaches of 2026 so far](https://techcrunch.com/2026/07/07/the-worst-hacks-and-breaches-of-2026-so-far/)
-> From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.
-- `TechCrunch` [Claude Cowork expands to mobile and web](https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/)
-> With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.
+- `The Verge` [Fi’s Starlink-enabled pet tracker found my dog when LTE couldn’t](https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date)
+> Fi Ultra is the first Starlink-enabled pet tracker you can buy. It expands on GPS and LTE trackers, adding automatic failover to T-Mobile's T-Satellite-branded direct-to-cell service when venturing...
+- `The Verge` [The Steam Machine fits my TV, my desk, and my life](https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life)
+> For the last couple weeks, I've been in an extremely lucky position: I've been spending a lot of time playing games on Valve's Steam Machine. We gave the Steam Machine a 6, and I don't disagree wit...
+- `The Verge` [The robotaxi law that could ban Tesla](https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla)
+> For more than a decade, one question has loomed over the race to build autonomous vehicles: Are cameras alone enough to safely replace human drivers, or do truly driverless cars need additional, ov...
+- `The Verge` [Samsung will launch its new wide foldable on July 22nd](https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july)
+> Samsung has announced that its next Galaxy Unpacked launch event will be held on July 22nd, with the tagline: "A new shape unfolds." It's long been rumored that Samsung is about to expand its folda...
 - `The Verge` [Meta’s glasses will turn off the camera if you tamper with the privacy light](https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update)
 > Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or de...
 - `The Verge` [Of course viewers are giving up on Netflix shows](https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok)
@@ -161,14 +171,6 @@ Points: 134
 > Nikita Bier, X's head of product, said in a post on Monday that "[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went viral," while notin...
 - `The Verge` [The ‘G-Wagen of golf carts’ could be the ideal second car](https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs)
 > While the auto industry wrings its hands over the electric vehicle market, sweating details like aerodynamic efficiency and range anxiety, a new EV startup based in Lisbon, Portugal, is zagging in ...
-- `The Verge` [ABC tells the government to get out of its newsrooms](https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech)
-> ABC is firing back at the Federal Communications Commission after the agency opened an investigation into The View's airtime of political candidates. In a letter to the FCC on Tuesday, ABC argues t...
-- `The Verge` [Anthropic is launching Claude Cowork on mobile and web](https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web)
-> Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude user...
-- `The Verge` [Google announces Pixel 11 launch event in August](https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event)
-> Google is hosting its next Made by Google launch event for Pixel hardware on August 12th in New York City, according to an invitation sent by Google to The Verge. Unusually, the event is taking pla...
-- `The Verge` [Doom developer id reportedly cut in half as part of Xbox layoffs](https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs)
-> As part of the mass layoffs hitting Xbox, Doom developer id Software has laid off around 50 percent of its staff, according to Game Developer. One source claimed to the publication that the cuts eq...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
