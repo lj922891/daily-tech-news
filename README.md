@@ -4,12 +4,43 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-08
+# 📰 每日科技日报 — 2026-07-09
 
-> 自动收集于 2026-07-08 13:22 | 共 50 条
+> 自动收集于 2026-07-09 03:51 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [自研焊接具身大脑模型，以“智能焊工”切入工业制造具身智能赛道，「昇视唯盛」完成数亿元B轮融资｜36氪首发](https://36kr.com/p/3887871679347208?f=rss)
+> 36氪获悉，聚焦工业制造领域的具身智能机器人企业「昇视唯盛」（3Srobotics）正式宣布完成数亿元B轮融资，本轮融资由上海半导体产投、金桥基金领投，零一创投、新鼎资本、中关鼎华及老股东微光创投持续加码跟投。资金将主要用于焊接具身智能大脑与自主小脑运动控制系统的迭代升级，扩大自有智造工厂产能，扩充研发与市场服务团队，加速产品全国多行业规模化落地。
+  昇视唯盛成立于2020年，2023年获...
+- `36氪` [36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”](https://36kr.com/p/3887726503688968?f=rss)
+> 图源/企业
+  
+   本文约2200字，建议阅读6分钟
+  
+  作者丨欧雪
+  编辑丨袁斯来
+  硬氪获悉，物理AI企业深度智控（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。
+  本轮资金将主要用于核心物理AI算法与产品线的持续研发、标准化产品DeepBot的规模化拓展...
+- `36氪` [上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二](https://36kr.com/p/3887659913083392?f=rss)
+> 本文约3300字，建议阅读7分钟
+  作者 | 彭孝秋
+  
+   编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第四期——极豪科技。
+  
+  近日，极豪科技（JIIOV Technology）正式向港交所递交招股书。这家公司做的不是手机、不是模组，而是藏在手机指纹解锁背后的那颗感知大脑。
+  按沙利...
+- `36氪` [8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席](https://36kr.com/p/3887648675133960?f=rss)
+> 今日热点导览
+  
+   工信部：AI编程工具Claude Code存在安全后门隐患，危害严重
+   字节绩效规则调整：加大半年激励，加强字节范与领导力考核
+   沙特阿美大降价吸引亚洲买家，国际机构看空下半年油价
+   欧盟法院驳回苹果上诉，维持App Store和iOS“看门人”认定
+   摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍
+  
+  TOP3大新闻
+  小米汽车新...
 - `36氪` [eVTOL 走向商业化，难点不只在“飞起来”](https://36kr.com/p/3886750049808389?f=rss)
 > 低空经济的热度，很多时候是从一架飞行器开始的。
   过去几年，eVTOL真机亮相、飞行汽车概念升温、低空航线试点、地方产业基金入场，让这个行业快速成为新兴产业里的高频词。相比传统无人机，eVTOL为代表的载人载货飞行器，显然承载了更大的想象力：它不仅指向低空物流、应急救援、城市治理，也指向未来城市空中交通、城际运输和立体出行。
@@ -36,30 +67,10 @@
   编辑 | 袁斯来
   硬氪获悉，高端机床企业上海星合近日完成数亿元融资。本轮融资由五粮液基金领投，上市公司麦格米特跟投，深蓝资本担任长期独家财务顾问。融资资金将主要用于高端磨齿机、磨床、铣床等产品的研发投入，并推动新产品及海外市场的商业化。
   成立于2009年的星合机电长期聚焦高端机床研发制造，目前产品覆盖高端磨齿机、磨床、铣床...
-- `36氪` [36氪首发 | 获上海国投领投，这家量子传感企业产品已落地惯性导航、气体监测等](https://36kr.com/p/3886301334630407?f=rss)
-> 图源/企业
-  作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，上海量感智能科技有限公司（以下简称“量感智能”）近日已完成数千万元天使轮融资，由孚腾资本（上海国投旗下）领投，六禾创投跟投。
-  量感智能公司于2023年9月成立，由上海交通大学量子感知研究所成员孵化。公司聚焦量子传感方向，已推出的产品覆盖惯性导航、气体监测等市场。公司同步深耕量子 AI 技术研发与应用，推动相关算法和硬件模块快速实...
-- `36氪` [36氪独家 | 快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资](https://36kr.com/p/3885728813691145?f=rss)
-> 作者 | 张子怡
-  编辑 | 袁斯来
-  硬氪独家获悉，消费级3D打印企业快造科技（Snapmaker）于近期完成10亿元新一轮融资。本轮融资由凯辉基金领投，好未来战投跟投，美团战投、美团龙珠、高瓴创投、顺为资本等现有股东大比例超额追投，高鹄资本担任独家财务顾问。
-  这是2025年以来消费硬件赛道规模最大的单笔融资之一，也是近两年一级市场消费级3D...
-- `36氪` [8点1氪丨前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭；苹果折叠屏已在量产；特朗普呼吁购买戴尔电脑，引发戴尔暴涨百亿美元](https://36kr.com/p/3886238403129353?f=rss)
-> 今日热点导览
-  网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言
-  商业银行不良处置仍在加速，上半年全行业转让核销合计至少5000亿
-  国家外汇管理局：截至2026年6月末，中国外汇储备规模为34163亿美元
-  汇丰暂停向风险较高的私募信贷客户提供贷款
-  SpaceX公布AI数据中心计划，同步推进星链卫星脱轨
-  TOP3大新闻
-  前华为天才少年吐槽DeepSeek面...
-- `36氪` [「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发](https://36kr.com/p/3885479689465858?f=rss)
-> 文｜胡香赟
-  编辑｜海若镜
-  36 氪获悉，德睿智药近期已完成 5200 万美元B轮融资，投资方包括头部人民币和美元基金，凯乘资本为独家财务顾问。募集资金将用于AI制药引擎Molecule Arts Platform（MAP）升级迭代，完善其多智能体（Multi-Agent）协同体系与临床数据闭环（Clinical Data-in-the-Loop），以及推进自研口服GLP-1小分子MD...
+- `少数派` [角落新声｜在陌生的城市里，寻找属于自己的角落](https://sspai.com/post/111983)
+> 角落的意义或许在于与世界保持恰当的距离，允许生活在身边流淌，也允许自己在这些声音之中，重新听见自己的声音。查看全文
+- `少数派` [派早报：GPT-5.6 即将开放使用、Nothing 发布 Phone (4b) 等](https://sspai.com/post/112091)
+> Notion 推出全新应用 Agents、Jolla Phone (2026) 手机正式发售等。查看全文
 - `少数派` [乌兰布统，草原观星](https://sspai.com/post/111923)
 > 以后争取每年都来乌兰布统这一大片地方走走看看。查看全文
 - `少数派` [我的出行好伙伴，用 iPhone 一站式解决旅途痛点](https://sspai.com/post/112044)
@@ -76,101 +87,100 @@
 > Option 做的就和它图标 ⌥ 所展示的那样——展示菜单和选项的另一面。查看全文
 - `少数派` [新手日记的「为什么」与「写什么」](https://sspai.com/post/111655)
 > 如何迈出日常写作的第一步？查看全文
-- `少数派` [派早报：Xbox 启动史上最大的业务重组计划等](https://sspai.com/post/112010)
-> 少数派的近期动态声擎×少数派｜「角落新声」征文活动已经启动。投稿赚音箱少数派×AKKO联合共创带屏键盘计划于7月9日开启。预约直播你可能错过的文章自动给文章术语加百科链接，这个方案一分钟搞定iPhon ...查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/111999)
-> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Tiny data centre used to heat public swimming pool](https://www.bbc.com/news/technology-64939558)
-> Article URL: https://www.bbc.com/news/technology-64939558
-Comments URL: https://news.ycombinator.com/item?id=48831499
-Points: 7
-# Comments: 1
-- `Hacker News` [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)
-> Article URL: https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/
-Comments URL: https://news.ycombinator.com/item?id=48830565
-Points: 87
-#...
-- `Hacker News` [List of European organizations that have banned personal messaging apps at work](https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work)
-> Article URL: https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work
-Comments URL: https://news.ycombinator.com/item?id=48830371
-Points: 33
-#...
-- `Hacker News` [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
-> Article URL: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/
-Comments URL: https://news.ycombinator.com/item?id=4...
-- `Hacker News` [Geosql: A Claude/Codex skill for geospatial data](https://github.com/dekart-xyz/geosql)
-> Article URL: https://github.com/dekart-xyz/geosql
-Comments URL: https://news.ycombinator.com/item?id=48829242
-Points: 52
-# Comments: 6
-- `Hacker News` [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
-> Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/
-Comments URL: https://news.ycombinator.com/item?id=48827858
-Points: 308
-# Comments: 121
-- `Hacker News` [How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
-> Article URL: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/
-Comments URL: https://news.ycombinator.com/item?id=48827325
-Points: 241
-# Comments: 163
-- `Hacker News` [Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks](https://www.digipres.org/the-floppy-guide/)
-> Article URL: https://www.digipres.org/the-floppy-guide/
-Comments URL: https://news.ycombinator.com/item?id=48827092
-Points: 116
-# Comments: 33
-- `Hacker News` [LineageOS Statistics](https://stats.lineageos.org)
-> Article URL: https://stats.lineageos.org
-Comments URL: https://news.ycombinator.com/item?id=48826329
-Points: 133
-# Comments: 83
-- `Hacker News` [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
-> Article URL: https://kb.cert.org/vuls/id/213560
-Comments URL: https://news.ycombinator.com/item?id=48825749
-Points: 262
-# Comments: 89
-- `TechCrunch` [Venus Williams-backed WeWard can now lock your apps until you hit your steps](https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/)
-> With funding from tennis star and angel investor Venus Williams, the French app WeWard says that it increases walking time by almost 25%.
-- `TechCrunch` [Former OpenAI exec Kevin Weil is now on the board of Stoke Space](https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/)
-> Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.
-- `TechCrunch` [Hot French startup ZML releases free product to speed inference across lots of AI chips](https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/)
-> ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.
-- `TechCrunch` [AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round](https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/)
-> AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.
-- `TechCrunch` [Final extension: Startup Battlefield Australia applications now close July 20](https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/)
-> If you're building something ambitious, this is a fast track to the people who can move your startup forward.
-- `TechCrunch` [Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of...](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/)
-> The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.
-- `TechCrunch` [Why the rise of open source AI isn’t hurting Anthropic … yet](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)
-> Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.
-- `TechCrunch` [Microsoft joins AI cost-cutting trend by relying more on its own models](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/)
-> Microsoft is the latest Silicon Valley giant to cut back on its AI spending.
-- `TechCrunch` [Discord admits AI moderation bug wrongfully banned users over harmless images](https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/)
-> The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.
-- `TechCrunch` [Google’s Pixel event is set for August 12](https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/)
-> Google's upcoming event in August will introduce new Pixel devices.
-- `The Verge` [Fi’s Starlink-enabled pet tracker found my dog when LTE couldn’t](https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date)
-> Fi Ultra is the first Starlink-enabled pet tracker you can buy. It expands on GPS and LTE trackers, adding automatic failover to T-Mobile's T-Satellite-branded direct-to-cell service when venturing...
-- `The Verge` [The Steam Machine fits my TV, my desk, and my life](https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life)
-> For the last couple weeks, I've been in an extremely lucky position: I've been spending a lot of time playing games on Valve's Steam Machine. We gave the Steam Machine a 6, and I don't disagree wit...
-- `The Verge` [The robotaxi law that could ban Tesla](https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla)
-> For more than a decade, one question has loomed over the race to build autonomous vehicles: Are cameras alone enough to safely replace human drivers, or do truly driverless cars need additional, ov...
-- `The Verge` [Samsung will launch its new wide foldable on July 22nd](https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july)
-> Samsung has announced that its next Galaxy Unpacked launch event will be held on July 22nd, with the tagline: "A new shape unfolds." It's long been rumored that Samsung is about to expand its folda...
-- `The Verge` [Meta’s glasses will turn off the camera if you tamper with the privacy light](https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update)
-> Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or de...
-- `The Verge` [Of course viewers are giving up on Netflix shows](https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok)
-> Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's antholog...
-- `The Verge` [Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers](https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming)
-> Starting on August 3rd, Netflix's streaming library will include video content from dozens of digital media brands including BuzzFeed, Condé Nast, Hearst Magazines, People Inc, and Tastemade. ...
-- `The Verge` [Meta’s new Muse Image model can pull other Instagram users into AI photos](https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram)
-> Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and What...
-- `The Verge` [X says top accounts steal videos from other users as it announces new video tools](https://www.theverge.com/tech/962415/x-video-editor-recycled-content)
-> Nikita Bier, X's head of product, said in a post on Monday that "[m]any videos from top accounts are simply stolen from other users, sometimes 5 years after they originally went viral," while notin...
-- `The Verge` [The ‘G-Wagen of golf carts’ could be the ideal second car](https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs)
-> While the auto industry wrings its hands over the electric vehicle market, sweating details like aerodynamic efficiency and range anxiety, a new EV startup based in Lisbon, Portugal, is zagging in ...
+- `Hacker News` [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
+> Article URL: https://www.alecscollon.com/blog/llm-burnout/
+Comments URL: https://news.ycombinator.com/item?id=48839984
+Points: 155
+# Comments: 105
+- `Hacker News` [Remote Attestation](https://www.liamcvw.com/p/remote-attestation)
+> Article URL: https://www.liamcvw.com/p/remote-attestation
+Comments URL: https://news.ycombinator.com/item?id=48839397
+Points: 41
+# Comments: 22
+- `Hacker News` [MIRA: Multiplayer Interactive World Models Trained on Rocket League](https://mira-wm.com/)
+> https://mira-wm.com/blog-post/
+
+Comments URL: https://news.ycombinator.com/item?id=48839355
+Points: 40
+# Comments: 9
+- `Hacker News` [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
+> Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02
+Comments URL: https://news.ycombinator.com/item?id=48838876
+Points: 436
+# C...
+- `Hacker News` [We made Grok 4.5, GPT-5.5, and Claude build the same apps](https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off)
+> Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off
+Comments URL: https://news.ycombinator.com/item?id=48838772
+Points: 99
+# Comments: 40
+- `Hacker News` [Rewriting Bun in Rust](https://bun.com/blog/bun-in-rust)
+> Article URL: https://bun.com/blog/bun-in-rust
+Comments URL: https://news.ycombinator.com/item?id=48837877
+Points: 365
+# Comments: 194
+- `Hacker News` [Benchmarking coding agents on Databricks' multi-million line codebase](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)
+> Article URL: https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase
+Comments URL: https://news.ycombinator.com/item?id=48837696
+Points: 16
+# Comments: 3
+- `Hacker News` [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
+> Article URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/
+Comments URL: https://news.ycombinator.com/item?id=48837396
+Points: 176
+# Comments: 66
+- `Hacker News` [Turning a pile of documents into a searchable useable knowledge base](https://github.com/linuxrebel/DocuBrowser)
+> Article URL: https://github.com/linuxrebel/DocuBrowser
+Comments URL: https://news.ycombinator.com/item?id=48837110
+Points: 93
+# Comments: 17
+- `Hacker News` [FAANG Simulator](https://www.abeyk.com/escape-the-rat-race/)
+> Article URL: https://www.abeyk.com/escape-the-rat-race/
+Comments URL: https://news.ycombinator.com/item?id=48836778
+Points: 328
+# Comments: 124
+- `TechCrunch` [Truecaller clashes with India’s telecom regulator over anti-spam rules](https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/)
+> The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.
+- `TechCrunch` [Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement](https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/)
+> The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.
+- `TechCrunch` [Lovable reportedly in talks to double its valuation to $13.2B](https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/)
+> The $300 million round is expected to be led by Menlo Ventures, Sifted reported.
+- `TechCrunch` [Feds demand autonomous vehicle companies stop interfering with first responders](https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/)
+> The National Highway Traffic Safety Administration said emergency scenes are not "edge cases."
+- `TechCrunch` [Google’s deepfake detector system used to debunk McConnell hoax pic](https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/)
+> Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.
+- `TechCrunch` [With EU backing, QuantumDiamonds aims to speed up chip manufacturing](https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/)
+> Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that a...
+- `TechCrunch` [Autonomous drone delivery startup Manna plots major US expansion](https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/)
+> Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people.
+- `TechCrunch` [SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’](https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/)
+> Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.
+- `TechCrunch` [‘Slow-cial’ app Roost forces you to slow down to the speed of a carrier pigeon](https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/)
+> This developer didn't expect his side project to grow to 300,000 users, but people love Roost because it's an alternative to an always-on, fast-paced online culture.
+- `TechCrunch` [This startup thinks robotics is about to have its ChatGPT moment](https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/)
+> General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.
+- `The Verge` [Meta is reportedly working on smart glasses that would be recording all the time](https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai)
+> Meta might be the next company to make an always-on AI wearable. The company is working on prototype "super sensing" always-aware smart glasses that could continuously record audio and snap photos ...
+- `The Verge` [Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones](https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder)
+> Even though they haven’t been officially announced yet, Samsung is giving you a chance to save some cash when you preorder what we’re expecting to be the brand’s updated Galaxy Z Fold phones. The n...
+- `The Verge` [Microsoft’s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed](https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs)
+> As part of Microsoft's big Xbox "reset," which includes layoffs affecting 3,200 staffers, jettisoning studios, and shifting investments to focus on "higher priority projects," Obsidian Entertainmen...
+- `The Verge` [America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph](https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty)
+> When searching for an affordable electric vehicle these days, there are always tradeoffs. How much range are you willing to sacrifice, how much leg room and storage space, how many features, in the...
+- `The Verge` [Cockroaches will learn to fear my SwitchBot Bot Rechargeable](https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review)
+> A little robotic switch-flipper has become my sidekick in combating cockroaches. Before I got the SwitchBot Bot Rechargeable, I'd tiptoe through the dark every morning, hoping I wouldn't step on on...
+- `The Verge` [If Microsoft sold off Xbox, who would even buy it?](https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma)
+> This week, Microsoft took a huge ax to its Xbox business. The company announced that it would be laying off 1,600 workers now, 1,600 more over the next fiscal year, and that it would be shedding fo...
+- `The Verge` [Twelve South’s AirFly Pro is a great travel companion, and it’s on sale for $40](https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale)
+> If you’ve got a summer trip coming up, the last-gen Twelve South AirFly Pro is one of those gadgets that can make a long flight feel a little shorter. It lets you use your wireless headphones...
+- `The Verge` [ChatGPT’s upgraded voice mode is better at shutting up](https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live)
+> OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like "talking to another person." The new GPT-Live-1 is designed to interrupt you less and will also wait for you to...
+- `The Verge` [This jumping $800 robot camera dog filled me with joy](https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview)
+> What if you had a drone that wasn't a buzzy, annoying fly people wanted to swat - but rather a cute dog that runs and jumps? What if it could do tricks on command and film your tricks as well? What...
+- `The Verge` [The whole Pixel line could get more expensive this year](https://www.theverge.com/tech/962781/google-pixel-11-lineup-price-increase)
+> Google's upcoming Pixel lineup might cost more than last year's. A report from Dealabs spotted by 9to5Google suggests that Google could raise the starting price of its 41mm Pixel Watch 5 to $399, w...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
