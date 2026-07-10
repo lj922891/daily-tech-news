@@ -4,12 +4,45 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-09
+# 📰 每日科技日报 — 2026-07-10
 
-> 自动收集于 2026-07-09 14:23 | 共 50 条
+> 自动收集于 2026-07-10 03:52 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [赢官司、融新钱，他想把百万「抗癌针」变平价](https://36kr.com/p/3888284244720131?f=rss)
+> 文 | 胡香赟
+  编辑 | 海若镜
+  36氪获悉，前传奇生物创始人/首席科学家范晓虎创办的生物科技公司深圳湾岛细胞，近日完成1.4亿人民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。
+  过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的...
+- `36氪` [36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~](https://36kr.com/p/3883780969083137?f=rss)
+> 先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真��地被留下来？
+  一个新AI产品刷屏，你火速打开官网、注册、验证码、绑定手机，结果试了五分钟——要么排队排到天荒地老，要么生成的东西一言难尽，要么免费额度3秒用完开始催你充值。热闹是它们的，浪费的时间和手机号是你的。
+  更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底哪好；要么明里暗里恰饭，...
+- `36氪` [36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍](https://36kr.com/p/3889141540370949?f=rss)
+> 图源/企业
+  
+   本文约3100字，建议阅读7分钟
+  
+  作者丨欧雪
+  编辑丨袁斯来
+  硬氪获悉，北京他山科技有限公司（以下简称“他山科技”）已于近期完成B轮融资，金额为数亿元。本轮投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners（LHCP）、洪山资本等产业方，老股东道氏技术、彬复资本追加投资。资金将主要用于触觉传感器...
+- `36氪` [8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行](https://36kr.com/p/3889047503354625?f=rss)
+> 今日热点导览
+  
+   花呗就还款页面无法正常打开致歉
+   中芯国际市值超越贵州茅台
+   iPhone 18 Pro Max成本大涨，起步价或维持在9999元
+   英伟达将与Hugging Face合作开发机器人开源模型
+   美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易
+  
+  TOP 3大新闻
+  老乡鸡五年五次冲击上市失败
+  LXJ International Holdi...
+- `36氪` [万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！](https://36kr.com/p/3888567864851204?f=rss)
+> 7月9日，万勋科技于北京举办自动充电机器人业务战略发布会，重磅推出行业首个以 “混沌服务” 模式全面覆盖公用、专用、家用所有应用类别的 “柔韧充” 自动充电通用服务引擎及其核心产品。其独一无二的 “0.000s 无极容差应变” 技术特性，在同期发布的三大类别 “全球首例” 应用成果中得到充分展现，正式为行业带来彻底击穿自动充电各场景规模商用核心困局的通用解法。
+  
+  0.000S 无机容...
 - `36氪` [2026年度「中国股权投资行业投资机构」系列名册正式发布](https://36kr.com/p/3888289009678854?f=rss)
 > Alpha will be made, not found。
   麦肯锡在2026年初发布的全球私募市场报告中给出了一个精准的判断。Alpha（超额收益）不再是找到的，而是做出来的。持续走低的利率、不断膨胀的估值倍数、唾手可得的廉价融资，这些放大利润的旧杠杆们，在过去十年间逐一消失。以至于，全球封闭式PE募资在2025年同比下滑17%，亚太地区的跌幅接近一半。
@@ -34,43 +67,10 @@
   “他还不光是去坐车，还会找一切能接触到特斯拉的人聊。”接触到曹旭东的人士告诉36氪，马斯克是曹旭东最常提到的人。
   在内部，许多员工对曹旭东的一个共同感受，就是“马斯克式CEO”。
   创业十年，Momenta赴港股IPO，上市首日（7月8日）市值达70...
-- `36氪` [中国鱼子酱，占领头等舱](https://36kr.com/p/3887939410492168?f=rss)
-> 作者 | 谢芸子
-  编辑 | 张帆
-  2026年6月30日，杭州千岛湖鲟龙科技正式在港交所上市。虽然挂着“科技”的名头，这家公司却在“养鱼”，也是名副其实的“全球最大鱼子酱企业”。
-  资本市场给到这个传统赛道热烈的回应。
-  上市当日，鲟龙科技开盘报价103港元，较发行价75.5港元上涨36.42%，总市值约112.15亿港元。截至收盘，股价进一步攀升至114港元，涨幅达到5...
-- `36氪` [自研焊接具身大脑模型，以“智能焊工”切入工业制造具身智能赛道，「昇视唯盛」完成数亿元B轮融资｜36氪首发](https://36kr.com/p/3887871679347208?f=rss)
-> 36氪获悉，聚焦工业制造领域的具身智能机器人企业「昇视唯盛」（3Srobotics）正式宣布完成数亿元B轮融资，本轮融资由上海半导体产投、金桥基金领投，零一创投、新鼎资本、中关鼎华及老股东微光创投持续加码跟投。资金将主要用于焊接具身智能大脑与自主小脑运动控制系统的迭代升级，扩大自有智造工厂产能，扩充研发与市场服务团队，加速产品全国多行业规模化落地。
-  昇视唯盛成立于2020年，2023年获...
-- `36氪` [36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”](https://36kr.com/p/3887726503688968?f=rss)
-> 图源/企业
-  
-   本文约2200字，���议阅读6分钟
-  
-  作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，物理AI企业深度智控（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。
-  本轮资金将主要用于核心物理AI算法与产品线的持续研发、标准化产品DeepBot的规模化...
-- `36氪` [上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二](https://36kr.com/p/3887659913083392?f=rss)
-> 本文约3300字，建议阅读7分钟
-  作者 | 彭孝秋
-  
-   编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第四期——极豪科技。
-  
-  近日，极豪科技（JIIOV Technology）正式向港交所递交招股书。这家公司做的不是手机、不是模组，而是藏在手机指纹解锁背后的那颗感知大脑。
-  按沙利...
-- `36氪` [8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席](https://36kr.com/p/3887648675133960?f=rss)
-> 今日热点导览
-  
-   工信部：AI编程工具Claude Code存在安全后门隐患，危害严重
-   字节绩效规则调整：加大半年激励，加强字节范与领导力考核
-   沙特阿美大降价吸引亚洲买家，国际机构看空下半年油价
-   欧盟法院驳回苹果上诉，维持App Store和iOS“看门人”认定
-   摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍
-  
-  TOP3大新闻
-  小米汽车新...
+- `少数派` [Vibe Coding 时代，为什么降本不一定增效？](https://sspai.com/post/111975)
+> Vibe Coding 虽然可以更快地生成代码，但依然不能替我们定义问题、理解用户、设计架构并承担结果。查看全文
+- `少数派` [派早报：蔚来 ES8 大五座版正式上市等](https://sspai.com/post/112143)
+> OpenAI 发布 GPT-5.6 系列模型等，SpaceXAI 发布编程智能体模型 Grok 4.5。查看全文
 - `少数派` [TDS REVIEW | 小米耳夹式耳机体验](https://sspai.com/post/112011)
 > 这篇文章是TDSStudio在少数派上的第25篇文章，依然是全平台首发。小米也做了耳夹，其实是一件可以预料的事情，毕竟作为国内手机品牌中目前唯三愿意尝试挂耳式OWS形态的之一，他们显然是倾向于铺好全品 ...查看全文
 - `少数派` [iOS 27 Beta 2 & 3 值得关注的新特性](https://sspai.com/post/112083)
@@ -85,99 +85,95 @@
 > 暑期将至，许多「大朋友、小朋友」都会选择在最近两个月内出游。在旅行的过程中，我们难免会遇到各种各样的问题，也会遇到各种各样令人心烦的琐事。如果你恰好在使用iPhone，不妨看看我如何从出发前、在路上、 ...查看全文
 - `少数派` [好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级](https://sspai.com/post/110993)
 > 如果你最近正在考虑升级自己的桌面，或者想体验墨水屏显示器、屏幕挂灯、阅读灯在真实环境下的使用效果，欢迎来到少数派深圳线下体验店，坐下来试试看。查看全文
-- `少数派` [派早报：Nothing Ear (3a) 发布、Meta 推出 Muse 图像生成模型等](https://sspai.com/post/112049)
-> Google Voice 推出付费订阅方案并调整 Android 设备备份策略等。查看全文
 - `少数派` [家庭饮品 DIY 指南（二）：常用液体物料推荐](https://sspai.com/prime/story/home-made-beverages-2)
 > 往期文章：（一）工欲善其事，必先利其器这一篇我来跟大家聊聊各类物料的选择方法。虽然是选择方法，但我依旧建议大家买少量的物料尝试一下口感，多找一些同类产品对比，找一个自己喜欢的口感的产品作为原料。另外会 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
-- `少数派` [社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕](https://sspai.com/post/112017)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers](https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/)
-> Article URL: https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/
-Comments URL: https://news.ycombinator.com/item?id=48845514
-Point...
-- `Hacker News` [Syria's solar boom is redefining Middle East's energy model](https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/)
-> Article URL: https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/
-Comments URL: https://news.ycombinator.com/item?id=48845470
-Points...
-- `Hacker News` [The Glass Backbone: Why the Army's Logistics Will Break in the Next War](https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/)
-> Article URL: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/
-Comments URL: https://news.ycombinator.com/item?id=48845442
-Points: 53
-# Comments: 50
-- `Hacker News` [Show HN: FableCut – A browser video editor AI agents can drive (zero deps)](https://github.com/ronak-create/FableCut)
-> Article URL: https://github.com/ronak-create/FableCut
-Comments URL: https://news.ycombinator.com/item?id=48845422
-Points: 26
-# Comments: 13
-- `Hacker News` [Show HN: Arcaide – Explore code with multi-level call graphs](https://arcaide.foo)
-> One of the things I do when approaching a new codebase is to find the entry points and start exploring down the call paths. This gives a good overview of the different components in the code and ho...
-- `Hacker News` [Show HN: 18 Words](https://18words.com/)
-> Article URL: https://18words.com/
-Comments URL: https://news.ycombinator.com/item?id=48845049
-Points: 166
-# Comments: 81
-- `Hacker News` [How Version Control Will Evolve for the Agent Boom](https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom)
-> Article URL: https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom
-Comments URL: https://news.ycombinator.com/item?id=48844709
-Points: 21
-# Comments: 11
-- `Hacker News` [TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time](https://news.ycombinator.com/item?id=48844517)
-> Comments URL: https://news.ycombinator.com/item?id=48844517
+- `Hacker News` [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
+> Article URL: https://www.anthropic.com/news/ben-bernanke
+Comments URL: https://news.ycombinator.com/item?id=48855112
+Points: 8
+# Comments: 1
+- `Hacker News` [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
+> Article URL: https://blog.cloudflare.com/build-your-own-vulnerability-harness/
+Comments URL: https://news.ycombinator.com/item?id=48854681
+Points: 18
+# Comments: 8
+- `Hacker News` [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html)
+> Article URL: https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html
+Comments URL: https://news.ycombinator.com/item?id=48854638
+Points: 25
+# Comments: 32
+- `Hacker News` [Focus](https://boz.com/articles/focus)
+> Article URL: https://boz.com/articles/focus
+Comments URL: https://news.ycombinator.com/item?id=48854363
+Points: 67
+# Comments: 33
+- `Hacker News` [Study: "Mommy, do you love your phone more than me?"](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
+> Article URL: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full
+Comments URL: https://news.ycombinator.com/item?id=48854247
+Points: 15
+# Comments: 0
+- `Hacker News` [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
+> Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are
+Comments URL: https://news.ycombinator.com/item?id=48853091
+Points: 121
+# Comments: 162
+- `Hacker News` [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
+> Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a r...
+- `Hacker News` [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
+> Article URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/
+Comments URL: https://news.ycombinator.com/item?id=48849292
+Points: 153
+# Comments: 60
+- `Hacker News` [GPT-5.6](https://openai.com/index/gpt-5-6/)
+> https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/207...
+- `Hacker News` [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
+> Article URL: https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer
+Comments URL: https://news.ycombinator.com/item?id=48849011
 Points: 0
 # Comments: 0
-- `Hacker News` [EU Parliament greenlights Chat Control 1.0 – Breyer: "Our children lose out"](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
-> Article URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
-Comments URL: https://news.ycombinator.com/item?id=48843923
-Points: 287
-# Comm...
-- `Hacker News` [Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75](https://www.bbc.com/news/articles/cg5pd9z2487o)
-> Article URL: https://www.bbc.com/news/articles/cg5pd9z2487o
-Comments URL: https://news.ycombinator.com/item?id=48843438
-Points: 207
-# Comments: 75
-- `TechCrunch` [Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users](https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/)
-> Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.
-- `TechCrunch` [Character.AI enters the microdrama arena with its own productions, but there’s a twist](https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/)
-> In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.
-- `TechCrunch` [Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund](https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/)
-> Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.
-- `TechCrunch` [Truecaller clashes with India’s telecom regulator over anti-spam rules](https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/)
-> The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.
-- `TechCrunch` [Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement](https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/)
-> The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.
-- `TechCrunch` [Lovable reportedly in talks to double its valuation to $13.2B](https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/)
-> The $300 million round is expected to be led by Menlo Ventures, Sifted reported.
-- `TechCrunch` [Feds demand autonomous vehicle companies stop interfering with first responders](https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/)
-> The National Highway Traffic Safety Administration said emergency scenes are not "edge cases."
-- `TechCrunch` [Google’s deepfake detector system used to debunk McConnell hoax pic](https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/)
-> Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.
-- `TechCrunch` [With EU backing, QuantumDiamonds aims to speed up chip manufacturing](https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/)
-> Like its U.S. counterpart, the European Chips Act aims to foster the semiconductor industry — in part thanks to state subsidies. One of the beneficiaries is QuantumDiamonds, a German startup that a...
-- `TechCrunch` [Autonomous drone delivery startup Manna plots major US expansion](https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/)
-> Manna is launching a U.S. operations and manufacturing facility in Tulsa, Oklahoma, that will eventually employ 1,000 people.
-- `The Verge` [The PocketMage resurrects the PDA with an e-paper screen](https://www.theverge.com/tech/963281/pocketmage-pda-e-paper-oled-clamshell-crowd-supply)
-> Personal digital assistants like the iconic Palm Pilot were one of many devices we thought went extinct with the arrival of the smartphone. But similar to Canon resurrecting a nearly decade-old dig...
-- `The Verge` [Sony brings back the superzoom RX10 with a stacked sensor and a high price](https://www.theverge.com/tech/962439/sony-rx10v-superzoom-camera-price-specs-hands-on)
-> Sony is bringing back the RX10 superzoom camera after a nearly nine-year gap between models. The newly announced RX10 V retains the same 24-600mm equivalent f/2.4-4 Zeiss Vario-Sonnar 25x zoom lens...
-- `The Verge` [Comcast is breaking up with NBCU. Why did it ever buy it in the first place?](https://www.theverge.com/podcast/962994/comcast-nbc-universal-split-versant-content-plus-pipes-media-broadband)
-> Today on Decoder, I’m talking with Peter Kafka, who is chief correspondent at Business Insider and host of Channels, a podcast about the media industry. And it’s a big week for the media industry —...
-- `The Verge` [Meta says its new AI model is ready to compete on coding](https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api)
-> After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Me...
-- `The Verge` [ICE agents are making house calls for online critics](https://www.theverge.com/report/963106/ice-doxxing-office-of-professional-responsibility-free-speech)
-> A few hours after checking into a hotel in New York City, David Streever woke up to a call from the front desk saying someone was looking for him. Streever had just landed on a return trip from Fin...
-- `The Verge` [Say hello to Claude Wrapped](https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage)
-> The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced ...
-- `The Verge` [Character.AI wants a piece of the microdrama pie](https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video)
-> Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - sho...
-- `The Verge` [FL Studio 2026 turns its AI chatbot into your assistant engineer](https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot)
-> Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instruct...
-- `The Verge` [SpaceX is on track for record-setting Starlink deployments](https://www.theverge.com/news/963196/spacex-is-on-track-for-record-setting-starlink-deployments)
-> SpaceX is currently ahead of last year's record-setting pace for Starlink satellite deployments. SpaceX launched 1,589 Starlink satellites into low-Earth orbit in the first half of 2026, according ...
-- `The Verge` [Meta is reportedly working on smart glasses that would be recording all the time](https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai)
-> Meta might be the next company to make an always-on AI wearable. The company is working on prototype "super sensing" always-aware smart glasses that could continuously record audio and snap photos ...
+- `TechCrunch` [OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter](https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/)
+> OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.
+- `TechCrunch` [Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him](https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/)
+> The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.
+- `TechCrunch` [Fidji Simo steps down from OpenAI’s no. 2 role](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/)
+> OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company e...
+- `TechCrunch` [OpenAI launches its new family of models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/)
+> OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.
+- `TechCrunch` [An AI agent startup just let its agent run its $100M fundraise](https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/)
+> Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.
+- `TechCrunch` [OpenAI is shutting down Atlas, but its AI browser ambitions are still growing](https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/)
+> OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.
+- `TechCrunch` [Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic](https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/)
+> Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.
+- `TechCrunch` [Can AI answer the $3 trillion question?](https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/)
+> The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.
+- `TechCrunch` [Meta enters the crowded AI coding battle with Muse Spark 1.1](https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/)
+> Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI co...
+- `TechCrunch` [Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups](https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/)
+> In this week’s episode of Build Mode,  Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders...
+- `The Verge` [Microsoft’s carbon emissions went up 25 percent last year](https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026)
+> Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissio...
+- `The Verge` [Fidji Simo steps down from leading OpenAI’s AGI work due to illness](https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor)
+> OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a "part-time advisor," she said on X. The news follows Simo's original announcement in A...
+- `The Verge` [Netflix reportedly considers adding always-on channels](https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles)
+> Netflix is thinking about adding always-on channels that would stream specific shows and movies, according to The Wall Street Journal. The move sounds like a Netflix version of always-on services l...
+- `The Verge` [The ChatGPT browser is already dead](https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset)
+> OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave o...
+- `The Verge` [The floatable, powerful Soundcore Boom 2 speaker is over half off](https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale)
+> Bluetooth speakers with big sound and great features are hard to find for under $100, with most offerings being some variation of the same basic (and often small) design. Thankfully, through July 1...
+- `The Verge` [Google will now tell you if an ad was made with AI](https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label)
+> You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's "My Ad Center," as reported earlier by TechCrunch. The update, announce...
+- `The Verge` [Google’s Nest Thermostat has hit its best price of the year](https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale)
+> If you’re looking for a relatively affordable way to cut down on cooling costs, Google’s Nest Thermostat can help. It’s packed with smart controls and energy-saving features, and right ...
+- `The Verge` [Microsoft’s patch Tuesdays are about to get bigger](https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates)
+> Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to "identify potential issues earlier," which means "c...
+- `The Verge` [OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’](https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work)
+> About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a "limited preview" period - the company has received the Trum...
+- `The Verge` [Schlage’s Sense Pro unlocks the door so I don’t have to](https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock)
+> The Schlage Sense Pro is a beautiful smart lock. Sleek, discreet, and simple to use, it's Schlage's smartest lock to date. Thanks to ultra-wideband (UWB), it unlocks as I walk up to my front door; ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
