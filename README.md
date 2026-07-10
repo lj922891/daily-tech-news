@@ -6,19 +6,32 @@
 
 # 📰 每日科技日报 — 2026-07-10
 
-> 自动收集于 2026-07-10 03:52 | 共 50 条
+> 自动收集于 2026-07-10 13:50 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录](https://36kr.com/p/3889551814916614?f=rss)
+> 大公司：
+  SK海力士赴美上市，华尔街投行合计佣金有望达1.4亿美元
+  参与SK海力士上市项目的投行团队将斩获上亿美元丰厚佣金。这家市值突破万亿美元的韩国芯片巨头即将登陆美股，本次发行有望跻身史上规模最大IPO行列。两名熟悉该交易的人士透露，高盛、花旗等承销本次纳斯达克股票发行的投行，总佣金池规模或将突破1.4亿美元；佣金由两部分构成，一是募资总额0.5%的基础承销费，二是SK海力士另行...
+- `36氪` [徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线](https://36kr.com/p/3889524008303363?f=rss)
+> 徕芬珠海超级工厂（图源/企业）
+  作者丨欧雪
+  编辑丨袁斯来
+  7月8日，徕芬科技在珠海斗门的超级工厂举办媒体探访活动。
+  这座总投资超5亿元、占地超20万平方米的制造基地，自2025年8月投产以来，首次较大规模地向外界开放参观。
+  该工厂目前承接电动牙刷、剃须刀及部分新品的生产，并配套了电机车间、精密成型车间、喷涂车间、组装车间及约3000平方米的可靠性实验室。
+  
+  徕芬可...
 - `36氪` [赢官司、融新钱，他想把百万「抗癌针」变平价](https://36kr.com/p/3888284244720131?f=rss)
 > 文 | 胡香赟
   编辑 | 海若镜
-  36氪获悉，前传奇生物创始人/首席科学家范晓虎创办的生物科技公司深圳湾岛细胞，近日完成1.4亿人民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。
-  过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的...
+  36氪获悉，前传奇生物创始人/首席科学家范晓��创办的生物科技公司深圳湾岛细胞，近日完成1.4亿人民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。
+  过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化...
 - `36氪` [36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~](https://36kr.com/p/3883780969083137?f=rss)
-> 先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真��地被留下来？
+> 先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真正地被留下来？
   一个新AI产品刷屏，你火速打开官网、注册、验证码、绑定手机，结果试了五分钟——要么排队排到天荒地老，要么生成的东西一言难尽，要么免费额度3秒用完开始催你充值。热闹是它们的，浪费的时间和手机号是你的。
-  更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底哪好；要么明里暗里恰饭，...
+  更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底哪好；要么明里暗里恰饭，让...
 - `36氪` [36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍](https://36kr.com/p/3889141540370949?f=rss)
 > 图源/企业
   
@@ -59,14 +72,10 @@
   LG Innotek将在越南海防投资10亿美元新建半导体基板厂
   据6月8日声明，LG集团子公司、韩国电子元件制造商LG Innotek已获得越南海防经济区管理委员会（HEZA）颁发的投资登记证，将投资10亿美元在海防自由贸易区内的DEEP C海防2工业园新建半导体基板制造基地。该厂预计占地约33公顷，计划今年三季度动工，预计明年四季度完工。
   Waymo未来几周将在美国四...
-- `36氪` [创始人回归，一家高增长公司进入新阶段](https://36kr.com/p/3886969297893892?f=rss)
-> 六月末的苏黎世，利马特河从 On Labs 楼后流过。昂跑（On）三位创始人之一 Olivier Bernhard 站在一群跑步与商业记者面前，先说了一句略带歉意的开场白：“这里不是那种光鲜亮丽的展示空间。”
-  他提醒来客，接下来会看到戴着护目镜的工程师、指尖沾着蓝色染料的设计师，以及在跑步机上大汗淋漓、把自己逼到极限的运动员。这是昂跑第一次向外部媒体掀开其创新引擎的帷幕——On Labs...
-- `36氪` [揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪](https://36kr.com/p/3888180493318921?f=rss)
-> 特斯拉FSD（Full Self-Driving）每迭代出一个新版本，自动驾驶公司Momenta的创始人曹旭东都会飞去美国亲自体验。
-  “他还不光是去坐车，还会找一切能接触到特斯拉的人聊。”接触到曹旭东的人士告诉36氪，马斯克是曹旭东最常提到的人。
-  在内部，许多员工对曹旭东的一个共同感受，就是“马斯克式CEO”。
-  创业十年，Momenta赴港股IPO，上市首日（7月8日）市值达70...
+- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/112169)
+> 📅本周新预告《恐怖游轮》内地定档7月17日7月8日，电影《恐怖游轮》发布了中国内地定档预告，将于7月17日上映。克里斯托弗·史密斯执导、编剧，梅利莎·乔治主演，单亲母亲杰西和一帮朋友乘游艇出海游玩，但 ...查看全文
+- `少数派` [安达卢西亚的日与夜：格拉纳达漫游指南](https://sspai.com/post/112097)
+> 有些旅程就是这样，它最终并没有留在成百上千张照片里，而是长久地停留在某种气味与感官的记忆中。查看全文
 - `少数派` [Vibe Coding 时代，为什么降本不一定增效？](https://sspai.com/post/111975)
 > Vibe Coding 虽然可以更快地生成代码，但依然不能替我们定义问题、理解用户、设计架构并承担结果。查看全文
 - `少数派` [派早报：蔚来 ES8 大五座版正式上市等](https://sspai.com/post/112143)
@@ -83,62 +92,67 @@
 > 以后争取每年都来乌兰布统这一大片地方走走看看。查看全文
 - `少数派` [我的出行好伙伴，用 iPhone 一站式解决旅途痛点](https://sspai.com/post/112044)
 > 暑期将至，许多「大朋友、小朋友」都会选择在最近两个月内出游。在旅行的过程中，我们难免会遇到各种各样的问题，也会遇到各种各样令人心烦的琐事。如果你恰好在使用iPhone，不妨看看我如何从出发前、在路上、 ...查看全文
-- `少数派` [好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级](https://sspai.com/post/110993)
-> 如果你最近正在考虑升级自己的桌面，或者想体验墨水屏显示器、屏幕挂灯、阅读灯在真实环境下的使用效果，欢迎来到少数派深圳线下体验店，坐下来试试看。查看全文
-- `少数派` [家庭饮品 DIY 指南（二）：常用液体物料推荐](https://sspai.com/prime/story/home-made-beverages-2)
-> 往期文章：（一）工欲善其事，必先利其器这一篇我来跟大家聊聊各类物料的选择方法。虽然是选择方法，但我依旧建议大家买少量的物料尝试一下口感，多找一些同类产品对比，找一个自己喜欢的口感的产品作为原料。另外会 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [Ben Bernanke Joins Anthropic Oversight Trust](https://www.anthropic.com/news/ben-bernanke)
-> Article URL: https://www.anthropic.com/news/ben-bernanke
-Comments URL: https://news.ycombinator.com/item?id=48855112
-Points: 8
-# Comments: 1
-- `Hacker News` [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness/)
-> Article URL: https://blog.cloudflare.com/build-your-own-vulnerability-harness/
-Comments URL: https://news.ycombinator.com/item?id=48854681
-Points: 18
-# Comments: 8
-- `Hacker News` [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html)
-> Article URL: https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html
-Comments URL: https://news.ycombinator.com/item?id=48854638
-Points: 25
-# Comments: 32
-- `Hacker News` [Focus](https://boz.com/articles/focus)
-> Article URL: https://boz.com/articles/focus
-Comments URL: https://news.ycombinator.com/item?id=48854363
-Points: 67
-# Comments: 33
-- `Hacker News` [Study: "Mommy, do you love your phone more than me?"](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full)
-> Article URL: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full
-Comments URL: https://news.ycombinator.com/item?id=48854247
-Points: 15
+- `Hacker News` [Man nearly sucked out of 'detached' window on Ryanair flight](https://www.rte.ie/news/2026/0710/1582735-world-ryanair/)
+> Article URL: https://www.rte.ie/news/2026/0710/1582735-world-ryanair/
+Comments URL: https://news.ycombinator.com/item?id=48859788
+Points: 3
 # Comments: 0
-- `Hacker News` [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are)
-> Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are
-Comments URL: https://news.ycombinator.com/item?id=48853091
-Points: 121
-# Comments: 162
-- `Hacker News` [Building a real-time AI tutor for 5-year-olds](https://www.ello.com/blog/teaching-a-child-in-1000-ms)
-> Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a r...
-- `Hacker News` [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/)
-> Article URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/
-Comments URL: https://news.ycombinator.com/item?id=48849292
-Points: 153
-# Comments: 60
-- `Hacker News` [GPT-5.6](https://openai.com/index/gpt-5-6/)
-> https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-modelhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/207...
-- `Hacker News` [Wildcard (YC W25) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer)
-> Article URL: https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer
-Comments URL: https://news.ycombinator.com/item?id=48849011
+- `Hacker News` [Offline tool to stabilize TV volume using IR control and spike detection](https://github.com/AdBusterOfficial/Adbuster--WinApp)
+> Article URL: https://github.com/AdBusterOfficial/Adbuster--WinApp
+Comments URL: https://news.ycombinator.com/item?id=48859781
+Points: 4
+# Comments: 0
+- `Hacker News` [Proton AG Services is currently experiencing some issues](https://status.proton.me/incidents/01lxtcq155lc)
+> Article URL: https://status.proton.me/incidents/01lxtcq155lc
+Comments URL: https://news.ycombinator.com/item?id=48859752
+Points: 6
+# Comments: 1
+- `Hacker News` [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)
+> Article URL: https://unstack.io/write-code-like-a-human-will-maintain-it
+Comments URL: https://news.ycombinator.com/item?id=48859701
+Points: 6
+# Comments: 2
+- `Hacker News` [How do you use Vim in the era of AI?](https://news.ycombinator.com/item?id=48859439)
+> I'm a heavy vim user, but now that I look at the code less and less I'm wondering if it still makes sense.
+
+Comments URL: https://news.ycombinator.com/item?id=48859439
+Points: 7
+# Comments: 4
+- `Hacker News` [Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure](https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/)
+> Article URL: https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/
+Comments URL: https://news.ycombinator.com/item?id=48858997
+Points: 18
+# Comments: 12
+- `Hacker News` [Laylo (YC S20) Is Hiring a Head of Finance](https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance)
+> Article URL: https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance
+Comments URL: https://news.ycombinator.com/item?id=48858745
 Points: 0
 # Comments: 0
+- `Hacker News` [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/)
+> Article URL: https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/
+Comments URL: https://news.ycombinator.com/item?id=48858737
+Points: 65
+# Comments: 17
+- `Hacker News` [EU Commission: addictive design Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/home/en)
+> Article URL: https://ec.europa.eu/commission/presscorner/home/en
+Comments URL: https://news.ycombinator.com/item?id=48858292
+Points: 101
+# Comments: 75
+- `Hacker News` [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/)
+> Article URL: https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/
+Comments URL: https://news.ycombinator.com/item?id=48858121
+Points: 83
+# Comments: 55
+- `TechCrunch` [After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV](https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/)
+> Vivo's joint venture could become a template for Chinese smartphone makers in India.
 - `TechCrunch` [OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter](https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/)
 > OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.
 - `TechCrunch` [Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him](https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/)
-> The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.
-- `TechCrunch` [Fidji Simo steps down from OpenAI’s no. 2 role](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/)
+> The new exchange-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.
+- `TechCrunch` [Fidji Simo steps down from OpenAI’s No. 2 role](https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/)
 > OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company e...
 - `TechCrunch` [OpenAI launches its new family of models with GPT-5.6](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/)
 > OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.
@@ -152,8 +166,18 @@ Points: 0
 > The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.
 - `TechCrunch` [Meta enters the crowded AI coding battle with Muse Spark 1.1](https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/)
 > Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI co...
-- `TechCrunch` [Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups](https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/)
-> In this week’s episode of Build Mode,  Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders...
+- `The Verge` [Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’](https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters)
+> Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you "shouldn't have it in your feed" if you don't like it. "I don't think we should filter o...
+- `The Verge` [Would you host part of an AI data center in your home?](https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center)
+> A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is l...
+- `The Verge` [Xreal’s new AR glasses are way cheaper and almost just right](https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on)
+> I love it when a company challenges itself to make a cheaper version of a beloved product. Xreal's $299 A01 Plus is a stripped-down version of its $449 1S that's light on features but with just eno...
+- `The Verge` [Doom’s new expansion shows just what makes id Software special](https://www.theverge.com/games/963515/doom-the-dark-ages-revelations-review)
+> This week should have been a celebration for Doom developer id Software. The studio just launched Revelations, a meaty expansion for Doom: The Dark Ages that adds a powerful new weapon and more dem...
+- `The Verge` [Polestar owners left ‘holding the bag’ after EV brand pulls out of the US](https://www.theverge.com/transportation/963399/polestar-owners-ban-dealers-service-warranty-lease)
+> Last month, Polestar shocked the auto industry when it announced that it was pulling out of the US. The EV company's decision came after the federal government denied its authorization to continue ...
+- `The Verge` [Instagram and Facebook will likely require a redesign after EU rules they’re ‘addictive’](https://www.theverge.com/policy/963872/meta-eu-addictive-design-200b-fine-risk-digital-services-act-dsa)
+> Meta is in breach of the EU's Digital Services Act (DSA), a preliminary investigation has found, over the "addictive" design of Instagram and Facebook. It's likely to be forced to redesign both app...
 - `The Verge` [Microsoft’s carbon emissions went up 25 percent last year](https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026)
 > Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissio...
 - `The Verge` [Fidji Simo steps down from leading OpenAI’s AGI work due to illness](https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor)
@@ -162,18 +186,6 @@ Points: 0
 > Netflix is thinking about adding always-on channels that would stream specific shows and movies, according to The Wall Street Journal. The move sounds like a Netflix version of always-on services l...
 - `The Verge` [The ChatGPT browser is already dead](https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset)
 > OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave o...
-- `The Verge` [The floatable, powerful Soundcore Boom 2 speaker is over half off](https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale)
-> Bluetooth speakers with big sound and great features are hard to find for under $100, with most offerings being some variation of the same basic (and often small) design. Thankfully, through July 1...
-- `The Verge` [Google will now tell you if an ad was made with AI](https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label)
-> You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's "My Ad Center," as reported earlier by TechCrunch. The update, announce...
-- `The Verge` [Google’s Nest Thermostat has hit its best price of the year](https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale)
-> If you’re looking for a relatively affordable way to cut down on cooling costs, Google’s Nest Thermostat can help. It’s packed with smart controls and energy-saving features, and right ...
-- `The Verge` [Microsoft’s patch Tuesdays are about to get bigger](https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates)
-> Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to "identify potential issues earlier," which means "c...
-- `The Verge` [OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’](https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work)
-> About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a "limited preview" period - the company has received the Trum...
-- `The Verge` [Schlage’s Sense Pro unlocks the door so I don’t have to](https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock)
-> The Schlage Sense Pro is a beautiful smart lock. Sleek, discreet, and simple to use, it's Schlage's smartest lock to date. Thanks to ultra-wideband (UWB), it unlocks as I walk up to my front door; ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
