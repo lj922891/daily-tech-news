@@ -4,12 +4,23 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-11
+# 📰 每日科技日报 — 2026-07-12
 
-> 自动收集于 2026-07-11 12:45 | 共 50 条
+> 自动收集于 2026-07-12 03:31 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [这个周末，科技投资人都得飞一趟成都](https://36kr.com/p/3892096788396806?f=rss)
+> 新能源基金的下半场
+  作者 | 吕敬之编辑 | 吾人
+  来源 | 融中财经
+  一只新能源基金落子成都。
+  近日，成都交通投资集团有限公司、成都濛江投资集团有限公司、杭州碧澄能源发展有限公司、洛能（杭州）股权投资有限公司四方签署新能源产业战略合作协议。根据协议，四方将联合设立总规模10亿元的新能源并购基金，推动碧澄能源西南总部及智能运维、资产运营等专业化经营主体落户成都彭州市...
+- `36氪` [近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？](https://36kr.com/p/3892027841362694?f=rss)
+> 林方舟 发自 凹非寺
+  在湖南郴州，一家中国移动营业厅挂牌“具身数据采集5S店”，普通顾客领一套夹爪、手套和头戴相机，经过简单培训，就能边做家务，边采集机器人训练数据。
+  首期投放的1000套设备，满产状态下每年能采集100万小时数据。我仿佛听到了商家心里打的小算盘：既采了数据，又赚了眼球，4A广告公司都应该来学学。（doge）
+  具身数采类似的“花活”还有不少：有的为了采数据免费上门...
 - `36氪` [独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事](https://36kr.com/p/3891132709206784?f=rss)
 > 文 | 周鑫雨
   编辑 | 张雨忻
@@ -22,10 +33,10 @@
   百亿私募数量达142家，再次刷新历史纪录
   三星李在镕拟于7月底赴美会晤英伟达黄仁勋
   德国大众拟大裁员，最高或裁减12万个岗位
-  OpenAI高管层再现变动，首席运营���因病离职
+  OpenAI高管层再现变动，首席运营官因病离职
   TOP3大新闻
   长鑫科技，承销团阵容公布 
-  长鑫科技IPO进入发行倒计时，这家“国产存储第一股”背后...
+  长鑫科技IPO进入发行倒计时，这家“国产存储第一股”背后的承...
 - `36氪` [36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体](https://36kr.com/p/3889516712065799?f=rss)
 > 图源/企业
   
@@ -65,22 +76,8 @@
   作者丨欧雪
   编辑丨袁斯来
   硬氪获悉，北京他山科技有限公司（以下简称“他山科技”）已于近期完成B轮融资，金额为数亿元。本轮投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners（LHCP）、洪山资本等产业方，老股东道氏技术、彬复资本追加投资。资金将主要用于触觉传感器...
-- `36氪` [8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行](https://36kr.com/p/3889047503354625?f=rss)
-> 今日热点导览
-  
-   花呗就还款页面无法正常打开致歉
-   中芯国际市值超越贵州茅台
-   iPhone 18 Pro Max成本大涨，起步价或维持在9999元
-   英伟达将与Hugging Face合作开发机器人开源模型
-   美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易
-  
-  TOP 3大新闻
-  老乡鸡五年五次冲击上市失败
-  LXJ International Holdi...
-- `36氪` [万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！](https://36kr.com/p/3888567864851204?f=rss)
-> 7月9日，万勋科技于北京举办自动充电机器人业务战略发布会，重磅推出行业首个以 “混沌服务” 模式全面覆盖公用、专用、家用所有应用类别的 “柔韧充” 自动充电通用服务引擎及其核心产品。其独一无二的 “0.000s 无极容差应变” 技术特性，在同期发布的三大类别 “全球首例” 应用成果中得到充分展现，正式为行业带来彻底击穿自动充电各场景规模商用核心困局的通用解法。
-  
-  0.000S 无机容...
+- `少数派` [6月音乐精选：不得不听的 17 张……没错 17 张专辑！](https://sspai.com/post/112035)
+> 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
 - `少数派` [暴雨和洪涝的季节，这些技巧助你从容自保](https://sspai.com/post/68024)
 > 面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/112169)
@@ -99,63 +96,67 @@
 > 角落的意义或许在于与世界保持恰当的距离，允许生活在身边流淌，也允许自己在这些声音之中，重新听见自己的声音。查看全文
 - `少数派` [派早报：GPT-5.6 即将开放使用、Nothing 发布 Phone (4b) 等](https://sspai.com/post/112091)
 > Notion 推出全新应用 Agents、Jolla Phone (2026) 手机正式发售等。查看全文
-- `少数派` [乌兰布统，草原观星](https://sspai.com/post/111923)
-> 以后争取每年都来乌兰布统这一大片地方走走看看。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
-> Article URL: https://fazamhd.com/mental-models/networking/
-Comments URL: https://news.ycombinator.com/item?id=48871470
-Points: 10
+- `Hacker News` [Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)](https://github.com/PJHkorea/quantum-mesh-qec)
+> Article URL: https://github.com/PJHkorea/quantum-mesh-qec
+Comments URL: https://news.ycombinator.com/item?id=48877672
+Points: 3
 # Comments: 1
-- `Hacker News` [FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry](https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html)
-> Article URL: https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html
-Comments URL: https://news.ycombinator.com/item?id=48871367
-Points: 4
+- `Hacker News` [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
+> Article URL: https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/
+Comments URL: https://news.ycombinator.com/item?id=48877668
+Points: 19
 # Comments: 0
-- `Hacker News` [The vintage beauty of Soviet control rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/)
-> Article URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/
-Comments URL: https://news.ycombinator.com/item?id=48868996
-Points: 134
-# Comments: 46
-- `Hacker News` [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
-> https://www.science.org/doi/10.1126/science.aei1285
-
-Comments URL: https://news.ycombinator.com/item?id=48866134
-Points: 294
-# Comments: 115
-- `Hacker News` [Moss (YC F25) Is Hiring](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk)
-> Article URL: https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk
-Comments URL: https://news.ycombinator.com/item?id=48865332
-Points: 0
+- `Hacker News` [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)
+> Article URL: https://arxiv.org/abs/1203.5426
+Comments URL: https://news.ycombinator.com/item?id=48877613
+Points: 7
 # Comments: 0
-- `Hacker News` [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
-> https://www.macrumors.com/2026/07/10/apple-sues-openai/
-
-Comments URL: https://news.ycombinator.com/item?id=48865019
-Points: 1193
-# Comments: 626
-- `Hacker News` [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/)
-> Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/
-Comments URL: https://news.ycombinator.com/item?id=48864252
-Points: 231
-# Comments: 237
-- `Hacker News` [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
-> https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...
-
-Comments URL...
-- `Hacker News` [New York City to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban)
-> https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani...
-
-Comments URL: https://news.ycombinator.com/item?id=48863464
-Points: 553
-# Comments: 273
-- `Hacker News` [War Atlas: An interactive cartography of every named war in human history](https://waratlas.org)
-> Article URL: https://waratlas.org
-Comments URL: https://news.ycombinator.com/item?id=48863080
-Points: 169
-# Comments: 68
+- `Hacker News` [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
+> Article URL: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547
+Comments URL: https://news.ycombinator.com/item?id=48877371
+Points: 85
+# Comments: 44
+- `Hacker News` [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
+> Article URL: https://igropyr.com
+Comments URL: https://news.ycombinator.com/item?id=48877344
+Points: 12
+# Comments: 1
+- `Hacker News` [A pure scheme web programming tool](https://goeteia.dev)
+> Article URL: https://goeteia.dev
+Comments URL: https://news.ycombinator.com/item?id=48877314
+Points: 28
+# Comments: 13
+- `Hacker News` [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
+> Article URL: https://fabiensanglard.net/tb4/index.html
+Comments URL: https://news.ycombinator.com/item?id=48877269
+Points: 38
+# Comments: 28
+- `Hacker News` [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)
+> Article URL: https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext
+Comments URL: https://news.ycombinator.com/item?id=48877192
+Points: 57
+# Comments: 32
+- `Hacker News` [Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma](https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491)
+> Article URL: https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491
+Comments URL: https://news.ycombinator.com/item?id=48877178
+Points: 39
+# Comments: 6
+- `Hacker News` [Doctors die. It's not like the rest of us, but it should be (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
+> Article URL: https://archive.cancerworld.net/featured/how-doctors-die/
+Comments URL: https://news.ycombinator.com/item?id=48876741
+Points: 94
+# Comments: 55
+- `TechCrunch` [Reed Jobs would rather talk about curing cancer than his last name](https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/)
+> When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has...
+- `TechCrunch` [This slushie machine was a lifesaver during NYC’s heat wave](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/)
+> Last weekend’s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I sta...
+- `TechCrunch` [Smart glasses without a camera? Even Realities bets productivity beats recording everyone](https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/)
+> The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.
+- `TechCrunch` [OpenAI bets on families as ChatGPT goes deeper into households](https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/)
+> ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.
 - `TechCrunch` [US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/)
 > Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible Git...
 - `TechCrunch` [Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn](https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/)
@@ -168,14 +169,18 @@ Points: 169
 > Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.
 - `TechCrunch` [Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat](https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/)
 > Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.
-- `TechCrunch` [SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs](https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/)
-> The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.
-- `TechCrunch` [A new app, HyperTexting, turns the open web into a scrollable social media-like feed](https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/)
-> HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to you...
-- `TechCrunch` [China is catching up to Elon Musk’s reusable rockets](https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/)
-> China's state-owned space company recovered its first orbital rocket booster after launch.
-- `TechCrunch` [Disney+ is considering a free streaming tier, report says](https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/)
-> The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.
+- `The Verge` [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo)
+> After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The d...
+- `The Verge` [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
+> Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closin...
+- `The Verge` [FL Studio head Constantin Koehncke turns to Reddit for feedback and fun](https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview)
+> If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the m...
+- `The Verge` [Nintendo’s Talking Flower got a small price cut](https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale)
+> If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. T...
+- `The Verge` [White House taps the guy who keeps crying ‘aliens’ to run UFO group](https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council)
+> Harvard astrophysicist Avi Loeb will head the UAP Science Advisory Council established by the White House, the Pentagon, the Office of the Director of National Intelligence, the FBI, and "the intel...
+- `The Verge` [ICE are heavily armed killers. They’re also huge losers](https://www.theverge.com/policy/964302/ice-donald-trump-killings)
+> Donald Trump's Homeland Security regime has been at the center of two critical stories in the past two weeks. In the first, federal agents shot and killed a man and quickly got to work justifying t...
 - `The Verge` [A tasty RPG that will make you very hungry](https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch)
 > Roleplaying games are often defined by excess. Storylines that span dozens of hours, side quests so big they could be their own game, massive worlds that require complex maps to explore, and casts ...
 - `The Verge` [The perfect kit for all your tiny repairs](https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer)
@@ -184,18 +189,6 @@ Points: 169
 > Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlandin...
 - `The Verge` [No, Flock isn’t threatening people for debating surveillance](https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter)
 > On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. F...
-- `The Verge` [Meta turns off the Instagram feature that let users make AI deepfakes of public accounts](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)
-> Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The fe...
-- `The Verge` [The FCC is cracking down on DJI tech that dodged the foreign drone ban](https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab)
-> Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firm...
-- `The Verge` [Apple sues OpenAI for allegedly stealing hardware secrets](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets)
-> Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered "a pattern of theft of Apple's trade secrets...
-- `The Verge` [A decade later, Pokémon Go finally made good on its original promise](https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026)
-> When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. But this week at the game's 10th...
-- `The Verge` [ICE is threatening to deport witnesses of its latest shooting](https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo)
-> Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houst...
-- `The Verge` [Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street](https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut)
-> As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raise...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
