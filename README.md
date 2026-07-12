@@ -6,10 +6,37 @@
 
 # 📰 每日科技日报 — 2026-07-12
 
-> 自动收集于 2026-07-12 03:31 | 共 50 条
+> 自动收集于 2026-07-12 12:47 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [“背后空无一人”的LV，这次中国人彻底不买账了](https://36kr.com/p/3892442708032264?f=rss)
+> LV
+  最近，广西一场洪水，又双叒叕让不少品牌登上热搜。
+  在一众的品牌捐款名单里，除了常见的消费巨头互联网大厂之外，人们还看到了一个新面孔，那就是茉莉奶白。
+  
+  茉莉奶白
+  有人说，“自己淋雨，还想着给别人撑伞”。毕竟前不久，茉莉奶白自己还相当焦头烂额。
+  本来好好卖20块一杯茶饮，突然被一个卖3万包的顶级大牌闹到跟法庭相见，理由是杯子上的四叶草“近似”。网友一句话总结到位：...
+- `36氪` [腾讯重仓一个IPO](https://36kr.com/p/3892352153942530?f=rss)
+> 图片来源：视觉中国
+  作者/杨继云
+  报道/投资界PEdaily
+  深圳超级IPO来了。
+  日前，深圳云豹智能股份有限公司（简称“云豹智能”）创业板IPO申请正式获深交所受理，成为又一家选用创业板第四套上市标准申报上市的企业，冲刺“国产DPU第一股”。
+  回想6年前，斯坦福博士萧启阳在深圳创办云豹智能，专注于DPU赛道。这个团队启航两个月后，千亿DPU赛道开始爆发。至今，他背后站着...
+- `36氪` [消失的150亿美元，有下文了](https://36kr.com/p/3892321158773251?f=rss)
+> 这场秘密增持的故事断续延宕了二十余年。
+  作者 黎曼
+  2026年7月，奢侈品行业的目光同时聚焦在两个法庭上。
+  一个是中国法庭。苏州市中级人民法院就LV诉新茶饮品牌茉莉奶白商标侵权案作出一审判决，认定茉莉奶白侵害LV七件四叶花卉图形注册商标专用权，判赔金额合计1030万元。目前该判决尚未生效，茉莉奶白方面已公开回应将依法提起上诉。
+  了解LV的朋友会知道，茉莉奶白商标侵权案只是LV...
+- `36氪` [全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型](https://36kr.com/p/3892222176574211?f=rss)
+> 换更大的模型就等于更聪明？
+  【导读】换更大的模型就等于更聪明？这可能是Claude Code用户最深的误会。很多人为此一路换到最贵的Fable，近日，Anthropic，亲手澄清了这个误区。
+  你有没有过这种时刻：Claude Code写代码写砸了，第一反应，就是赶紧换个更强的模型。
+  但这一招，很多时候并不管用，甚至是在白花钱。
+  近日，Anthropic官方发了一篇长文专门来讲...
 - `36氪` [这个周末，科技投资人都得飞一趟成都](https://36kr.com/p/3892096788396806?f=rss)
 > 新能源基金的下半场
   作者 | 吕敬之编辑 | 吾人
@@ -50,32 +77,6 @@
 > 大公司：
   SK海力士赴美上市，华尔街投行合计佣金有望达1.4亿美元
   参与SK海力士上市项目的投行团队将斩获上亿美元丰厚佣金。这家市值突破万亿美元的韩国芯片巨头即将登陆美股，本次发行有望跻身史上规模最大IPO行列。两名熟悉该交易的人士透露，高盛、花旗等承销本次纳斯达克股票发行的投行，总佣金池规模或将突破1.4亿美元；佣金由两部分构成，一是募资总额0.5%的基础承销费，二是SK海力士另行...
-- `36氪` [徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线](https://36kr.com/p/3889524008303363?f=rss)
-> 徕芬珠海超级工厂（图源/企业）
-  作者丨欧雪
-  编辑丨袁斯来
-  7月8日，徕芬科技在珠海斗门的超级工厂举办媒体探访活动。
-  这座总投资超5亿元、占地超20万平方米的制造基地，自2025年8月投产以来，首次较大规模地向外界开放参观。
-  该工厂目前承接电动牙刷、剃须刀及部分新品的生产，并配套了电机车间、精密成型车间、喷涂车间、组装车间及约3000平方米的可靠性实验室。
-  
-  徕芬可...
-- `36氪` [赢官司、融新钱，他想把百万「抗癌针」变平价](https://36kr.com/p/3888284244720131?f=rss)
-> 文 | 胡香赟
-  编辑 | 海若镜
-  36氪获悉，前传奇生物创始人/首席科学家范晓虎创办的生物科技公司深圳湾岛细胞，近日完成1.4亿人民币A轮融资，本轮融资由松禾资本领投、东方富海跟投。
-  过去一年，AI像一束强光照亮着资本市场。光芒之外，很多赛道在阴影中被重新定价，创新药板块正是其中之一。潮水褪去，人群对新药好药的需求仍在，创业者们也正在更严苛的估值坐标系里，渡过科学、临床和商业化的...
-- `36氪` [36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~](https://36kr.com/p/3883780969083137?f=rss)
-> 先问一个扎心的问题：过去半年，你陆陆续续体验过多少个AI产品，又有多少个真正地被留下来？
-  一个新AI产品刷屏，你火速打开官网、注册、验证码、绑定手机，结果试了五分钟——要么排队排到天荒地老，要么生成的东西一言难尽，要么免费额度3秒用完开始催你充值。热闹是它们的，浪费的时间和手机号是你的。
-  更麻烦的是，你想提前打听打听哪个好用，网上一搜要么全是水评，看不出到底哪好；要么明里暗里恰饭，让...
-- `36氪` [36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍](https://36kr.com/p/3889141540370949?f=rss)
-> 图源/企业
-  
-   本文约3100字，建议阅读7分钟
-  
-  作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，北京他山科技有限公司（以下简称“他山科技”）已于近期完成B轮融资，金额为数亿元。本轮投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners（LHCP）、洪山资本等产业方，老股东道氏技术、彬复资本追加投资。资金将主要用于触觉传感器...
 - `少数派` [6月音乐精选：不得不听的 17 张……没错 17 张专辑！](https://sspai.com/post/112035)
 > 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
 - `少数派` [暴雨和洪涝的季节，这些技巧助你从容自保](https://sspai.com/post/68024)
@@ -99,56 +100,54 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Show HN: Quantum-Qec / Matrix-Free Quantum Homeostatic Engine(Blueprint)](https://github.com/PJHkorea/quantum-mesh-qec)
-> Article URL: https://github.com/PJHkorea/quantum-mesh-qec
-Comments URL: https://news.ycombinator.com/item?id=48877672
-Points: 3
-# Comments: 1
-- `Hacker News` [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
-> Article URL: https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/
-Comments URL: https://news.ycombinator.com/item?id=48877668
+- `Hacker News` [Yt-Dlp Sequence Diagrams](https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video)
+> Article URL: https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video
+Comments URL: https://news.ycombinator.com/item?id=48880384
 Points: 19
 # Comments: 0
+- `Hacker News` [Woman in Brazil enslaved for 55 years by 3 generations of the same family](https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html)
+> Article URL: https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html
+Comments URL: https://news.yc...
+- `Hacker News` [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
+> Article URL: https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/
+Comments URL: https://news.ycombinator.com/item?id=48880170
+Points: 64
+# Comments: 10
+- `Hacker News` [Datacentres drive up big tech's carbon emissions to a third of those of France](https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france)
+> Article URL: https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france
+Comments URL: https://news.ycombinator.com/item?id=48879950
+Points: 28
+# Comm...
+- `Hacker News` [Ghostel.el: Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
+> Article URL: https://dakra.github.io/ghostel/
+Comments URL: https://news.ycombinator.com/item?id=48879504
+Points: 49
+# Comments: 0
+- `Hacker News` [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
+> Article URL: https://github.com/cosmtrek/mindwalk
+Comments URL: https://news.ycombinator.com/item?id=48878682
+Points: 95
+# Comments: 42
+- `Hacker News` [Under federal rule, colleges must leave grads better off or lose financial aid](https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans)
+> Article URL: https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans
+Comments URL: https://news.ycombinator.com/item?id=48878126
+Points: 117
+# Comments: 255
 - `Hacker News` [The Energetic Costs of Cellular Computation (2012)](https://arxiv.org/abs/1203.5426)
 > Article URL: https://arxiv.org/abs/1203.5426
 Comments URL: https://news.ycombinator.com/item?id=48877613
-Points: 7
-# Comments: 0
-- `Hacker News` [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
-> Article URL: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547
-Comments URL: https://news.ycombinator.com/item?id=48877371
-Points: 85
-# Comments: 44
-- `Hacker News` [A Erlang style pure Scheme Webserver and further](https://igropyr.com)
-> Article URL: https://igropyr.com
-Comments URL: https://news.ycombinator.com/item?id=48877344
-Points: 12
-# Comments: 1
-- `Hacker News` [A pure scheme web programming tool](https://goeteia.dev)
-> Article URL: https://goeteia.dev
-Comments URL: https://news.ycombinator.com/item?id=48877314
-Points: 28
-# Comments: 13
+Points: 25
+# Comments: 3
 - `Hacker News` [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html)
 > Article URL: https://fabiensanglard.net/tb4/index.html
 Comments URL: https://news.ycombinator.com/item?id=48877269
-Points: 38
-# Comments: 28
-- `Hacker News` [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext)
-> Article URL: https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext
-Comments URL: https://news.ycombinator.com/item?id=48877192
-Points: 57
-# Comments: 32
-- `Hacker News` [Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma](https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491)
-> Article URL: https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491
-Comments URL: https://news.ycombinator.com/item?id=48877178
-Points: 39
-# Comments: 6
-- `Hacker News` [Doctors die. It's not like the rest of us, but it should be (2016)](https://archive.cancerworld.net/featured/how-doctors-die/)
-> Article URL: https://archive.cancerworld.net/featured/how-doctors-die/
-Comments URL: https://news.ycombinator.com/item?id=48876741
-Points: 94
-# Comments: 55
+Points: 90
+# Comments: 54
+- `Hacker News` [Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid](https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228)
+> Article URL: https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228
+Comments URL: https://news.ycombinator.com/item?id=48877214
+Points: 95
+# Comments: 11
 - `TechCrunch` [Reed Jobs would rather talk about curing cancer than his last name](https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/)
 > When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has...
 - `TechCrunch` [This slushie machine was a lifesaver during NYC’s heat wave](https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/)
@@ -169,6 +168,8 @@ Points: 94
 > Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.
 - `TechCrunch` [Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat](https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/)
 > Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.
+- `The Verge` [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inb...
 - `The Verge` [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo)
 > After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The d...
 - `The Verge` [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
@@ -187,8 +188,6 @@ Points: 94
 > Hi, friends! Welcome to Installer No. 135, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, crank the AC, and also you can read all the old editions at the In...
 - `The Verge` [Are you filthy enough for a $700 portable shower?](https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review)
 > Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlandin...
-- `The Verge` [No, Flock isn’t threatening people for debating surveillance](https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter)
-> On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. F...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
