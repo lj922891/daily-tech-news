@@ -6,10 +6,29 @@
 
 # 📰 每日科技日报 — 2026-07-13
 
-> 自动收集于 2026-07-13 03:33 | 共 50 条
+> 自动收集于 2026-07-13 13:55 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报 ｜Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节探索自动驾驶，Seed世界模型团队负责；《扩大消费“十五五”规划》：优化入境消费环境，稳步扩大免签国家范围](https://36kr.com/p/3893943402707460?f=rss)
+> 大公司：
+  洽洽食品：上半年净利润同比预增170.75%—198.96%
+  36氪获悉，洽洽食品披露业绩预告，预计2026年上半年归属于上市公司股东的净利润为2.4亿元—2.65亿元，同比增长170.75%—198.96%。
+  好上好：上半年净利润同比预增301.65%—376.03%
+  36氪获悉，好上好披露业绩预告，预计2026年半年度归属于上市公司股东的净利润1.35亿元—1....
+- `36氪` [字节探索自动驾驶，Seed世界模型团队负责｜36氪独家](https://36kr.com/p/3893815451417347?f=rss)
+> 36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。
+  而自动驾驶与世界模型的技术路线有交叠之处。
+  另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。
+  部分接近字节的知情人士表示...
+- `36氪` [潜入《遗忘之海》，我才读懂网易的心气](https://36kr.com/p/3893769618569985?f=rss)
+> 文丨小葵
+  编辑丨果脯
+  7月9日，网易旗下Joker工作室端出了他们打磨了七年的作品——《遗忘之海》，一款海洋奇遇大世界RPG。PC端率先公测，移动端版本将在7月23日与玩家见面。
+  这款怪诞木偶风的航海游戏，还没出海就已经被盯上了。在公测前夕，这款游戏全网预约量已突破3600万，在TapTap、B站等多个平台预约榜冲至Top1。实机PV在B站播放破千万，光大证券预测其首年流水或达5...
+- `36氪` [一场高转化抽奖活动应该怎么设计？从奖品、规则到传播路径的完整拆解](https://36kr.com/p/3893457328700165?f=rss)
+> 在微信私域生态中，抽奖几乎是商家长期使用的互动玩法：公众号涨粉、社群促活、线下门店引流、会员权益发放、品牌活动传播，都能看到它的身影。它的优势很直接：用户理解门槛低、参与反馈快、成本相对可控，也容易和微信内的公众号、社群、小程序、门店场景结合。
+  但也正因为抽奖看起来简单，很多活动最后只做成了“一次热闹”。参与人数有了，目标用户没沉淀；奖品发出去了，后续转化没接住；前端页面很热闹，后端领奖...
 - `36氪` [倩碧押注PDRN护肤赛道，高端美妆品牌加速切入医美护理市场｜最前线](https://36kr.com/p/3893519389293056?f=rss)
 > 随着医美消费逐渐从单次项目体验转向长期肌肤管理，传统高端护肤品牌正在寻找新的增长空间。
   36氪获悉，近日，雅诗兰黛集团旗下品牌倩碧在中国发布CX肌源深修水光系列产品，切入近年来快速升温的PDRN（聚脱氧核糖核苷酸）护肤赛道。
@@ -18,8 +37,8 @@
 > 作者 | 谢芸子
   编辑 | 张帆
   在中国市场，lululemon开始被人们拿着放大镜审视。
-  6月中旬，lululemon在上海北外滩举办了一场大型户外瑜伽活动，中途遭遇暴雨。lululemon并未取消活动，而是让上千人在湿滑的瑜伽垫上完成了全套动作。
-  现场画面被社交网络疯传。整齐划一的雨中静坐，被人们诟病为“矫揉造作”“品牌不为用户着想”，甚至被部分网友拿来与《周处...
+  6月中旬，lululemon在上海��外滩举办了一场大型户外瑜伽活动，中途遭遇暴雨。lululemon并未取消活动，而是让上千人在湿滑的瑜伽垫上完成了全套动作。
+  现场画面被社交网络疯传。整齐划一的雨中静坐，被人们诟病为“矫揉造作”“品牌不为用户着想”，甚至被部分网友拿来与《周...
 - `36氪` [AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发](https://36kr.com/p/3879780282495236?f=rss)
 > 作者｜黄楠
   编辑｜袁斯来
@@ -38,38 +57,14 @@
   编辑｜袁斯来
   硬氪获悉，零差云控（深圳）科技股份有限公司（以下简称“零差云控”）近日完成C++轮融资数亿元，本轮由同创伟业领投、国泰君安创新投资跟投，老股东华控基金追加投资。本轮资金将用于产能扩张和全球市场布局。源式资本担任本轮独家财务顾问，并由一苇资本和源式资本共同担任后续融资财务顾问。
   人形机器人赛道在经历了概念爆火与资本狂热后，行业关键词正在悄然转变，供应链的产...
-- `36氪` [年入4亿、服务600+品牌，膳食补充剂原料商「纽邦生物」获近2亿元C+轮融资｜36氪首发](https://36kr.com/p/3890940898867712?f=rss)
-> 文｜胡香赟
-  编辑｜海若镜
-  36氪获悉，南京纽邦生物（NNB Nutrition）近期已完成近2亿元人民币融资。本轮融资由国寿股权领投、老股东明熙资本跟投，募集资金主要用于产品研发、新工厂建设等。这也是纽邦生物半年内完成的第二笔超亿元人民币融资。
-  纽邦生物专注于膳食补充剂原料研发，累计推出40余款原创原料，在研产品管线超100项，覆盖运动营养、体重管理、认知健康、抗衰等领域，服务雀...
-- `36氪` [8点1氪丨SK海力士CEO称史上最大存储短缺将在明年到来；苹果起诉OpenAI窃取商业机密‌；赛力斯预计上半年净亏损15亿元-18亿元](https://36kr.com/p/3893305996442118?f=rss)
-> 今日热点导览
-  
-   世界杯决赛一块草皮卖3050元，上架后很快售空
-   中国石化完成对中国航油重组
-   巨力索具因误导性陈述被罚450万元
-   SK海力士考虑“内存即服务”模式，或允许客户租赁而非购买芯片
-   马斯克据悉要求特斯拉员工转向使用Grok
-  
-  TOP 3 大新闻
-  SK海力士CEO：2027年将成为存储行业历史上供应最紧张的一年
-  美东时间周五（7月10日...
-- `36氪` [“背后空无一人”的LV，这次中国人彻底不买账了](https://36kr.com/p/3892442708032264?f=rss)
-> LV
-  最近，广西一场洪水，又双叒叕让不少品牌登上热搜。
-  在一众的品牌捐款名单里，除了常见的消费巨头互联网大厂之外，人们还看到了一个新面孔，那就是茉莉奶白。
-  
-  茉莉奶白
-  有人说，“自己淋雨，还想着给别人撑伞”。毕竟前不久，茉莉奶白自己还相当焦头烂额。
-  本来好好卖20块一杯茶饮，突然被一个卖3万包的顶级大牌闹到跟法庭相见，理由是杯子上的四叶草“近似”。网友一句话总结到位：...
-- `36氪` [腾讯重仓一个IPO](https://36kr.com/p/3892352153942530?f=rss)
-> 图片来源：视觉中国
-  作者/杨继云
-  报道/投资界PEdaily
-  深圳超级IPO来了。
-  日前，深圳云豹智能股份有限公司（简称“云豹智能”）创业板IPO申请正式获深交所受理，成为又一家选用创业板第四套上市标准申报上市的企业，冲刺“国产DPU第一股”。
-  回想6年前，斯坦福博士萧启阳在深圳创办云豹智能，专注于DPU赛道。这个团队启航两个月后，千亿DPU赛道开始爆发。至今，他背后站着...
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/112229)
+> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件](https://sspai.com/prime/story/inside-release-notes-260713)
+> 聊聊Android17的应用内存限制@克莱德：每隔一段时间，我都会整理一下自己的书桌。毕竟要在一张120×60cm的桌面上放下一块34英寸带鱼屏和一台40L机箱，留给其他常用物件的空间实在不多。前几天 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [依江伴湖，树影连绵：南昌公园散步指南](https://sspai.com/post/111776)
+> 这几年，「公园20分钟效应」在社交媒体上热度很高——不用专门运动，只要在公园里待上20分钟，就能排解负面情绪。对于整天困在写字楼和地铁里的都市人来说，公园不再只是城市公共空间，它成了触手可及的精神疗愈 ...查看全文
+- `少数派` [你这图「保真」吗？AI 生图时代的信息防伪](https://sspai.com/post/112185)
+> 人类记录信息的方式一直在变化，但我们对「真实性」的需求从未改变。查看全文
 - `少数派` [派早报：苹果起诉 OpenAI 窃取商业机密](https://sspai.com/post/112215)
 > 苹果起诉 OpenAI 窃取商业机密变压器短缺掣肘数据中心扩张世界杯带动小红书使用时长大幅提升废弃 IBM 园区成网红景点SpaceX 申请发射十万颗卫星高技能人士正大规模「打零工」参与模型训练看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [6月音乐精选：不得不听的 17 张……没错 17 张专辑！](https://sspai.com/post/112035)
@@ -82,65 +77,61 @@
 > 有些旅程就是这样，它最终并没有留在成百上千张照片里，而是长久地停留在某种气味与感官的记忆中。查看全文
 - `少数派` [Vibe Coding 时代，为什么降本不一定增效？](https://sspai.com/post/111975)
 > Vibe Coding 虽然可以更快地生成代码，但依然不能替我们定义问题、理解用户、设计架构并承担结果。查看全文
-- `少数派` [派早报：蔚来 ES8 大五座版正式上市等](https://sspai.com/post/112143)
-> OpenAI 发布 GPT-5.6 系列模型等，SpaceXAI 发布编程智能体模型 Grok 4.5。查看全文
-- `少数派` [TDS REVIEW | 小米耳夹式耳机体验](https://sspai.com/post/112011)
-> 这篇文章是TDSStudio在少数派上的第25篇文章，依然是全平台首发。小米也做了耳夹，其实是一件可以预料的事情，毕竟作为国内手机品牌中目前唯三愿意尝试挂耳式OWS形态的之一，他们显然是倾向于铺好全品 ...查看全文
-- `少数派` [iOS 27 Beta 2 & 3 值得关注的新特性](https://sspai.com/post/112083)
-> 近段时间，Apple陆续推出了iOS27的两个DeveloperBeta测试版本，对第一个版本中的一些新功能进行了优化改进，同时也新增了一些系统特性。接下来，就让我们一起来看看吧。编注：AppleIn ...查看全文
-- `少数派` [角落新声｜在陌生的城市里，寻找属于自己的角落](https://sspai.com/post/111983)
-> 角落的意义或许在于与世界保持恰当的距离，允许生活在身边流淌，也允许自己在这些声音之中，重新听见自己的声音。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Modernizing Property Tax Assessments in Allegheny County](https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county)
-> Article URL: https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county
-Comments URL: https://news.ycombinator.com/item?id=48886881
-Points: 23
-# Comments: 7
-- `Hacker News` [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741)
-> Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (l...
-- `Hacker News` [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html)
-> Article URL: https://vilkeliskis.com/b/2026/0711.html
-Comments URL: https://news.ycombinator.com/item?id=48885728
-Points: 65
-# Comments: 12
-- `Hacker News` [Architecture Description Languages [pdf]](https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf)
-> Article URL: https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf
-Comments URL: https://news.ycombinator.com/item?id=48885708
-Points: 25
-# Comments: 1
-- `Hacker News` [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html)
-> Article URL: https://guseyn.com/html/posts/why-vanilla-js.html
-Comments URL: https://news.ycombinator.com/item?id=48885705
-Points: 81
-# Comments: 39
-- `Hacker News` [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
-> Article URL: https://shellzine.net/cyberpunk-comics/
-Comments URL: https://news.ycombinator.com/item?id=48885643
-Points: 99
-# Comments: 23
-- `Hacker News` [Profiling the "Abundance" housing bottleneck with real data](https://laxmena.com/same-capacity-less-throughput)
-> Article URL: https://laxmena.com/same-capacity-less-throughput
-Comments URL: https://news.ycombinator.com/item?id=48885138
-Points: 31
+- `Hacker News` [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159)
+> Article URL: https://twitter.com/a_green_being/status/2076598897779020159
+Comments URL: https://news.ycombinator.com/item?id=48892512
+Points: 3
+# Comments: 2
+- `Hacker News` [Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance](https://www.wired.com/story/sfpd-drone-video-leak-surveillance/)
+> Article URL: https://www.wired.com/story/sfpd-drone-video-leak-surveillance/
+Comments URL: https://news.ycombinator.com/item?id=48891463
+Points: 54
+# Comments: 50
+- `Hacker News` [Show HN: DOM-docx – HTML to native, editable Word docs (MIT)](https://github.com/floodtide/dom-docx)
+> Article URL: https://github.com/floodtide/dom-docx
+Comments URL: https://news.ycombinator.com/item?id=48891267
+Points: 34
 # Comments: 13
-- `Hacker News` [Kode Dot Programmable pocket device for makers, pentesters and geeks](https://kode.diy)
-> Article URL: https://kode.diy
-Comments URL: https://news.ycombinator.com/item?id=48884992
-Points: 47
-# Comments: 12
-- `Hacker News` [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984)
-> What are you working on?  Any new ideas that you're thinking about?
-
-Comments URL: https://news.ycombinator.com/item?id=48884984
-Points: 87
-# Comments: 256
-- `Hacker News` [Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
-> Article URL: https://scrapfly.dev/posts/browser-math-os-fingerprint/
-Comments URL: https://news.ycombinator.com/item?id=48884853
-Points: 355
-# Comments: 168
+- `Hacker News` [An Infuriating Goodbye to Photoshop](https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop)
+> Article URL: https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop
+Comments URL: https://news.ycombinator.com/item?id=48891200
+Points: 96
+# Comments: 46
+- `Hacker News` [Control the Ideas, Not the Code](https://antirez.com/news/169)
+> Article URL: https://antirez.com/news/169
+Comments URL: https://news.ycombinator.com/item?id=48891184
+Points: 77
+# Comments: 29
+- `Hacker News` [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)
+> Article URL: https://jivx.com/densha
+Comments URL: https://news.ycombinator.com/item?id=48890959
+Points: 101
+# Comments: 9
+- `Hacker News` [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
+> Article URL: https://raymyers.org/post/zed-creator-calls-spade-a-spade/
+Comments URL: https://news.ycombinator.com/item?id=48889637
+Points: 761
+# Comments: 377
+- `Hacker News` [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
+> Article URL: https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/
+Comments URL: https://news.ycombinator.com/item?id=48889350
+Points: 140
+# Co...
+- `Hacker News` [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
+> Article URL: https://mmapped.blog/posts/52-backtrack-free-cursive
+Comments URL: https://news.ycombinator.com/item?id=48888518
+Points: 139
+# Comments: 62
+- `Hacker News` [Sam Neill has died](https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78)
+> Article URL: https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78
+Comments URL: https://news.ycombinator.com/item?id=48888468
+Points: 291
+# Comments: 73
+- `TechCrunch` [Uber’s robotaxi lobbying effort puts it on a collision course with Waymo](https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/)
+> Washington, D.C. has become a battleground for Uber and Waymo's competing views.
 - `TechCrunch` [TechCrunch Mobility: A robotaxi ultimatum](https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/)
 > Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
 - `TechCrunch` [Reed Jobs would rather talk about curing cancer than his last name](https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/)
@@ -159,12 +150,16 @@ Points: 355
 > "Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way," the company said in a blog post. "We've heard the fe...
 - `TechCrunch` [Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’](https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/)
 > Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is "all in" on the unconventional social media platform.
-- `TechCrunch` [Apple sues OpenAI over alleged trade secret theft](https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/)
-> Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.
+- `The Verge` [This free Mac app reveals the truth about your mystery USB-C cables](https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac)
+> Nearly three years ago, I showed you an awesome $8 cable tester that quickly tells you if your USB-C cable is likely fast, slow, powerful, or weak. Sadly, that gadget got discontinued, and I've nev...
+- `The Verge` [Social media limits are coming for teens across Europe](https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules)
+> The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could ...
+- `The Verge` [Waze is getting a bunch of new AI-powered features](https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty)
+> Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new u...
 - `The Verge` [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy)
 > Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likel...
 - `The Verge` [Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful](https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review)
-> Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Bjork records like Vespertine. But Drew Dani...
+> Matmos are an incredibly accomplished duo between their own solo records like the masterpiece A Chance to Cut Is a Chance to Cure and production classic Björk records like Vespertine. But Drew...
 - `The Verge` [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra)
 > Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-drivin...
 - `The Verge` [One of SteelSeries’ best gaming headsets is over $100 off](https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale)
@@ -175,12 +170,6 @@ Points: 355
 > If you're reading an Oura Ring 5 review at The Verge, you likely fall into one of two camps: newcomers looking for a smartwatch alternative, or Oura users pondering an upgrade. In the case of the f...
 - `The Verge` [Blue Prince became a bonding — and learning — experience for my family](https://www.theverge.com/games/964262/blue-prince-family-bonding)
 > I've always been the gamer in the family. When my son was born nearly 11 years ago, gaming was one of the things I looked forward to sharing with him. Pulling up a chair next to me, he would watch ...
-- `The Verge` [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inb...
-- `The Verge` [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo)
-> After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The d...
-- `The Verge` [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
-> Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closin...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
