@@ -6,10 +6,21 @@
 
 # 📰 每日科技日报 — 2026-07-16
 
-> 自动收集于 2026-07-16 03:15 | 共 40 条
+> 自动收集于 2026-07-16 13:11 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报｜IDC：百度智能云蝉联中国金融大模型市场份额第一；腾讯云与RoboScience机器科学达成战略合作；商务部回应推动解决安世半导体问题进展](https://36kr.com/p/3896564308379525?f=rss)
+> 大公司：
+  OPPO：realme新品将聚焦海外市场，中国市场暂停产品更新
+  36氪从OPPO方面获悉，为了进一步整合集团资源，实现全球产品战略的协同，未来 realme 新品将聚焦海外市场，在中国市场暂停产品更新；一加在中国市场的产品更新保持不变。realme和一加将持续在游戏和性能领域为用户提供优质的体验。
+  IDC：百度智能云蝉联中国金融大模型市场份额第一
+  36氪获悉，根据国...
+- `36氪` [中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite](https://36kr.com/p/3898151587890824?f=rss)
+> “AI改了我的命”
+  AI时代的精英叙事里，出现了草根翻身的故事。
+  5月，来自云南玉溪地产行业的中专生刘梓瑜，创作出了全网播放破亿的《丧尸清道夫》，被称为“国产爱死机”。他因此收到了好莱坞制作人的跨洋Offer。这部短片配有英文字幕，但一位接触过刘梓瑜的从业者表示，他的英语并不好，甚至“不会翻墙”。
+  一个月后，97年出生的刘梓瑜在抖音电影奇遇夜上被评为“抖音新锐未来导演”，在他的账...
 - `36氪` [大厂医疗AI战，开始“卷”减重](https://36kr.com/p/3896639942592134?f=rss)
 > 文｜胡香赟
   编辑｜海若镜
@@ -57,17 +68,14 @@
 > 2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。
   但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。
   AI 技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作...
-- `36氪` [支付宝不想做AI时代的配角](https://36kr.com/p/3896720584738435?f=rss)
-> 作者 | 王晗玉
-  编辑 | 张帆
-  支付宝首页调出AI界面，对话框取代了密密麻麻的小程序；用户对着“阿宝”说一句“找附近的奶茶优惠券”，周边门店的活动自动匹配好，核销下单一步完成。
-  最近，支付宝完成了上线22年来最大一次改版。
-  本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时间，微信支付“AI专属卡”也在智能体WorkBuddy中...
-- `36氪` [越过湖畔，AI在阳澄湖半岛「跑进」真实生活](https://36kr.com/p/3896639400183687?f=rss)
-> 7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。
-  
-  这个夏天，阳澄湖畔的吸引力有了新的注脚。
-  对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区、宠物友好空间等高频线下场景。更重要的是，2025年阳澄湖半岛接待游客量达到950...
+- `少数派` [新玩意 246｜少数派的编辑们最近买了啥？](https://sspai.com/post/112400)
+> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
+- `少数派` [Apple 高校优惠活动开始了，今年有些不一样](https://sspai.com/post/112386)
+> 又到了一年一度的Apple高校优惠活动季，高校师生们可以在活动期间，购买指定型号iPad或Mac设备，获得指定配件产品，享受到限时的教育优惠+买赠活动。与往年不同的是，今年的Apple高校优惠活动不论 ...查看全文
+- `少数派` [具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性](https://sspai.com/post/112375)
+> 全面 ARM 化后的第一个 macOS 版本，Golden Gate 27 还有这些变化。查看全文
+- `少数派` [翻译「世界杯」的赛事名称，为什么中文比日文更简洁？](https://sspai.com/post/111086)
+> 国名也好、赛事名称也好，日语走上了片假名这条路——那为什么日本人不能像中文一样，直接造出「美加墨W杯」这样的简称？查看全文
 - `少数派` [派早报：国行版 Apple Intelligence 完成备案等](https://sspai.com/post/112373)
 > 阿里发布实时语音模型 Qwen-Audio-3.0-Realtime、腾龙发布 12-20mm F2.8 镜头等。查看全文
 - `少数派` [Leitra 诞生记：一次未完成的实践](https://sspai.com/post/112077)
@@ -80,17 +88,68 @@
 > Google 推出新版图片搜索功能，Spotify 开启语音交互功能内测等。查看全文
 - `少数派` [社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机](https://sspai.com/post/112320)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能](https://sspai.com/post/112287)
-> 少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文
-- `少数派` [iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/112288)
-> 7月14日凌晨，Apple终于推送了今年iOS27、iPadOS27、watchOS27、macOSGoldenGate、HomePod软件27以及AirPods固件新版的首个PublicBeta公开 ...查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/112229)
-> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件](https://sspai.com/prime/story/inside-release-notes-260713)
-> 聊聊Android17的应用内存限制@克莱德：每隔一段时间，我都会整理一下自己的书桌。毕竟要在一张120×60cm的桌面上放下一块34英寸带鱼屏和一台40L机箱，留给其他常用物件的空间实在不多。前几天 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
+- `Hacker News` [British Steel taken into public ownership to protect 'vital' UK supply](https://www.bbc.com/news/articles/c5y680w62wno)
+> Article URL: https://www.bbc.com/news/articles/c5y680w62wno
+Comments URL: https://news.ycombinator.com/item?id=48933371
+Points: 44
+# Comments: 43
+- `Hacker News` [The Act and the Outcome of Creation](https://www.ssp.sh/blog/on-creation/)
+> Article URL: https://www.ssp.sh/blog/on-creation/
+Comments URL: https://news.ycombinator.com/item?id=48933370
+Points: 8
+# Comments: 0
+- `Hacker News` [SpaceX stock erases all its gains and slides below IPO price in intraday trading](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading)
+> Article URL: https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading
+Comments URL: https://news.ycombinator.com/item?id=48933344
+Point...
+- `Hacker News` [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
+> Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/
+Comments URL: https://news.ycombinator.com/item?id=48933310
+Points: 46
+# Comments: 36
+- `Hacker News` [Let's Build PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)
+> Article URL: https://onatm.dev/2026/07/16/homescale-part-1/
+Comments URL: https://news.ycombinator.com/item?id=48933303
+Points: 17
+# Comments: 1
+- `Hacker News` [I resurrected an 8-year-old dead CSS library and gave it an engine](https://usevivace.dev)
+> Article URL: https://usevivace.dev
+Comments URL: https://news.ycombinator.com/item?id=48932889
+Points: 4
+# Comments: 0
+- `Hacker News` [Track your workout from the iPhone Lock Screen](https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/)
+> Article URL: https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/
+Comments URL: https://news.ycombinator.com/item?id=48932784
+Points: 9
+# Comments: 4
+- `Hacker News` [Ente – Opening Our Books](https://ente.com/open/)
+> Article URL: https://ente.com/open/
+Comments URL: https://news.ycombinator.com/item?id=48932697
+Points: 35
+# Comments: 4
+- `Hacker News` [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
+> Article URL: https://community.oneplus.com/thread/2170715118587871237
+Comments URL: https://news.ycombinator.com/item?id=48932539
+Points: 157
+# Comments: 85
+- `Hacker News` [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com)
+> Article URL: https://joinedanthropic.com
+Comments URL: https://news.ycombinator.com/item?id=48931588
+Points: 116
+# Comments: 41
+- `TechCrunch` [Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you](https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/)
+> Aina is going to pilot a new device in the coming weeks.
+- `TechCrunch` [Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot](https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/)
+> The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.
+- `TechCrunch` [Phone maker OnePlus says it won’t release new phones in the US and Europe](https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/)
+> OnePlus could also wind down its operations in India by 2027.
+- `TechCrunch` [Lululemon backs nylon-recycling startup Syntetica in $30M Series A](https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/)
+> Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.
+- `TechCrunch` [Applied Computing wants to give oil and gas operators an AI model for the entire plant](https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/)
+> Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.
 - `TechCrunch` [Why Greylock capped its new fund at $1.5B when it says it could have raised more](https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/)
 > By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls "the most important partner" to its founders.
 - `TechCrunch` [Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/)
@@ -101,16 +160,12 @@
 > Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.
 - `TechCrunch` [Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/)
 > OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.
-- `TechCrunch` [Microsoft patches bug in video game Age of Empires II](https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/)
-> The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.
-- `TechCrunch` [Apple bans home services from its upcoming Maps ads](https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/)
-> Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, el...
-- `TechCrunch` [SpaceX falls to $135 IPO price ahead of Starship launch](https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/)
-> The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.
-- `TechCrunch` [Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling](https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/)
-> It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.
-- `TechCrunch` [Phone maker OnePlus reportedly plans to wind down US and Europe operations](https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/)
-> OnePlus could also wind down its operations in India by 2027.
+- `The Verge` [Google ordered to open Android and Search to rivals in Europe](https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma)
+> Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antit...
+- `The Verge` [COMPUTER COPS: Inside the big business of selling AI to the police](https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops)
+> I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as "the future of policing in the digital age." As press,...
+- `The Verge` [OnePlus officially gives up on the US and Europe](https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme)
+> OnePlus has confirmed what industry observers have long expected: it's quitting the US and European markets, and will no longer launch new products in either region. Parent company Oppo promises th...
 - `The Verge` [Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC](https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones)
 > Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher ...
 - `The Verge` [HP’s OLED-equipped 2-in-1 laptop is a solid back-to-school deal](https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale)
@@ -125,12 +180,6 @@
 > The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednes...
 - `The Verge` [Roblox is shutting down its video chat service](https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down)
 > Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic...
-- `The Verge` [AI slop movies are the new direct-to-video cash grabs](https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood)
-> This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-...
-- `The Verge` [Enshittification](https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell)
-> Bryan, a food broker from Michigan, wasn't sure if he'd be able to make it to urgent care in time. He started feeling off on Thursday, and by Saturday, he was having to use the bathroom every 15 to...
-- `The Verge` [Something’s glowing on the Pixel 11’s camera bar](https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser)
-> A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 h...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
