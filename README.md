@@ -4,12 +4,43 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-15
+# 📰 每日科技日报 — 2026-07-16
 
-> 自动收集于 2026-07-15 13:02 | 共 50 条
+> 自动收集于 2026-07-16 03:15 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [大厂医疗AI战，开始“卷”减重](https://36kr.com/p/3896639942592134?f=rss)
+> 文｜胡香赟
+  编辑｜海若镜
+  互联网大厂做医疗AI，越来越偏爱“减重”场景。
+  近日，蚂蚁集团宣布投资薄荷健康，持股比例超28%，成为薄荷健康最大外部股东。薄荷健康成立于2008年，这家互联网医疗公司通过为用户提供饮食记录、科学减重方案等，聚拢了超2亿用户，收录160万条食物数据条目。
+  2021年，薄荷健康完成D轮融资，估值为20亿人民币。本次投资，据接近交易人士介绍，“从战投角度...
+- `36氪` [硬氪首发 | 民用航空动力企业再获近亿元融资，切入国际巨头垄断的关键功率段](https://36kr.com/p/3897686922266244?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，民用航空动力企业汉发长空近日完成近亿元Pre-A轮融资，本轮融资由方广资本领投，致道资本、六翼投资共同投资。
+  融资资金将主要用于提升400kW级通用核心机平台的技术成熟度与工程化验证，加速发动机向量产阶段迈进。400kW级平台包括涡轴发动机S4、涡桨发动机P4以及涡电发动机H4。涡轴发动机S4已...
+- `36氪` [众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察](https://36kr.com/p/3896586337978244?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。
+  这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。
+  但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。...
+- `36氪` [斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家](https://36kr.com/p/3895721094842249?f=rss)
+> 自动驾驶重卡赛道，今年显著升温。
+  36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。
+  2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对无人重卡形成稳定需求，干线物...
+- `36氪` [8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO](https://36kr.com/p/3897553391978371?f=rss)
+> 今日热点导览
+  澳洲将设AI办公室，限制数据中心能源消耗
+  巴菲特宣布8年内清仓伯克希尔股票
+  前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队
+  长鑫科技：上市后仍将保持无实际控制人的控制权架构
+  谷歌参与建设美国最大太阳能项目，总规模达2.5GW
+  TOP 3大新闻
+  阿里、百度分别为苹果智能提供AI相关能力支撑
+  36氪获悉，网信办公布7款端侧生成式AI服务备案，苹果“...
 - `36氪` [独家｜面壁智能端侧大模型将搭载三星手机上市](https://36kr.com/p/3896830362601351?f=rss)
 > 文｜邓咏仪
   编辑｜张雨忻 杨轩
@@ -33,33 +64,12 @@
   最近，支付宝完成了上线22年来最大一次改版。
   本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时间，微信支付“AI专属卡”也在智能体WorkBuddy中...
 - `36氪` [越过湖畔，AI在阳澄湖半岛「跑进」真实生活](https://36kr.com/p/3896639400183687?f=rss)
-> 7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园���圆满举行。
+> 7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。
   
   这个夏天，阳澄湖畔的吸引力有了新的注脚。
-  对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区、宠物友好空间等高频线下场景。更重要的是，2025年阳澄湖半岛接待游客量达到9...
-- `36氪` [四大一线城市房价继续修复上涨](https://36kr.com/p/3896544104793993?f=rss)
-> 7月15日，国家统计局公布《6月份70个大中城市商品住宅销售价格变动情况》，统计数据显示，一线城市新房、二手房价格继续整体环比上涨，维持修复回暖信号。
-  自2026年3月以来，一线城市新房和二手房销售价格指数已经连续上涨四个月。6月份，一线城市新建商品住宅销售价格涨幅有回落态势，环比上涨0.1%，涨幅比上月回落了0.1个百分点。其中，北京是唯一一个房价继续环比下降的城市，降幅为0.3%，上...
-- `36氪` [优衣库再失一枚棋子](https://36kr.com/p/3885699885445122?f=rss)
-> 上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。
-  资深时尚记者Lauren Sherman近日在行业媒体PUCK披露，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo U系列，2026秋冬系列或将成为两人与优衣库合作十年的收官之作。
-  她同时透露，迅销集团对...
-- `36氪` [耐克中国，壮士断腕](https://36kr.com/p/3876646017216516?f=rss)
-> 上周，一则关于耐克计划调整中国线上经销体系的消息引发行业震动。
-  消息称，耐克拟收回部分线上渠道运营权，涉及包括滔搏在内的核心合作伙伴。消息传出后，滔搏迅速发布公告，但并未直接否认，仅表示"尚未接获耐克正式通知"，同时透露双方一直就包括线上销售安排在内的合作模式保持沟通。
-  如果最终全面实施，这项改革可能影响耐克中国约10亿美元规模的批发业务，是上一财年大中华区总营收的17%。
-  几天...
-- `36氪` [安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家](https://36kr.com/p/3889213745543687?f=rss)
-> 文｜贺哲馨、任彩茹
-  编辑｜乔芊
-  36氪独家获悉，安踏品牌CEO徐阳将离职。
-  安踏集团回应36氪称，原安踏品牌CEO徐阳因家庭原因辞任该职，集团已批准并将另有任用；安踏集团执行董事、集团联席CEO赖世贤即日起将代理安踏品牌CEO一职。安踏品牌既定的长期发展战略保持不变。安踏集团有完备的组织及业务管理体系，持续吸纳全球的优秀人才，赋能安踏品牌持续深耕大众运动，为消费者创造更大价值。
-...
-- `36氪` [36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资](https://36kr.com/p/3896298534520705?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，上海追知工程科技有限公司（以下简称“追知工科”）近日完成数千万元种子轮融资，由L2F光源创业者基金、尚融资本、一村资本联合投资。本轮融资将主要用于核心产品研发、团队建设及市场拓展。
-  追知工科成立于2024年2月，是一家聚焦垂域工业智能体的科技企业，同时也是上海交通大学成果转化企业、上海人工智能研...
+  对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区、宠物友好空间等高频线下场景。更重要的是，2025年阳澄湖半岛接待游客量达到950...
+- `少数派` [派早报：国行版 Apple Intelligence 完成备案等](https://sspai.com/post/112373)
+> 阿里发布实时语音模型 Qwen-Audio-3.0-Realtime、腾龙发布 12-20mm F2.8 镜头等。查看全文
 - `少数派` [Leitra 诞生记：一次未完成的实践](https://sspai.com/post/112077)
 > Leitra 的名字来自我最欣赏的摄影师索尔·雷特（Saul Leiter）。它是一款为数码照片生成接触样张（Contact Sheet）和图像序列的策展工具，受到马格南摄影师创作方式的启发，关注图像之间的停顿与联系，也探索面向未来、与现实互动的创作方式。查看全文
 - `少数派` [具透 | iPadOS 27 首个公开测试版中你不容错过的 12 个新特性](https://sspai.com/post/112338)
@@ -74,8 +84,6 @@
 > 少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文
 - `少数派` [iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/112288)
 > 7月14日凌晨，Apple终于推送了今年iOS27、iPadOS27、watchOS27、macOSGoldenGate、HomePod软件27以及AirPods固件新版的首个PublicBeta公开 ...查看全文
-- `少数派` [派早报：全球智能手机出货量创 13 年来最低水平等](https://sspai.com/post/112286)
-> 少数派的近期动态声擎×少数派｜「角落新声」征文活动已经启动。投稿赚音箱少数派×AKKO灵犀Linx68键盘预售开启。看看新键盘你可能错过的文章你这图「保真」吗？AI生图时代的信息防伪依江伴湖，树影连绵 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/112229)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [具透 Plus：Android 17 的应用内存限制；谈谈 macOS 和 Linux 如何运行可执行文件](https://sspai.com/prime/story/inside-release-notes-260713)
@@ -83,96 +91,46 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Jiga (YC W21) is hiring the best people to make manufacturing great again](https://jiga.io/about-us/)
-> Article URL: https://jiga.io/about-us/
-Comments URL: https://news.ycombinator.com/item?id=48919510
-Points: 0
-# Comments: 0
-- `Hacker News` [Make people pay to get into your inbox](https://www.captchainbox.com)
-> Article URL: https://www.captchainbox.com
-Comments URL: https://news.ycombinator.com/item?id=48919489
-Points: 21
-# Comments: 28
-- `Hacker News` [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
-> Article URL: https://academic.oup.com/sleep/article/47/1/zsad253/7280269
-Comments URL: https://news.ycombinator.com/item?id=48919363
-Points: 100
-# Comments: 46
-- `Hacker News` [Filmgrab: Films A-Z](https://film-grab.com/movies-a-z/)
-> Article URL: https://film-grab.com/movies-a-z/
-Comments URL: https://news.ycombinator.com/item?id=48919265
-Points: 3
-# Comments: 0
-- `Hacker News` [Prioritize mental health, and why communication is so important](https://ramones.dev/posts/mental-health/)
-> Article URL: https://ramones.dev/posts/mental-health/
-Comments URL: https://news.ycombinator.com/item?id=48919198
-Points: 30
-# Comments: 5
-- `Hacker News` [Show HN: For 10 World Cups, my model's 2 favorites had the champion every time](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338)
-> Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338
-Comments URL: https://news.ycombinator.com/item?id=48919191
-Points: 15
-# Comments: 16
-- `Hacker News` [Weathergotchi – an open-source climate Tamagotchi](https://github.com/Michael-Manning/E-Paper-Climate-Logger)
-> Article URL: https://github.com/Michael-Manning/E-Paper-Climate-Logger
-Comments URL: https://news.ycombinator.com/item?id=48919013
-Points: 20
-# Comments: 6
-- `Hacker News` [Floating Companion: Exploring Design Space for Soft Floating Robots in Indoor](https://dl.acm.org/doi/10.1145/3800645.3813051)
-> Article URL: https://dl.acm.org/doi/10.1145/3800645.3813051
-Comments URL: https://news.ycombinator.com/item?id=48919004
-Points: 6
-# Comments: 2
-- `Hacker News` [Societal Impacts: Claude's values across models and languages](https://www.anthropic.com/research/claude-values-models-languages)
-> Article URL: https://www.anthropic.com/research/claude-values-models-languages
-Comments URL: https://news.ycombinator.com/item?id=48918956
-Points: 14
-# Comments: 2
-- `Hacker News` [Boss – Dependency Manager for Delphi and Lazarus](https://github.com/HashLoad/boss)
-> Article URL: https://github.com/HashLoad/boss
-Comments URL: https://news.ycombinator.com/item?id=48918616
-Points: 4
-# Comments: 0
-- `TechCrunch` [Rime picks up $24M Series A to help enterprises field customer calls](https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/)
-> Rime is handling over 100 million calls each month across multiple companies
-- `TechCrunch` [Reelful’s AI turns your camera roll into short-form videos for social media](https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/)
-> The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.
-- `TechCrunch` [Indian AI coding startup Emergent becomes a unicorn with $130M Series C](https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/)
-> The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.
-- `TechCrunch` [Vint Cerf is working on a plan to unleash AI agents on the open internet](https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/)
-> The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.
-- `TechCrunch` [Why Realta Fusion is building a fusion reactor at an old hot dog factory](https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/)
-> An old Oscar Mayer factory in Wisconsin will become America's latest fusion power research and development hub.
-- `TechCrunch` [Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are m...](https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/)
-> Co-founded by serial entrepreneur Shai Morag, Israeli identity management startup Oak is emerging out of stealth with $60 million in seed funding.
-- `TechCrunch` [A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era](https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/)
-> Someone has to bundle all the wires that go into rockets, missiles, and satellites.
-- `TechCrunch` [OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B](https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/)
-> The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.
-- `TechCrunch` [Lorde says AI glasses are ‘not sexy’](https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/)
-> "Increasingly in our world, it gets harder and harder to know what is real," Lorde said onstage.
-- `TechCrunch` [OpenAI’s first hardware device is reportedly a screenless speaker that can move](https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/)
-> The device is weirdly described as involving "mechanical elements that can move on their own" and the Bloomberg report includes the detail that the device is designed to "feel like a companion and ...
-- `The Verge` [The Motorola Edge 70 Max is all about power](https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability)
-> Motorola has launched the Edge 70 Max, its latest flagship phone that's designed for power intensive tasks like streaming video and mobile gaming. Alongside having a huge battery and rapid wired ch...
-- `The Verge` [Home Depot’s viral 12-foot skeleton now talks](https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds)
-> The Home Depot is once again upgrading its 12-foot-tall skeleton to help keep the viral piece of Halloween decor popular as spooky season creeps closer. Skelly is borrowing some of the tech introdu...
-- `The Verge` [Samsung’s new foldable display is harder to crease and damage](https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables)
-> Samsung has unveiled a new flexible display technology for foldable phones that's designed to be slimmer, more durable, and less prone to creasing. The Flex Titanium tech is the culmination of ever...
-- `The Verge` [Spotify’s Daniel Ek is bringing his body-scanning clinics to the US](https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push)
-> Spotify founder Daniel Ek's body-scanning startup, Neko Health, is setting its sights on the United States after raising $700 million from a star-studded group of celebrities, entrepreneurs, and in...
-- `The Verge` [The PS6 sure sounds like a handheld](https://www.theverge.com/games/963132/sony-playstation-future-handheld-pc-business-meeting-end-of-discs)
-> The video game industry is in turmoil. Microsoft and Sony are starting to pivot to their next consoles, but it's not looking great: Prices are soaring, Sony is killing the video game disc, and Micr...
-- `The Verge` [Starlink’s V5 dish is now available — here’s how it compares](https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison)
-> SpaceX's latest residential dish - the Starlink V5 - is now available in "select areas." It's notably smaller and lighter than the V4 dish with improved power efficiency. It'll be available in more...
-- `The Verge` [Google and Epic give up fighting — third-party Android app stores are coming next week](https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play)
-> Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that's changing how Android app stores work in the United States - and that means Google will be ...
-- `The Verge` [Nothing’s good-looking Watch 3 Pro smartwatch is just $69](https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale)
-> While most fitness trackers are losing the screens to keep the price low, the CMF by Nothing Watch 3 Pro is a bit different. The budget-friendly smartwatch with a 1.43-inch OLED display is even che...
-- `The Verge` [Microsoft’s biggest ever patch Tuesday lets you hold off updating for longer](https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates)
-> Microsoft just released a long list of improvements for Windows 11 as part of its bigger patch Tuesdays, patching at least 570 security holes, almost triple the number fixed in last month's record-...
-- `The Verge` [OpenAI may announce a ChatGPT smart speaker this year](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device)
-> OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additi...
+- `TechCrunch` [Why Greylock capped its new fund at $1.5B when it says it could have raised more](https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/)
+> By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls "the most important partner" to its founders.
+- `TechCrunch` [Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/)
+> Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.
+- `TechCrunch` [Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms](https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/)
+> The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.
+- `TechCrunch` [Daniel Ek’s body-scanning startup Neko Health raises another $700M](https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/)
+> Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.
+- `TechCrunch` [Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/)
+> OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.
+- `TechCrunch` [Microsoft patches bug in video game Age of Empires II](https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/)
+> The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite.
+- `TechCrunch` [Apple bans home services from its upcoming Maps ads](https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/)
+> Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, el...
+- `TechCrunch` [SpaceX falls to $135 IPO price ahead of Starship launch](https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/)
+> The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.
+- `TechCrunch` [Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling](https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/)
+> It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.
+- `TechCrunch` [Phone maker OnePlus reportedly plans to wind down US and Europe operations](https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/)
+> OnePlus could also wind down its operations in India by 2027.
+- `The Verge` [Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC](https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones)
+> Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher ...
+- `The Verge` [HP’s OLED-equipped 2-in-1 laptop is a solid back-to-school deal](https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale)
+> With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip ...
+- `The Verge` [Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads](https://www.theverge.com/tech/966219/apple-care-plus-price-increase)
+> An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, acco...
+- `The Verge` [Valve says iFixit will keep selling Steam Deck batteries after all](https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery)
+> Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It wou...
+- `The Verge` [xAI sues a man for using Grok to generate CSAM ‘deepfakes’](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam)
+> The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI ...
+- `The Verge` [Brendan Carr plans to let broadcast giants dominate the airwaves](https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr)
+> The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednes...
+- `The Verge` [Roblox is shutting down its video chat service](https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down)
+> Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic...
+- `The Verge` [AI slop movies are the new direct-to-video cash grabs](https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood)
+> This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-...
+- `The Verge` [Enshittification](https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell)
+> Bryan, a food broker from Michigan, wasn't sure if he'd be able to make it to urgent care in time. He started feeling off on Thursday, and by Saturday, he was having to use the bathroom every 15 to...
+- `The Verge` [Something’s glowing on the Pixel 11’s camera bar](https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser)
+> A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 h...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
