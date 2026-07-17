@@ -4,12 +4,55 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-16
+# 📰 每日科技日报 — 2026-07-17
 
-> 自动收集于 2026-07-16 13:11 | 共 50 条
+> 自动收集于 2026-07-17 03:18 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注](https://36kr.com/p/3899128277452681?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。
+  模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知...
+- `36氪` [36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资](https://36kr.com/p/3899081603483525?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际共同参与投资。同时，新一轮融资也在同步交割中。
+  此前融资资金主要用于自研世界模型 LaMPA 的研发迭代、强化学习体系建设，...
+- `36氪` [36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注](https://36kr.com/p/3899057634363266?f=rss)
+> 图源/企业
+  
+   本文约2400字，建议阅读6分钟
+  
+  作者丨欧雪
+  编辑丨袁斯来
+  硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司索辰科技。本轮资金将主要用于下一代人形机器人研发及海外市场拓展。此前，半醒具身曾于2025年完成首轮机构融资，投资方为上市公司飞荣达。
+  半醒具身成立于2022年，但团队早...
+- `36氪` [自研氢能催化剂关键材料，稳定性提升50%，「铂氢科技」完成数千万元Pre-A轮融资 | 36氪首发](https://36kr.com/p/3899040301876868?f=rss)
+> 36氪获悉，苏州铂氢科技源科技有限公司（以下简称「铂氢科技」）宣布完成数千万元Pre-A轮融资。本轮融资由东运创投领投、新晖资本跟投，老股东熔拓资本追投，资金将主要用于催化剂与膜电极新产线建设、研发及运营团队扩充。
+  铂氢科技成立于2023年5月，专注于氢能等新兴领域的贵金属催化剂及膜电极等下游产品研发、生产与销售。产品矩阵覆盖燃料电池催化剂（铂碳、铂黑、铂钌黑、铂基合金等系列）和水电解催...
+- `36氪` [独家 | 智谱 ARR 达到10 亿美元，半年增长 15 倍](https://36kr.com/p/3898662052693894?f=rss)
+> 文 | 周鑫雨
+  编辑 | 张雨忻
+  智能涌现从多个独立信源处获悉，截至 2026 年 7 月， 智谱的 ARR（年度经常性收入）已经达到 10 亿美元。
+  截至发稿前，针对上述信息，智谱未回复。
+  过去一年，AI Coding 和视频生成模型已经成为全球造血能力最强的 AI 赛道。
+  海外，Anthropic 的 Claude Code 仅发布半年，ARR 就飙升至 10 亿美金...
+- `36氪` [8点1氪丨长鑫科技网上发行初步中签率为0.40995452%；特朗普头像将被印上硬币，面值1美元；多家NFC鲜榨果汁生产车间被曝无水果](https://36kr.com/p/3898973942007684?f=rss)
+> 今日热点导览
+  SpaceX市值蒸发近8500亿美元
+  韩国将暂停新的单一股票杠杆ETF上市，以抑制市场波动
+  泡泡玛特创始人王宁带队探访苹果总部
+  亚马逊Leo与南非企业达成协议，预计明年启动卫星互联网服务
+  日本拟采购2.75万颗英伟达Rubin芯片，打造本土机器人AI基础模型
+  TOP 3大新闻
+  长鑫科技：网上发行初步中签率为0.40995452%
+  36氪获悉，长鑫...
+- `36氪` [商汤001号员工创办AI公司：将AI角色引擎做成护城河，获种子轮融资 | 36氪首发](https://36kr.com/p/3898370289846153?f=rss)
+> 文丨刘士武
+  36氪游戏获悉， AI 角色硬件公司酷奇奇科技（Coolqq.com）已完成数千万元种子轮融资，本轮融资由上海浦东人工智能种子基金领投，商汤科技、零以创投跟投。云杉资本Spruce Capital担任长期独家财务顾问。
+  酷奇奇创办于2025年，创始人徐持衡是商汤科技001号员工，师从汤晓鸥教授，与团队共同开发的人脸识别技术，是商汤科技早期最重要的技术里程碑之一。此外， 他...
 - `36氪` [氪星晚报｜IDC：百度智能云蝉联中国金融大模型市场份额第一；腾讯云与RoboScience机器科学达成战略合作；商务部回应推动解决安世半导体问题进展](https://36kr.com/p/3896564308379525?f=rss)
 > 大公司：
   OPPO：realme新品将聚焦海外市场，中国市场暂停产品更新
@@ -27,47 +70,8 @@
   互联网大厂做医疗AI，越来越偏爱“减重”场景。
   近日，蚂蚁集团宣布投资薄荷健康，持股比例超28%，成为薄荷健康最大外部股东。薄荷健康成立于2008年，这家互联网医疗公司通过为用户提供饮食记录、科学减重方案等，聚拢了超2亿用户，收录160万条食物数据条目。
   2021年，薄荷健康完成D轮融资，估值为20亿人民币。本次投资，据接近交易人士介绍，“从战投角度...
-- `36氪` [硬氪首发 | 民用航空动力企业再获近亿元融资，切入国际巨头垄断的关键功率段](https://36kr.com/p/3897686922266244?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，民用航空动力企业汉发长空近日完成近亿元Pre-A轮融资，本轮融资由方广资本领投，致道资本、六翼投资共同投资。
-  融资资金将主要用于提升400kW级通用核心机平台的技术成熟度与工程化验证，加速发动机向量产阶段迈进。400kW级平台包括涡轴发动机S4、涡桨发动机P4以及涡电发动机H4。涡轴发动机S4已...
-- `36氪` [众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察](https://36kr.com/p/3896586337978244?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。
-  这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。
-  但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。...
-- `36氪` [斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家](https://36kr.com/p/3895721094842249?f=rss)
-> 自动驾驶重卡赛道，今年显著升温。
-  36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。
-  2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对无人重卡形成稳定需求，干线物...
-- `36氪` [8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO](https://36kr.com/p/3897553391978371?f=rss)
-> 今日热点导览
-  澳洲将设AI办公室，限制数据中心能源消耗
-  巴菲特宣布8年内清仓伯克希尔股票
-  前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队
-  长鑫科技：上市后仍将保持无实际控制人的控制权架构
-  谷歌参与建设美国最大太阳能项目，总规模达2.5GW
-  TOP 3大新闻
-  阿里、百度分别为苹果智能提供AI相关能力支撑
-  36氪获悉，网信办公布7款端侧生成式AI服务备案，苹果“...
-- `36氪` [独家｜面壁智能端侧大模型将搭载三星手机上市](https://36kr.com/p/3896830362601351?f=rss)
-> 文｜邓咏仪
-  编辑｜张雨忻 杨轩
-  《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。
-  就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。
-  公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、...
-- `36氪` [氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最](https://36kr.com/p/3896563671222147?f=rss)
-> 大公司：
-  美团、青桔、哈啰共享单车调价
-  近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报）
-  瓜子二手车线下直卖场首店今日正式开业
-  36氪获悉，瓜子二...
-- `36氪` [下一代AI原生UGC平台，藏在《蛋仔派对》里](https://36kr.com/p/3896755010963333?f=rss)
-> 2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。
-  但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。
-  AI 技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作...
+- `少数派` [派早报：OPPO 宣布调整旗下子品牌的全球产品策略等](https://sspai.com/post/112414)
+> 月之暗面发布 Kimi K3 模型，支付宝升级 Apple 教育优惠认证等。查看全文
 - `少数派` [新玩意 246｜少数派的编辑们最近买了啥？](https://sspai.com/post/112400)
 > 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
 - `少数派` [Apple 高校优惠活动开始了，今年有些不一样](https://sspai.com/post/112386)
@@ -84,102 +88,98 @@
 > 升级到 iPadOS 27 以后，不妨试试这些新功能……查看全文
 - `少数派` [角落新声｜从桌面「长」出来的创业空间，我靠这些好物「偷」一点清闲](https://sspai.com/post/112243)
 > 编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...查看全文
-- `少数派` [派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等](https://sspai.com/post/112334)
-> Google 推出新版图片搜索功能，Spotify 开启语音交互功能内测等。查看全文
 - `少数派` [社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机](https://sspai.com/post/112320)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [British Steel taken into public ownership to protect 'vital' UK supply](https://www.bbc.com/news/articles/c5y680w62wno)
-> Article URL: https://www.bbc.com/news/articles/c5y680w62wno
-Comments URL: https://news.ycombinator.com/item?id=48933371
-Points: 44
-# Comments: 43
-- `Hacker News` [The Act and the Outcome of Creation](https://www.ssp.sh/blog/on-creation/)
-> Article URL: https://www.ssp.sh/blog/on-creation/
-Comments URL: https://news.ycombinator.com/item?id=48933370
-Points: 8
-# Comments: 0
-- `Hacker News` [SpaceX stock erases all its gains and slides below IPO price in intraday trading](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading)
-> Article URL: https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading
-Comments URL: https://news.ycombinator.com/item?id=48933344
-Point...
-- `Hacker News` [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/)
-> Article URL: https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/
-Comments URL: https://news.ycombinator.com/item?id=48933310
-Points: 46
-# Comments: 36
-- `Hacker News` [Let's Build PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)
-> Article URL: https://onatm.dev/2026/07/16/homescale-part-1/
-Comments URL: https://news.ycombinator.com/item?id=48933303
-Points: 17
-# Comments: 1
-- `Hacker News` [I resurrected an 8-year-old dead CSS library and gave it an engine](https://usevivace.dev)
-> Article URL: https://usevivace.dev
-Comments URL: https://news.ycombinator.com/item?id=48932889
-Points: 4
-# Comments: 0
-- `Hacker News` [Track your workout from the iPhone Lock Screen](https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/)
-> Article URL: https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/
-Comments URL: https://news.ycombinator.com/item?id=48932784
-Points: 9
-# Comments: 4
-- `Hacker News` [Ente – Opening Our Books](https://ente.com/open/)
-> Article URL: https://ente.com/open/
-Comments URL: https://news.ycombinator.com/item?id=48932697
+- `Hacker News` [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive)
+> Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive
+Comments URL: https://news.ycombinator.com/item?id=48942125
+Points: 40
+# Comments: 10
+- `Hacker News` [The Human-in-the-Loop Is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired)
+> Article URL: https://pydantic.dev/articles/the-human-in-the-loop-is-tired
+Comments URL: https://news.ycombinator.com/item?id=48942000
 Points: 35
-# Comments: 4
-- `Hacker News` [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
-> Article URL: https://community.oneplus.com/thread/2170715118587871237
-Comments URL: https://news.ycombinator.com/item?id=48932539
-Points: 157
-# Comments: 85
-- `Hacker News` [Where are YC founders now? OpenAI and Anthropic, mostly](https://joinedanthropic.com)
-> Article URL: https://joinedanthropic.com
-Comments URL: https://news.ycombinator.com/item?id=48931588
-Points: 116
-# Comments: 41
-- `TechCrunch` [Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you](https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/)
-> Aina is going to pilot a new device in the coming weeks.
-- `TechCrunch` [Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot](https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/)
-> The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.
-- `TechCrunch` [Phone maker OnePlus says it won’t release new phones in the US and Europe](https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/)
-> OnePlus could also wind down its operations in India by 2027.
-- `TechCrunch` [Lululemon backs nylon-recycling startup Syntetica in $30M Series A](https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/)
-> Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.
-- `TechCrunch` [Applied Computing wants to give oil and gas operators an AI model for the entire plant](https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/)
-> Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.
-- `TechCrunch` [Why Greylock capped its new fund at $1.5B when it says it could have raised more](https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/)
-> By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls "the most important partner" to its founders.
-- `TechCrunch` [Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/)
-> Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.
-- `TechCrunch` [Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms](https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/)
-> The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.
-- `TechCrunch` [Daniel Ek’s body-scanning startup Neko Health raises another $700M](https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/)
-> Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.
-- `TechCrunch` [Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex](https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/)
-> OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.
-- `The Verge` [Google ordered to open Android and Search to rivals in Europe](https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma)
-> Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antit...
-- `The Verge` [COMPUTER COPS: Inside the big business of selling AI to the police](https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops)
-> I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as "the future of policing in the digital age." As press,...
-- `The Verge` [OnePlus officially gives up on the US and Europe](https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme)
-> OnePlus has confirmed what industry observers have long expected: it's quitting the US and European markets, and will no longer launch new products in either region. Parent company Oppo promises th...
-- `The Verge` [Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC](https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones)
-> Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher ...
-- `The Verge` [HP’s OLED-equipped 2-in-1 laptop is a solid back-to-school deal](https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale)
-> With storage and memory prices still at an all-time high, we’re happy to tell you about a solid deal on a good laptop when we find one, rare as they are. Best Buy is selling the HP OmniBook X Flip ...
-- `The Verge` [Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads](https://www.theverge.com/tech/966219/apple-care-plus-price-increase)
-> An AppleCare Plus subscription for a Mac or iPad will cost more soon, with prices going up by $0.50 per month or $5 per year for new sign-ups while remaining the same for existing subscribers, acco...
-- `The Verge` [Valve says iFixit will keep selling Steam Deck batteries after all](https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery)
-> Valve has been incredibly friendly to customers who need repairs - which is why it was so surprising to hear that Valve was already discontinuing the battery for the Steam Deck LCD handheld. It wou...
-- `The Verge` [xAI sues a man for using Grok to generate CSAM ‘deepfakes’](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam)
-> The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI ...
-- `The Verge` [Brendan Carr plans to let broadcast giants dominate the airwaves](https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr)
-> The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednes...
-- `The Verge` [Roblox is shutting down its video chat service](https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down)
-> Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic...
+# Comments: 20
+- `Hacker News` [Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data](https://github.com/Robbyant/lingbot-map)
+> Article URL: https://github.com/Robbyant/lingbot-map
+Comments URL: https://news.ycombinator.com/item?id=48941908
+Points: 5
+# Comments: 0
+- `Hacker News` [Show HN: Mojibake – A low-level Unicode library written in C](https://mojibake.zaerl.com/)
+> I've written Mojibake because I don't like the other Unicode libraries for Unicode support.It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important U...
+- `Hacker News` [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
+> Article URL: https://github.com/alxndrTL/little-book-rl/
+Comments URL: https://news.ycombinator.com/item?id=48941104
+Points: 65
+# Comments: 10
+- `Hacker News` [CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV](https://hellorecon.com/blog/cve-2026-25089)
+> Article URL: https://hellorecon.com/blog/cve-2026-25089
+Comments URL: https://news.ycombinator.com/item?id=48940895
+Points: 27
+# Comments: 0
+- `Hacker News` ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
+> Article URL: https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin
+Comments URL: https://news.ycombinator.com/item?id=48940833
+Points: 54
+# Comments: 8
+- `Hacker News` [Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning](https://arxiv.org/abs/2607.12395)
+> Article URL: https://arxiv.org/abs/2607.12395
+Comments URL: https://news.ycombinator.com/item?id=48940603
+Points: 39
+# Comments: 14
+- `Hacker News` [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
+> Article URL: https://arxiv.org/abs/2607.11938
+Comments URL: https://news.ycombinator.com/item?id=48939896
+Points: 109
+# Comments: 3
+- `Hacker News` [Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone](https://www.science.org/doi/10.1126/science.aea9708)
+> Article URL: https://www.science.org/doi/10.1126/science.aea9708
+Comments URL: https://news.ycombinator.com/item?id=48939742
+Points: 76
+# Comments: 17
+- `TechCrunch` [San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco](https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/)
+> In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.
+- `TechCrunch` [SpaceX suddenly aborts second Starship V3 launch after ignition](https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/)
+> The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.
+- `TechCrunch` [Coca-Cola suspended production at its Fairlife dairy after a ransomware attack](https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/)
+> Coca Cola said dairy production at its Fairlife unit will "remain suspended" in the United States following a hack.
+- `TechCrunch` [Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)](https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/)
+> Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series "Mafia," has joined the firm as a partner.
+- `TechCrunch` [Google Vids now lets you star in your own AI videos](https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/)
+> Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from pr...
+- `TechCrunch` [Roblox launches an AI-powered game-creation feature in its mobile app](https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/)
+> Roblox's new "Build" feature lets users generate basic games using a single text prompt.
+- `TechCrunch` [Oil giant BP shutters its corporate venture arm after 20 years](https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/)
+> BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns.
+- `TechCrunch` [Uber’s $14.8B Delivery Hero deal would nearly double its global footprint](https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/)
+> Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delivery platforms outs...
+- `TechCrunch` [Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI](https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/)
+> Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.
+- `TechCrunch` [X cracks down on creators who steal content](https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/)
+> X will use Grok AI to better detect stolen content, redirect payouts to original creators, and crack down on engagement bait.
+- `The Verge` [Fortnite is getting a bunch of AI-powered ‘personas’](https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas)
+> Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead...
+- `The Verge` [Samsung’s 55-inch Frame art TV is $200 cheaper than usual](https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale)
+> Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery....
+- `The Verge` [Netflix says around 300 titles used generative AI](https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings)
+> Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released...
+- `The Verge` [Why are people buying so many CDs?](https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate)
+> CD sales are apparently going up, reportedly thanks to fans realizing they're an affordable way to support their favorite artists. According to a new report from research firm Luminate, 16.3 millio...
+- `The Verge` [Kalshi says it caught Trump’s teleprompter operator insider trading](https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation)
+> Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal ...
+- `The Verge` [New York governor says she’s using AI to analyze ‘every single rule’ in the state](https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies)
+> New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd ...
+- `The Verge` [Ecovacs’ self-cleaning Deebot X11 has hit a new low price](https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale)
+> Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac...
+- `The Verge` [Google is better than Apple at playing the AI regulations game](https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai)
+> Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising...
+- `The Verge` [Roblox will let people use AI to make games on their phone](https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games)
+> Roblox is about to let people make games with AI right inside its mobile app, which could make a platform that's already filled with content of questionable quality feel even more overloaded. The c...
+- `The Verge` [Google is renaming NotebookLM to Gemini Notebook](https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm)
+> Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
