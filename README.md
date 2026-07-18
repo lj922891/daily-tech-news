@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-07-18
 
-> 自动收集于 2026-07-18 02:55 | 共 50 条
+> 自动收集于 2026-07-18 12:43 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -55,6 +55,8 @@
   编辑 | 袁斯来
   硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。
   模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知...
+- `少数派` [小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？](https://sspai.com/post/112398)
+> 小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112444)
 > 📅本周新预告《蓦然回首》正式预告7月15日，电影《蓦然回首》发布了正式预告，将于9月11日在日本上映。是枝裕和执导、编剧、剪辑，出口夏希、莳田彩珠主演，菅田将晖、宫藤官九郎、野吕佳代、山田真步等出演， ...查看全文
 - `少数派` [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430)
@@ -73,57 +75,61 @@
 > 国名也好、赛事名称也好，日语走上了片假名这条路——那为什么日本人不能像中文一样，直接造出「美加墨W杯」这样的简称？查看全文
 - `少数派` [派早报：国行版 Apple Intelligence 完成备案等](https://sspai.com/post/112373)
 > 阿里发布实时语音模型 Qwen-Audio-3.0-Realtime、腾龙发布 12-20mm F2.8 镜头等。查看全文
-- `少数派` [Leitra 诞生记：一次未完成的实践](https://sspai.com/post/112077)
-> Leitra 的名字来自我最欣赏的摄影师索尔·雷特（Saul Leiter）。它是一款为数码照片生成接触样张（Contact Sheet）和图像序列的策展工具，受到马格南摄影师创作方式的启发，关注图像之间的停顿与联系，也探索面向未来、与现实互动的创作方式。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
-> Article URL: https://moonstone.sh/
-Comments URL: https://news.ycombinator.com/item?id=48954175
-Points: 10
-# Comments: 2
-- `Hacker News` [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
+- `Hacker News` [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
+> Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph
+Comments URL: https://news.ycombinator.com/item?id=48956949
+Points: 69
+# Comments: 80
+- `Hacker News` [Why do AI company logos look like buttholes? (2025)](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+> Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes
+Comments URL: https://news.ycombinator.com/item?id=48956924
+Points: 249
+# Comments: 75
+- `Hacker News` [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)
+> Article URL: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/
+Comments URL: https://news.ycombinator.com/item?id=48956879
+Points: 19
+# Comments: 8
+- `Hacker News` [Steam Machine: Between 12k and 15k Units Sold per week](https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/)
+> Article URL: https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/
+Comments URL: https://news.ycombinator.com/item?id=48956852
+Points: 21
+# Comments: 3
+- `Hacker News` [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)
+> Article URL: https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent
+Comments URL: https://news.ycombinator.com/item?id=48956688
+Points: 212
+# ...
+- `Hacker News` [Qubes OS Security in the Public Record](https://arxiv.org/abs/2607.14587)
+> Article URL: https://arxiv.org/abs/2607.14587
+Comments URL: https://news.ycombinator.com/item?id=48956307
+Points: 32
+# Comments: 3
+- `Hacker News` [The Computer at the Bottom of a Canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
+> Article URL: https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/
+Comments URL: https://news.ycombinator.com/item?id=48956231
+Points: 37
+# Comments: 7
+- `Hacker News` [Show HN: IKEA Complexity Index](https://ikea.greg.technology/)
+> Article URL: https://ikea.greg.technology/
+Comments URL: https://news.ycombinator.com/item?id=48955042
+Points: 82
+# Comments: 42
+- `Hacker News` [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
+> Article URL: https://maurycyz.com/projects/bad_jpeg/
+Comments URL: https://news.ycombinator.com/item?id=48954851
+Points: 444
+# Comments: 45
+- `Hacker News` [I started a “dirt notebook”](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
 > Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/
 Comments URL: https://news.ycombinator.com/item?id=48954149
-Points: 17
-# Comments: 10
-- `Hacker News` [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
-> Article URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory
-Comments URL: https://news.ycombinator.com/item?id=48954074
-Points: 0
-# Comments: 0
-- `Hacker News` [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
-> Article URL: https://www.stenchill.com/en/
-Comments URL: https://news.ycombinator.com/item?id=48953981
-Points: 10
-# Comments: 1
-- `Hacker News` [A grumpy screed about AI in software engineering](https://sam.sutch.net/posts/a-grumpy-ai-screed)
-> Article URL: https://sam.sutch.net/posts/a-grumpy-ai-screed
-Comments URL: https://news.ycombinator.com/item?id=48953924
-Points: 44
-# Comments: 38
-- `Hacker News` [PSA about abuse of cat(1) command. Don't abuse cats](https://www.abuseofcats.com)
-> Article URL: https://www.abuseofcats.com
-Comments URL: https://news.ycombinator.com/item?id=48953719
-Points: 16
-# Comments: 21
-- `Hacker News` [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier)
-> Article URL: https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier
-Comments URL: https://news.ycombinator.com/item?id=48953406
-Points: 41
-# Comments: 2
-- `Hacker News` [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and)
-> Article URL: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and
-Comments URL: https://news.ycombinato...
-- `Hacker News` [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
-> Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/
-Comments URL: https://news.ycombinator.com/item?id=489...
-- `Hacker News` [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
-> Article URL: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md
-Comments URL: https://news.ycombinator.com/item?id=48952565
-Points: 34
-# Comme...
+Points: 81
+# Comments: 70
+- `TechCrunch` [Neil Rimer thinks the AI money is coming back out](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/)
+> Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.
 - `TechCrunch` [Applications close in 48 hours — here’s everything Australian founders need to know about Stripe ...](https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/)
 > The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with...
 - `TechCrunch` [Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/)
@@ -142,8 +148,14 @@ Points: 34
 > The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.
 - `TechCrunch` [I replaced my space heater and ceiling fan with one Dyson appliance](https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/)
 > Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.
-- `TechCrunch` [How Apple’s big lawsuit could disrupt OpenAI’s IPO plans](https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/)
-> Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to ...
+- `The Verge` [Sony’s flagship RGB LED TV is incredible](https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review)
+> The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons & Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting i...
+- `The Verge` [More games should be on rails (literally)](https://www.theverge.com/games/961152/denshattack-review)
+> It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly thro...
+- `The Verge` [The apps, gadgets, and tools every reader needs](https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer)
+> Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can re...
+- `The Verge` [Fine, electric mountain bikes don’t suck](https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters)
+> Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electri...
 - `The Verge` [Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak](https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce)
 > Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's "voluntarily removing all iceberg lettuce sourced from central Mexico from the US market." Re...
 - `The Verge` [Shark’s versatile ChillPill cooling system is back to its best price](https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale)
@@ -156,14 +168,6 @@ Points: 34
 > Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, a...
 - `The Verge` [Apple’s plot to crush OpenAI](https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast)
 > Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Ap...
-- `The Verge` [Asus’ top-end 4K QD-OLED gaming monitor is $400 off](https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale)
-> The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond wh...
-- `The Verge` [Samsung’s redesigned Z Fold 8 with a wide display just leaked](https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak)
-> Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images sho...
-- `The Verge` [Is America ready for this quirky Jeep-looking EV that can park itself?](https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price)
-> Are we living through a small car renaissance? There's the Slate Truck, Amble's dune buggy, and the Fiat Topolino, as well as a whole galaxy of kei cars and trucks from Japan that have their own bu...
-- `The Verge` [Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
-> Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the comp...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
