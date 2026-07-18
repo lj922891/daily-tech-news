@@ -4,12 +4,29 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-17
+# 📰 每日科技日报 — 2026-07-18
 
-> 自动收集于 2026-07-17 12:56 | 共 50 条
+> 自动收集于 2026-07-18 02:55 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源](https://36kr.com/p/3900449325287305?f=rss)
+> 今日热点导览
+  月之暗面正式推出开源模型Kimi K3
+  智谱ARR达到10亿美元，半年增长15倍
+  国际足联：世界杯冠军将有戒指，每枚均有独立编号
+  国内成品油价7月17日晚上调
+  A股存储板块龙头股遭遇两个跌停
+  TOP3大新闻
+  ofo停更5年突然发文，运营主体仍处存续状态
+  7月15日，沉寂近5年的ofo小黄车官方微信公众号突然更新。此次公众号发布的内容，是一则皮肤病...
+- `36氪` [印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界](https://36kr.com/p/3900439867147909?f=rss)
+> 2026 世界人工智能大会（WAIC 2026）于 7 月 17 日正式开幕。作为全球人工智能领域的顶级盛会，本届大会以“智能伙伴 共创未来”为主题。阶跃星辰董事长、千里科技董事长印奇作为特邀嘉宾出席大会开幕式并在大会主论坛（上午场）发表主题演讲《当智能体进入物理世界》。回顾 15 年 AI 创业历程，他表示，AI 创业已从小众赛道成为全球重要共识。今天的 AI 研究者和创业者既站在几代科学...
+- `36氪` [氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务](https://36kr.com/p/3896564485572489?f=rss)
+> 大公司：
+  成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验
+  36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹备工作，正式进入I期临床试验阶段。该疫苗抗原含量为常规剂量四倍，适用于60岁以上老年人群及高风险人群，国内尚无同类产品获批上市，有望填补市场空白。
+  苏宁易购携手人工智能合作伙伴，布局...
 - `36氪` [对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环](https://36kr.com/p/3899556701128578?f=rss)
 > 7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。森博科技董事长于林义在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务公司转向AI驱动科技服务公司的实践路径。
   本届WAIC以“智能伙伴，共创未来”为主题。相比...
@@ -38,23 +55,6 @@
   编辑 | 袁斯来
   硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。
   模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知...
-- `36氪` [36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资](https://36kr.com/p/3899081603483525?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际共同参与投资。同时，新一轮融资也在同步交割中。
-  此前融资资金主要用于自研世界模型 LaMPA 的研发迭代、强化学习体系建设，...
-- `36氪` [36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注](https://36kr.com/p/3899057634363266?f=rss)
-> 图源/企业
-  
-   本文约2400字，建议阅读6分钟
-  
-  作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司索辰科技。本轮资金将主要用于下一代人形机器人研发及海外市场拓展。此前，半醒具身曾于2025年完成首轮机构融资，投资方为上市公司飞荣达。
-  半醒具身成立于2022年，但团队早...
-- `36氪` [自研氢能催化剂关键材料，稳定性提升50%，「铂氢科技」完成数千万元Pre-A轮融资 | 36氪首发](https://36kr.com/p/3899040301876868?f=rss)
-> 36氪获悉，苏州铂氢科技源科技有限公司（以下简称「铂氢科技」）宣布完成数千万元Pre-A轮融资。本轮融资由东运创投领投、新晖资本跟投，老股东熔拓资本追投，资金将主要用于催化剂与膜电极新产线建设、研发及运营团队扩充。
-  铂氢科技成立于2023年5月，专注于氢能等新兴领域的贵金属催化剂及膜电极等下游产品研发、生产与销售。产品矩阵覆盖燃料电池催化剂（铂碳、铂黑、铂钌黑、铂基合金等系列）和水电解催...
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112444)
 > 📅本周新预告《蓦然回首》正式预告7月15日，电影《蓦然回首》发布了正式预告，将于9月11日在日本上映。是枝裕和执导、编剧、剪辑，出口夏希、莳田彩珠主演，菅田将晖、宫藤官九郎、野吕佳代、山田真步等出演， ...查看全文
 - `少数派` [具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……](https://sspai.com/post/112430)
@@ -78,91 +78,92 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166)
-> Article URL: https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166
-Comments URL: https://news.ycombinator.com/item?id=48946303
-Points: 15
-# Comments: 6
-- `Hacker News` [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
-> Article URL: https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423
-Comments URL: https://news.ycombinator.com/item?id=48946010
-Points: 165
-# Comments: 74
-- `Hacker News` [Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars](https://news.ycombinator.com/item?id=48945681)
-> I receive an AWS Budgets alert that my budget is exceeding the alert threshold. Threshold is 5$. Forecasted amount is listed as $3,005,575,870.47. (Yepp, right, that’s 3 billion dollars.) I haven't...
-- `Hacker News` [I Owe My Life to the Commodore 64](https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64)
-> Article URL: https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64
-Comments URL: https://news.ycombinator.com/item?id=48945260
-Points: 45
-# Comments: 28
-- `Hacker News` [Pushinka](https://en.wikipedia.org/wiki/Pushinka)
-> Article URL: https://en.wikipedia.org/wiki/Pushinka
-Comments URL: https://news.ycombinator.com/item?id=48944333
-Points: 21
-# Comments: 6
-- `Hacker News` [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
-> Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876
-Comments URL: https://news.ycombinator.com/item?id=48943745
-Points: 155
-# Comments: 91
-- `Hacker News` [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
-> Article URL: https://repebble.com/blog/pebble-mega-update-july-2026
-Comments URL: https://news.ycombinator.com/item?id=48943174
-Points: 155
-# Comments: 73
-- `Hacker News` [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
-> Article URL: https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/
-Comm...
-- `Hacker News` [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/)
-> Article URL: https://github.com/alxndrTL/little-book-rl/
-Comments URL: https://news.ycombinator.com/item?id=48941104
-Points: 162
-# Comments: 19
-- `Hacker News` ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin)
-> Article URL: https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin
-Comments URL: https://news.ycombinator.com/item?id=48940833
-Points: 91
-# Comments: 22
-- `TechCrunch` [Why the first GPU financiers are turning to inference chips in a $400 million deal](https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/)
-> A $400 million chip-backed loan points to the next wave of AI infrastructure deals.
-- `TechCrunch` [San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco](https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/)
-> In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.
-- `TechCrunch` [SpaceX suddenly aborts second Starship V3 launch after ignition](https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/)
-> The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.
-- `TechCrunch` [Coca-Cola suspended production at its Fairlife dairy after a ransomware attack](https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/)
-> Coca Cola said dairy production at its Fairlife unit will "remain suspended" in the United States following a hack.
-- `TechCrunch` [Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)](https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/)
-> Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series "Mafia," has joined the firm as a partner.
-- `TechCrunch` [Google Vids now lets you star in your own AI videos](https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/)
-> Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from pr...
-- `TechCrunch` [Roblox launches an AI-powered game-creation feature in its mobile app](https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/)
-> Roblox's new "Build" feature lets users generate basic games using a single text prompt.
-- `TechCrunch` [Oil giant BP shutters its corporate venture arm after 20 years](https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/)
-> BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns.
-- `TechCrunch` [Uber’s $14.8B Delivery Hero deal would nearly double its global footprint](https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/)
-> Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delivery platforms outs...
-- `TechCrunch` [Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI](https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/)
-> Beehiiv is launching an AI Copilot to help publishers with user growth and analytics.
-- `The Verge` [Trump is selling high-speed access to his market-moving Truth Social posts](https://www.theverge.com/policy/967020/trump-truth-social-api-wall-street-traders)
-> Trump Media, the company behind Truth Social, is selling Wall Street faster access to the "most market-moving" posts on the US President's social media platform. On Thursday, Trump Media announced ...
-- `The Verge` [The war on ‘woke science’ comes for space research](https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society)
-> The Trump administration is waging a culture war on science, and the latest salvo is in the form of a dry, bureaucratic proposal from the Office of Management and Budget (OMB) that could threaten t...
-- `The Verge` [God Of War TV series is recasting Kratos](https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast)
-> Amazon's upcoming God Of War show has hit a major snag - it's now on the hunt for a new Kratos, after an on-set injury put its current lead actor out of commission. Sons of Anarchy star Ryan Hurst ...
-- `The Verge` [Fortnite is getting a bunch of AI-powered ‘personas’](https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas)
-> Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead...
-- `The Verge` [Samsung’s 55-inch Frame art TV is $200 cheaper than usual](https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale)
-> Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery....
-- `The Verge` [Netflix says around 300 titles used generative AI](https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings)
-> Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released...
-- `The Verge` [Why are people buying so many CDs?](https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate)
-> CD sales are apparently going up, reportedly thanks to fans realizing they're an affordable way to support their favorite artists. According to a new report from research firm Luminate, 16.3 millio...
-- `The Verge` [Kalshi says it caught Trump’s teleprompter operator insider trading](https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation)
-> Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal ...
-- `The Verge` [New York governor says she’s using AI to analyze ‘every single rule’ in the state](https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies)
-> New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd ...
-- `The Verge` [Ecovacs’ self-cleaning Deebot X11 has hit a new low price](https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale)
-> Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac...
+- `Hacker News` [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/)
+> Article URL: https://moonstone.sh/
+Comments URL: https://news.ycombinator.com/item?id=48954175
+Points: 10
+# Comments: 2
+- `Hacker News` [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
+> Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/
+Comments URL: https://news.ycombinator.com/item?id=48954149
+Points: 17
+# Comments: 10
+- `Hacker News` [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory)
+> Article URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory
+Comments URL: https://news.ycombinator.com/item?id=48954074
+Points: 0
+# Comments: 0
+- `Hacker News` [Stenchill: 3D Printable Solder Paste Stencil Generator](https://www.stenchill.com/en/)
+> Article URL: https://www.stenchill.com/en/
+Comments URL: https://news.ycombinator.com/item?id=48953981
+Points: 10
+# Comments: 1
+- `Hacker News` [A grumpy screed about AI in software engineering](https://sam.sutch.net/posts/a-grumpy-ai-screed)
+> Article URL: https://sam.sutch.net/posts/a-grumpy-ai-screed
+Comments URL: https://news.ycombinator.com/item?id=48953924
+Points: 44
+# Comments: 38
+- `Hacker News` [PSA about abuse of cat(1) command. Don't abuse cats](https://www.abuseofcats.com)
+> Article URL: https://www.abuseofcats.com
+Comments URL: https://news.ycombinator.com/item?id=48953719
+Points: 16
+# Comments: 21
+- `Hacker News` [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier)
+> Article URL: https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier
+Comments URL: https://news.ycombinator.com/item?id=48953406
+Points: 41
+# Comments: 2
+- `Hacker News` [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and)
+> Article URL: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and
+Comments URL: https://news.ycombinato...
+- `Hacker News` [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+> Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/
+Comments URL: https://news.ycombinator.com/item?id=489...
+- `Hacker News` [TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years](https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md)
+> Article URL: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md
+Comments URL: https://news.ycombinator.com/item?id=48952565
+Points: 34
+# Comme...
+- `TechCrunch` [Applications close in 48 hours — here’s everything Australian founders need to know about Stripe ...](https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/)
+> The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with...
+- `TechCrunch` [Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/)
+> From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.
+- `TechCrunch` [Databricks hits $188B valuation, extending its run as AI’s favorite second act](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/)
+> Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.
+- `TechCrunch` [The Zoom hack that says, ‘Don’t record me’](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/)
+> If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?
+- `TechCrunch` [Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)
+> Agility is opening a new training center for its Digit robots in Fremont, California.
+- `TechCrunch` [AI-driven memory crunch jolts India’s smartphone market](https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/)
+> India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.
+- `TechCrunch` [Apple and Google ordered to purge ‘nudify’ apps from App Stores](https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/)
+> In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.
+- `TechCrunch` [Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation](https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/)
+> The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.
+- `TechCrunch` [I replaced my space heater and ceiling fan with one Dyson appliance](https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/)
+> Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.
+- `TechCrunch` [How Apple’s big lawsuit could disrupt OpenAI’s IPO plans](https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/)
+> Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to ...
+- `The Verge` [Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak](https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce)
+> Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's "voluntarily removing all iceberg lettuce sourced from central Mexico from the US market." Re...
+- `The Verge` [Shark’s versatile ChillPill cooling system is back to its best price](https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale)
+> Portable fans are one of the easiest ways to stay cool during the summer, and you don’t have to spend much to find a decent one. If you’re looking for something more versatile, though, ...
+- `The Verge` [TikTok is testing an AI likeness detection tool](https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool)
+> TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being ...
+- `The Verge` [Pebble founder Eric Migicovsky says his 30-day warranty is all about trust](https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview)
+> Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short w...
+- `The Verge` [Apple Music is getting a price hike](https://www.theverge.com/tech/967379/apple-music-price-increase)
+> Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, a...
+- `The Verge` [Apple’s plot to crush OpenAI](https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast)
+> Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Ap...
+- `The Verge` [Asus’ top-end 4K QD-OLED gaming monitor is $400 off](https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale)
+> The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond wh...
+- `The Verge` [Samsung’s redesigned Z Fold 8 with a wide display just leaked](https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak)
+> Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images sho...
+- `The Verge` [Is America ready for this quirky Jeep-looking EV that can park itself?](https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price)
+> Are we living through a small car renaissance? There's the Slate Truck, Amble's dune buggy, and the Fiat Topolino, as well as a whole galaxy of kei cars and trucks from Japan that have their own bu...
+- `The Verge` [Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware](https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest)
+> Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the comp...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
