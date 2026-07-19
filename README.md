@@ -6,10 +6,17 @@
 
 # 📰 每日科技日报 — 2026-07-19
 
-> 自动收集于 2026-07-19 03:27 | 共 50 条
+> 自动收集于 2026-07-19 12:44 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码](https://36kr.com/p/3902428274427525?f=rss)
+> 在2026世界人工智能大会（WAIC 2026）上，安顿健康以两项首发引发广泛关注：我国首个生命预警表标准，以及行业首个七诊合参中医机器人——安顿中医机器人。
+  
+  WAIC现场图片
+  两项首发背后，是一套从感知层到算法层再到输出层的完整技术体系。
+  核心引擎：天回·AI脉诊算法与三重置信体系
+  安顿双核首发的技术底座，是一套名为"天回·AI脉诊算法"的自研核心技术。该算法首次将中...
 - `36氪` [9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源](https://36kr.com/p/3900449325287305?f=rss)
 > 今日热点导览
   月之暗面正式推出开源模型Kimi K3
@@ -50,11 +57,8 @@
 > 36氪获悉，ADI金属材料企业震业新材近期完成超亿元A轮融资。
   本轮融资由招商致远资本、玉柴股份、海富产业基金领投，中金资本、江苏省沿海集团、黄海金控跟投，所融资金将主要用于ADI材料产线扩建、核心工艺迭代研发，以及乘用车、商用车、工程机械等下游场景的商业化落地。
   震业新材告诉36氪：“在ADI行业，1200MPa抗拉强度、4%延伸率是行业通用性能标准。延伸率达到5%~6%以上，才算...
-- `36氪` [36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注](https://36kr.com/p/3899128277452681?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。
-  模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知...
+- `少数派` [TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验](https://sspai.com/post/112374)
+> 这篇文章是TDSStudio在少数派上的第26篇文章，依然是全平台首发。1000XTheColleXion，这是索尼1000X系列的十周年纪念产品线。完全想不到跟群友们畅聊MDR-1000X的时代已经 ...查看全文
 - `少数派` [小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？](https://sspai.com/post/112398)
 > 小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112444)
@@ -73,58 +77,57 @@
 > 全面 ARM 化后的第一个 macOS 版本，Golden Gate 27 还有这些变化。查看全文
 - `少数派` [翻译「世界杯」的赛事名称，为什么中文比日文更简洁？](https://sspai.com/post/111086)
 > 国名也好、赛事名称也好，日语走上了片假名这条路——那为什么日本人不能像中文一样，直接造出「美加墨W杯」这样的简称？查看全文
-- `少数派` [派早报：国行版 Apple Intelligence 完成备案等](https://sspai.com/post/112373)
-> 阿里发布实时语音模型 Qwen-Audio-3.0-Realtime、腾龙发布 12-20mm F2.8 镜头等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
-> Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3
-Comments URL: https://news.ycombinator.com/item?id=48964185
-Points: 30
+- `Hacker News` [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
+> Article URL: https://sgt.hootr.club/blog/home-server-rebirth/
+Comments URL: https://news.ycombinator.com/item?id=48966769
+Points: 15
 # Comments: 4
-- `Hacker News` [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
-> Article URL: https://github.com/stupside/castor
-Comments URL: https://news.ycombinator.com/item?id=48964015
-Points: 48
-# Comments: 19
-- `Hacker News` [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
-> Article URL: https://workshop.cjpais.com/projects/transcribe-cpp
-Comments URL: https://news.ycombinator.com/item?id=48963879
-Points: 140
-# Comments: 22
-- `Hacker News` [Harness Engineering](https://github.com/lopopolo/harness-engineering)
-> Article URL: https://github.com/lopopolo/harness-engineering
-Comments URL: https://news.ycombinator.com/item?id=48963483
-Points: 32
-# Comments: 11
-- `Hacker News` [Codex Resets](https://codex-resets.com/)
-> Article URL: https://codex-resets.com/
-Comments URL: https://news.ycombinator.com/item?id=48963465
-Points: 95
-# Comments: 83
-- `Hacker News` [European Court Confirms Ethical Veganism Is a Protected Philosophical Belief](https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/)
-> Article URL: https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/
-Comments URL: https://news.ycombinator.com/item?id=4896...
-- `Hacker News` [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
-> Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/
-Comments URL: https://news.ycombinator.com/item?id=48962983
-Points: 2...
-- `Hacker News` [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
-> Article URL: https://www.tug.org/tug2026/preprints/lode-realtime.pdf
-Comments URL: https://news.ycombinator.com/item?id=48962944
+- `Hacker News` [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
+> Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard
+Comments URL: https://news.ycombinator.com/item?id=48966713
 Points: 40
-# Comments: 7
-- `Hacker News` [Judge a book by its first pages](https://uncovered.ink)
-> Article URL: https://uncovered.ink
-Comments URL: https://news.ycombinator.com/item?id=48962893
-Points: 46
-# Comments: 34
-- `Hacker News` [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
-> Article URL: https://amigafreeware.downer.tech/
-Comments URL: https://news.ycombinator.com/item?id=48962838
-Points: 67
-# Comments: 9
+# Comments: 23
+- `Hacker News` [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
+> Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/
+Comments URL: https://news.ycombinator.com/item?id=48966569
+Points: 113
+# Comments: 131
+- `Hacker News` [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)
+> Article URL: https://www.qwencloud.com/pricing/token-plan
+Comments URL: https://news.ycombinator.com/item?id=48966190
+Points: 115
+# Comments: 61
+- `Hacker News` [Half a Second – a book about the XZ backdoor](https://www.half-second.com/)
+> Article URL: https://www.half-second.com/
+Comments URL: https://news.ycombinator.com/item?id=48966139
+Points: 32
+# Comments: 22
+- `Hacker News` [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
+> Article URL: https://twitter.com/Alibaba_Qwen/status/2078759124914098291
+Comments URL: https://news.ycombinator.com/item?id=48966120
+Points: 265
+# Comments: 135
+- `Hacker News` [The Mighty Big Array of Finn Jensen LA8YB](https://la0by.darc.de/LA8YB_EME_MBA.htm)
+> Article URL: https://la0by.darc.de/LA8YB_EME_MBA.htm
+Comments URL: https://news.ycombinator.com/item?id=48965914
+Points: 12
+# Comments: 3
+- `Hacker News` [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files)
+> Article URL: https://github.com/openai/codex/pull/33972/files
+Comments URL: https://news.ycombinator.com/item?id=48965850
+Points: 55
+# Comments: 16
+- `Hacker News` [The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]](https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf)
+> Article URL: https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf
+Comme...
+- `Hacker News` [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
+> Article URL: https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea
+Comments URL: https://news.ycombinator.com/item?id=48965161
+Points: 35
+# Comments: 0
 - `TechCrunch` [Waymo says San Francisco service has resumed after one-hour pause](https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/)
 > This isn’t the first time power outages have caused issues for Waymo.
 - `TechCrunch` [Kimi: Threat or menace?](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
@@ -145,6 +148,10 @@ Points: 67
 > Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.
 - `TechCrunch` [The Zoom hack that says, ‘Don’t record me’](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/)
 > If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?
+- `The Verge` [The future of physical games is not looking great](https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribe...
+- `The Verge` [The grueling, 630-mile road race where the only fuel is sunlight](https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas)
+> On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest. The students design ...
 - `The Verge` [Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation)
 > Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and foun...
 - `The Verge` [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak)
@@ -161,10 +168,6 @@ Points: 67
 > The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons & Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting i...
 - `The Verge` [More games should be on rails (literally)](https://www.theverge.com/games/961152/denshattack-review)
 > It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly thro...
-- `The Verge` [The apps, gadgets, and tools every reader needs](https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer)
-> Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can re...
-- `The Verge` [Fine, electric mountain bikes don’t suck](https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters)
-> Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electri...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
