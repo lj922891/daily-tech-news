@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-18
+# 📰 每日科技日报 — 2026-07-19
 
-> 自动收集于 2026-07-18 12:43 | 共 50 条
+> 自动收集于 2026-07-19 03:27 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -78,56 +78,63 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph)
-> Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph
-Comments URL: https://news.ycombinator.com/item?id=48956949
-Points: 69
-# Comments: 80
-- `Hacker News` [Why do AI company logos look like buttholes? (2025)](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
-> Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes
-Comments URL: https://news.ycombinator.com/item?id=48956924
-Points: 249
-# Comments: 75
-- `Hacker News` [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)
-> Article URL: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/
-Comments URL: https://news.ycombinator.com/item?id=48956879
-Points: 19
-# Comments: 8
-- `Hacker News` [Steam Machine: Between 12k and 15k Units Sold per week](https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/)
-> Article URL: https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/
-Comments URL: https://news.ycombinator.com/item?id=48956852
-Points: 21
-# Comments: 3
-- `Hacker News` [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)
-> Article URL: https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent
-Comments URL: https://news.ycombinator.com/item?id=48956688
-Points: 212
-# ...
-- `Hacker News` [Qubes OS Security in the Public Record](https://arxiv.org/abs/2607.14587)
-> Article URL: https://arxiv.org/abs/2607.14587
-Comments URL: https://news.ycombinator.com/item?id=48956307
+- `Hacker News` [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3)
+> Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3
+Comments URL: https://news.ycombinator.com/item?id=48964185
+Points: 30
+# Comments: 4
+- `Hacker News` [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
+> Article URL: https://github.com/stupside/castor
+Comments URL: https://news.ycombinator.com/item?id=48964015
+Points: 48
+# Comments: 19
+- `Hacker News` [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
+> Article URL: https://workshop.cjpais.com/projects/transcribe-cpp
+Comments URL: https://news.ycombinator.com/item?id=48963879
+Points: 140
+# Comments: 22
+- `Hacker News` [Harness Engineering](https://github.com/lopopolo/harness-engineering)
+> Article URL: https://github.com/lopopolo/harness-engineering
+Comments URL: https://news.ycombinator.com/item?id=48963483
 Points: 32
-# Comments: 3
-- `Hacker News` [The Computer at the Bottom of a Canal](https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/)
-> Article URL: https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/
-Comments URL: https://news.ycombinator.com/item?id=48956231
-Points: 37
+# Comments: 11
+- `Hacker News` [Codex Resets](https://codex-resets.com/)
+> Article URL: https://codex-resets.com/
+Comments URL: https://news.ycombinator.com/item?id=48963465
+Points: 95
+# Comments: 83
+- `Hacker News` [European Court Confirms Ethical Veganism Is a Protected Philosophical Belief](https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/)
+> Article URL: https://veganfta.com/articles/2026/07/17/european-court-confirms-ethical-veganism-is-a-protected-philosophical-belief-in-europe/
+Comments URL: https://news.ycombinator.com/item?id=4896...
+- `Hacker News` [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/)
+> Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/
+Comments URL: https://news.ycombinator.com/item?id=48962983
+Points: 2...
+- `Hacker News` [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf)
+> Article URL: https://www.tug.org/tug2026/preprints/lode-realtime.pdf
+Comments URL: https://news.ycombinator.com/item?id=48962944
+Points: 40
 # Comments: 7
-- `Hacker News` [Show HN: IKEA Complexity Index](https://ikea.greg.technology/)
-> Article URL: https://ikea.greg.technology/
-Comments URL: https://news.ycombinator.com/item?id=48955042
-Points: 82
-# Comments: 42
-- `Hacker News` [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
-> Article URL: https://maurycyz.com/projects/bad_jpeg/
-Comments URL: https://news.ycombinator.com/item?id=48954851
-Points: 444
-# Comments: 45
-- `Hacker News` [I started a “dirt notebook”](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/)
-> Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/
-Comments URL: https://news.ycombinator.com/item?id=48954149
-Points: 81
-# Comments: 70
+- `Hacker News` [Judge a book by its first pages](https://uncovered.ink)
+> Article URL: https://uncovered.ink
+Comments URL: https://news.ycombinator.com/item?id=48962893
+Points: 46
+# Comments: 34
+- `Hacker News` [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
+> Article URL: https://amigafreeware.downer.tech/
+Comments URL: https://news.ycombinator.com/item?id=48962838
+Points: 67
+# Comments: 9
+- `TechCrunch` [Waymo says San Francisco service has resumed after one-hour pause](https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/)
+> This isn’t the first time power outages have caused issues for Waymo.
+- `TechCrunch` [Kimi: Threat or menace?](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
+> Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about "full AI communism."
+- `TechCrunch` [All the EVs that were discontinued or killed off in the U.S. this year](https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/)
+> Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.
+- `TechCrunch` [Federal employees can download TikTok on their work phones again](https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/)
+> The Department of Justice says that federal employees can now download TikTok on their government devices.
+- `TechCrunch` [A 600-mile road trip (and data) proves EV charging doesn’t suck anymore](https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/)
+> A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.
 - `TechCrunch` [Neil Rimer thinks the AI money is coming back out](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/)
 > Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.
 - `TechCrunch` [Applications close in 48 hours — here’s everything Australian founders need to know about Stripe ...](https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/)
@@ -138,16 +145,18 @@ Points: 81
 > Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.
 - `TechCrunch` [The Zoom hack that says, ‘Don’t record me’](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/)
 > If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?
-- `TechCrunch` [Agility Robotics plants its flag in Tesla’s backyard](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)
-> Agility is opening a new training center for its Digit robots in Fremont, California.
-- `TechCrunch` [AI-driven memory crunch jolts India’s smartphone market](https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/)
-> India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.
-- `TechCrunch` [Apple and Google ordered to purge ‘nudify’ apps from App Stores](https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/)
-> In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.
-- `TechCrunch` [Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation](https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/)
-> The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.
-- `TechCrunch` [I replaced my space heater and ceiling fan with one Dyson appliance](https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/)
-> Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.
+- `The Verge` [Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation)
+> Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and foun...
+- `The Verge` [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak)
+> Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped wi...
+- `The Verge` [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)
+> Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day...
+- `The Verge` [GoPro’s discounted Max 2 bundle includes $100 worth of accessories](https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale)
+> A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2...
+- `The Verge` [The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time](https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview)
+> Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine...
+- `The Verge` [Surprise! Facial recognition smart locks are actually good](https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review)
+> Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to reme...
 - `The Verge` [Sony’s flagship RGB LED TV is incredible](https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review)
 > The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons & Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting i...
 - `The Verge` [More games should be on rails (literally)](https://www.theverge.com/games/961152/denshattack-review)
@@ -156,18 +165,6 @@ Points: 81
 > Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can re...
 - `The Verge` [Fine, electric mountain bikes don’t suck](https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters)
 > Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electri...
-- `The Verge` [Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak](https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce)
-> Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's "voluntarily removing all iceberg lettuce sourced from central Mexico from the US market." Re...
-- `The Verge` [Shark’s versatile ChillPill cooling system is back to its best price](https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale)
-> Portable fans are one of the easiest ways to stay cool during the summer, and you don’t have to spend much to find a decent one. If you’re looking for something more versatile, though, ...
-- `The Verge` [TikTok is testing an AI likeness detection tool](https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool)
-> TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being ...
-- `The Verge` [Pebble founder Eric Migicovsky says his 30-day warranty is all about trust](https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview)
-> Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short w...
-- `The Verge` [Apple Music is getting a price hike](https://www.theverge.com/tech/967379/apple-music-price-increase)
-> Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, a...
-- `The Verge` [Apple’s plot to crush OpenAI](https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast)
-> Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Ap...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
