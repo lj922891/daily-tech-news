@@ -4,12 +4,54 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-19
+# 📰 每日科技日报 — 2026-07-20
 
-> 自动收集于 2026-07-19 12:44 | 共 50 条
+> 自动收集于 2026-07-20 03:40 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存](https://36kr.com/p/3903396279125888?f=rss)
+> 6个年轻创业者在WAIC的故事
+  文｜温丽虹 王欣逸
+  编辑｜张雨忻
+  在上海世博的WAIC现场，想找初创公司的主场H4得颇费一番功夫。
+  经安检进入主会场，远远只看到会场墙壁上H1到H3的标识。跟随汹涌人群挤进一楼主展馆，几名忙着操纵具身智能机器人的知名厂商工程师翻了翻他们群聊里的展会地图，抱歉地告诉我，他们也不清楚：“这里只有H1到H3，没有H4。你是不是去分会场找找？”
+  属...
+- `36氪` [谁还在卷参数？WAIC2026全是能干活的实体AI！](https://36kr.com/p/3903383663478403?f=rss)
+>                7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。
+  
+  
+  过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向...
+- `36氪` [从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发](https://36kr.com/p/3903365398185857?f=rss)
+> 文 | 阿至
+  封面来源｜Pexels
+  中国低轨卫星星座的规模化部署已经进入关键时间窗口。
+  一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。
+  当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎么把卫星打上去”转向一个更务...
+- `36氪` [腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线](https://36kr.com/p/3901396207584902?f=rss)
+> 腾讯云的企业级智能体平台，正式出海了。
+  7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。
+  ADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、...
+- `36氪` [从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展](https://36kr.com/p/3902007640459145?f=rss)
+> 史上最热的WAIC都整了哪些活？看这一篇就够了。
+  文｜邓咏仪 周鑫雨 王欣逸 温丽虹
+  编辑｜张雨忻
+  如果你想知道今年的AI圈第一盛事热度如何，只要来上海感受逼近40度的高温，就能同频共振。
+  没有很热，只有更热。
+  7月17日，2026年世界人工智能大会在上海世博展览馆正式开幕。展览面积首次突破10万平方米，1100余家企业参展，3000余项展品集中亮相，超300款产品全球首...
+- `36氪` [红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发](https://36kr.com/p/3899612612494976?f=rss)
+> 36氪获悉，红熊AI今日宣布完成数亿元人民币A+轮融资，投后估值接近30亿元人民币。本轮融资由浙江九纬私募基金、嘉兴彰元创业投资与老股东格睿丰联合投资。这是红熊AI在短短15个月内完成的第6轮融资。
+  据了解，本轮融资资金将主要用于持续深化AI记忆科学的类人大脑基础研究、加速OpenBear通用大模型与MemoryBear记忆科学系统的深度融合，以及扩大智能客服、智能营销、ChatBI与智...
+- `36氪` [8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市](https://36kr.com/p/3903220264404608?f=rss)
+> 今日热点导览
+  任泽平团队回应VIP群聊解散
+  市场监管总局发布《个体工商户信用信息应用指南》
+  “工业维生素”价格暴涨，钼铁一天跳涨1500元
+  黄仁勋皮夹克拍出96万美元天价
+  韩国承诺放宽韩元获取渠道，力争实现“自由兑换货币”目标
+  TOP3大新闻
+  长鑫科技中签号出炉：共约770.22万个
+  36氪获悉，长鑫科技披露首次公开发行股票网上中签结果，中签号码共有77022...
 - `36氪` [科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码](https://36kr.com/p/3902428274427525?f=rss)
 > 在2026世界人工智能大会（WAIC 2026）上，安顿健康以两项首发引发广泛关注：我国首个生命预警表标准，以及行业首个七诊合参中医机器人——安顿中医机器人。
   
@@ -29,34 +71,8 @@
   7月15日，沉寂近5年的ofo小黄车官方微信公众号突然更新。此次公众号发布的内容，是一则皮肤病...
 - `36氪` [印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界](https://36kr.com/p/3900439867147909?f=rss)
 > 2026 世界人工智能大会（WAIC 2026）于 7 月 17 日正式开幕。作为全球人工智能领域的顶级盛会，本届大会以“智能伙伴 共创未来”为主题。阶跃星辰董事长、千里科技董事长印奇作为特邀嘉宾出席大会开幕式并在大会主论坛（上午场）发表主题演讲《当智能体进入物理世界》。回顾 15 年 AI 创业历程，他表示，AI 创业已从小众赛道成为全球重要共识。今天的 AI 研究者和创业者既站在几代科学...
-- `36氪` [氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务](https://36kr.com/p/3896564485572489?f=rss)
-> 大公司：
-  成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验
-  36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹备工作，正式进入I期临床试验阶段。该疫苗抗原含量为常规剂量四倍，适用于60岁以上老年人群及高风险人群，国内尚无同类产品获批上市，有望填补市场空白。
-  苏宁易购携手人工智能合作伙伴，布局...
-- `36氪` [对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环](https://36kr.com/p/3899556701128578?f=rss)
-> 7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。森博科技董事长于林义在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务公司转向AI驱动科技服务公司的实践路径。
-  本届WAIC以“智能伙伴，共创未来”为主题。相比...
-- `36氪` [2026最受投资人关注人工智能/具身智能企业50揭晓](https://36kr.com/p/3899597215745664?f=rss)
->  
-  人工智能正在进入一个新的产业周期。
-  过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。
-  市场率先给出了回应。据36氪研究院测算，中国具身智能市场规模已从2018年的2133亿元增长至2025年的9150亿元，2026年有望突破万亿关口...
-- `36氪` [最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套](https://36kr.com/p/3899439565325953?f=rss)
-> 随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。
-  7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。
-  据中科天塔总经理曾伟刚介绍，此次投产的智能产线占...
-- `36氪` [我们有多久，没长久地喜欢过一个东西了？](https://36kr.com/p/3899428949132932?f=rss)
-> 我们有多久没有长久地喜欢过一个东西了？
-  在这个注意力被成倍压缩、审美红利稍纵即逝的快消时代，新鲜感的贬值速度快得惊人。换一部手机，追一个新坑，或者刷完几个短视频，我们的注意力就被迅速瓜分干净，连喜爱都变得行色匆匆。
-  但在这个热闹又健忘的环境里，却存在着反常的例外——一个不说话，甚至从不微笑的潮流手办，竟然被人们安静地喜爱了整整二十年。  
-  为什么不同年龄、不同背景的人，...
-- `36氪` [科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络](https://36kr.com/p/3899398088509319?f=rss)
-> [中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共同见证了该网络“网络覆盖好，业务体验稳”——上行100MHz生效比83%、上行边缘差点（<20Mbps）占比仅0.1%。优异的现网测评结果标志着联通好网络在北京区...
-- `36氪` [震业新材完成超亿元A轮融资，招商致远、玉柴股份、海富产业基金领投｜36氪首发](https://36kr.com/p/3898476192941697?f=rss)
-> 36氪获悉，ADI金属材料企业震业新材近期完成超亿元A轮融资。
-  本轮融资由招商致远资本、玉柴股份、海富产业基金领投，中金资本、江苏省沿海集团、黄海金控跟投，所融资金将主要用于ADI材料产线扩建、核心工艺迭代研发，以及乘用车、商用车、工程机械等下游场景的商业化落地。
-  震业新材告诉36氪：“在ADI行业，1200MPa抗拉强度、4%延伸率是行业通用性能标准。延伸率达到5%~6%以上，才算...
+- `少数派` [派早报：锂电池消费税分阶段恢复征收](https://sspai.com/post/112498)
+> 锂电池消费税分阶段恢复征收白宫提词器操作员利用内幕信息下注被查LG 显示器连接电脑后自动安装广告程序新一代豆包手机不再模拟点击操作亚马逊错发数亿美元云服务账单京沪线试点 12306 预约购票，最早提前 60 天看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验](https://sspai.com/post/112374)
 > 这篇文章是TDSStudio在少数派上的第26篇文章，依然是全平台首发。1000XTheColleXion，这是索尼1000X系列的十周年纪念产品线。完全想不到跟群友们畅聊MDR-1000X的时代已经 ...查看全文
 - `少数派` [小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？](https://sspai.com/post/112398)
@@ -75,59 +91,70 @@
 > 又到了一年一度的Apple高校优惠活动季，高校师生们可以在活动期间，购买指定型号iPad或Mac设备，获得指定配件产品，享受到限时的教育优惠+买赠活动。与往年不同的是，今年的Apple高校优惠活动不论 ...查看全文
 - `少数派` [具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性](https://sspai.com/post/112375)
 > 全面 ARM 化后的第一个 macOS 版本，Golden Gate 27 还有这些变化。查看全文
-- `少数派` [翻译「世界杯」的赛事名称，为什么中文比日文更简洁？](https://sspai.com/post/111086)
-> 国名也好、赛事名称也好，日语走上了片假名这条路——那为什么日本人不能像中文一样，直接造出「美加墨W杯」这样的简称？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/)
-> Article URL: https://sgt.hootr.club/blog/home-server-rebirth/
-Comments URL: https://news.ycombinator.com/item?id=48966769
-Points: 15
-# Comments: 4
-- `Hacker News` [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
-> Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard
-Comments URL: https://news.ycombinator.com/item?id=48966713
-Points: 40
-# Comments: 23
-- `Hacker News` [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
-> Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/
-Comments URL: https://news.ycombinator.com/item?id=48966569
-Points: 113
-# Comments: 131
-- `Hacker News` [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)
-> Article URL: https://www.qwencloud.com/pricing/token-plan
-Comments URL: https://news.ycombinator.com/item?id=48966190
-Points: 115
-# Comments: 61
-- `Hacker News` [Half a Second – a book about the XZ backdoor](https://www.half-second.com/)
-> Article URL: https://www.half-second.com/
-Comments URL: https://news.ycombinator.com/item?id=48966139
-Points: 32
-# Comments: 22
-- `Hacker News` [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
-> Article URL: https://twitter.com/Alibaba_Qwen/status/2078759124914098291
-Comments URL: https://news.ycombinator.com/item?id=48966120
-Points: 265
-# Comments: 135
-- `Hacker News` [The Mighty Big Array of Finn Jensen LA8YB](https://la0by.darc.de/LA8YB_EME_MBA.htm)
-> Article URL: https://la0by.darc.de/LA8YB_EME_MBA.htm
-Comments URL: https://news.ycombinator.com/item?id=48965914
+- `Hacker News` [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)
+> Article URL: https://github.com/hgaiser/moonshine
+Comments URL: https://news.ycombinator.com/item?id=48972970
 Points: 12
-# Comments: 3
-- `Hacker News` [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files)
-> Article URL: https://github.com/openai/codex/pull/33972/files
-Comments URL: https://news.ycombinator.com/item?id=48965850
-Points: 55
-# Comments: 16
-- `Hacker News` [The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]](https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf)
-> Article URL: https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf
-Comme...
-- `Hacker News` [Scrying the AMD GFX1250 LLVM Tea Leaves](https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea)
-> Article URL: https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea
-Comments URL: https://news.ycombinator.com/item?id=48965161
-Points: 35
+# Comments: 2
+- `Hacker News` [We want Texans to know their rights](https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion)
+> Article URL: https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion
+Comments URL: https://news.ycombinator.com/item?id=48972062
+Points:...
+- `Hacker News` [Grok-iOS – remote Grok Build from your iPhone over ACP](https://github.com/Pedroshakoor/grok-build-ios)
+> Article URL: https://github.com/Pedroshakoor/grok-build-ios
+Comments URL: https://news.ycombinator.com/item?id=48971999
+Points: 10
 # Comments: 0
+- `Hacker News` [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer)
+> Article URL: https://spectrum.ieee.org/biggest-probabilistic-computer
+Comments URL: https://news.ycombinator.com/item?id=48971938
+Points: 42
+# Comments: 6
+- `Hacker News` [AI advice made people less accurate but more confident – sudy](https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study)
+> Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study
+Comments URL: https://news.ycombinator.com/item?id=48971738
+Points: 294
+# Comments: 162
+- `Hacker News` [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html)
+> Article URL: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html
+Comments URL: https://news.ycombinator.com/item?id=48971566
+Points: 57
+# Comments: 43
+- `Hacker News` [Orion Browser by Kagi](https://orionbrowser.com/)
+> Article URL: https://orionbrowser.com/
+Comments URL: https://news.ycombinator.com/item?id=48970894
+Points: 75
+# Comments: 75
+- `Hacker News` [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
+> Article URL: https://justsomebody.dev/blog/mikrotik-home-router
+Comments URL: https://news.ycombinator.com/item?id=48970772
+Points: 73
+# Comments: 65
+- `Hacker News` [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g)
+> Article URL: https://www.hmd.com/en_int/hmd-touch-4g
+Comments URL: https://news.ycombinator.com/item?id=48969983
+Points: 62
+# Comments: 63
+- `Hacker News` [Moonshot AI suspends new subscriptions due to Kimi K3 demand](https://twitter.com/kimi_moonshot/status/2078855608565207130)
+> Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130
+Comments URL: https://news.ycombinator.com/item?id=48969291
+Points: 237
+# Comments: 97
+- `TechCrunch` [Netflix paid $587M for Ben Affleck’s AI filmmaking startup](https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/)
+> Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.
+- `TechCrunch` [What to watch for after Jensen Huang’s Japan visit](https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/)
+> Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.
+- `TechCrunch` [Can an Apple lawsuit derail OpenAI’s hardware plans?](https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/)
+> On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.
+- `TechCrunch` [TechCrunch Mobility: The battle over robotaxi rules](https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.
+- `TechCrunch` [‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’](https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/)
+> "Everybody knows the Greeks are inside."
+- `TechCrunch` [Nonprofit Current AI is racing to build the World Wide Web of AI, free for all](https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/)
+> Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.
 - `TechCrunch` [Waymo says San Francisco service has resumed after one-hour pause](https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/)
 > This isn’t the first time power outages have caused issues for Waymo.
 - `TechCrunch` [Kimi: Threat or menace?](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
@@ -136,38 +163,26 @@ Points: 35
 > Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.
 - `TechCrunch` [Federal employees can download TikTok on their work phones again](https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/)
 > The Department of Justice says that federal employees can now download TikTok on their government devices.
-- `TechCrunch` [A 600-mile road trip (and data) proves EV charging doesn’t suck anymore](https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/)
-> A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.
-- `TechCrunch` [Neil Rimer thinks the AI money is coming back out](https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/)
-> Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.
-- `TechCrunch` [Applications close in 48 hours — here’s everything Australian founders need to know about Stripe ...](https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/)
-> The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with...
-- `TechCrunch` [Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs](https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/)
-> From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.
-- `TechCrunch` [Databricks hits $188B valuation, extending its run as AI’s favorite second act](https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/)
-> Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.
-- `TechCrunch` [The Zoom hack that says, ‘Don’t record me’](https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/)
-> If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?
+- `The Verge` [This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four ...](https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review)
+> Just why? ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:R...
+- `The Verge` [Kodak EC35 is a dirt-cheap point-and-shoot film camera](https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera)
+> Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25m...
+- `The Verge` [I hate that I don’t hate this song made with Suno](https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music)
+> I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially t...
+- `The Verge` [The FBI reportedly won’t investigate ICE anymore](https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults)
+> According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The T...
+- `The Verge` [Orchid is a delightfully retro and approachable hipster synth](https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review)
+> In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases. Electric chord organs let you play full chords with just a press of a button, makin...
+- `The Verge` [Birdfy’s solar-powered smart feeder is down to one of its best prices](https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale)
+> Birdfy has kicked off a midyear sale, taking up to 40 percent off a range of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera, whi...
+- `The Verge` [US Marshals arrest the Tate brothers in Miami](https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami)
+> The manosphere influencers Andrew and Tristan Tate were arrested Saturday in Miami by US Marshals in relation to new rape and sex trafficking charges in England. According to the Associated Press, ...
+- `The Verge` [The Clapper was a bad smart home gadget — and a viral sensation](https://www.theverge.com/podcast/967642/the-clapper-version-history)
+> Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't w...
 - `The Verge` [The future of physical games is not looking great](https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribe...
 - `The Verge` [The grueling, 630-mile road race where the only fuel is sunlight](https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas)
 > On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest. The students design ...
-- `The Verge` [Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation)
-> Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and foun...
-- `The Verge` [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak)
-> Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped wi...
-- `The Verge` [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)
-> Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day...
-- `The Verge` [GoPro’s discounted Max 2 bundle includes $100 worth of accessories](https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale)
-> A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2...
-- `The Verge` [The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time](https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview)
-> Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine...
-- `The Verge` [Surprise! Facial recognition smart locks are actually good](https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review)
-> Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to reme...
-- `The Verge` [Sony’s flagship RGB LED TV is incredible](https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review)
-> The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons & Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting i...
-- `The Verge` [More games should be on rails (literally)](https://www.theverge.com/games/961152/denshattack-review)
-> It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly thro...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
