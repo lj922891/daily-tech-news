@@ -4,12 +4,27 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-21
+# 📰 每日科技日报 — 2026-07-22
 
-> 自动收集于 2026-07-21 13:09 | 共 50 条
+> 自动收集于 2026-07-22 03:19 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [最前线|新奥聚变主办第四届氢硼聚变研讨会，企业估值已超百亿](https://36kr.com/p/3905241313527687?f=rss)
+> 7月21日，由北京新奥聚变能源科技有限公司（简称新奥聚变）主办的第四届氢硼聚变研讨会在河北廊坊开幕。
+  
+  第四届氢硼聚变研讨会现场
+  作为中国最早开展商用聚变能源开发的民营企业，新奥集团于2017年基于从低碳技术向无碳技术的研发升级，开启“无中子、低成本、商用化”的紧凑型聚变研发，重点布局球形环氢硼聚变技术路线。该技术路线具有清洁安全、燃料易得、成本低廉等优势，具有较大的商业化潜力。...
+- `36氪` [8点1氪丨怡颗莓回应“检出致癌物”；美团否认上线“本科专送”“硕士优送”等配送服务；美方喊话三星电子、SK海力士分享超额利润](https://36kr.com/p/3906043683296648?f=rss)
+> 今日热点导览
+  字节XR业务PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人
+  ZARA客服回应“阔腿裤存安全隐患”：专员正在核实处理
+  SpaceX将于8月4日发布上市后首份财报
+  恋与深空多平台账号停更
+  美国发布全球安全警示
+  TOP3大新闻
+  怡颗莓回应“检出致癌物”：国内销售草莓来自云南
+  近日，全球最大浆果品牌“怡颗莓”（Driscoll's）陷入食品安全争议...
 - `36氪` [茅台涨了100元，白酒还欠3000亿](https://36kr.com/p/3905234473158279?f=rss)
 > 作者 | 谢芸子
   编辑 | 张帆
@@ -62,21 +77,10 @@
   
   7月9日，深圳存储芯片设计公司「芯天下」再次递表港交所。事实上，芯天下早在今年1月9日就递交过招股书，但6个月后失效。此次IPO由广发证券、中信证券联席保荐。
 ...
-- `36氪` [上市前夜 | 常州嘉轩智能冲港股IPO，全球第一也很缺钱](https://36kr.com/p/3904783876982405?f=rss)
-> 本文约2800字，建议阅读6分钟
-  作者 | 彭孝秋
-  
-   编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。
-  
-  近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。
-  虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在全球市占率80...
-- `36氪` [上市前夜 | “喜羊羊”老板二冲港股IPO，奥动新能源近三年半亏掉14.7亿](https://36kr.com/p/3904781968508550?f=rss)
-> 本文约2800字，建议阅读6分钟
-  作者 | 彭孝秋
-  
-   编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第七期——奥动新能源。
-  
-  7月19日，奥动新能源再次向港交所主板递交上市申请，独家保荐人为招银国际。事实上，这已是奥动新能源的第二次递表，首次递表在2025年12月12日，但6个月未...
+- `少数派` [角落新声｜我的上帝模式，一名设计师创作环境的演变](https://sspai.com/post/112109)
+> 声音只是其中一个切片。客观来看，它记录的是我的创作环境如何不断迭代；但从个人经历来看，它真正映照的是我对创作这件事的理解如何变化。查看全文
+- `少数派` [派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等](https://sspai.com/post/112597)
+> 英伟达推出合成视频检测器 NIM、WordPress 曝出高危漏洞等。查看全文
 - `少数派` [社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车](https://sspai.com/post/112582)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [装上 Fedora 的 Surface Pro：一台老设备的新可能](https://sspai.com/post/112200)
@@ -93,100 +97,96 @@
 > 高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。查看全文
 - `少数派` [派早报：锂电池消费税分阶段恢复征收](https://sspai.com/post/112498)
 > 锂电池消费税分阶段恢复征收白宫提词器操作员利用内幕信息下注被查LG 显示器连接电脑后自动安装广告程序新一代豆包手机不再模拟点击操作亚马逊错发数亿美元云服务账单京沪线试点 12306 预约购票，最早提前 60 天看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验](https://sspai.com/post/112374)
-> 这篇文章是TDSStudio在少数派上的第26篇文章，依然是全平台首发。1000XTheColleXion，这是索尼1000X系列的十周年纪念产品线。完全想不到跟群友们畅聊MDR-1000X的时代已经 ...查看全文
-- `少数派` [小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？](https://sspai.com/post/112398)
-> 小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)
-> Article URL: https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first
-Comments URL: https://news.ycombinator.com/item?id=48991139
-Points: 54
-# Comments: 31
-- `Hacker News` [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
-> Article URL: https://qwen.ai/blog?id=qwen-image-3.0
-Comments URL: https://news.ycombinator.com/item?id=48989701
-Points: 255
-# Comments: 118
-- `Hacker News` [Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts](https://exsitu.app/map)
-> Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/sources. The Index specifically looks at weste...
-- `Hacker News` [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
-> Article URL: https://www.armaangomes.com/blogs/doom/
-Comments URL: https://news.ycombinator.com/item?id=48987846
-Points: 95
-# Comments: 20
-- `Hacker News` [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/)
-> Article URL: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/
-Comments URL: https://news.ycombinator.com/item?id=48987831
-Points: 47
-# Comments: 38
-- `Hacker News` [Incremental – A library for incremental computations](https://github.com/janestreet/incremental)
-> Article URL: https://github.com/janestreet/incremental
-Comments URL: https://news.ycombinator.com/item?id=48987822
-Points: 262
-# Comments: 50
-- `Hacker News` [VTubing: How a Japanese Phenomenon Is Going Worldwide](https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide)
-> Article URL: https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide
-Comments URL: https://news.ycombinator.com/item?id=48987775
-Points: 57
-# Comments: 40
-- `Hacker News` [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
-> Article URL: https://forum.jellyfin.org/t-project-leadership-changes
-Comments URL: https://news.ycombinator.com/item?id=48986091
-Points: 283
-# Comments: 247
-- `Hacker News` [I wrote an bash enumerator because I was sick of xargs](https://numerlab.org/2025/07/20/bashumerate-enumerator/)
-> Article URL: https://numerlab.org/2025/07/20/bashumerate-enumerator/
-Comments URL: https://news.ycombinator.com/item?id=48984270
-Points: 159
-# Comments: 147
-- `Hacker News` [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/)
-> Article URL: https://vincentwoo.com/3d/grace_cathedral/
-Comments URL: https://news.ycombinator.com/item?id=48984254
-Points: 206
-# Comments: 45
-- `TechCrunch` [Gritt exits stealth with $34 million for robots to build solar plants — then, everything else](https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/)
-> Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.
-- `TechCrunch` [Anthropic’s landmark $1.5B copyright settlement is approved](https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/)
-> The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.
-- `TechCrunch` [Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation](https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/)
-> The de-extinction startup is looking to double or triple its previous valuation, according to the report.
-- `TechCrunch` [Trump’s latest AI czar has already resigned](https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/)
-> The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.
-- `TechCrunch` [Google is working on a new AI chip designed to make Gemini more efficient](https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/)
-> Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.
-- `TechCrunch` [AI’s most important protocol is getting a little bit easier to use](https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/)
-> Under the new system, the protocol will take a looser, "stateless" approach to session IDs on the server side, similar to how most ordinary websites already work.
-- `TechCrunch` [X relaunches a rebuilt Android app after year-long effort](https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/)
-> X says the rebuilt version of its Android app is now available globally.
-- `TechCrunch` [OpenAI is scared of open-weight models. Should the US be?](https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/)
-> Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.
-- `TechCrunch` [Natural raises $30M to reinvent payments for AI agents — and take on Stripe](https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/)
-> The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.
-- `TechCrunch` [Judge pauses $110B Paramount-Warner Bros. merger](https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/)
-> The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.
-- `The Verge` [The wireless headset that gets hot-swappable batteries right](https://www.theverge.com/tech/967153/glorious-infiniteplay-wireless-gaming-headset-hands-on)
-> New gaming gear is always promising to shave milliseconds off latency or response time. The improvements usually aren't obvious. But the Glorious GHS InfinitePlay wireless headset, on the other han...
-- `The Verge` [Nintendo keeps making shooters more friendly and approachable](https://www.theverge.com/entertainment/968220/splatoon-raiders-review-nintendo-switch-2)
-> Nintendo does a lot of weird things, but Splatoon might just be one of the strangest - or at least the boldest. The series started as an attempt to muscle into the ultra-competitive online shooter ...
-- `The Verge` [Halliday’s latest smart glasses feature a much-improved display](https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables)
-> I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my ...
-- `The Verge` [America needs to stop getting shocked by Chinese AI](https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment)
-> Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentat...
-- `The Verge` [Who’s afraid of the big, bad GPU?](https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact)
-> How does AI make you feel? Are you excited to “vibe-code” your smart home? Or anxious about all the added pollution and billions of gallons of water used by data centers? Dig a little deeper and yo...
-- `The Verge` [Here are the 30,000 songs Sony is suing Udio’s AI music generator over](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright)
-> Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog...
-- `The Verge` [The FCC is planning to retroactively ban disguised DJI gadgets](https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra)
-> Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's ge...
-- `The Verge` [The Odyssey turned me into an IMAX believer](https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan)
-> After seeing Christopher Nolan's The Odyssey for the first time early last week, I came away impressed, but somewhat conflicted about two of the film's more fantastical set pieces. While those scen...
-- `The Verge` [SpaceX in your index fund, explained](https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained)
-> Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like...
-- `The Verge` [Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15](https://www.theverge.com/gadgets/968191/humble-2k-megahits-bundle-xcom-borderlands-duke-nukem-deal-sale)
-> The aptly-named “2K Megahits 2026 Bundle” from Humble includes 15 Steam games for $15. It’s a smattering of the publisher 2K’s biggest games of the 2010s, including BioShock Infinite, Risk of Rain ...
+- `Hacker News` [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
+> Article URL: https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/
+Comments URL: https://news.ycombinator.com/item?id=49000864
+Points: 10
+# Comments: 4
+- `Hacker News` [Ten Steps Towards Happiness (2015)](http://hintjens.com/blog:99)
+> Article URL: http://hintjens.com/blog:99
+Comments URL: https://news.ycombinator.com/item?id=49000600
+Points: 30
+# Comments: 12
+- `Hacker News` [How an AI Anime Is Created](https://www.aventos.dev/our-process?view=blog)
+> Article URL: https://www.aventos.dev/our-process?view=blog
+Comments URL: https://news.ycombinator.com/item?id=49000429
+Points: 18
+# Comments: 18
+- `Hacker News` [A flaky test exposed a Redis client use-after-free](https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/)
+> Article URL: https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/
+Comments URL: https://news.ycombinator.com/item?id=49000250
+Points: 31
+# Comments: 10
+- `Hacker News` [It's a shame what's happened to radio](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/)
+> Article URL: https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/
+Comments URL: https://news.ycombinator.com/item?id=48999825
+Points: 31
+# Comments: 9
+- `Hacker News` [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
+> Article URL: https://fireworks.ai/blog/kimik3-fable
+Comments URL: https://news.ycombinator.com/item?id=48999291
+Points: 344
+# Comments: 198
+- `Hacker News` [Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want](https://www.getcomputable.com/)
+> Hey we are Computable. We spent years building trading infrastructure at Jump Trading and Coinbase. From that point of view, compute looks like energy markets before 2000: everything trades through...
+- `Hacker News` [Gemini last models: temperature, top_p, and top_k are deprecated and ignored](https://ai.google.dev/gemini-api/docs/latest-model)
+> Article URL: https://ai.google.dev/gemini-api/docs/latest-model
+Comments URL: https://news.ycombinator.com/item?id=48998606
+Points: 46
+# Comments: 16
+- `Hacker News` ["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok)
+> Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok
+Comments URL: https://news.ycombinator.com/item?id=48998404
+Points: 129
+# Comments: 49
+- `Hacker News` [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
+> Article URL: https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/
+Comments URL: https://news.ycombinator.com/item?id=48998362
+Points: 191
+# Comments: 66
+- `TechCrunch` [Dimension Capital’s $800M third fund shows the intersection of science and compute is booming](https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/)
+> The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.
+- `TechCrunch` [Meta is testing an AI bedtime story app for people with no imagination](https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/)
+> At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.
+- `TechCrunch` [These are the countries moving to ban social media for children](https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/)
+> Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and...
+- `TechCrunch` [OpenAI says Hugging Face was breached by its pre-release models](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/)
+> OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.
+- `TechCrunch` [Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents](https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/)
+> Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.
+- `TechCrunch` [AI and the rise of the universal entertainment app](https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/)
+> Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content...
+- `TechCrunch` [Bucking EV slowdown, Sila raises $300M to expand battery materials factory](https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/)
+> Sila's fresh $300 million round will help it make enough of its silicon-carbon anode material to power more than 100,000 EVs.
+- `TechCrunch` [Einride bets $38M on EV charging as it scales electric trucking](https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/)
+> The acquisition — Einride's first as a publicly traded company — will expand its EV-charging ecosystem as it works to scale its electric trucking business.
+- `TechCrunch` [Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs](https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/)
+> The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products.
+- `TechCrunch` [Data centers expected to use 4x more electricity by 2035](https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/)
+> New data centers built through 2033 could consume as much electricity as India uses today.
+- `The Verge` [Samsung Galaxy Unpacked July 2026: How to watch](https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch)
+> Samsung's next Galaxy Unpacked event is just around the corner, and the company is expected to take the wraps off a bunch of new devices. Based on the rumors and leaks we've seen so far, Samsung's ...
+- `The Verge` [Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over](https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance)
+> On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. Th...
+- `The Verge` [OpenAI says it accidentally hacked Hugging Face with a new AI system](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai)
+> OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and "an even more capable pre-r...
+- `The Verge` [Substack adds an AI detector to help spot blogs written by no one](https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool)
+> Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimat...
+- `The Verge` [Peak Design’s modular Field Bracket has a finder tag built-in](https://www.theverge.com/gadgets/968771/peak-design-camera-field-bracket-kickstarter)
+> I am a very clumsy man. So clumsy, that I have AirTags hanging off practically every camera I own. Have I left my camera in an Uber? Yes. Have I left it on an airplane? Also yes. For me, finder tag...
+- `The Verge` [Nearly every Kindle is steeply discounted at Best Buy](https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale)
+> If you’ve been thinking about picking up a Kindle before school starts, or for your next vacation, now’s a good time to do it. As part of its Black Friday in July sale, Best Buy has bro...
+- `The Verge` [Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads](https://www.theverge.com/tech/968750/apple-upgrade-program)
+> As component and RAM shortages drive prices higher, Apple is reportedly launching an "Apple Upgrade" program for leasing new devices. According to Bloomberg's Mark Gurman, it will work similar to a...
+- `The Verge` [Twitch will let parents stop their teens going live](https://www.theverge.com/tech/968480/twitch-parental-controls-block-streaming-live-dms)
+> Twitch is giving parents more control over how their children are using the streaming platform, including the ability to block them from broadcasting entirely. Parental controls are now available t...
+- `The Verge` [Anthropic’s $1.5 billion book piracy settlement approved by judge](https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved)
+> A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuter...
+- `The Verge` [Instagram will let users endlessly swap the audio on old posts](https://www.theverge.com/news/968243/instagram-creators-replace-audio-tiktok-competition)
+> There's a symbiotic - and sometimes frustrating - relationship between social media sites and the creators that depend on them. Platforms need influencers' and creators' content to keep consumers o...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
