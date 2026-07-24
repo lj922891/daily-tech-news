@@ -4,12 +4,27 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-23
+# 📰 每日科技日报 — 2026-07-24
 
-> 自动收集于 2026-07-23 13:17 | 共 50 条
+> 自动收集于 2026-07-24 03:20 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！](https://36kr.com/p/3909033052722310?f=rss)
+> 7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海落下帷幕。黄浦江畔，热浪与人潮一起涌动。本届大会以“智能伙伴，共创未来”为主题，在世博、张江、西岸三地四馆展开。作为年度人工智能产业观察窗口，WAIC 2026留下的关键信号，不在于展陈规模本身，而在于AI叙事的重心变化：技术展示正在退居幕后，真实场景、系统交付与商业价值被推到台前。
+  这也是36氪“氪话未来”连...
+- `36氪` [8点1氪丨段永平称10年内大概率不会卖泡泡玛特；中国数学家王虹、邓煜获得菲尔兹奖；宜家回应甩卖8处物业：不代表退出中国市场](https://36kr.com/p/3908881985901959?f=rss)
+> 今日热点导览
+  
+   混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型
+   极氪回应“海外锁车”事件
+   客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知
+   哈兰德和亚马尔2.2亿欧元身价破纪录
+   张雪峰女儿再接手三家公司股份
+  
+  TOP 3 大新闻
+  段永平：10年内大概率不会卖泡泡玛特
+  7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最...
 - `36氪` [氪星晚报 ｜DeepSeek今年已增资65%；马斯克：FSD是拉动特斯拉汽车需求的核心驱动力](https://36kr.com/p/3908051015488640?f=rss)
 > 大公司：
   DeepSeek今年已增资65%36氪获悉，据媒体报道，近日，DeepSeek创始人梁文锋一场4小时的投资人闭门会议实录在科技与创投圈刷屏，他明确表示“DeepSeek只有一条主线，即通往通用人工智能（AGI）”，相关话题引发关注。天眼查App显示，DeepSeek关联公司杭州深度求索成立于2023年7月，法定代表人为裴湉，经营范围含工程和技术研究和试验发展、软件开发、人工智能...
@@ -37,7 +52,7 @@
   同样是“Claw热”之后上线的产品，腾讯的三大Agent产品WorkBuddy、QClaw和Marvis迎来了各自不同的命运。
   首先是WorkBuddy，林松涛在此次论坛上公开表示，WorkBuddy的DA...
 - `36氪` [对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式](https://36kr.com/p/3907639172027522?f=rss)
-> 7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。FutureTech负责人张梦钊在WAIC现场接受36氪「氪话未来」特邀专访，围绕FutureTech平台定位、OPC独立先锋挑战赛、AI创业趋势以及初创企业商业化路径等话题，分享了FutureTech如何连接创业团队、产业资源与创新生态，探索A...
+> 7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第���年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。FutureTech负责人张梦钊在WAIC现场接受36氪「氪话未来」特邀专访，围绕FutureTech平台定位、OPC独立先锋挑战赛、AI创业趋势以及初创企业商业化路径等话题，分享了FutureTech如何连接创业团队、产业资源与创新生态，探...
 - `36氪` [硬氪首发 | 大疆系AI自然探索公司获五源、顺为投资，首创水下光学系统](https://36kr.com/p/3906474040153220?f=rss)
 > 硬氪获悉，水下AI自然探索科技公司Deeplore近日完成数千万元种子轮融资，由五源资本、顺为资本联合投资。资金将核心用于研发团队扩建与水下AI技术深耕，加速首款AI潜水面镜落地迭代，搭建水下自然探索智能平台的技术底座。
   一群在消费电子行业征战十余年的大疆老兵，把目光从天空转向了深海。
@@ -46,24 +61,8 @@
 > 7月17日，2026世界人工智能大会（WAIC）在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。蚂蚁数科副总裁、中国区业务发展部总经理孙磊在WAIC现场接受36氪「氪话未来」特邀专访，围绕商业智能体超级工厂、行业垂直大模型、AI工程化能力以及企业智能体落地等话题，分享了蚂蚁数科面向企业智能化升级的最新实践与思考。
   
   本届...
-- `36氪` [36氪首发 | 前华尔街投资人下场造“手”，以“自研视触觉+软硬闭环”破解行业数据难题](https://36kr.com/p/3907536767833473?f=rss)
-> 图源/企业
-  
-   本文约2100字，建议阅读5分钟
-  
-  作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，机器人灵巧操作方案提供商拾玥科技（LumiBot）近日完成数千万元天使轮融资。本轮由某上市公司旗下基金领投。资金将主要用于团队扩张、产品迭代与小批量产线建设，以及灵巧操作数据采集与模型研发。
-  拾玥科技成立于2025年初，专注于为工业制造、精密装配等高精度场景提供灵巧操作解决方案...
-- `36氪` [36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资](https://36kr.com/p/3907532622648453?f=rss)
-> 图源/企业
-  
-   本文约1400字，建议阅读3分钟
-  
-  作者丨欧雪
-  编辑丨袁斯来
-  硬氪获悉，工业AI设计研发解决方案供应商「设序科技」于近日正式完成B轮超亿元融资，累计获超3亿元融资，投资方包括深产投、合鼎共及老股东涌铧投资等。融资将用于市场开拓（含出海）及核心模型技术研发。
-  设序科技成立于2020年，旗下产品“则形AI”是基于自研工业世界模型与自然语言大模型封装的面...
+- `少数派` [派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等](https://sspai.com/post/112677)
+> 欧盟委员会对 Google 处以总计 8.9 亿欧元罚款，Anthropic 扩大 Claude 语音模式支持范围。查看全文
 - `少数派` [新玩意 247｜少数派的编辑们最近买了啥？](https://sspai.com/post/112668)
 > 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@Lotta：海备思文件夹读 ...查看全文
 - `少数派` [小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈](https://sspai.com/post/112428)
@@ -78,8 +77,6 @@
 > 从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。查看全文
 - `少数派` [角落新声｜我的上帝模式，一名设计师创作环境的演变](https://sspai.com/post/112109)
 > 声音只是其中一个切片。客观来看，它记录的是我的创作环境如何不断迭代；但从个人经历来看，它真正映照的是我对创作这件事的理解如何变化。查看全文
-- `少数派` [派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等](https://sspai.com/post/112597)
-> 英伟达推出合成视频检测器 NIM、WordPress 曝出高危漏洞等。查看全文
 - `少数派` [社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车](https://sspai.com/post/112582)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [装上 Fedora 的 Surface Pro：一台老设备的新可能](https://sspai.com/post/112200)
@@ -87,95 +84,92 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Understanding the AI Economy](https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/)
-> Article URL: https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/
-Comments URL: https://news.ycombinator.com/item?id=49020335
-Points: 56
-# Comments: 54
-- `Hacker News` [New Framework Desktop Option with AMD Ryzen AI Max+ Pro 495 and 192GB Memory](https://frame.work/desktop?tab=192gb-coming-soon)
-> Article URL: https://frame.work/desktop?tab=192gb-coming-soon
-Comments URL: https://news.ycombinator.com/item?id=49019694
-Points: 52
-# Comments: 49
-- `Hacker News` [Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose](https://www.worseonpurpose.com/)
-> Article URL: https://www.worseonpurpose.com/
-Comments URL: https://news.ycombinator.com/item?id=49019647
-Points: 80
-# Comments: 55
-- `Hacker News` [EU fines Google €890M for competition breaches over search and apps](https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps)
-> Article URL: https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps
-Comments URL: https://news.ycombinator.com/item?id=49019220
-Points: 101...
-- `Hacker News` [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
-> Article URL: https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734
-Comments URL: https://news.ycombinator.com/item?id=49017344
-Points: 92
-# Comments: 56
-- `Hacker News` [Amiga 1000: Ten years ahead of its time](https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/)
-> Article URL: https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/
-Comments URL: https://news.ycombinator.com/item?id=49017265
-Points: 113
-# Comments: 105
-- `Hacker News` [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html)
-> Article URL: https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html
-Comments URL: https://news.ycombinator.com/item?id=49015635
-Points: 109
-# Comments: 44
-- `Hacker News` [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria)
-> Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria
-Comments URL: https://news.ycombinator.com/item?id=49014007
-Points: 133
-# Comments: 40
-- `Hacker News` [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html)
-> Article URL: http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html
-Comments URL: https://news.ycombinator.com/item?id=49013538
-Points: 120
-# Comments: 34
-- `Hacker News` [Fairphone 6 wide camera experimental Linux support](https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/)
-> Article URL: https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/
-Comments URL: https://news.ycombinator.com/item?id=49012777
-Points: 137
-# Comments: 49
-- `TechCrunch` [Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good](https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/)
-> "I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation," one expert told TechCrunch.
-- `TechCrunch` [ServiceNow bets $40 million on Indian banking software specialist to expand its financial service...](https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/)
-> ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.
-- `TechCrunch` [After shocking quarter, IBM insists that AI isn’t killing the mainframe](https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/)
-> After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.
-- `TechCrunch` [Google justifies its massive AI spending with a booming cloud business](https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/)
-> Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.
-- `TechCrunch` [Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable](https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/)
-> The episode has also intensified a broader debate in Washington over the influx of Chinese open models.
-- `TechCrunch` [Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips](https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/)
-> Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.
-- `TechCrunch` [Social media addiction lawsuit against Meta is dropped](https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/)
-> A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the m...
-- `TechCrunch` [SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown](https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/)
-> SoundCloud has acquired decentralized music platform Nina Protocol, months after the startup announced it would shut down. The deal brings Nina’s artists, editorial archive, and music discovery too...
-- `TechCrunch` [How OpenAI’s human mistake led to the AI-powered hack on Hugging Face](https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/)
-> OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hug...
-- `TechCrunch` [Travis Kalanick’s robotics company raises $1.7B, led by a16z](https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/)
-> Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.
-- `The Verge` [The right-wing boomers protesting data centers have a lot in common with the left](https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans)
-> On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their ...
-- `The Verge` [Google hit with $1 billion fine for breaking EU antitrust rules](https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering)
-> The European Union has fined Google's parent company Alphabet €890 million (about $1 billion) for two separate violations of the bloc's Digital Markets Act (DMA). One penalty is for giving it...
-- `The Verge` [Google now lets you sign in to your account using a selfie video](https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security)
-> Google announced yet another way to gain access to your account if you get locked out, forget your password, or don't have access to the phone, computer, or two-factor authentication apps you typic...
-- `The Verge` [Framework’s premium laptop is shipping with less RAM](https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates)
-> RAMageddon has claimed yet another victim, with Framework now announcing a "major and unfortunate" pricing update for its upcoming premium laptop - which also impacts folks who preordered it. Memor...
-- `The Verge` [Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy](https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine)
-> Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Castle, Galaxy Expl...
-- `The Verge` [Meta won’t have to face the next planned social media addiction trial](https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped)
-> Less than a week before Meta's lawyers were set to return to a Los Angeles courtroom, the plaintiff accusing the platform of inflicting harm dropped the case. Brought by 15-year-old Florida plainti...
-- `The Verge` [Tesla’s revenues are bouncing back, but profits are still weak](https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales)
-> After a dismal two years of weakening demand, falling sales, and damage to its brand by Elon Musk's political activities, Tesla's road to recovery continues apace. On the heels of an impressive del...
-- `The Verge` [Price-hiked iPads are a little cheaper right now](https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale)
-> A number of Apple products got more expensive last month, so we’re happy to find deals wherever and whenever we can. If you’re searching for a high-end iPad, one of the more notable deals currently...
-- `The Verge` [iOS code could reportedly let Apple cut off apps when users miss iPhone payments](https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27)
-> Code found in an iOS 27 beta would allow Apple to put a financed iPhone in "Restricted Mode" if it detects any missed payments, 9to5Mac reports. The finding follows a story from Bloomberg earlier t...
-- `The Verge` [Apple is reportedly testing a MacBook Neo with more RAM](https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade)
-> Following the MacBook Neo's huge popularity so far, Apple is reportedly developing an updated version of its budget laptop with a new processor and more memory, and even has plans to refresh the mo...
+- `Hacker News` [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
+> Article URL: https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/
+Comments URL: https://news.ycombinator.com/item?id=49030547
+Points:...
+- `Hacker News` [Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond](https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607)
+> Article URL: https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607
+Comments URL: https://news.ycombinator.com/item?id=49030474
+Points: 27
+...
+- `Hacker News` [The Visual 6502](http://visual6502.org/JSSim/index.html)
+> Article URL: http://visual6502.org/JSSim/index.html
+Comments URL: https://news.ycombinator.com/item?id=49029538
+Points: 65
+# Comments: 19
+- `Hacker News` [A taxonomy of omnicidal futures involving artificial intelligence (2025)](https://arxiv.org/abs/2507.09369)
+> Article URL: https://arxiv.org/abs/2507.09369
+Comments URL: https://news.ycombinator.com/item?id=49029133
+Points: 60
+# Comments: 48
+- `Hacker News` [98.css](https://jdan.github.io/98.css/#status-bar)
+> Article URL: https://jdan.github.io/98.css/#status-bar
+Comments URL: https://news.ycombinator.com/item?id=49028927
+Points: 299
+# Comments: 62
+- `Hacker News` [Mourning Dan Williams](https://lwn.net/Articles/1084545/)
+> Article URL: https://lwn.net/Articles/1084545/
+Comments URL: https://news.ycombinator.com/item?id=49027052
+Points: 32
+# Comments: 0
+- `Hacker News` [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
+> I’ve been building Echo (https://echo.tracerml.ai/), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.It sta...
+- `Hacker News` [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
+> Article URL: https://lukekanies.com/writing/building-on-atproto/
+Comments URL: https://news.ycombinator.com/item?id=49025984
+Points: 136
+# Comments: 64
+- `Hacker News` [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
+> Article URL: https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements
+Comments URL: https://news.ycombinator.com/item?id=49025831
+Points: 76
+# Comments: 21
+- `Hacker News` [Show HN: Claude-thermos keeps your Claude session warm for you](https://github.com/izeigerman/claude-thermos)
+> Article URL: https://github.com/izeigerman/claude-thermos
+Comments URL: https://news.ycombinator.com/item?id=49024882
+Points: 82
+# Comments: 70
+- `TechCrunch` [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/)
+> We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.
+- `TechCrunch` [Meet the judges who will crown Australia’s next breakout startup](https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/)
+> TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.
+- `TechCrunch` [Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/)
+> Shashua has been invited to take the chairman of the board seat.
+- `TechCrunch` [AMD takes on Nvidia with its Helios AI rack-scale system](https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/)
+> AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
+- `TechCrunch` [Patreon lays off 20% of its workforce](https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/)
+> In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.
+- `TechCrunch` [Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks](https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/)
+> In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.
+- `TechCrunch` [Tesla’s door handles may spur new US safety rules](https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/)
+> The new rule-making process follows a series of incidents, including fatal ones, in which people have become stuck inside cars.
+- `TechCrunch` [Meta drops out of a major clean energy pact as its natural gas buildout accelerates](https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/)
+> Meta has made significant investments in natural gas over the past year. Now it's dropping out of an industry renewable energy group.
+- `TechCrunch` [Anthropic updates Claude voice mode with more capable models](https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/)
+> Claude's new voice model will let you reschedule your meeting or draft an email.
+- `TechCrunch` [AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing](https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/)
+> AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.
+- `The Verge` [Alexa Plus is getting an AI update to handle more complicated instructions](https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices)
+> Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up wit...
+- `The Verge` [The Echo Show 21 is a great smart home hub that’s $80 off](https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale)
+> Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to contro...
+- `The Verge` [FCC Chairman Brendan Carr’s war on the First Amendment](https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment)
+> As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wield...
+- `The Verge` [Claude’s voice mode is now available for Opus and Sonnet](https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai)
+> Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extendin...
+- `The Verge` [Patreon is laying off 20 percent of workers](https://www.theverge.com/tech/970211/patreon-layoffs-ai)
+> Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these ...
+- `The Verge` [Corsair’s PC case with a panoramic glass design is $70 off](https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale)
+> On the hunt for a PC case that’s loaded with features and has a unique look? Amazon, Best Buy, and Corsair are selling the Corsair Frame 4500X RS for $119.99, a $70 discount from the usual price. T...
+- `The Verge` [Tesla’s robotaxi promises are clashing with reality](https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk)
+> In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more peo...
+- `The Verge` [Geekbench 7 will push your computer or phone even harder for better benchmarking](https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update)
+> Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned multi-core test, and ...
+- `The Verge` [OpenAI is making big claims as it rolls out ChatGPT Health to everyone](https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims)
+> OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashl...
+- `The Verge` [Amazon puts Luna cloud-streamed games like Fallout 4 inside Prime Video](https://www.theverge.com/streaming/970099/amazon-prime-video-luna-gaming)
+> The new strategy that Amazon gaming exec Jeff Gattis talked to The Verge about last month is getting clearer now that Prime Video has added a new Games tab on Fire TV devices. With Prime Gaming, Am...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
