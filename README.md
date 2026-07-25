@@ -4,12 +4,24 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-24
+# 📰 每日科技日报 — 2026-07-25
 
-> 自动收集于 2026-07-24 13:11 | 共 50 条
+> 自动收集于 2026-07-25 03:18 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)
+> 今日热点导览
+  
+   小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患
+   微信撤回消息后可删除提示字
+   怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权
+   菲尔兹奖得主雅各布·齐默曼将加入OpenAI
+   欧盟对谷歌处以8.9亿欧元罚款
+  
+  TOP3大新闻
+  宇树科技CEO王兴兴登上《时代》杂志封面
+  当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人...
 - `36氪` [AnySearch 面向全球推出 “学生与开发者成长计划”](https://36kr.com/p/3909565569324163?f=rss)
 > 7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“AnySearch 学生与开发者成长计划”（AnySearch Student & Developer Program）。该计划面向全球学生与开发者开放，旨在通过提供开放的 AI 搜索基础设施，支持更多 AI 创造者开展学术研究、开源创新和 AI 应用开发。
   
@@ -70,12 +82,6 @@
 > 从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。
   林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。
   林下环境复杂，传统人工作...
-- `36氪` [专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI时代做产品](https://36kr.com/p/3907953777120385?f=rss)
-> 文｜周鑫雨
-  编辑｜张雨忻
-  什么样画像的AI创业者会饱受瞩目？不同投资人心里或许有不同的答案，但其中一个答案一定是：剪映系。
-  陈冕，Lovart、LibTV等热门创作工具的缔造者；明超平，AI Coding社区YouWare的创始人，2025年一级市场最火的95后；闹闹，其打造的AI视频创作工具OiiOii，被高瓴、锦秋投资......
-  他们履历的共同点是：曾在剪映、CapCu...
 - `少数派` [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/112692)
 > 📅本周新预告《复仇者联盟5：毁灭之日》正式预告7月20日，电影《复仇者联盟5：毁灭之日》发布了正式预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡、小罗伯特· ...查看全文
 - `少数派` [角落新声｜数字与实体、有线与无线：我的多场景有声角落构建](https://sspai.com/post/112232)
@@ -99,96 +105,95 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [LLMs Are Still Toxic, Stuck in the Past, and Bad at Math](https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math)
-> Article URL: https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math
-Comments URL: https://news.ycombinator.com/item?id=49034838
-Points: 4
-# Comments: 0
-- `Hacker News` [Programming language file extensions that match ISO 3166-1 alpha-2 country code](https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/)
-> Article URL: https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/
-Comments URL: https://news.ycombinator.com/item?id=49034673
-Points: 6
-# Co...
-- `Hacker News` [Why is programming so captivating, yet so agonizing?](https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing)
-> Article URL: https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing
-Comments URL: https://news.ycombinator.com/item?id=49034468
-Points: 4
-# Comments: 0
-- `Hacker News` [I Tried Building a Real App with AI. It Took a Year](https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/)
-> Article URL: https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/
-Comments URL: https://news.ycombinator.com/item?id=49034342
-Points: 8
-# Comments: 0
-- `Hacker News` [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
-> Article URL: https://hhh.hn/hanwha-github-token/
-Comments URL: https://news.ycombinator.com/item?id=49034292
-Points: 3
-# Comments: 2
-- `Hacker News` [The case for MUDs in modern times](https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times)
-> Article URL: https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times
-Comments URL: https://news.ycombinator.com/item?id=49034217
-Points: 28
-# Comments: 25
-- `Hacker News` [The IBM PC, Part 1: Arrival](https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/)
-> Article URL: https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/
-Comments URL: https://news.ycombinator.com/item?id=49033916
-Points: 20
+- `Hacker News` [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
+> Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/
+Comments URL: https://news.ycombinator.com/item?id=49042751
+Points: 42
 # Comments: 3
-- `Hacker News` [Game of Trees – Git-based version control from OpenBSD folks](https://www.gameoftrees.org/)
-> Article URL: https://www.gameoftrees.org/
-Comments URL: https://news.ycombinator.com/item?id=49033412
-Points: 18
-# Comments: 1
-- `Hacker News` [How Do We Stop Vibe Coding?](https://alexklos.ca/blog/how-do-we-stop-vibe-coding)
-> Article URL: https://alexklos.ca/blog/how-do-we-stop-vibe-coding
-Comments URL: https://news.ycombinator.com/item?id=49033388
-Points: 7
+- `Hacker News` [Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools)
+> Article URL: https://github.com/apresta/max-studio-tools
+Comments URL: https://news.ycombinator.com/item?id=49041546
+Points: 26
 # Comments: 0
-- `Hacker News` [Launching Health in ChatGPT to US Users](https://openai.com/index/health-in-chatgpt/)
-> Article URL: https://openai.com/index/health-in-chatgpt/
-Comments URL: https://news.ycombinator.com/item?id=49033363
-Points: 22
-# Comments: 31
-- `TechCrunch` [Facebook launches a dedicated Marketplace app for sellers, adds a free verification system](https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/)
-> Seller is a dedicated Marketplace app for people who list and sell items frequently.
-- `TechCrunch` [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/)
-> We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.
-- `TechCrunch` [Meet the judges who will crown Australia’s next breakout startup](https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/)
-> TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.
-- `TechCrunch` [Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics](https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/)
-> Shashua has been invited to take the chairman of the board seat.
-- `TechCrunch` [AMD takes on Nvidia with its Helios AI rack-scale system](https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/)
-> AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.
-- `TechCrunch` [Patreon lays off 20% of its workforce](https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/)
-> In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.
-- `TechCrunch` [Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks](https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/)
-> In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.
-- `TechCrunch` [Tesla’s door handles may spur new US safety rules](https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/)
-> The new rule-making process follows a series of incidents, including fatal ones, in which people have become stuck inside cars.
-- `TechCrunch` [Meta drops out of a major clean energy pact as its natural gas buildout accelerates](https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/)
-> Meta has made significant investments in natural gas over the past year. Now it's dropping out of an industry renewable energy group.
-- `TechCrunch` [Anthropic updates Claude voice mode with more capable models](https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/)
-> Claude's new voice model will let you reschedule your meeting or draft an email.
-- `The Verge` [Whack-a-drone](https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason)
-> In Pasadena, California, there's a cute red brick courtyard where one storefront isn't like the rest. The glass doors open onto a sparse industrial hallway, which leads to a sunlit foyer with a lar...
-- `The Verge` [TikTok’s protection of minors should not be opt-in, warns EU](https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy)
-> TikTok has attracted the ire of the European Union over its protection of children who use the video sharing platform. The European Commission announced preliminary findings today under the Digital...
-- `The Verge` [Facebook considers giving up and becoming TikTok](https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates)
-> Facebook is planning some big changes to try and keep its users from jumping to rival social platforms like TikTok - changes that sound dubiously similar to becoming a TikTok clone. Facebook head T...
-- `The Verge` [Microsoft pressures LG into killing unwanted McAfee ads](https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown)
-> Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups. In response to complaints about the LG bloatware, Microsoft's Windows chi...
-- `The Verge` [Alexa Plus is getting an AI update to handle more complicated instructions](https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices)
-> Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up wit...
-- `The Verge` [The Echo Show 21 is a great smart home hub that’s $80 off](https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale)
-> Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to contro...
-- `The Verge` [FCC Chairman Brendan Carr’s war on the First Amendment](https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment)
-> As the chairman of the Federal Communications Commission, Brendan Carr has authority over the nation’s TV, radio, and internet. But since Donald Trump was elected to his second term, Carr has wield...
-- `The Verge` [Claude’s voice mode is now available for Opus and Sonnet](https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai)
-> Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extendin...
-- `The Verge` [Patreon is laying off 20 percent of workers](https://www.theverge.com/tech/970211/patreon-layoffs-ai)
-> Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these ...
-- `The Verge` [Corsair’s PC case with a panoramic glass design is $70 off](https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale)
-> On the hunt for a PC case that’s loaded with features and has a unique look? Amazon, Best Buy, and Corsair are selling the Corsair Frame 4500X RS for $119.99, a $70 discount from the usual price. T...
+- `Hacker News` [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
+> Article URL: https://artificialanalysis.ai/models
+Comments URL: https://news.ycombinator.com/item?id=49040741
+Points: 166
+# Comments: 109
+- `Hacker News` [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
+> Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability
+Comments URL: https://news.ycombinator.com/item?id=49040296
+Points: 224
+# Comments: 38
+- `Hacker News` [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
+> Article URL: https://ui.gsxhq.dev/
+Comments URL: https://news.ycombinator.com/item?id=49039395
+Points: 57
+# Comments: 8
+- `Hacker News` [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+> https://www.anthropic.com/claude-opus-5-system-card
+
+Comments URL: https://news.ycombinator.com/item?id=49038433
+Points: 1357
+# Comments: 735
+- `Hacker News` [Don't Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
+> Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4
+Comments URL: https://news.ycombinator.com/item?id=49038298
+Points: 144
+# Comments: 102
+- `Hacker News` [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
+> Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker
+Comments URL: https://news.ycombinator.com/item?id=49038060
+Points: 441
+# Comments: 248
+- `Hacker News` [Unitree As2-W](https://www.unitree.com/As2-W/)
+> Article URL: https://www.unitree.com/As2-W/
+Comments URL: https://news.ycombinator.com/item?id=49038045
+Points: 101
+# Comments: 41
+- `Hacker News` [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
+> Article URL: https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece
+Comments URL: https://...
+- `TechCrunch` [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to...](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
+> OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
+- `TechCrunch` [SpaceX launches new V3 Starlink satellites but suffers another booster failure](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/)
+> The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.
+- `TechCrunch` [Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)
+> The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.
+- `TechCrunch` [TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything be...](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/)
+> Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.
+- `TechCrunch` [Vietnam is looking to restrict social media for kids; here are the growing number of other countr...](https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/)
+> Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and...
+- `TechCrunch` [Waymo reportedly mulling a breakup with Uber](https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/)
+> The contract between the two companies ends in May 2028, Uber told TechCrunch.
+- `TechCrunch` [Volkswagen engineers charged with insider trading tied to Rivian joint venture](https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/)
+> The indictment, which was unsealed Friday, alleges the Volkswagen engineers used confidential insider information to buy stock in Rivian.
+- `TechCrunch` [Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/)
+> The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as...
+- `TechCrunch` [US accuses American of allegedly wiping his phone using a ‘duress’ password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/)
+> A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's cons...
+- `TechCrunch` [Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark](https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/)
+> Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.
+- `The Verge` [After backlash, Meta pauses plan to ‘rate limit’ its smart glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses)
+> Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your ...
+- `The Verge` [Meta just created a moderation nightmare for its smart glasses](https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban)
+> Meta's smart glasses have been a PR headache for the company. Public backlash has been swift, and fierce; people are concerned about the erosion of privacy and expansion of surveillance. Some espec...
+- `The Verge` [Qualcomm is about to raise prices and that’s bad news for everyone](https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg)
+> Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by "a percentage in the double digits," Bloomberg reports. The price hikes will go into effect starting with pr...
+- `The Verge` [Midjourney bought the astrology app Co-Star](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition)
+> Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the persona...
+- `The Verge` [DJI camera clone company Xtra is halting and refunding all preorders](https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders)
+> After selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the new dual-lens Osmo Pocket 4 Pro, to...
+- `The Verge` [Nothing confirms layoffs, but calls market exit rumors ‘fake news’](https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b)
+> In response to a report that Nothing is planning to "exit 12 markets as global shipments decline," Nothing cofounder Akis Evangelidis said the company is "reorganizing" and laying off some of its s...
+- `The Verge` [Roku raises streaming hardware prices by up to $50](https://www.theverge.com/streaming/970814/roku-streaming-price-increase)
+> Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Ro...
+- `The Verge` [Blade Runner 2099’s moody dystopia streams on Amazon in November](https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video)
+> After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on Novemb...
+- `The Verge` [You can’t ignore Google Zero anymore](https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast)
+> The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than ...
+- `The Verge` [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)
+> Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest mode...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
