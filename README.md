@@ -6,10 +6,15 @@
 
 # 📰 每日科技日报 — 2026-07-25
 
-> 自动收集于 2026-07-25 03:18 | 共 50 条
+> 自动收集于 2026-07-25 12:54 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目](https://36kr.com/p/3910880823202948?f=rss)
+> 文｜温丽虹
+  编辑｜张雨忻
+  Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。
+  从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问...
 - `36氪` [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)
 > 今日热点导览
   
@@ -78,10 +83,8 @@
   淡马锡旗下凯德投资与丰树合并谈判据悉陷入停滞
   7月23日，据报道，由淡马锡控股支持的两大房地产资产管理公司——凯德投资与丰树投资的合并谈判已陷入停滞，双方在估值等问题上存在分歧。双方经过数月讨论后已放缓推进潜在合并交易，其他分歧还包括合并后公司管理层安排、人员调整方案以及部分业务表现疲弱等问题。不过，双方未来仍可能恢复谈判。（界面）
   阿里云：真武芯片超节点已成功适配Qw...
-- `36氪` [网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目](https://36kr.com/p/3908027308823684?f=rss)
-> 从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。
-  林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。
-  林下环境复杂，传统人工作...
+- `少数派` [看不见、摸得着的家居要素：聊聊湿度管理的方法与实践](https://sspai.com/post/112093)
+> 基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/112692)
 > 📅本周新预告《复仇者联盟5：毁灭之日》正式预告7月20日，电影《复仇者联盟5：毁灭之日》发布了正式预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡、小罗伯特· ...查看全文
 - `少数派` [角落新声｜数字与实体、有线与无线：我的多场景有声角落构建](https://sspai.com/post/112232)
@@ -100,60 +103,59 @@
 > OpenAI 发布面向企业用户的 OpenAI Presence，耐克宣布重构大中华区市场生态等。查看全文
 - `少数派` [Parti：一个零门槛联机游戏平台，凭什么不需要服务器？](https://sspai.com/post/112545)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [滤镜背后的色彩科学：LUT 是什么？](https://sspai.com/post/111550)
-> 从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
+> Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering
+Comments URL: https://news.ycombinator.com/item?id=49046858
+Points: 0
+# Comments: 0
+- `Hacker News` [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
+> Article URL: https://supakeen.com/weblog/the-fedora-45-sausage-factory/
+Comments URL: https://news.ycombinator.com/item?id=49046525
+Points: 7
+# Comments: 1
+- `Hacker News` [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/)
+> Article URL: https://www.augmental.tech/
+Comments URL: https://news.ycombinator.com/item?id=49045446
+Points: 30
+# Comments: 9
+- `Hacker News` [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
+> Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/
+Comments URL: https://news.ycombinator.com/item?id=49045159
+Points: 391
+# Comments: 173
+- `Hacker News` [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
+> Article URL: https://arcprize.org/leaderboard
+Comments URL: https://news.ycombinator.com/item?id=49045040
+Points: 114
+# Comments: 89
+- `Hacker News` [Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/)
+> Article URL: https://extinct-media-museum.blog.jp/otemachi/
+Comments URL: https://news.ycombinator.com/item?id=49044874
+Points: 59
+# Comments: 9
+- `Hacker News` [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
+> Article URL: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities
+Comments URL: https://news.ycombinator.com/item?id=49044492
+Points: 84
+# ...
+- `Hacker News` [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
+> Article URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize
+Comments URL: https://news.ycombinator.com/item?id=49043724
+Points: 324
+# Comments: 53
 - `Hacker News` [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
 > Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/
 Comments URL: https://news.ycombinator.com/item?id=49042751
-Points: 42
-# Comments: 3
-- `Hacker News` [Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools)
-> Article URL: https://github.com/apresta/max-studio-tools
-Comments URL: https://news.ycombinator.com/item?id=49041546
-Points: 26
-# Comments: 0
+Points: 106
+# Comments: 23
 - `Hacker News` [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
 > Article URL: https://artificialanalysis.ai/models
 Comments URL: https://news.ycombinator.com/item?id=49040741
-Points: 166
-# Comments: 109
-- `Hacker News` [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
-> Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability
-Comments URL: https://news.ycombinator.com/item?id=49040296
-Points: 224
-# Comments: 38
-- `Hacker News` [Gsxui – Shadcn-style components for Go](https://ui.gsxhq.dev/)
-> Article URL: https://ui.gsxhq.dev/
-Comments URL: https://news.ycombinator.com/item?id=49039395
-Points: 57
-# Comments: 8
-- `Hacker News` [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
-> https://www.anthropic.com/claude-opus-5-system-card
-
-Comments URL: https://news.ycombinator.com/item?id=49038433
-Points: 1357
-# Comments: 735
-- `Hacker News` [Don't Take the Black Pill [video]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
-> Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4
-Comments URL: https://news.ycombinator.com/item?id=49038298
-Points: 144
-# Comments: 102
-- `Hacker News` [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
-> Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker
-Comments URL: https://news.ycombinator.com/item?id=49038060
-Points: 441
-# Comments: 248
-- `Hacker News` [Unitree As2-W](https://www.unitree.com/As2-W/)
-> Article URL: https://www.unitree.com/As2-W/
-Comments URL: https://news.ycombinator.com/item?id=49038045
-Points: 101
-# Comments: 41
-- `Hacker News` [Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey](https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece)
-> Article URL: https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece
-Comments URL: https://...
+Points: 320
+# Comments: 183
 - `TechCrunch` [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to...](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
 > OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
 - `TechCrunch` [SpaceX launches new V3 Starlink satellites but suffers another booster failure](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/)
@@ -174,6 +176,12 @@ Comments URL: https://...
 > A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's cons...
 - `TechCrunch` [Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark](https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/)
 > Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.
+- `The Verge` [What Surrounds Us will make you think a lot about circles](https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam)
+> What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, somet...
+- `The Verge` [Folding and flipping phones are getting seriously good](https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer)
+> Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at ...
+- `The Verge` [Forget expensive sleepbuds. Buy this pillow instead](https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead)
+> Tech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit...
 - `The Verge` [After backlash, Meta pauses plan to ‘rate limit’ its smart glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses)
 > Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your ...
 - `The Verge` [Meta just created a moderation nightmare for its smart glasses](https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban)
@@ -188,12 +196,6 @@ Comments URL: https://...
 > In response to a report that Nothing is planning to "exit 12 markets as global shipments decline," Nothing cofounder Akis Evangelidis said the company is "reorganizing" and laying off some of its s...
 - `The Verge` [Roku raises streaming hardware prices by up to $50](https://www.theverge.com/streaming/970814/roku-streaming-price-increase)
 > Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Ro...
-- `The Verge` [Blade Runner 2099’s moody dystopia streams on Amazon in November](https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video)
-> After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on Novemb...
-- `The Verge` [You can’t ignore Google Zero anymore](https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast)
-> The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than ...
-- `The Verge` [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)
-> Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest mode...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
