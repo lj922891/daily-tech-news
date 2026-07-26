@@ -4,17 +4,22 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-25
+# 📰 每日科技日报 — 2026-07-26
 
-> 自动收集于 2026-07-25 12:54 | 共 50 条
+> 自动收集于 2026-07-26 03:32 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资](https://36kr.com/p/3911162147640456?f=rss)
+> 作者 | 邱晓芬
+  编辑 | 袁斯来
+  硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。
+  这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-...
 - `36氪` [从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目](https://36kr.com/p/3910880823202948?f=rss)
 > 文｜温丽虹
   编辑｜张雨忻
   Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。
-  从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问...
+  从月之暗面离职前，曾歆��是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率...
 - `36氪` [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)
 > 今日热点导览
   
@@ -78,11 +83,6 @@
   TOP 3 大新闻
   段永平：10年内大概率不会卖泡泡玛特
   7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最...
-- `36氪` [氪星晚报 ｜马斯克：FSD是拉动特斯拉汽车需求的核心驱动力；字节跳动在中卫成立新科技公司，注册资本22亿](https://36kr.com/p/3908051015488640?f=rss)
-> 大公司：
-  淡马锡旗下凯德投资与丰树合并谈判据悉陷入停滞
-  7月23日，据报道，由淡马锡控股支持的两大房地产资产管理公司——凯德投资与丰树投资的合并谈判已陷入停滞，双方在估值等问题上存在分歧。双方经过数月讨论后已放缓推进潜在合并交易，其他分歧还包括合并后公司管理层安排、人员调整方案以及部分业务表现疲弱等问题。不过，双方未来仍可能恢复谈判。（界面）
-  阿里云：真武芯片超节点已成功适配Qw...
 - `少数派` [看不见、摸得着的家居要素：聊聊湿度管理的方法与实践](https://sspai.com/post/112093)
 > 基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/112692)
@@ -106,76 +106,78 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Kyber (YC W23) Is Hiring a Head of Engineering](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering)
-> Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering
-Comments URL: https://news.ycombinator.com/item?id=49046858
-Points: 0
-# Comments: 0
-- `Hacker News` [The Fedora 45 Sausage Factory](https://supakeen.com/weblog/the-fedora-45-sausage-factory/)
-> Article URL: https://supakeen.com/weblog/the-fedora-45-sausage-factory/
-Comments URL: https://news.ycombinator.com/item?id=49046525
-Points: 7
+- `Hacker News` [JetZero](https://www.jetzero.aero)
+> Article URL: https://www.jetzero.aero
+Comments URL: https://news.ycombinator.com/item?id=49054224
+Points: 27
+# Comments: 12
+- `Hacker News` [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
+> Article URL: https://blog.ktz.me/esp32-plane-radar/
+Comments URL: https://news.ycombinator.com/item?id=49054107
+Points: 8
 # Comments: 1
-- `Hacker News` [MouthPad: A Tongue-Controlled Touchpad](https://www.augmental.tech/)
-> Article URL: https://www.augmental.tech/
-Comments URL: https://news.ycombinator.com/item?id=49045446
+- `Hacker News` [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)
+> I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as th...
+- `Hacker News` [Show HN: What 180k words look like as a temporal knowledge graph (Oz series)](https://synaptale.com/graph?ch=100)
+> The graph is free to explore and requires no registration.SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships).
+The graph ...
+- `Hacker News` [Show HN: ZWPlayer – Free player with interactive annotations and subtitle search](https://www.zwplayer.com/)
+> Article URL: https://www.zwplayer.com/
+Comments URL: https://news.ycombinator.com/item?id=49053805
+Points: 3
+# Comments: 0
+- `Hacker News` [Git rebase -I is not that scary](https://cachebag.sh/journal/interactive-rebasing/)
+> Article URL: https://cachebag.sh/journal/interactive-rebasing/
+Comments URL: https://news.ycombinator.com/item?id=49053385
+Points: 27
+# Comments: 21
+- `Hacker News` [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
+> Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html
+Comments URL: https://news.ycombinator.com/item?id=49053382
+Points: 28
+# Comments: 6
+- `Hacker News` [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2)
+> Article URL: https://huggingface.co/owensong/Inflect-Micro-v2
+Comments URL: https://news.ycombinator.com/item?id=49053375
 Points: 30
-# Comments: 9
-- `Hacker News` [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
-> Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/
-Comments URL: https://news.ycombinator.com/item?id=49045159
-Points: 391
-# Comments: 173
-- `Hacker News` [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
-> Article URL: https://arcprize.org/leaderboard
-Comments URL: https://news.ycombinator.com/item?id=49045040
-Points: 114
-# Comments: 89
-- `Hacker News` [Extinct Media Museum Tokyo](https://extinct-media-museum.blog.jp/otemachi/)
-> Article URL: https://extinct-media-museum.blog.jp/otemachi/
-Comments URL: https://news.ycombinator.com/item?id=49044874
-Points: 59
-# Comments: 9
-- `Hacker News` [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities)
-> Article URL: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities
-Comments URL: https://news.ycombinator.com/item?id=49044492
-Points: 84
-# ...
-- `Hacker News` [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
-> Article URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize
-Comments URL: https://news.ycombinator.com/item?id=49043724
-Points: 324
-# Comments: 53
-- `Hacker News` [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
-> Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/
-Comments URL: https://news.ycombinator.com/item?id=49042751
-Points: 106
-# Comments: 23
-- `Hacker News` [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
-> Article URL: https://artificialanalysis.ai/models
-Comments URL: https://news.ycombinator.com/item?id=49040741
-Points: 320
-# Comments: 183
+# Comments: 2
+- `Hacker News` [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf)
+> Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97...
+- `Hacker News` [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
+> Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes
+Comments URL: https://news.ycombinator.com/item?id=49052628
+Points: 62
+# Comments: 34
+- `TechCrunch` [Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+> A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
+- `TechCrunch` [Warner Bros. lawsuit accuses Amazon of illegally poaching executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/)
+> The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law
+- `TechCrunch` [The hacker who humiliated spyware makers and was never caught](https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/)
+> An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?
+- `TechCrunch` [Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation](https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/)
+> Elon Musk's tunneling startup is reportedly in talks for a major new funding round.
+- `TechCrunch` [Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/)
+> Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”
+- `TechCrunch` [Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)
+> At libraries around the country, "Avoiding AI" workshops have elicited unprecedented demand.
+- `TechCrunch` [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)
+> A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
 - `TechCrunch` [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to...](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
 > OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
 - `TechCrunch` [SpaceX launches new V3 Starlink satellites but suffers another booster failure](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/)
 > The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.
 - `TechCrunch` [Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)
 > The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.
-- `TechCrunch` [TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything be...](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/)
-> Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.
-- `TechCrunch` [Vietnam is looking to restrict social media for kids; here are the growing number of other countr...](https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/)
-> Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and...
-- `TechCrunch` [Waymo reportedly mulling a breakup with Uber](https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/)
-> The contract between the two companies ends in May 2028, Uber told TechCrunch.
-- `TechCrunch` [Volkswagen engineers charged with insider trading tied to Rivian joint venture](https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/)
-> The indictment, which was unsealed Friday, alleges the Volkswagen engineers used confidential insider information to buy stock in Rivian.
-- `TechCrunch` [Why Cognition bought Poke: AI personality is becoming a competitive advantage](https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/)
-> The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as...
-- `TechCrunch` [US accuses American of allegedly wiping his phone using a ‘duress’ password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/)
-> A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's cons...
-- `TechCrunch` [Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark](https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/)
-> Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.
+- `The Verge` [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
+> Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoi...
+- `The Verge` [Synth historian Oli Freke will spend big on a good bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview)
+> Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone sca...
+- `The Verge` [Teenage Engineering’s unique music machines are 30 percent off](https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale)
+> With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are ...
+- `The Verge` [Warner Bros. is suing Amazon for poaching employees](https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees)
+> Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees, including Pia Barlow, former senior VP for originals marketing. In the complaint, Warner says that...
+- `The Verge` [Is this e-reader case a gun?](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun)
+> Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist ...
 - `The Verge` [What Surrounds Us will make you think a lot about circles](https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam)
 > What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, somet...
 - `The Verge` [Folding and flipping phones are getting seriously good](https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer)
@@ -186,16 +188,6 @@ Points: 320
 > Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your ...
 - `The Verge` [Meta just created a moderation nightmare for its smart glasses](https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban)
 > Meta's smart glasses have been a PR headache for the company. Public backlash has been swift, and fierce; people are concerned about the erosion of privacy and expansion of surveillance. Some espec...
-- `The Verge` [Qualcomm is about to raise prices and that’s bad news for everyone](https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg)
-> Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by "a percentage in the double digits," Bloomberg reports. The price hikes will go into effect starting with pr...
-- `The Verge` [Midjourney bought the astrology app Co-Star](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition)
-> Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the persona...
-- `The Verge` [DJI camera clone company Xtra is halting and refunding all preorders](https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders)
-> After selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the new dual-lens Osmo Pocket 4 Pro, to...
-- `The Verge` [Nothing confirms layoffs, but calls market exit rumors ‘fake news’](https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b)
-> In response to a report that Nothing is planning to "exit 12 markets as global shipments decline," Nothing cofounder Akis Evangelidis said the company is "reorganizing" and laying off some of its s...
-- `The Verge` [Roku raises streaming hardware prices by up to $50](https://www.theverge.com/streaming/970814/roku-streaming-price-increase)
-> Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Ro...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
