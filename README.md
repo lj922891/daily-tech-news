@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-07-26
 
-> 自动收集于 2026-07-26 03:32 | 共 50 条
+> 自动收集于 2026-07-26 12:51 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -83,6 +83,8 @@
   TOP 3 大新闻
   段永平：10年内大概率不会卖泡泡玛特
   7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最...
+- `少数派` [手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧](https://sspai.com/post/112421)
+> 「太热了，今天不聊了，赶紧回去吹空调。」查看全文
 - `少数派` [看不见、摸得着的家居要素：聊聊湿度管理的方法与实践](https://sspai.com/post/112093)
 > 基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/112692)
@@ -101,53 +103,59 @@
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等](https://sspai.com/post/112647)
 > OpenAI 发布面向企业用户的 OpenAI Presence，耐克宣布重构大中华区市场生态等。查看全文
-- `少数派` [Parti：一个零门槛联机游戏平台，凭什么不需要服务器？](https://sspai.com/post/112545)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
+> Article URL: https://english.mapn.ro/
+Comments URL: https://news.ycombinator.com/item?id=49057248
+Points: 14
+# Comments: 0
+- `Hacker News` [An OpenAI model left notes about how to evade containment; we need more details](https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we)
+> Article URL: https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we
+Comments URL: https://news.ycombinator.com/item?id=49056808
+Points: 15
+# ...
+- `Hacker News` [Claude Code Deletes Your Context History from Your Device After 30 Days](https://code.claude.com/docs/en/data-usage)
+> Article URL: https://code.claude.com/docs/en/data-usage
+Comments URL: https://news.ycombinator.com/item?id=49056689
+Points: 3
+# Comments: 0
+- `Hacker News` [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
+> Article URL: https://comuniq.xyz/post?t=1439
+Comments URL: https://news.ycombinator.com/item?id=49056424
+Points: 33
+# Comments: 23
+- `Hacker News` [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)
+> Article URL: https://etbe.coker.com.au/2026/07/24/systemd-linger/
+Comments URL: https://news.ycombinator.com/item?id=49056351
+Points: 19
+# Comments: 7
+- `Hacker News` [Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18)
+> Article URL: https://status.claude.com/incidents/zftg3gqkmv18
+Comments URL: https://news.ycombinator.com/item?id=49056194
+Points: 47
+# Comments: 46
+- `Hacker News` [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
+> Article URL: https://astral.sh/blog/ruff-v0.16.0
+Comments URL: https://news.ycombinator.com/item?id=49056112
+Points: 134
+# Comments: 71
+- `Hacker News` [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
+> Article URL: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
+Comments URL: https://news.ycombinator.com/item?id=49055169
+Points: 142
+# Comm...
 - `Hacker News` [JetZero](https://www.jetzero.aero)
 > Article URL: https://www.jetzero.aero
 Comments URL: https://news.ycombinator.com/item?id=49054224
-Points: 27
-# Comments: 12
+Points: 211
+# Comments: 191
 - `Hacker News` [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
 > Article URL: https://blog.ktz.me/esp32-plane-radar/
 Comments URL: https://news.ycombinator.com/item?id=49054107
-Points: 8
-# Comments: 1
-- `Hacker News` [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)
-> I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as th...
-- `Hacker News` [Show HN: What 180k words look like as a temporal knowledge graph (Oz series)](https://synaptale.com/graph?ch=100)
-> The graph is free to explore and requires no registration.SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships).
-The graph ...
-- `Hacker News` [Show HN: ZWPlayer – Free player with interactive annotations and subtitle search](https://www.zwplayer.com/)
-> Article URL: https://www.zwplayer.com/
-Comments URL: https://news.ycombinator.com/item?id=49053805
-Points: 3
-# Comments: 0
-- `Hacker News` [Git rebase -I is not that scary](https://cachebag.sh/journal/interactive-rebasing/)
-> Article URL: https://cachebag.sh/journal/interactive-rebasing/
-Comments URL: https://news.ycombinator.com/item?id=49053385
-Points: 27
-# Comments: 21
-- `Hacker News` [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
-> Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html
-Comments URL: https://news.ycombinator.com/item?id=49053382
-Points: 28
-# Comments: 6
-- `Hacker News` [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2)
-> Article URL: https://huggingface.co/owensong/Inflect-Micro-v2
-Comments URL: https://news.ycombinator.com/item?id=49053375
-Points: 30
-# Comments: 2
-- `Hacker News` [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf)
-> Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97...
-- `Hacker News` [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes)
-> Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes
-Comments URL: https://news.ycombinator.com/item?id=49052628
-Points: 62
-# Comments: 34
+Points: 180
+# Comments: 37
 - `TechCrunch` [Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
 > A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
 - `TechCrunch` [Warner Bros. lawsuit accuses Amazon of illegally poaching executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/)
@@ -168,6 +176,8 @@ Points: 62
 > The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.
 - `TechCrunch` [Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)
 > The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.
+- `The Verge` [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers'...
 - `The Verge` [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
 > Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoi...
 - `The Verge` [Synth historian Oli Freke will spend big on a good bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview)
@@ -186,8 +196,6 @@ Points: 62
 > Tech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit...
 - `The Verge` [After backlash, Meta pauses plan to ‘rate limit’ its smart glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses)
 > Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your ...
-- `The Verge` [Meta just created a moderation nightmare for its smart glasses](https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban)
-> Meta's smart glasses have been a PR headache for the company. Public backlash has been swift, and fierce; people are concerned about the erosion of privacy and expansion of surveillance. Some espec...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
