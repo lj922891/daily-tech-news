@@ -4,12 +4,36 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-26
+# 📰 每日科技日报 — 2026-07-27
 
-> 自动收集于 2026-07-26 12:51 | 共 50 条
+> 自动收集于 2026-07-27 03:40 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [优衣库一边关店，一边赚钱](https://36kr.com/p/3913266058826880?f=rss)
+> 作者 | 谢芸子
+  编辑 | 张帆
+  优衣库在悄悄赚钱。
+  近日，优衣库母公司迅销集团上调了对2026财年的盈利指引，预计全年销售额增长17%至3.97万亿日元，约合214亿欧元。对比来看，H&M集团2026财年预期营收在199亿至208亿欧元。
+  这意味着，迅销将取代H&M，成为全球第二的“自有服装品牌零售商”，仅次于Zara的母公司Inditex。支撑迅...
+- `36氪` [36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投](https://36kr.com/p/3910655616521348?f=rss)
+> 36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。
+  2024年，36氪曾率先报道MORROR ART的近...
+- `36氪` [最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动](https://36kr.com/p/3912546487637378?f=rss)
+> 文｜阿至
+  过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。
+  根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变...
+- `36氪` [8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国](https://36kr.com/p/3913118530819457?f=rss)
+> 今日热点导览
+  
+   A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间
+   360原董秘称离职7年股权激励未兑现，涉及金额约2649万
+   马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋
+   法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实
+   韩国养老金7月首度净买入KOSPI成分股，为今年首次
+  
+  TOP 3大新闻
+  滥用市场支配地位实施垄断行为，携程被罚没5...
 - `36氪` [硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资](https://36kr.com/p/3911162147640456?f=rss)
 > 作者 | 邱晓芬
   编辑 | 袁斯来
@@ -19,7 +43,7 @@
 > 文｜温丽虹
   编辑｜张雨忻
   Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。
-  从月之暗面离职前，曾歆��是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率...
+  从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问...
 - `36氪` [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)
 > 今日热点导览
   
@@ -53,36 +77,8 @@
    
   七月初，秋招开始预热。你投出去的下一份简历，可能不是先被HR看到，而是先被一个AI员工读完。
   机器筛简历并不新鲜。真正有意思的是，如果这个AI不只是帮...
-- `36氪` [对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程](https://36kr.com/p/3909358392988806?f=rss)
-> 7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。曾鸣教授在WAIC现场接受36氪「氪话未来」特邀专访，围绕AI时代企业增长、组织变革、智能复利、AI原生业务以及企业落地路径等话题，分享了他对于人工智能如何重塑商业模式与价值创造方式的观察与判断。
-  本届WAIC以“智能伙伴，共创未来”为主题。...
-- `36氪` [DeepSeek不是理想主义公司，它只是把现实服务于理想](https://36kr.com/p/3909084356433025?f=rss)
->  
-  DeepSeek的答案，不是只仰望星空，也不是只脚踏实地，而是用现实问题去支撑一个足够远的目标。
-   
-  
-   
-  撰文 | 李嘉星 刘辰艺
-  编辑 | 张薇
-  头图来源 | DeepSeek
-  封面来源 | DeepSeek
-   
-  DeepSe...
-- `36氪` [带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！](https://36kr.com/p/3909033052722310?f=rss)
-> 7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海落下帷幕。黄浦江畔，热浪与人潮一起涌动。本届大会以“智能伙伴，共创未来”为主题，在世博、张江、西岸三地四馆展开。作为年度人工智能产业观察窗口，WAIC 2026留下的关键信号，不在于展陈规模本身，而在于AI叙事的重心变化：技术展示正在退居幕后，真实场景、系统交付与商业价值被推到台前。
-  这也是36氪“氪话未来”连...
-- `36氪` [8点1氪丨段永平称10年内大概率不会卖泡泡玛特；中国数学家王虹、邓煜获得菲尔兹奖；宜家回应甩卖8处物业：不代表退出中国市场](https://36kr.com/p/3908881985901959?f=rss)
-> 今日热点导览
-  
-   混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型
-   极氪回应“海外锁车”事件
-   客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知
-   哈兰德和亚马尔2.2亿欧元身价破纪录
-   张雪峰女儿再接手三家公司股份
-  
-  TOP 3 大新闻
-  段永平：10年内大概率不会卖泡泡玛特
-  7月23日，段永平在社交媒体平台雪球上发表了他对近期投资操作的最...
+- `少数派` [派早报：携程因滥用市场支配地位被罚 51.79 亿元](https://sspai.com/post/112769)
+> 携程因滥用市场支配地位被罚 51.79 亿元英伟达、微软等联名支持开放权重模型长鑫存储、长江存储获得空前定价权「谷歌一下」成为过时说法上海交大医学院宣布调查基因编辑致死事件Geekbench 7 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧](https://sspai.com/post/112421)
 > 「太热了，今天不聊了，赶紧回去吹空调。」查看全文
 - `少数派` [看不见、摸得着的家居要素：聊聊湿度管理的方法与实践](https://sspai.com/post/112093)
@@ -101,61 +97,68 @@
 > Pocket 一体式云台相机满是让人不容小觑的护城河与想象空间。查看全文
 - `少数派` [让 Windows 顺眼又省心：我的新设备配置经验](https://sspai.com/post/111300)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等](https://sspai.com/post/112647)
-> OpenAI 发布面向企业用户的 OpenAI Presence，耐克宣布重构大中华区市场生态等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
-> Article URL: https://english.mapn.ro/
-Comments URL: https://news.ycombinator.com/item?id=49057248
-Points: 14
-# Comments: 0
-- `Hacker News` [An OpenAI model left notes about how to evade containment; we need more details](https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we)
-> Article URL: https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we
-Comments URL: https://news.ycombinator.com/item?id=49056808
-Points: 15
-# ...
-- `Hacker News` [Claude Code Deletes Your Context History from Your Device After 30 Days](https://code.claude.com/docs/en/data-usage)
-> Article URL: https://code.claude.com/docs/en/data-usage
-Comments URL: https://news.ycombinator.com/item?id=49056689
-Points: 3
-# Comments: 0
-- `Hacker News` [No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s](https://comuniq.xyz/post?t=1439)
-> Article URL: https://comuniq.xyz/post?t=1439
-Comments URL: https://news.ycombinator.com/item?id=49056424
-Points: 33
-# Comments: 23
-- `Hacker News` [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/)
-> Article URL: https://etbe.coker.com.au/2026/07/24/systemd-linger/
-Comments URL: https://news.ycombinator.com/item?id=49056351
-Points: 19
-# Comments: 7
-- `Hacker News` [Elevated Errors for Opus 5](https://status.claude.com/incidents/zftg3gqkmv18)
-> Article URL: https://status.claude.com/incidents/zftg3gqkmv18
-Comments URL: https://news.ycombinator.com/item?id=49056194
-Points: 47
-# Comments: 46
-- `Hacker News` [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
-> Article URL: https://astral.sh/blog/ruff-v0.16.0
-Comments URL: https://news.ycombinator.com/item?id=49056112
-Points: 134
-# Comments: 71
-- `Hacker News` [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
-> Article URL: https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices
-Comments URL: https://news.ycombinator.com/item?id=49055169
-Points: 142
-# Comm...
-- `Hacker News` [JetZero](https://www.jetzero.aero)
-> Article URL: https://www.jetzero.aero
-Comments URL: https://news.ycombinator.com/item?id=49054224
-Points: 211
-# Comments: 191
-- `Hacker News` [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
-> Article URL: https://blog.ktz.me/esp32-plane-radar/
-Comments URL: https://news.ycombinator.com/item?id=49054107
-Points: 180
-# Comments: 37
+- `Hacker News` [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+> Article URL: https://nikolays.github.io/PGSimCity/
+Comments URL: https://news.ycombinator.com/item?id=49063754
+Points: 190
+# Comments: 26
+- `Hacker News` [Show HN: Port Zero – how I learned to stop worrying and love PORT=0](https://portzero.net/)
+> Hi HN,Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are...
+- `Hacker News` [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
+> Article URL: https://fontsinuse.com/
+Comments URL: https://news.ycombinator.com/item?id=49063523
+Points: 28
+# Comments: 1
+- `Hacker News` [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
+> Article URL: https://github.com/vercel-labs/scriptc
+Comments URL: https://news.ycombinator.com/item?id=49063175
+Points: 38
+# Comments: 17
+- `Hacker News` [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
+> Article URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
+Comments URL: https://news.ycombinator.com/item?id=49063022
+Points: 292
+# Comments: 180
+- `Hacker News` [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
+> Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/
+Comments URL: https://news.ycombinator.com/item?id=49062700
+Points: 64
+# Comments: 20
+- `Hacker News` [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
+> Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html
+Comments URL: https://news.ycombinator.com/item?id=49062291
+Points: 98
+# Comments: 14
+- `Hacker News` [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
+> Article URL: https://spectrum.ieee.org/space-debris-atmosphere-burn-up
+Comments URL: https://news.ycombinator.com/item?id=49062120
+Points: 50
+# Comments: 26
+- `Hacker News` [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
+> Article URL: https://github.com/AARomanov1985/Audio-Cassette-Simulation
+Comments URL: https://news.ycombinator.com/item?id=49061887
+Points: 88
+# Comments: 42
+- `Hacker News` [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
+> Article URL: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/
+Comments URL: https://news.ycombinator.com/item?id=49060945
+Points: 88
+# Comments: 98
+- `TechCrunch` [Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)
+> Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
+- `TechCrunch` [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/)
+> As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.
+- `TechCrunch` [Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)
+> On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.
+- `TechCrunch` [Inside one London founder house rewriting the founder-house rules](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
+> How one founder house is betting work-life balance can beat burnout .
+- `TechCrunch` [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)
+> "The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
+- `TechCrunch` [TechCrunch Mobility: Uber bets on its former CEO](https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 - `TechCrunch` [Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
 > A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
 - `TechCrunch` [Warner Bros. lawsuit accuses Amazon of illegally poaching executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/)
@@ -164,18 +167,18 @@ Points: 180
 > An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?
 - `TechCrunch` [Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation](https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/)
 > Elon Musk's tunneling startup is reportedly in talks for a major new funding round.
-- `TechCrunch` [Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary](https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/)
-> Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”
-- `TechCrunch` [Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/)
-> At libraries around the country, "Avoiding AI" workshops have elicited unprecedented demand.
-- `TechCrunch` [One fallen power line exposed a growing AI data center problem. Here’s how to fix it.](https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/)
-> A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.
-- `TechCrunch` [I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to...](https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/)
-> OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.
-- `TechCrunch` [SpaceX launches new V3 Starlink satellites but suffers another booster failure](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/)
-> The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.
-- `TechCrunch` [Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M](https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/)
-> The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.
+- `The Verge` [Champagne and Bullets belongs on the Mount Rushmore of bad movies](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review)
+> There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of "so bad they're good" films are marvelous curiosities where ambition far outstri...
+- `The Verge` [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy)
+> According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the co...
+- `The Verge` [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password)
+> The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a "duress password" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson air...
+- `The Verge` [Carrie is just trying to make a friend in the new trailer](https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con)
+> Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't c...
+- `The Verge` [You can get three months of Xbox Game Pass Ultimate for almost half off](https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale)
+> Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on...
+- `The Verge` [Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more](https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con)
+> While perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The highest profile was certainly the announcement that Ryan Gosling would be joining...
 - `The Verge` [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers'...
 - `The Verge` [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
@@ -184,18 +187,6 @@ Points: 180
 > Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone sca...
 - `The Verge` [Teenage Engineering’s unique music machines are 30 percent off](https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale)
 > With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are ...
-- `The Verge` [Warner Bros. is suing Amazon for poaching employees](https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees)
-> Warner Bros. Discovery has filed suit against Amazon, accusing it of illegally poaching employees, including Pia Barlow, former senior VP for originals marketing. In the complaint, Warner says that...
-- `The Verge` [Is this e-reader case a gun?](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun)
-> Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist ...
-- `The Verge` [What Surrounds Us will make you think a lot about circles](https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam)
-> What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, somet...
-- `The Verge` [Folding and flipping phones are getting seriously good](https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer)
-> Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at ...
-- `The Verge` [Forget expensive sleepbuds. Buy this pillow instead](https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead)
-> Tech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit...
-- `The Verge` [After backlash, Meta pauses plan to ‘rate limit’ its smart glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses)
-> Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
