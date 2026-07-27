@@ -6,10 +6,36 @@
 
 # 📰 每日科技日报 — 2026-07-27
 
-> 自动收集于 2026-07-27 03:40 | 共 50 条
+> 自动收集于 2026-07-27 14:04 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争](https://36kr.com/p/3913320648971395?f=rss)
+> 大公司：
+  汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家
+  汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面）
+  小米MiMo-V2.5登OpenRou...
+- `36氪` [清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发](https://36kr.com/p/3913736066028932?f=rss)
+> 文 | 阿至
+  航空新能源动力系统，正在酝酿新的变革。
+  36氪获悉，航空新能源动力系统解决方案供应商「易氢动力」已完成数千万元天使+轮融资，由红鸟启航基金和贵州科创天使基金领投，水木清华校友种子基金，启迪之星创投，楹辉创投，金源合及天使会跟投。本轮资金主要用于航空级液冷燃料电池产品的开发及验证，以及空冷燃料电池在多场景的商业化推广及应用。
+  过去十年，氢燃料电池研...
+- `36氪` [2026年，为什么资本更青睐“会赚钱”的AI应用？](https://36kr.com/p/3913706151400583?f=rss)
+> 今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。
+  过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。
+  估值半年翻 6 倍的同时，他们也主动放弃了 DAU 这个过去两年...
+- `36氪` [最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线](https://36kr.com/p/3912369056240772?f=rss)
+> 文 | 张卓倩
+  编辑 | 袁斯来
+  低空经济领域迎来里程碑式突破！牧羽天航空近日正式宣布，旗下飞行重卡 AT8000 整机机身已经在无锡市新吴区空港园区隆重下线。作为全球已知最大的eVTOL，飞行重卡AT8000 的下线标志着我国在重载低空物流装备领域实现全球领跑，为低空经济商业化落地应用注入核心动力。
+  
+  飞行重卡 AT8000 
+  全球重载无人货运标杆，8 吨级 ...
+- `36氪` [36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付](https://36kr.com/p/3913490184754313?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。
+  一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘...
 - `36氪` [优衣库一边关店，一边赚钱](https://36kr.com/p/3913266058826880?f=rss)
 > 作者 | 谢芸子
   编辑 | 张帆
@@ -39,46 +65,14 @@
   编辑 | 袁斯来
   硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。
   这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-...
-- `36氪` [从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目](https://36kr.com/p/3910880823202948?f=rss)
-> 文｜温丽虹
-  编辑｜张雨忻
-  Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。
-  从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到“找人”这件事上，用AI解决婚恋场景中资料采集、智能匹配、沟通辅助三个环节的效率问...
-- `36氪` [9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布](https://36kr.com/p/3910351337821318?f=rss)
-> 今日热点导览
-  
-   小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患
-   微信撤回消息后可删除提示字
-   怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权
-   菲尔兹奖得主雅各布·齐默曼将加入OpenAI
-   欧盟对谷歌处以8.9亿欧元罚款
-  
-  TOP3大新闻
-  宇树科技CEO王兴兴登上《时代》杂志封面
-  当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人...
-- `36氪` [AnySearch 面向全球推出 “学生与开发者成长计划”](https://36kr.com/p/3909565569324163?f=rss)
-> 7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“AnySearch 学生与开发者成长计划”（AnySearch Student & Developer Program）。该计划面向全球学生与开发者开放，旨在通过提供开放的 AI 搜索基础设施，支持更多 AI 创造者开展学术研究、开源创新和 AI 应用开发。
-  
-  ...
-- `36氪` [氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争](https://36kr.com/p/3909160840451465?f=rss)
-> 大公司：
-  字节跳动在中卫成立朔方星河科技公司，注册资本24亿
-  36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等。股东信息显示，该公司由北京字跳网络技术有限公司全资持股。
-  周生生、老凤祥等品牌金饰价格集体下调
-  当地时间7月23日，黄金白银大跌，油价狂...
-- `36氪` [你的下一位面试官，可能不是人](https://36kr.com/p/3909499179767169?f=rss)
->  
-  谁能保证超级数字员工不是下一个AI落地的窗口
-  
-   
-  撰文 | 李嘉星
-  编辑 | 张薇
-  封面来源 | 元企AI
-   
-  七月初，秋招开始预热。你投出去的下一份简历，可能不是先被HR看到，而是先被一个AI员工读完。
-  机器筛简历并不新鲜。真正有意思的是，如果这个AI不只是帮...
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/112785)
+> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」](https://sspai.com/post/101668)
+> 好用有时比创新更重要。查看全文
+- `少数派` [角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时](https://sspai.com/post/112705)
+> 我的「听音角落」并不完全是一个空间。它是一部旧手机、一枚小尾巴、一副老耳机、一台走步机，以及晚上没有被其他事情占走的那一个小时。查看全文
 - `少数派` [派早报：携程因滥用市场支配地位被罚 51.79 亿元](https://sspai.com/post/112769)
-> 携程因滥用市场支配地位被罚 51.79 亿元英伟达、微软等联名支持开放权重模型长鑫存储、长江存储获得空前定价权「谷歌一下」成为过时说法上海交大医学院宣布调查基因编辑致死事件Geekbench 7 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
+> 携程因滥用市场支配地位被罚 51.79 亿元英伟达、微软等联名支持开放权重模型「谷歌一下」成为过时说法上海交大医学院宣布调查基因编辑致死事件Geekbench 7 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧](https://sspai.com/post/112421)
 > 「太热了，今天不聊了，赶紧回去吹空调。」查看全文
 - `少数派` [看不见、摸得着的家居要素：聊聊湿度管理的方法与实践](https://sspai.com/post/112093)
@@ -91,62 +85,65 @@
 > 不是说好AI来临人类就解放了吗，怎么我连手机都买不起了？查看全文
 - `少数派` [派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等](https://sspai.com/post/112677)
 > 欧盟委员会对 Google 处以总计 8.9 亿欧元罚款，Anthropic 扩大 Claude 语音模式支持范围。查看全文
-- `少数派` [新玩意 247｜少数派的编辑们最近买了啥？](https://sspai.com/post/112668)
-> 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@Lotta：海备思文件夹读 ...查看全文
-- `少数派` [小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈](https://sspai.com/post/112428)
-> Pocket 一体式云台相机满是让人不容小觑的护城河与想象空间。查看全文
-- `少数派` [让 Windows 顺眼又省心：我的新设备配置经验](https://sspai.com/post/111300)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
-> Article URL: https://nikolays.github.io/PGSimCity/
-Comments URL: https://news.ycombinator.com/item?id=49063754
-Points: 190
-# Comments: 26
-- `Hacker News` [Show HN: Port Zero – how I learned to stop worrying and love PORT=0](https://portzero.net/)
-> Hi HN,Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are...
-- `Hacker News` [Fonts In Use – Find out where a font is used](https://fontsinuse.com/)
-> Article URL: https://fontsinuse.com/
-Comments URL: https://news.ycombinator.com/item?id=49063523
+- `Hacker News` [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)
+> Article URL: https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html
+Comments URL: https://news.ycombinator.com/item?id=49069132
+Points: 31
+# Comments: 15
+- `Hacker News` [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565)
+> Article URL: https://xcancel.com/HedgieMarkets/status/2081534588485296565
+Comments URL: https://news.ycombinator.com/item?id=49068738
+Points: 260
+# Comments: 149
+- `Hacker News` [The Proof Machine (2016)](https://incredible.pm/)
+> Article URL: https://incredible.pm/
+Comments URL: https://news.ycombinator.com/item?id=49068711
+Points: 11
+# Comments: 0
+- `Hacker News` [Worse on Purpose](https://ledger.worseonpurpose.com/brands)
+> Article URL: https://ledger.worseonpurpose.com/brands
+Comments URL: https://news.ycombinator.com/item?id=49068707
+Points: 57
+# Comments: 24
+- `Hacker News` [Elevated errors on Claude Opus 5](https://status.claude.com/incidents/mfdtrknpxghq)
+> Article URL: https://status.claude.com/incidents/mfdtrknpxghq
+Comments URL: https://news.ycombinator.com/item?id=49068029
+Points: 42
+# Comments: 43
+- `Hacker News` [Google Chrome Arrives on ARM64 Linux, Widevine DRM Included](https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available)
+> Article URL: https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available
+Comments URL: https://news.ycombinator.com/item?id=49067919
 Points: 28
-# Comments: 1
-- `Hacker News` [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc)
-> Article URL: https://github.com/vercel-labs/scriptc
-Comments URL: https://news.ycombinator.com/item?id=49063175
-Points: 38
-# Comments: 17
-- `Hacker News` [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html)
-> Article URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
-Comments URL: https://news.ycombinator.com/item?id=49063022
-Points: 292
-# Comments: 180
-- `Hacker News` [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/)
-> Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/
-Comments URL: https://news.ycombinator.com/item?id=49062700
-Points: 64
-# Comments: 20
-- `Hacker News` [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html)
-> Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html
-Comments URL: https://news.ycombinator.com/item?id=49062291
-Points: 98
-# Comments: 14
-- `Hacker News` [Plasma Tunnels Reveal How Dying Satellites Fall to Earth](https://spectrum.ieee.org/space-debris-atmosphere-burn-up)
-> Article URL: https://spectrum.ieee.org/space-debris-atmosphere-burn-up
-Comments URL: https://news.ycombinator.com/item?id=49062120
-Points: 50
-# Comments: 26
-- `Hacker News` [Simulate cassette tape audio profiles using FFmpeg](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
-> Article URL: https://github.com/AARomanov1985/Audio-Cassette-Simulation
-Comments URL: https://news.ycombinator.com/item?id=49061887
-Points: 88
-# Comments: 42
-- `Hacker News` [How to Block Some of the Bots](https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/)
-> Article URL: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/
-Comments URL: https://news.ycombinator.com/item?id=49060945
-Points: 88
-# Comments: 98
+# Comments: 7
+- `Hacker News` [How is the Bun Rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)
+> Article URL: https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html
+Comments URL: https://news.ycombinator.com/item?id=49067854
+Points: 207
+# Comments: 140
+- `Hacker News` [The Birth of the American 12-string Guitar](https://www.harpguitars.net/history/grunewald/12-string.htm)
+> Article URL: https://www.harpguitars.net/history/grunewald/12-string.htm
+Comments URL: https://news.ycombinator.com/item?id=49067690
+Points: 37
+# Comments: 16
+- `Hacker News` [Libsm64: Mario 64 as a library for use in external game engines](https://github.com/libsm64/libsm64)
+> Article URL: https://github.com/libsm64/libsm64
+Comments URL: https://news.ycombinator.com/item?id=49067352
+Points: 59
+# Comments: 10
+- `Hacker News` [Removing React.js from the codebase and adapting Htmx for UI interactivity](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/)
+> Article URL: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
+Comments URL: https://news.ycombinator.com/item?id=49067301
+Points: 59
+# Co...
+- `TechCrunch` [Snapchat now lets you share what you’re listening to in real time](https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/)
+> Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.
+- `TechCrunch` [Enigma raises $70M to make controlling a robot as easy as adjusting the volume](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)
+> The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
+- `TechCrunch` [Europe got its own TBPN-style live show, and everyone’s angling for a guest spot](https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/)
+> On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the po...
 - `TechCrunch` [Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)
 > Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
 - `TechCrunch` [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/)
@@ -161,12 +158,10 @@ Points: 88
 > Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 - `TechCrunch` [Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
 > A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
-- `TechCrunch` [Warner Bros. lawsuit accuses Amazon of illegally poaching executives](https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/)
-> The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law
-- `TechCrunch` [The hacker who humiliated spyware makers and was never caught](https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/)
-> An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?
-- `TechCrunch` [Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation](https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/)
-> Elon Musk's tunneling startup is reportedly in talks for a major new funding round.
+- `The Verge` [Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity)
+> Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools ar...
+- `The Verge` [Meta is royally screwing up its smart glasses rollout](https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables)
+> Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these "the biggest advanc...
 - `The Verge` [Champagne and Bullets belongs on the Mount Rushmore of bad movies](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review)
 > There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of "so bad they're good" films are marvelous curiosities where ambition far outstri...
 - `The Verge` [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy)
@@ -182,11 +177,7 @@ Points: 88
 - `The Verge` [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers'...
 - `The Verge` [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
-> Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoi...
-- `The Verge` [Synth historian Oli Freke will spend big on a good bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview)
-> Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone sca...
-- `The Verge` [Teenage Engineering’s unique music machines are 30 percent off](https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale)
-> With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are ...
+> Google's vice president of devices and services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoi...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
