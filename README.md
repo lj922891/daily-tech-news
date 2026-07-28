@@ -4,12 +4,24 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-27
+# 📰 每日科技日报 — 2026-07-28
 
-> 自动收集于 2026-07-27 14:04 | 共 50 条
+> 自动收集于 2026-07-28 02:56 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果](https://36kr.com/p/3914520847570307?f=rss)
+> 今日热点导览
+  
+   2026暑期档电影票房已突破57亿
+   茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶
+   长鑫科技上市半日，7名高管晋升“10亿身家”
+   巴西总统卢拉：美持续在关税上对巴施压系战略错误
+   苹果公司称多项服务出现故障，包括App Store
+  
+  TOP 3大新闻
+  蔚来战投长鑫科技浮盈超7亿，李斌现身答谢晚宴
+  7月27日，国...
 - `36氪` [氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争](https://36kr.com/p/3913320648971395?f=rss)
 > 大公司：
   汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家
@@ -60,11 +72,8 @@
   
   TOP 3大新闻
   滥用市场支配地位实施垄断行为，携程被罚没5...
-- `36氪` [硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资](https://36kr.com/p/3911162147640456?f=rss)
-> 作者 | 邱晓芬
-  编辑 | 袁斯来
-  硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。
-  这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」两个月内再次获得投资，此外，该公司Pre-...
+- `少数派` [派早报：月之暗面开源 Kimi K3 模型等](https://sspai.com/post/112805)
+> 少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中你可能错过的文章角落新声｜不再烧Hi-Fi后，我在走步机上给音乐留了一小时Wind ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/112785)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」](https://sspai.com/post/101668)
@@ -83,101 +92,94 @@
 > 编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...查看全文
 - `少数派` [赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！](https://sspai.com/post/112679)
 > 不是说好AI来临人类就解放了吗，怎么我连手机都买不起了？查看全文
-- `少数派` [派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等](https://sspai.com/post/112677)
-> 欧盟委员会对 Google 处以总计 8.9 亿欧元罚款，Anthropic 扩大 Claude 语音模式支持范围。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)
-> Article URL: https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html
-Comments URL: https://news.ycombinator.com/item?id=49069132
-Points: 31
-# Comments: 15
-- `Hacker News` [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565)
-> Article URL: https://xcancel.com/HedgieMarkets/status/2081534588485296565
-Comments URL: https://news.ycombinator.com/item?id=49068738
-Points: 260
-# Comments: 149
-- `Hacker News` [The Proof Machine (2016)](https://incredible.pm/)
-> Article URL: https://incredible.pm/
-Comments URL: https://news.ycombinator.com/item?id=49068711
-Points: 11
-# Comments: 0
-- `Hacker News` [Worse on Purpose](https://ledger.worseonpurpose.com/brands)
-> Article URL: https://ledger.worseonpurpose.com/brands
-Comments URL: https://news.ycombinator.com/item?id=49068707
-Points: 57
-# Comments: 24
-- `Hacker News` [Elevated errors on Claude Opus 5](https://status.claude.com/incidents/mfdtrknpxghq)
-> Article URL: https://status.claude.com/incidents/mfdtrknpxghq
-Comments URL: https://news.ycombinator.com/item?id=49068029
-Points: 42
-# Comments: 43
-- `Hacker News` [Google Chrome Arrives on ARM64 Linux, Widevine DRM Included](https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available)
-> Article URL: https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available
-Comments URL: https://news.ycombinator.com/item?id=49067919
-Points: 28
+- `Hacker News` [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283)
+> Article URL: https://arxiv.org/abs/2607.05283
+Comments URL: https://news.ycombinator.com/item?id=49077209
+Points: 19
 # Comments: 7
-- `Hacker News` [How is the Bun Rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)
-> Article URL: https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html
-Comments URL: https://news.ycombinator.com/item?id=49067854
-Points: 207
-# Comments: 140
-- `Hacker News` [The Birth of the American 12-string Guitar](https://www.harpguitars.net/history/grunewald/12-string.htm)
-> Article URL: https://www.harpguitars.net/history/grunewald/12-string.htm
-Comments URL: https://news.ycombinator.com/item?id=49067690
-Points: 37
-# Comments: 16
-- `Hacker News` [Libsm64: Mario 64 as a library for use in external game engines](https://github.com/libsm64/libsm64)
-> Article URL: https://github.com/libsm64/libsm64
-Comments URL: https://news.ycombinator.com/item?id=49067352
-Points: 59
-# Comments: 10
-- `Hacker News` [Removing React.js from the codebase and adapting Htmx for UI interactivity](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/)
-> Article URL: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
-Comments URL: https://news.ycombinator.com/item?id=49067301
-Points: 59
-# Co...
-- `TechCrunch` [Snapchat now lets you share what you’re listening to in real time](https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/)
-> Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.
-- `TechCrunch` [Enigma raises $70M to make controlling a robot as easy as adjusting the volume](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)
-> The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.
-- `TechCrunch` [Europe got its own TBPN-style live show, and everyone’s angling for a guest spot](https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/)
-> On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the po...
-- `TechCrunch` [Are brain waves the next unlock for physical AI?](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)
-> Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.
-- `TechCrunch` [Can Apple make smart glasses that aren’t a constant privacy threat?](https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/)
-> As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.
-- `TechCrunch` [Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)
-> On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.
-- `TechCrunch` [Inside one London founder house rewriting the founder-house rules](https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
-> How one founder house is betting work-life balance can beat burnout .
-- `TechCrunch` [Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)
-> "The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!"
-- `TechCrunch` [TechCrunch Mobility: Uber bets on its former CEO](https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-- `TechCrunch` [Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
-> A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.
-- `The Verge` [Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity)
-> Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools ar...
-- `The Verge` [Meta is royally screwing up its smart glasses rollout](https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables)
-> Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these "the biggest advanc...
-- `The Verge` [Champagne and Bullets belongs on the Mount Rushmore of bad movies](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review)
-> There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of "so bad they're good" films are marvelous curiosities where ambition far outstri...
-- `The Verge` [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy)
-> According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the co...
-- `The Verge` [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password)
-> The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a "duress password" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson air...
-- `The Verge` [Carrie is just trying to make a friend in the new trailer](https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con)
-> Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't c...
-- `The Verge` [You can get three months of Xbox Game Pass Ultimate for almost half off](https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale)
-> Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on...
-- `The Verge` [Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more](https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con)
-> While perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The highest profile was certainly the announcement that Ryan Gosling would be joining...
-- `The Verge` [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers'...
-- `The Verge` [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
-> Google's vice president of devices and services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoi...
+- `Hacker News` [Show HN: Trylle – The Next-Gen Git Platform for Modern Teams](https://trylle.com/home)
+> Article URL: https://trylle.com/home
+Comments URL: https://news.ycombinator.com/item?id=49076978
+Points: 8
+# Comments: 3
+- `Hacker News` [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/)
+> Article URL: https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-f...
+- `Hacker News` [DConf 2026 in London](https://dconf.org/2026/index.html)
+> Article URL: https://dconf.org/2026/index.html
+Comments URL: https://news.ycombinator.com/item?id=49076840
+Points: 50
+# Comments: 24
+- `Hacker News` [C/C++ projects packaged for Zig](https://github.com/allyourcodebase)
+> Article URL: https://github.com/allyourcodebase
+Comments URL: https://news.ycombinator.com/item?id=49076791
+Points: 32
+# Comments: 22
+- `Hacker News` [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md)
+> Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md
+Comments URL: https://news.ycombinator.com/item?id=4907...
+- `Hacker News` [Hard Road – A beautiful procedural post-apocalyptic game](https://hardroad.xyz/)
+> Article URL: https://hardroad.xyz/
+Comments URL: https://news.ycombinator.com/item?id=49076382
+Points: 35
+# Comments: 12
+- `Hacker News` [A missing underscore sent innocent man to prison for 18 months](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/)
+> Article URL: https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/
+Comments URL: https://news.ycombinator.com/item?id=49076116
+Points: 157
+# Com...
+- `Hacker News` [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
+> Article URL: https://www.anthropic.com/news/position-open-weights-models
+Comments URL: https://news.ycombinator.com/item?id=49076057
+Points: 496
+# Comments: 703
+- `Hacker News` [Forth](https://xkcd.com/3277/)
+> Article URL: https://xkcd.com/3277/
+Comments URL: https://news.ycombinator.com/item?id=49074991
+Points: 136
+# Comments: 28
+- `TechCrunch` [Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/)
+> Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.
+- `TechCrunch` [Satya Nadella says companies that trust one AI for everything may not survive](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/)
+> Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.
+- `TechCrunch` [Thea Energy lands $20M federal grant to build its magnets for fusion reactors](https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/)
+> Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.
+- `TechCrunch` [As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube](https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/)
+> The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.
+- `TechCrunch` [PSA: Your Claude shared chats and Artifacts may have ended up on Google](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/)
+> The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.
+- `TechCrunch` [Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/)
+> Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.
+- `TechCrunch` [Apple sued after alleged App Store crypto scam cost users $1.8M](https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/)
+> Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstand...
+- `TechCrunch` [Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX](https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/)
+> Amazon is expanding its plans for providing satellite connectivity to mobile phones.
+- `TechCrunch` [Antares raises $470M to build nuclear reactors for the US military](https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/)
+> Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.
+- `TechCrunch` [OpenAI’s Hugging Face breach has reignited the debate over alignment and control](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/)
+> OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.
+- `The Verge` [X Money is launching in the US starting today](https://www.theverge.com/tech/971649/x-money-launch-elon-musk)
+> X Money, a core part of Elon Musk's mission to turn X into an "everything app," is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payment...
+- `The Verge` [Razer’s analog Huntsman V3 Pro is over 20 percent off](https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale)
+> Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, w...
+- `The Verge` [Xbox’s huge outage even blocked games on disc](https://www.theverge.com/games/971545/xbox-outage-disc-physical-games)
+> An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page i...
+- `The Verge` [Nanoleaf’s colorful pegboard and shelf kit is half off](https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale)
+> Nanoleaf’s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-prof...
+- `The Verge` [Why China is giving away its best AI models](https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies)
+> Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companie...
+- `The Verge` [YouTube Premium will include Peacock starting next year](https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal)
+> YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream ...
+- `The Verge` [Amazon’s trying to launch a global satellite cellphone network in 2028](https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network)
+> Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for "voice, messaging, data, and emergency services." If...
+- `The Verge` [This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800](https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review)
+> Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor ...
+- `The Verge` [Tariffs didn’t bring manufacturing jobs back to the US](https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada)
+> Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in ea...
+- `The Verge` [Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99](https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale)
+> The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung’s 27-inch 1440p model cost...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
