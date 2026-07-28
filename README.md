@@ -6,10 +6,51 @@
 
 # 📰 每日科技日报 — 2026-07-28
 
-> 自动收集于 2026-07-28 02:56 | 共 50 条
+> 自动收集于 2026-07-28 13:24 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思](https://36kr.com/p/3915239611739781?f=rss)
+> 7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“慕思”）总部举行。本次工作推进会由东莞市科学技术局、厚街镇人民政府指导，慕思、广东华中科技大学工业技术研究院联合主办，东莞市相关职能部门、顶尖高校、三甲医疗机构、产业链核心企业、投资机构及主流媒体代表约300人参会。
+  推进会同步举行聘任与授牌仪式，正式聘任中科院院士、华中科技大学副校长尹周...
+- `36氪` [氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动](https://36kr.com/p/3913321294369924?f=rss)
+> 大公司：
+  YouTube与NBC环球达成合作协议，将为美用户提供流媒体捆绑服务
+  7月27日，美国流媒体平台YouTube与媒体巨头NBC环球（NBCUniversal）宣布深化战略合作。根据双方达成的协议，自2027年初起，美国本土的YouTube Premium订阅用户将无需支付额外费用，直接获取NBC环球旗下流媒体平台Peacock Premium的会员权益。（新浪财经）
+  M...
+- `36氪` [UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发](https://36kr.com/p/3913213962540164?f=rss)
+> 作者 | 黄楠
+  编辑 | 袁斯来
+  硬氪获悉，人形机器人基础模型公司德塔智能（Delta Intelligence）近日完成近5亿元天使++轮融资，本轮投资方包括多家上市公司产业方和头部财务投资机构。资金将主要用于人形机器人基础模型持续迭代，加快自研数采设备的量产与数据闭环建设，扩充核心研发团队，以推动技术在真实工业场景中的工程化落地与验证。
+ ...
+- `36氪` [沃尔沃中国全面"吉利化"，首款超豪轿车对标尊界S800｜36氪独家](https://36kr.com/p/3913637793059968?f=rss)
+> 从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。
+  36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示，新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。
+  今年5月，段建军从北京奔驰转战沃尔沃，全面接管产研供销体系。过去13年间，他曾让奔驰S级与迈...
+- `36氪` [Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目](https://36kr.com/p/3915057199535233?f=rss)
+> 文｜邓咏仪
+  编辑｜张雨忻
+  吴秉哲每天至少复盘一次。
+  作为北大计算机博士，他同时也是一个高频的投资者。每天盘后，他会回顾当天的判断——哪些预案执行了，哪些被盘面的新信息打乱了，哪些潜意识的决策事后被验证是对的。
+  这个习惯持续了很多年。但有一个问题是，大部分复盘都没被系统性地沉淀下来。
+  “你的认知是一种资产，但现在所有东西都停留在人脑里。”吴秉哲说。他和Kando AI CE...
+- `36氪` [重估老铺黄金](https://36kr.com/p/3914752931976583?f=rss)
+> 撰文｜张晶
+  2026年的老铺黄金，正在面对一场严重的割裂。
+  一边是线下门店人气未减。7月23日，北京SKP开启七夕预售第一天，老铺黄金门店前再次排起长队，上演了一场疯狂星期四。商场还没开门，已有顾客在大门外排起长队，准备冲一把老铺黄金。熟悉SKP的人曾说，SKP现在的业绩，在老铺。
+  另一边割裂的是，老铺黄金在资本市场的持续低迷。从今年年初至今，老铺股价大幅下跌，较2025年7月创...
+- `36氪` [🎁36氪送福利！免费抽大疆 Osmo Pocket 4、DJI MIC MINI，还有专属礼品！](https://36kr.com/p/3913529825039745?f=rss)
+> 参与门槛超简单，全程仅需 15 秒
+  打开抽奖小程序，简单操作两步就能解锁抽奖资格：
+  
+   进入36��企业全情报小程序快速体验，耗时不超15秒。
+   任选一家企业完成订阅
+  
+  完成以上操作，直接免费获得抽奖机会，不用充值、不用拉人，人人可参与！
+  
+  扫码参与抽奖！
+  🎁豪华奖品池，中奖好物全实拍
+  🥇 一等奖大疆 Osmo Pocket 4口袋里的专业影像机，记录...
 - `36氪` [8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果](https://36kr.com/p/3914520847570307?f=rss)
 > 今日热点导览
   
@@ -32,46 +73,14 @@
   航空新能源动力系统，正在酝酿新的变革。
   36氪获悉，航空新能源动力系统解决方案供应商「易氢动力」已完成数千万元天使+轮融资，由红鸟启航基金和贵州科创天使基金领投，水木清华校友种子基金，启迪之星创投，楹辉创投，金源合及天使会跟投。本轮资金主要用于航空级液冷燃料电池产品的开发及验证，以及空冷燃料电池在多场景的商业化推广及应用。
   过去十年，氢燃料电池研...
-- `36氪` [2026年，为什么资本更青睐“会赚钱”的AI应用？](https://36kr.com/p/3913706151400583?f=rss)
-> 今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。
-  过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。
-  估值半年翻 6 倍的同时，他们也主动放弃了 DAU 这个过去两年...
-- `36氪` [最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线](https://36kr.com/p/3912369056240772?f=rss)
-> 文 | 张卓倩
-  编辑 | 袁斯来
-  低空经济领域迎来里程碑式突破！牧羽天航空近日正式宣布，旗下飞行重卡 AT8000 整机机身已经在无锡市新吴区空港园区隆重下线。作为全球已知最大的eVTOL，飞行重卡AT8000 的下线标志着我国在重载低空物流装备领域实现全球领跑，为低空经济商业化落地应用注入核心动力。
-  
-  飞行重卡 AT8000 
-  全球重载无人货运标杆，8 吨级 ...
-- `36氪` [36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付](https://36kr.com/p/3913490184754313?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。
-  一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI教练与运动服务的智能训练生态。公司创始人刘...
-- `36氪` [优衣库一边关店，一边赚钱](https://36kr.com/p/3913266058826880?f=rss)
-> 作者 | 谢芸子
-  编辑 | 张帆
-  优衣库在悄悄赚钱。
-  近日，优衣库母公司迅销集团上调了对2026财年的盈利指引，预计全年销售额增长17%至3.97万亿日元，约合214亿欧元。对比来看，H&M集团2026财年预期营收在199亿至208亿欧元。
-  这意味着，迅销将取代H&M，成为全球第二的“自有服装品牌零售商”，仅次于Zara的母公司Inditex。支撑迅...
-- `36氪` [36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投](https://36kr.com/p/3910655616521348?f=rss)
-> 36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。
-  2024年，36氪曾率先报道MORROR ART的近...
-- `36氪` [最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动](https://36kr.com/p/3912546487637378?f=rss)
-> 文｜阿至
-  过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。
-  根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变...
-- `36氪` [8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国](https://36kr.com/p/3913118530819457?f=rss)
-> 今日热点导览
-  
-   A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间
-   360原董秘称离职7年股权激励未兑现，涉及金额约2649万
-   马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋
-   法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实
-   韩国养老金7月首度净买入KOSPI成分股，为今年首次
-  
-  TOP 3大新闻
-  滥用市场支配地位实施垄断行为，携程被罚没5...
+- `少数派` [社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包](https://sspai.com/post/112820)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码](https://sspai.com/post/112822)
+> 在手机相册里选好一张图，拿着手机往电脑屏幕轻轻一碰，图片就直接出现在了《简讯》app「半角巷」的编辑框里。不用翻文件夹，也不用靠传输工具互联，《简讯》团队把这个改动叫做「跨端发送从五步变一步」。让人觉 ...查看全文
+- `少数派` [从《奥德赛》观影聊聊 IMAX 影院的分类](https://sspai.com/post/112380)
+> 聊聊 IMAX 放映系统的区别及影厅选择策略，帮你选到视效更震撼、更接近导演创作意图的版本。查看全文
+- `少数派` [索尼抛弃实体游戏光盘，谁成为了转型代价？](https://sspai.com/post/112774)
+> 占核心营收和利润支柱的业务，是不是应该追求最为稳妥的业务方向和逻辑？这个问题对于强大的索尼而言，答案大不相同。查看全文
 - `少数派` [派早报：月之暗面开源 Kimi K3 模型等](https://sspai.com/post/112805)
 > 少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中你可能错过的文章角落新声｜不再烧Hi-Fi后，我在走步机上给音乐留了一小时Wind ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/112785)
@@ -84,62 +93,64 @@
 > 携程因滥用市场支配地位被罚 51.79 亿元英伟达、微软等联名支持开放权重模型「谷歌一下」成为过时说法上海交大医学院宣布调查基因编辑致死事件Geekbench 7 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧](https://sspai.com/post/112421)
 > 「太热了，今天不聊了，赶紧回去吹空调。」查看全文
-- `少数派` [看不见、摸得着的家居要素：聊聊湿度管理的方法与实践](https://sspai.com/post/112093)
-> 基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。查看全文
-- `少数派` [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/112692)
-> 📅本周新预告《复仇者联盟5：毁灭之日》正式预告7月20日，电影《复仇者联盟5：毁灭之日》发布了正式预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡、小罗伯特· ...查看全文
-- `少数派` [角落新声｜数字与实体、有线与无线：我的多场景有声角落构建](https://sspai.com/post/112232)
-> 编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...查看全文
-- `少数派` [赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！](https://sspai.com/post/112679)
-> 不是说好AI来临人类就解放了吗，怎么我连手机都买不起了？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283)
-> Article URL: https://arxiv.org/abs/2607.05283
-Comments URL: https://news.ycombinator.com/item?id=49077209
-Points: 19
-# Comments: 7
-- `Hacker News` [Show HN: Trylle – The Next-Gen Git Platform for Modern Teams](https://trylle.com/home)
-> Article URL: https://trylle.com/home
-Comments URL: https://news.ycombinator.com/item?id=49076978
-Points: 8
+- `Hacker News` [I'm 38 and I Can't Support Myself Anymore](https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore)
+> Article URL: https://itsmevox.substack.com/p/im-38-and-i-cant-support-myself-anymore
+Comments URL: https://news.ycombinator.com/item?id=49082857
+Points: 93
+# Comments: 72
+- `Hacker News` [AI revenues are growing fast, but not fast enough](https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough)
+> Article URL: https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough
+Comments URL: https://news.ycombinator.com/item?id=49082706
+Points: 9
+# Comm...
+- `Hacker News` [Mondragon Corporation – a federation of co-operatives](https://en.wikipedia.org/wiki/Mondragon_Corporation)
+> Article URL: https://en.wikipedia.org/wiki/Mondragon_Corporation
+Comments URL: https://news.ycombinator.com/item?id=49082695
+Points: 23
+# Comments: 0
+- `Hacker News` [Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)](https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/)
+> Article URL: https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/
+Comments URL: https://news.ycombinator.com/item?id=49082550
+Points: 14
 # Comments: 3
-- `Hacker News` [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/)
-> Article URL: https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-f...
-- `Hacker News` [DConf 2026 in London](https://dconf.org/2026/index.html)
-> Article URL: https://dconf.org/2026/index.html
-Comments URL: https://news.ycombinator.com/item?id=49076840
-Points: 50
-# Comments: 24
-- `Hacker News` [C/C++ projects packaged for Zig](https://github.com/allyourcodebase)
-> Article URL: https://github.com/allyourcodebase
-Comments URL: https://news.ycombinator.com/item?id=49076791
-Points: 32
-# Comments: 22
-- `Hacker News` [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md)
-> Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md
-Comments URL: https://news.ycombinator.com/item?id=4907...
-- `Hacker News` [Hard Road – A beautiful procedural post-apocalyptic game](https://hardroad.xyz/)
-> Article URL: https://hardroad.xyz/
-Comments URL: https://news.ycombinator.com/item?id=49076382
-Points: 35
-# Comments: 12
-- `Hacker News` [A missing underscore sent innocent man to prison for 18 months](https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/)
-> Article URL: https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/
-Comments URL: https://news.ycombinator.com/item?id=49076116
-Points: 157
-# Com...
-- `Hacker News` [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
-> Article URL: https://www.anthropic.com/news/position-open-weights-models
-Comments URL: https://news.ycombinator.com/item?id=49076057
-Points: 496
-# Comments: 703
-- `Hacker News` [Forth](https://xkcd.com/3277/)
-> Article URL: https://xkcd.com/3277/
-Comments URL: https://news.ycombinator.com/item?id=49074991
-Points: 136
-# Comments: 28
+- `Hacker News` [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)
+> Article URL: https://arxiv.org/abs/2510.26692
+Comments URL: https://news.ycombinator.com/item?id=49082022
+Points: 15
+# Comments: 1
+- `Hacker News` [Show HN: Open-source Cloudflare deployed agent native task management and wiki](https://tajd.github.io/projektor/)
+> There are many task tracking solutions out there but this one is mine. It's open source and free to host on your own Cloudflare project.https://github.com/TAJD/projektorI had issues with paying for...
+- `Hacker News` [Usenet Archive Toolkit – process Usenet messages into a searchable archive](https://github.com/wolfpld/usenetarchive)
+> Article URL: https://github.com/wolfpld/usenetarchive
+Comments URL: https://news.ycombinator.com/item?id=49081862
+Points: 6
+# Comments: 0
+- `Hacker News` [DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It](https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026)
+> Article URL: https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026
+Comments URL: https://news.ycombinator.com/item?id=49081783
+Points: 11
+# Comments: 7
+- `Hacker News` [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083)
+> Article URL: https://spawn-queue.acm.org/doi/10.1145/3819083
+Comments URL: https://news.ycombinator.com/item?id=49081644
+Points: 43
+# Comments: 31
+- `Hacker News` [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067)
+> Article URL: https://support.apple.com/en-us/128067
+Comments URL: https://news.ycombinator.com/item?id=49081555
+Points: 108
+# Comments: 60
+- `TechCrunch` [Recursive Superintelligence signs $410 compute deal with Amazon](https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/)
+> Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.
+- `TechCrunch` [Granola launches an Apple Watch app](https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/)
+> Granola debutes an Apple Watch app for in-person notetaking
+- `TechCrunch` [Lyft and Baidu enter London’s robotaxi battleground as testing begins](https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/)
+> Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.
+- `TechCrunch` [Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing](https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/)
+> Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.
 - `TechCrunch` [Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/)
 > Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.
 - `TechCrunch` [Satya Nadella says companies that trust one AI for everything may not survive](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/)
@@ -152,34 +163,26 @@ Points: 136
 > The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.
 - `TechCrunch` [Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system](https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/)
 > Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.
-- `TechCrunch` [Apple sued after alleged App Store crypto scam cost users $1.8M](https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/)
-> Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging the company’s longstand...
-- `TechCrunch` [Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX](https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/)
-> Amazon is expanding its plans for providing satellite connectivity to mobile phones.
-- `TechCrunch` [Antares raises $470M to build nuclear reactors for the US military](https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/)
-> Antares has raised $470 million to build small modular reactors — 100 kW to 1 MW — for U.S. Air Force bases.
-- `TechCrunch` [OpenAI’s Hugging Face breach has reignited the debate over alignment and control](https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/)
-> OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.
+- `The Verge` [Twelve South’s stylish charging tray now delivers more wireless power with a smaller footprint](https://www.theverge.com/tech/969957/twelve-south-valet-wireless-charger-qi2-25w-leather)
+> Following the original's debut at CES earlier this year, Twelve South is introducing a new version of its leather-wrapped Valet charging tray designed for use in places where space is at a premium....
+- `The Verge` [You don’t need to splurge on an expensive handheld fan to beat the heat](https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan)
+> Despite what influencers may say, you don’t need to spend $99.99 on Dyson’s HushJet Mini Cool or $149.99 for the Shark ChillPill to survive the summer whenever you leave the comfort of air-conditio...
+- `The Verge` [Logitech’s handheld plans are on ice — don’t expect a G Cloud 2 soon](https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview)
+> Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea of gaming handhelds. "It's such a charming value proposition," he says, as we sip iced vanilla lattes at my local cafe. But h...
+- `The Verge` [Perplexity’s Personal Computer turns Windows PCs into AI agents](https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents)
+> Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perple...
+- `The Verge` [Apple launches ‘Upgrade’ program to lease new devices](https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch)
+> Apple has officially introduced "Apple Upgrade," a new leasing program that aims to make it easier to get your hands on the latest iPhone, Mac, iPad, and Apple Watch models. The service is launchin...
+- `The Verge` [Smart rings are looking like my kind of AI gadget](https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index)
+> Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fa...
+- `The Verge` [Hugging Face is being used to easily undress women and children](https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children)
+> Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the Eur...
 - `The Verge` [X Money is launching in the US starting today](https://www.theverge.com/tech/971649/x-money-launch-elon-musk)
 > X Money, a core part of Elon Musk's mission to turn X into an "everything app," is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payment...
 - `The Verge` [Razer’s analog Huntsman V3 Pro is over 20 percent off](https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale)
 > Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, w...
 - `The Verge` [Xbox’s huge outage even blocked games on disc](https://www.theverge.com/games/971545/xbox-outage-disc-physical-games)
 > An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page i...
-- `The Verge` [Nanoleaf’s colorful pegboard and shelf kit is half off](https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale)
-> Nanoleaf’s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-prof...
-- `The Verge` [Why China is giving away its best AI models](https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies)
-> Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companie...
-- `The Verge` [YouTube Premium will include Peacock starting next year](https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal)
-> YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream ...
-- `The Verge` [Amazon’s trying to launch a global satellite cellphone network in 2028](https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network)
-> Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for "voice, messaging, data, and emergency services." If...
-- `The Verge` [This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800](https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review)
-> Framework laptops always come with compromises in exchange for their unique DIY premise. Even though you pay extra for one compared to sleeker options from competitors, it's easier to excuse minor ...
-- `The Verge` [Tariffs didn’t bring manufacturing jobs back to the US](https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada)
-> Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in ea...
-- `The Verge` [Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99](https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale)
-> The cost of QD-OLED gaming monitors is going down, even as many other PC components are still soaring above their normal prices. If your budget is locked at $300, Samsung’s 27-inch 1440p model cost...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
