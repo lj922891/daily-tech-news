@@ -4,12 +4,39 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-29
+# 📰 每日科技日报 — 2026-07-30
 
-> 自动收集于 2026-07-29 13:30 | 共 50 条
+> 自动收集于 2026-07-30 02:48 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [希音：一家时尚品牌包裹下的科技公司](https://36kr.com/p/3917513813650824?f=rss)
+> 作者  | 王熠 
+  封面来源  |  企业图片 
+  是时候重新认识希音了。
+  7月26日，希音国际（SHEIN）向港交所披露聆讯后资料集，高盛、摩根士丹利、摩根大通担任联席保荐人。从聆讯后资料集中，可以清晰地看到希音近年来的业绩表现。
+  2023年至2025年及2026年一季度，希音营收分别为321.03亿美元、387.4...
+- `36氪` [36氪首发｜本末科技前合伙人创业做电助力渔轮，获高瓴、启明创投联合投资](https://36kr.com/p/3916820073623171?f=rss)
+> 文｜张子怡
+  编辑｜袁斯来
+  硬氪获悉，海洋科技消费品公司「蓝色涌现」近日完成数千万人民币天使+轮融资，本轮投资方高瓴创投联合启明创投领投，云沐资本跟投，老股东天使投资人高秉强教授、奇绩创坛、松禾创投联创等持续加注，累计融资超5000万人民币，云沐资本担任独家财务顾问。本轮资金将主要用于核心产品的技术研发迭代，以及产品上市后的市场销售渠道搭建。
+  蓝色涌现成立于2024年，首款产品是面...
+- `36氪` [8点1氪丨超1100名AI公司员工联名请愿美国政府；桃酥吃出假牙冠？山姆、泸溪河回应；月之暗面Kimi已完成超35亿美元F轮融资](https://36kr.com/p/3917362478148993?f=rss)
+> 今日热点导览
+  C长鑫成交额达400亿元
+  国家烟草专卖局约谈爱奇迹（深圳）技术有限公司
+  外交部回应美国实施先进机器人进口限制
+  宝马拟在德国裁员数千人，通过自愿离职计划削减成本
+  美联储宣布维持利率不变
+  TOP3大新闻
+  Anthropic首席执行官等多位AI大牛签署联名信，呼吁控制人工智能发展步伐
+  超过1100名来自领先人工智能公司的高管及员工联名签署了一封公开信，...
+- `36氪` [让AI先吃，这个国民级健康难题有解了](https://36kr.com/p/3916800672656773?f=rss)
+> 在科学减重这件事上，继战略投资薄荷健康之后，蚂蚁阿福又放了个大招。
+  7月29日，蚂蚁阿福宣布升级上线“AI拍饮食”功能，用户拍食物照片发给阿福，就能自动估算营养和热量信息，获得健康饮食搭配建议和运动消耗计划等，还支持一健存入个人健康档案，建立“热量账户”。吃得对不对，多不多，一目了然。
+  
+  阿福此次推出“AI拍饮食”功能，并非是一项孤立动作。
+  一个月前，36氪曾报道，蚂蚁阿福发...
 - `36氪` [氪星晚报 | 月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元； SpaceX空头持仓超260亿美元，账面获利超70亿](https://36kr.com/p/3916547493965442?f=rss)
 > 大公司：
   美的集团：受欧洲持续极端高温影响当地空调需求爆发，空调芜湖、广州双基地一月内新增欧洲订单共20万台
@@ -40,28 +67,8 @@
   编辑｜海若镜
   36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由仙居蓝湾基金、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。
   米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力...
-- `36氪` [8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源](https://36kr.com/p/3915953688604296?f=rss)
-> 今日热点导览
-  
-   李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决
-   小米已注册澎程关联商标
-   泡泡玛特城市乐园涨价
-   英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议
-   “抱抱脸”向OpenAI索赔1亿美元算力
-  
-  TOP 3 大新闻
-  韩国考虑为“借钱炒股”封顶20%
-  韩国KOSPI指数尾盘扩大跌幅，日内大跌11%，自4月14日以来首次跌破6...
-- `36氪` [36氪研究院 | 2026年中国智能硬件行业发展研究报告](https://36kr.com/p/3915066350327176?f=rss)
-> 当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术...
-- `36氪` [科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思](https://36kr.com/p/3915239611739781?f=rss)
-> 7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“慕思”）总部举行。本次工作推进会由东莞市科学技术局、厚街镇人民政府指导，慕思、广东华中科技大学工业技术研究院联合主办，东莞市相关职能部门、顶尖高校、三甲医疗机构、产业链核心企业、投资机构及主流媒体代表约300人参会。
-  推进会同步举行聘任与授牌仪式，正式聘任中科院院士、华中科技大学副校长尹周...
-- `36氪` [氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动](https://36kr.com/p/3913321294369924?f=rss)
-> 大公司：
-  YouTube与NBC环球达成合作协议，将为美用户提供流媒体捆绑服务
-  7月27日，美国流媒体平台YouTube与媒体巨头NBC环球（NBCUniversal）宣布深化战略合作。根据双方达成的协议，自2027年初起，美国本土的YouTube Premium订阅用户将无需支付额外费用，直接获取NBC环球旗下流媒体平台Peacock Premium的会员权益。（新浪财经）
-  M...
+- `少数派` [派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等](https://sspai.com/post/112881)
+> Bigme 大我推出 F13 彩墨屏 AI 数码相框，OpenAI 宣布开源 Codex Security CLI 等。查看全文
 - `少数派` [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787)
 > 本文为你梳理 8.0 版本 iA Writer 的主要亮点。查看全文
 - `少数派` [陕北看海，黄土难寻](https://sspai.com/post/112761)
@@ -78,97 +85,96 @@
 > 聊聊 IMAX 放映系统的区别及影厅选择策略，帮你选到视效更震撼、更接近导演创作意图的版本。查看全文
 - `少数派` [索尼抛弃实体游戏光盘，谁成为了转型代价？](https://sspai.com/post/112774)
 > 占核心营收和利润支柱的业务，是不是应该追求最为稳妥的业务方向和逻辑？这个问题对于强大的索尼而言，答案大不相同。查看全文
-- `少数派` [派早报：月之暗面开源 Kimi K3 模型等](https://sspai.com/post/112805)
-> 少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中你可能错过的文章角落新声｜不再烧Hi-Fi后，我在走步机上给音乐留了一小时Wind ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/112785)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)](https://jcgt.org/published/0015/02/01/)
-> Article URL: https://jcgt.org/published/0015/02/01/
-Comments URL: https://news.ycombinator.com/item?id=49096742
-Points: 6
-# Comments: 0
-- `Hacker News` [Pulse Path – a browser puzzle where placement is the only decision](https://pulsepathgame.netlify.app/)
-> Article URL: https://pulsepathgame.netlify.app/
-Comments URL: https://news.ycombinator.com/item?id=49096493
-Points: 3
-# Comments: 0
-- `Hacker News` [Disrupting supply chain attacks on NPM and GitHub Actions](https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/)
-> Article URL: https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/
-Comments URL: https://news.ycombinator.com/item?id=49096427
-Points: 3
-# Co...
-- `Hacker News` [French musician Kavinsky found dead](https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home)
-> Article URL: https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home
-Comments URL: https://news.ycombinator.com/item?id=49096290
-Points: 8...
-- `Hacker News` [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
-> Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/
-Comments URL: https://news.ycombinator.com/item?id=49096188
-Points: 93
-# Comments: 64
-- `Hacker News` [KOReader](https://koreader.rocks/)
-> Article URL: https://koreader.rocks/
-Comments URL: https://news.ycombinator.com/item?id=49095865
-Points: 155
-# Comments: 64
-- `Hacker News` [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html)
-> Article URL: https://docs.imiron.io/v/0.5.10/en/tour.html
-Comments URL: https://news.ycombinator.com/item?id=49095628
-Points: 36
-# Comments: 1
-- `Hacker News` [Amiga Graphics Archive](https://amiga.lychesis.net/index.html)
-> Article URL: https://amiga.lychesis.net/index.html
-Comments URL: https://news.ycombinator.com/item?id=49095511
+- `Hacker News` [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/)
+> Article URL: https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/
+Comments URL: https://news.ycomb...
+- `Hacker News` [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/)
+> Article URL: https://waveformsecurity.com/blog/flume/
+Comments URL: https://news.ycombinator.com/item?id=49105136
+Points: 15
+# Comments: 5
+- `Hacker News` [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
+> I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast l...
+- `Hacker News` [The Productivity Mirage](https://frantic.im/mirage/)
+> Article URL: https://frantic.im/mirage/
+Comments URL: https://news.ycombinator.com/item?id=49104335
 Points: 54
+# Comments: 18
+- `Hacker News` [Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)](https://archive.org/details/mancomputerbyjoh0000john)
+> Article URL: https://archive.org/details/mancomputerbyjoh0000john
+Comments URL: https://news.ycombinator.com/item?id=49104140
+Points: 21
 # Comments: 9
-- `Hacker News` [Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels](https://vimgolf.ai)
-> Just launched my app, VimGolf.ai! As users complete the levels on the map, I introduce progressively more complicated concepts — it’s aimed at people who have never used Vim. Any feedback would be ...
-- `Hacker News` [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
-> Article URL: https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers
-Comments URL: https://news.ycombinator.com/item?id=49094346...
-- `TechCrunch` [DoorDash is building its own drone delivery business](https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/)
-> DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.
-- `TechCrunch` [Spotify adds a running mode to its app](https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/)
-> Running Mode will be available to Premium users on iOS in select countries
-- `TechCrunch` [Fast Metals is treating waste with more waste to extract critical minerals](https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/)
-> Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.
-- `TechCrunch` [As AI content floods the internet, Pangram raises $9M to detect it](https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/)
-> Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.
-- `TechCrunch` [Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents](https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/)
-> The deal is Cyera's third acquisition this year.
-- `TechCrunch` [Bot-detection startup Spur nabs $200M from Insight](https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/)
-> Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.
-- `TechCrunch` [MCP startup Runlayer accuses Rippling of stealing its product idea](https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/)
-> Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.
-- `TechCrunch` [Sam Altman is ready to decelerate](https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/)
-> His change of position comes after "the first security incident that I have felt very viscerally."
-- `TechCrunch` [Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy](https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/)
-> Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned...
-- `TechCrunch` [The robot NASA hired to lift a orbital telescope tumbled out of control](https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/)
-> According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.
-- `The Verge` [DoorDash is going airborne with new drone delivery division](https://www.theverge.com/science/970731/doordash-air-drone-delivery-faa)
-> DoorDash is launching a new drone delivery program called DoorDash Air. The largest food delivery app in the US said that it has approval from the Federal Aviation Administration that clears the wa...
-- `The Verge` [The Nothing Ear 3A look great… and sound good enough](https://www.theverge.com/tech/972254/nothing-ear-3a-earbuds-review)
-> Nothing has had a strong visual identity since the Ear 1 were released in 2021 for $99 and challenged the notion that a highly featured headset requires a high price. The Ear 3A have the same trans...
-- `The Verge` [Samsung’s Galaxy Z Fold 8 feels like the future](https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review)
-> Is this the future of foldable phones? Samsung clearly thinks so. The company has given its new wide foldable the "Z Fold 8" name, positioning the phone not as a widescreen oddity, but as the new n...
-- `The Verge` [Artists are lawyering up against AI slop, and some are even winning](https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic)
-> When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found i...
-- `The Verge` [OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face](https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face)
-> The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an alread...
-- `The Verge` [We’re running out of reasons to ignore AI safety](https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning)
-> Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an inter...
-- `The Verge` [Xbox outage shouldn’t have affected games on disc, Microsoft confirms](https://www.theverge.com/games/972416/xbox-outage-game-disc-entitlement-check-issue)
-> After the recent Xbox outage even blocked people from playing offline disc-based console games, Microsoft is trying to soothe concerns that you don't truly own anything under Xbox's license system....
-- `The Verge` [The US is banning foreign robots](https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban)
-> The US government is targeting China with a new import ban on "advanced robotic devices" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday...
-- `The Verge` [Ariana Grande is suing the hackers who’ve been leaking her songs and videos for years](https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit)
-> Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to "uncover the i...
-- `The Verge` [The union drive at the Wikimedia Foundation is expanding](https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike)
-> In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intention to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive,...
+- `Hacker News` [LLM Honeypot](https://llm2human.pages.dev/)
+> Article URL: https://llm2human.pages.dev/
+Comments URL: https://news.ycombinator.com/item?id=49104117
+Points: 75
+# Comments: 30
+- `Hacker News` [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+> Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
+Comments URL: https://news.ycombinator.com/item?id=49103285
+Points: 242
+# Comments: 134
+- `Hacker News` [The Cold Email](https://zachholman.com/posts/cold-email)
+> Article URL: https://zachholman.com/posts/cold-email
+Comments URL: https://news.ycombinator.com/item?id=49103089
+Points: 101
+# Comments: 41
+- `Hacker News` [SalesPatriot (YC W25) Is Hiring FDEs](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
+> Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer
+Comments URL: https://news.ycombinator.com/item?id=49103026
+Points: 0
+# Comments: 0
+- `Hacker News` [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
+> Article URL: https://christianselig.com/2026/07/vision-pro-house/
+Comments URL: https://news.ycombinator.com/item?id=49102774
+Points: 420
+# Comments: 196
+- `TechCrunch` [Microsoft is openly competing with OpenAI, Anthropic more than ever](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)
+> Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.
+- `TechCrunch` [Mark Zuckerberg predicts that billions of people will have personal AI agents in five years](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/)
+> As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.
+- `TechCrunch` [Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/)
+> When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and co...
+- `TechCrunch` [Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents](https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/)
+> On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.
+- `TechCrunch` [Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Dis...](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/)
+> At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
+- `TechCrunch` [Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI](https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/)
+> Weng previously served as the VP of AI Safety Research at OpenAI.
+- `TechCrunch` [Winamp aims for a comeback with a new music player powered by Deezer](https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/)
+> Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.
+- `TechCrunch` [The Hugging Face AI break-in, as told through an increasingly committed bear metaphor](https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/)
+> Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)
+- `TechCrunch` [Claude Opus 5 became downright ruthless when tasked with running a vending machine](https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/)
+> Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.
+- `TechCrunch` [Sorry, haters. Ferrari’s first EV is doing just fine](https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/)
+> To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.
+- `The Verge` [Microsoft confirms Copilot ‘super app’ coming this year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed)
+> Microsoft is working on an AI "super app" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span "b...
+- `The Verge` [Mark Zuckerberg is planning a big push into personal AI agents](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents)
+> Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg...
+- `The Verge` [Qualcomm is raising phone chip prices starting September 1st](https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings)
+> RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that "prices are goi...
+- `The Verge` [xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law](https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit)
+> xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets "nudification" apps, claiming that the statute's punitive provisions leave the company with ...
+- `The Verge` [Cyberpunk 2077 packs a lot of fun into its discounted $20 price](https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale)
+> Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game ...
+- `The Verge` [Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges](https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026)
+> Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales decl...
+- `The Verge` [What’s the catch with the Apple Upgrade program?](https://www.theverge.com/tech/972583/apple-upgrade-program-deal)
+> Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the...
+- `The Verge` [OpenAI president says it’s ‘building a family of devices’ for its AI chatbots](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview)
+> In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a "family of devices" for interacting with its AI models. However,...
+- `The Verge` [The US government just banned Roombas](https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums)
+> When the Trump administration announced yesterday that it was banning "advanced robotic devices" from entering the United States, the headlines were all about humanoids. But spying doesn't require ...
+- `The Verge` [Full school day cellphone bans are more popular than ever](https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever)
+> As schools across the country continue to implement cellphone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cellphon...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
