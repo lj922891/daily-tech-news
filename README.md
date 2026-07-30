@@ -6,10 +6,34 @@
 
 # 📰 每日科技日报 — 2026-07-30
 
-> 自动收集于 2026-07-30 02:48 | 共 50 条
+> 自动收集于 2026-07-30 13:20 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [和我们同龄，却提前告别的人](https://36kr.com/p/3918001898073737?f=rss)
+> 长大后慢慢发现，死亡不再只属于长辈与遥远的年龄。本该一起奔赴成年、打拼生活、慢慢变老的同龄人，有人停在了二十几岁、三十几岁，没能走完往后的人生。 
+  中元节临近，我们想收集大家关于同龄人离世所有细碎、真实、无法释怀的回忆。如果你愿意，可以把Ta介绍给我们认识吗？你们有着怎样的故事？还记得你们的最后一面吗？所有的遗憾、错愕与思念，都可以好好说出来，欢迎扫描下方二维码参与我们的征集。...
+- `36氪` [36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」](https://36kr.com/p/3917984470576769?f=rss)
+>  
+   
+  消费决策入口正在发生变化。
+  过去，人们购买一款产品，往往依赖品牌认知、朋友推荐、内容测评，或者在搜索框中主动寻找答案。
+  但如今，这一过程正在被AI重新改写。
+  “20-30万元新能源轿车怎么选？”“适合油皮的抗老精华有哪些？”“预算5000元买什么手机？”越来越多具体消费问题，开始直接交给AI回答。
+  QuestMobile数据显示，截至202...
+- `36氪` [MORROR ART莫纳发布全透明歌词音响A2，“电子家居”布局更进一步丨最前线](https://36kr.com/p/3917989583236738?f=rss)
+> 图源/企业
+  作者丨欧雪
+  编辑丨袁斯来
+  7月28日，中国原创音乐科技品牌MORROR ART莫纳推出全透明歌词音响A2，官方售价3899元，同步在国内全渠道开售。
+  硬氪了解到，A2的海外同源产品SonicGlass此前在Kickstarter上线约30天，众筹金额便已突破120万美元。
+  与第一代产品A1相比，A2的升级集中在三个层面：
+  首先是透明设计的深化。产品采用高透...
+- `36氪` [易方达「戒酒」](https://36kr.com/p/3917548470218371?f=rss)
+> 作者 | 黄绎达
+  编辑 | 张帆
+  今年一骑绝尘的韩国股市在近期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。
+  张坤管理的QDII基金易方达亚洲精选（以下简称：亚洲精选），也重仓...
 - `36氪` [希音：一家时尚品牌包裹下的科技公司](https://36kr.com/p/3917513813650824?f=rss)
 > 作者  | 王熠 
   封面来源  |  企业图片 
@@ -47,26 +71,12 @@
   凌晨三点，新手爸妈第三次起身，摸黑查看宝宝尿裤有无侧漏、臀部是否闷出红疹。依靠经验熬夜看护的传统育儿模式，已是无数家庭的共同困扰。而随着 AI 技术产业化落地，这一育儿痛点迎来全新解法。
   2022 年 ChatGPT 问世，拉开生成式 AI 商业化序幕。国内 AI 产业蓬勃发展，百模大战持续推进，AI 感知、物联网、大数据等技术日趋成熟，为实体产业智能化升级提供坚实支撑。
  ...
-- `36氪` [华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁](https://36kr.com/p/3916108853521792?f=rss)
-> 文 | 张卓倩
-  编辑 | 袁斯来
-  近日，国内IDM激光芯片企业浙江华辰芯光技术有限公司（简称华辰芯光）宣布完成新一轮超亿元级人民币融资。本轮融资由同创伟业领投，张江垚坤、洪山资本跟投，部分老股东追投，该批资金将主要用于加强华辰芯光的多系列量产芯片可靠性测试能力建设。
-  华辰芯光坚定走高端光芯片研发发展路线，自公司成立之初就确立了“IDM（垂直整合制造）芯片制造模式”及“研发高可靠大...
-- `36氪` [在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab](https://36kr.com/p/3916202023660929?f=rss)
-> 文｜王欣逸
-  编辑｜张雨忻
-  见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。
-  陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Product Hunt日榜；2025年10月，Mind Lab成立，团队约30余人，Mind Lab创始人Andr...
-- `36氪` [柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发](https://36kr.com/p/3915175290901889?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  硬氪获悉，柔性触觉感知企业「尧乐科技」近日完成Pre-A+新一轮融资，本轮融资由鼎和高达领投，上市公司常熟汽饰、祖龙娱乐跟投，云道资本担任长期独家财务顾问。资金将主要用于柔性织物传感技术研发、产品性能迭代升级，加快数据手套产能拓展和批量交付，并完善数据采集、标定与接口能力，加速面向具身智能、世界模型与智能座舱等场景落地。
-  尧乐科技以柔性织物传感为硬件入口...
-- `36氪` [自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发](https://36kr.com/p/3878652674715905?f=rss)
-> 文｜胡香赟
-  编辑｜海若镜
-  36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由仙居蓝湾基金、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。
-  米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力...
+- `少数派` [App+1 | 免费、多功能的远程控制新选择：网易 UU 远程](https://sspai.com/post/112405)
+> 从远程桌面到终端、端口映射和云电脑，网易 UU 远程帮你一站式搞定。查看全文
+- `少数派` [在流媒体时代，搭建一个专属于自己的「音乐探索系统」](https://sspai.com/post/112656)
+> 信息过剩时代真正的难题，不是无法获得更多，而是不知道应该舍弃什么。——BrianEno（英国作曲家、音乐制作人和音乐理论家）前言过去的人找寻，乃至于更深层次地喜欢上某位音乐家或者某张专辑，是一件相对认 ...查看全文
+- `少数派` [少数派会员年度更新：把共同的热爱随身携带](https://sspai.com/post/112858)
+> 感谢每一位已经同行多年的会员，也欢迎新朋友加入我们共同建设的社区。查看全文
 - `少数派` [派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等](https://sspai.com/post/112881)
 > Bigme 大我推出 F13 彩墨屏 AI 数码相框，OpenAI 宣布开源 Codex Security CLI 等。查看全文
 - `少数派` [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787)
@@ -81,60 +91,67 @@
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码](https://sspai.com/post/112822)
 > 在手机相册里选好一张图，拿着手机往电脑屏幕轻轻一碰，图片就直接出现在了《简讯》app「半角巷」的编辑框里。不用翻文件夹，也不用靠传输工具互联，《简讯》团队把这个改动叫做「跨端发送从五步变一步」。让人觉 ...查看全文
-- `少数派` [从《奥德赛》观影聊聊 IMAX 影院的分类](https://sspai.com/post/112380)
-> 聊聊 IMAX 放映系统的区别及影厅选择策略，帮你选到视效更震撼、更接近导演创作意图的版本。查看全文
-- `少数派` [索尼抛弃实体游戏光盘，谁成为了转型代价？](https://sspai.com/post/112774)
-> 占核心营收和利润支柱的业务，是不是应该追求最为稳妥的业务方向和逻辑？这个问题对于强大的索尼而言，答案大不相同。查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/112785)
-> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/)
-> Article URL: https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/
-Comments URL: https://news.ycomb...
-- `Hacker News` [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/)
-> Article URL: https://waveformsecurity.com/blog/flume/
-Comments URL: https://news.ycombinator.com/item?id=49105136
-Points: 15
-# Comments: 5
-- `Hacker News` [Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)
-> I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast l...
-- `Hacker News` [The Productivity Mirage](https://frantic.im/mirage/)
-> Article URL: https://frantic.im/mirage/
-Comments URL: https://news.ycombinator.com/item?id=49104335
-Points: 54
-# Comments: 18
-- `Hacker News` [Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)](https://archive.org/details/mancomputerbyjoh0000john)
-> Article URL: https://archive.org/details/mancomputerbyjoh0000john
-Comments URL: https://news.ycombinator.com/item?id=49104140
-Points: 21
-# Comments: 9
-- `Hacker News` [LLM Honeypot](https://llm2human.pages.dev/)
-> Article URL: https://llm2human.pages.dev/
-Comments URL: https://news.ycombinator.com/item?id=49104117
-Points: 75
-# Comments: 30
-- `Hacker News` [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
-> Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
-Comments URL: https://news.ycombinator.com/item?id=49103285
-Points: 242
-# Comments: 134
-- `Hacker News` [The Cold Email](https://zachholman.com/posts/cold-email)
-> Article URL: https://zachholman.com/posts/cold-email
-Comments URL: https://news.ycombinator.com/item?id=49103089
-Points: 101
-# Comments: 41
-- `Hacker News` [SalesPatriot (YC W25) Is Hiring FDEs](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
-> Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer
-Comments URL: https://news.ycombinator.com/item?id=49103026
+- `Hacker News` [Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers](https://www.ycombinator.com/companies/mbodi-ai/jobs)
+> Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs
+Comments URL: https://news.ycombinator.com/item?id=49108840
 Points: 0
 # Comments: 0
-- `Hacker News` [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
-> Article URL: https://christianselig.com/2026/07/vision-pro-house/
-Comments URL: https://news.ycombinator.com/item?id=49102774
-Points: 420
-# Comments: 196
+- `Hacker News` [GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)
+> Article URL: https://lwn.net/Articles/1086041/
+Comments URL: https://news.ycombinator.com/item?id=49108685
+Points: 106
+# Comments: 102
+- `Hacker News` [ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms)
+> Article URL: https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms
+Comments URL: https://news.ycombinator.com/item?id=49108556
+Points: 27
+...
+- `Hacker News` [Gpiozero Flow](https://bennuttall.com/blog/2026/07/gpiozero-flow/)
+> Article URL: https://bennuttall.com/blog/2026/07/gpiozero-flow/
+Comments URL: https://news.ycombinator.com/item?id=49108048
+Points: 78
+# Comments: 21
+- `Hacker News` [Google will expand age checks on Android worldwide till the end of the year](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html)
+> Article URL: https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html
+Comments URL: https://news.ycombinator.com/item?id=49107950
+Points: 150
+# Comments:...
+- `Hacker News` [Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode](https://github.com/YoanWai/agent-manager)
+> Article URL: https://github.com/YoanWai/agent-manager
+Comments URL: https://news.ycombinator.com/item?id=49107749
+Points: 36
+# Comments: 21
+- `Hacker News` [Carolina Cloud pays SOFR on unused prepaid credits](https://docs.carolinacloud.io/organizations/prepaid-interest/)
+> Article URL: https://docs.carolinacloud.io/organizations/prepaid-interest/
+Comments URL: https://news.ycombinator.com/item?id=49107713
+Points: 37
+# Comments: 26
+- `Hacker News` [The Apple Calculator Language](https://wadetregaskis.com/the-apple-calculator-language/)
+> Article URL: https://wadetregaskis.com/the-apple-calculator-language/
+Comments URL: https://news.ycombinator.com/item?id=49107437
+Points: 19
+# Comments: 4
+- `Hacker News` [Cisco FMC static credential vulnerability exploited as a zero-day](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh)
+> Article URL: https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh
+Comments URL: https://news.ycombinator.com/item?id=49107382
+Points: 8
+# C...
+- `Hacker News` [Ron Gilbert started production on Thimbleweed Park 2](https://www.grumpygamer.com/twp2_announce/)
+> Article URL: https://www.grumpygamer.com/twp2_announce/
+Comments URL: https://news.ycombinator.com/item?id=49107246
+Points: 70
+# Comments: 24
+- `TechCrunch` [Zoox clears final federal hurdle to launch paid robotaxi service](https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/)
+> Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.
+- `TechCrunch` [Spotify adds a running mode to its app](https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/)
+> Running Mode will be available to Premium users on iOS in select countries
+- `TechCrunch` [Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks](https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/)
+> London-based Inforcer just closed a $50 million Series C round led by Insight Partners.
+- `TechCrunch` [Dili raises $21.7M to bring AI compliance to the infrastructure boom](https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/)
+> The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.
 - `TechCrunch` [Microsoft is openly competing with OpenAI, Anthropic more than ever](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)
 > Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.
 - `TechCrunch` [Mark Zuckerberg predicts that billions of people will have personal AI agents in five years](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/)
@@ -147,14 +164,14 @@ Points: 420
 > At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
 - `TechCrunch` [Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI](https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/)
 > Weng previously served as the VP of AI Safety Research at OpenAI.
-- `TechCrunch` [Winamp aims for a comeback with a new music player powered by Deezer](https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/)
-> Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.
-- `TechCrunch` [The Hugging Face AI break-in, as told through an increasingly committed bear metaphor](https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/)
-> Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)
-- `TechCrunch` [Claude Opus 5 became downright ruthless when tasked with running a vending machine](https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/)
-> Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.
-- `TechCrunch` [Sorry, haters. Ferrari’s first EV is doing just fine](https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/)
-> To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.
+- `The Verge` [Spotify Running Mode helps match tunes to tempo](https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists)
+> Spotify has introduced a new Running Mode feature that makes it easier to curate playlists around your workout goals, music tastes, and desired beats per minute (BPM). The aim is to help you "spend...
+- `The Verge` [Amazon’s short story collections are one of the best reasons to own a Kindle](https://www.theverge.com/tech/972612/amazons-kindle-short-stories)
+> Over the last few years, I've gradually shifted away from ebooks. It's been part of a general return to physical media, an attempt to create a deeper sense of ownership over the art I love and coll...
+- `The Verge` [A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera](https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review)
+> DJI's Osmo Pocket 4P is a pretty simple proposition: an Osmo Pocket 4 with a second camera lens slapped inside. But is that extra lens worth the added size, weight, and cost relative to the regular...
+- `The Verge` [SwitchBot makes a better fan](https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan)
+> I was already a big fan of SwitchBot's big circulator fan I recently reviewed, and now we're getting the SwitchBot Battery Circulator Fan 2 Pro. Priced at $119.99, it ditches the height-adjustable ...
 - `The Verge` [Microsoft confirms Copilot ‘super app’ coming this year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed)
 > Microsoft is working on an AI "super app" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span "b...
 - `The Verge` [Mark Zuckerberg is planning a big push into personal AI agents](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents)
@@ -167,14 +184,6 @@ Points: 420
 > Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game ...
 - `The Verge` [Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges](https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026)
 > Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales decl...
-- `The Verge` [What’s the catch with the Apple Upgrade program?](https://www.theverge.com/tech/972583/apple-upgrade-program-deal)
-> Apple's new Upgrade program is here, allowing you to lease select models of iPhones, iPads, Macs, and Watches with a relatively low monthly payment. The company promises you won't pay more than the...
-- `The Verge` [OpenAI president says it’s ‘building a family of devices’ for its AI chatbots](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview)
-> In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a "family of devices" for interacting with its AI models. However,...
-- `The Verge` [The US government just banned Roombas](https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums)
-> When the Trump administration announced yesterday that it was banning "advanced robotic devices" from entering the United States, the headlines were all about humanoids. But spying doesn't require ...
-- `The Verge` [Full school day cellphone bans are more popular than ever](https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever)
-> As schools across the country continue to implement cellphone bans, a new Pew Research Center survey shows they continue to gain support. Seventy-seven percent of US adults support banning cellphon...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
