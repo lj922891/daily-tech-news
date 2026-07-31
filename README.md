@@ -6,10 +6,53 @@
 
 # 📰 每日科技日报 — 2026-07-31
 
-> 自动收集于 2026-07-31 03:31 | 共 50 条
+> 自动收集于 2026-07-31 13:24 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报](https://36kr.com/p/3910776673064073?f=rss)
+> 文｜王毓婵 兰杰
+  编辑｜乔芊
+  36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。
+  36氪就此事向B站方面求证，对方暂无回应。
+  
+  曾爱玲
+  B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。
+  曾爱玲的个人主页显示，她曾在腾讯混元&AI Lab团队和国际数字...
+- `36氪` [氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统](https://36kr.com/p/3919378312670857?f=rss)
+> 大公司：
+  途牛：8月中上旬或将迎新一轮客流高峰
+  36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。
+  Prada集团上半年营收增长16%，Miu Miu增速显著...
+- `36氪` [开云的转折：在中国，做一个AI乐观派](https://36kr.com/p/3919225763540611?f=rss)
+> 作者 | 谢芸子 黄绎达
+  编辑 | 张帆
+  开云的转型初见成效。
+  7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。
+  更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。
+  其中，核心品牌古驰Guc...
+- `36氪` [最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立](https://36kr.com/p/3919301778288261?f=rss)
+> 文｜张子怡
+  编辑｜袁斯来
+  随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。
+  前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。...
+- `36氪` [创业这件事，你最关心的问题是什么？36氪想跟你聊一聊](https://36kr.com/p/3919112515956355?f=rss)
+> 你的创业想法，值得被看见
+  有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。
+  我们发现，每位创业者关注的重点都不一样，但大家都在面对同一个问题：
+  未来，企业该如何更好地发展？
+   
+  为了更真实地了解创业者当下最关心的话题，36氪发起了一份创业者需求调研。这份问卷没有标准答案，也不是产品推广，而是...
+- `36氪` [最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”](https://36kr.com/p/3919271016263303?f=rss)
+> 文｜张子怡
+  编辑｜袁斯来
+  低空经济正从飞行器制造走向城市治理。
+  7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。
+  据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用组成...
+- `36氪` [滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利](https://36kr.com/p/3919137999957382?f=rss)
+> AI在企业端的快速渗透正在被持续验证。
+  7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。
+  分业务来看，与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至7...
 - `36氪` [菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发](https://36kr.com/p/3917874427555457?f=rss)
 > 作者｜黄楠
   编辑｜袁斯来
@@ -37,47 +80,12 @@
   TOP3大新闻
   宇树科技：初步询价日为8月5日，网下申购日为8月10日
   7月30日，宇树科技公告，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相...
-- `36氪` [氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台](https://36kr.com/p/3917972674735747?f=rss)
-> 大公司：
-  证监会同意沈鼓集团沪市主板IPO注册
-  36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。
-  三星电子：已同全球五大数据中心客户签订合同
-  据报道，三星电子7月30日预测，明年存储芯片供不应求现象将进一步加剧，超大规模云服务商扩大对人工智能（AI）基础设施的投资，带动服务器、固态硬盘、高带宽内存（HBM）需求进一步增长。三星电子称，公司...
-- `36氪` [和我们同龄，却提前告别的人](https://36kr.com/p/3918001898073737?f=rss)
-> 长大后慢慢发现，死亡不再只属于长辈与遥远的年龄。本该一起奔赴成年、打拼生活、慢慢变老的同龄人，有人停在了二十几岁、三十几岁，没能走完往后的人生。 
-  中元节临近，我们想收集大家关于同龄人离世所有细碎、真实、无法释怀的回忆。如果你愿意，可以把Ta介绍给我们认识吗？你们有着怎样的故事？还记得你们的最后一面吗？所有的遗憾、错愕与思念，都可以好好说出来，欢迎扫描下方二维码参与我们的征集。...
-- `36氪` [36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」](https://36kr.com/p/3917984470576769?f=rss)
->  
-   
-  消费决策入口正在发生变化。
-  过去，人们购买一款产品，往往依赖品牌认知、朋友推荐、内容测评，或者在搜索框中主动寻找答案。
-  但如今，这一过程正在被AI重新改写。
-  “20-30万元新能源轿车怎么选？”“适合油皮的抗老精华有哪些？”“预算5000元买什么手机？”越来越多具体消费问题，开始直接交给AI回答。
-  QuestMobile数据显示，截至202...
-- `36氪` [MORROR ART莫纳发布全透明歌词音响A2，“电子家居”布局更进一步丨最前线](https://36kr.com/p/3917989583236738?f=rss)
-> 图源/企业
-  作者丨欧雪
-  编辑丨袁斯来
-  7月28日，中国原创音乐科技品牌MORROR ART莫纳推出全透明歌词音响A2，官方售价3899元，同步在国内全渠道开售。
-  硬氪了解到，A2的海外同源产品SonicGlass此前在Kickstarter上线约30天，众筹金额便已突破120万美元。
-  与第一代产品A1相比，A2的升级集中在三个层面：
-  首先是透明设计的深化。产品采用高透...
-- `36氪` [易方达「戒酒」](https://36kr.com/p/3917548470218371?f=rss)
-> 作者 | 黄绎达
-  编辑 | 张帆
-  今年一骑绝尘的韩国股市在近期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。
-  张坤管理的QDII基金易方达亚洲精选（以下简称：亚洲精选），也重仓...
-- `36氪` [希音：一家时尚品牌包裹下的科技公司](https://36kr.com/p/3917513813650824?f=rss)
-> 作者  | 王熠 
-  封面来源  |  企业图片 
-  是时候重新认识希音了。
-  7月26日，希音国际（SHEIN）向港交所披露聆讯后资料集，高盛、摩根士丹利、摩根大通担任联席保荐人。从聆讯后资料集中，可以清晰地看到希音近年来的业绩表现。
-  2023年至2025年及2026年一季度，希音营收分别为321.03亿美元、387.4...
-- `36氪` [36氪首发｜本末科技前合伙人创业做电助力渔轮，获高瓴、启明创投联合投资](https://36kr.com/p/3916820073623171?f=rss)
-> 文｜张子怡
-  编辑｜袁斯来
-  硬氪获悉，海洋科技消费品公司「蓝色涌现」近日完成数千万人民币天使+轮融资，本轮投资方高瓴创投联合启明创投领投，云沐资本跟投，老股东天使投资人高秉强教授、奇绩创坛、松禾创投联创等持续加注，累计融资超5000万人民币，云沐资本担任独家财务顾问。本轮资金将主要用于核心产品的技术研发迭代，以及产品上市后的市场销售渠道搭建。
-  蓝色涌现成立于2024年，首款产品是面...
+- `少数派` [本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置](https://sspai.com/post/112962)
+> 以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本文设有有奖互动环节：你有什么特别喜欢的操作系统模拟玩法的游戏吗？（我很喜欢《Uplink》）提前感谢你真诚的分享。>关注少数派小红书，感受精 ...查看全文
+- `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112961)
+> 📅本周新预告《银翼杀手2099》首支预告7月25日，剧集《银翼杀手2099》发布了首支预告，定档11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，擅用各种身份掩饰自己的 ...查看全文
+- `少数派` [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730)
+> 也许在某个瞬间，你会发现：三千年的时间很长，但古人与我们之间，并没有想象中那么遥远。查看全文
 - `少数派` [简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？](https://sspai.com/post/112833)
 > 无论你的运动专项为何，E-cise 都可以构成一个很好的辅助和补充。查看全文
 - `少数派` [派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等](https://sspai.com/post/112930)
@@ -92,60 +100,58 @@
 > Bigme 大我推出 F13 彩墨屏 AI 数码相框，OpenAI 宣布开源 Codex Security CLI 等。查看全文
 - `少数派` [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787)
 > 本文为你梳理 8.0 版本 iA Writer 的主要亮点。查看全文
-- `少数派` [陕北看海，黄土难寻](https://sspai.com/post/112761)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」](https://sspai.com/post/112715)
-> 无论处在什么环境里，都别忘记：我们有听音乐的权利。查看全文
-- `少数派` [社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包](https://sspai.com/post/112820)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
+> Article URL: https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/
+Comments URL: https://news.ycombinator.com/item?id=49122105
+Points: 16
+# Comments: 6
+- `Hacker News` [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
+> Article URL: https://tasklet.ai/careers/customer-success-engineer
+Comments URL: https://news.ycombinator.com/item?id=49122034
+Points: 0
+# Comments: 0
+- `Hacker News` [The End of an Era](https://hughhowey.com/the-end-of-an-era/)
+> Article URL: https://hughhowey.com/the-end-of-an-era/
+Comments URL: https://news.ycombinator.com/item?id=49121980
+Points: 124
+# Comments: 108
+- `Hacker News` [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
+> Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash-ga
+Comments URL: https://news.ycombinator.com/item?id=49120299
+Points: 137
+# Comments: 52
+- `Hacker News` [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
+> Article URL: https://blog.google/security/chrome-stronger-with-every-update/
+Comments URL: https://news.ycombinator.com/item?id=49120097
+Points: 196
+# Comments: 208
+- `Hacker News` [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
+> Article URL: https://api-docs.deepseek.com/updates/
+Comments URL: https://news.ycombinator.com/item?id=49119559
+Points: 408
+# Comments: 206
+- `Hacker News` [Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)
+> Hi HN,I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.I have always been uneasy about opening fil...
+- `Hacker News` [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
+> Article URL: https://github.com/openjdk/jdk/pull/31120
+Comments URL: https://news.ycombinator.com/item?id=49119063
+Points: 165
+# Comments: 90
+- `Hacker News` [The session you cannot take with you](https://earendil.com/posts/session-portability/)
+> Article URL: https://earendil.com/posts/session-portability/
+Comments URL: https://news.ycombinator.com/item?id=49118781
+Points: 519
+# Comments: 135
 - `Hacker News` [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
 > Article URL: https://graybeard.ing/the-religion-of-speed/
 Comments URL: https://news.ycombinator.com/item?id=49117284
-Points: 26
-# Comments: 7
-- `Hacker News` [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
-> Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/
-Comments URL: https://news.ycombinator.com/item?id=49117099
-Points: 162
-# Comments: 84
-- `Hacker News` [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
-> Article URL: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
-Comments URL: https://news.ycombinator.com/item?id=49116922
-Points: 117
-# Comments: 91
-- `Hacker News` [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
-> Article URL: https://geospatialml.com/posts/reviewing-ai-slop/
-Comments URL: https://news.ycombinator.com/item?id=49116721
-Points: 113
-# Comments: 46
-- `Hacker News` [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release)
-> Article URL: https://rune.build/blog/rune-1-1-release
-Comments URL: https://news.ycombinator.com/item?id=49116272
-Points: 54
-# Comments: 18
-- `Hacker News` [Saber-toothed cats became inbred–and struggled to move–before they went extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
-> Article URL: https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct
-Comments URL: https://news.ycombinator.com/item?id=49116074
-Points: 34
-# C...
-- `Hacker News` [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
-> Article URL: https://github.com/AminBlg/SimpleEnglish
-Comments URL: https://news.ycombinator.com/item?id=49114639
-Points: 234
-# Comments: 85
-- `Hacker News` [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
-> Article URL: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/
-Comments URL: https://news.ycombinator.com/item?...
-- `Hacker News` [Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)
-> We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61%...
-- `Hacker News` [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
-> Article URL: https://chriscoyier.net/2026/07/30/codepen-2-0/
-Comments URL: https://news.ycombinator.com/item?id=49113338
-Points: 141
-# Comments: 43
+Points: 212
+# Comments: 102
+- `TechCrunch` [Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers](https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/)
+> Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.
 - `TechCrunch` [Anthropic says its own AI models breached three companies during security tests](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/)
 > After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents
 - `TechCrunch` [Apple stockpiles inventory as it braces for ‘significant supply constraints’](https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/)
@@ -164,8 +170,14 @@ Points: 141
 > The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.
 - `TechCrunch` [Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag](https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/)
 > Friend, the AI wearable, can now talk to its users — for an enhanced price.
-- `TechCrunch` [Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/)
-> As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs a...
+- `The Verge` [D&D is getting World of Warcraft and Star Wars crossovers](https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond)
+> Dungeons & Dragons is no stranger to franchise crossovers, and now it's kicking off its biggest multiverse initiative to date, starting with a World of Warcraft expansion. Wizards of the Coast ...
+- `The Verge` [This tattoo is permanent, pain-free, and might soon come in the mail](https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches)
+> The refurbished railway station in London I entered last week had none of the usual signs of being a tattoo studio. The walls were devoid of any art, and there were no reclining chairs or massage t...
+- `The Verge` [Apple TV’s Cape Fear remake turns it into a paranoid tech thriller](https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology)
+> Cape Fear has always been a thriller about paranoia. And in 2026 there are few things less trustworthy than technology. Apple TV's recent remake of Cape Fear is "inspired" by the 1991 film of the s...
+- `The Verge` [Sony pushes forward with ditching discs, despite backlash](https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward)
+> Sony has received a lot of backlash from PlayStation fans since announcing that it's killing physical game disc production, but that hasn't swayed its decision. During Sony's latest earnings call, ...
 - `The Verge` [Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai)
 > Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upco...
 - `The Verge` [Xbox CEO lays out priorities in memo after major ‘reset’](https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth)
@@ -178,14 +190,6 @@ Points: 141
 > The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or...
 - `The Verge` [LinkedIn actually adds a ‘seems like AI slop’ button](https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button)
 > A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is intr...
-- `The Verge` [Govee’s portable smart lamp is down to one of its best prices to date](https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale)
-> Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and r...
-- `The Verge` [NASA’s Curiosity rover found a ‘sea of polygons’ on Mars](https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons)
-> The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of th...
-- `The Verge` [Google DeepMind’s new AI model can control a robot’s entire body](https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body)
-> Google DeepMind says the latest version of its Gemini Robotics AI model can "control entire humanoid robots." While the previous model focused on controlling a humanoid robot's upper body, Gemini R...
-- `The Verge` [ABC demands FCC drop its ‘punitive’ early license renewal of its stations](https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition)
-> ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effort to chill the spee...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
