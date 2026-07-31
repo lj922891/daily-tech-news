@@ -4,12 +4,45 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-30
+# 📰 每日科技日报 — 2026-07-31
 
-> 自动收集于 2026-07-30 13:20 | 共 50 条
+> 自动收集于 2026-07-31 03:31 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发](https://36kr.com/p/3917874427555457?f=rss)
+> 作者｜黄楠
+  编辑｜袁斯来
+  硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。
+  昆腾动力成立于2026年上半年...
+- `36氪` [中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」](https://36kr.com/p/3918250549931394?f=rss)
+>  
+  所有人都在尝试建立关于AI的判断，但所有共识都在迅速过期。
+   
+  
+   
+  访谈 | 巴芮 海风
+  文 | 海风 刘思洁
+  编辑 | 刘思洁
+  封面图源 | 受访者拍摄“野蛮生长的阶段已经过去了。”
+  这是身处硅谷AI创业一线的马培元最近最深的感受。
+  2021年12月，本科...
+- `36氪` [8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅](https://36kr.com/p/3918776472022402?f=rss)
+> 今日热点导览
+  韩股创纪录的重挫，全球投资者却未进场抄底
+  月之暗面变更为股份公司
+  国内品牌金饰价格集体上涨
+  高通9月1日起上调芯片价格，涨幅达到两位数
+  特斯拉全球第1000万辆电动车下线
+  TOP3大新闻
+  宇树科技：初步询价日为8月5日，网下申购日为8月10日
+  7月30日，宇树科技公告，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相...
+- `36氪` [氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台](https://36kr.com/p/3917972674735747?f=rss)
+> 大公司：
+  证监会同意沈鼓集团沪市主板IPO注册
+  36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。
+  三星电子：已同全球五大数据中心客户签订合同
+  据报道，三星电子7月30日预测，明年存储芯片供不应求现象将进一步加剧，超大规模云服务商扩大对人工智能（AI）基础设施的投资，带动服务器、固态硬盘、高带宽内存（HBM）需求进一步增长。三星电子称，公司...
 - `36氪` [和我们同龄，却提前告别的人](https://36kr.com/p/3918001898073737?f=rss)
 > 长大后慢慢发现，死亡不再只属于长辈与遥远的年龄。本该一起奔赴成年、打拼生活、慢慢变老的同龄人，有人停在了二十几岁、三十几岁，没能走完往后的人生。 
   中元节临近，我们想收集大家关于同龄人离世所有细碎、真实、无法释怀的回忆。如果你愿意，可以把Ta介绍给我们认识吗？你们有着怎样的故事？还记得你们的最后一面吗？所有的遗憾、错愕与思念，都可以好好说出来，欢迎扫描下方二维码参与我们的征集。...
@@ -45,36 +78,14 @@
   编辑｜袁斯来
   硬氪获悉，海洋科技消费品公司「蓝色涌现」近日完成数千万人民币天使+轮融资，本轮投资方高瓴创投联合启明创投领投，云沐资本跟投，老股东天使投资人高秉强教授、奇绩创坛、松禾创投联创等持续加注，累计融资超5000万人民币，云沐资本担任独家财务顾问。本轮资金将主要用于核心产品的技术研发迭代，以及产品上市后的市场销售渠道搭建。
   蓝色涌现成立于2024年，首款产品是面...
-- `36氪` [8点1氪丨超1100名AI公司员工联名请愿美国政府；桃酥吃出假牙冠？山姆、泸溪河回应；月之暗面Kimi已完成超35亿美元F轮融资](https://36kr.com/p/3917362478148993?f=rss)
-> 今日热点导览
-  C长鑫成交额达400亿元
-  国家烟草专卖局约谈爱奇迹（深圳）技术有限公司
-  外交部回应美国实施先进机器人进口限制
-  宝马拟在德国裁员数千人，通过自愿离职计划削减成本
-  美联储宣布维持利率不变
-  TOP3大新闻
-  Anthropic首席执行官等多位AI大牛签署联名信，呼吁控制人工智能发展步伐
-  超过1100名来自领先人工智能公司的高管及员工联名签署了一封公开信，...
-- `36氪` [让AI先吃，这个国民级健康难题有解了](https://36kr.com/p/3916800672656773?f=rss)
-> 在科学减重这件事上，继战略投资薄荷健康之后，蚂蚁阿福又放了个大招。
-  7月29日，蚂蚁阿福宣布升级上线“AI拍饮食”功能，用户拍食物照片发给阿福，就能自动估算营养和热量信息，获得健康饮食搭配建议和运动消耗计划等，还支持一健存入个人健康档案，建立“热量账户”。吃得对不对，多不多，一目了然。
-  
-  阿福此次推出“AI拍饮食”功能，并非是一项孤立动作。
-  一个月前，36氪曾报道，蚂蚁阿福发...
-- `36氪` [氪星晚报 | 月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元； SpaceX空头持仓超260亿美元，账面获利超70亿](https://36kr.com/p/3916547493965442?f=rss)
-> 大公司：
-  美的集团：受欧洲持续极端高温影响当地空调需求爆发，空调芜湖、广州双基地一月内新增欧洲订单共20万台
-  36氪获悉，美的集团在互动平台表示，受欧洲持续极端高温影响，当地空调需求爆发，美的空调芜湖、广州双基地一月内新增欧洲订单共20万台。PortaSplit移动分体空调自6月新增接单超16万台。7月，法国3万台移动空调紧急订单中2万台已完成发运。
-   新东方：2026...
-- `36氪` [AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？](https://36kr.com/p/3916187215408776?f=rss)
-> 导语：
-  凌晨三点，新手爸妈第三次起身，摸黑查看宝宝尿裤有无侧漏、臀部是否闷出红疹。依靠经验熬夜看护的传统育儿模式，已是无数家庭的共同困扰。而随着 AI 技术产业化落地，这一育儿痛点迎来全新解法。
-  2022 年 ChatGPT 问世，拉开生成式 AI 商业化序幕。国内 AI 产业蓬勃发展，百模大战持续推进，AI 感知、物联网、大数据等技术日趋成熟，为实体产业智能化升级提供坚实支撑。
- ...
+- `少数派` [简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？](https://sspai.com/post/112833)
+> 无论你的运动专项为何，E-cise 都可以构成一个很好的辅助和补充。查看全文
+- `少数派` [派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等](https://sspai.com/post/112930)
+> CHERRY 樱桃发布 MW5500 PRO 8K 无线游戏鼠标，零刻推出 SEi13 AI / SEi14 AI 迷你主机等查看全文
 - `少数派` [App+1 | 免费、多功能的远程控制新选择：网易 UU 远程](https://sspai.com/post/112405)
 > 从远程桌面到终端、端口映射和云电脑，网易 UU 远程帮你一站式搞定。查看全文
 - `少数派` [在流媒体时代，搭建一个专属于自己的「音乐探索系统」](https://sspai.com/post/112656)
-> 信息过剩时代真正的难题，不是无法获得更多，而是不知道应该舍弃什么。——BrianEno（英国作曲家、音乐制作人和音乐理论家）前言过去的人找寻，乃至于更深层次地喜欢上某位音乐家或者某张专辑，是一件相对认 ...查看全文
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [少数派会员年度更新：把共同的热爱随身携带](https://sspai.com/post/112858)
 > 感谢每一位已经同行多年的会员，也欢迎新朋友加入我们共同建设的社区。查看全文
 - `少数派` [派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等](https://sspai.com/post/112881)
@@ -85,105 +96,96 @@
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」](https://sspai.com/post/112715)
 > 无论处在什么环境里，都别忘记：我们有听音乐的权利。查看全文
-- `少数派` [派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等](https://sspai.com/post/112837)
-> 少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中你可能错过的好文章社区速递151|派友的六月好物盘点、携程被重罚热议和tomtoc ...查看全文
 - `少数派` [社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包](https://sspai.com/post/112820)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码](https://sspai.com/post/112822)
-> 在手机相册里选好一张图，拿着手机往电脑屏幕轻轻一碰，图片就直接出现在了《简讯》app「半角巷」的编辑框里。不用翻文件夹，也不用靠传输工具互联，《简讯》团队把这个改动叫做「跨端发送从五步变一步」。让人觉 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers](https://www.ycombinator.com/companies/mbodi-ai/jobs)
-> Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs
-Comments URL: https://news.ycombinator.com/item?id=49108840
-Points: 0
-# Comments: 0
-- `Hacker News` [GCC steering committee announces AI policy](https://lwn.net/Articles/1086041/)
-> Article URL: https://lwn.net/Articles/1086041/
-Comments URL: https://news.ycombinator.com/item?id=49108685
-Points: 106
-# Comments: 102
-- `Hacker News` [ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms)
-> Article URL: https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms
-Comments URL: https://news.ycombinator.com/item?id=49108556
-Points: 27
-...
-- `Hacker News` [Gpiozero Flow](https://bennuttall.com/blog/2026/07/gpiozero-flow/)
-> Article URL: https://bennuttall.com/blog/2026/07/gpiozero-flow/
-Comments URL: https://news.ycombinator.com/item?id=49108048
-Points: 78
-# Comments: 21
-- `Hacker News` [Google will expand age checks on Android worldwide till the end of the year](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html)
-> Article URL: https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html
-Comments URL: https://news.ycombinator.com/item?id=49107950
-Points: 150
-# Comments:...
-- `Hacker News` [Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode](https://github.com/YoanWai/agent-manager)
-> Article URL: https://github.com/YoanWai/agent-manager
-Comments URL: https://news.ycombinator.com/item?id=49107749
-Points: 36
-# Comments: 21
-- `Hacker News` [Carolina Cloud pays SOFR on unused prepaid credits](https://docs.carolinacloud.io/organizations/prepaid-interest/)
-> Article URL: https://docs.carolinacloud.io/organizations/prepaid-interest/
-Comments URL: https://news.ycombinator.com/item?id=49107713
-Points: 37
-# Comments: 26
-- `Hacker News` [The Apple Calculator Language](https://wadetregaskis.com/the-apple-calculator-language/)
-> Article URL: https://wadetregaskis.com/the-apple-calculator-language/
-Comments URL: https://news.ycombinator.com/item?id=49107437
-Points: 19
-# Comments: 4
-- `Hacker News` [Cisco FMC static credential vulnerability exploited as a zero-day](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh)
-> Article URL: https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh
-Comments URL: https://news.ycombinator.com/item?id=49107382
-Points: 8
+- `Hacker News` [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
+> Article URL: https://graybeard.ing/the-religion-of-speed/
+Comments URL: https://news.ycombinator.com/item?id=49117284
+Points: 26
+# Comments: 7
+- `Hacker News` [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+> Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/
+Comments URL: https://news.ycombinator.com/item?id=49117099
+Points: 162
+# Comments: 84
+- `Hacker News` [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
+> Article URL: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
+Comments URL: https://news.ycombinator.com/item?id=49116922
+Points: 117
+# Comments: 91
+- `Hacker News` [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
+> Article URL: https://geospatialml.com/posts/reviewing-ai-slop/
+Comments URL: https://news.ycombinator.com/item?id=49116721
+Points: 113
+# Comments: 46
+- `Hacker News` [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release)
+> Article URL: https://rune.build/blog/rune-1-1-release
+Comments URL: https://news.ycombinator.com/item?id=49116272
+Points: 54
+# Comments: 18
+- `Hacker News` [Saber-toothed cats became inbred–and struggled to move–before they went extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
+> Article URL: https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct
+Comments URL: https://news.ycombinator.com/item?id=49116074
+Points: 34
 # C...
-- `Hacker News` [Ron Gilbert started production on Thimbleweed Park 2](https://www.grumpygamer.com/twp2_announce/)
-> Article URL: https://www.grumpygamer.com/twp2_announce/
-Comments URL: https://news.ycombinator.com/item?id=49107246
-Points: 70
-# Comments: 24
-- `TechCrunch` [Zoox clears final federal hurdle to launch paid robotaxi service](https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/)
-> Federal safety regulators have given Zoox a temporary exemption that will allow the Amazon-owned autonomous vehicle technology company to charge customers for rides in its custom-built robotaxi.
-- `TechCrunch` [Spotify adds a running mode to its app](https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/)
-> Running Mode will be available to Premium users on iOS in select countries
-- `TechCrunch` [Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks](https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/)
-> London-based Inforcer just closed a $50 million Series C round led by Insight Partners.
-- `TechCrunch` [Dili raises $21.7M to bring AI compliance to the infrastructure boom](https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/)
-> The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.
-- `TechCrunch` [Microsoft is openly competing with OpenAI, Anthropic more than ever](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)
-> Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.
-- `TechCrunch` [Mark Zuckerberg predicts that billions of people will have personal AI agents in five years](https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/)
-> As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.
-- `TechCrunch` [Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/)
-> When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and co...
-- `TechCrunch` [Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents](https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/)
-> On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.
-- `TechCrunch` [Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Dis...](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/)
-> At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
-- `TechCrunch` [Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI](https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/)
-> Weng previously served as the VP of AI Safety Research at OpenAI.
-- `The Verge` [Spotify Running Mode helps match tunes to tempo](https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists)
-> Spotify has introduced a new Running Mode feature that makes it easier to curate playlists around your workout goals, music tastes, and desired beats per minute (BPM). The aim is to help you "spend...
-- `The Verge` [Amazon’s short story collections are one of the best reasons to own a Kindle](https://www.theverge.com/tech/972612/amazons-kindle-short-stories)
-> Over the last few years, I've gradually shifted away from ebooks. It's been part of a general return to physical media, an attempt to create a deeper sense of ownership over the art I love and coll...
-- `The Verge` [A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera](https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review)
-> DJI's Osmo Pocket 4P is a pretty simple proposition: an Osmo Pocket 4 with a second camera lens slapped inside. But is that extra lens worth the added size, weight, and cost relative to the regular...
-- `The Verge` [SwitchBot makes a better fan](https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan)
-> I was already a big fan of SwitchBot's big circulator fan I recently reviewed, and now we're getting the SwitchBot Battery Circulator Fan 2 Pro. Priced at $119.99, it ditches the height-adjustable ...
-- `The Verge` [Microsoft confirms Copilot ‘super app’ coming this year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed)
-> Microsoft is working on an AI "super app" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span "b...
-- `The Verge` [Mark Zuckerberg is planning a big push into personal AI agents](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents)
-> Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg...
-- `The Verge` [Qualcomm is raising phone chip prices starting September 1st](https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings)
-> RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that "prices are goi...
-- `The Verge` [xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law](https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit)
-> xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets "nudification" apps, claiming that the statute's punitive provisions leave the company with ...
-- `The Verge` [Cyberpunk 2077 packs a lot of fun into its discounted $20 price](https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale)
-> Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game ...
-- `The Verge` [Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges](https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026)
-> Xbox is having yet another tough quarter, as revenue from content and services like its Game Pass subscription dipped 10 percent over the past few months. At the same time, Xbox hardware sales decl...
+- `Hacker News` [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
+> Article URL: https://github.com/AminBlg/SimpleEnglish
+Comments URL: https://news.ycombinator.com/item?id=49114639
+Points: 234
+# Comments: 85
+- `Hacker News` [UEFA and its national associations will not participate in FIFA competitions](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
+> Article URL: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/
+Comments URL: https://news.ycombinator.com/item?...
+- `Hacker News` [Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it](https://www.ctgt.ai/research/distillation-censorship-transfer)
+> We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61%...
+- `Hacker News` [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/)
+> Article URL: https://chriscoyier.net/2026/07/30/codepen-2-0/
+Comments URL: https://news.ycombinator.com/item?id=49113338
+Points: 141
+# Comments: 43
+- `TechCrunch` [Anthropic says its own AI models breached three companies during security tests](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/)
+> After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents
+- `TechCrunch` [Apple stockpiles inventory as it braces for ‘significant supply constraints’](https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/)
+> Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.
+- `TechCrunch` [AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anth...](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/)
+> The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.
+- `TechCrunch` [Reddit reports a solid quarter but shows signs of AI’s impact](https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/)
+> Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.
+- `TechCrunch` [Investors love AI, as long as you’re a cloud host](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/)
+> Amazon isn't slowing down on data center spending — but investors don't seem to mind.
+- `TechCrunch` [Apple says gaming slowdown and App Store changes hurt services growth](https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/)
+> Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the compa...
+- `TechCrunch` [Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/)
+> A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.
+- `TechCrunch` [CareCloud begins to notify hundreds of thousands after hackers stole medical records](https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/)
+> The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.
+- `TechCrunch` [Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag](https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/)
+> Friend, the AI wearable, can now talk to its users — for an enhanced price.
+- `TechCrunch` [Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/)
+> As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs a...
+- `The Verge` [Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai)
+> Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upco...
+- `The Verge` [Xbox CEO lays out priorities in memo after major ‘reset’](https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth)
+> After a massive Xbox "reset" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staf...
+- `The Verge` [Apple’s iPhone and Mac sales keep growing despite RAM shortages](https://www.theverge.com/tech/973430/apple-q3-2026-earnings)
+> Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jum...
+- `The Verge` [The loss of Situational Awareness](https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks)
+> I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name lik...
+- `The Verge` [Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies](https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale)
+> The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or...
+- `The Verge` [LinkedIn actually adds a ‘seems like AI slop’ button](https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button)
+> A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is intr...
+- `The Verge` [Govee’s portable smart lamp is down to one of its best prices to date](https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale)
+> Buying multiple lamps for different rooms can get expensive. Govee’s rechargeable Table Lamp Classic gives you one lamp you can use throughout your home instead of getting one for every room, and r...
+- `The Verge` [NASA’s Curiosity rover found a ‘sea of polygons’ on Mars](https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons)
+> The latest discovery from NASA's Curiosity Mars rover is a field of honeycomb-shaped polygons covering a Martian valley called Valle Grande. As Gizmodo reports, Curiosity has snapped pictures of th...
+- `The Verge` [Google DeepMind’s new AI model can control a robot’s entire body](https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body)
+> Google DeepMind says the latest version of its Gemini Robotics AI model can "control entire humanoid robots." While the previous model focused on controlling a humanoid robot's upper body, Gemini R...
+- `The Verge` [ABC demands FCC drop its ‘punitive’ early license renewal of its stations](https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition)
+> ABC filed its formal opposition to the Federal Communications Commission's effort to force it to submit to an early renewal of its broadcast station licenses, calling it an effort to chill the spee...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
