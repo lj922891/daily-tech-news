@@ -4,12 +4,31 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-07-31
+# 📰 每日科技日报 — 2026-08-01
 
-> 自动收集于 2026-07-31 13:24 | 共 50 条
+> 自动收集于 2026-08-01 03:31 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主](https://36kr.com/p/3920241240419720?f=rss)
+> 今日热点导览
+  字节跳动发布视频创作模型Seedance 2.5
+  长鑫科技市值突破4万亿
+  人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线
+  韩国KOSPI指数上涨18%
+  Anthropic称AI模型在测试期间误侵三家真实机构系统
+  TOP3大新闻
+  马斯克回应特斯拉剥离中国业务
+  7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转...
+- `36氪` [国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目](https://36kr.com/p/3919386961177985?f=rss)
+> 文｜王欣逸
+  编辑｜张雨忻
+   
+  一句话介绍
+  国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。
+  主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。
+  融资情况
+  近日，丘脑智能已完成数千万元种子轮融资，投资方包括深圳...
 - `36氪` [36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报](https://36kr.com/p/3910776673064073?f=rss)
 > 文｜王毓婵 兰杰
   编辑｜乔芊
@@ -58,28 +77,6 @@
   编辑｜袁斯来
   硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。
   昆腾动力成立于2026年上半年...
-- `36氪` [中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」](https://36kr.com/p/3918250549931394?f=rss)
->  
-  所有人都在尝试建立关于AI的判断，但所有共识都在迅速过期。
-   
-  
-   
-  访谈 | 巴芮 海风
-  文 | 海风 刘思洁
-  编辑 | 刘思洁
-  封面图源 | 受访者拍摄“野蛮生长的阶段已经过去了。”
-  这是身处硅谷AI创业一线的马培元最近最深的感受。
-  2021年12月，本科...
-- `36氪` [8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅](https://36kr.com/p/3918776472022402?f=rss)
-> 今日热点导览
-  韩股创纪录的重挫，全球投资者却未进场抄底
-  月之暗面变更为股份公司
-  国内品牌金饰价格集体上涨
-  高通9月1日起上调芯片价格，涨幅达到两位数
-  特斯拉全球第1000万辆电动车下线
-  TOP3大新闻
-  宇树科技：初步询价日为8月5日，网下申购日为8月10日
-  7月30日，宇树科技公告，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相...
 - `少数派` [本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置](https://sspai.com/post/112962)
 > 以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本文设有有奖互动环节：你有什么特别喜欢的操作系统模拟玩法的游戏吗？（我很喜欢《Uplink》）提前感谢你真诚的分享。>关注少数派小红书，感受精 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112961)
@@ -103,93 +100,97 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Ruby Central's Destructive Legacy](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
-> Article URL: https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/
-Comments URL: https://news.ycombinator.com/item?id=49122105
-Points: 16
-# Comments: 6
-- `Hacker News` [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
-> Article URL: https://tasklet.ai/careers/customer-success-engineer
-Comments URL: https://news.ycombinator.com/item?id=49122034
+- `Hacker News` [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
+> Article URL: https://microsoft.github.io/flint-chart/
+Comments URL: https://news.ycombinator.com/item?id=49130604
+Points: 3
+# Comments: 0
+- `Hacker News` [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
+> Article URL: https://www.raptitude.com/2026/07/how-to-exist/
+Comments URL: https://news.ycombinator.com/item?id=49129990
+Points: 48
+# Comments: 15
+- `Hacker News` [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
+> Article URL: https://code.intellios.ai/cwbrowser/
+Comments URL: https://news.ycombinator.com/item?id=49128826
+Points: 50
+# Comments: 19
+- `Hacker News` [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
+> Article URL: https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator
+Comments URL: https://news.ycombinator.com/item?id=49128462
 Points: 0
 # Comments: 0
-- `Hacker News` [The End of an Era](https://hughhowey.com/the-end-of-an-era/)
-> Article URL: https://hughhowey.com/the-end-of-an-era/
-Comments URL: https://news.ycombinator.com/item?id=49121980
-Points: 124
-# Comments: 108
-- `Hacker News` [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
-> Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash-ga
-Comments URL: https://news.ycombinator.com/item?id=49120299
-Points: 137
-# Comments: 52
-- `Hacker News` [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
-> Article URL: https://blog.google/security/chrome-stronger-with-every-update/
-Comments URL: https://news.ycombinator.com/item?id=49120097
-Points: 196
-# Comments: 208
-- `Hacker News` [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
-> Article URL: https://api-docs.deepseek.com/updates/
-Comments URL: https://news.ycombinator.com/item?id=49119559
-Points: 408
-# Comments: 206
-- `Hacker News` [Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)
-> Hi HN,I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.I have always been uneasy about opening fil...
-- `Hacker News` [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
-> Article URL: https://github.com/openjdk/jdk/pull/31120
-Comments URL: https://news.ycombinator.com/item?id=49119063
-Points: 165
-# Comments: 90
-- `Hacker News` [The session you cannot take with you](https://earendil.com/posts/session-portability/)
-> Article URL: https://earendil.com/posts/session-portability/
-Comments URL: https://news.ycombinator.com/item?id=49118781
-Points: 519
-# Comments: 135
-- `Hacker News` [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/)
-> Article URL: https://graybeard.ing/the-religion-of-speed/
-Comments URL: https://news.ycombinator.com/item?id=49117284
-Points: 212
-# Comments: 102
-- `TechCrunch` [Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers](https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/)
-> Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.
-- `TechCrunch` [Anthropic says its own AI models breached three companies during security tests](https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/)
-> After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents
-- `TechCrunch` [Apple stockpiles inventory as it braces for ‘significant supply constraints’](https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/)
-> Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.
-- `TechCrunch` [AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anth...](https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/)
-> The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.
-- `TechCrunch` [Reddit reports a solid quarter but shows signs of AI’s impact](https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/)
-> Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.
-- `TechCrunch` [Investors love AI, as long as you’re a cloud host](https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/)
-> Amazon isn't slowing down on data center spending — but investors don't seem to mind.
-- `TechCrunch` [Apple says gaming slowdown and App Store changes hurt services growth](https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/)
-> Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the compa...
-- `TechCrunch` [Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/)
-> A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.
-- `TechCrunch` [CareCloud begins to notify hundreds of thousands after hackers stole medical records](https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/)
-> The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.
-- `TechCrunch` [Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag](https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/)
-> Friend, the AI wearable, can now talk to its users — for an enhanced price.
-- `The Verge` [D&D is getting World of Warcraft and Star Wars crossovers](https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond)
-> Dungeons & Dragons is no stranger to franchise crossovers, and now it's kicking off its biggest multiverse initiative to date, starting with a World of Warcraft expansion. Wizards of the Coast ...
-- `The Verge` [This tattoo is permanent, pain-free, and might soon come in the mail](https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches)
-> The refurbished railway station in London I entered last week had none of the usual signs of being a tattoo studio. The walls were devoid of any art, and there were no reclining chairs or massage t...
-- `The Verge` [Apple TV’s Cape Fear remake turns it into a paranoid tech thriller](https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology)
-> Cape Fear has always been a thriller about paranoia. And in 2026 there are few things less trustworthy than technology. Apple TV's recent remake of Cape Fear is "inspired" by the 1991 film of the s...
-- `The Verge` [Sony pushes forward with ditching discs, despite backlash](https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward)
-> Sony has received a lot of backlash from PlayStation fans since announcing that it's killing physical game disc production, but that hasn't swayed its decision. During Sony's latest earnings call, ...
-- `The Verge` [Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai)
-> Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upco...
-- `The Verge` [Xbox CEO lays out priorities in memo after major ‘reset’](https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth)
-> After a massive Xbox "reset" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staf...
-- `The Verge` [Apple’s iPhone and Mac sales keep growing despite RAM shortages](https://www.theverge.com/tech/973430/apple-q3-2026-earnings)
-> Apple's iPhone and Mac sales are on the rise even as a global memory shortage squeezes device makers. In its third-quarter earnings report released on Thursday, Apple revealed that iPhone sales jum...
-- `The Verge` [The loss of Situational Awareness](https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks)
-> I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name lik...
-- `The Verge` [Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies](https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale)
-> The Galaxy Watch 9 launches on August 7th, and not only does Costco have the best preorder incentives we’ve seen so far, the watch is also discounted. The deal includes the 40mm Watch 9 in cream or...
-- `The Verge` [LinkedIn actually adds a ‘seems like AI slop’ button](https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button)
-> A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is intr...
+- `Hacker News` [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
+> Article URL: https://arxiv.org/abs/2607.28233
+Comments URL: https://news.ycombinator.com/item?id=49128323
+Points: 42
+# Comments: 17
+- `Hacker News` [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
+> https://github.com/jwlaboratory/bite-the-bullet
+
+Comments URL: https://news.ycombinator.com/item?id=49127874
+Points: 33
+# Comments: 3
+- `Hacker News` [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
+> Article URL: https://tailscale.com/blog/hugging-face-intrusion
+Comments URL: https://news.ycombinator.com/item?id=49127306
+Points: 479
+# Comments: 189
+- `Hacker News` [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
+> Article URL: https://github.com/golang/go/issues/80590
+Comments URL: https://news.ycombinator.com/item?id=49127031
+Points: 129
+# Comments: 79
+- `Hacker News` [Using the railway network as a flatbed scanner [video]](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)
+> Article URL: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner
+Comments URL: https://news.ycombinator.com/item?id=49126919
+Points: 58
+# Comments: 25
+- `Hacker News` [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)
+> Article URL: https://github.com/l00sed/termixer
+Comments URL: https://news.ycombinator.com/item?id=49126883
+Points: 57
+# Comments: 35
+- `TechCrunch` [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)
+> OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
+- `TechCrunch` [Rivian spinoff Also to start delivering e-bikes after months of delays](https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/)
+> Also has big plans beyond the TM-B. The startup mostly refers to itself as a "vehicle" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.
+- `TechCrunch` [Silicon Valley loves young founders. Until it doesn’t.](https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/)
+> AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.
+- `TechCrunch` [India is starting to pay for apps, not just download them](https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/)
+> India's app market generated a record $345 million in Q2.
+- `TechCrunch` [Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinforma...](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/)
+> A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.
+- `TechCrunch` [Fresh off its Wiz payout, Index Ventures raises $2B across three funds](https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/)
+> The new funding brings Index's total available investing capital to $3.5 billion.
+- `TechCrunch` [VC-backed startups commit more fraud, and researchers think they know why](https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/)
+> New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.
+- `TechCrunch` [Sam Altman isn’t the only one who wants to pump the brakes on AI](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/)
+> After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of Ope...
+- `TechCrunch` [Snapchat no longer rewards fully AI-generated Spotlight content](https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/)
+> Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.
+- `TechCrunch` [Siri AI could come with a paywall for power users](https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/)
+> Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.
+- `The Verge` [With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC](https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock)
+> Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even ...
+- `The Verge` [Apple’s new AirTags are back down to their best price](https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale)
+> We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a ...
+- `The Verge` [Google Earth’s AI deepfake tool only lasted one day](https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool)
+> Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real...
+- `The Verge` [The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports](https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension)
+> The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause "a loss of vehicle dir...
+- `The Verge` [Google might launch a ‘Pixel Tag’](https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker)
+> Google is seemingly working on an item tracker that might compete with Apple's AirTag. 9to5Google obtained an image of something called a "Google Pixel Tag" that has a small oval shape. The publica...
+- `The Verge` [The ban on robot vacuums won’t make them safer, only worse](https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices)
+> No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them...
+- `The Verge` [Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount](https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale)
+> Looking to start your own island paradise full of Miis based on family, friends, and celebrities, but don’t feel like paying full fare? Woot has Tomodachi Life: Living the Dream for Switch on sale ...
+- `The Verge` [Here’s the problem with putting an AI image generator in Google Earth](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images)
+> A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Dig...
+- `The Verge` [The major labels propose rules to keep AI slop off the charts](https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts)
+> Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be...
+- `The Verge` [New York sues Kalshi for allegedly running an ‘illegal gambling operation’](https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation)
+> New York is suing Kalshi over claims the prediction market is running "an illegal gambling operation." In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
