@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-08-01
 
-> 自动收集于 2026-08-01 03:31 | 共 50 条
+> 自动收集于 2026-08-01 12:48 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？](https://36kr.com/p/3920595518533250?f=rss)
+> 如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。 
+  因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。 
+  但二十年多后，如果有人走进2...
 - `36氪` [9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主](https://36kr.com/p/3920241240419720?f=rss)
 > 今日热点导览
   字节跳动发布视频创作模型Seedance 2.5
@@ -66,17 +70,14 @@
 > 文｜张子怡
   编辑｜袁斯来
   低空经济正从飞行器制造走向城市治理。
-  7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。
-  据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用组成...
+  7月29日，武汉市测绘研究院联���大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。
+  据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用...
 - `36氪` [滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利](https://36kr.com/p/3919137999957382?f=rss)
 > AI在企业端的快速渗透正在被持续验证。
   7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。
   分业务来看，与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至7...
-- `36氪` [菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发](https://36kr.com/p/3917874427555457?f=rss)
-> 作者｜黄楠
-  编辑｜袁斯来
-  硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。
-  昆腾动力成立于2026年上半年...
+- `少数派` [「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账](https://sspai.com/post/112701)
+> 真正的比赛往往不只发生在赛道上，也发生在每一次进站窗口打开的时候。查看全文
 - `少数派` [本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置](https://sspai.com/post/112962)
 > 以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本文设有有奖互动环节：你有什么特别喜欢的操作系统模拟玩法的游戏吗？（我很喜欢《Uplink》）提前感谢你真诚的分享。>关注少数派小红书，感受精 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112961)
@@ -95,62 +96,59 @@
 > 感谢每一位已经同行多年的会员，也欢迎新朋友加入我们共同建设的社区。查看全文
 - `少数派` [派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等](https://sspai.com/post/112881)
 > Bigme 大我推出 F13 彩墨屏 AI 数码相框，OpenAI 宣布开源 Codex Security CLI 等。查看全文
-- `少数派` [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787)
-> 本文为你梳理 8.0 版本 iA Writer 的主要亮点。查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
+> Article URL: https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer
+Comments URL: https://news.ycombinator.com/item?id=49133655
+Points: 0
+# Comments: 0
+- `Hacker News` [RamenHaus](https://ramen.haus/)
+> Article URL: https://ramen.haus/
+Comments URL: https://news.ycombinator.com/item?id=49132460
+Points: 115
+# Comments: 62
+- `Hacker News` [How to Do Great Work (2023)](https://paulgraham.com/greatwork.html)
+> Article URL: https://paulgraham.com/greatwork.html
+Comments URL: https://news.ycombinator.com/item?id=49132289
+Points: 42
+# Comments: 27
+- `Hacker News` [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
+> Article URL: https://weeraman.com/the-prototype-isnt-the-product/
+Comments URL: https://news.ycombinator.com/item?id=49132130
+Points: 195
+# Comments: 159
+- `Hacker News` [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
+> Article URL: https://github.com/rails/solid_queue/releases/tag/v1.6.0
+Comments URL: https://news.ycombinator.com/item?id=49132083
+Points: 24
+# Comments: 7
+- `Hacker News` [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+> Article URL: https://openai.com/index/ten-advances-in-mathematics/
+Comments URL: https://news.ycombinator.com/item?id=49132058
+Points: 169
+# Comments: 127
+- `Hacker News` [Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
+> Article URL: https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/
+Comments URL: https://news.ycombinator.com/item?id=49131367
+Points: 119
+# Comments: 118
+- `Hacker News` [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
+> Article URL: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system
+Comments URL: https://news.ycombinator.com/item?id=49130726
+Points: 99
+# Comments: 40
 - `Hacker News` [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
 > Article URL: https://microsoft.github.io/flint-chart/
 Comments URL: https://news.ycombinator.com/item?id=49130604
-Points: 3
-# Comments: 0
+Points: 150
+# Comments: 55
 - `Hacker News` [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
 > Article URL: https://www.raptitude.com/2026/07/how-to-exist/
 Comments URL: https://news.ycombinator.com/item?id=49129990
-Points: 48
-# Comments: 15
-- `Hacker News` [Show HN: I worked on a new browser for 2 years, today it passed Acid 3](https://code.intellios.ai/cwbrowser/)
-> Article URL: https://code.intellios.ai/cwbrowser/
-Comments URL: https://news.ycombinator.com/item?id=49128826
-Points: 50
-# Comments: 19
-- `Hacker News` [Loops (YC W22) Is Hiring a Product Educator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
-> Article URL: https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator
-Comments URL: https://news.ycombinator.com/item?id=49128462
-Points: 0
-# Comments: 0
-- `Hacker News` [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233)
-> Article URL: https://arxiv.org/abs/2607.28233
-Comments URL: https://news.ycombinator.com/item?id=49128323
-Points: 42
-# Comments: 17
-- `Hacker News` [Predictive Speculative KV Replication for Bursty LLM Inference](https://jwlabs.vercel.app/post/biting-the-bullet)
-> https://github.com/jwlaboratory/bite-the-bullet
-
-Comments URL: https://news.ycombinator.com/item?id=49127874
-Points: 33
-# Comments: 3
-- `Hacker News` [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
-> Article URL: https://tailscale.com/blog/hugging-face-intrusion
-Comments URL: https://news.ycombinator.com/item?id=49127306
-Points: 479
-# Comments: 189
-- `Hacker News` [Golang proposal: container/: generic collection types](https://github.com/golang/go/issues/80590)
-> Article URL: https://github.com/golang/go/issues/80590
-Comments URL: https://news.ycombinator.com/item?id=49127031
-Points: 129
-# Comments: 79
-- `Hacker News` [Using the railway network as a flatbed scanner [video]](https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner)
-> Article URL: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner
-Comments URL: https://news.ycombinator.com/item?id=49126919
-Points: 58
-# Comments: 25
-- `Hacker News` [Termixer (TUI DJ Mixer)](https://github.com/l00sed/termixer)
-> Article URL: https://github.com/l00sed/termixer
-Comments URL: https://news.ycombinator.com/item?id=49126883
-Points: 57
-# Comments: 35
+Points: 243
+# Comments: 134
 - `TechCrunch` [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)
 > OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
 - `TechCrunch` [Rivian spinoff Also to start delivering e-bikes after months of delays](https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/)
@@ -171,6 +169,8 @@ Points: 57
 > Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.
 - `TechCrunch` [Siri AI could come with a paywall for power users](https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/)
 > Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.
+- `The Verge` [The OG reading app just got a big update](https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer)
+> Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the In...
 - `The Verge` [With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC](https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock)
 > Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even ...
 - `The Verge` [Apple’s new AirTags are back down to their best price](https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale)
@@ -189,8 +189,6 @@ Points: 57
 > A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Dig...
 - `The Verge` [The major labels propose rules to keep AI slop off the charts](https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts)
 > Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be...
-- `The Verge` [New York sues Kalshi for allegedly running an ‘illegal gambling operation’](https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation)
-> New York is suing Kalshi over claims the prediction market is running "an illegal gambling operation." In the lawsuit, New York Attorney General Letitia James accuses Kalshi of violating state laws...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
