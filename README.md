@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-08-02
 
-> 自动收集于 2026-08-02 03:32 | 共 50 条
+> 自动收集于 2026-08-02 12:50 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -37,11 +37,11 @@
 > 文｜王毓婵 兰杰
   编辑｜乔芊
   36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。
-  36氪就此事��B站方面求证，对方暂无回应。
+  36氪就此事向B站方面求证，对方暂无回应。
   
   曾爱玲
   B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。
-  曾爱玲的个人主页显示，她曾在腾讯混元&AI Lab团队和国际数...
+  曾爱玲的个人主页显示，她曾在腾讯混元&AI Lab团队和国际数字...
 - `36氪` [氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统](https://36kr.com/p/3919378312670857?f=rss)
 > 大公司：
   途牛：8月中上旬或将迎新一轮客流高峰
@@ -76,6 +76,8 @@
 > AI在企业端的快速渗透正在被持续验证。
   7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。
   分业务来看，与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至7...
+- `少数派` [从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记](https://sspai.com/post/112843)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账](https://sspai.com/post/112701)
 > 真正的比赛往往不只发生在赛道上，也发生在每一次进站窗口打开的时候。查看全文
 - `少数派` [本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置](https://sspai.com/post/112962)
@@ -94,61 +96,53 @@
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [少数派会员年度更新：把共同的热爱随身携带](https://sspai.com/post/112858)
 > 感谢每一位已经同行多年的会员，也欢迎新朋友加入我们共同建设的社区。查看全文
-- `少数派` [派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等](https://sspai.com/post/112881)
-> Bigme 大我推出 F13 彩墨屏 AI 数码相框，OpenAI 宣布开源 Codex Security CLI 等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Futurism says Meta has "almost nothing" to show for AI. The numbers say](https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise)
-> Article URL: https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise
-Comments URL: https://news.ycombinator.com/item?id=49140713
-Points: 3
-# C...
-- `Hacker News` [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
-> Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html
-Comments URL: https://news.ycombinator.com/item?id=49140702
-Points: 3
+- `Hacker News` [An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701)
+> Article URL: https://twitter.com/polynoamial/status/2083467194663571701
+Comments URL: https://news.ycombinator.com/item?id=49143688
+Points: 16
 # Comments: 0
-- `Hacker News` [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
-> Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/
-Comments URL: https://news.ycombinator.com/item?id=49140487
-Points: 9
+- `Hacker News` [Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
+> Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager
+Comments URL: https://news.ycombinator.com/item?id=49143683
+Points: 0
 # Comments: 0
-- `Hacker News` [When random.bytes() runs but doesn't work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)
-> Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt
-Comments URL: https://news.ycombinator.com/item?id=49140405
-Points: 3
-# Comments: 0
-- `Hacker News` [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
-> Article URL: https://github.com/tom-ilan/cycloidal_gearbox
-Comments URL: https://news.ycombinator.com/item?id=49140396
-Points: 27
+- `Hacker News` [Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index)
+> Article URL: https://website-auditor.io/ai-visibility-index
+Comments URL: https://news.ycombinator.com/item?id=49143630
+Points: 11
 # Comments: 6
-- `Hacker News` [Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](https://costperprompt.com/)
-> Article URL: https://costperprompt.com/
-Comments URL: https://news.ycombinator.com/item?id=49140340
-Points: 3
-# Comments: 0
-- `Hacker News` [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
-> Article URL: https://victoriametrics.com/blog/go-1-27/index.html
-Comments URL: https://news.ycombinator.com/item?id=49140218
-Points: 59
-# Comments: 10
-- `Hacker News` [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/)
-> Article URL: https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/
-Comments URL: https://news.ycombinator.com/item?id=49140213
-Points: 19
-# Comments: 1
-- `Hacker News` [Persistent State Machines: LLM Attention with INT4 In-Memory Cells](https://zenodo.org/records/21753002)
-> Article URL: https://zenodo.org/records/21753002
-Comments URL: https://news.ycombinator.com/item?id=49140080
-Points: 8
-# Comments: 2
-- `Hacker News` [The Greenhouse and the Lens: Two Modes of Agentic AI Work](https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/)
-> Article URL: https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/
-Comments URL: https://news.ycombinator.com/item?id=49139826
-Points: 5
+- `Hacker News` [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)
+> Article URL: https://meshdiff.com/
+Comments URL: https://news.ycombinator.com/item?id=49143479
+Points: 43
 # Comments: 3
+- `Hacker News` [Wikimedia Foundation refuses union recognition, hires union-busting law firm](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
+> Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes
+Comments URL: https://news.ycombinator.com/item?id=49143414
+Points: 96
+# Comments: 34
+- `Hacker News` [Show HN: Fuse – statically typed functional programming language](https://fuselang.org)
+> Hi HN! I've been working on the fuse programming language, it's a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program...
+- `Hacker News` [Show HN: Katharos Functional programming and CSP-style concurrency for Python](https://github.com/kamalfarahani/katharos)
+> Article URL: https://github.com/kamalfarahani/katharos
+Comments URL: https://news.ycombinator.com/item?id=49143179
+Points: 3
+# Comments: 1
+- `Hacker News` [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
+> Article URL: https://publicdomainreview.org/essay/ars-notoria/
+Comments URL: https://news.ycombinator.com/item?id=49143001
+Points: 37
+# Comments: 4
+- `Hacker News` [Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular)
+> Article URL: https://github.com/syncular/syncular
+Comments URL: https://news.ycombinator.com/item?id=49142794
+Points: 29
+# Comments: 12
+- `Hacker News` [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
+> Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management.Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mT...
 - `TechCrunch` [Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
 > How one founder house is betting work-life balance can beat burnout .
 - `TechCrunch` [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)
@@ -169,6 +163,8 @@ Points: 5
 > From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.
 - `TechCrunch` [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)
 > OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
+- `The Verge` [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers...
 - `The Verge` [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
 > Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th ...
 - `The Verge` [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
@@ -187,8 +183,6 @@ Points: 5
 > The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It starts with a compelling setup: The captain of ...
 - `The Verge` [The OG reading app just got a big update](https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer)
 > Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the In...
-- `The Verge` [With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC](https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock)
-> Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
