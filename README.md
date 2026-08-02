@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-01
+# 📰 每日科技日报 — 2026-08-02
 
-> 自动收集于 2026-08-01 12:48 | 共 50 条
+> 自动收集于 2026-08-02 03:32 | 共 50 条
 
 ## 🇨🇳 中文科技
 
@@ -37,11 +37,11 @@
 > 文｜王毓婵 兰杰
   编辑｜乔芊
   36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。
-  36氪就此事向B站方面求证，对方暂无回应。
+  36氪就此事��B站方面求证，对方暂无回应。
   
   曾爱玲
   B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。
-  曾爱玲的个人主页显示，她曾在腾讯混元&AI Lab团队和国际数字...
+  曾爱玲的个人主页显示，她曾在腾讯混元&AI Lab团队和国际数...
 - `36氪` [氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统](https://36kr.com/p/3919378312670857?f=rss)
 > 大公司：
   途牛：8月中上旬或将迎新一轮客流高峰
@@ -70,8 +70,8 @@
 > 文｜张子怡
   编辑｜袁斯来
   低空经济正从飞行器制造走向城市治理。
-  7月29日，武汉市测绘研究院联���大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。
-  据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用...
+  7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。
+  据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用组成...
 - `36氪` [滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利](https://36kr.com/p/3919137999957382?f=rss)
 > AI在企业端的快速渗透正在被持续验证。
   7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。
@@ -99,96 +99,96 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Kontigo (YC S24) Is Hiring](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
-> Article URL: https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer
-Comments URL: https://news.ycombinator.com/item?id=49133655
-Points: 0
+- `Hacker News` [Futurism says Meta has "almost nothing" to show for AI. The numbers say](https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise)
+> Article URL: https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise
+Comments URL: https://news.ycombinator.com/item?id=49140713
+Points: 3
+# C...
+- `Hacker News` [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
+> Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html
+Comments URL: https://news.ycombinator.com/item?id=49140702
+Points: 3
 # Comments: 0
-- `Hacker News` [RamenHaus](https://ramen.haus/)
-> Article URL: https://ramen.haus/
-Comments URL: https://news.ycombinator.com/item?id=49132460
-Points: 115
-# Comments: 62
-- `Hacker News` [How to Do Great Work (2023)](https://paulgraham.com/greatwork.html)
-> Article URL: https://paulgraham.com/greatwork.html
-Comments URL: https://news.ycombinator.com/item?id=49132289
-Points: 42
-# Comments: 27
-- `Hacker News` [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
-> Article URL: https://weeraman.com/the-prototype-isnt-the-product/
-Comments URL: https://news.ycombinator.com/item?id=49132130
-Points: 195
-# Comments: 159
-- `Hacker News` [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
-> Article URL: https://github.com/rails/solid_queue/releases/tag/v1.6.0
-Comments URL: https://news.ycombinator.com/item?id=49132083
-Points: 24
-# Comments: 7
-- `Hacker News` [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
-> Article URL: https://openai.com/index/ten-advances-in-mathematics/
-Comments URL: https://news.ycombinator.com/item?id=49132058
-Points: 169
-# Comments: 127
-- `Hacker News` [Ten Ways NAS Is Getting Enshitified](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
-> Article URL: https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/
-Comments URL: https://news.ycombinator.com/item?id=49131367
-Points: 119
-# Comments: 118
-- `Hacker News` [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
-> Article URL: https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system
-Comments URL: https://news.ycombinator.com/item?id=49130726
-Points: 99
-# Comments: 40
-- `Hacker News` [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
-> Article URL: https://microsoft.github.io/flint-chart/
-Comments URL: https://news.ycombinator.com/item?id=49130604
-Points: 150
-# Comments: 55
-- `Hacker News` [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
-> Article URL: https://www.raptitude.com/2026/07/how-to-exist/
-Comments URL: https://news.ycombinator.com/item?id=49129990
-Points: 243
-# Comments: 134
+- `Hacker News` [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/)
+> Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/
+Comments URL: https://news.ycombinator.com/item?id=49140487
+Points: 9
+# Comments: 0
+- `Hacker News` [When random.bytes() runs but doesn't work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt)
+> Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt
+Comments URL: https://news.ycombinator.com/item?id=49140405
+Points: 3
+# Comments: 0
+- `Hacker News` [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
+> Article URL: https://github.com/tom-ilan/cycloidal_gearbox
+Comments URL: https://news.ycombinator.com/item?id=49140396
+Points: 27
+# Comments: 6
+- `Hacker News` [Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators](https://costperprompt.com/)
+> Article URL: https://costperprompt.com/
+Comments URL: https://news.ycombinator.com/item?id=49140340
+Points: 3
+# Comments: 0
+- `Hacker News` [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
+> Article URL: https://victoriametrics.com/blog/go-1-27/index.html
+Comments URL: https://news.ycombinator.com/item?id=49140218
+Points: 59
+# Comments: 10
+- `Hacker News` [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/)
+> Article URL: https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/
+Comments URL: https://news.ycombinator.com/item?id=49140213
+Points: 19
+# Comments: 1
+- `Hacker News` [Persistent State Machines: LLM Attention with INT4 In-Memory Cells](https://zenodo.org/records/21753002)
+> Article URL: https://zenodo.org/records/21753002
+Comments URL: https://news.ycombinator.com/item?id=49140080
+Points: 8
+# Comments: 2
+- `Hacker News` [The Greenhouse and the Lens: Two Modes of Agentic AI Work](https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/)
+> Article URL: https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/
+Comments URL: https://news.ycombinator.com/item?id=49139826
+Points: 5
+# Comments: 3
+- `TechCrunch` [Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
+> How one founder house is betting work-life balance can beat burnout .
+- `TechCrunch` [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)
+> Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.
+- `TechCrunch` [YouTuber Hank Green says his AI usage is ‘not healthy’](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/)
+> Green offered a remarkable apology, saying that "the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world."
+- `TechCrunch` [Should you still buy your next smartphone — or subscribe to it instead?](https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/)
+> Apple's new Upgrade program is the latest sign that smartphone ownership is changing.
+- `TechCrunch` [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/)
+> OpenAI's CEO seemed excited to share a "cool use case" for parents.
+- `TechCrunch` [This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/)
+> This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.
+- `TechCrunch` [Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/)
+> Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.
+- `TechCrunch` [Apps that help you break free from doomscrolling and get active](https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/)
+> If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.
+- `TechCrunch` [What’s the best handheld mini fan?](https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/)
+> From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.
 - `TechCrunch` [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)
 > OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
-- `TechCrunch` [Rivian spinoff Also to start delivering e-bikes after months of delays](https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/)
-> Also has big plans beyond the TM-B. The startup mostly refers to itself as a "vehicle" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.
-- `TechCrunch` [Silicon Valley loves young founders. Until it doesn’t.](https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/)
-> AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.
-- `TechCrunch` [India is starting to pay for apps, not just download them](https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/)
-> India's app market generated a record $345 million in Q2.
-- `TechCrunch` [Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinforma...](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/)
-> A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.
-- `TechCrunch` [Fresh off its Wiz payout, Index Ventures raises $2B across three funds](https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/)
-> The new funding brings Index's total available investing capital to $3.5 billion.
-- `TechCrunch` [VC-backed startups commit more fraud, and researchers think they know why](https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/)
-> New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.
-- `TechCrunch` [Sam Altman isn’t the only one who wants to pump the brakes on AI](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/)
-> After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of Ope...
-- `TechCrunch` [Snapchat no longer rewards fully AI-generated Spotlight content](https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/)
-> Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.
-- `TechCrunch` [Siri AI could come with a paywall for power users](https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/)
-> Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.
+- `The Verge` [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
+> Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th ...
+- `The Verge` [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
+> Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the ...
+- `The Verge` [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop)
+> Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track "Rubberz," which has climbed to number 58 on the Billboard...
+- `The Verge` [Spider-Man: Brand New Day leak racks up millions of views](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records)
+> A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Ot...
+- `The Verge` [Trump blames Tim Walz for water hacks even though it’s probably Iran](https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran)
+> The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems, but consens...
+- `The Verge` [The Verge’s 2026 back-to-school shopping guide](https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts)
+> Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't...
+- `The Verge` [You could be taking way better photos on your phone](https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos)
+> Your smartphone photos can look way better. If you're willing to put in a little extra work, use third party apps and spend a bit of time editing, it's possible to take photos that - under the righ...
+- `The Verge` [The Mermaid Mask is a perfect vacation murder mystery](https://www.theverge.com/games/971660/the-mermaid-mask-review)
+> The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It starts with a compelling setup: The captain of ...
 - `The Verge` [The OG reading app just got a big update](https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer)
 > Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the In...
 - `The Verge` [With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC](https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock)
 > Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even ...
-- `The Verge` [Apple’s new AirTags are back down to their best price](https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale)
-> We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a ...
-- `The Verge` [Google Earth’s AI deepfake tool only lasted one day](https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool)
-> Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real...
-- `The Verge` [The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports](https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension)
-> The National Highway Traffic Safety Administration (NHTSA) is probing nearly 1.2 million Tesla vehicles after receiving complaints about a suspension failure that could cause "a loss of vehicle dir...
-- `The Verge` [Google might launch a ‘Pixel Tag’](https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker)
-> Google is seemingly working on an item tracker that might compete with Apple's AirTag. 9to5Google obtained an image of something called a "Google Pixel Tag" that has a small oval shape. The publica...
-- `The Verge` [The ban on robot vacuums won’t make them safer, only worse](https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices)
-> No other gadget knows as much about your home as a robot vacuum. They map your space, learn your routines, and many now carry a camera and microphone into every room in your house. As AI gives them...
-- `The Verge` [Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount](https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale)
-> Looking to start your own island paradise full of Miis based on family, friends, and celebrities, but don’t feel like paying full fare? Woot has Tomodachi Life: Living the Dream for Switch on sale ...
-- `The Verge` [Here’s the problem with putting an AI image generator in Google Earth](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images)
-> A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Dig...
-- `The Verge` [The major labels propose rules to keep AI slop off the charts](https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts)
-> Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
