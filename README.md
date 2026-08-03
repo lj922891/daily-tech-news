@@ -6,10 +6,49 @@
 
 # 📰 每日科技日报 — 2026-08-03
 
-> 自动收集于 2026-08-03 03:32 | 共 50 条
+> 自动收集于 2026-08-03 14:09 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会](https://36kr.com/p/3923717502072969?f=rss)
+> AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？
+  内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 C...
+- `36氪` [德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号](https://36kr.com/p/3923603053686151?f=rss)
+> 图片1
+   
+  今日A股收盘数据
+  上证指数：3809.66 点，-0.59%
+  深证成指：13448.29 点，-0.96%
+  创业板指：3302.55 点，-1.24%
+   
+  德明利8月3日下跌9.56%
+  349.00  -36.90  -9.56%
+  当日开盘价373.94；交易量27.21万手...
+- `36氪` [可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？](https://36kr.com/p/3923465542364545?f=rss)
+> 其中高质量画面、电影感镜头、广告和商业短片是用户提及率最高的应用场景。
+  这次，我们进一步展开测试：如果可灵最被期待的是电影感，它能否支撑包含人物、动作和情绪的完整短片创作？
+  围绕“霸王别姬”主题，我们原创了测试脚本《霸王别姬·前世今生》，使用可灵3.0的首尾帧图生视频与主体绑定功能，完成了一轮压力测试。本次测试围绕人物一致性、构图与空间层次、光影与氛围塑造、动作与运镜设计四大维度展开...
+- `36氪` [硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案](https://36kr.com/p/3923374038265217?f=rss)
+> 硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。
+  量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。
+  
+  图源企业
+  公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集...
+- `36氪` [前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发](https://36kr.com/p/3923371035831684?f=rss)
+> 文｜张子怡
+  编辑｜袁斯来
+  36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。
+  「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量...
+- `36氪` [36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍](https://36kr.com/p/3923367465266824?f=rss)
+> 文｜张子怡
+  编辑｜袁斯来
+  从大疆走出的 Ebike 公司 Amflow 进入赛道的时机谈不上好，那一年，不少中国Ebike厂商已选择战略性放弃或者转向美国市场。没人想到，它能将6499欧元起的高端Ebike卖出3万辆。
+  36氪独家获悉，从大疆独立的Ebike公司Amflow，整体营收已突破10亿元。同样从大疆诞生的Ebike助力系统品牌Avinox，已经有60多个客户，目前也已从...
+- `36氪` [36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段](https://36kr.com/p/3923317976526208?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，电动垂直起降飞行器（eVTOL）研发制造商「亿维特航空」近日完成数亿元A+轮融资。本轮融资由上城资本、普华资本等投资，深蓝资本担任独家财务顾问。截至目前，亿维特航空已获得国家级基金、上市公司及地方国资等多方资本支持。
+  亿维特航空（以下简称“亿维特”）成立于2022年，定位为载人eVTOL飞行器研...
 - `36氪` [让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发](https://36kr.com/p/3919025939246727?f=rss)
 > 文 | 赵京娜
   访谈 编辑 | 海若镜
@@ -30,58 +69,14 @@
 > 如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。 
   因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。 
   但二十年多后，如果有人走进2...
-- `36氪` [9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主](https://36kr.com/p/3920241240419720?f=rss)
-> 今日热点导览
-  字节跳动发布视频创作模型Seedance 2.5
-  长鑫科技市值突破4万亿
-  人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线
-  韩国KOSPI指数上涨18%
-  Anthropic称AI模型在测试期间误侵三家真实机构系统
-  TOP3大新闻
-  马斯克回应特斯拉剥离中国业务
-  7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转...
-- `36氪` [国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目](https://36kr.com/p/3919386961177985?f=rss)
-> 文｜王欣逸
-  编辑｜张雨忻
-   
-  一句话介绍
-  国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。
-  主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。
-  融资情况
-  近日，丘脑智能已完成数千万元种子轮融资，投资方包括深圳...
-- `36氪` [36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报](https://36kr.com/p/3910776673064073?f=rss)
-> 文｜王毓婵 兰杰
-  编辑｜乔芊
-  36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。
-  36氪就此事向B站方面求证，对方暂无回应。
-  
-  曾爱玲
-  B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。
-  曾爱玲的个人主页显示，她曾在腾讯混元&AI Lab团队和国际数字...
-- `36氪` [氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统](https://36kr.com/p/3919378312670857?f=rss)
-> 大公司：
-  途牛：8月中上旬��将迎新一轮客流高峰
-  36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。
-  Prada集团上半年营收增长16%，Miu Miu增速显...
-- `36氪` [开云的转折：在中国，做一个AI乐观派](https://36kr.com/p/3919225763540611?f=rss)
-> 作者 | 谢芸子 黄绎达
-  编辑 | 张帆
-  开云的转型初见成效。
-  7月28日，法国开云集团Kering发布2026年上半年财报，实现营收72.2亿欧元，可比口径下同比增长1%。
-  更关键的信号藏在第二季度——单季营收36.52亿欧元，同比增长2%。在中东局势仍不明朗、全球消费进入下行周期的情况下，开云实现三年来的首次单季度正增长。
-  其中，核心品牌古驰Guc...
-- `36氪` [最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立](https://36kr.com/p/3919301778288261?f=rss)
-> 文｜张子怡
-  编辑｜袁斯来
-  随着3D打印、激光雕刻、桌面CNC等数字化制造工具逐渐从专业领域走向消费市场，一个过去相对小众的硬件赛道正加速成长。
-  前不久，全球支付平台PingPong联合产业链企业发起国内首个Maker Tool（创客工具）行业联盟，并发布《创客经济新纪元：Maker Tool行业全景解析白皮书》，希望通过产业协同、渠道和资金服务，推动中国创客工具品牌拓展海外市场。...
-- `36氪` [创业这件事，你最关心的问题是什么？36氪想跟你聊一聊](https://36kr.com/p/3919112515956355?f=rss)
-> 你的创业想法，值得被看见
-  有人在寻找新的增长机会，有人在重新思考商业模式；有人开始尝试新工具提升效率，也有人还在为融资、获客、团队管理等问题发愁。
-  我们发现，每位创业者关注的重点都不一样，但大家都在面对同一个问题：
-  未来，企业该如何更好地发展？
-   
-  为了更真实地了解创业者当下最关心的话题，36氪发起了一份创业者需求调研。这份问卷没有标准答案，也不是产品推广，而是...
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113040)
+> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [把折叠屏外屏做成手机后：iKKO MindOne Pro 体验](https://sspai.com/post/112685)
+> 在如今智能手机市场高度同质化、各家都在公模和微创新里打转的时代，一台形态奇特的设备总是能轻易抓住数码爱好者的眼球。前段时间，我在浏览iKKO官网时，被一台名为MindOnePro的手机吸引了。它接近正 ...查看全文
+- `少数派` [职人专访 #001：少数派背后的理想主义](https://sspai.com/post/112966)
+> 因为这款手机壳，我跟老麦聊了一下午。查看全文
+- `少数派` [角落新声｜两平米、两个角落，安放两个自己](https://sspai.com/post/112551)
+> 编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...查看全文
 - `少数派` [派早报：DeepSeek V4 Flash 正式版发布](https://sspai.com/post/113014)
 > DeepSeek V4 Flash 正式版发布特朗普向科技公司频繁索要捐款马斯克称从未讨论过出售特斯拉中国业务国补调整后终端销售承压风投机构重新涌入中国科技领域统计显示实体光盘并不能保证游戏长期可玩看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记](https://sspai.com/post/112843)
@@ -94,66 +89,63 @@
 > 📅本周新预告《银翼杀手2099》首支预告7月25日，剧集《银翼杀手2099》发布了首支预告，定档11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，擅用各种身份掩饰自己的 ...查看全文
 - `少数派` [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730)
 > 也许在某个瞬间，你会发现：三千年的时间很长，但古人与我们之间，并没有想象中那么遥远。查看全文
-- `少数派` [简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？](https://sspai.com/post/112833)
-> 无论你的运动专项为何，E-cise 都可以构成一个很好的辅助和补充。查看全文
-- `少数派` [派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等](https://sspai.com/post/112930)
-> CHERRY 樱桃发布 MW5500 PRO 8K 无线游戏鼠标，零刻推出 SEi13 AI / SEi14 AI 迷你主机等查看全文
-- `少数派` [App+1 | 免费、多功能的远程控制新选择：网易 UU 远程](https://sspai.com/post/112405)
-> 从远程桌面到终端、端口映射和云电脑，网易 UU 远程帮你一站式搞定。查看全文
-- `少数派` [在流媒体时代，搭建一个专属于自己的「音乐探索系统」](https://sspai.com/post/112656)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Apple engineer says he was fired after refusing to send cust. device IDs to AT&T](https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic)
-> Article URL: https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic
-Comments URL: https://news.ycombinator.com/item?id=49150738
-Points: 50
-...
-- `Hacker News` [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
-> Article URL: https://qwen.ai/blog?id=qwen3.8
-Comments URL: https://news.ycombinator.com/item?id=49150470
-Points: 75
-# Comments: 20
-- `Hacker News` [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
-> Article URL: https://www.rfc-editor.org/rfc/rfc9851.html
-Comments URL: https://news.ycombinator.com/item?id=49150181
-Points: 18
-# Comments: 5
-- `Hacker News` [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
-> Article URL: https://sf.isopolis.city/
-Comments URL: https://news.ycombinator.com/item?id=49149966
-Points: 74
-# Comments: 18
-- `Hacker News` [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
-> Article URL: https://github.com/johnsonjh/cpm386
-Comments URL: https://news.ycombinator.com/item?id=49149898
-Points: 40
-# Comments: 9
-- `Hacker News` [Show HN: ssh ssh.place](https://ssh.place)
-> Article URL: https://ssh.place
-Comments URL: https://news.ycombinator.com/item?id=49149805
-Points: 40
-# Comments: 21
-- `Hacker News` [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)
-> Article URL: https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/
-Comments URL: https://news.ycombinator.com/item?id=49149746
-Points: 56
-# Comments: 33
-- `Hacker News` [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)
-> Article URL: https://github.com/pg83/shitty
-Comments URL: https://news.ycombinator.com/item?id=49149326
-Points: 96
-# Comments: 94
-- `Hacker News` [The Computational Theory of Mind (2015)](https://plato.stanford.edu/entries/computational-mind/)
-> Article URL: https://plato.stanford.edu/entries/computational-mind/
-Comments URL: https://news.ycombinator.com/item?id=49149125
-Points: 39
+- `Hacker News` [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)
+> Article URL: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui
+Comments URL: https://news.ycombinator.com/item?id=49155629
+Points: 27
+# Comments: 2
+- `Hacker News` [SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros](https://dmarcguard.io/blog/spf-record-syntax/)
+> Article URL: https://dmarcguard.io/blog/spf-record-syntax/
+Comments URL: https://news.ycombinator.com/item?id=49155626
+Points: 3
+# Comments: 0
+- `Hacker News` [30 years of CPUs at Tom's Hardware – looking back on three decades of processors](https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2)
+> Article URL: https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2
+Comments URL: http...
+- `Hacker News` [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+> Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/
+Comments URL: https://news.ycombinator.com/item?id=49154332
+Points: 298
+# Comments: 91
+- `Hacker News` [9front "This Was Supposed to Be Fun" Released](https://9front.org/releases/2026/08/02/0/)
+> Article URL: https://9front.org/releases/2026/08/02/0/
+Comments URL: https://news.ycombinator.com/item?id=49154249
+Points: 48
 # Comments: 14
-- `Hacker News` [Californians' data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
-> Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/
-Comments URL: https://news.ycombinator.com/item?id=49148987
-Poin...
+- `Hacker News` [ICE Collected Nearly 1M People's DNA Last Year–Including Young Children](https://www.wired.com/story/ice-dna-collection-fbi-codis/)
+> Article URL: https://www.wired.com/story/ice-dna-collection-fbi-codis/
+Comments URL: https://news.ycombinator.com/item?id=49154237
+Points: 155
+# Comments: 56
+- `Hacker News` [AirLLM 70B inference with single 4GB GPU](https://github.com/lyogavin/airllm)
+> Article URL: https://github.com/lyogavin/airllm
+Comments URL: https://news.ycombinator.com/item?id=49154228
+Points: 46
+# Comments: 17
+- `Hacker News` [Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler/)
+> Article URL: https://github.com/garagehq/nightcrawler/
+Comments URL: https://news.ycombinator.com/item?id=49154127
+Points: 42
+# Comments: 13
+- `Hacker News` [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
+> Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
+Comments URL: https://news.ycombinator.com/item?id=49153374
+Points: 175
+# Comments: 132
+- `Hacker News` [What DMARC Protects You From, and What It Does Not](https://senderledger.com/articles/what-dmarc-actually-protects-you-from)
+> Article URL: https://senderledger.com/articles/what-dmarc-actually-protects-you-from
+Comments URL: https://news.ycombinator.com/item?id=49153361
+Points: 58
+# Comments: 14
+- `TechCrunch` [Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate](https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/)
+> Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.
+- `TechCrunch` [Samsung bans smart TV apps that share users’ internet connections with strangers](https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/)
+> New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.
+- `TechCrunch` [A Marc Benioff-backed startup thinks AI can solve the AI deployment problem](https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/)
+> June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.
 - `TechCrunch` [The global memory shortage hits the MacBook Air](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/)
 > The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.
 - `TechCrunch` [Sam Altman and AI’s decel debate](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/)
@@ -168,12 +160,12 @@ Poin...
 > How one founder house is betting work-life balance can beat burnout .
 - `TechCrunch` [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)
 > Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.
-- `TechCrunch` [YouTuber Hank Green says his AI usage is ‘not healthy’](https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/)
-> Green offered a remarkable apology, saying that "the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world."
-- `TechCrunch` [Should you still buy your next smartphone — or subscribe to it instead?](https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/)
-> Apple's new Upgrade program is the latest sign that smartphone ownership is changing.
-- `TechCrunch` [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/)
-> OpenAI's CEO seemed excited to share a "cool use case" for parents.
+- `The Verge` [Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet](https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops)
+> Lenovo is expected to release some of the first Googlebook models later this year, and leaked images have now given us a good idea of what they might look like. Leaked press images shared by Digita...
+- `The Verge` [Big Walk is like co-op Breath of the Wild](https://www.theverge.com/games/973166/big-walk-review)
+> Untitled Goose Game is a tough act to follow. It was a silly experience that captured what I imagine it would feel like to be a sentient goose: a lot of waddling, a lot of honking, and a lot of she...
+- `The Verge` [China’s Alibaba takes another swipe at America’s AI supremacy](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai)
+> Chinese tech giant Alibaba released what it says is its largest and "most capable AI model to date," claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as we...
 - `The Verge` [Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing](https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review)
 > Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The D...
 - `The Verge` [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music)
@@ -188,12 +180,6 @@ Poin...
 > Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is...
 - `The Verge` [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers...
-- `The Verge` [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
-> Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th ...
-- `The Verge` [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
-> Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the ...
-- `The Verge` [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop)
-> Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track "Rubberz," which has climbed to number 58 on the Billboard...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
