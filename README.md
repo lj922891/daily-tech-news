@@ -4,12 +4,28 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-02
+# 📰 每日科技日报 — 2026-08-03
 
-> 自动收集于 2026-08-02 12:50 | 共 50 条
+> 自动收集于 2026-08-03 03:32 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发](https://36kr.com/p/3919025939246727?f=rss)
+> 文 | 赵京娜
+  访谈 编辑 | 海若镜
+  36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。
+  奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者...
+- `36氪` [8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿](https://36kr.com/p/3923043072634498?f=rss)
+> 今日热点导览
+  马斯克关注了DeepSeek的X账号
+  祥鹏航空回应航班误发过期方便面
+  OpenAI或将IPO推迟到明年
+  SpaceX首份财报即将发布
+  小米多款手机正式涨价
+  每月10万美元，特朗普“真实社交”售卖“优先访问权”
+  TOP3大新闻
+  蔡崇信宣布离婚，不涉及出售阿里股份
+  8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子...
 - `36氪` [三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？](https://36kr.com/p/3920595518533250?f=rss)
 > 如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。 
   因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。 
@@ -44,9 +60,9 @@
   曾爱玲的个人主页显示，她曾在腾讯混元&AI Lab团队和国际数字...
 - `36氪` [氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统](https://36kr.com/p/3919378312670857?f=rss)
 > 大公司：
-  途牛：8月中上旬或将迎新一轮客流高峰
+  途牛：8月中上旬��将迎新一轮客流高峰
   36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。
-  Prada集团上半年营收增长16%，Miu Miu增速显著...
+  Prada集团上半年营收增长16%，Miu Miu增速显...
 - `36氪` [开云的转折：在中国，做一个AI乐观派](https://36kr.com/p/3919225763540611?f=rss)
 > 作者 | 谢芸子 黄绎达
   编辑 | 张帆
@@ -66,16 +82,8 @@
   未来，企业该如何更好地发展？
    
   为了更真实地了解创业者当下最关心的话题，36氪发起了一份创业者需求调研。这份问卷没有标准答案，也不是产品推广，而是...
-- `36氪` [最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”](https://36kr.com/p/3919271016263303?f=rss)
-> 文｜张子怡
-  编辑｜袁斯来
-  低空经济正从飞行器制造走向城市治理。
-  7月29日，武汉市测绘研究院联合大疆行业应用发布“城市智眼”低空无人机遥感监测体系建设成果。目前，武汉已建成146座无人值守机场，基本实现除禁飞区外全市5分钟无人机响应，成为全国首个实现超大城市全域覆盖的低空无人机遥感监测网络。
-  据了解，这套“城市智眼”系统由低空无人机监测网络、云控平台、AI算法库及行业应用组成...
-- `36氪` [滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利](https://36kr.com/p/3919137999957382?f=rss)
-> AI在企业端的快速渗透正在被持续验证。
-  7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。
-  分业务来看，与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至7...
+- `少数派` [派早报：DeepSeek V4 Flash 正式版发布](https://sspai.com/post/113014)
+> DeepSeek V4 Flash 正式版发布特朗普向科技公司频繁索要捐款马斯克称从未讨论过出售特斯拉中国业务国补调整后终端销售承压风投机构重新涌入中国科技领域统计显示实体光盘并不能保证游戏长期可玩看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记](https://sspai.com/post/112843)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账](https://sspai.com/post/112701)
@@ -94,55 +102,68 @@
 > 从远程桌面到终端、端口映射和云电脑，网易 UU 远程帮你一站式搞定。查看全文
 - `少数派` [在流媒体时代，搭建一个专属于自己的「音乐探索系统」](https://sspai.com/post/112656)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [少数派会员年度更新：把共同的热爱随身携带](https://sspai.com/post/112858)
-> 感谢每一位已经同行多年的会员，也欢迎新朋友加入我们共同建设的社区。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [An internal OpenAI Astra model solved 10 major open math and CS problems](https://twitter.com/polynoamial/status/2083467194663571701)
-> Article URL: https://twitter.com/polynoamial/status/2083467194663571701
-Comments URL: https://news.ycombinator.com/item?id=49143688
-Points: 16
-# Comments: 0
-- `Hacker News` [Great Question (YC W21) Is Hiring Senior Demand Gen Manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
-> Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager
-Comments URL: https://news.ycombinator.com/item?id=49143683
-Points: 0
-# Comments: 0
-- `Hacker News` [Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers](https://website-auditor.io/ai-visibility-index)
-> Article URL: https://website-auditor.io/ai-visibility-index
-Comments URL: https://news.ycombinator.com/item?id=49143630
-Points: 11
-# Comments: 6
-- `Hacker News` [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)
-> Article URL: https://meshdiff.com/
-Comments URL: https://news.ycombinator.com/item?id=49143479
-Points: 43
-# Comments: 3
-- `Hacker News` [Wikimedia Foundation refuses union recognition, hires union-busting law firm](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
-> Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes
-Comments URL: https://news.ycombinator.com/item?id=49143414
+- `Hacker News` [Apple engineer says he was fired after refusing to send cust. device IDs to AT&T](https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic)
+> Article URL: https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic
+Comments URL: https://news.ycombinator.com/item?id=49150738
+Points: 50
+...
+- `Hacker News` [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+> Article URL: https://qwen.ai/blog?id=qwen3.8
+Comments URL: https://news.ycombinator.com/item?id=49150470
+Points: 75
+# Comments: 20
+- `Hacker News` [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html)
+> Article URL: https://www.rfc-editor.org/rfc/rfc9851.html
+Comments URL: https://news.ycombinator.com/item?id=49150181
+Points: 18
+# Comments: 5
+- `Hacker News` [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
+> Article URL: https://sf.isopolis.city/
+Comments URL: https://news.ycombinator.com/item?id=49149966
+Points: 74
+# Comments: 18
+- `Hacker News` [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
+> Article URL: https://github.com/johnsonjh/cpm386
+Comments URL: https://news.ycombinator.com/item?id=49149898
+Points: 40
+# Comments: 9
+- `Hacker News` [Show HN: ssh ssh.place](https://ssh.place)
+> Article URL: https://ssh.place
+Comments URL: https://news.ycombinator.com/item?id=49149805
+Points: 40
+# Comments: 21
+- `Hacker News` [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)
+> Article URL: https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/
+Comments URL: https://news.ycombinator.com/item?id=49149746
+Points: 56
+# Comments: 33
+- `Hacker News` [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)
+> Article URL: https://github.com/pg83/shitty
+Comments URL: https://news.ycombinator.com/item?id=49149326
 Points: 96
-# Comments: 34
-- `Hacker News` [Show HN: Fuse – statically typed functional programming language](https://fuselang.org)
-> Hi HN! I've been working on the fuse programming language, it's a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program...
-- `Hacker News` [Show HN: Katharos Functional programming and CSP-style concurrency for Python](https://github.com/kamalfarahani/katharos)
-> Article URL: https://github.com/kamalfarahani/katharos
-Comments URL: https://news.ycombinator.com/item?id=49143179
-Points: 3
-# Comments: 1
-- `Hacker News` [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
-> Article URL: https://publicdomainreview.org/essay/ars-notoria/
-Comments URL: https://news.ycombinator.com/item?id=49143001
-Points: 37
-# Comments: 4
-- `Hacker News` [Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular)
-> Article URL: https://github.com/syncular/syncular
-Comments URL: https://news.ycombinator.com/item?id=49142794
-Points: 29
-# Comments: 12
-- `Hacker News` [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
-> Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management.Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mT...
+# Comments: 94
+- `Hacker News` [The Computational Theory of Mind (2015)](https://plato.stanford.edu/entries/computational-mind/)
+> Article URL: https://plato.stanford.edu/entries/computational-mind/
+Comments URL: https://news.ycombinator.com/item?id=49149125
+Points: 39
+# Comments: 14
+- `Hacker News` [Californians' data deletion requests, DROP, become enforceable Aug. 1](https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/)
+> Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/
+Comments URL: https://news.ycombinator.com/item?id=49148987
+Poin...
+- `TechCrunch` [The global memory shortage hits the MacBook Air](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/)
+> The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.
+- `TechCrunch` [Sam Altman and AI’s decel debate](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/)
+> On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to "pace the rate of AI development."
+- `TechCrunch` [Malaysia is reportedly shutting down Balaji Srinivasan’s Network School](https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/)
+> Let's see how this "frontier community for techno-optimists" is doing ...
+- `TechCrunch` [TechCrunch Mobility: Two roads diverged — for robotaxis](https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+- `TechCrunch` [These App Store hidden gems prove there’s still room for great software in the AI era](https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/)
+> Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digit...
 - `TechCrunch` [Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
 > How one founder house is betting work-life balance can beat burnout .
 - `TechCrunch` [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)
@@ -153,16 +174,18 @@ Points: 29
 > Apple's new Upgrade program is the latest sign that smartphone ownership is changing.
 - `TechCrunch` [Sam Altman is still making the case for parenting via ChatGPT](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/)
 > OpenAI's CEO seemed excited to share a "cool use case" for parents.
-- `TechCrunch` [This $9 key physically locks your most addictive apps](https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/)
-> This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.
-- `TechCrunch` [Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/)
-> Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.
-- `TechCrunch` [Apps that help you break free from doomscrolling and get active](https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/)
-> If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.
-- `TechCrunch` [What’s the best handheld mini fan?](https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/)
-> From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.
-- `TechCrunch` [OpenAI reportedly finds evidence that more of its agents ran amok](https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/)
-> OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.
+- `The Verge` [Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing](https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review)
+> Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The D...
+- `The Verge` [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music)
+> Fender CEO Edward "Bud" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started ...
+- `The Verge` [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
+> When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xb...
+- `The Verge` [Skylight’s smart calendars are up to $90 off during its back-to-school sale](https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale)
+> The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It’s easy for thin...
+- `The Verge` [HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was](https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review)
+> The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point ...
+- `The Verge` [Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties)
+> Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is...
 - `The Verge` [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers...
 - `The Verge` [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
@@ -171,18 +194,6 @@ Points: 29
 > Angela Nissel's latest book, Good Grief, Pass the Bread, Mom Is Dead, is my kind of memoir. Sure, it's a deeply emotional tale about caring for a terminally ill parent. But it's delivered with the ...
 - `The Verge` [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop)
 > Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track "Rubberz," which has climbed to number 58 on the Billboard...
-- `The Verge` [Spider-Man: Brand New Day leak racks up millions of views](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records)
-> A bootleg of Spider-Man: Brand New Day was up on X for over seven hours before eventually being pulled. During that time, it reached over 5.9 million accounts and accumulated over 143,000 likes. Ot...
-- `The Verge` [Trump blames Tim Walz for water hacks even though it’s probably Iran](https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran)
-> The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have stopped short of officially blaming Iran for a spate of cyberattacks on Minnesota's water systems, but consens...
-- `The Verge` [The Verge’s 2026 back-to-school shopping guide](https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts)
-> Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't...
-- `The Verge` [You could be taking way better photos on your phone](https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos)
-> Your smartphone photos can look way better. If you're willing to put in a little extra work, use third party apps and spend a bit of time editing, it's possible to take photos that - under the righ...
-- `The Verge` [The Mermaid Mask is a perfect vacation murder mystery](https://www.theverge.com/games/971660/the-mermaid-mask-review)
-> The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It starts with a compelling setup: The captain of ...
-- `The Verge` [The OG reading app just got a big update](https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer)
-> Hi, friends! Welcome to Installer No. 138, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy August, and also you can read all the old editions at the In...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
