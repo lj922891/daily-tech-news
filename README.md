@@ -6,11 +6,36 @@
 
 # 📰 每日科技日报 — 2026-08-04
 
-> 自动收集于 2026-08-04 03:15 | 共 50 条
+> 自动收集于 2026-08-04 13:31 | 共 50 条
 
 ## 🇨🇳 中文科技
 
-- `36氪` [3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资](https://36kr.com/p/3924634192673153?f=rss)
+- `36氪` [自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目](https://36kr.com/p/3925067918227591?f=rss)
+> 一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。
+  具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。
+  由于芯片电...
+- `36氪` [从追番到下单，国风IP正在重塑硬核数码消费](https://36kr.com/p/3925017067862409?f=rss)
+> 当国风联名吹到硬核数码
+  这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。
+  想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻人追捧的玄学单品。
+  在官方授权店里，这只鸭子上架没多久，就售罄下架。没抢到的网友们也被逼成了野生手艺人，有人用红土陶复刻同款，有人用3D打印自制平替，...
+- `36氪` [一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资](https://36kr.com/p/3924953058605444?f=rss)
+> 【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下，国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能...
+- `36氪` [东山精密涨停背后：36氪企业全情报捕捉市场机会](https://36kr.com/p/3924913931679877?f=rss)
+> 36氪企业全情报带你发现涨停背后的机会
+  开篇，先给大家送个福利
+  最近不少朋友在体验企业全情报，我们也准备了一波奖品回馈大家。
+  体验小程序，完成15秒阅读+任意订阅一家企业即可免费参与抽奖。
+  奖品有影石Insta360 Luna Ultra、运动相机挂脖支架、36氪航天徽章。
+  祝大家都能中奖，点击即可参与：👇
+  https://lucky.nocode...
+- `36氪` [Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差](https://36kr.com/p/3924826666301831?f=rss)
+>  
+  文 | 李炤锋
+  编辑 | 张雨忻
+  “长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。”
+  过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现商业价值的场景之一。与此同时，随着Agent开始接管更多长链任务，越来越多的通用大模...
+- `36氪` [36氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资](https://36kr.com/p/3924634192673153?f=rss)
 > 作者 | 乔钰杰
   编辑 | 袁斯来
   硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、空间态势感知算法平台迭代、核心技术团队扩充及重点客户开拓。
@@ -18,7 +43,7 @@
 - `36氪` [36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿](https://36kr.com/p/3924628805351811?f=rss)
 > 作者 | 乔钰杰
   编辑 | 袁斯来
-  硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.4亿元融资。本轮融资由前海金控，广州国控，海川聚义，杭州众燊参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。
+  硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.2亿元融资。本轮融资由国创集团，海川聚义，杭州众燊，新智资本参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。
   陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关...
 - `36氪` [8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元](https://36kr.com/p/3924467692927369?f=rss)
 > 今日热点导览
@@ -43,31 +68,14 @@
   德明利8月3日下跌9.56%
   349.00  -36.90  -9.56%
   当日开盘价373.94；交易量27.21万手...
-- `36氪` [可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？](https://36kr.com/p/3923465542364545?f=rss)
-> 其中高质量画面、电影感镜头、广告和商业短片是用户提及率最高的应用场景。
-  这次，我们进一步展开测试：如果可灵最被期待的是电影感，它能否支撑包含人物、动作和情绪的完整短片创作？
-  围绕“霸王别姬”主题，我们原创了测试脚本《霸王别姬·前世今生》，使用可灵3.0的首尾帧图生视频与主体绑定功能，完成了一轮压力测试。本次测试围绕人物一致性、构图与空间层次、光影与氛围塑造、动作与运镜设计四大维度展开...
-- `36氪` [硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案](https://36kr.com/p/3923374038265217?f=rss)
-> 硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。
-  量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。
-  
-  图源企业
-  公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集...
-- `36氪` [前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发](https://36kr.com/p/3923371035831684?f=rss)
-> 文｜张子怡
-  编辑｜袁斯来
-  36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。
-  「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量...
-- `36氪` [36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍](https://36kr.com/p/3923367465266824?f=rss)
-> 文｜张子怡
-  编辑｜袁斯来
-  从大疆走出的 Ebike 公司 Amflow 进入赛道的时机谈不上好，那一年，不少中国Ebike厂商已选择战略性放弃或者转向美国市场。没人想到，它能将6499欧元起的高端Ebike卖出3万辆。
-  36氪独家获悉，从大疆独立的Ebike公司Amflow，整体营收已突破10亿元。同样从大疆诞生的Ebike助力系统品牌Avinox，已经有60多个客户，目前也已从...
-- `36氪` [36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段](https://36kr.com/p/3923317976526208?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，电动垂直起降飞行器（eVTOL）研发制造商「亿维特航空」近日完成数亿元A+轮融资。本轮融资由上城资本、普华资本等投资，深蓝资本担任独家财务顾问。截至目前，亿维特航空已获得国家级基金、上市公司及地方国资等多方资本支持。
-  亿维特航空（以下简称“亿维特”）成立于2022年，定位为载人eVTOL飞行器研...
+- `少数派` [敬畏热度、保持热情：如何在夏季坚持跑步](https://sspai.com/post/74342)
+> 无论你是初跑者，还是跑步老手，相信这份「夏季跑步指南」都能帮助到你。查看全文
+- `少数派` [家庭饮品 DIY 指南（三）：常用固体物料推荐](https://sspai.com/prime/story/home-made-beverages-3)
+> 往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐之前说的液体物料只是把最常用的几类跟大家分享一下，其实还有非常多好喝的好用的液体物料无法一一说明，后边配方中如果需要会顺带介绍。这篇聊一聊固 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇](https://sspai.com/post/113060)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [角落新声｜成年的快乐，是可以将角落铺满全家](https://sspai.com/post/112738)
+> 我理解中的角落，不是电影里那种阴暗逼仄、藏着邪恶与不堪的地方，而是生活中时间与现实的锚点。查看全文
 - `少数派` [派早报：MiniMax H3 开源、Qwen3.8-Max 发布等](https://sspai.com/post/113053)
 > 少数派的近期动态投稿征文赢好礼！「角落新声」征文活动距离结束还有一周。火速投稿新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解你可能错过的文章角落新声｜两平米、两个角落，安放两个自己 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113040)
@@ -80,65 +88,65 @@
 > 编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...查看全文
 - `少数派` [派早报：DeepSeek V4 Flash 正式版发布](https://sspai.com/post/113014)
 > DeepSeek V4 Flash 正式版发布特朗普向科技公司频繁索要捐款马斯克称从未讨论过出售特斯拉中国业务国补调整后终端销售承压风投机构重新涌入中国科技领域统计显示实体光盘并不能保证游戏长期可玩看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记](https://sspai.com/post/112843)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账](https://sspai.com/post/112701)
-> 真正的比赛往往不只发生在赛道上，也发生在每一次进站窗口打开的时候。查看全文
-- `少数派` [本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置](https://sspai.com/post/112962)
-> 以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本文设有有奖互动环节：你有什么特别喜欢的操作系统模拟玩法的游戏吗？（我很喜欢《Uplink》）提前感谢你真诚的分享。>关注少数派小红书，感受精 ...查看全文
-- `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112961)
-> 📅本周新预告《银翼杀手2099》首支预告7月25日，剧集《银翼杀手2099》发布了首支预告，定档11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，擅用各种身份掩饰自己的 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
-> Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf
-Comments URL: https://news.ycombinator.com/item?id=49162653
-Points: 46
-# Comments: 19
-- `Hacker News` [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
-> Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/
-Comments URL: https://news.ycombinator.com/item?id=49162086
-Points: 64
-# Comments: 31
-- `Hacker News` [ZX Spectrum System Tour: Text Mode](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
-> Article URL: https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/
-Comments URL: https://news.ycombinator.com/item?id=49161801
-Points: 25
+- `Hacker News` [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
+> Article URL: https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/
+Comments URL: https://news.ycombinator.com/item?id=49167448
+Points: 101
+# Comments: 110
+- `Hacker News` [Roame (YC S23) Is Hiring Lead Engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer)
+> Article URL: https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer
+Comments URL: https://news.ycombinator.com/item?id=49167444
+Points: 0
 # Comments: 0
-- `Hacker News` [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
-> Article URL: https://www.seangoedecke.com/llms-reward-expertise/
-Comments URL: https://news.ycombinator.com/item?id=49161518
-Points: 528
-# Comments: 232
-- `Hacker News` [The Dunning-Kruger effect may just be a data artefact (2020)](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
-> Article URL: https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real
-Comments URL: https://news.ycombinator.com/item?id=49160437
-Points: 130
-# Comments: 143
-- `Hacker News` [KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer](https://github.com/SwagSoftware/KisakCOD)
-> Article URL: https://github.com/SwagSoftware/KisakCOD
-Comments URL: https://news.ycombinator.com/item?id=49159970
-Points: 49
+- `Hacker News` [Buckminster Fuller: everything I know](https://www.bfi.org/about-fuller/everything-i-know/)
+> Article URL: https://www.bfi.org/about-fuller/everything-i-know/
+Comments URL: https://news.ycombinator.com/item?id=49167147
+Points: 28
+# Comments: 11
+- `Hacker News` [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
+> Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/
+Comments URL: https://news.ycombinator.com/item?id=49167113
+Points: 290
+# Comments: 162
+- `Hacker News` [Show HN: Fine-tune an 8B model on a 4 GB laptop GPU](https://github.com/MakazhanAlpamys/Soup)
+> Article URL: https://github.com/MakazhanAlpamys/Soup
+Comments URL: https://news.ycombinator.com/item?id=49166984
+Points: 27
 # Comments: 4
-- `Hacker News` [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
-> Article URL: https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/
-Comments URL: https://news.ycombinator.com/item?id=49159676
-Points: 33
+- `Hacker News` [Nobel Disease](https://en.wikipedia.org/wiki/Nobel_disease)
+> Article URL: https://en.wikipedia.org/wiki/Nobel_disease
+Comments URL: https://news.ycombinator.com/item?id=49166918
+Points: 38
+# Comments: 21
+- `Hacker News` [Keyv and friends compromised in active Shai-Hulud supply chain attack](https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack)
+> Article URL: https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack
+Comments URL: https://news.ycombinator.com/item?id=49166874
+Points: 32
+# Comments: 1
+- `Hacker News` [Safe Lock-free Primitives with iceoryx2's ByteAtomic](https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/)
+> Article URL: https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/
+Comments URL: https://news.ycombinator.com/item?id=49166672
+Points: 6
+# Comments: 3
+- `Hacker News` [Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)
+> Article URL: https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj
+Comments URL: https://news.ycombinator.com/item?id=49166491
+Points: 95
 # Comments: 8
-- `Hacker News` [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
-> Article URL: https://blog.cloudflare.com/smaller-faster-safer-models/
-Comments URL: https://news.ycombinator.com/item?id=49158581
-Points: 157
-# Comments: 40
-- `Hacker News` [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
-> Article URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase
-Comments URL: htt...
-- `Hacker News` [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
-> Article URL: https://github.com/leonickson1/Swiftlet
-Comments URL: https://news.ycombinator.com/item?id=49158333
-Points: 7
-# Comments: 0
+- `Hacker News` [Why Large Language Models Fail at Tabular Prediction](https://arxiv.org/abs/2608.02412)
+> Article URL: https://arxiv.org/abs/2608.02412
+Comments URL: https://news.ycombinator.com/item?id=49166442
+Points: 17
+# Comments: 2
+- `TechCrunch` [Is the future of data centers portable? Runware builds a pod to find out](https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/)
+> On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.
+- `TechCrunch` [EON wants to move the data superhighway from ocean fiber to space lasers](https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/)
+> Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.
+- `TechCrunch` [Bending Spoons to buy Airtable for $1.28B](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)
+> At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.
 - `TechCrunch` [After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/)
 > After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
 - `TechCrunch` [Snap CEO sidesteps Specs preorder questions on Q2 earnings call](https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/)
@@ -153,12 +161,18 @@ Points: 7
 > OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.
 - `TechCrunch` [Apple challenges UK government’s latest demand for iCloud backdoor: report](https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/)
 > Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.
-- `TechCrunch` [Apple finally fixed Siri. So why does it feel anticlimactic?](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/)
-> Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.
-- `TechCrunch` [Outernet turns your saved posts into real-world adventures](https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/)
-> Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to act...
-- `TechCrunch` [WhatsApp says it is fixing an issue that disabled several accounts](https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/)
-> Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.
+- `The Verge` [Peak Design’s latest bags have clever integrated hooks](https://www.theverge.com/tech/973624/peak-design-city-line-details-price)
+> Peak Design's new City Line collection includes six lightweight bags designed for everyday carry. There's a 15-liter and 22L City Backpack, 15L City Tote, 6L and 12L City Crescent crossbody bags, a...
+- `The Verge` [Nothing CMF is launching its first open earbuds](https://www.theverge.com/gadgets/974933/nothing-cmf-clip-pro-open-ear-buds-price-launch)
+> Open earbuds are having a bit of a moment right now, and Nothing is the latest company jumping on the trend. Its budget sub-brand has introduced the CMF Clip Pro, CMF's first open earbuds that are ...
+- `The Verge` [Apple briefly yanked Telegram from the App Store over CSAM violations](https://www.theverge.com/tech/974951/telegram-apple-app-store-removed)
+> Telegram is back on the App Store after Apple briefly removed it on Monday night over concerns about child sexual abuse material (CSAM). In a statement to Bloomberg's Mark Gurman, Apple says a revi...
+- `The Verge` [OpenAI drags Apple’s lawsuit into the court of public opinion](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages)
+> Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled "Apple is...
+- `The Verge` [The next Xbox could play every Xbox game ever made](https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in)
+> The next Xbox, Project Helix, could theoretically have the largest library of any home console. Not only will it play PC games, but we now know, courtesy of a leaked memo obtained by The Verge's To...
+- `The Verge` [Can Reddit fend off a new wave of AI SEO spam?](https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam)
+> Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of respon...
 - `The Verge` [The studio behind Pokémon struggles to find its voice in Beast of Reincarnation](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox)
 > You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it launches a curio...
 - `The Verge` [Your Fitbit data can now connect directly to Apple Health](https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing)
@@ -167,18 +181,6 @@ Points: 7
 > Samsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines features commonly fou...
 - `The Verge` [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)
 > The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmar...
-- `The Verge` [The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished](https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale)
-> The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now thro...
-- `The Verge` [Microsoft is bringing Xbox 360 games to PC](https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program)
-> Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, s...
-- `The Verge` [Bluesky’s new CEO wants a big tent, not a bubble](https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere)
-> Today, I’m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO. This is one of my favorite kinds of inter...
-- `The Verge` [Palworld’s expanding to mobile with a new MMORPG](https://www.theverge.com/games/974450/palworld-online-mobile-mmo)
-> After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in it...
-- `The Verge` [Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend](https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax)
-> Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be a...
-- `The Verge` [Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced](https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale)
-> Next to buying RAM, finding a fast, high-capacity NVMe SSD at a reasonable price has been a challenge during RAMageddon. I don’t want to say it’s getting easier, but one of Samsung’s latest SSDs is...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
