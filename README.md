@@ -4,12 +4,31 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-03
+# 📰 每日科技日报 — 2026-08-04
 
-> 自动收集于 2026-08-03 14:09 | 共 50 条
+> 自动收集于 2026-08-04 03:15 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资](https://36kr.com/p/3924634192673153?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、空间态势感知算法平台迭代、核心技术团队扩充及重点客户开拓。
+  随着低轨卫星和空间碎片数量快速...
+- `36氪` [36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿](https://36kr.com/p/3924628805351811?f=rss)
+> 作者 | 乔钰杰
+  编辑 | 袁斯来
+  硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.4亿元融资。本轮融资由前海金控，广州国控，海川聚义，杭州众燊参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。
+  陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关...
+- `36氪` [8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元](https://36kr.com/p/3924467692927369?f=rss)
+> 今日热点导览
+  OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题
+  江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万
+  iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售
+  多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药
+  王思聪卸任万达产业投资公司董事
+  TOP3大新闻
+  宗馥莉同父异母兄弟出任新公司董事长，实际控制...
 - `36氪` [从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会](https://36kr.com/p/3923717502072969?f=rss)
 > AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？
   内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 C...
@@ -49,26 +68,8 @@
   编辑 | 袁斯来
   硬氪获悉，电动垂直起降飞行器（eVTOL）研发制造商「亿维特航空」近日完成数亿元A+轮融资。本轮融资由上城资本、普华资本等投资，深蓝资本担任独家财务顾问。截至目前，亿维特航空已获得国家级基金、上市公司及地方国资等多方资本支持。
   亿维特航空（以下简称“亿维特”）成立于2022年，定位为载人eVTOL飞行器研...
-- `36氪` [让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发](https://36kr.com/p/3919025939246727?f=rss)
-> 文 | 赵京娜
-  访谈 编辑 | 海若镜
-  36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。
-  奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者...
-- `36氪` [8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿](https://36kr.com/p/3923043072634498?f=rss)
-> 今日热点导览
-  马斯克关注了DeepSeek的X账号
-  祥鹏航空回应航班误发过期方便面
-  OpenAI或将IPO推迟到明年
-  SpaceX首份财报即将发布
-  小米多款手机正式涨价
-  每月10万美元，特朗普“真实社交”售卖“优先访问权”
-  TOP3大新闻
-  蔡崇信宣布离婚，不涉及出售阿里股份
-  8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子...
-- `36氪` [三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？](https://36kr.com/p/3920595518533250?f=rss)
-> 如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。 
-  因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。 
-  但二十年多后，如果有人走进2...
+- `少数派` [派早报：MiniMax H3 开源、Qwen3.8-Max 发布等](https://sspai.com/post/113053)
+> 少数派的近期动态投稿征文赢好礼！「角落新声」征文活动距离结束还有一周。火速投稿新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解你可能错过的文章角落新声｜两平米、两个角落，安放两个自己 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113040)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [把折叠屏外屏做成手机后：iKKO MindOne Pro 体验](https://sspai.com/post/112685)
@@ -87,99 +88,97 @@
 > 以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本文设有有奖互动环节：你有什么特别喜欢的操作系统模拟玩法的游戏吗？（我很喜欢《Uplink》）提前感谢你真诚的分享。>关注少数派小红书，感受精 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112961)
 > 📅本周新预告《银翼杀手2099》首支预告7月25日，剧集《银翼杀手2099》发布了首支预告，定档11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，擅用各种身份掩饰自己的 ...查看全文
-- `少数派` [App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图](https://sspai.com/post/112730)
-> 也许在某个瞬间，你会发现：三千年的时间很长，但古人与我们之间，并没有想象中那么遥远。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui)
-> Article URL: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui
-Comments URL: https://news.ycombinator.com/item?id=49155629
-Points: 27
-# Comments: 2
-- `Hacker News` [SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros](https://dmarcguard.io/blog/spf-record-syntax/)
-> Article URL: https://dmarcguard.io/blog/spf-record-syntax/
-Comments URL: https://news.ycombinator.com/item?id=49155626
-Points: 3
-# Comments: 0
-- `Hacker News` [30 years of CPUs at Tom's Hardware – looking back on three decades of processors](https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2)
-> Article URL: https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2
-Comments URL: http...
-- `Hacker News` [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
-> Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/
-Comments URL: https://news.ycombinator.com/item?id=49154332
-Points: 298
-# Comments: 91
-- `Hacker News` [9front "This Was Supposed to Be Fun" Released](https://9front.org/releases/2026/08/02/0/)
-> Article URL: https://9front.org/releases/2026/08/02/0/
-Comments URL: https://news.ycombinator.com/item?id=49154249
-Points: 48
-# Comments: 14
-- `Hacker News` [ICE Collected Nearly 1M People's DNA Last Year–Including Young Children](https://www.wired.com/story/ice-dna-collection-fbi-codis/)
-> Article URL: https://www.wired.com/story/ice-dna-collection-fbi-codis/
-Comments URL: https://news.ycombinator.com/item?id=49154237
-Points: 155
-# Comments: 56
-- `Hacker News` [AirLLM 70B inference with single 4GB GPU](https://github.com/lyogavin/airllm)
-> Article URL: https://github.com/lyogavin/airllm
-Comments URL: https://news.ycombinator.com/item?id=49154228
+- `Hacker News` [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
+> Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf
+Comments URL: https://news.ycombinator.com/item?id=49162653
 Points: 46
-# Comments: 17
-- `Hacker News` [Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler/)
-> Article URL: https://github.com/garagehq/nightcrawler/
-Comments URL: https://news.ycombinator.com/item?id=49154127
-Points: 42
-# Comments: 13
-- `Hacker News` [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
-> Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
-Comments URL: https://news.ycombinator.com/item?id=49153374
-Points: 175
-# Comments: 132
-- `Hacker News` [What DMARC Protects You From, and What It Does Not](https://senderledger.com/articles/what-dmarc-actually-protects-you-from)
-> Article URL: https://senderledger.com/articles/what-dmarc-actually-protects-you-from
-Comments URL: https://news.ycombinator.com/item?id=49153361
-Points: 58
-# Comments: 14
-- `TechCrunch` [Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate](https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/)
-> Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.
-- `TechCrunch` [Samsung bans smart TV apps that share users’ internet connections with strangers](https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/)
-> New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.
-- `TechCrunch` [A Marc Benioff-backed startup thinks AI can solve the AI deployment problem](https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/)
-> June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.
-- `TechCrunch` [The global memory shortage hits the MacBook Air](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/)
-> The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.
-- `TechCrunch` [Sam Altman and AI’s decel debate](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/)
-> On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to "pace the rate of AI development."
-- `TechCrunch` [Malaysia is reportedly shutting down Balaji Srinivasan’s Network School](https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/)
-> Let's see how this "frontier community for techno-optimists" is doing ...
-- `TechCrunch` [TechCrunch Mobility: Two roads diverged — for robotaxis](https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-- `TechCrunch` [These App Store hidden gems prove there’s still room for great software in the AI era](https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/)
-> Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digit...
-- `TechCrunch` [Inside the London hacker house taking a stand against founder burnout](https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/)
-> How one founder house is betting work-life balance can beat burnout .
-- `TechCrunch` [Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps](https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/)
-> Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.
-- `The Verge` [Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet](https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops)
-> Lenovo is expected to release some of the first Googlebook models later this year, and leaked images have now given us a good idea of what they might look like. Leaked press images shared by Digita...
-- `The Verge` [Big Walk is like co-op Breath of the Wild](https://www.theverge.com/games/973166/big-walk-review)
-> Untitled Goose Game is a tough act to follow. It was a silly experience that captured what I imagine it would feel like to be a sentient goose: a lot of waddling, a lot of honking, and a lot of she...
-- `The Verge` [China’s Alibaba takes another swipe at America’s AI supremacy](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai)
-> Chinese tech giant Alibaba released what it says is its largest and "most capable AI model to date," claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as we...
-- `The Verge` [Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing](https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review)
-> Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The D...
-- `The Verge` [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music)
-> Fender CEO Edward "Bud" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started ...
-- `The Verge` [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
-> When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xb...
-- `The Verge` [Skylight’s smart calendars are up to $90 off during its back-to-school sale](https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale)
-> The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It’s easy for thin...
-- `The Verge` [HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was](https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review)
-> The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point ...
-- `The Verge` [Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties)
-> Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is...
-- `The Verge` [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers...
+# Comments: 19
+- `Hacker News` [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
+> Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/
+Comments URL: https://news.ycombinator.com/item?id=49162086
+Points: 64
+# Comments: 31
+- `Hacker News` [ZX Spectrum System Tour: Text Mode](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
+> Article URL: https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/
+Comments URL: https://news.ycombinator.com/item?id=49161801
+Points: 25
+# Comments: 0
+- `Hacker News` [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+> Article URL: https://www.seangoedecke.com/llms-reward-expertise/
+Comments URL: https://news.ycombinator.com/item?id=49161518
+Points: 528
+# Comments: 232
+- `Hacker News` [The Dunning-Kruger effect may just be a data artefact (2020)](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
+> Article URL: https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real
+Comments URL: https://news.ycombinator.com/item?id=49160437
+Points: 130
+# Comments: 143
+- `Hacker News` [KisakCOD – Open-source reimplementation of Call of Duty 4 Multiplayer](https://github.com/SwagSoftware/KisakCOD)
+> Article URL: https://github.com/SwagSoftware/KisakCOD
+Comments URL: https://news.ycombinator.com/item?id=49159970
+Points: 49
+# Comments: 4
+- `Hacker News` [ZX Spectrum System Tour: Sound](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
+> Article URL: https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/
+Comments URL: https://news.ycombinator.com/item?id=49159676
+Points: 33
+# Comments: 8
+- `Hacker News` [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/)
+> Article URL: https://blog.cloudflare.com/smaller-faster-safer-models/
+Comments URL: https://news.ycombinator.com/item?id=49158581
+Points: 157
+# Comments: 40
+- `Hacker News` [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
+> Article URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase
+Comments URL: htt...
+- `Hacker News` [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
+> Article URL: https://github.com/leonickson1/Swiftlet
+Comments URL: https://news.ycombinator.com/item?id=49158333
+Points: 7
+# Comments: 0
+- `TechCrunch` [After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/)
+> After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
+- `TechCrunch` [Snap CEO sidesteps Specs preorder questions on Q2 earnings call](https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/)
+> When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.
+- `TechCrunch` [AWS is helping vibe-coding startup Superblocks, and the implications are big](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)
+> AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.
+- `TechCrunch` [Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated](https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/)
+> OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge ...
+- `TechCrunch` [Design Arena creators raise $7.9 million to bring taste to AI models](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/)
+> Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.
+- `TechCrunch` [Influencers draw backlash for attending OpenAI’s first luxury trip](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/)
+> OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.
+- `TechCrunch` [Apple challenges UK government’s latest demand for iCloud backdoor: report](https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/)
+> Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.
+- `TechCrunch` [Apple finally fixed Siri. So why does it feel anticlimactic?](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/)
+> Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.
+- `TechCrunch` [Outernet turns your saved posts into real-world adventures](https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/)
+> Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to act...
+- `TechCrunch` [WhatsApp says it is fixing an issue that disabled several accounts](https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/)
+> Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.
+- `The Verge` [The studio behind Pokémon struggles to find its voice in Beast of Reincarnation](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox)
+> You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it launches a curio...
+- `The Verge` [Your Fitbit data can now connect directly to Apple Health](https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing)
+> Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05...
+- `The Verge` [Samsung’s discounted smart monitor is $349.99, its lowest price yet](https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale)
+> Samsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines features commonly fou...
+- `The Verge` [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)
+> The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmar...
+- `The Verge` [The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished](https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale)
+> The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now thro...
+- `The Verge` [Microsoft is bringing Xbox 360 games to PC](https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program)
+> Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, s...
+- `The Verge` [Bluesky’s new CEO wants a big tent, not a bubble](https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere)
+> Today, I’m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO. This is one of my favorite kinds of inter...
+- `The Verge` [Palworld’s expanding to mobile with a new MMORPG](https://www.theverge.com/games/974450/palworld-online-mobile-mmo)
+> After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in it...
+- `The Verge` [Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend](https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax)
+> Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be a...
+- `The Verge` [Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced](https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale)
+> Next to buying RAM, finding a fast, high-capacity NVMe SSD at a reasonable price has been a challenge during RAMageddon. I don’t want to say it’s getting easier, but one of Samsung’s latest SSDs is...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
