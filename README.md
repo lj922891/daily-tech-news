@@ -4,12 +4,35 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-04
+# 📰 每日科技日报 — 2026-08-05
 
-> 自动收集于 2026-08-04 13:31 | 共 50 条
+> 自动收集于 2026-08-05 02:56 | 共 50 条
 
 ## 🇨🇳 中文科技
 
+- `36氪` [早期项目 | 从智能喂养切入，一家创业公司想搭建母婴AI生态](https://36kr.com/p/3926013599086727?f=rss)
+> 作者 | 张子怡
+  编辑 | 袁斯来
+  母婴市场在全球拥有万亿级规模。中国的母婴消费市场规模已突破5万亿元，年均增速保持12%的稳健水平；全球母婴市场总量更是达到约2万亿美元。
+  庞大的母婴市场背后，其智能化渗透率较低，尚不足1%。全球母婴家庭普遍面临养育压力大、成本高、信息繁杂等核心痛点，而传统母婴产品仍停留在基础功能阶段，智能化程度不足、生态...
+- `36氪` [36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元](https://36kr.com/p/3926003098843272?f=rss)
+> 作者 | 张子怡
+  编辑 | 袁斯来
+  硬氪获悉，AI智能硬件与机器人企业「若创科技」（英文名：Strutt）近日完成Pre-A+轮融资，累计融资金额近亿美元。本轮融资获得全球领先出行科技企业、国内头部互联网企业旗下投资基金及大湾区代表性产业基金共同加码。
+  本轮融资资金将主要用于个人物理AI技术研发、全球营销与销售渠道建设，以及首款个人智能出行...
+- `36氪` [8点1氪丨马斯克个人财富亏掉2个“黄仁勋”；上海雪花膏母公司破产；日本半导体或面临断供](https://36kr.com/p/3925868626360706?f=rss)
+> 今日热点导览
+  一架上海飞东京航班险撞机，两机垂直高度差仅约20米
+  阿里云容器服务Agent开启商业化收费
+  今年以来港股IPO数量同比增长132%，科技类公司占比过半
+  苹果新任CEO据悉邀请已退休的硬件部门负责人加入管理团队
+  SpaceX上市后首份财报前夕，“木头姐”持续加仓
+  TOP3大新闻
+  马斯克个人财富缩水约合人民币2.45万亿元，相当于亏掉2个“黄仁勋”&nb...
+- `36氪` [“车企牌”电池相继上车，不只是PK宁德时代](https://36kr.com/p/3925382191708552?f=rss)
+> “车企牌”电池正在不断涌现，并交付上车。鸿蒙智行推出了巨鲸电池，理想汽车推出了理想牌电池，不久前的7月30日晚，小米正式对外发布了龙甲电池。
+  车企正试图通过自有电池品牌，将电池的每个技术点攥在手中，并抢占用户心智。
+  这些汽车品牌的统一做法，就是“穿透式管理”，从电芯到电池包的技术和性能标准，车企全部主导定义，甚至部分参与电芯材料开发，并对核心供应链和生产制造环节全流程介入和监管。换句...
 - `36氪` [自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目](https://36kr.com/p/3925067918227591?f=rss)
 > 一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。
   具体来说，电源核签是通过对电源网络的上亿个节点进行整体分析，测试供电网络的功耗、电压降与电迁移等表现，从而决定芯片能否顺利进入量产流片。一旦结果出错，不仅导致芯片性能不达标，甚至会造成流片失败。
@@ -40,34 +63,8 @@
   编辑 | 袁斯来
   硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、空间态势感知算法平台迭代、核心技术团队扩充及重点客户开拓。
   随着低轨卫星和空间碎片数量快速...
-- `36氪` [36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿](https://36kr.com/p/3924628805351811?f=rss)
-> 作者 | 乔钰杰
-  编辑 | 袁斯来
-  硬氪获悉，精密减速器企业陶世智能科技有限公司（以下简称“陶世”）近日完成1.2亿元融资。本轮融资由国创集团，海川聚义，杭州众燊，新智资本参与，德太资本担任财务顾问。融资资金将主要用于产品研发、产线扩建以及机器人领域市场拓展。
-  陶世成立于2016年，总部位于深圳，主要研发和生产正交90度微型减速器及机器人关...
-- `36氪` [8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元](https://36kr.com/p/3924467692927369?f=rss)
-> 今日热点导览
-  OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题
-  江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万
-  iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售
-  多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药
-  王思聪卸任万达产业投资公司董事
-  TOP3大新闻
-  宗馥莉同父异母兄弟出任新公司董事长，实际控制...
-- `36氪` [从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会](https://36kr.com/p/3923717502072969?f=rss)
-> AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？
-  内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 C...
-- `36氪` [德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号](https://36kr.com/p/3923603053686151?f=rss)
-> 图片1
-   
-  今日A股收盘数据
-  上证指数：3809.66 点，-0.59%
-  深证成指：13448.29 点，-0.96%
-  创业板指：3302.55 点，-1.24%
-   
-  德明利8月3日下跌9.56%
-  349.00  -36.90  -9.56%
-  当日开盘价373.94；交易量27.21万手...
+- `少数派` [派早报：OPPO A7 Pro Max 发布、CMF 推出开放式耳机 Clip Pro 等](https://sspai.com/post/113087)
+> 索尼发布 FE 100-400mm F5.6-8 OSS 全画幅超远摄变焦镜头，国内航线燃油附加费下调等。查看全文
 - `少数派` [敬畏热度、保持热情：如何在夏季坚持跑步](https://sspai.com/post/74342)
 > 无论你是初跑者，还是跑步老手，相信这份「夏季跑步指南」都能帮助到你。查看全文
 - `少数派` [家庭饮品 DIY 指南（三）：常用固体物料推荐](https://sspai.com/prime/story/home-made-beverages-3)
@@ -86,101 +83,95 @@
 > 因为这款手机壳，我跟老麦聊了一下午。查看全文
 - `少数派` [角落新声｜两平米、两个角落，安放两个自己](https://sspai.com/post/112551)
 > 编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...查看全文
-- `少数派` [派早报：DeepSeek V4 Flash 正式版发布](https://sspai.com/post/113014)
-> DeepSeek V4 Flash 正式版发布特朗普向科技公司频繁索要捐款马斯克称从未讨论过出售特斯拉中国业务国补调整后终端销售承压风投机构重新涌入中国科技领域统计显示实体光盘并不能保证游戏长期可玩看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
-> Article URL: https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/
-Comments URL: https://news.ycombinator.com/item?id=49167448
-Points: 101
-# Comments: 110
-- `Hacker News` [Roame (YC S23) Is Hiring Lead Engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer)
-> Article URL: https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer
-Comments URL: https://news.ycombinator.com/item?id=49167444
-Points: 0
-# Comments: 0
-- `Hacker News` [Buckminster Fuller: everything I know](https://www.bfi.org/about-fuller/everything-i-know/)
-> Article URL: https://www.bfi.org/about-fuller/everything-i-know/
-Comments URL: https://news.ycombinator.com/item?id=49167147
-Points: 28
-# Comments: 11
-- `Hacker News` [AI-Generated Images Discourage Me from Reading Your Blog](https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/)
-> Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/
-Comments URL: https://news.ycombinator.com/item?id=49167113
-Points: 290
-# Comments: 162
-- `Hacker News` [Show HN: Fine-tune an 8B model on a 4 GB laptop GPU](https://github.com/MakazhanAlpamys/Soup)
-> Article URL: https://github.com/MakazhanAlpamys/Soup
-Comments URL: https://news.ycombinator.com/item?id=49166984
-Points: 27
-# Comments: 4
-- `Hacker News` [Nobel Disease](https://en.wikipedia.org/wiki/Nobel_disease)
-> Article URL: https://en.wikipedia.org/wiki/Nobel_disease
-Comments URL: https://news.ycombinator.com/item?id=49166918
-Points: 38
-# Comments: 21
-- `Hacker News` [Keyv and friends compromised in active Shai-Hulud supply chain attack](https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack)
-> Article URL: https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack
-Comments URL: https://news.ycombinator.com/item?id=49166874
-Points: 32
-# Comments: 1
-- `Hacker News` [Safe Lock-free Primitives with iceoryx2's ByteAtomic](https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/)
-> Article URL: https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/
-Comments URL: https://news.ycombinator.com/item?id=49166672
-Points: 6
+- `Hacker News` [After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted](https://www.asiae.co.kr/en/article/2026080416131786841)
+> Article URL: https://www.asiae.co.kr/en/article/2026080416131786841
+Comments URL: https://news.ycombinator.com/item?id=49177554
+Points: 7
 # Comments: 3
-- `Hacker News` [Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)
-> Article URL: https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj
-Comments URL: https://news.ycombinator.com/item?id=49166491
-Points: 95
-# Comments: 8
-- `Hacker News` [Why Large Language Models Fail at Tabular Prediction](https://arxiv.org/abs/2608.02412)
-> Article URL: https://arxiv.org/abs/2608.02412
-Comments URL: https://news.ycombinator.com/item?id=49166442
+- `Hacker News` [Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice](https://arxiv.org/abs/2603.04221)
+> Article URL: https://arxiv.org/abs/2603.04221
+Comments URL: https://news.ycombinator.com/item?id=49176983
+Points: 26
+# Comments: 18
+- `Hacker News` [Bugtraq Is Back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
+> Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/
+Comments URL: https://news.ycombinator.com/item?id=49176947
+Points: 2...
+- `Hacker News` [Flowise Is Shutting Down](https://flowiseai.com/sunset)
+> Article URL: https://flowiseai.com/sunset
+Comments URL: https://news.ycombinator.com/item?id=49176920
 Points: 17
-# Comments: 2
-- `TechCrunch` [Is the future of data centers portable? Runware builds a pod to find out](https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/)
-> On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.
-- `TechCrunch` [EON wants to move the data superhighway from ocean fiber to space lasers](https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/)
-> Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.
-- `TechCrunch` [Bending Spoons to buy Airtable for $1.28B](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)
-> At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.
-- `TechCrunch` [After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’](https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/)
-> After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.
-- `TechCrunch` [Snap CEO sidesteps Specs preorder questions on Q2 earnings call](https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/)
-> When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.
-- `TechCrunch` [AWS is helping vibe-coding startup Superblocks, and the implications are big](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/)
-> AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.
-- `TechCrunch` [Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated](https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/)
-> OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge ...
-- `TechCrunch` [Design Arena creators raise $7.9 million to bring taste to AI models](https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/)
-> Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.
-- `TechCrunch` [Influencers draw backlash for attending OpenAI’s first luxury trip](https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/)
-> OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.
-- `TechCrunch` [Apple challenges UK government’s latest demand for iCloud backdoor: report](https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/)
-> Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.
-- `The Verge` [Peak Design’s latest bags have clever integrated hooks](https://www.theverge.com/tech/973624/peak-design-city-line-details-price)
-> Peak Design's new City Line collection includes six lightweight bags designed for everyday carry. There's a 15-liter and 22L City Backpack, 15L City Tote, 6L and 12L City Crescent crossbody bags, a...
-- `The Verge` [Nothing CMF is launching its first open earbuds](https://www.theverge.com/gadgets/974933/nothing-cmf-clip-pro-open-ear-buds-price-launch)
-> Open earbuds are having a bit of a moment right now, and Nothing is the latest company jumping on the trend. Its budget sub-brand has introduced the CMF Clip Pro, CMF's first open earbuds that are ...
-- `The Verge` [Apple briefly yanked Telegram from the App Store over CSAM violations](https://www.theverge.com/tech/974951/telegram-apple-app-store-removed)
-> Telegram is back on the App Store after Apple briefly removed it on Monday night over concerns about child sexual abuse material (CSAM). In a statement to Bloomberg's Mark Gurman, Apple says a revi...
-- `The Verge` [OpenAI drags Apple’s lawsuit into the court of public opinion](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages)
-> Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled "Apple is...
-- `The Verge` [The next Xbox could play every Xbox game ever made](https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in)
-> The next Xbox, Project Helix, could theoretically have the largest library of any home console. Not only will it play PC games, but we now know, courtesy of a leaked memo obtained by The Verge's To...
-- `The Verge` [Can Reddit fend off a new wave of AI SEO spam?](https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam)
-> Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of respon...
-- `The Verge` [The studio behind Pokémon struggles to find its voice in Beast of Reincarnation](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox)
-> You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it launches a curio...
-- `The Verge` [Your Fitbit data can now connect directly to Apple Health](https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing)
-> Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05...
-- `The Verge` [Samsung’s discounted smart monitor is $349.99, its lowest price yet](https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale)
-> Samsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines features commonly fou...
-- `The Verge` [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)
-> The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmar...
+# Comments: 9
+- `Hacker News` [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
+> Article URL: https://queue.acm.org/detail.cfm?id=3807963
+Comments URL: https://news.ycombinator.com/item?id=49176830
+Points: 84
+# Comments: 46
+- `Hacker News` [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
+> Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/
+Comments URL: https://news.ycombinator.com/item?id=49176697
+Points: 48
+# Comments: 6
+- `Hacker News` [Pass the Passkey: A Novel Attack Surface in Passwordless Authentication](https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/)
+> Article URL: https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/
+Comments URL: https://news.ycombinator.com/item?id=49176644
+Points: 40
+# Comments: 34
+- `Hacker News` [FIPS 140-3 is not a security guarantee, and auditors know it](https://808bits.com/articles/fips-140-3-not-a-security-guarantee/)
+> Article URL: https://808bits.com/articles/fips-140-3-not-a-security-guarantee/
+Comments URL: https://news.ycombinator.com/item?id=49176634
+Points: 27
+# Comments: 13
+- `Hacker News` [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
+> Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/
+Comments URL: https://news.ycombinator.com/item?id=49176606
+Points: 154
+# Comments: 10
+- `Hacker News` [Show HN: SIMD Viterbi Decoder in Rust](https://github.com/brian-armstrong/fec)
+> I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust's std::simd work for me. I ended up with a te...
+- `TechCrunch` [Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call](https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/)
+> Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.
+- `TechCrunch` [Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis](https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/)
+> Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.
+- `TechCrunch` [How to get the best hotel deals for TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/)
+> We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.
+- `TechCrunch` [SpaceX has bought $329M worth of Tesla Megapacks so far this year](https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/)
+> The purchase illustrates just how interconnected Elon Musk's universe of companies are.
+- `TechCrunch` [SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth](https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/)
+> SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.
+- `TechCrunch` [Android app developers may be unwittingly sharing their users’ location data with advertisers](https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/)
+> New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant ...
+- `TechCrunch` [Open-weight AI models are catching up to the frontier. The safety gap remains.](https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/)
+> A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance ...
+- `TechCrunch` [Anthropic signs $10B deal with AI cloud startup Volta](https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/)
+> Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.
+- `TechCrunch` [Meet Wrinkles, an app that uncovers the hidden stories of the places around you](https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/)
+> Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.
+- `TechCrunch` [Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing prog...](https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/)
+> The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.
+- `The Verge` [Don’t screw this up, Marvel](https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday)
+> In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is prob...
+- `The Verge` [Now you can securely link multiple phones to one Signal account](https://www.theverge.com/tech/975407/signal-linked-devices-sync)
+> You can link more devices with one phone number on Signal now, including an Android phone or iPhone. Signal already supported linking PCs and iPads, but not additional phones. When you link a devic...
+- `The Verge` [AMD’s data center business is booming while gaming takes a backseat](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen)
+> Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107...
+- `The Verge` [SpaceX made more revenue as an AI company than a space company](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud)
+> SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's qu...
+- `The Verge` [EA is now a private company](https://www.theverge.com/games/974736/ea-private-company-deal-closed)
+> Electronic Arts has officially become a private company. Last September, EA announced that an investor group led by Saudi Arabia's Public Investment Fund (PIF), Silver Lake, and Affinity Partners w...
+- `The Verge` [Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store](https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov)
+> Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. "Apple re...
+- `The Verge` [How an OpenAI influencer trip backfired](https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing)
+> The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. T...
+- `The Verge` [Lenovo’s Legion Go S with SteamOS is down to its lowest price ever](https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale)
+> Memory and storage prices will be inflated for the foreseeable future, so we’re always happy to find a good deal on capable gaming hardware, like this discount on the Lenovo Legion Go S with a Z2 G...
+- `The Verge` [‘Not healthy’ LLM use is more common than you think](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy)
+> Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as "not healthy," but stres...
+- `The Verge` [BMW’s in-car Spider-Man ad is villain behavior](https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad)
+> When a premium car brand like BMW says it has a "special surprise" in store for drivers, I'd expect something more luxurious than having a movie commercial beamed onto the dashboard. That's exactly...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
