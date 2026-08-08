@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-08-08
 
-> 自动收集于 2026-08-08 01:59 | 共 40 条
+> 自动收集于 2026-08-08 12:20 | 共 30 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901)
+> 创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113191)
 > 📅本周新预告《生化危机：爆发夜》中字预告8月5日，电影《生化危机：爆发夜》发布了全新中字预告，将于9月18日在北美上映。扎克・克雷格（《凶器》《野蛮人》）执导，奥斯汀·艾布拉姆斯主演，一份双倍酬劳的郊 ...查看全文
 - `少数派` [[限时优惠] 数据分析：用好 Excel 中的数据透视表](https://sspai.com/post/113108)
@@ -28,57 +30,9 @@
 > 英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文
 - `少数派` [196 张盗版碟，和我的游戏启蒙史](https://sspai.com/post/112831)
 > 游戏首先要传播出去才会具备被用户接受和讨论的价值，那些曾经陪伴你我的盗版游戏，是否也为今天的你埋下过一颗种子？查看全文
-- `少数派` [Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953)
-> 作为长期阅读的用户，多年以来，我一直在使用Kindle、AppleBooks、PDF等多种工具读书。在管理阅读方面，我使用多款应用来进行：管理书籍我使用的是Calibre；追踪阅读和数据统计，我使用计 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
-> Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413
-Comments URL: https://news.ycombinator.com/item?id=49217993
-Points: 29
-# Comments: 3
-- `Hacker News` [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
-> Article URL: https://genesisopenmodels.anl.gov/
-Comments URL: https://news.ycombinator.com/item?id=49216946
-Points: 92
-# Comments: 38
-- `Hacker News` [Water system controllers don't belong on the internet, says ex-NSA chief](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
-> Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070
-Comments URL: https://news.y...
-- `Hacker News` [Psychological Warfare in Reverse Engineering (2015)](https://github.com/xoreaxeaxeax/repsych)
-> Article URL: https://github.com/xoreaxeaxeax/repsych
-Comments URL: https://news.ycombinator.com/item?id=49214775
-Points: 52
-# Comments: 2
-- `Hacker News` [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
-> Article URL: https://ancientlibrary.net/
-Comments URL: https://news.ycombinator.com/item?id=49214770
-Points: 150
-# Comments: 50
-- `Hacker News` [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
-> Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale
-Comments URL: https://news.ycombinator.com/item?id=49214468
-Points: 168
-# Comments: 173
-- `Hacker News` [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
-> Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame
-Comments URL: https://news.ycombinator.com/item?id=49214098
-Points: 252
-# Comments: 58
-- `Hacker News` [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
-> Article URL: https://arcprize.org/results/deepseek-v4-flash-0731
-Comments URL: https://news.ycombinator.com/item?id=49214008
-Points: 468
-# Comments: 281
-- `Hacker News` [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
-> Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code
-Comments URL: https://news.ycombinator.com/item?i...
-- `Hacker News` [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
-> Article URL: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/
-Comments URL: https://news.ycombinator.com/item?id=49213029
-Points: 155
-# Comments: 167
 - `TechCrunch` [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)
 > OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-...
 - `TechCrunch` [After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)
@@ -99,6 +53,12 @@ Points: 155
 > You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees al...
 - `TechCrunch` [Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say](https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/)
 > In the Kimi test, the sandbox designed to contain the experiment was not properly configured.
+- `The Verge` [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)
+> Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It ...
+- `The Verge` [My favorite feel-good show is back](https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer)
+> Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the ...
+- `The Verge` [Nitecore’s latest power bank is the lightest and most compact yet](https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery)
+> There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bik...
 - `The Verge` [The gaming site sponsored by Walmart lays off its editorial staff](https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs)
 > Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its "entire editorial team," according to a Friday post from Brandy Berthelson, the site's former ed...
 - `The Verge` [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo)
@@ -113,12 +73,6 @@ Points: 155
 > Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disne...
 - `The Verge` [Microsoft Edge is about to lock out older ad blockers, just like Chrome did](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)
 > Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According...
-- `The Verge` [Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50](https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale)
-> Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-...
-- `The Verge` [What’s behind the Google AI shake-up](https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast)
-> Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem t...
-- `The Verge` [Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks](https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak)
-> Following the release of its premium and very expensive $650 The Collexion headphones in May, Sony could be taking its 1000X line of wireless noise-canceling headphones in a cheaper direction next ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
