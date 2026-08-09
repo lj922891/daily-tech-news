@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-08
+# 📰 每日科技日报 — 2026-08-09
 
-> 自动收集于 2026-08-08 12:20 | 共 30 条
+> 自动收集于 2026-08-09 02:07 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,6 +33,61 @@
 
 ## 🌍 国际科技
 
+- `Hacker News` [The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
+> Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/
+Comments URL: https://news.ycombinator.com/item?id=49227521
+Points: 8
+# Comments: 0
+- `Hacker News` [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+> Article URL: https://os8088.com/
+Comments URL: https://news.ycombinator.com/item?id=49226923
+Points: 29
+# Comments: 8
+- `Hacker News` [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
+> Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/
+Comments URL: https://news.ycombinator.com/item?id=49226742
+Points: 21
+# Comments: 3
+- `Hacker News` [My server is a phone now](https://seg6.space/posts/phone-server/)
+> Article URL: https://seg6.space/posts/phone-server/
+Comments URL: https://news.ycombinator.com/item?id=49226636
+Points: 93
+# Comments: 43
+- `Hacker News` [Should you stop cracking your knuckles?](https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles)
+> Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles
+Comments URL: https://news.ycombinator.com/item?id=49226563
+Points: 9
+# Comments: 4
+- `Hacker News` [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
+> Article URL: https://shopify.engineering/scaling-inventory-reservations
+Comments URL: https://news.ycombinator.com/item?id=49226536
+Points: 42
+# Comments: 7
+- `Hacker News` [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
+> Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/
+Comments URL: https://news.ycombinator.com/item?id=4...
+- `Hacker News` [The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
+> Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf
+Comments URL: https://news.ycombinator.com/item?id=49225676
+Points: 25
+# C...
+- `Hacker News` [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
+> Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumb...
+- `Hacker News` [Danish high schoolers will have to verbally defend written assignments](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+> Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/
+Comments URL: https://news.ycombinator.com/item?id=49224294
+Points: 510
+# Comments: 241
+- `TechCrunch` [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
+> As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.
+- `TechCrunch` [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
+> NextSlide says its team members are now working on ChatGPT.
+- `TechCrunch` [X replaces ‘misaligned’ revenue sharing program with Original Content Rewards](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/)
+> X is winding down its existing Revenue Sharing program.
+- `TechCrunch` [The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have](https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/)
+> While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.
+- `TechCrunch` [Google’s top hacker hunter explains why hacking groups get codenames](https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/)
+> Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers cod...
 - `TechCrunch` [OpenAI says it slowed Astra model development over security concerns](https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/)
 > OpenAI said this model, which is still in development, reached its "critical cybersecurity threshold," meaning it could independently identify and carry out cyberattacks against traditionally well-...
 - `TechCrunch` [After Rippling blew millions on AI in months, it built an employee ROI tool](https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/)
@@ -43,16 +98,14 @@
 > Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.
 - `TechCrunch` [Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)
 > Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents...
-- `TechCrunch` [Computer maker Framework notifies ‘all customers’ of a data breach](https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/)
-> Framework told "all" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.
-- `TechCrunch` [Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/)
-> Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.
-- `TechCrunch` [Trump administration has spent nearly $4B to cancel offshore wind farms](https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/)
-> The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion.
-- `TechCrunch` [Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/)
-> You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees al...
-- `TechCrunch` [Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say](https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/)
-> In the Kimi test, the sandbox designed to contain the experiment was not properly configured.
+- `The Verge` [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
+> X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards pr...
+- `The Verge` [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
+> To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to t...
+- `The Verge` [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart)
+> Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, Joh...
+- `The Verge` [Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro](https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview)
+> Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica la...
 - `The Verge` [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)
 > Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It ...
 - `The Verge` [My favorite feel-good show is back](https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer)
@@ -65,14 +118,6 @@
 > It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song "Rubberz." His comments follow the producer Medasin's videos claiming that an...
 - `The Verge` [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel)
 > The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST s...
-- `The Verge` [OpenAI puts the brakes on a new model because it’s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities)
-> OpenAI says it is pausing "internal activities" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follow...
-- `The Verge` [The only instant cameras worth your money](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
-> There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be...
-- `The Verge` [Disney Plus tries a new AI-powered search](https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search)
-> Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disne...
-- `The Verge` [Microsoft Edge is about to lock out older ad blockers, just like Chrome did](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)
-> Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
