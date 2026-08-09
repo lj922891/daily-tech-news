@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-08-09
 
-> 自动收集于 2026-08-09 02:07 | 共 40 条
+> 自动收集于 2026-08-09 12:21 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面](https://sspai.com/post/113158)
+> 特别声明本文的项目构思、结构设计及相关素材整理均由人工完成。在产品开发与调试过程中，使用GPT-5.6Sol模型作为辅助工具，参与方案讨论、代码编写与问题排查。文章内容基于实际开发过程中的经验与记录， ...查看全文
 - `少数派` [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901)
 > 创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113191)
@@ -28,56 +30,60 @@
 > 没什么特别的，但无处不在，刚刚好。查看全文
 - `少数派` [派早报：华为发布尊界 MPV 及多款新品等](https://sspai.com/post/113110)
 > 英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文
-- `少数派` [196 张盗版碟，和我的游戏启蒙史](https://sspai.com/post/112831)
-> 游戏首先要传播出去才会具备被用户接受和讨论的价值，那些曾经陪伴你我的盗版游戏，是否也为今天的你埋下过一颗种子？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The AI Apocalypse Is Here](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
-> Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/
-Comments URL: https://news.ycombinator.com/item?id=49227521
-Points: 8
-# Comments: 0
-- `Hacker News` [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
-> Article URL: https://os8088.com/
-Comments URL: https://news.ycombinator.com/item?id=49226923
-Points: 29
-# Comments: 8
-- `Hacker News` [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
-> Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/
-Comments URL: https://news.ycombinator.com/item?id=49226742
-Points: 21
+- `Hacker News` [Everything You Do Is Being Recorded](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
+> Article URL: https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/
+Comments URL: https://news.ycombinator.com/item?id=49230477
+Points: 15
 # Comments: 3
-- `Hacker News` [My server is a phone now](https://seg6.space/posts/phone-server/)
-> Article URL: https://seg6.space/posts/phone-server/
-Comments URL: https://news.ycombinator.com/item?id=49226636
-Points: 93
-# Comments: 43
-- `Hacker News` [Should you stop cracking your knuckles?](https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles)
-> Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles
-Comments URL: https://news.ycombinator.com/item?id=49226563
-Points: 9
-# Comments: 4
-- `Hacker News` [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
-> Article URL: https://shopify.engineering/scaling-inventory-reservations
-Comments URL: https://news.ycombinator.com/item?id=49226536
-Points: 42
-# Comments: 7
-- `Hacker News` [Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
-> Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/
-Comments URL: https://news.ycombinator.com/item?id=4...
-- `Hacker News` [The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
-> Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf
-Comments URL: https://news.ycombinator.com/item?id=49225676
-Points: 25
-# C...
-- `Hacker News` [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
-> Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumb...
-- `Hacker News` [Danish high schoolers will have to verbally defend written assignments](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
-> Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/
-Comments URL: https://news.ycombinator.com/item?id=49224294
-Points: 510
-# Comments: 241
+- `Hacker News` [CSS: The bomb inside your inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
+> Article URL: https://portswigger.net/research/css-the-bomb-inside-your-inbox
+Comments URL: https://news.ycombinator.com/item?id=49230066
+Points: 29
+# Comments: 6
+- `Hacker News` [The Alpha 21264 CPU: NT's Greatest RISC (1998)](https://halfhill.com/byte/1998-12_alpha.html)
+> Article URL: https://halfhill.com/byte/1998-12_alpha.html
+Comments URL: https://news.ycombinator.com/item?id=49230022
+Points: 14
+# Comments: 5
+- `Hacker News` [Show HN: Airy – Free, fast, and simple voice content creation](https://airy.so)
+> Article URL: https://airy.so
+Comments URL: https://news.ycombinator.com/item?id=49229848
+Points: 4
+# Comments: 3
+- `Hacker News` [Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+> Article URL: https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/
+Comments URL: https://news.ycombinator.com/item?id=49229412
+Points: 44
+# Comments: 18
+- `Hacker News` [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
+> Article URL: https://gukov.dev/math/2026/08/02/new-magic-hexagons.html
+Comments URL: https://news.ycombinator.com/item?id=49229174
+Points: 61
+# Comments: 12
+- `Hacker News` [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
+> Article URL: https://github.com/jmarshall23/msword
+Comments URL: https://news.ycombinator.com/item?id=49228663
+Points: 95
+# Comments: 42
+- `Hacker News` [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
+> Article URL: http://longbets.org/601/
+Comments URL: https://news.ycombinator.com/item?id=49228458
+Points: 161
+# Comments: 72
+- `Hacker News` [Why MySpace fans want it back as relaunch hinted](https://www.bbc.com/news/articles/c4g64152v71o)
+> Article URL: https://www.bbc.com/news/articles/c4g64152v71o
+Comments URL: https://news.ycombinator.com/item?id=49228426
+Points: 22
+# Comments: 23
+- `Hacker News` [Retraction: The App Store Rejection of the Week That Was a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
+> Thread for original post: https://news.ycombinator.com/item?id=49214863
+
+Comments URL: https://news.ycombinator.com/item?id=49228166
+Points: 229
+# Comments: 31
 - `TechCrunch` [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
 > As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.
 - `TechCrunch` [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
@@ -98,6 +104,8 @@ Points: 510
 > Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.
 - `TechCrunch` [Cloudflare launches Kitesurf, a browser built for AI agents](https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/)
 > Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents...
+- `The Verge` [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in ou...
 - `The Verge` [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
 > X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards pr...
 - `The Verge` [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
@@ -116,8 +124,6 @@ Points: 510
 > Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its "entire editorial team," according to a Friday post from Brandy Berthelson, the site's former ed...
 - `The Verge` [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo)
 > It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song "Rubberz." His comments follow the producer Medasin's videos claiming that an...
-- `The Verge` [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel)
-> The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST s...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
