@@ -6,10 +6,16 @@
 
 # 📰 每日科技日报 — 2026-08-10
 
-> 自动收集于 2026-08-10 02:12 | 共 40 条
+> 自动收集于 2026-08-10 12:38 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113283)
+> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [写给「跑两步就喘」的你：调整跑步姿势，舒适开跑](https://sspai.com/post/113115)
+> 从跑步姿势、呼吸节奏、运动强度入手，让跑步更舒服。查看全文
+- `少数派` [我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕](https://sspai.com/post/113202)
+> 喜欢，从来没有一个明确的定义。查看全文
 - `少数派` [派早报：央视曝光酒店评级标识消费陷阱](https://sspai.com/post/113268)
 > 央视曝光酒店评级标识消费陷阱《时代》网站展示仅 AI 可见广告Edge 浏览器将禁用 Manifest V2 扩展油价上涨致美国混动车需求激增廉价手机壳存在毒性隐患美国调查中国 AI 企业使用海外英伟达芯片看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面](https://sspai.com/post/113158)
@@ -24,62 +30,60 @@
 > 当我坐下来，这个小角落就慢慢有了属于我的声音。查看全文
 - `少数派` [派早报：Bose 发布新款 QuietComfort 头戴式耳机等](https://sspai.com/post/113162)
 > Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。查看全文
-- `少数派` [新玩意 248｜少数派的编辑们最近买了啥？](https://sspai.com/post/113139)
-> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
-- `少数派` [TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验](https://sspai.com/post/112916)
-> 这篇文章是TDSStudio在少数派上的第27篇文章，依然是全平台首发。在去年的年度企划之一「中价位TWS横评」中，vivo/iQOO的TWS5系列表现在多个方面都有优势，尤其是降噪综合能力的表现给人 ...查看全文
-- `少数派` [角落新声｜音乐，刻在时光里的私人地图](https://sspai.com/post/113017)
-> 没什么特别的，但无处不在，刚刚好。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
-> Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/
-Comments URL: https://news.ycombinator.com/item?id=49238050
-Points: 17
-# Comments: 0
-- `Hacker News` [Japanese court overturns Red RAW video patent](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
-> Article URL: https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/
-Comments URL: https://news.ycombinator.com/item?id=49237873
-Points: 22
-# ...
-- `Hacker News` [The Ambition Project](https://www.betonit.ai/p/the-ambition-project)
-> Article URL: https://www.betonit.ai/p/the-ambition-project
-Comments URL: https://news.ycombinator.com/item?id=49237407
+- `Hacker News` [Tail-call optimization in C is relatively recent](https://lwn.net/Articles/1034703/)
+> Article URL: https://lwn.net/Articles/1034703/
+Comments URL: https://news.ycombinator.com/item?id=49242297
+Points: 20
+# Comments: 5
+- `Hacker News` [Because It's Not Fun Enough: why languages fail](https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough)
+> Article URL: https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough
+Comments URL: https://news.ycombinator.com/item?id=49242245
+Points: 23
+# Comments: 6
+- `Hacker News` [A 'bananas' order for 5000 obscure book titles fuels suspicion](https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/)
+> Article URL: https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/
+Comments URL: https://news.ycombinator.com/item?id=49242213
+Points: 30
+#...
+- `Hacker News` [Meta's new open-weight model targets local agentic AI](https://twitter.com/finkd/status/2086754845218726027)
+> Article URL: https://twitter.com/finkd/status/2086754845218726027
+Comments URL: https://news.ycombinator.com/item?id=49242038
+Points: 14
+# Comments: 2
+- `Hacker News` [Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes](https://ethw.org/Milestones:Parametron,_1954)
+> Article URL: https://ethw.org/Milestones:Parametron,_1954
+Comments URL: https://news.ycombinator.com/item?id=49241846
 Points: 4
 # Comments: 0
-- `Hacker News` [To Recruit Teachers, School Districts Are Building Homes](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
-> Article URL: https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html
-Comments URL: https://news.ycombinator.com/item?id=49236541
-Points: 37
-# Comments: 30
-- `Hacker News` [AI assistant hacks gym website in first known Australian autonomous cyber attack](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986)
-> Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986
-Comments URL: https://news.ycombinator.com/item?id=49236439
-Points: 43
-# Comments: 36
-- `Hacker News` [Georgia police officers fired after Flock camera misuse](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/)
-> Article URL: https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/
-Comments URL: https://news.ycombinator.com/item?id=49236033
-Points: 99
-# C...
-- `Hacker News` [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
-> Article URL: https://tuxedono2.com
-Comments URL: https://news.ycombinator.com/item?id=49235697
-Points: 48
-# Comments: 11
-- `Hacker News` [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
-> Article URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media
-Comments URL: https://news.ycombinator.com/item?id=49235641
-Points: 76
-# Comments: 43
-- `Hacker News` [The Hacker's Renaissance (2025)](https://phrack.org/issues/72/19#article)
-> Article URL: https://phrack.org/issues/72/19#article
-Comments URL: https://news.ycombinator.com/item?id=49235378
-Points: 96
-# Comments: 69
-- `Hacker News` [Show HN: Alphabet Soup, a multiplayer game, build the longest word to win](https://alphabetsoup.club)
-> I've been working on a simple multiplayer word game called Alphabet Soup.It's a bit like NYT Spelling Bee, except it's multiplayer and only your best (longest) word counts toward your score. So, in...
+- `Hacker News` [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+> Article URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
+Comments URL: https://news.ycombinator.com/item?id=49241679
+Points: 246
+# Comments: 93
+- `Hacker News` [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+> Article URL: https://www.docker.com/products/docker-sandboxes/
+Comments URL: https://news.ycombinator.com/item?id=49239751
+Points: 307
+# Comments: 177
+- `Hacker News` [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
+> Article URL: https://claude.com/blog/auto-mode-default-in-claude-code
+Comments URL: https://news.ycombinator.com/item?id=49239021
+Points: 243
+# Comments: 252
+- `Hacker News` [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
+> Hey HN!I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very ear...
+- `Hacker News` [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
+> Article URL: https://github.com/shinyquagsire23/Klepton
+Comments URL: https://news.ycombinator.com/item?id=49238818
+Points: 111
+# Comments: 16
+- `TechCrunch` [Discovered Materials is playing AI whack-a-mole to hunt cooler chips](https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/)
+> Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.
+- `TechCrunch` [Google Play adds Venmo as a payment option](https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/)
+> The ability to add Venmo to Google Play comes as people are spending more money on apps and games.
 - `TechCrunch` [Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/)
 > The AI-focused hedge fund is still making some big bets.
 - `TechCrunch` [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)
@@ -96,30 +100,26 @@ Points: 96
 > More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.
 - `TechCrunch` [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
 > As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.
-- `TechCrunch` [OpenAI acquires presentation startup NextSlide](https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/)
-> NextSlide says its team members are now working on ChatGPT.
-- `TechCrunch` [X replaces ‘misaligned’ revenue sharing program with Original Content Rewards](https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/)
-> X is winding down its existing Revenue Sharing program.
+- `The Verge` [This great retro-inspired keyboard now comes preassembled](https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review)
+> You probably know just by looking at it if the Classic-TKL Underscore Edition is for you. Do you want a retro-looking wired keyboard without a number pad? Great. Do you care that it doesn't have wi...
+- `The Verge` [The first rival Android app store just arrived in the US Play Store](https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games)
+> Following the latest twist in Google's legal battles with Epic, US Android users are now able to open Google's Play Store and download a third-party digital store with its own selection of apps. Ap...
+- `The Verge` [Ford’s new AI assistant can check your fuel levels and tire pressure](https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app)
+> Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow ...
+- `The Verge` [Space mirrors could ruin astronomy — and your eyes](https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage)
+> Solar energy, at any time of day or night - that's the dream of space mirror projects. Futurists have been imagining satellite mirrors that could reflect the sun's light onto the Earth's surface fo...
 - `The Verge` [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)
-> Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. D...
+> Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season 3, which focused on experimental rock. Don't...
 - `The Verge` [Zuckerberg’s yacht was closer, but someone else saved a stranded boat](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat)
 > Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beaco...
 - `The Verge` [49ers coach says his Tesla was on Autopilot when he crashed](https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash)
-> Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time Shanahan said only that the accident was his fault. But during a recent pres...
+> Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time, Shanahan said only that the accident was his fault. But during a recent pre...
 - `The Verge` [Dropbox is a PC builder’s best friend](https://www.theverge.com/tech/976092/pc-building-dropbox-backup)
 > In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the wo...
 - `The Verge` [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in ou...
 - `The Verge` [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
 > X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards pr...
-- `The Verge` [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
-> To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to t...
-- `The Verge` [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart)
-> Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, Joh...
-- `The Verge` [Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro](https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview)
-> Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica la...
-- `The Verge` [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)
-> Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
