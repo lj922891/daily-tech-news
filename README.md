@@ -6,10 +6,18 @@
 
 # 📰 每日科技日报 — 2026-08-11
 
-> 自动收集于 2026-08-11 02:06 | 共 40 条
+> 自动收集于 2026-08-11 12:34 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包](https://sspai.com/post/113304)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线](https://sspai.com/post/112887)
+> 随着HarmonyOSNEXT的日渐成熟，越来越多的独立开发者和小团队开始将目光投向这片新的生态。借助日益强大的AI辅助编程工具，写出能跑通的代码、画出漂亮的UI界面，门槛已经变得前所未有地低。但当你 ...查看全文
+- `少数派` [从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你](https://sspai.com/post/113288)
+> 从最初的测试与共创算起，Quote/0（摘录）已经陪伴大家近一年半的时间。最初我们只想做一块安静的墨水屏：不推送、不闪烁，只把真正重要的信息留在抬眼可见的地方。后来Quote/0进入了许多我们没有预设 ...查看全文
+- `少数派` [不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍](https://sspai.com/post/113263)
+> 因为不太喜欢传统的那种原文、译文按段落或按分页对照的那种双语书形式，我做了一款可以让你按需查看译文的 ovid。查看全文
 - `少数派` [派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等](https://sspai.com/post/113301)
 > 少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解Quote/0摘录 ...查看全文
 - `少数派` [不再拆机飞线：借助 ACC 实现旧手机直供电「改造」](https://sspai.com/prime/story/direct-power-supply-mod)
@@ -22,61 +30,61 @@
 > 喜欢，从来没有一个明确的定义。查看全文
 - `少数派` [派早报：央视曝光酒店评级标识消费陷阱](https://sspai.com/post/113268)
 > 央视曝光酒店评级标识消费陷阱《时代》网站展示仅 AI 可见广告Edge 浏览器将禁用 Manifest V2 扩展油价上涨致美国混动车需求激增廉价手机壳存在毒性隐患美国调查中国 AI 企业使用海外英伟达芯片看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面](https://sspai.com/post/113158)
-> 特别声明本文的项目构思、结构设计及相关素材整理均由人工完成。在产品开发与调试过程中，使用GPT-5.6Sol模型作为辅助工具，参与方案讨论、代码编写与问题排查。文章内容基于实际开发过程中的经验与记录， ...查看全文
-- `少数派` [就内容创作而言，说话还是替代不了打字](https://sspai.com/post/112901)
-> 创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。查看全文
-- `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113191)
-> 📅本周新预告《生化危机：爆发夜》中字预告8月5日，电影《生化危机：爆发夜》发布了全新中字预告，将于9月18日在北美上映。扎克・克雷格（《凶器》《野蛮人》）执导，奥斯汀·艾布拉姆斯主演，一份双倍酬劳的郊 ...查看全文
-- `少数派` [[限时优惠] 数据分析：用好 Excel 中的数据透视表](https://sspai.com/post/113108)
-> 编注：本文为Microsoft365工具生值包内随附专属定制教程的免费试读内容。接上级经销商通知，微软将于本月提高Microsoft365订阅的供应成本，后续软件售价也将随之进行相应调整。为此，我们特 ...查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Panic of 1873](https://en.wikipedia.org/wiki/Panic_of_1873)
+> Article URL: https://en.wikipedia.org/wiki/Panic_of_1873
+Comments URL: https://news.ycombinator.com/item?id=49255918
+Points: 21
+# Comments: 12
+- `Hacker News` [Closing Canario Terminal source code](https://rapha.land/closing-canario-terminal-source-code/)
+> Article URL: https://rapha.land/closing-canario-terminal-source-code/
+Comments URL: https://news.ycombinator.com/item?id=49254881
+Points: 18
+# Comments: 19
+- `Hacker News` [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+> Article URL: https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html
+Comments URL: https://news.ycombinator.com/item?id=49254...
+- `Hacker News` [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
+> Article URL: https://github.com/activeing123/mcptoon
+Comments URL: https://news.ycombinator.com/item?id=49253721
+Points: 56
+# Comments: 40
+- `Hacker News` [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
+> Article URL: https://www.floppydisk.com/recycle
+Comments URL: https://news.ycombinator.com/item?id=49252462
+Points: 73
+# Comments: 32
+- `Hacker News` [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
+> Article URL: https://github.com/antirez/h3.c
+Comments URL: https://news.ycombinator.com/item?id=49252179
+Points: 311
+# Comments: 67
 - `Hacker News` [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
 > Article URL: https://code.call-cc.org/releases/6.0.0/NEWS
 Comments URL: https://news.ycombinator.com/item?id=49251702
-Points: 33
-# Comments: 3
-- `Hacker News` [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
+Points: 214
+# Comments: 29
+- `Hacker News` [The UK's war on anonymity has come to America](https://www.effort.news/uk-lobby)
 > Article URL: https://www.effort.news/uk-lobby
 Comments URL: https://news.ycombinator.com/item?id=49251411
-Points: 173
-# Comments: 96
+Points: 540
+# Comments: 542
 - `Hacker News` [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
 > Article URL: https://everycube.alen.is/
 Comments URL: https://news.ycombinator.com/item?id=49251179
-Points: 53
-# Comments: 11
-- `Hacker News` [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
-> Article URL: https://worldtrainmap.com/
-Comments URL: https://news.ycombinator.com/item?id=49250894
-Points: 33
-# Comments: 8
-- `Hacker News` [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
-> Article URL: https://arachnoid.com/lutusp/sailbook.html
-Comments URL: https://news.ycombinator.com/item?id=49249555
-Points: 64
-# Comments: 14
-- `Hacker News` [Stop Killing Games: It's time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
-> Article URL: https://www.massaschadeconsument.nl/collectieve-acties/playstation/
-Comments URL: https://news.ycombinator.com/item?id=49249481
-Points: 164
-# Comments: 76
-- `Hacker News` [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
-> Article URL: https://www.vectorware.com/blog/simd-on-gpu/
-Comments URL: https://news.ycombinator.com/item?id=49247477
-Points: 122
-# Comments: 61
-- `Hacker News` [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
-> Hey HN,Henry from Cactus here!We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and micr...
-- `Hacker News` [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
-> Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (https://www.stoaexchange.com), a marketplace for new and used GPUs and AI servers.GPUs are the collateral in the data center buildout. Today,...
-- `Hacker News` [What's the best programming language for coding agents?](http://danluu.com/pl-tokens/)
-> Related: Which programming languages are most token-efficient? - https://news.ycombinator.com/item?id=46582728 - Jan 2026 (91 comments)
-
-Comments URL: https://news.ycombinator.com/item?id=49245936
-...
+Points: 216
+# Comments: 75
+- `Hacker News` [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/)
+> Article URL: https://thewalrus.ca/google-search-is-dying/
+Comments URL: https://news.ycombinator.com/item?id=49250836
+Points: 397
+# Comments: 472
+- `TechCrunch` [What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/)
+> At Disrupt 2026, Amazon's Panos Panay will provide an exclusive vision for what's in store for us beyond the smartphone.
+- `TechCrunch` [Anthropic says it will watermark text generated by its AI models](https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/)
+> Anthropic will extend support for watermarking AI generations for older models as well.
 - `TechCrunch` [OpenAI reportedly completed a $7 billion employee tender offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/)
 > San Francisco's housing market is in trouble again.
 - `TechCrunch` [As AI-led attacks multiply, OpenAI launches a new cyber model](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/)
@@ -93,10 +101,12 @@ Comments URL: https://news.ycombinator.com/item?id=49245936
 > An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.
 - `TechCrunch` [Aptoide becomes the first rival app store to return to Google Play in the US](https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/)
 > Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.
-- `TechCrunch` [Social media platforms still facing thousands of user addiction lawsuits after failed appeals](https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/)
-> Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.
-- `TechCrunch` [YouTube now requires creators to have twice as many watch hours to start earning money](https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/)
-> Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.
+- `The Verge` [Claude will apply invisible watermarks to AI text and images](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images)
+> Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. "Generated text will carry embedd...
+- `The Verge` [Joby flexes military muscle with $500 million defense acquisition](https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol)
+> Joby Aviation announced it was acquiring Dayton, Ohio-based defense firm Resonant Sciences in a $500 million deal, in a bid by the electric aircraft company to expand further into the military indu...
+- `The Verge` [The AI takeover of mathematics has begun](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun)
+> Mathematician James Maynard has spent a lot of time this past year "soul searching." A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's ...
 - `The Verge` [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision)
 > Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, ho...
 - `The Verge` [Anker’s travel charger works in almost any country and is down to $20](https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale)
@@ -111,12 +121,6 @@ Comments URL: https://news.ycombinator.com/item?id=49245936
 > Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the...
 - `The Verge` [Four takeaways from Mark Zuckerberg’s massive AI manifesto](https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble)
 > Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the mat...
-- `The Verge` [Apple will stream Friday Night Baseball live in Vision Pro](https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro)
-> Starting on Friday, August 28th, Apple will begin streaming Friday Night Baseball in immersive video on Apple Vision Pro. The stream will feature commentary from various analysts and reporters, and...
-- `The Verge` [Keychron’s wireless Hall effect keyboard is back to its lowest price](https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale)
-> Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don’t need to compromise on quality to get a good deal. Keychron’s aluminum-clad K2 HE with a...
-- `The Verge` [What happens to Bose when headphones become AI?](https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio)
-> Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
