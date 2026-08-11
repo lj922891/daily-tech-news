@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-10
+# 📰 每日科技日报 — 2026-08-11
 
-> 自动收集于 2026-08-10 12:38 | 共 40 条
+> 自动收集于 2026-08-11 02:06 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等](https://sspai.com/post/113301)
+> 少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解Quote/0摘录 ...查看全文
+- `少数派` [不再拆机飞线：借助 ACC 实现旧手机直供电「改造」](https://sspai.com/prime/story/direct-power-supply-mod)
+> 去年4月，我在某视频的影响下，萌生了将家里的旧安卓手机利用起来的想法。后续虽然跑起来了，但因为设备需要长期充电，电池安全又成了一个让我困扰的难题。为了解决这个问题，我在《彻底告别电池焦虑：旧手机再利用 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113283)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [写给「跑两步就喘」的你：调整跑步姿势，舒适开跑](https://sspai.com/post/113115)
@@ -26,100 +30,93 @@
 > 📅本周新预告《生化危机：爆发夜》中字预告8月5日，电影《生化危机：爆发夜》发布了全新中字预告，将于9月18日在北美上映。扎克・克雷格（《凶器》《野蛮人》）执导，奥斯汀·艾布拉姆斯主演，一份双倍酬劳的郊 ...查看全文
 - `少数派` [[限时优惠] 数据分析：用好 Excel 中的数据透视表](https://sspai.com/post/113108)
 > 编注：本文为Microsoft365工具生值包内随附专属定制教程的免费试读内容。接上级经销商通知，微软将于本月提高Microsoft365订阅的供应成本，后续软件售价也将随之进行相应调整。为此，我们特 ...查看全文
-- `少数派` [角落新声｜从合租到整租，我在客厅听见了自己的声音](https://sspai.com/post/113144)
-> 当我坐下来，这个小角落就慢慢有了属于我的声音。查看全文
-- `少数派` [派早报：Bose 发布新款 QuietComfort 头戴式耳机等](https://sspai.com/post/113162)
-> Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Tail-call optimization in C is relatively recent](https://lwn.net/Articles/1034703/)
-> Article URL: https://lwn.net/Articles/1034703/
-Comments URL: https://news.ycombinator.com/item?id=49242297
-Points: 20
-# Comments: 5
-- `Hacker News` [Because It's Not Fun Enough: why languages fail](https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough)
-> Article URL: https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough
-Comments URL: https://news.ycombinator.com/item?id=49242245
-Points: 23
-# Comments: 6
-- `Hacker News` [A 'bananas' order for 5000 obscure book titles fuels suspicion](https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/)
-> Article URL: https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/
-Comments URL: https://news.ycombinator.com/item?id=49242213
-Points: 30
-#...
-- `Hacker News` [Meta's new open-weight model targets local agentic AI](https://twitter.com/finkd/status/2086754845218726027)
-> Article URL: https://twitter.com/finkd/status/2086754845218726027
-Comments URL: https://news.ycombinator.com/item?id=49242038
-Points: 14
-# Comments: 2
-- `Hacker News` [Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes](https://ethw.org/Milestones:Parametron,_1954)
-> Article URL: https://ethw.org/Milestones:Parametron,_1954
-Comments URL: https://news.ycombinator.com/item?id=49241846
-Points: 4
-# Comments: 0
-- `Hacker News` [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
-> Article URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
-Comments URL: https://news.ycombinator.com/item?id=49241679
-Points: 246
-# Comments: 93
-- `Hacker News` [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
-> Article URL: https://www.docker.com/products/docker-sandboxes/
-Comments URL: https://news.ycombinator.com/item?id=49239751
-Points: 307
-# Comments: 177
-- `Hacker News` [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
-> Article URL: https://claude.com/blog/auto-mode-default-in-claude-code
-Comments URL: https://news.ycombinator.com/item?id=49239021
-Points: 243
-# Comments: 252
-- `Hacker News` [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
-> Hey HN!I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very ear...
-- `Hacker News` [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
-> Article URL: https://github.com/shinyquagsire23/Klepton
-Comments URL: https://news.ycombinator.com/item?id=49238818
-Points: 111
-# Comments: 16
-- `TechCrunch` [Discovered Materials is playing AI whack-a-mole to hunt cooler chips](https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/)
-> Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.
-- `TechCrunch` [Google Play adds Venmo as a payment option](https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/)
-> The ability to add Venmo to Google Play comes as people are spending more money on apps and games.
-- `TechCrunch` [Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry](https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/)
-> The AI-focused hedge fund is still making some big bets.
-- `TechCrunch` [Anthropic is turning Claude Code’s auto mode on by default](https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/)
-> Programming with Claude Code will soon require even less human oversight.
-- `TechCrunch` [TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire](https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-- `TechCrunch` [Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
-> On the latest episode of Equity, we spoke to Jill Lepore about "government by machines" and why Elon Musk is a bad science fiction reader.
-- `TechCrunch` [The AI safety test is becoming a safety risk](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/)
-> AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace wit...
-- `TechCrunch` [This ‘adversarial’ pattern can prevent surveillance cameras from detecting you](https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/)
-> A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.
-- `TechCrunch` [This former notorious red-light district is now one of the world’s top AI hubs](https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/)
-> More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.
-- `TechCrunch` [Planned Amazon data center could become the biggest climate polluter in the U.S.](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/)
-> As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.
-- `The Verge` [This great retro-inspired keyboard now comes preassembled](https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review)
-> You probably know just by looking at it if the Classic-TKL Underscore Edition is for you. Do you want a retro-looking wired keyboard without a number pad? Great. Do you care that it doesn't have wi...
-- `The Verge` [The first rival Android app store just arrived in the US Play Store](https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games)
-> Following the latest twist in Google's legal battles with Epic, US Android users are now able to open Google's Play Store and download a third-party digital store with its own selection of apps. Ap...
-- `The Verge` [Ford’s new AI assistant can check your fuel levels and tire pressure](https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app)
-> Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow ...
-- `The Verge` [Space mirrors could ruin astronomy — and your eyes](https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage)
-> Solar energy, at any time of day or night - that's the dream of space mirror projects. Futurists have been imagining satellite mirrors that could reflect the sun's light onto the Earth's surface fo...
-- `The Verge` [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)
-> Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season 3, which focused on experimental rock. Don't...
-- `The Verge` [Zuckerberg’s yacht was closer, but someone else saved a stranded boat](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat)
-> Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beaco...
-- `The Verge` [49ers coach says his Tesla was on Autopilot when he crashed](https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash)
-> Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time, Shanahan said only that the accident was his fault. But during a recent pre...
-- `The Verge` [Dropbox is a PC builder’s best friend](https://www.theverge.com/tech/976092/pc-building-dropbox-backup)
-> In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the wo...
-- `The Verge` [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in ou...
-- `The Verge` [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
-> X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards pr...
+- `Hacker News` [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
+> Article URL: https://code.call-cc.org/releases/6.0.0/NEWS
+Comments URL: https://news.ycombinator.com/item?id=49251702
+Points: 33
+# Comments: 3
+- `Hacker News` [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
+> Article URL: https://www.effort.news/uk-lobby
+Comments URL: https://news.ycombinator.com/item?id=49251411
+Points: 173
+# Comments: 96
+- `Hacker News` [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
+> Article URL: https://everycube.alen.is/
+Comments URL: https://news.ycombinator.com/item?id=49251179
+Points: 53
+# Comments: 11
+- `Hacker News` [World Train Map – 1247 train routes around the world](https://worldtrainmap.com/)
+> Article URL: https://worldtrainmap.com/
+Comments URL: https://news.ycombinator.com/item?id=49250894
+Points: 33
+# Comments: 8
+- `Hacker News` [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html)
+> Article URL: https://arachnoid.com/lutusp/sailbook.html
+Comments URL: https://news.ycombinator.com/item?id=49249555
+Points: 64
+# Comments: 14
+- `Hacker News` [Stop Killing Games: It's time to sue Sony, join us](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
+> Article URL: https://www.massaschadeconsument.nl/collectieve-acties/playstation/
+Comments URL: https://news.ycombinator.com/item?id=49249481
+Points: 164
+# Comments: 76
+- `Hacker News` [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/)
+> Article URL: https://www.vectorware.com/blog/simd-on-gpu/
+Comments URL: https://news.ycombinator.com/item?id=49247477
+Points: 122
+# Comments: 61
+- `Hacker News` [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
+> Hey HN,Henry from Cactus here!We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and micr...
+- `Hacker News` [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
+> Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (https://www.stoaexchange.com), a marketplace for new and used GPUs and AI servers.GPUs are the collateral in the data center buildout. Today,...
+- `Hacker News` [What's the best programming language for coding agents?](http://danluu.com/pl-tokens/)
+> Related: Which programming languages are most token-efficient? - https://news.ycombinator.com/item?id=46582728 - Jan 2026 (91 comments)
+
+Comments URL: https://news.ycombinator.com/item?id=49245936
+...
+- `TechCrunch` [OpenAI reportedly completed a $7 billion employee tender offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/)
+> San Francisco's housing market is in trouble again.
+- `TechCrunch` [As AI-led attacks multiply, OpenAI launches a new cyber model](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/)
+> OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.
+- `TechCrunch` [Jeff Bezos might finally get his hands on a sports team](https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/)
+> Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.
+- `TechCrunch` [Now Rippling is counter-suing tiny startup Runlayer](https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/)
+> This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.
+- `TechCrunch` [Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax](https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/)
+> California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.
+- `TechCrunch` [Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI](https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/)
+> On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the "personal superintelligence" systems Meta AI is building.
+- `TechCrunch` [Tech industry is buzzing after a Claude agent hacked into a gym](https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/)
+> An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.
+- `TechCrunch` [Aptoide becomes the first rival app store to return to Google Play in the US](https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/)
+> Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.
+- `TechCrunch` [Social media platforms still facing thousands of user addiction lawsuits after failed appeals](https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/)
+> Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.
+- `TechCrunch` [YouTube now requires creators to have twice as many watch hours to start earning money](https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/)
+> Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.
+- `The Verge` [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision)
+> Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, ho...
+- `The Verge` [Anker’s travel charger works in almost any country and is down to $20](https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale)
+> If you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from o...
+- `The Verge` [Bluesky now lets you hide reposts from that annoying person you follow](https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads)
+> Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your ...
+- `The Verge` [Costco’s great Switch 2 console bundle includes over $100 in free stuff](https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale)
+> The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99...
+- `The Verge` [What to expect from Google’s 2026 Pixel hardware launch event](https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event)
+> It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel sma...
+- `The Verge` [YouTube is making it harder to earn money on YouTube](https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements)
+> Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the...
+- `The Verge` [Four takeaways from Mark Zuckerberg’s massive AI manifesto](https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble)
+> Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the mat...
+- `The Verge` [Apple will stream Friday Night Baseball live in Vision Pro](https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro)
+> Starting on Friday, August 28th, Apple will begin streaming Friday Night Baseball in immersive video on Apple Vision Pro. The stream will feature commentary from various analysts and reporters, and...
+- `The Verge` [Keychron’s wireless Hall effect keyboard is back to its lowest price](https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale)
+> Getting a keyboard with customizable Hall effect sensors is more affordable than it used to be, and you don’t need to compromise on quality to get a good deal. Keychron’s aluminum-clad K2 HE with a...
+- `The Verge` [What happens to Bose when headphones become AI?](https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio)
+> Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
