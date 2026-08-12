@@ -6,10 +6,16 @@
 
 # 📰 每日科技日报 — 2026-08-12
 
-> 自动收集于 2026-08-12 02:24 | 共 40 条
+> 自动收集于 2026-08-12 12:37 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [把「闪念胶囊」（Almost）放到 iPhone 锁屏](https://sspai.com/post/113219)
+> 想法被及时、完好的记下来，然后呢？查看全文
+- `少数派` [对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派](https://sspai.com/post/113352)
+> 《三五环》主播刘飞邀请老麦聊了聊他从 Palm 时代开始的二十年数码时代的经营历程。复盘了少数派如何从一家媒体，一步步跑通「内容+产品」的商业闭环；也聊到了他与罗永浩那段「不打不相识」的往事，以及那些改变了他对科技媒体商业模式认知的故事。查看全文
+- `少数派` [我，与「唯一」的 iPhone Air](https://sspai.com/post/112880)
+> 在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。查看全文
 - `少数派` [派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等](https://sspai.com/post/113343)
 > 雷蛇那伽梵蛇 V3 专业版无线鼠标发布，铭凡推出 Elite Mini M2 Air-304 迷你主机等。查看全文
 - `少数派` [社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包](https://sspai.com/post/113304)
@@ -24,62 +30,59 @@
 > 少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解Quote/0摘录 ...查看全文
 - `少数派` [不再拆机飞线：借助 ACC 实现旧手机直供电「改造」](https://sspai.com/prime/story/direct-power-supply-mod)
 > 去年4月，我在某视频的影响下，萌生了将家里的旧安卓手机利用起来的想法。后续虽然跑起来了，但因为设备需要长期充电，电池安全又成了一个让我困扰的难题。为了解决这个问题，我在《彻底告别电池焦虑：旧手机再利用 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113283)
-> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [写给「跑两步就喘」的你：调整跑步姿势，舒适开跑](https://sspai.com/post/113115)
-> 从跑步姿势、呼吸节奏、运动强度入手，让跑步更舒服。查看全文
-- `少数派` [我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕](https://sspai.com/post/113202)
-> 喜欢，从来没有一个明确的定义。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [New Bedford police officer accused of using Flock cameras to track ex-partner](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
-> Article URL: https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/
-Comments URL: https://news.ycombinator.com/item?id=492668...
-- `Hacker News` [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
-> Article URL: https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/
-Comments URL: https://news.ycombinator.com/item?id=49266560
-Point...
-- `Hacker News` [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
-> Article URL: https://www.cftc.gov/PressRoom/PressReleases/9281-26
-Comments URL: https://news.ycombinator.com/item?id=49266277
-Points: 117
-# Comments: 96
-- `Hacker News` [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
-> Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/
-Comments URL: https://news.ycombinator.com/item?id=49265051
-Points: 129
-# Comments: 43
-- `Hacker News` [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
-> Article URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026
-Comments URL: https://news.ycombinator.com/item?id=49265031
-Points: 36
-# Comments: 2
-- `Hacker News` [Suzanne: AI tool for designing and manufacturing physical products](https://www.suzanne3d.com/)
-> Article URL: https://www.suzanne3d.com/
-Comments URL: https://news.ycombinator.com/item?id=49264755
-Points: 39
-# Comments: 28
-- `Hacker News` [Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
-> Article URL: https://arxiv.org/abs/2601.01828
-Comments URL: https://news.ycombinator.com/item?id=49264583
-Points: 32
+- `Hacker News` [Facebook ads are so hard to block that uBlock Origin stopped filtering them](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
+> Article URL: https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/
+Comments URL: https://news.ycombinator.com/item?id=49271126
+Points: 17
+# Commen...
+- `Hacker News` [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
+> Article URL: https://jonty.github.io/2026_eclipse_webcams/
+Comments URL: https://news.ycombinator.com/item?id=49270953
+Points: 57
 # Comments: 10
-- `Hacker News` [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
-> Article URL: https://ngrok.com/blog/compression-is-prediction
-Comments URL: https://news.ycombinator.com/item?id=49263497
-Points: 264
-# Comments: 121
-- `Hacker News` [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
-> Article URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/
-Comments URL: https://news.ycombinator.com/item?id=49263340
-Points: 184
-# Comments: 93
-- `Hacker News` [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
-> Article URL: https://blog.jordan.matelsky.com/Penplotter-holography/
-Comments URL: https://news.ycombinator.com/item?id=49262811
-Points: 118
-# Comments: 12
+- `Hacker News` [I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
+> Article URL: https://getfresh.dev/docs/blog/packaging-for-linux/
+Comments URL: https://news.ycombinator.com/item?id=49270764
+Points: 36
+# Comments: 29
+- `Hacker News` [Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)
+> Article URL: https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/
+Comments URL: https://news.ycombinator.com/item?id=49270621
+Points: 15
+# Comments: 6
+- `Hacker News` [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
+> Woxi is an interpreter for the Wolfram Language written in Rust.It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python pa...
+- `Hacker News` [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
+> Article URL: https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/
+Comments URL: https://news.ycombinator.com/item?id=49270022
+Points: 107
+# Comments: 38
+- `Hacker News` [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
+> Article URL: https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696
+Comments URL: https://news.ycombinator.com/item?id=49269818
+Points: 206
+# Commen...
+- `Hacker News` [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)
+> Hey HN, we're Advaith and Akash from Discovered Materials ( https://discoveredmaterials.com/ ).  We build AI agents that discover new materials for the semiconductor industry.GPUs today have a heat...
+- `Hacker News` [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
+> Article URL: https://www.cringebot3000.com/
+Comments URL: https://news.ycombinator.com/item?id=49268564
+Points: 321
+# Comments: 131
+- `Hacker News` [llama.cpp](https://llama.app)
+> Article URL: https://llama.app
+Comments URL: https://news.ycombinator.com/item?id=49267928
+Points: 279
+# Comments: 122
+- `TechCrunch` [AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year](https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/)
+> Blacksmith says revenue has grown more than tenfold over the past year.
+- `TechCrunch` [Reservoir raises $8M to make water heaters that people — and the grid — will actually want](https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/)
+> Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.
+- `TechCrunch` [India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/)
+> Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.
 - `TechCrunch` [Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/)
 > Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.
 - `TechCrunch` [Accel closes oversubscribed $550M India fund within weeks, 19 months after its last](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/)
@@ -94,12 +97,10 @@ Points: 118
 > Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150...
 - `TechCrunch` [Bluesky’s active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
 > Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.
-- `TechCrunch` [What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?](https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/)
-> Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.
-- `TechCrunch` [Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’](https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/)
-> One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was "excited to help you all advance the mission from a different vantage point."
-- `TechCrunch` [General Catalyst leads $1.1B round into 2-month-old River AI](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/)
-> River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.
+- `The Verge` [Of course the ChatGPT dog cancer vaccine spawned a startup](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee)
+> Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a star...
+- `The Verge` [Grok is now an AI ‘teammate’ you can assign work](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch)
+> SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent "AI teammates" that can do your work for you. The bots share their own cloud-based computer envir...
 - `The Verge` [Saber denies replacing Rideshare Stimulator’s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
 > After a former lead writer claimed Saber "replaced me with ChatGPT," CEO Matthew Karch now claims, "Neither Saber nor Unigine have replaced any writers with AI," for the Rideshare "Stimulator" game...
 - `The Verge` [Xbox Elite 3 prototype pad leaks with tiny built-in screen](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen)
@@ -116,10 +117,6 @@ Points: 118
 > Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told ...
 - `The Verge` [The budget-friendly Pixel Buds 2a are even cheaper right now](https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale)
 > Looking for great pair of earbuds that work particularly well with Android phones? The Google Pixel Buds 2a are currently discounted to $99 (usually $129) at various retailers, including Amazon, Be...
-- `The Verge` [Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t](https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led)
-> Last year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallon as host, and it aired an hour after the phones were revealed. Spec dives and executive...
-- `The Verge` [Made by Google 2026: all the Pixel news and announcements](https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news)
-> Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs po...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
