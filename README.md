@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-11
+# 📰 每日科技日报 — 2026-08-12
 
-> 自动收集于 2026-08-11 12:34 | 共 40 条
+> 自动收集于 2026-08-12 02:24 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等](https://sspai.com/post/113343)
+> 雷蛇那伽梵蛇 V3 专业版无线鼠标发布，铭凡推出 Elite Mini M2 Air-304 迷你主机等。查看全文
 - `少数派` [社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包](https://sspai.com/post/113304)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线](https://sspai.com/post/112887)
@@ -28,99 +30,96 @@
 > 从跑步姿势、呼吸节奏、运动强度入手，让跑步更舒服。查看全文
 - `少数派` [我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕](https://sspai.com/post/113202)
 > 喜欢，从来没有一个明确的定义。查看全文
-- `少数派` [派早报：央视曝光酒店评级标识消费陷阱](https://sspai.com/post/113268)
-> 央视曝光酒店评级标识消费陷阱《时代》网站展示仅 AI 可见广告Edge 浏览器将禁用 Manifest V2 扩展油价上涨致美国混动车需求激增廉价手机壳存在毒性隐患美国调查中国 AI 企业使用海外英伟达芯片看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Panic of 1873](https://en.wikipedia.org/wiki/Panic_of_1873)
-> Article URL: https://en.wikipedia.org/wiki/Panic_of_1873
-Comments URL: https://news.ycombinator.com/item?id=49255918
-Points: 21
+- `Hacker News` [New Bedford police officer accused of using Flock cameras to track ex-partner](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
+> Article URL: https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/
+Comments URL: https://news.ycombinator.com/item?id=492668...
+- `Hacker News` [DEF CON crowd suspected in fake-hotspot attack on Delta flight](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
+> Article URL: https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/
+Comments URL: https://news.ycombinator.com/item?id=49266560
+Point...
+- `Hacker News` [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
+> Article URL: https://www.cftc.gov/PressRoom/PressReleases/9281-26
+Comments URL: https://news.ycombinator.com/item?id=49266277
+Points: 117
+# Comments: 96
+- `Hacker News` [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+> Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/
+Comments URL: https://news.ycombinator.com/item?id=49265051
+Points: 129
+# Comments: 43
+- `Hacker News` [pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
+> Article URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026
+Comments URL: https://news.ycombinator.com/item?id=49265031
+Points: 36
+# Comments: 2
+- `Hacker News` [Suzanne: AI tool for designing and manufacturing physical products](https://www.suzanne3d.com/)
+> Article URL: https://www.suzanne3d.com/
+Comments URL: https://news.ycombinator.com/item?id=49264755
+Points: 39
+# Comments: 28
+- `Hacker News` [Emergent Introspective Awareness in Large Language Models](https://arxiv.org/abs/2601.01828)
+> Article URL: https://arxiv.org/abs/2601.01828
+Comments URL: https://news.ycombinator.com/item?id=49264583
+Points: 32
+# Comments: 10
+- `Hacker News` [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
+> Article URL: https://ngrok.com/blog/compression-is-prediction
+Comments URL: https://news.ycombinator.com/item?id=49263497
+Points: 264
+# Comments: 121
+- `Hacker News` [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+> Article URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/
+Comments URL: https://news.ycombinator.com/item?id=49263340
+Points: 184
+# Comments: 93
+- `Hacker News` [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
+> Article URL: https://blog.jordan.matelsky.com/Penplotter-holography/
+Comments URL: https://news.ycombinator.com/item?id=49262811
+Points: 118
 # Comments: 12
-- `Hacker News` [Closing Canario Terminal source code](https://rapha.land/closing-canario-terminal-source-code/)
-> Article URL: https://rapha.land/closing-canario-terminal-source-code/
-Comments URL: https://news.ycombinator.com/item?id=49254881
-Points: 18
-# Comments: 19
-- `Hacker News` [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
-> Article URL: https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html
-Comments URL: https://news.ycombinator.com/item?id=49254...
-- `Hacker News` [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
-> Article URL: https://github.com/activeing123/mcptoon
-Comments URL: https://news.ycombinator.com/item?id=49253721
-Points: 56
-# Comments: 40
-- `Hacker News` [Recycle – Floppydisks](https://www.floppydisk.com/recycle)
-> Article URL: https://www.floppydisk.com/recycle
-Comments URL: https://news.ycombinator.com/item?id=49252462
-Points: 73
-# Comments: 32
-- `Hacker News` [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
-> Article URL: https://github.com/antirez/h3.c
-Comments URL: https://news.ycombinator.com/item?id=49252179
-Points: 311
-# Comments: 67
-- `Hacker News` [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
-> Article URL: https://code.call-cc.org/releases/6.0.0/NEWS
-Comments URL: https://news.ycombinator.com/item?id=49251702
-Points: 214
-# Comments: 29
-- `Hacker News` [The UK's war on anonymity has come to America](https://www.effort.news/uk-lobby)
-> Article URL: https://www.effort.news/uk-lobby
-Comments URL: https://news.ycombinator.com/item?id=49251411
-Points: 540
-# Comments: 542
-- `Hacker News` [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
-> Article URL: https://everycube.alen.is/
-Comments URL: https://news.ycombinator.com/item?id=49251179
-Points: 216
-# Comments: 75
-- `Hacker News` [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/)
-> Article URL: https://thewalrus.ca/google-search-is-dying/
-Comments URL: https://news.ycombinator.com/item?id=49250836
-Points: 397
-# Comments: 472
-- `TechCrunch` [What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/)
-> At Disrupt 2026, Amazon's Panos Panay will provide an exclusive vision for what's in store for us beyond the smartphone.
-- `TechCrunch` [Anthropic says it will watermark text generated by its AI models](https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/)
-> Anthropic will extend support for watermarking AI generations for older models as well.
-- `TechCrunch` [OpenAI reportedly completed a $7 billion employee tender offer](https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/)
-> San Francisco's housing market is in trouble again.
-- `TechCrunch` [As AI-led attacks multiply, OpenAI launches a new cyber model](https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/)
-> OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.
-- `TechCrunch` [Jeff Bezos might finally get his hands on a sports team](https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/)
-> Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.
-- `TechCrunch` [Now Rippling is counter-suing tiny startup Runlayer](https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/)
-> This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.
-- `TechCrunch` [Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax](https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/)
-> California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.
-- `TechCrunch` [Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI](https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/)
-> On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the "personal superintelligence" systems Meta AI is building.
-- `TechCrunch` [Tech industry is buzzing after a Claude agent hacked into a gym](https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/)
-> An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.
-- `TechCrunch` [Aptoide becomes the first rival app store to return to Google Play in the US](https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/)
-> Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.
-- `The Verge` [Claude will apply invisible watermarks to AI text and images](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images)
-> Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. "Generated text will carry embedd...
-- `The Verge` [Joby flexes military muscle with $500 million defense acquisition](https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol)
-> Joby Aviation announced it was acquiring Dayton, Ohio-based defense firm Resonant Sciences in a $500 million deal, in a bid by the electric aircraft company to expand further into the military indu...
-- `The Verge` [The AI takeover of mathematics has begun](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun)
-> Mathematician James Maynard has spent a lot of time this past year "soul searching." A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's ...
-- `The Verge` [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision)
-> Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, ho...
-- `The Verge` [Anker’s travel charger works in almost any country and is down to $20](https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale)
-> If you’ve got international travel coming up, an adapter is essential for keeping your phone, earbuds, power banks, and other gadgets charged. Anker’s Nano Travel Adapter is one of our picks from o...
-- `The Verge` [Bluesky now lets you hide reposts from that annoying person you follow](https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads)
-> Bluesky has added a new feature that lets you hide reposts from a specific person in your feeds. The tool might be helpful if you want to stop seeing reposts from that one person who clogs up your ...
-- `The Verge` [Costco’s great Switch 2 console bundle includes over $100 in free stuff](https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale)
-> The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99...
-- `The Verge` [What to expect from Google’s 2026 Pixel hardware launch event](https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event)
-> It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel sma...
-- `The Verge` [YouTube is making it harder to earn money on YouTube](https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements)
-> Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the...
-- `The Verge` [Four takeaways from Mark Zuckerberg’s massive AI manifesto](https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble)
-> Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the mat...
+- `TechCrunch` [Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/)
+> Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.
+- `TechCrunch` [Accel closes oversubscribed $550M India fund within weeks, 19 months after its last](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/)
+> The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.
+- `TechCrunch` [Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/)
+> The divestiture comes as the two once-tight companies have started to diverge on the business side.
+- `TechCrunch` [FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures](https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/)
+> In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.
+- `TechCrunch` [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
+> OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.
+- `TechCrunch` [Google’s Gemini app surges to 1 billion users](https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/)
+> Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150...
+- `TechCrunch` [Bluesky’s active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
+> Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.
+- `TechCrunch` [What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?](https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/)
+> Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.
+- `TechCrunch` [Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’](https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/)
+> One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was "excited to help you all advance the mission from a different vantage point."
+- `TechCrunch` [General Catalyst leads $1.1B round into 2-month-old River AI](https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/)
+> River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.
+- `The Verge` [Saber denies replacing Rideshare Stimulator’s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
+> After a former lead writer claimed Saber "replaced me with ChatGPT," CEO Matthew Karch now claims, "Neither Saber nor Unigine have replaced any writers with AI," for the Rideshare "Stimulator" game...
+- `The Verge` [Xbox Elite 3 prototype pad leaks with tiny built-in screen](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen)
+> Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3....
+- `The Verge` [An FCC filing points to new Sonos headphones coming soon](https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing)
+> It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an...
+- `The Verge` [ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users)
+> For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing pro...
+- `The Verge` [Threads has a VR app now](https://www.theverge.com/tech/978181/meta-threads-quest-vr-app)
+> Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent ne...
+- `The Verge` [Google’s free streaming service now lets you pick shows and movies to watch](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand)
+> Google TV Freeplay, the company's free, ad-supported streaming service, now supports video on demand. Instead of tuning into Google TV Freeplay's selection of always-on channels, you can now choose...
+- `The Verge` [Another OpenAI executive takes off](https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure)
+> Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told ...
+- `The Verge` [The budget-friendly Pixel Buds 2a are even cheaper right now](https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale)
+> Looking for great pair of earbuds that work particularly well with Android phones? The Google Pixel Buds 2a are currently discounted to $99 (usually $129) at various retailers, including Amazon, Be...
+- `The Verge` [Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t](https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led)
+> Last year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallon as host, and it aired an hour after the phones were revealed. Spec dives and executive...
+- `The Verge` [Made by Google 2026: all the Pixel news and announcements](https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news)
+> Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs po...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
