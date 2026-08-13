@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-12
+# 📰 每日科技日报 — 2026-08-13
 
-> 自动收集于 2026-08-12 12:37 | 共 40 条
+> 自动收集于 2026-08-13 02:25 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等](https://sspai.com/post/113385)
+> 影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。查看全文
 - `少数派` [把「闪念胶囊」（Almost）放到 iPhone 锁屏](https://sspai.com/post/113219)
 > 想法被及时、完好的记下来，然后呢？查看全文
 - `少数派` [对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派](https://sspai.com/post/113352)
@@ -28,95 +30,99 @@
 > 因为不太喜欢传统的那种原文、译文按段落或按分页对照的那种双语书形式，我做了一款可以让你按需查看译文的 ovid。查看全文
 - `少数派` [派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等](https://sspai.com/post/113301)
 > 少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解Quote/0摘录 ...查看全文
-- `少数派` [不再拆机飞线：借助 ACC 实现旧手机直供电「改造」](https://sspai.com/prime/story/direct-power-supply-mod)
-> 去年4月，我在某视频的影响下，萌生了将家里的旧安卓手机利用起来的想法。后续虽然跑起来了，但因为设备需要长期充电，电池安全又成了一个让我困扰的难题。为了解决这个问题，我在《彻底告别电池焦虑：旧手机再利用 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [Facebook ads are so hard to block that uBlock Origin stopped filtering them](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
-> Article URL: https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/
-Comments URL: https://news.ycombinator.com/item?id=49271126
+- `Hacker News` [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
+> Article URL: https://www.ballet.dev/
+Comments URL: https://news.ycombinator.com/item?id=49280184
 Points: 17
-# Commen...
-- `Hacker News` [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
-> Article URL: https://jonty.github.io/2026_eclipse_webcams/
-Comments URL: https://news.ycombinator.com/item?id=49270953
-Points: 57
-# Comments: 10
-- `Hacker News` [I hate packaging my software for Linux](https://getfresh.dev/docs/blog/packaging-for-linux/)
-> Article URL: https://getfresh.dev/docs/blog/packaging-for-linux/
-Comments URL: https://news.ycombinator.com/item?id=49270764
-Points: 36
-# Comments: 29
-- `Hacker News` [Delphi 13 Community Edition Is Now Available](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)
-> Article URL: https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/
-Comments URL: https://news.ycombinator.com/item?id=49270621
-Points: 15
-# Comments: 6
-- `Hacker News` [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)
-> Woxi is an interpreter for the Wolfram Language written in Rust.It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python pa...
-- `Hacker News` [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
-> Article URL: https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/
-Comments URL: https://news.ycombinator.com/item?id=49270022
-Points: 107
-# Comments: 38
-- `Hacker News` [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
-> Article URL: https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696
-Comments URL: https://news.ycombinator.com/item?id=49269818
-Points: 206
-# Commen...
-- `Hacker News` [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)
-> Hey HN, we're Advaith and Akash from Discovered Materials ( https://discoveredmaterials.com/ ).  We build AI agents that discover new materials for the semiconductor industry.GPUs today have a heat...
-- `Hacker News` [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
-> Article URL: https://www.cringebot3000.com/
-Comments URL: https://news.ycombinator.com/item?id=49268564
-Points: 321
-# Comments: 131
-- `Hacker News` [llama.cpp](https://llama.app)
-> Article URL: https://llama.app
-Comments URL: https://news.ycombinator.com/item?id=49267928
-Points: 279
-# Comments: 122
-- `TechCrunch` [AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year](https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/)
-> Blacksmith says revenue has grown more than tenfold over the past year.
-- `TechCrunch` [Reservoir raises $8M to make water heaters that people — and the grid — will actually want](https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/)
-> Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.
-- `TechCrunch` [India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand](https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/)
-> Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.
-- `TechCrunch` [Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months](https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/)
-> Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.
-- `TechCrunch` [Accel closes oversubscribed $550M India fund within weeks, 19 months after its last](https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/)
-> The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.
-- `TechCrunch` [Uber surprised robotics company Serve by selling its entire stake](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/)
-> The divestiture comes as the two once-tight companies have started to diverge on the business side.
-- `TechCrunch` [FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures](https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/)
-> In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.
-- `TechCrunch` [OpenAI launches ChatGPT desktop app for Linux](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
-> OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.
-- `TechCrunch` [Google’s Gemini app surges to 1 billion users](https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/)
-> Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150...
-- `TechCrunch` [Bluesky’s active user base is shrinking as its focus expands beyond the app](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
-> Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.
-- `The Verge` [Of course the ChatGPT dog cancer vaccine spawned a startup](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee)
-> Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a star...
-- `The Verge` [Grok is now an AI ‘teammate’ you can assign work](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch)
-> SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent "AI teammates" that can do your work for you. The bots share their own cloud-based computer envir...
-- `The Verge` [Saber denies replacing Rideshare Stimulator’s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
-> After a former lead writer claimed Saber "replaced me with ChatGPT," CEO Matthew Karch now claims, "Neither Saber nor Unigine have replaced any writers with AI," for the Rideshare "Stimulator" game...
-- `The Verge` [Xbox Elite 3 prototype pad leaks with tiny built-in screen](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen)
-> Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3....
-- `The Verge` [An FCC filing points to new Sonos headphones coming soon](https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing)
-> It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an...
-- `The Verge` [ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users)
-> For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing pro...
-- `The Verge` [Threads has a VR app now](https://www.theverge.com/tech/978181/meta-threads-quest-vr-app)
-> Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent ne...
-- `The Verge` [Google’s free streaming service now lets you pick shows and movies to watch](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand)
-> Google TV Freeplay, the company's free, ad-supported streaming service, now supports video on demand. Instead of tuning into Google TV Freeplay's selection of always-on channels, you can now choose...
-- `The Verge` [Another OpenAI executive takes off](https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure)
-> Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told ...
-- `The Verge` [The budget-friendly Pixel Buds 2a are even cheaper right now](https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale)
-> Looking for great pair of earbuds that work particularly well with Android phones? The Google Pixel Buds 2a are currently discounted to $99 (usually $129) at various retailers, including Amazon, Be...
+# Comments: 2
+- `Hacker News` [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
+> Article URL: https://sharktastica.co.uk/articles/pc-fxt-45
+Comments URL: https://news.ycombinator.com/item?id=49280103
+Points: 33
+# Comments: 9
+- `Hacker News` [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
+> Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47
+Comments URL: https://news.ycombinator.com/item?id=49280061
+Points: 47
+# Comments: 33
+- `Hacker News` [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
+> Article URL: https://adapt.com/blog/build-wide-ship-narrow
+Comments URL: https://news.ycombinator.com/item?id=49280047
+Points: 33
+# Comments: 0
+- `Hacker News` [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
+> Article URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html
+Comments URL: https://news.ycombinator.com/item?id=49279928
+Points: 51
+# Comments: 17
+- `Hacker News` [I built a browser-native SysEx librarian for 80s/90s synthesizers](https://bipluk.com/)
+> Article URL: https://bipluk.com/
+Comments URL: https://news.ycombinator.com/item?id=49279628
+Points: 9
+# Comments: 7
+- `Hacker News` [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
+> Article URL: https://bengodfrey.dev/blog/process/
+Comments URL: https://news.ycombinator.com/item?id=49279197
+Points: 25
+# Comments: 4
+- `Hacker News` [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
+> Article URL: https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/
+Comments URL: https://news.ycombinator.com/item?id=49279013
+Points: 54
+# Comments: 66
+- `Hacker News` [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
+> Article URL: https://antithesis.com/blog/2026/wal-reset-bug/
+Comments URL: https://news.ycombinator.com/item?id=49277799
+Points: 64
+# Comments: 36
+- `Hacker News` [Delta](https://zed.dev/blog/introducing-delta)
+> Article URL: https://zed.dev/blog/introducing-delta
+Comments URL: https://news.ycombinator.com/item?id=49276574
+Points: 412
+# Comments: 138
+- `TechCrunch` [Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs,...](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
+> Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.
+- `TechCrunch` [AI nuclear power firm Fermi finally has a new CEO](https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/)
+> Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.
+- `TechCrunch` [Northrop’s robot space mechanic is a new way to keep satellites at work longer](https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/)
+> The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.
+- `TechCrunch` [Amazon will train on Twitch streamers’ content by default, unless they opt out](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/)
+> "If this was opt-in, nobody would opt in," Twitch CPO Mike Minton said on a livestream responding to user feedback. "That's honestly the answer."
+- `TechCrunch` [Grubhub’s $24M FTC settlement is finally reaching diners and drivers](https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/)
+> Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.
+- `TechCrunch` [AI coding startup Cognition reportedly already in talks to raise at $40B valuation](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/)
+> Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.
+- `TechCrunch` [As AI safety concerns mount, three pioneers make the case for staying open](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/)
+> At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.
+- `TechCrunch` [OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/)
+> Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.
+- `TechCrunch` [Uber Freight reportedly investigating after hacking group claims data breach](https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/)
+> An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.
+- `TechCrunch` [Mesh, Automattic’s CRM for everyone, comes to Android](https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/)
+> Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.
+- `The Verge` [Pixel 11 event live blog: Let’s watch Trevor Noah introduce Google’s new phones](https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah)
+> It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevo...
+- `The Verge` [This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off](https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale)
+> If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowe...
+- `The Verge` [Cats and dogs are missing meals after a popular smart feeder went down](https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders)
+> A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that t...
+- `The Verge` [The next big indie game publisher is taking some exciting swings](https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition)
+> Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to...
+- `The Verge` [It looks like Apple’s iPhone 18 really will skip the fall launch this year](https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed)
+> According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall,...
+- `The Verge` [Google’s Pixel 11 phone preorders come with up to $350 in gift cards](https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date)
+> Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at ...
+- `The Verge` [Twitch streamers can now opt out from training Amazon’s AI](https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai)
+> Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that "your streams, VODs, clips, stream chats, and pictures and text on yo...
+- `The Verge` [How Google’s new Pixel 11 phones compare to last year’s models](https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features)
+> Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come...
+- `The Verge` [ICE wants to give agents electrified gloves that shock people into compliance](https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves)
+> Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlin...
+- `The Verge` [Amazon gets out of the MMO game](https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations)
+> Amazon is fully stepping back from MMOs. After saying last year that it would be halting "a significant amount" of its work on first-party AAA games, "specifically around MMOs," Amazon will be hand...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
