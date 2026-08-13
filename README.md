@@ -6,10 +6,18 @@
 
 # 📰 每日科技日报 — 2026-08-13
 
-> 自动收集于 2026-08-13 02:25 | 共 40 条
+> 自动收集于 2026-08-13 12:38 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [不用改签名，给 Mac 微信聊天记录「搬个家」](https://sspai.com/post/113225)
+> 对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文
+- `少数派` [从原理出发，高效搞定夏日营养冷食](https://sspai.com/prime/story/summer-cold-meal-guide)
+> 不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验](https://sspai.com/post/113338)
+> SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。查看全文
+- `少数派` [6 天时间丈量独库公路：我的平安骑行指南](https://sspai.com/post/112873)
+> 如果你也想骑一次独库，希望这份来自普通骑行爱好者的实战记录，能让你出发前少踩一点坑。查看全文
 - `少数派` [派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等](https://sspai.com/post/113385)
 > 影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。查看全文
 - `少数派` [把「闪念胶囊」（Almost）放到 iPhone 锁屏](https://sspai.com/post/113219)
@@ -22,67 +30,59 @@
 > 雷蛇那伽梵蛇 V3 专业版无线鼠标发布，铭凡推出 Elite Mini M2 Air-304 迷你主机等。查看全文
 - `少数派` [社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包](https://sspai.com/post/113304)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线](https://sspai.com/post/112887)
-> 随着HarmonyOSNEXT的日渐成熟，越来越多的独立开发者和小团队开始将目光投向这片新的生态。借助日益强大的AI辅助编程工具，写出能跑通的代码、画出漂亮的UI界面，门槛已经变得前所未有地低。但当你 ...查看全文
-- `少数派` [从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你](https://sspai.com/post/113288)
-> 从最初的测试与共创算起，Quote/0（摘录）已经陪伴大家近一年半的时间。最初我们只想做一块安静的墨水屏：不推送、不闪烁，只把真正重要的信息留在抬眼可见的地方。后来Quote/0进入了许多我们没有预设 ...查看全文
-- `少数派` [不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍](https://sspai.com/post/113263)
-> 因为不太喜欢传统的那种原文、译文按段落或按分页对照的那种双语书形式，我做了一款可以让你按需查看译文的 ovid。查看全文
-- `少数派` [派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等](https://sspai.com/post/113301)
-> 少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解Quote/0摘录 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Show HN: Ballet – Workflow automation that writes integrations against any API](https://www.ballet.dev/)
-> Article URL: https://www.ballet.dev/
-Comments URL: https://news.ycombinator.com/item?id=49280184
-Points: 17
-# Comments: 2
+- `Hacker News` [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
+> Article URL: https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/
+Comments URL: https://news.ycombinator.com/item?id=49284774
+Points: 49
+# Comments: 15
+- `Hacker News` [ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers)
+> Article URL: https://atg.science/careers
+Comments URL: https://news.ycombinator.com/item?id=49284697
+Points: 0
+# Comments: 0
+- `Hacker News` [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
+> Article URL: https://openai.com/codex/
+Comments URL: https://news.ycombinator.com/item?id=49281916
+Points: 244
+# Comments: 158
 - `Hacker News` [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
 > Article URL: https://sharktastica.co.uk/articles/pc-fxt-45
 Comments URL: https://news.ycombinator.com/item?id=49280103
-Points: 33
-# Comments: 9
-- `Hacker News` [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
+Points: 103
+# Comments: 40
+- `Hacker News` [Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 > Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47
 Comments URL: https://news.ycombinator.com/item?id=49280061
-Points: 47
-# Comments: 33
-- `Hacker News` [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
-> Article URL: https://adapt.com/blog/build-wide-ship-narrow
-Comments URL: https://news.ycombinator.com/item?id=49280047
-Points: 33
-# Comments: 0
+Points: 137
+# Comments: 154
 - `Hacker News` [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
 > Article URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html
 Comments URL: https://news.ycombinator.com/item?id=49279928
-Points: 51
-# Comments: 17
-- `Hacker News` [I built a browser-native SysEx librarian for 80s/90s synthesizers](https://bipluk.com/)
-> Article URL: https://bipluk.com/
-Comments URL: https://news.ycombinator.com/item?id=49279628
-Points: 9
-# Comments: 7
-- `Hacker News` [Process as a Proxy for Motivation](https://bengodfrey.dev/blog/process/)
-> Article URL: https://bengodfrey.dev/blog/process/
-Comments URL: https://news.ycombinator.com/item?id=49279197
-Points: 25
-# Comments: 4
+Points: 196
+# Comments: 90
 - `Hacker News` [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
 > Article URL: https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/
 Comments URL: https://news.ycombinator.com/item?id=49279013
-Points: 54
-# Comments: 66
+Points: 145
+# Comments: 187
 - `Hacker News` [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
 > Article URL: https://antithesis.com/blog/2026/wal-reset-bug/
 Comments URL: https://news.ycombinator.com/item?id=49277799
-Points: 64
-# Comments: 36
+Points: 133
+# Comments: 47
 - `Hacker News` [Delta](https://zed.dev/blog/introducing-delta)
 > Article URL: https://zed.dev/blog/introducing-delta
 Comments URL: https://news.ycombinator.com/item?id=49276574
-Points: 412
-# Comments: 138
+Points: 592
+# Comments: 219
+- `Hacker News` [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
+> Article URL: https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer
+Comments URL: https://news.ycombinator.com/item?id=49275465
+Points: 0
+# Comments: 0
 - `TechCrunch` [Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs,...](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
 > Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.
 - `TechCrunch` [AI nuclear power firm Fermi finally has a new CEO](https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/)
