@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-13
+# 📰 每日科技日报 — 2026-08-14
 
-> 自动收集于 2026-08-13 12:38 | 共 40 条
+> 自动收集于 2026-08-14 02:24 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态](https://sspai.com/post/113434)
+> 阿里千问开放平台上线菜鸟智能体，Brave 和  Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。查看全文
 - `少数派` [不用改签名，给 Mac 微信聊天记录「搬个家」](https://sspai.com/post/113225)
 > 对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文
 - `少数派` [从原理出发，高效搞定夏日营养冷食](https://sspai.com/prime/story/summer-cold-meal-guide)
@@ -26,103 +28,101 @@
 > 《三五环》主播刘飞邀请老麦聊了聊他从 Palm 时代开始的二十年数码时代的经营历程。复盘了少数派如何从一家媒体，一步步跑通「内容+产品」的商业闭环；也聊到了他与罗永浩那段「不打不相识」的往事，以及那些改变了他对科技媒体商业模式认知的故事。查看全文
 - `少数派` [我，与「唯一」的 iPhone Air](https://sspai.com/post/112880)
 > 在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。查看全文
-- `少数派` [派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等](https://sspai.com/post/113343)
-> 雷蛇那伽梵蛇 V3 专业版无线鼠标发布，铭凡推出 Elite Mini M2 Air-304 迷你主机等。查看全文
 - `少数派` [社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包](https://sspai.com/post/113304)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
-> Article URL: https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/
-Comments URL: https://news.ycombinator.com/item?id=49284774
-Points: 49
-# Comments: 15
-- `Hacker News` [ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)](https://atg.science/careers)
-> Article URL: https://atg.science/careers
-Comments URL: https://news.ycombinator.com/item?id=49284697
-Points: 0
-# Comments: 0
-- `Hacker News` [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
-> Article URL: https://openai.com/codex/
-Comments URL: https://news.ycombinator.com/item?id=49281916
-Points: 244
-# Comments: 158
-- `Hacker News` [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
-> Article URL: https://sharktastica.co.uk/articles/pc-fxt-45
-Comments URL: https://news.ycombinator.com/item?id=49280103
-Points: 103
+- `Hacker News` [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+> Article URL: https://atproto.com/blog/introducing-bluesky-protocol-services
+Comments URL: https://news.ycombinator.com/item?id=49293324
+Points: 71
+# Comments: 16
+- `Hacker News` [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
+> Article URL: https://sparrowmap.com/
+Comments URL: https://news.ycombinator.com/item?id=49293294
+Points: 41
+# Comments: 8
+- `Hacker News` [Blog about things you don't understand yet](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
+> Article URL: https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/
+Comments URL: https://news.ycombinator.com/item?id=49293087
+Points: 15
+# Comments: 3
+- `Hacker News` [How AI text watermarking works](https://declaude.org/watermarking/)
+> Article URL: https://declaude.org/watermarking/
+Comments URL: https://news.ycombinator.com/item?id=49292932
+Points: 79
+# Comments: 49
+- `Hacker News` [NP-overrated](https://gruhn.me/blog/2026-08-13/)
+> Article URL: https://gruhn.me/blog/2026-08-13/
+Comments URL: https://news.ycombinator.com/item?id=49291268
+Points: 154
+# Comments: 96
+- `Hacker News` [How Gödel's Proof Works (2020)](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
+> Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/
+Comments URL: https://news.ycombinator.com/item?id=49290969
+Points: 73
+# Comments: 37
+- `Hacker News` [How Organizations Use AI: Evidence from ChatGPT [pdf]](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+> Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
+Comments URL: https://news.ycombinator.com/item?id=49290768
+Points: 67
 # Comments: 40
-- `Hacker News` [Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
-> Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47
-Comments URL: https://news.ycombinator.com/item?id=49280061
-Points: 137
-# Comments: 154
-- `Hacker News` [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
-> Article URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html
-Comments URL: https://news.ycombinator.com/item?id=49279928
-Points: 196
-# Comments: 90
-- `Hacker News` [Thanks to social media, canned sardines are a scarcity on the supermarket shelf](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
-> Article URL: https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/
-Comments URL: https://news.ycombinator.com/item?id=49279013
-Points: 145
-# Comments: 187
-- `Hacker News` [Breaking the WAL](https://antithesis.com/blog/2026/wal-reset-bug/)
-> Article URL: https://antithesis.com/blog/2026/wal-reset-bug/
-Comments URL: https://news.ycombinator.com/item?id=49277799
-Points: 133
-# Comments: 47
-- `Hacker News` [Delta](https://zed.dev/blog/introducing-delta)
-> Article URL: https://zed.dev/blog/introducing-delta
-Comments URL: https://news.ycombinator.com/item?id=49276574
-Points: 592
-# Comments: 219
-- `Hacker News` [Reflex (YC W23) Is hiring Growth and GTM Roles](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
-> Article URL: https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer
-Comments URL: https://news.ycombinator.com/item?id=49275465
-Points: 0
-# Comments: 0
-- `TechCrunch` [Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs,...](https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/)
-> Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.
-- `TechCrunch` [AI nuclear power firm Fermi finally has a new CEO](https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/)
-> Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.
-- `TechCrunch` [Northrop’s robot space mechanic is a new way to keep satellites at work longer](https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/)
-> The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.
-- `TechCrunch` [Amazon will train on Twitch streamers’ content by default, unless they opt out](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/)
-> "If this was opt-in, nobody would opt in," Twitch CPO Mike Minton said on a livestream responding to user feedback. "That's honestly the answer."
-- `TechCrunch` [Grubhub’s $24M FTC settlement is finally reaching diners and drivers](https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/)
-> Checks are being mailed from Grubhub's $23.8 million fine from  the FTC after it settled allegations over its business practices.
-- `TechCrunch` [AI coding startup Cognition reportedly already in talks to raise at $40B valuation](https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/)
-> Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.
-- `TechCrunch` [As AI safety concerns mount, three pioneers make the case for staying open](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/)
-> At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.
-- `TechCrunch` [OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/)
-> Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.
-- `TechCrunch` [Uber Freight reportedly investigating after hacking group claims data breach](https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/)
-> An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.
-- `TechCrunch` [Mesh, Automattic’s CRM for everyone, comes to Android](https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/)
-> Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.
-- `The Verge` [Pixel 11 event live blog: Let’s watch Trevor Noah introduce Google’s new phones](https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah)
-> It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevo...
-- `The Verge` [This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off](https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale)
-> If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowe...
-- `The Verge` [Cats and dogs are missing meals after a popular smart feeder went down](https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders)
-> A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that t...
-- `The Verge` [The next big indie game publisher is taking some exciting swings](https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition)
-> Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to...
-- `The Verge` [It looks like Apple’s iPhone 18 really will skip the fall launch this year](https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed)
-> According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall,...
-- `The Verge` [Google’s Pixel 11 phone preorders come with up to $350 in gift cards](https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date)
-> Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at ...
-- `The Verge` [Twitch streamers can now opt out from training Amazon’s AI](https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai)
-> Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that "your streams, VODs, clips, stream chats, and pictures and text on yo...
-- `The Verge` [How Google’s new Pixel 11 phones compare to last year’s models](https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features)
-> Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come...
-- `The Verge` [ICE wants to give agents electrified gloves that shock people into compliance](https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves)
-> Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlin...
-- `The Verge` [Amazon gets out of the MMO game](https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations)
-> Amazon is fully stepping back from MMOs. After saying last year that it would be halting "a significant amount" of its work on first-party AAA games, "specifically around MMOs," Amazon will be hand...
+- `Hacker News` [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
+> Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck
+Comments URL: https://news.ycombinator.com/item?id=49290299
+Points: 211
+# Comments: 118
+- `Hacker News` [Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes](https://github.com/systemd/systemd/issues/40262)
+> Article URL: https://github.com/systemd/systemd/issues/40262
+Comments URL: https://news.ycombinator.com/item?id=49290215
+Points: 153
+# Comments: 97
+- `Hacker News` [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/)
+> Article URL: https://themech.net/2026/08/hello-me-its-been-a-while/
+Comments URL: https://news.ycombinator.com/item?id=49290166
+Points: 26
+# Comments: 10
+- `TechCrunch` [Investors sue Selena Gomez alleging fraud tied to her mental health startup](https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/)
+> The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.
+- `TechCrunch` [Flock says its new tool will help identify police abuse, but hasn’t explained how it works](https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/)
+> The surveillance company announced it's making a tool called "Audit Assistance" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the too...
+- `TechCrunch` [If Apple sends you a push notification alerting you to a spyware attack, take it seriously](https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/)
+> Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.
+- `TechCrunch` [Writer introduces new AI model and upgraded harness to contain token costs](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/)
+> Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.
+- `TechCrunch` [Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.](https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/)
+> AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.
+- `TechCrunch` [OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed](https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/)
+> OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.
+- `TechCrunch` [IBM partners with OpenAI to bolster enterprise AI push](https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/)
+> IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.
+- `TechCrunch` [Anthropic set AI agents loose on the same task. They started a turf war.](https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/)
+> Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.
+- `TechCrunch` [OpenAI hires new CRO as executive shake-up continues](https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/)
+> OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.
+- `TechCrunch` [Ford on track to complete $2B factory overhaul for Fathom EV truck](https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/)
+> Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.
+- `The Verge` [Trump declares 100 percent tariffs on many drones and all aircraft parts](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts)
+> The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trum...
+- `The Verge` [Apple and Epic argue over how much Apple should get from purchases made outside the App Store](https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing)
+> In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the...
+- `The Verge` [‘That is not acceptable’: Judge orders Google to make rival app store installs easier](https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier)
+> One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just order...
+- `The Verge` [The fight over Flock and other ALPRs](https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy)
+> There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on thei...
+- `The Verge` [Microsoft’s Clippy-like Mico character is no longer the face of Copilot](https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired)
+> Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, whe...
+- `The Verge` [Netflix is closing two game studios](https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games)
+> Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut d...
+- `The Verge` [This school-friendly laptop from HP is $300 off](https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale)
+> With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Fli...
+- `The Verge` [OpenAI is losing its second executive this week](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure)
+> Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the "coming weeks" to "pursue oth...
+- `The Verge` [The Trump admin will start letting private firms launch international cyberattacks](https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms)
+> The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operat...
+- `The Verge` [I finally found a robot lawnmower I’d trust with my yard](https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame)
+> Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
