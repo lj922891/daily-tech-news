@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-08-15
 
-> 自动收集于 2026-08-15 01:35 | 共 40 条
+> 自动收集于 2026-08-15 12:12 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布](https://sspai.com/post/111974)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/113459)
 > 📅本周新预告《不存在的罪人》正式预告8月11日，电影《不存在的罪人》发布了正式预告，将于10月2日在北美上映。迈克尔·肖沃特执导，安妮·海瑟薇、达科塔·约翰逊、乔什·哈奈特主演，当红小说家留下未竟手稿 ...查看全文
 - `少数派` [你初高中时的书单里，总有本「东野圭吾」吧？](https://sspai.com/post/113416)
@@ -28,61 +30,57 @@
 > SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。查看全文
 - `少数派` [6 天时间丈量独库公路：我的平安骑行指南](https://sspai.com/post/112873)
 > 如果你也想骑一次独库，希望这份来自普通骑行爱好者的实战记录，能让你出发前少踩一点坑。查看全文
-- `少数派` [派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等](https://sspai.com/post/113385)
-> 影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499)
-> Article URL: https://blog.ploopy.co/the-aplus-is-finally-here-499
-Comments URL: https://news.ycombinator.com/item?id=49306443
-Points: 8
-# Comments: 2
-- `Hacker News` [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459)
+- `Hacker News` [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
+> Article URL: https://sankalp.bearblog.dev/autoresearch/
+Comments URL: https://news.ycombinator.com/item?id=49309549
+Points: 5
+# Comments: 0
+- `Hacker News` [Debian has begun voting on the future of AI/LLM contributions](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
+> Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html
+Comments URL: https://news.ycombinator.com/item?id=49309050
+Points: 26
+# Comments: 15
+- `Hacker News` [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html)
+> Article URL: https://uecker.codeberg.page/2026-07-14.html
+Comments URL: https://news.ycombinator.com/item?id=49308685
+Points: 32
+# Comments: 7
+- `Hacker News` [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
+> Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/
+Comments URL: https://news.ycombinator.com/item?id=49308553...
+- `Hacker News` [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
+> Article URL: https://chenxiachan.github.io/thoughtdag/
+Comments URL: https://news.ycombinator.com/item?id=49307700
+Points: 48
+# Comments: 14
+- `Hacker News` [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
+> Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/
+Comments URL: https://news.ycombinator.com/item?id=49307592
+Points: 227
+# Comments: 109
+- `Hacker News` [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
+> Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive
+Comments URL: https://news.ycombinator.com/item?id=49306577
+Points: 205
+# Comments: 49
+- `Hacker News` [Simplifying and Refactoring Introductory Calculus (2018)](https://arxiv.org/abs/1811.03459)
 > Article URL: https://arxiv.org/abs/1811.03459
 Comments URL: https://news.ycombinator.com/item?id=49306196
-Points: 8
-# Comments: 0
-- `Hacker News` [Corgi kills short-lived website that ranked its female employees](https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees)
-> Article URL: https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees
-Comments URL: https://news.ycombinator.com/item?id=49306080
-Points: 9
-# Comments: 2
-- `Hacker News` [Jane Street suffers $15B hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697)
-> Article URL: https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697
-Comments URL: https://news.ycombinator.com/item?id=49305927
-Points: 82
-# Comments: 41
-- `Hacker News` [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
-> Article URL: https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science
-Comments URL: https://news.ycombinator.com/item?id=49305708
-Points: 35
-# Comments: 23
-- `Hacker News` [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
-> Article URL: https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va
-Comments URL: https://news.ycombinator.com/item?id=49305558
-Points: 68
-# Comments: 44
-- `Hacker News` [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
-> Article URL: https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV
-Comments URL: https://news.ycombinator.com/item?id=49305492
-Points: 117
-# Comments: 79
+Points: 100
+# Comments: 52
 - `Hacker News` [eigendrum](https://eigendrum.com/#p=circle)
 > Article URL: https://eigendrum.com/#p=circle
 Comments URL: https://news.ycombinator.com/item?id=49305250
-Points: 27
-# Comments: 3
+Points: 177
+# Comments: 46
 - `Hacker News` [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 > Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/
 Comments URL: https://news.ycombinator.com/item?id=49304447
-Points: 197
-# Comments: 118
-- `Hacker News` [Every exterior shot in The Taking of Pelham 123](https://iafisher.com/2026/07/pelham-123)
-> Article URL: https://iafisher.com/2026/07/pelham-123
-Comments URL: https://news.ycombinator.com/item?id=49303957
-Points: 30
-# Comments: 7
+Points: 361
+# Comments: 167
 - `TechCrunch` [Talks to sell PayPal to Stripe and Advent are heating up](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/)
 > PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.
 - `TechCrunch` [Self-driving trucks are officially testing on California highways](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/)
@@ -103,6 +101,12 @@ Points: 30
 > Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.
 - `TechCrunch` [Kog is going deeper to squeeze more inference out of GPUs](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/)
 > The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.
+- `The Verge` [We’re reaching peak camera with the Sony A7R VI](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review)
+> It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI. Sony's latest flagship high-res camera i...
+- `The Verge` [The surprise must-see movie of the summer](https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer)
+> Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old edition...
+- `The Verge` [When housing is unaffordable, this artist’s device makes pedaling harder](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal)
+> Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technolo...
 - `The Verge` [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones)
 > Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the he...
 - `The Verge` [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school)
@@ -117,12 +121,6 @@ Points: 30
 > Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It does...
 - `The Verge` [You can now turn off Google Gemini’s visible watermarks](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)
 > Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new "Media watermark" setting in Gemini and Googl...
-- `The Verge` [2025 GOTY Clair Obscur: Expedition 33 is down to $33](https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale)
-> For RPG fans who dig Persona-style turn-based action and who are pursuing games with original stories and fantastic tunes, look no further than Clair Obscur: Expedition 33. This praise might come o...
-- `The Verge` [CMF’s clip earbuds hit the balance between cheap and good](https://www.theverge.com/tech/979928/cmf-clip-pro-review)
-> Clip earbuds are an exercise in compromise. It's an inherent aspect of their design - and physics. They can be more comfortable for people that don't like something jammed in their ear, but sound r...
-- `The Verge` [The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one](https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld)
-> As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
