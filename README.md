@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-08-16
 
-> 自动收集于 2026-08-16 01:42 | 共 30 条
+> 自动收集于 2026-08-16 12:13 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」](https://sspai.com/post/113495)
+> 在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文
 - `少数派` [有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布](https://sspai.com/post/111974)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/113459)
@@ -28,11 +30,56 @@
 > 不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验](https://sspai.com/post/113338)
 > SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。查看全文
-- `少数派` [6 天时间丈量独库公路：我的平安骑行指南](https://sspai.com/post/112873)
-> 如果你也想骑一次独库，希望这份来自普通骑行爱好者的实战记录，能让你出发前少踩一点坑。查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Ask HN: Do you know of any company that went back to hand-written code?](https://news.ycombinator.com/item?id=49318906)
+> This is intended as a question about the current phase of the LLM hype cycle, and, at the same time, as a reality check about whether reluctance to rely on LLMs is economically viable for an averag...
+- `Hacker News` [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
+> Article URL: https://github.com/alexander-akhmetov/grafana-agento11y-hermes
+Comments URL: https://news.ycombinator.com/item?id=49318128
+Points: 3
+# Comments: 0
+- `Hacker News` [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
+> Article URL: https://littlelearner-ll.github.io/
+Comments URL: https://news.ycombinator.com/item?id=49317760
+Points: 147
+# Comments: 111
+- `Hacker News` [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
+> Article URL: https://www.falstad.com/mathphysics.html
+Comments URL: https://news.ycombinator.com/item?id=49316872
+Points: 25
+# Comments: 6
+- `Hacker News` [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
+> Article URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen
+Comments URL: https://news.ycombinator.com/item?id=49316395
+Points: 20
+# Comments: 6
+- `Hacker News` [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
+> Article URL: https://www.anthropic.com/research/multiagent-systems
+Comments URL: https://news.ycombinator.com/item?id=49316271
+Points: 117
+# Comments: 62
+- `Hacker News` [Guiding Ships with Moire Patterns](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/)
+> Article URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/
+Comments URL: https://news.ycombinator.com/item?id=49315995
+Points: 67
+# Comments: 19
+- `Hacker News` [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
+> Article URL: https://www.micdrop.gg/
+Comments URL: https://news.ycombinator.com/item?id=49315742
+Points: 62
+# Comments: 28
+- `Hacker News` [Big Pickle on SWE Atlas – Codebase QnA](https://github.com/PhillipChaffee/big-pickle-swe-atlas)
+> Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas
+Comments URL: https://news.ycombinator.com/item?id=49315563
+Points: 4
+# Comments: 0
+- `Hacker News` [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
+> Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner
+Comments URL: https://news.ycombinator.com/item?id=49315456
+Points: 45
+# Comments: 2
 - `TechCrunch` [Woman claims her stepfather used Grok to transform childhood photo into explicit imagery](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/)
 > The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."
 - `TechCrunch` [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)
@@ -53,6 +100,10 @@
 > Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedl...
 - `TechCrunch` [Read-it-later app Pocket shut down — here are the best alternatives](https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/)
 > Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.
+- `The Verge` [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM E...
+- `The Verge` [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale)
+> Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the seco...
 - `The Verge` [Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23)
 > At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, "I think the original game is coming back in some form," before curr...
 - `The Verge` [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot)
@@ -69,10 +120,6 @@
 > I told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound u...
 - `The Verge` [Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver](https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast)
 > With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the...
-- `The Verge` [Xteink’s tiny e-readers are getting access to free books through Libby](https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader)
-> One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respectiv...
-- `The Verge` [We’re reaching peak camera with the Sony A7R VI](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review)
-> It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI. Sony's latest flagship high-res camera i...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
