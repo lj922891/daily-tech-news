@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-15
+# 📰 每日科技日报 — 2026-08-16
 
-> 自动收集于 2026-08-15 12:12 | 共 40 条
+> 自动收集于 2026-08-16 01:42 | 共 30 条
 
 ## 🇨🇳 中文科技
 
@@ -33,54 +33,16 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
-> Article URL: https://sankalp.bearblog.dev/autoresearch/
-Comments URL: https://news.ycombinator.com/item?id=49309549
-Points: 5
-# Comments: 0
-- `Hacker News` [Debian has begun voting on the future of AI/LLM contributions](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
-> Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html
-Comments URL: https://news.ycombinator.com/item?id=49309050
-Points: 26
-# Comments: 15
-- `Hacker News` [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html)
-> Article URL: https://uecker.codeberg.page/2026-07-14.html
-Comments URL: https://news.ycombinator.com/item?id=49308685
-Points: 32
-# Comments: 7
-- `Hacker News` [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
-> Article URL: https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/
-Comments URL: https://news.ycombinator.com/item?id=49308553...
-- `Hacker News` [Show HN: ThoughtDAG – An editable context graph for LLM conversations](https://chenxiachan.github.io/thoughtdag/)
-> Article URL: https://chenxiachan.github.io/thoughtdag/
-Comments URL: https://news.ycombinator.com/item?id=49307700
-Points: 48
-# Comments: 14
-- `Hacker News` [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
-> Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/
-Comments URL: https://news.ycombinator.com/item?id=49307592
-Points: 227
-# Comments: 109
-- `Hacker News` [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
-> Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive
-Comments URL: https://news.ycombinator.com/item?id=49306577
-Points: 205
-# Comments: 49
-- `Hacker News` [Simplifying and Refactoring Introductory Calculus (2018)](https://arxiv.org/abs/1811.03459)
-> Article URL: https://arxiv.org/abs/1811.03459
-Comments URL: https://news.ycombinator.com/item?id=49306196
-Points: 100
-# Comments: 52
-- `Hacker News` [eigendrum](https://eigendrum.com/#p=circle)
-> Article URL: https://eigendrum.com/#p=circle
-Comments URL: https://news.ycombinator.com/item?id=49305250
-Points: 177
-# Comments: 46
-- `Hacker News` [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-> Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/
-Comments URL: https://news.ycombinator.com/item?id=49304447
-Points: 361
-# Comments: 167
+- `TechCrunch` [Woman claims her stepfather used Grok to transform childhood photo into explicit imagery](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/)
+> The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."
+- `TechCrunch` [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)
+> How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?
+- `TechCrunch` [SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/)
+> AI coding startup Cursor is now officially a part of SpaceX.
+- `TechCrunch` [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)
+> A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.
+- `TechCrunch` [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/)
+> Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.
 - `TechCrunch` [Talks to sell PayPal to Stripe and Advent are heating up](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/)
 > PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.
 - `TechCrunch` [Self-driving trucks are officially testing on California highways](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/)
@@ -91,36 +53,26 @@ Points: 361
 > Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedl...
 - `TechCrunch` [Read-it-later app Pocket shut down — here are the best alternatives](https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/)
 > Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.
-- `TechCrunch` [Unforgetful is a new reminders app for people who can’t stop hitting snooze](https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/)
-> Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.
-- `TechCrunch` [Google will now allow users to remove visible watermark from its AI generations](https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/)
-> Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.
-- `TechCrunch` [Does Mark Zuckerberg really believe AI is ‘for everyone’?](https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/)
-> Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model tha...
-- `TechCrunch` [Apple proposes to take a 15% cut of purchases made outside the App Store](https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/)
-> Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.
-- `TechCrunch` [Kog is going deeper to squeeze more inference out of GPUs](https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/)
-> The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.
+- `The Verge` [Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23)
+> At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, "I think the original game is coming back in some form," before curr...
+- `The Verge` [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot)
+> Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is th...
+- `The Verge` [Don’t overlook Elektron’s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review)
+> When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way ...
+- `The Verge` [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview)
+> As if you needed more reason to love Carly Rae Jepsen's "Call Me Maybe" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out...
+- `The Verge` [Star Wars: Ahsoka season 2 and Starfighter get teased at D23](https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23)
+> Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its Januar...
+- `The Verge` [Disney D23 2026: Everything announced for Star Wars, Marvel, and more](https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23)
+> The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star War...
+- `The Verge` [I finally found a magnetic phone grip I never want to remove](https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review)
+> I told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound u...
+- `The Verge` [Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver](https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast)
+> With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the...
+- `The Verge` [Xteink’s tiny e-readers are getting access to free books through Libby](https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader)
+> One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respectiv...
 - `The Verge` [We’re reaching peak camera with the Sony A7R VI](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review)
 > It wasn't long ago that shooting with a super high-resolution camera meant making serious sacrifices for the sake of all those megapixels. Enter the A7R VI. Sony's latest flagship high-res camera i...
-- `The Verge` [The surprise must-see movie of the summer](https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer)
-> Hi, friends! Welcome to Installer No. 140, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old edition...
-- `The Verge` [When housing is unaffordable, this artist’s device makes pedaling harder](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal)
-> Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technolo...
-- `The Verge` [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones)
-> Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the he...
-- `The Verge` [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school)
-> If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making s...
-- `The Verge` [Lamborghini’s flagship Revuelto levels up with SV trim](https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance)
-> A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; i...
-- `The Verge` [The X-Files creator Chris Carter wanted to make a more horrific movie](https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu)
-> The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully ba...
-- `The Verge` [Google’s best new camera feature is only for the Pixel 11 series](https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones)
-> Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that "smartph...
-- `The Verge` [Mark Zuckerberg has an Instagzam](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast)
-> Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It does...
-- `The Verge` [You can now turn off Google Gemini’s visible watermarks](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)
-> Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new "Media watermark" setting in Gemini and Googl...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
