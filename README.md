@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-16
+# 📰 每日科技日报 — 2026-08-17
 
-> 自动收集于 2026-08-16 12:13 | 共 40 条
+> 自动收集于 2026-08-17 01:40 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：😭（放声大哭）成为最流行 emoji](https://sspai.com/post/113524)
+> 😭（放声大哭）成为最流行 emoji美国要求合作方在中美 AI 竞赛中「选边站」ChatGPT 上线使用历史记录功能美国政府敦促苹果不要购买中国内存芯片uBlock Origin 放弃维护 Facebook 广告规则索尼加速向娱乐业务转型看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」](https://sspai.com/post/113495)
 > 在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文
 - `少数派` [有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布](https://sspai.com/post/111974)
@@ -28,58 +30,64 @@
 > 对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文
 - `少数派` [从原理出发，高效搞定夏日营养冷食](https://sspai.com/prime/story/summer-cold-meal-guide)
 > 不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
-- `少数派` [TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验](https://sspai.com/post/113338)
-> SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Ask HN: Do you know of any company that went back to hand-written code?](https://news.ycombinator.com/item?id=49318906)
-> This is intended as a question about the current phase of the LLM hype cycle, and, at the same time, as a reality check about whether reluctance to rely on LLMs is economically viable for an averag...
-- `Hacker News` [Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
-> Article URL: https://github.com/alexander-akhmetov/grafana-agento11y-hermes
-Comments URL: https://news.ycombinator.com/item?id=49318128
+- `Hacker News` [Physicists discover a hidden gluon structure inside protons](https://www.sciencedaily.com/releases/2026/08/260815064805.htm)
+> Article URL: https://www.sciencedaily.com/releases/2026/08/260815064805.htm
+Comments URL: https://news.ycombinator.com/item?id=49325508
 Points: 3
 # Comments: 0
-- `Hacker News` [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
-> Article URL: https://littlelearner-ll.github.io/
-Comments URL: https://news.ycombinator.com/item?id=49317760
-Points: 147
-# Comments: 111
-- `Hacker News` [Falstad Math and Physics Simulations](https://www.falstad.com/mathphysics.html)
-> Article URL: https://www.falstad.com/mathphysics.html
-Comments URL: https://news.ycombinator.com/item?id=49316872
-Points: 25
-# Comments: 6
-- `Hacker News` [Zapping Rocks Unlocks Stimulated Geologic Hydrogen](https://spectrum.ieee.org/stimulated-geologic-hydrogen)
-> Article URL: https://spectrum.ieee.org/stimulated-geologic-hydrogen
-Comments URL: https://news.ycombinator.com/item?id=49316395
-Points: 20
-# Comments: 6
-- `Hacker News` [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
-> Article URL: https://www.anthropic.com/research/multiagent-systems
-Comments URL: https://news.ycombinator.com/item?id=49316271
-Points: 117
-# Comments: 62
-- `Hacker News` [Guiding Ships with Moire Patterns](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/)
-> Article URL: https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/
-Comments URL: https://news.ycombinator.com/item?id=49315995
-Points: 67
-# Comments: 19
-- `Hacker News` [Show HN: Mic Drop, a real-time multiplayer karaoke game](https://www.micdrop.gg/)
-> Article URL: https://www.micdrop.gg/
-Comments URL: https://news.ycombinator.com/item?id=49315742
-Points: 62
-# Comments: 28
-- `Hacker News` [Big Pickle on SWE Atlas – Codebase QnA](https://github.com/PhillipChaffee/big-pickle-swe-atlas)
-> Article URL: https://github.com/PhillipChaffee/big-pickle-swe-atlas
-Comments URL: https://news.ycombinator.com/item?id=49315563
-Points: 4
-# Comments: 0
-- `Hacker News` [Tea5767-Radio-Tuner](https://github.com/turtushig22-blip/tea5767-radio-tuner)
-> Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner
-Comments URL: https://news.ycombinator.com/item?id=49315456
-Points: 45
+- `Hacker News` [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
+> Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html
+Comments URL: https://news.ycombinator.com/item?id=49325384
+Points: 6
+# Comments: 1
+- `Hacker News` [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
+> Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf
+Comments URL: https://news.ycombinator.com/item?id=49325185
+Points: 32
+# Comments: 5
+- `Hacker News` [The federal keyword lists that canceled billions in research funding](https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/)
+> Article URL: https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/
+Comments URL: https://news.ycombinator.com/item?id=49325159
+Points...
+- `Hacker News` [Webmaster a Manifesto for Everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/)
+> Article URL: https://brennan.day/webmaster-a-manifesto-for-everyone/
+Comments URL: https://news.ycombinator.com/item?id=49325092
+Points: 10
+# Comments: 3
+- `Hacker News` [Reticulum – Decentralized Mesh Network](https://reticulum.network/)
+> Article URL: https://reticulum.network/
+Comments URL: https://news.ycombinator.com/item?id=49325061
+Points: 5
+# Comments: 1
+- `Hacker News` [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+> Article URL: https://simonwillison.net/2026/Aug/16/qwen-38-27b/
+Comments URL: https://news.ycombinator.com/item?id=49324985
+Points: 15
 # Comments: 2
+- `Hacker News` [Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
+> Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/
+Comments URL: https://news.ycombinator.com/item?id=49323686
+Points:...
+- `Hacker News` [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
+> Article URL: https://ivan-gavran.github.io/0-social-processes-paper
+Comments URL: https://news.ycombinator.com/item?id=49323459
+Points: 79
+# Comments: 74
+- `Hacker News` [Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
+> Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion
+Comments URL: https://news.ycombinator.com/item?id=49323381
+Points: 18...
+- `TechCrunch` [Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
+> OpenRouter's CEO recently described the startup as Stripe for AI.
+- `TechCrunch` [Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)
+> On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.
+- `TechCrunch` [Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
+> Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.
+- `TechCrunch` [TechCrunch Mobility: The shifting flight path of electric air taxis](https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/)
+> Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
 - `TechCrunch` [Woman claims her stepfather used Grok to transform childhood photo into explicit imagery](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/)
 > The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."
 - `TechCrunch` [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)
@@ -92,14 +100,14 @@ Points: 45
 > Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.
 - `TechCrunch` [Talks to sell PayPal to Stripe and Advent are heating up](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/)
 > PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.
-- `TechCrunch` [Self-driving trucks are officially testing on California highways](https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/)
-> Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.
-- `TechCrunch` [Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria](https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/)
-> The AI opportunity is huge, but "it would also be a grave error in our minds to let excitement weaken our investment discipline," Kushner warns in his first-ever investment letter.
-- `TechCrunch` [What we know about the alleged Iranian hacks on US water utilities](https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/)
-> Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedl...
-- `TechCrunch` [Read-it-later app Pocket shut down — here are the best alternatives](https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/)
-> Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.
+- `The Verge` [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)
+> According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to m...
+- `The Verge` [Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review)
+> "Breakups are… tough." It's the opening lines of an interlude towards the end of DOOMED! Called "It Happens in Every Universe." It's also basically the thesis of the entire record. It's no grand re...
+- `The Verge` [Amazon is trying to crush class-action suits before they get started](https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions)
+> On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said...
+- `The Verge` [ChatGPT’s Computer History tracks your clicks and keystrokes](https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes)
+> ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you lef...
 - `The Verge` [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM E...
 - `The Verge` [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale)
@@ -112,14 +120,6 @@ Points: 45
 > When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way ...
 - `The Verge` [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview)
 > As if you needed more reason to love Carly Rae Jepsen's "Call Me Maybe" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out...
-- `The Verge` [Star Wars: Ahsoka season 2 and Starfighter get teased at D23](https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23)
-> Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its Januar...
-- `The Verge` [Disney D23 2026: Everything announced for Star Wars, Marvel, and more](https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23)
-> The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star War...
-- `The Verge` [I finally found a magnetic phone grip I never want to remove](https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review)
-> I told myself I wouldn't buy an OhSnap accessory for my phone. Every one I'd tested was nice, but felt overpriced and slightly flawed. After I weighed in on the $40 Snap Grip 5 last year, I wound u...
-- `The Verge` [Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver](https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast)
-> With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
