@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-17
+# 📰 每日科技日报 — 2026-08-18
 
-> 自动收集于 2026-08-17 12:16 | 共 40 条
+> 自动收集于 2026-08-18 01:35 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等](https://sspai.com/post/113566)
+> 少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章成 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113544)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [分享我知识管理 12 年来最重要的经验：INL 结构](https://sspai.com/post/113368)
@@ -28,100 +30,98 @@
 > 📅本周新预告《不存在的罪人》正式预告8月11日，电影《不存在的罪人》发布了正式预告，将于10月2日在北美上映。迈克尔·肖沃特执导，安妮·海瑟薇、达科塔·约翰逊、乔什·哈奈特主演，当红小说家留下未竟手稿 ...查看全文
 - `少数派` [你初高中时的书单里，总有本「东野圭吾」吧？](https://sspai.com/post/113416)
 > 纪念并且感谢他为我们留下的推理世界。查看全文
-- `少数派` [声擎×少数派｜「角落新声」征文活动获奖结果公布](https://sspai.com/post/111709)
-> 那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [People are worried about America's solvency](https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e)
-> Article URL: https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e
-Comments URL: https://news.ycombinator.com/item?id=49329347
-Points: 4
-# Comments: 2
-- `Hacker News` [Self hosted email continues to steeply decline](https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/)
-> Article URL: https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/
-Comments URL: https://news.ycombinator.com/item?id=49328911...
-- `Hacker News` [Show HN: Desktopcolors.com – A museum for solid background colors of classic OS](https://desktopcolors.com)
-> Hi HN, in my last vacation, I built desktopcolors.com as a place to collect iconic solid background colors. Let me know what you think.
-
-Comments URL: https://news.ycombinator.com/item?id=49327643
+- `Hacker News` [PM Carney announces largest clean energy investment in North American history](https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north)
+> Article URL: https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north
+Comments URL: https://news.ycombinator.com/item?id=49339577
 ...
-- `Hacker News` [Linear algebra done right](https://linear.axler.net/)
-> Article URL: https://linear.axler.net/
-Comments URL: https://news.ycombinator.com/item?id=49326816
-Points: 104
-# Comments: 43
-- `Hacker News` [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
-> Article URL: https://www.gimp.org/news/2026/08/16/dev-update-august-2026/
-Comments URL: https://news.ycombinator.com/item?id=49326156
-Points: 205
-# Comments: 154
-- `Hacker News` [Strong gravitational lensing and microlensing of supernovae (2024)](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
-> Article URL: https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5
-Comments URL: https://news.ycombinator.com/item?id=49326071
+- `Hacker News` [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
+> Article URL: https://www.repaircafe.org/
+Comments URL: https://news.ycombinator.com/item?id=49339097
+Points: 7
+# Comments: 2
+- `Hacker News` [Puppy PPE](http://amosdudley.com/weblog/Designing-PPE-for-Hilde)
+> Article URL: http://amosdudley.com/weblog/Designing-PPE-for-Hilde
+Comments URL: https://news.ycombinator.com/item?id=49338953
+Points: 13
+# Comments: 3
+- `Hacker News` [Flock cameras haven't improved Atlanta's crime clearance rates](https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/)
+> Article URL: https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/
+Comments URL: https://news.ycombinator.com/item?id=49338732
+Points: 35
+# Comments: 19
+- `Hacker News` [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
+> Article URL: https://timmarinin.net/2026/bluesky-screenshots/
+Comments URL: https://news.ycombinator.com/item?id=49338459
+Points: 202
+# Comments: 142
+- `Hacker News` [scScript for Linux](https://scapplications.com/)
+> Article URL: https://scapplications.com/
+Comments URL: https://news.ycombinator.com/item?id=49338428
 Points: 12
-# Comments: 1
-- `Hacker News` [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762)
-> https://xcancel.com/DarioAmodei/status/2088758816376807762
-
-Comments URL: https://news.ycombinator.com/item?id=49325789
-Points: 105
-# Comments: 183
-- `Hacker News` [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
-> Article URL: https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64
-Comments URL: https://news.ycombinator.com/item?id=49325714
-Points: 96
-# Comments: 13
-- `Hacker News` [Prolly: A content-addressed ordered map built on prolly trees](https://github.com/crabbuild/prolly)
-> Article URL: https://github.com/crabbuild/prolly
-Comments URL: https://news.ycombinator.com/item?id=49325458
-Points: 47
-# Comments: 4
-- `Hacker News` [Rhombus 1.1 is now available](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
-> Article URL: https://blog.racket-lang.org/2026/08/rhombus-v1.1.html
-Comments URL: https://news.ycombinator.com/item?id=49325384
-Points: 95
-# Comments: 28
-- `TechCrunch` [Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/)
-> OpenRouter's CEO recently described the startup as Stripe for AI.
-- `TechCrunch` [Why people aren’t buying Mark Zuckerberg’s AI future](https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/)
-> On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.
-- `TechCrunch` [Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’](https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/)
-> Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.
-- `TechCrunch` [TechCrunch Mobility: The shifting flight path of electric air taxis](https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/)
-> Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
-- `TechCrunch` [Woman claims her stepfather used Grok to transform childhood photo into explicit imagery](https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/)
-> The woman claimed that AI tools are "taking everyday life and turning it into child sexual abuse."
-- `TechCrunch` [Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)
-> How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?
-- `TechCrunch` [SpaceX officially closes its Cursor acquisition](https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/)
-> AI coding startup Cursor is now officially a part of SpaceX.
-- `TechCrunch` [How to tell if your AI platforms’ accounts have been hacked](https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/)
-> A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.
-- `TechCrunch` [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/)
-> Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.
-- `TechCrunch` [Talks to sell PayPal to Stripe and Advent are heating up](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/)
-> PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.
-- `The Verge` [How to take better photos of your pets](https://www.theverge.com/tech/970021/how-to-take-better-pet-photos)
-> Like the pets of any self-respecting millennial, my cats have their own Instagram account. Noodle and Loaf - aka Carb Cats - aren't exactly celebrities. But they are used to having their photos tak...
-- `The Verge` [Whisker’s AI-powered litter robot thinks my cats swapped bodies](https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review)
-> The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights...
-- `The Verge` [Anthropic explains how Claude’s invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system)
-> Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's...
-- `The Verge` [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)
-> It's just a hook, sewn into a bag, but I really, really like it. Peak Design is so proud of its clever integration that the San Francisco-based maker of camera gear gave it a name: BagLev, for its ...
-- `The Verge` [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)
-> According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to m...
-- `The Verge` [Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review)
-> "Breakups are… tough." It's the opening lines of an interlude toward the end of DOOMED! Called "It Happens in Every Universe." It's also basically the thesis of the entire record. It's no grand rev...
-- `The Verge` [Amazon is trying to crush class action suits before they get started](https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions)
-> On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said...
-- `The Verge` [ChatGPT’s Computer History tracks your clicks and keystrokes](https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes)
-> ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you lef...
-- `The Verge` [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM E...
-- `The Verge` [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale)
-> Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the seco...
+# Comments: 3
+- `Hacker News` [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
+> Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html
+Comments URL: https://news.ycombinator.com/item?id=49338328
+Points: 133
+# Comments: 60
+- `Hacker News` [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
+> Article URL: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera
+Comments URL: https://news.ycombinator.com/item?id=49338285
+Points: 77
+# Comments: 17
+- `Hacker News` [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617)
+> Article URL: https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617
+Comments URL: https://news.ycombinator.com/item?id=49337630
+Points: 26
+# Comments: 5
+- `Hacker News` [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
+> Article URL: https://openrouter.ai/openai/gpt-5.6-sol
+Comments URL: https://news.ycombinator.com/item?id=49337602
+Points: 90
+# Comments: 34
+- `TechCrunch` [Anthropic’s annualized revenue surges to $65B](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/)
+> The model maker added $18 billion in annualized revenue in two months.
+- `TechCrunch` [AI automation startup Relay shuts down, staff joins Google’s Chrome team](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)
+> "We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon," Jacob Bank, Relay founder and CEO, said.
+- `TechCrunch` [‘Unprecedented’ number of Apple users received recent spyware alert, say investigators](https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/)
+> Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.
+- `TechCrunch` [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
+> If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15...
+- `TechCrunch` [Spotify’s new Playlist Notes let users and editors explain their song picks](https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/)
+> Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar an...
+- `TechCrunch` [Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B](https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/)
+> Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.
+- `TechCrunch` [Reddit begins testing a new audio and video experience, similar to popular TikTok videos](https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/)
+> Reddit is beginning to test video and audio versions of popular posts, allowing users to watch or listen to Reddit stories instead of just reading them.
+- `TechCrunch` [Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic](https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/)
+> Sonic Fire Tech raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.
+- `TechCrunch` [YouTube will now count a view as soon as a video starts playing](https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/)
+> The change comes a year after YouTube applied the same approach to counting views on Shorts videos.
+- `TechCrunch` [Feedly attributes weeklong slowdown to bug, not its AI pivot](https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/)
+> Feedly says a bug is behind the performance issues that have made its web app nearly "unusable" for some users, while complaints about its mobile apps and customer support are adding to frustrations.
+- `The Verge` [Reddit’s AI is turning posts into podcasts and short videos](https://www.theverge.com/tech/981289/reddit-ai-text-video-posts)
+> Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use...
+- `The Verge` [ABC’s livestreamed news show is powered by trending topics](https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show)
+> ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the n...
+- `The Verge` [This compact Glorious mechanical keyboard is just $35](https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale)
+> Are you curious about custom mechanical keyboards, but don’t want to spend hundreds just to get started without being sure you’ll enjoy the hobby? You can grab the 65-percent Glorious GMMK 3 mechan...
+- `The Verge` [Wordle meets Clippy in this new word game](https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game)
+> Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at ...
+- `The Verge` [YouTube is changing how it counts views to give the numbers a boost](https://www.theverge.com/streaming/981105/youtube-video-view-counting-update)
+> YouTube will soon count a view as soon as a video starts to play, lining up with the system used by Instagram, TikTok, and its Shorts videos. The update will go into effect on August 24th, "which m...
+- `The Verge` [The Analogue Pocket gets a Supreme makeover in red or gold](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection)
+> Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how they're described on ...
+- `The Verge` [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities)
+> Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionali...
+- `The Verge` [Trump’s dumb border wall](https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit)
+> About 22 miles south of the former mining town of Patagonia, Arizona, down a winding, unpaved mountain road that passes cows grazing on open range, stands a cottonwood tree believed to be at least ...
+- `The Verge` [Apple ordered to stop scaring iPhone and iPad users away from third-party apps](https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany)
+> Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Tra...
+- `The Verge` [WiiM’s capable HomePod-esque smart speaker is almost $50 off](https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale)
+> The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
