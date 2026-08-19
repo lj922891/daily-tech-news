@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-18
+# 📰 每日科技日报 — 2026-08-19
 
-> 自动收集于 2026-08-18 12:18 | 共 40 条
+> 自动收集于 2026-08-19 01:37 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等](https://sspai.com/post/113607)
+> Spotify 上线「播放列表备注」功能、Windows Server 2022 即将结束主流更新等。查看全文
 - `少数派` [社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机](https://sspai.com/post/113593)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会](https://sspai.com/post/113564)
@@ -28,97 +30,97 @@
 > 如今，伴随着科技和生产力的发展，许多曾经只存在于科幻作品里的创意都逐渐变成了现实。各种新奇酷炫的产品，也开始在人们的刚需之外提供不一样的解法。尤其是那些无关「生产力」、单纯为了让生活变得更有意思的产品 ...查看全文
 - `少数派` [成年人包里的唯一一支笔：模块笔入门导购](https://sspai.com/post/113445)
 > 如果你的包里想带一支笔以备不时之需，这支笔应该就是你想要的。查看全文
-- `少数派` [派早报：😭（放声大哭）成为最流行 emoji](https://sspai.com/post/113524)
-> 😭（放声大哭）成为最流行 emoji美国要求合作方在中美 AI 竞赛中「选边站」ChatGPT 上线使用历史记录功能美国政府敦促苹果不要购买中国内存芯片uBlock Origin 放弃维护 Facebook 广告规则索尼加速向娱乐业务转型看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [As Wisconsin cities flee Flock, its shared camera network loses value](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
-> Article URL: https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/
-Comments URL: https://news.ycombinator.com/item?id=49344114
-Points: 21...
-- `Hacker News` [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
-> Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962
-Comments URL: https://news.ycombinator.com/item?id=49343559
-Poin...
-- `Hacker News` [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
-> Article URL: https://pixelcluster.dev/VRAM-Overcommit/
-Comments URL: https://news.ycombinator.com/item?id=49342719
-Points: 241
-# Comments: 74
-- `Hacker News` [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming)
-> Article URL: https://acadia.engineering/blog/rethinking-database-programming
-Comments URL: https://news.ycombinator.com/item?id=49342530
-Points: 99
-# Comments: 46
-- `Hacker News` [Finger: Social network that never died](https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/)
-> Article URL: https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/
-Comments URL: https://news.ycombinator.com/item?id=49342472
+- `Hacker News` [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
+> Article URL: https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe
+Comments URL: https://news.ycombinator.com/item?i...
+- `Hacker News` [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
+> Article URL: https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf
+Comments URL: https://news.ycombinator.com/item?id=49355142
+Points: 6
+# Comments: 4
+- `Hacker News` [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
+> Article URL: https://www.bbc.com/news/articles/c1l1r1zne1ro
+Comments URL: https://news.ycombinator.com/item?id=49355105
+Points: 9
+# Comments: 0
+- `Hacker News` [Cerebras CS4](https://www.cerebras.ai/cs4)
+> Article URL: https://www.cerebras.ai/cs4
+Comments URL: https://news.ycombinator.com/item?id=49354949
+Points: 22
+# Comments: 4
+- `Hacker News` [Why crypto's best infrastructure companies stopped looking like crypto?](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)
+> Article URL: https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/
+Comments URL: https://news.ycombinator.com/item?id=49354778
+Points: 9
+# Comments: 0
+- `Hacker News` [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
+> Article URL: https://modelmap.cc
+Comments URL: https://news.ycombinator.com/item?id=49354664
 Points: 29
-# Comments: 14
-- `Hacker News` [Exercise intensity modulates interorgan communication and is associated with](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
-> Article URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue
-Com...
-- `Hacker News` [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
-> Article URL: https://danluu.com/benchpocalypse/
-Comments URL: https://news.ycombinator.com/item?id=49340299
-Points: 129
-# Comments: 37
-- `Hacker News` [Repair Cafe – Fix Your Broken Items](https://www.repaircafe.org/)
-> Article URL: https://www.repaircafe.org/
-Comments URL: https://news.ycombinator.com/item?id=49339097
-Points: 135
-# Comments: 28
-- `Hacker News` [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-> Article URL: https://timmarinin.net/2026/bluesky-screenshots/
-Comments URL: https://news.ycombinator.com/item?id=49338459
-Points: 571
-# Comments: 373
-- `Hacker News` [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
-> Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html
-Comments URL: https://news.ycombinator.com/item?id=49338328
-Points: 386
-# Comments: 166
-- `TechCrunch` [Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’](https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/)
-> Reach Capital announced Tuesday an oversubscribed $265M Fund V.
-- `TechCrunch` [Fairphone is launching its latest repairable phone in the US too](https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/)
-> The Fairphone 6+ is priced at $649 and will be available on Amazon.
-- `TechCrunch` [Einride strikes deal to add 500 Tesla Semis to its fleet](https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/)
-> Einride will buy the Tesla Semis, which will be made to Amazon and other customers.
-- `TechCrunch` [Detroit startup Grounded raises $5M to customize electric and gas-powered vans](https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/)
-> The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.
-- `TechCrunch` [Anthropic’s annualized revenue surges to $65B](https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/)
-> The model maker added $18 billion in annualized revenue in two months.
-- `TechCrunch` [AI automation startup Relay shuts down, staff joins Google’s Chrome team](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)
-> "We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon," Jacob Bank, Relay founder and CEO, said.
-- `TechCrunch` [‘Unprecedented’ number of Apple users received recent spyware alert, say investigators](https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/)
-> Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.
-- `TechCrunch` [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
+# Comments: 3
+- `Hacker News` [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
+> Article URL: https://github.com/pg83/solo
+Comments URL: https://news.ycombinator.com/item?id=49354613
+Points: 33
+# Comments: 43
+- `Hacker News` [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/)
+> Article URL: https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/
+Comments URL: https://news.ycombinator.com/item?id=49353854
+Points: 18
+# Comments: 3
+- `Hacker News` [Programmable Property-Based Testing](https://dl.acm.org/doi/10.1145/3828685)
+> Article URL: https://dl.acm.org/doi/10.1145/3828685
+Comments URL: https://news.ycombinator.com/item?id=49353618
+Points: 16
+# Comments: 1
+- `Hacker News` [GPT-5.6 Sol: 70% off in Devin](https://devin.ai/blog/gpt-5-6-sol-promo)
+> Article URL: https://devin.ai/blog/gpt-5-6-sol-promo
+Comments URL: https://news.ycombinator.com/item?id=49353484
+Points: 14
+# Comments: 0
+- `TechCrunch` [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/)
+> Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.
+- `TechCrunch` [DOJ’s probe into Andreessen Horowitz over board seats baffles VCs](https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/)
+> Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.
+- `TechCrunch` [TikTok explores peer-to-peer payments via DMs, report says](https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/)
+> If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.
+- `TechCrunch` [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/)
+> The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.
+- `TechCrunch` [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
 > If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15...
-- `TechCrunch` [Spotify’s new Playlist Notes let users and editors explain their song picks](https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/)
-> Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar an...
-- `TechCrunch` [Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B](https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/)
-> Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.
-- `The Verge` [Google’s Pet Memory forgot who my cats are](https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review)
-> One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send...
-- `The Verge` [The Verge Guide to Pets](https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale)
-> Ah, the relationship between animals and the technology they can’t quite understand.  Today, it seems like there’s a high-tech solution to every element of pet ownership, with devices on the m...
-- `The Verge` [My parrot ate my keyboard](https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect)
-> One of the great joys in life is having pets. The unconditional love, the snuggles, the excitement they show when you get home - these things add an emotional fulfillment to daily existence that ca...
-- `The Verge` [Oops! My cat is an iPad kid](https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube)
-> Pets, like children, come with the responsibility to keep them happy, healthy, and mentally stimulated - obligations I readily committed to before getting my cat, Trevor. I work from home, so he's ...
-- `The Verge` [How I turned my fish tank high tech](https://www.theverge.com/tech/978229/fish-tank-tech)
-> When I was a kid, I owned two goldfish that eventually outgrew the size of their tank. At the time, I didn't realize just how much actually goes into having fish and keeping them healthy. I've lear...
-- `The Verge` [Fairphone’s latest repairable phone is going on sale in the US](https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon)
-> The Fairphone 6 Plus is a minor hardware refresh, but a major launch for the company: It's the first phone that Fairphone is selling directly in the US. It's on sale now for $649.99, available thro...
-- `The Verge` [Elon Musk made flying even worse so Palantir could profit](https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir)
-> On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square m...
-- `The Verge` [ChatGPT is getting a dedicated mode for teens](https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode)
-> OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI ...
-- `The Verge` [Apple’s camera-equipped AirPods appear in leaked video](https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak)
-> We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who...
-- `The Verge` [Reddit’s AI is turning posts into podcasts and short videos](https://www.theverge.com/tech/981289/reddit-ai-text-video-posts)
-> Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use...
+- `TechCrunch` [Etched’s valuation doubles to $21B in a month](https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/)
+> Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.
+- `TechCrunch` [Apple overhauls its EU App Store fees, loosens rules for alternative app stores](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/)
+> Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative ...
+- `TechCrunch` [Comcast adds motion sensing to millions of its newer routers, with a privacy catch](https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/)
+> A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.
+- `TechCrunch` [Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear](https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/)
+> Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.
+- `TechCrunch` [Bluesky says its recent outage was caused by another DDoS attack](https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/)
+> This is the latest large-scale DDoS attack to hit the social networking site this year.
+- `The Verge` [SteelSeries’ comfy wireless gaming headset is nearly half off](https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale)
+> While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is av...
+- `The Verge` [Robin Williams’ Instagram account brought back to fight ‘AI abuse’](https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai)
+> Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak...
+- `The Verge` [OpenAI lays out new security changes after its AI hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack)
+> OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environme...
+- `The Verge` [Samsung’s Galaxy Buds 3 Pro are almost half off today](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale)
+> If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, ...
+- `The Verge` [PlayStation’s wireless gaming speakers launch in November](https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder)
+> Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a...
+- `The Verge` [Apple squashes EU beef with new App Store rules](https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission)
+> Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its "disagreements with the Commission over business terms and alternative distribution." ...
+- `The Verge` [Tesla is finally launching the Cybercab — let’s hope it’s ready](https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready)
+> The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is act...
+- `The Verge` [Peacock is raising prices by up to $3](https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026)
+> Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium ...
+- `The Verge` [Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it](https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery)
+> There's an argument to be made that people wouldn't be all that interested in Coyote vs. Acme if it weren't for the way David Zaslav tried to kill it. By trying to shelve the project, Warner Bros. ...
+- `The Verge` [Comcast is turning millions of its routers into motion detectors](https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing)
+> Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
