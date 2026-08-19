@@ -6,10 +6,16 @@
 
 # 📰 每日科技日报 — 2026-08-19
 
-> 自动收集于 2026-08-19 01:37 | 共 40 条
+> 自动收集于 2026-08-19 12:18 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [iOS 27 测试版近期动向，还有 Apple 产品新消息](https://sspai.com/post/113618)
+> 7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ...查看全文
+- `少数派` [《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了](https://sspai.com/post/113588)
+> 本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ...查看全文
+- `少数派` [App+1 | Inkive：把纸质书上划好的线存进 Obsidian](https://sspai.com/post/111936)
+> 让纸书上的划线，回到你的数字笔记里。查看全文
 - `少数派` [派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等](https://sspai.com/post/113607)
 > Spotify 上线「播放列表备注」功能、Windows Server 2022 即将结束主流更新等。查看全文
 - `少数派` [社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机](https://sspai.com/post/113593)
@@ -24,63 +30,64 @@
 > 少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章成 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113544)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [分享我知识管理 12 年来最重要的经验：INL 结构](https://sspai.com/post/113368)
-> 你是不是有几百个笔记，超级乱，都懒得打开？今天我们介绍一个方法，可以让你不怎么整理，就能快速找到重点。查看全文
-- `少数派` [当陶瓷水杯遇上像素屏：PixelMug 体验](https://sspai.com/post/113448)
-> 如今，伴随着科技和生产力的发展，许多曾经只存在于科幻作品里的创意都逐渐变成了现实。各种新奇酷炫的产品，也开始在人们的刚需之外提供不一样的解法。尤其是那些无关「生产力」、单纯为了让生活变得更有意思的产品 ...查看全文
-- `少数派` [成年人包里的唯一一支笔：模块笔入门导购](https://sspai.com/post/113445)
-> 如果你的包里想带一支笔以备不时之需，这支笔应该就是你想要的。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Tiny satellite will use the dark side of the Moon as a shield](https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe)
-> Article URL: https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe
-Comments URL: https://news.ycombinator.com/item?i...
-- `Hacker News` [New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf)
-> Article URL: https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf
-Comments URL: https://news.ycombinator.com/item?id=49355142
-Points: 6
+- `Hacker News` [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
+> Article URL: https://grapheneos.social/@GrapheneOS/117078064184215730
+Comments URL: https://news.ycombinator.com/item?id=49360242
+Points: 27
 # Comments: 4
+- `Hacker News` [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
+> Article URL: https://theremin.bizibah.com/
+Comments URL: https://news.ycombinator.com/item?id=49359425
+Points: 61
+# Comments: 29
+- `Hacker News` [The Mojo language (by Modular, now Qualcomm) is now open-source](https://www.modular.com/blog/modcon-announcements)
+> Article URL: https://www.modular.com/blog/modcon-announcements
+Comments URL: https://news.ycombinator.com/item?id=49358327
+Points: 94
+# Comments: 33
+- `Hacker News` [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151)
+> Article URL: https://dl.acm.org/doi/10.1145/3789240.3829151
+Comments URL: https://news.ycombinator.com/item?id=49357501
+Points: 40
+# Comments: 10
+- `Hacker News` [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
+> Article URL: https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/
+Comments URL: https://news.ycombinator.com/item?id=49355968
+Points: 120
+# Comments: 21
+- `Hacker News` [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
+> https://archive.ph/a3165
+
+Comments URL: https://news.ycombinator.com/item?id=49355825
+Points: 261
+# Comments: 210
+- `Hacker News` [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)
+> Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I hav...
+- `Hacker News` [OpenLogi](https://openlogi.org/en)
+> Article URL: https://openlogi.org/en
+Comments URL: https://news.ycombinator.com/item?id=49355606
+Points: 941
+# Comments: 250
+- `Hacker News` [The Vietnam Binh Chau (Chau Tan) Late Tang Wreck](https://www.koh-antique.com/client/tangwreck/tangwreck.html)
+> Video and explanation on the ship discovery:Why This Wood Costs US$360/kg: https://www.youtube.com/watch?v=u5b5bKlvdhQ
+
+Comments URL: https://news.ycombinator.com/item?id=49355451
+Points: 44
+# Comm...
 - `Hacker News` [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
 > Article URL: https://www.bbc.com/news/articles/c1l1r1zne1ro
 Comments URL: https://news.ycombinator.com/item?id=49355105
-Points: 9
-# Comments: 0
-- `Hacker News` [Cerebras CS4](https://www.cerebras.ai/cs4)
-> Article URL: https://www.cerebras.ai/cs4
-Comments URL: https://news.ycombinator.com/item?id=49354949
-Points: 22
-# Comments: 4
-- `Hacker News` [Why crypto's best infrastructure companies stopped looking like crypto?](https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/)
-> Article URL: https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/
-Comments URL: https://news.ycombinator.com/item?id=49354778
-Points: 9
-# Comments: 0
-- `Hacker News` [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
-> Article URL: https://modelmap.cc
-Comments URL: https://news.ycombinator.com/item?id=49354664
-Points: 29
-# Comments: 3
-- `Hacker News` [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
-> Article URL: https://github.com/pg83/solo
-Comments URL: https://news.ycombinator.com/item?id=49354613
-Points: 33
-# Comments: 43
-- `Hacker News` [The 90-year history of the binoculars bolted to scenic overlooks](https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/)
-> Article URL: https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/
-Comments URL: https://news.ycombinator.com/item?id=49353854
-Points: 18
-# Comments: 3
-- `Hacker News` [Programmable Property-Based Testing](https://dl.acm.org/doi/10.1145/3828685)
-> Article URL: https://dl.acm.org/doi/10.1145/3828685
-Comments URL: https://news.ycombinator.com/item?id=49353618
-Points: 16
-# Comments: 1
-- `Hacker News` [GPT-5.6 Sol: 70% off in Devin](https://devin.ai/blog/gpt-5-6-sol-promo)
-> Article URL: https://devin.ai/blog/gpt-5-6-sol-promo
-Comments URL: https://news.ycombinator.com/item?id=49353484
-Points: 14
-# Comments: 0
+Points: 311
+# Comments: 247
+- `TechCrunch` [AI isn’t close to curing cancer. This startup says it knows what it will take.](https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/)
+> It's the data, stupid.
+- `TechCrunch` [You can Venmo your college tuition, for some reason](https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/)
+> Kids these days don't know how good they have it.
+- `TechCrunch` [Relativity Networks raises $22 million to bring a faster kind of fiber to data centers](https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/)
+> Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.
 - `TechCrunch` [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/)
 > Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.
 - `TechCrunch` [DOJ’s probe into Andreessen Horowitz over board seats baffles VCs](https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/)
@@ -95,12 +102,16 @@ Points: 14
 > Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.
 - `TechCrunch` [Apple overhauls its EU App Store fees, loosens rules for alternative app stores](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/)
 > Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative ...
-- `TechCrunch` [Comcast adds motion sensing to millions of its newer routers, with a privacy catch](https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/)
-> A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.
-- `TechCrunch` [Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear](https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/)
-> Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.
-- `TechCrunch` [Bluesky says its recent outage was caused by another DDoS attack](https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/)
-> This is the latest large-scale DDoS attack to hit the social networking site this year.
+- `The Verge` [Nvidia’s new financial strategy does not compute](https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset)
+> April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackst...
+- `The Verge` [The women’s soccer league trying to fix fantasy sports](https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app)
+> Most fantasy sports leagues suffer the same problem: retention. Leagues play out over months-long seasons, require regular attention, and can punish players severely for missing even a single week....
+- `The Verge` [Amazon’s drones will soon deliver to nearly 500 US cities and towns](https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion)
+> Amazon says its drone delivery service will reach "nearly 500 cities and towns in the United States" by the end of this year, increasing its coverage by six times compared to the current footprint....
+- `The Verge` [The everyday tech I use to track my corgi](https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking)
+> The Apple AirTag may be a jack-of-all-trades - people use it for keeping track of keys, suitcases, backpacks, purses - but I think the most logical use case for it, by far, is keeping track of your...
+- `The Verge` [Framework gave its 12-inch laptop some hardware upgrades](https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability)
+> Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built b...
 - `The Verge` [SteelSeries’ comfy wireless gaming headset is nearly half off](https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale)
 > While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is av...
 - `The Verge` [Robin Williams’ Instagram account brought back to fight ‘AI abuse’](https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai)
@@ -111,16 +122,6 @@ Points: 14
 > If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, ...
 - `The Verge` [PlayStation’s wireless gaming speakers launch in November](https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder)
 > Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a...
-- `The Verge` [Apple squashes EU beef with new App Store rules](https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission)
-> Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its "disagreements with the Commission over business terms and alternative distribution." ...
-- `The Verge` [Tesla is finally launching the Cybercab — let’s hope it’s ready](https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready)
-> The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is act...
-- `The Verge` [Peacock is raising prices by up to $3](https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026)
-> Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium ...
-- `The Verge` [Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it](https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery)
-> There's an argument to be made that people wouldn't be all that interested in Coyote vs. Acme if it weren't for the way David Zaslav tried to kill it. By trying to shelve the project, Warner Bros. ...
-- `The Verge` [Comcast is turning millions of its routers into motion detectors](https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing)
-> Comcast is bringing Wi-Fi motion sensing to millions of routers that are already in customers' homes, turning the devices into activity monitors. A new update to the Xfinity Internet app, arriving ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
