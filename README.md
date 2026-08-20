@@ -6,10 +6,18 @@
 
 # 📰 每日科技日报 — 2026-08-20
 
-> 自动收集于 2026-08-20 01:36 | 共 40 条
+> 自动收集于 2026-08-20 12:19 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [新玩意 249｜少数派的编辑们最近买了啥？](https://sspai.com/post/113650)
+> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
+- `少数派` [十年阅读历程，这是我的阅读工具推荐](https://sspai.com/post/113567)
+> 从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ...查看全文
+- `少数派` [「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测](https://sspai.com/post/113497)
+> 在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。查看全文
+- `少数派` [派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本](https://sspai.com/post/113638)
+> 哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。查看全文
 - `少数派` [iOS 27 测试版近期动向，还有 Apple 产品新消息](https://sspai.com/post/113618)
 > 7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ...查看全文
 - `少数派` [《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了](https://sspai.com/post/113588)
@@ -22,67 +30,63 @@
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会](https://sspai.com/post/113564)
 > 二次元加爵士，你说有没有搞头？音乐人介绍炒饭（B站），本职是常驻波士顿的程序员社畜，同时也是多乐器演奏音乐人、B站UP主。炒饭没有专业科班学习经历，却凭兴趣及自学掌握了多种音乐技能，专辑音乐均为自己在 ...查看全文
-- `少数派` [App+1 | 让任务栏更有用：WindowSill](https://sspai.com/post/113438)
-> 屏幕不是注意力中心的地方可以塞下多少有用的东西呢？查看全文
-- `少数派` [7月音乐精选：夏天赠予我们的 9 张专辑](https://sspai.com/post/113454)
-> 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113544)
-> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [分享我知识管理 12 年来最重要的经验：INL 结构](https://sspai.com/post/113368)
-> 你是不是有几百个笔记，超级乱，都懒得打开？今天我们介绍一个方法，可以让你不怎么整理，就能快速找到重点。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
-> Article URL: https://arxiv.org/abs/2007.13664
-Comments URL: https://news.ycombinator.com/item?id=49368828
-Points: 6
+- `Hacker News` [Proof of Human (YC S23) Is Hiring a Member of Technical Staff](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff)
+> Article URL: https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff
+Comments URL: https://news.ycombinator.com/item?id=49373423
+Points: 0
 # Comments: 0
-- `Hacker News` [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap)
-> Article URL: https://github.com/BrightbeamAI/chap
-Comments URL: https://news.ycombinator.com/item?id=49367836
-Points: 19
+- `Hacker News` [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/)
+> Article URL: https://franciscotrindade.me/blog/the-kids-are-really-alright/
+Comments URL: https://news.ycombinator.com/item?id=49373269
+Points: 12
 # Comments: 3
+- `Hacker News` [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
+> Article URL: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html
+Comments URL: https://news.ycombinator.com/item?id=49372583
+Points: 139
+# Comments: 37
+- `Hacker News` [Don't Paste the AI, please](https://dontpastetheai.com/)
+> Article URL: https://dontpastetheai.com/
+Comments URL: https://news.ycombinator.com/item?id=49371857
+Points: 506
+# Comments: 247
+- `Hacker News` [Windows brings out the Rorschach test in everyone (2003)](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
+> Article URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803
+Comments URL: https://news.ycombinator.com/item?id=49371006
+Points: 239
+# Comments: 90
+- `Hacker News` [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
+> Article URL: https://www.computerenhance.com/p/turns-are-better-than-radians
+Comments URL: https://news.ycombinator.com/item?id=49369408
+Points: 237
+# Comments: 121
 - `Hacker News` [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
 > Article URL: https://github.com/anthropics/claude-code/issues/6235
 Comments URL: https://news.ycombinator.com/item?id=49367350
-Points: 129
-# Comments: 76
+Points: 293
+# Comments: 186
 - `Hacker News` [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
 > Article URL: https://os8088.com/spotlight/
 Comments URL: https://news.ycombinator.com/item?id=49367256
-Points: 41
-# Comments: 25
-- `Hacker News` [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
-> Article URL: https://inco.ai/blog/dflash2/
-Comments URL: https://news.ycombinator.com/item?id=49366792
-Points: 71
-# Comments: 8
-- `Hacker News` [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
-> Article URL: https://pennypresses.net/home/map.php
-Comments URL: https://news.ycombinator.com/item?id=49366597
-Points: 42
-# Comments: 36
-- `Hacker News` [Xwayland 26.1.0 rc1](https://lists.x.org/archives/xorg/2026-August/062280.html)
-> Article URL: https://lists.x.org/archives/xorg/2026-August/062280.html
-Comments URL: https://news.ycombinator.com/item?id=49366474
-Points: 56
-# Comments: 40
+Points: 99
+# Comments: 46
+- `Hacker News` [Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
+> Article URL: https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review
+Comments URL: https://news.ycombinator.com/item?id=49366264
+Points: 76
+# Comments: 193
 - `Hacker News` [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
 > Article URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
 Comments URL: https://news.ycombinator.com/item?id=49365841
-Points: 128
-# Comments: 35
-- `Hacker News` [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
-> Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
-Comments URL: https://news.ycombinator.com/item?id=49365443
-Points: 184
-# Comments: 66
-- `Hacker News` [Go 1.27](https://go.dev/blog/go1.27)
-> Article URL: https://go.dev/blog/go1.27
-Comments URL: https://news.ycombinator.com/item?id=49365405
-Points: 433
-# Comments: 109
+Points: 222
+# Comments: 56
+- `TechCrunch` [Meta AI’s new Mac app wants you to talk to your apps](https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/)
+> Meta said its Muse Spark model is powering the dictation feature.
+- `TechCrunch` [Binance now lets AI agents trade, but keeping them in check is largely up to users](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/)
+> Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.
 - `TechCrunch` [Stripe didn’t really buy OpenRouter because of the ‘singularity’](https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/)
 > What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of "the singularity" but it's really for a far more real and powerful reason.
 - `TechCrunch` [Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities](https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/)
@@ -99,30 +103,26 @@ Points: 433
 > The actress' firm Kinship Ventures is an investor in the company.
 - `TechCrunch` [Gambling on the Little League World Series? Sports bettors have gone too far](https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/)
 > Have we tried turning off society and turning it back on again?
-- `TechCrunch` [AI was supposed to win people over by now — it hasn’t](https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/)
-> As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.
-- `TechCrunch` [Google packs Search and Gemini with new AI study tools](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)
-> The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like Op...
+- `The Verge` [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security)
+> In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item - but even after Hin...
+- `The Verge` [Slack is launching collaborative vibe-coding channels](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch)
+> Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-...
+- `The Verge` [I ruined my cats’ toilet time with a motion-activated neon litter box sign](https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign)
+> My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological...
+- `The Verge` [The piano that taught my cat to play for her supper](https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder)
+> The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has...
+- `The Verge` [The Audi S6 Sportback E-tron proves that sedans still matter](https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review)
+> Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among ...
+- `The Verge` [Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries](https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries)
+> Sennheiser announced the next version of its flagship wireless earbuds with a major redesign focusing on sustainability. The company claims the new design improves the Momentum True Wireless 5's "c...
+- `The Verge` [LG’s new OLED breakthrough can boost display lifespans](https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology)
+> LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new techn...
 - `The Verge` [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo)
 > HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick mig...
 - `The Verge` [Nielsen is leaning more on wearables to hear what people are watching](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data)
 > In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable device...
 - `The Verge` [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)
 > As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcar...
-- `The Verge` [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos)
-> Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they...
-- `The Verge` [The wearable future is stuck in weird, experimental, existential limbo](https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai)
-> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
-- `The Verge` [Grab an iPad Air M4 for its lowest price since the June increase](https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale)
-> Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air wit...
-- `The Verge` [OpenAI hit the brakes. Now what?](https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai)
-> With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, t...
-- `The Verge` [GTA VI keeps leaking ahead of its gameplay premiere](https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos)
-> Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited la...
-- `The Verge` [Meta AI is getting a Mac app](https://www.theverge.com/tech/982270/meta-ai-mac-app)
-> Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer question...
-- `The Verge` [We reviewed the new Pixel lineup, ask us anything](https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama)
-> The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that y...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
