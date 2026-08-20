@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-19
+# 📰 每日科技日报 — 2026-08-20
 
-> 自动收集于 2026-08-19 12:18 | 共 40 条
+> 自动收集于 2026-08-20 01:36 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -26,102 +26,103 @@
 > 屏幕不是注意力中心的地方可以塞下多少有用的东西呢？查看全文
 - `少数派` [7月音乐精选：夏天赠予我们的 9 张专辑](https://sspai.com/post/113454)
 > 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
-- `少数派` [派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等](https://sspai.com/post/113566)
-> 少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章成 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113544)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [分享我知识管理 12 年来最重要的经验：INL 结构](https://sspai.com/post/113368)
+> 你是不是有几百个笔记，超级乱，都懒得打开？今天我们介绍一个方法，可以让你不怎么整理，就能快速找到重点。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
-> Article URL: https://grapheneos.social/@GrapheneOS/117078064184215730
-Comments URL: https://news.ycombinator.com/item?id=49360242
-Points: 27
-# Comments: 4
-- `Hacker News` [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
-> Article URL: https://theremin.bizibah.com/
-Comments URL: https://news.ycombinator.com/item?id=49359425
-Points: 61
-# Comments: 29
-- `Hacker News` [The Mojo language (by Modular, now Qualcomm) is now open-source](https://www.modular.com/blog/modcon-announcements)
-> Article URL: https://www.modular.com/blog/modcon-announcements
-Comments URL: https://news.ycombinator.com/item?id=49358327
-Points: 94
-# Comments: 33
-- `Hacker News` [λλ: A Programming Language for Silicon Photonics](https://dl.acm.org/doi/10.1145/3789240.3829151)
-> Article URL: https://dl.acm.org/doi/10.1145/3789240.3829151
-Comments URL: https://news.ycombinator.com/item?id=49357501
-Points: 40
-# Comments: 10
-- `Hacker News` [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
-> Article URL: https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/
-Comments URL: https://news.ycombinator.com/item?id=49355968
-Points: 120
-# Comments: 21
-- `Hacker News` [Meta's blockbuster trial draws parallels to big tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
-> https://archive.ph/a3165
-
-Comments URL: https://news.ycombinator.com/item?id=49355825
-Points: 261
-# Comments: 210
-- `Hacker News` [Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier/)
-> Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I hav...
-- `Hacker News` [OpenLogi](https://openlogi.org/en)
-> Article URL: https://openlogi.org/en
-Comments URL: https://news.ycombinator.com/item?id=49355606
-Points: 941
-# Comments: 250
-- `Hacker News` [The Vietnam Binh Chau (Chau Tan) Late Tang Wreck](https://www.koh-antique.com/client/tangwreck/tangwreck.html)
-> Video and explanation on the ship discovery:Why This Wood Costs US$360/kg: https://www.youtube.com/watch?v=u5b5bKlvdhQ
-
-Comments URL: https://news.ycombinator.com/item?id=49355451
-Points: 44
-# Comm...
-- `Hacker News` [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
-> Article URL: https://www.bbc.com/news/articles/c1l1r1zne1ro
-Comments URL: https://news.ycombinator.com/item?id=49355105
-Points: 311
-# Comments: 247
-- `TechCrunch` [AI isn’t close to curing cancer. This startup says it knows what it will take.](https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/)
-> It's the data, stupid.
-- `TechCrunch` [You can Venmo your college tuition, for some reason](https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/)
-> Kids these days don't know how good they have it.
-- `TechCrunch` [Relativity Networks raises $22 million to bring a faster kind of fiber to data centers](https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/)
-> Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.
-- `TechCrunch` [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/)
-> Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.
-- `TechCrunch` [DOJ’s probe into Andreessen Horowitz over board seats baffles VCs](https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/)
-> Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.
-- `TechCrunch` [TikTok explores peer-to-peer payments via DMs, report says](https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/)
-> If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.
-- `TechCrunch` [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/)
-> The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.
-- `TechCrunch` [Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21](https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/)
-> If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15...
-- `TechCrunch` [Etched’s valuation doubles to $21B in a month](https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/)
-> Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.
-- `TechCrunch` [Apple overhauls its EU App Store fees, loosens rules for alternative app stores](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/)
-> Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative ...
-- `The Verge` [Nvidia’s new financial strategy does not compute](https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset)
-> April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackst...
-- `The Verge` [The women’s soccer league trying to fix fantasy sports](https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app)
-> Most fantasy sports leagues suffer the same problem: retention. Leagues play out over months-long seasons, require regular attention, and can punish players severely for missing even a single week....
-- `The Verge` [Amazon’s drones will soon deliver to nearly 500 US cities and towns](https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion)
-> Amazon says its drone delivery service will reach "nearly 500 cities and towns in the United States" by the end of this year, increasing its coverage by six times compared to the current footprint....
-- `The Verge` [The everyday tech I use to track my corgi](https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking)
-> The Apple AirTag may be a jack-of-all-trades - people use it for keeping track of keys, suitcases, backpacks, purses - but I think the most logical use case for it, by far, is keeping track of your...
-- `The Verge` [Framework gave its 12-inch laptop some hardware upgrades](https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability)
-> Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built b...
-- `The Verge` [SteelSeries’ comfy wireless gaming headset is nearly half off](https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale)
-> While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is av...
-- `The Verge` [Robin Williams’ Instagram account brought back to fight ‘AI abuse’](https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai)
-> Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak...
-- `The Verge` [OpenAI lays out new security changes after its AI hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack)
-> OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environme...
-- `The Verge` [Samsung’s Galaxy Buds 3 Pro are almost half off today](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale)
-> If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, ...
-- `The Verge` [PlayStation’s wireless gaming speakers launch in November](https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder)
-> Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a...
+- `Hacker News` [Universality of Gradient Descent Neural Network Training](https://arxiv.org/abs/2007.13664)
+> Article URL: https://arxiv.org/abs/2007.13664
+Comments URL: https://news.ycombinator.com/item?id=49368828
+Points: 6
+# Comments: 0
+- `Hacker News` [Collaborative Human Agent Protocol (CHAP)](https://github.com/BrightbeamAI/chap)
+> Article URL: https://github.com/BrightbeamAI/chap
+Comments URL: https://news.ycombinator.com/item?id=49367836
+Points: 19
+# Comments: 3
+- `Hacker News` [Feature Request: Support AGENTS.md](https://github.com/anthropics/claude-code/issues/6235)
+> Article URL: https://github.com/anthropics/claude-code/issues/6235
+Comments URL: https://news.ycombinator.com/item?id=49367350
+Points: 129
+# Comments: 76
+- `Hacker News` [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/)
+> Article URL: https://os8088.com/spotlight/
+Comments URL: https://news.ycombinator.com/item?id=49367256
+Points: 41
+# Comments: 25
+- `Hacker News` [DFlash 2: Keep Drafting Parallel](https://inco.ai/blog/dflash2/)
+> Article URL: https://inco.ai/blog/dflash2/
+Comments URL: https://news.ycombinator.com/item?id=49366792
+Points: 71
+# Comments: 8
+- `Hacker News` [Pressed Penny Machine Map](https://pennypresses.net/home/map.php)
+> Article URL: https://pennypresses.net/home/map.php
+Comments URL: https://news.ycombinator.com/item?id=49366597
+Points: 42
+# Comments: 36
+- `Hacker News` [Xwayland 26.1.0 rc1](https://lists.x.org/archives/xorg/2026-August/062280.html)
+> Article URL: https://lists.x.org/archives/xorg/2026-August/062280.html
+Comments URL: https://news.ycombinator.com/item?id=49366474
+Points: 56
+# Comments: 40
+- `Hacker News` [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
+> Article URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
+Comments URL: https://news.ycombinator.com/item?id=49365841
+Points: 128
+# Comments: 35
+- `Hacker News` [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+> Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
+Comments URL: https://news.ycombinator.com/item?id=49365443
+Points: 184
+# Comments: 66
+- `Hacker News` [Go 1.27](https://go.dev/blog/go1.27)
+> Article URL: https://go.dev/blog/go1.27
+Comments URL: https://news.ycombinator.com/item?id=49365405
+Points: 433
+# Comments: 109
+- `TechCrunch` [Stripe didn’t really buy OpenRouter because of the ‘singularity’](https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/)
+> What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of "the singularity" but it's really for a far more real and powerful reason.
+- `TechCrunch` [Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities](https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/)
+> The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.
+- `TechCrunch` [OpenAI seeks to one-up Anthropic with new customer privacy protections](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/)
+> A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.
+- `TechCrunch` [Cognition CEO denies report that SpaceX tried to acquire the startup](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/)
+> SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.
+- `TechCrunch` [Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’](https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/)
+> After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.
+- `TechCrunch` [Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth](https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/)
+> AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.
+- `TechCrunch` [Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman](https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/)
+> The actress' firm Kinship Ventures is an investor in the company.
+- `TechCrunch` [Gambling on the Little League World Series? Sports bettors have gone too far](https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/)
+> Have we tried turning off society and turning it back on again?
+- `TechCrunch` [AI was supposed to win people over by now — it hasn’t](https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/)
+> As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.
+- `TechCrunch` [Google packs Search and Gemini with new AI study tools](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)
+> The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like Op...
+- `The Verge` [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo)
+> HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick mig...
+- `The Verge` [Nielsen is leaning more on wearables to hear what people are watching](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data)
+> In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable device...
+- `The Verge` [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)
+> As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcar...
+- `The Verge` [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos)
+> Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they...
+- `The Verge` [The wearable future is stuck in weird, experimental, existential limbo](https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai)
+> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
+- `The Verge` [Grab an iPad Air M4 for its lowest price since the June increase](https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale)
+> Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air wit...
+- `The Verge` [OpenAI hit the brakes. Now what?](https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai)
+> With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, t...
+- `The Verge` [GTA VI keeps leaking ahead of its gameplay premiere](https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos)
+> Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited la...
+- `The Verge` [Meta AI is getting a Mac app](https://www.theverge.com/tech/982270/meta-ai-mac-app)
+> Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer question...
+- `The Verge` [We reviewed the new Pixel lineup, ask us anything](https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama)
+> The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that y...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
