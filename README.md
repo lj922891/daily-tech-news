@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-08-21
 
-> 自动收集于 2026-08-21 01:41 | 共 40 条
+> 自动收集于 2026-08-21 12:19 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113693)
+> 📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ...查看全文
+- `少数派` [TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验](https://sspai.com/post/113586)
+> Nothing Ear (3a) 保持了它作为 Nothing 产品的精良做工和标志性的外观设计，在操作等方面也做得不错，单元素质也在水平线之上，降噪等方面也并不差，至少在中价位产品中绝对不能算落后。查看全文
 - `少数派` [派早报：华为发布 Pura X View、享界 G9 等多款新品](https://sspai.com/post/113666)
 > 影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等。查看全文
 - `少数派` [新玩意 249｜少数派的编辑们最近买了啥？](https://sspai.com/post/113650)
@@ -26,58 +30,58 @@
 > 本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ...查看全文
 - `少数派` [App+1 | Inkive：把纸质书上划好的线存进 Obsidian](https://sspai.com/post/111936)
 > 让纸书上的划线，回到你的数字笔记里。查看全文
-- `少数派` [社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机](https://sspai.com/post/113593)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会](https://sspai.com/post/113564)
-> 二次元加爵士，你说有没有搞头？音乐人介绍炒饭（B站），本职是常驻波士顿的程序员社畜，同时也是多乐器演奏音乐人、B站UP主。炒饭没有专业科班学习经历，却凭兴趣及自学掌握了多种音乐技能，专辑音乐均为自己在 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [It is a sign of the times that Amazon gets to call this fair use](http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)
-> Article URL: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html
-Comments URL: https://news.ycombinator.com/item?id=49382200
-Points: 5
-# Comments: 2
-- `Hacker News` [There's no such thing as a small software team anymore](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
-> Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/
-Comments URL: https://news.ycombinator.com/item?id=49382152
-Points: 13
+- `Hacker News` [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
+> Article URL: https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering
+Comments URL: https://news.ycombinator.com/item?id=49386659
+Points: 16
+# Comments: 1
+- `Hacker News` [Kino: A high-performance Ractor web server for Ruby 4.0](https://github.com/yaroslav/kino)
+> Article URL: https://github.com/yaroslav/kino
+Comments URL: https://news.ycombinator.com/item?id=49386383
+Points: 4
+# Comments: 1
+- `Hacker News` [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
+> Article URL: https://api-docs.deepseek.com/guides/vision/
+Comments URL: https://news.ycombinator.com/item?id=49386163
+Points: 143
+# Comments: 31
+- `Hacker News` [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
+> Article URL: https://annas-archive.pk/blog/physical-destruction.html
+Comments URL: https://news.ycombinator.com/item?id=49385994
+Points: 72
+# Comments: 21
+- `Hacker News` [Small, native web tricks worth remembering](https://htmlcat.net/)
+> Article URL: https://htmlcat.net/
+Comments URL: https://news.ycombinator.com/item?id=49385860
+Points: 74
+# Comments: 18
+- `Hacker News` [Better Batteries](https://matklad.github.io/2026/08/20/better-batteries.html)
+> Article URL: https://matklad.github.io/2026/08/20/better-batteries.html
+Comments URL: https://news.ycombinator.com/item?id=49385068
+Points: 14
 # Comments: 9
-- `Hacker News` [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
-> Article URL: https://mathstodon.xyz/@maxpool/117128107757895678
-Comments URL: https://news.ycombinator.com/item?id=49382041
-Points: 52
-# Comments: 57
-- `Hacker News` [Stealth Model](https://openrouter.ai/stealth/ox-alpha)
-> Article URL: https://openrouter.ai/stealth/ox-alpha
-Comments URL: https://news.ycombinator.com/item?id=49381896
-Points: 19
-# Comments: 3
-- `Hacker News` [Detecting scraper bots through scroll behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
-> Article URL: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour
-Comments URL: https://news.ycombinator.com/item?id=49381311
-Points: 22
-# Comments: 9
-- `Hacker News` [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
-> Article URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/
-Comments URL: https://news.ycombinator.com/...
-- `Hacker News` [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-> Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/
-Comments URL: https://news.ycombinator.com/item?id=49378957
-Points: 309
-# Comments: 347
-- `Hacker News` [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
-> Article URL: https://tidalcycles.org/
-Comments URL: https://news.ycombinator.com/item?id=49378950
-Points: 54
-# Comments: 8
-- `Hacker News` [SpacetimeDB: A Short Technical Review](https://strn.cat/posts/spacetime/)
-> Article URL: https://strn.cat/posts/spacetime/
-Comments URL: https://news.ycombinator.com/item?id=49378933
-Points: 57
-# Comments: 12
-- `Hacker News` [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
-> Hello everyone. I've been working on this experimental editor called Huzzah.I've been working almost exclusively with coding agents since January of this year, and over the past few months I began ...
+- `Hacker News` [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
+> Article URL: https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/
+Comments URL: https://news.ycombinator.com/item?id=49384896
+Points: 132
+# Comments: 63
+- `Hacker News` [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
+> Article URL: https://encore.dev/blog/firecracker-apple-silicon
+Comments URL: https://news.ycombinator.com/item?id=49384716
+Points: 106
+# Comments: 50
+- `Hacker News` [The Religious Experience of Philip K. Dick by R. Crumb (1986)](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
+> Article URL: https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/
+Comments URL: https://news.ycombinator.com/item?id=49384224
+Points: ...
+- `Hacker News` [Japan tried to build an operating system for the world, the US intervened](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
+> Article URL: https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/
+Comments URL: https://news.ycombinator.com/item?id=49384180
+Points: 243
+# Comme...
 - `TechCrunch` [Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada](https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/)
 > Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.
 - `TechCrunch` [AI data startup Micro1 reaches $500M gross run rate amid AI training boom](https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/)
@@ -98,6 +102,16 @@ Points: 57
 > Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland.
 - `TechCrunch` [Google gives publishers a new way to fight AI-driven traffic losses](https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/)
 > Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks ...
+- `The Verge` [Tesla sunsets its Solar Roof tiles](https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued)
+> Tesla has discontinued Solar Roof, its solar panels designed to look like regular roofing tiles, Electrek reports. Sources "close to the program" told the publication that Tesla has informed its th...
+- `The Verge` [My cats hate each other, but this automatic feeder is helping](https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies)
+> Over the course of nearly a decade, my husband and I have dutifully carried out a four-times-daily ritual of feeding a pair of lovely cat siblings who hate each other. This was mostly manageable fo...
+- `The Verge` [Patreon is changing its algorithm to help smaller creators get discovered](https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes)
+> Patreon has announced a number of new and overhauled features that are designed to "build a better network - and a better internet," according to CEO Jack Conte. The Patreon roadmap includes discov...
+- `The Verge` [My big, fat, technophobic cat](https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat)
+> My cat Pablo is a voluptuous boy. His primordial pouch, originally thought to protect cats' squishy insides, hangs low and wobbles to and fro. Once, when he was five or six, a vet sternly sat my sp...
+- `The Verge` [Genki’s new customizable controller has a big screen and adjustable buttons](https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen)
+> After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbstic...
 - `The Verge` [Google Discover is getting an AI chatbot-tuned feed](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed)
 > Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the "coming days," will use AI to automatically twea...
 - `The Verge` [Riot is ending development on its League of Legends fighting game](https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development)
@@ -108,16 +122,6 @@ Points: 57
 > Meta CEO Mark Zuckerberg now owns an actual castle. Zuckerberg and his wife Priscilla Chan bought Strancally Castle and its 440-acre estate in Ireland "several weeks ago," according to The Irish Ti...
 - `The Verge` [Australia says Roblox hasn’t fixed its child predator problem](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety)
 > Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't bee...
-- `The Verge` [FCC officially decides gigabit speeds are too good for you](https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal)
-> Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goa...
-- `The Verge` [Framework says it’s addressing a BIOS update that bricked some of its older laptops](https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty)
-> Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3....
-- `The Verge` [It’s Greg Brockman’s OpenAI now](https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion)
-> OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced wi...
-- `The Verge` [This app makes the Pixel 11’s HiLight feature actually useful](https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful)
-> Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, ...
-- `The Verge` [LG’s 65-inch B6 OLED is $300 lower than its previous best price](https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale)
-> Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLE...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
