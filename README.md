@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-08-22
 
-> 自动收集于 2026-08-22 01:35 | 共 40 条
+> 自动收集于 2026-08-22 12:13 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展](https://sspai.com/post/113675)
+> 又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113693)
 > 📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ...查看全文
 - `少数派` [TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验](https://sspai.com/post/113586)
@@ -28,28 +30,39 @@
 > 7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ...查看全文
 - `少数派` [《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了](https://sspai.com/post/113588)
 > 本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ...查看全文
-- `少数派` [App+1 | Inkive：把纸质书上划好的线存进 Obsidian](https://sspai.com/post/111936)
-> 让纸书上的划线，回到你的数字笔记里。查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
+> Article URL: https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations
+Comments URL: https://news.ycombinator.com/item?id=49398304
+Points: 257
+...
+- `Hacker News` [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
+> Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi
+Comments URL: https://news.ycombinator.com/item?id=49398158
+Points: 26
+# Comments: 9
+- `Hacker News` [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
+> Article URL: https://munderdiffl.in/
+Comments URL: https://news.ycombinator.com/item?id=49398152
+Points: 37
+# Comments: 15
+- `Hacker News` [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+> Article URL: https://danluu.com/perf-opt/
+Comments URL: https://news.ycombinator.com/item?id=49395628
+Points: 466
+# Comments: 333
 - `Hacker News` [HN: The Good Parts (2016)](https://danluu.com/hn-comments/)
 > Article URL: https://danluu.com/hn-comments/
 Comments URL: https://news.ycombinator.com/item?id=49395171
-Points: 13
-# Comments: 6
-- `Hacker News` [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
-> I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.A lot of the...
+Points: 59
+# Comments: 10
 - `Hacker News` [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
 > Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/
 Comments URL: https://news.ycombinator.com/item?id=49394496
-Points: 43
-# Comments: 9
-- `Hacker News` [Remotely unlocking electric scooters](https://henriemategui.com/post/remotely-unlocking-electric-scooters)
-> Article URL: https://henriemategui.com/post/remotely-unlocking-electric-scooters
-Comments URL: https://news.ycombinator.com/item?id=49394028
-Points: 25
-# Comments: 3
+Points: 161
+# Comments: 74
 - `Hacker News` [SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 > Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer
 Comments URL: https://news.ycombinator.com/item?id=49393733
@@ -59,29 +72,19 @@ Points: 0
 > https://matklad.github.io/2026/08/21/rust-glancer.html
 
 Comments URL: https://news.ycombinator.com/item?id=49393052
-Points: 18
-# Comments: 11
-- `Hacker News` [Tumble Forth – from assembly to OS with C compiler (2023)](https://tumbleforth.hardcoded.net/)
-> Article URL: https://tumbleforth.hardcoded.net/
-Comments URL: https://news.ycombinator.com/item?id=49392465
-Points: 55
-# Comments: 8
+Points: 286
+# Comments: 55
 - `Hacker News` [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 > Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org
 
 Comments URL: https://news.ycombinator.com/item?id=49392200
-Points: 147
-# Comments: 46
-- `Hacker News` [OTel isn't going well (and I made a spreadsheet about it)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/)
-> Article URL: https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/
-Comments URL: https://news.ycombinator.com/item?id=49391553
-Points: 17
-# Comments: 3
-- `Hacker News` [LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
-> Article URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6
-Comments URL: https://news.ycombinator.com/item?id=49390910
-Points: 0
-# Comments: 0
+Points: 217
+# Comments: 57
+- `Hacker News` [How Thailand Resisted Colonization](https://worksinprogress.co/issue/how-thailand-resisted-colonization/)
+> Article URL: https://worksinprogress.co/issue/how-thailand-resisted-colonization/
+Comments URL: https://news.ycombinator.com/item?id=49392099
+Points: 36
+# Comments: 10
 - `TechCrunch` [Michael Polansky is training an AI model on skin that’s still alive](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/)
 > Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue al...
 - `TechCrunch` [Japanese space tech startup Letara expands beyond satellite thrusters with $16M](https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/)
@@ -102,6 +105,8 @@ Points: 0
 > Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.
 - `TechCrunch` [Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today](https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/)
 > If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15...
+- `The Verge` [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2)
+> Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at...
 - `The Verge` [HoverAir’s transforming modular drone has already been halted in the US](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo)
 > I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has alrea...
 - `The Verge` [TikTok will pay $400 million to settle DOJ child privacy lawsuit](https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa)
@@ -120,8 +125,6 @@ Points: 0
 > I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like ...
 - `The Verge` [Why does it seem like food recalls are out of control this year?](https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control)
 > Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminate...
-- `The Verge` [Google’s Pixel 10A is a great deal at 15 percent off](https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale)
-> This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but with better camer...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
