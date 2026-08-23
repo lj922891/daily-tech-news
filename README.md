@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-08-23
 
-> 自动收集于 2026-08-23 01:44 | 共 40 条
+> 自动收集于 2026-08-23 12:13 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本](https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard)
+> 手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [让 PC 与 HomePod 互联：音频串流工具 WinAirCast](https://sspai.com/post/113002)
+> 打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。查看全文
 - `少数派` [线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展](https://sspai.com/post/113675)
 > 又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113693)
@@ -26,64 +30,61 @@
 > 在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。查看全文
 - `少数派` [派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本](https://sspai.com/post/113638)
 > 哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。查看全文
-- `少数派` [iOS 27 测试版近期动向，还有 Apple 产品新消息](https://sspai.com/post/113618)
-> 7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ...查看全文
-- `少数派` [《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了](https://sspai.com/post/113588)
-> 本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [US Military newspaper editor voices censorship fears after being fired](https://www.bbc.com/news/articles/cm2g23ng8p4o)
-> Article URL: https://www.bbc.com/news/articles/cm2g23ng8p4o
-Comments URL: https://news.ycombinator.com/item?id=49405110
-Points: 25
-# Comments: 4
-- `Hacker News` [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
-> Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun
-Comments URL: https://news.ycombinator.com/item?id=49404380
-Points: 44
-# Comments: 12
-- `Hacker News` [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
-> Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html
-Comments URL: https://news.ycombinator.com/item?id=49402781
-Points: 96
-# Comments: 24
-- `Hacker News` [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
-> Article URL: https://lapcatsoftware.com/articles/2026/8/7.html
-Comments URL: https://news.ycombinator.com/item?id=49402741
-Points: 159
-# Comments: 69
-- `Hacker News` [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
-> Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
-Comments URL: https://news.ycombinator.com/item?id=49402232
-Points: 176
-# Comments: 60
-- `Hacker News` [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
-> Article URL: https://marcua.net/minitools/figmimic/
-Comments URL: https://news.ycombinator.com/item?id=49402213
-Points: 14
+- `Hacker News` [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
+> Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o
+Comments URL: https://news.ycombinator.com/item?id=49407576
+Points: 10
+# Comments: 3
+- `Hacker News` [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
+> Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/
+Comments URL: https://news.ycombinator.com/item?id=49407507
+Points: 32
+# Comments: 3
+- `Hacker News` [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
+> Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides
+Comments URL: https://news.ycombinator.com/item?id=49407341
+Points: 42
+# Comments: 13
+- `Hacker News` [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
+> Article URL: https://skylens.yantraai.app/
+Comments URL: https://news.ycombinator.com/item?id=49407309
+Points: 13
 # Comments: 0
-- `Hacker News` [Thinking in Python by Bruce Eckel](https://thinkinginpython.com/)
-> Article URL: https://thinkinginpython.com/
-Comments URL: https://news.ycombinator.com/item?id=49402202
-Points: 49
-# Comments: 12
-- `Hacker News` [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
-> https://xcancel.com/moxie/status/2091218652133732491
-
-Comments URL: https://news.ycombinator.com/item?id=49402189
-Points: 313
-# Comments: 175
-- `Hacker News` [I set a trap for a book-marketing scammer (2025)](https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing)
-> Article URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing
-Comments URL: https://news.ycombinator.com/item?id=49402181
-Points: 5
-# Comments: 5
-- `Hacker News` [Reading Maps – Journeys from fiction drawn on the real world](https://readingmaps.com/)
-> Article URL: https://readingmaps.com/
-Comments URL: https://news.ycombinator.com/item?id=49402107
-Points: 6
-# Comments: 0
+- `Hacker News` [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
+> Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/
+Comments URL: https://news.ycombinator.com/item?id=49406539
+Points: 130
+# ...
+- `Hacker News` [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
+> Article URL: https://malisper.me/jit-compiling-code-in-5-us/
+Comments URL: https://news.ycombinator.com/item?id=49406387
+Points: 84
+# Comments: 47
+- `Hacker News` [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
+> Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/
+Comments URL: https://news.ycombinator.com/item?id=49406333
+Points: 120
+# Comments: 36
+- `Hacker News` [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
+> Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/
+Comments URL: https://news.ycombinator.com/item?id=49406285
+Points: 50
+# Comments: 15
+- `Hacker News` [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
+> Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/
+Comments URL: https://news.ycombinator.com/item?id=49405870
+Points: 218
+# Comments: 135
+- `Hacker News` [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
+> Article URL: https://martypc.net/
+Comments URL: https://news.ycombinator.com/item?id=49405816
+Points: 130
+# Comments: 43
+- `TechCrunch` [Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders](https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/)
+> Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.
 - `TechCrunch` [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)
 > In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.
 - `TechCrunch` [Will the DOJ’s investigation into a16z spook other VCs?](https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/)
@@ -102,8 +103,8 @@ Points: 6
 > Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue al...
 - `TechCrunch` [Japanese space tech startup Letara expands beyond satellite thrusters with $16M](https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/)
 > Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($1...
-- `TechCrunch` [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)
-> Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.
+- `The Verge` [Grand Theft Auto VI exists in its own universe](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arr...
 - `The Verge` [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
 > I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together...
 - `The Verge` [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)
@@ -122,8 +123,6 @@ Points: 6
 > LinkedIn actually announced a "Seems like AI slop" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari ...
 - `The Verge` [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri)
 > Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include "largely shutting down" a Vision Pro gaming team and "reducing the size" of the team that ma...
-- `The Verge` [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal)
-> The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 B...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
