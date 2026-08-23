@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-22
+# 📰 每日科技日报 — 2026-08-23
 
-> 自动收集于 2026-08-22 12:13 | 共 40 条
+> 自动收集于 2026-08-23 01:44 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,78 +33,85 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
-> Article URL: https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations
-Comments URL: https://news.ycombinator.com/item?id=49398304
-Points: 257
-...
-- `Hacker News` [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
-> Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi
-Comments URL: https://news.ycombinator.com/item?id=49398158
-Points: 26
-# Comments: 9
-- `Hacker News` [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
-> Article URL: https://munderdiffl.in/
-Comments URL: https://news.ycombinator.com/item?id=49398152
-Points: 37
-# Comments: 15
-- `Hacker News` [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
-> Article URL: https://danluu.com/perf-opt/
-Comments URL: https://news.ycombinator.com/item?id=49395628
-Points: 466
-# Comments: 333
-- `Hacker News` [HN: The Good Parts (2016)](https://danluu.com/hn-comments/)
-> Article URL: https://danluu.com/hn-comments/
-Comments URL: https://news.ycombinator.com/item?id=49395171
-Points: 59
-# Comments: 10
-- `Hacker News` [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
-> Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/
-Comments URL: https://news.ycombinator.com/item?id=49394496
-Points: 161
-# Comments: 74
-- `Hacker News` [SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
-> Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer
-Comments URL: https://news.ycombinator.com/item?id=49393733
-Points: 0
+- `Hacker News` [US Military newspaper editor voices censorship fears after being fired](https://www.bbc.com/news/articles/cm2g23ng8p4o)
+> Article URL: https://www.bbc.com/news/articles/cm2g23ng8p4o
+Comments URL: https://news.ycombinator.com/item?id=49405110
+Points: 25
+# Comments: 4
+- `Hacker News` [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
+> Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun
+Comments URL: https://news.ycombinator.com/item?id=49404380
+Points: 44
+# Comments: 12
+- `Hacker News` [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+> Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html
+Comments URL: https://news.ycombinator.com/item?id=49402781
+Points: 96
+# Comments: 24
+- `Hacker News` [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
+> Article URL: https://lapcatsoftware.com/articles/2026/8/7.html
+Comments URL: https://news.ycombinator.com/item?id=49402741
+Points: 159
+# Comments: 69
+- `Hacker News` [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+> Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
+Comments URL: https://news.ycombinator.com/item?id=49402232
+Points: 176
+# Comments: 60
+- `Hacker News` [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
+> Article URL: https://marcua.net/minitools/figmimic/
+Comments URL: https://news.ycombinator.com/item?id=49402213
+Points: 14
 # Comments: 0
-- `Hacker News` [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
-> https://matklad.github.io/2026/08/21/rust-glancer.html
+- `Hacker News` [Thinking in Python by Bruce Eckel](https://thinkinginpython.com/)
+> Article URL: https://thinkinginpython.com/
+Comments URL: https://news.ycombinator.com/item?id=49402202
+Points: 49
+# Comments: 12
+- `Hacker News` [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
+> https://xcancel.com/moxie/status/2091218652133732491
 
-Comments URL: https://news.ycombinator.com/item?id=49393052
-Points: 286
-# Comments: 55
-- `Hacker News` [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
-> Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org
-
-Comments URL: https://news.ycombinator.com/item?id=49392200
-Points: 217
-# Comments: 57
-- `Hacker News` [How Thailand Resisted Colonization](https://worksinprogress.co/issue/how-thailand-resisted-colonization/)
-> Article URL: https://worksinprogress.co/issue/how-thailand-resisted-colonization/
-Comments URL: https://news.ycombinator.com/item?id=49392099
-Points: 36
-# Comments: 10
+Comments URL: https://news.ycombinator.com/item?id=49402189
+Points: 313
+# Comments: 175
+- `Hacker News` [I set a trap for a book-marketing scammer (2025)](https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing)
+> Article URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing
+Comments URL: https://news.ycombinator.com/item?id=49402181
+Points: 5
+# Comments: 5
+- `Hacker News` [Reading Maps – Journeys from fiction drawn on the real world](https://readingmaps.com/)
+> Article URL: https://readingmaps.com/
+Comments URL: https://news.ycombinator.com/item?id=49402107
+Points: 6
+# Comments: 0
+- `TechCrunch` [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)
+> In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.
+- `TechCrunch` [Will the DOJ’s investigation into a16z spook other VCs?](https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/)
+> On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.
+- `TechCrunch` [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and Open...](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)
+> Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.
+- `TechCrunch` [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)
+> OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.
+- `TechCrunch` [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)
+> A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentia...
+- `TechCrunch` [US battery startups have found a lifeline in defense](https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/)
+> U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.
+- `TechCrunch` [Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade](https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/)
+> Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.
 - `TechCrunch` [Michael Polansky is training an AI model on skin that’s still alive](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/)
 > Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue al...
 - `TechCrunch` [Japanese space tech startup Letara expands beyond satellite thrusters with $16M](https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/)
 > Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($1...
 - `TechCrunch` [Anthropic’s Opus 4.6 is a smut-machine](https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/)
 > Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.
-- `TechCrunch` [Nvidia partners with data center developer Cloverleaf](https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/)
-> Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.
-- `TechCrunch` [How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours](https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/)
-> Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.
-- `TechCrunch` [Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams](https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/)
-> Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.
-- `TechCrunch` [TikTok reaches $400M settlement over children’s privacy lawsuit](https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/)
-> Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.
-- `TechCrunch` [The $225 Pebble Time 2 is a refreshingly fun smartwatch](https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/)
-> The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.
-- `TechCrunch` [Nvidia just showed that the harness, not the AI model, is now the real hero](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/)
-> Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.
-- `TechCrunch` [Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today](https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/)
-> If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15...
+- `The Verge` [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
+> I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together...
+- `The Verge` [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)
+> W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of c...
+- `The Verge` [Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv)
+> Citing "significant increases in memory and storage component costs," Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest...
+- `The Verge` [An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook ...](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review)
+> Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparativel...
 - `The Verge` [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2)
 > Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at...
 - `The Verge` [HoverAir’s transforming modular drone has already been halted in the US](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo)
@@ -117,14 +124,6 @@ Points: 36
 > Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include "largely shutting down" a Vision Pro gaming team and "reducing the size" of the team that ma...
 - `The Verge` [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal)
 > The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 B...
-- `The Verge` [Walmart is finally adding Apple Pay and Google Pay](https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch)
-> Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday, Walmart says it's going to bring tap-to-pay capabilities to "select" Walmart and Sam's ...
-- `The Verge` [Microsoft and Discord subpoenaed over GTA VI gameplay leaks](https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed)
-> Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that "infringes copyrights" held for the game, Kotaku reports. ...
-- `The Verge` [Pixel 11 gets in on the digicam trend](https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend)
-> I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like ...
-- `The Verge` [Why does it seem like food recalls are out of control this year?](https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control)
-> Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminate...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
