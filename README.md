@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-23
+# 📰 每日科技日报 — 2026-08-24
 
-> 自动收集于 2026-08-23 12:13 | 共 40 条
+> 自动收集于 2026-08-24 01:42 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：九家车企召回近 430 万辆不易识别应急拉手汽车](https://sspai.com/post/113767)
+> 九家车企召回近 430 万辆不易识别应急拉手汽车英伟达达成 70 亿美元合作，研发顶级开放权重模型高院发布著作权新司法解释，网络转载不允许先转后付买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘国际加紧制定统一月球时间个人消费贷贴息政策扩展覆盖买车、装修等看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本](https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard)
 > 手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [让 PC 与 HomePod 互联：音频串流工具 WinAirCast](https://sspai.com/post/113002)
@@ -28,61 +30,71 @@
 > 从2017年开始，我养成了读书的习惯，到今年年底刚好完成十年的阅读之旅。在这十年里，我累计阅读的书籍有六百余本。在阅读的过程中，我使用了/曾经使用非常多的应用和服务，来辅助阅读、记录书单、整理笔记等。 ...查看全文
 - `少数派` [「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测](https://sspai.com/post/113497)
 > 在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。查看全文
-- `少数派` [派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本](https://sspai.com/post/113638)
-> 哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
+> Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/
+Comments URL: https://news.ycombinator.com/item?id=49409200
+Points: 21
+# Comments: 2
+- `Hacker News` [Authoritarianism of Code](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
+> Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/
+Comments URL: https://news.ycombinator.com/item?id=49409184
+Points: 5
+# Comments: 3
+- `Hacker News` [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
+> Article URL: https://earendil.com/posts/what-is-a-harness/
+Comments URL: https://news.ycombinator.com/item?id=49409092
+Points: 27
+# Comments: 15
+- `Hacker News` [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
+> Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/
+Comments URL: https://news.ycombinator.com/item?id=49408889
+Points: 20
+# Comments: 10
+- `Hacker News` [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
+> Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes
+Comments URL: https://news.ycombinator.com/item?id=49408858
+Points: 48
+# Comments: 13
+- `Hacker News` [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
+> Article URL: https://securelist.com/android-head-unit-malware/121106/
+Comments URL: https://news.ycombinator.com/item?id=49408550
+Points: 87
+# Comments: 40
 - `Hacker News` [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
 > Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o
 Comments URL: https://news.ycombinator.com/item?id=49407576
-Points: 10
-# Comments: 3
+Points: 90
+# Comments: 59
+- `Hacker News` [Iranian hackers shut down UK power plant for 4 days](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
+> Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/
+Comments URL: https://news.ycombinator.com/item?id=49407509
+Points: 56
+# Comments: 34
 - `Hacker News` [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
 > Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/
 Comments URL: https://news.ycombinator.com/item?id=49407507
-Points: 32
-# Comments: 3
-- `Hacker News` [The Sloppification of Peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
-> Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides
-Comments URL: https://news.ycombinator.com/item?id=49407341
-Points: 42
-# Comments: 13
+Points: 159
+# Comments: 80
 - `Hacker News` [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
 > Article URL: https://skylens.yantraai.app/
 Comments URL: https://news.ycombinator.com/item?id=49407309
-Points: 13
-# Comments: 0
-- `Hacker News` [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
-> Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/
-Comments URL: https://news.ycombinator.com/item?id=49406539
-Points: 130
-# ...
-- `Hacker News` [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
-> Article URL: https://malisper.me/jit-compiling-code-in-5-us/
-Comments URL: https://news.ycombinator.com/item?id=49406387
-Points: 84
-# Comments: 47
-- `Hacker News` [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
-> Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/
-Comments URL: https://news.ycombinator.com/item?id=49406333
-Points: 120
-# Comments: 36
-- `Hacker News` [Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
-> Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/
-Comments URL: https://news.ycombinator.com/item?id=49406285
-Points: 50
-# Comments: 15
-- `Hacker News` [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
-> Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/
-Comments URL: https://news.ycombinator.com/item?id=49405870
-Points: 218
-# Comments: 135
-- `Hacker News` [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
-> Article URL: https://martypc.net/
-Comments URL: https://news.ycombinator.com/item?id=49405816
-Points: 130
-# Comments: 43
+Points: 36
+# Comments: 17
+- `TechCrunch` [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
+> A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.
+- `TechCrunch` [Uber faces fine of nearly $1B over automated driver suspensions](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/)
+> The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.
+- `TechCrunch` [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
+> Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.
+- `TechCrunch` [TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)
+> Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
+- `TechCrunch` [Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash](https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/)
+> Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.
+- `TechCrunch` [Is it legal to train AI models on copyrighted books? It’s complicated](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/)
+> Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?
 - `TechCrunch` [Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders](https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/)
 > Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.
 - `TechCrunch` [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)
@@ -91,18 +103,10 @@ Points: 130
 > On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.
 - `TechCrunch` [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and Open...](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)
 > Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.
-- `TechCrunch` [OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)
-> OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.
-- `TechCrunch` [Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)
-> A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentia...
-- `TechCrunch` [US battery startups have found a lifeline in defense](https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/)
-> U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.
-- `TechCrunch` [Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade](https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/)
-> Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.
-- `TechCrunch` [Michael Polansky is training an AI model on skin that’s still alive](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/)
-> Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue al...
-- `TechCrunch` [Japanese space tech startup Letara expands beyond satellite thrusters with $16M](https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/)
-> Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($1...
+- `The Verge` [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
+> It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back it...
+- `The Verge` [We’re All Going to the World’s Fair is an intimate coming-of-age horror film](https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review)
+> Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the ...
 - `The Verge` [Grand Theft Auto VI exists in its own universe](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arr...
 - `The Verge` [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
@@ -119,10 +123,6 @@ Points: 130
 > I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has alrea...
 - `The Verge` [TikTok will pay $400 million to settle DOJ child privacy lawsuit](https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa)
 > The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). I...
-- `The Verge` [Over 1 million people have clicked LinkedIn’s AI slop button](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message)
-> LinkedIn actually announced a "Seems like AI slop" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari ...
-- `The Verge` [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri)
-> Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg. The cuts include "largely shutting down" a Vision Pro gaming team and "reducing the size" of the team that ma...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
