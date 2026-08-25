@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-24
+# 📰 每日科技日报 — 2026-08-25
 
-> 自动收集于 2026-08-24 12:20 | 共 40 条
+> 自动收集于 2026-08-25 01:37 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等](https://sspai.com/post/113813)
+> 少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113795)
 > >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [Windows On ARM 原生应用少？你可以试试这些改造方法](https://sspai.com/prime/story/create-your-own-windows-apps)
@@ -28,101 +30,99 @@
 > 又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/113693)
 > 📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ...查看全文
-- `少数派` [TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验](https://sspai.com/post/113586)
-> Nothing Ear (3a) 保持了它作为 Nothing 产品的精良做工和标志性的外观设计，在操作等方面也做得不错，单元素质也在水平线之上，降噪等方面也并不差，至少在中价位产品中绝对不能算落后。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Slovakia finds Russian backdoor in traffic speed cameras](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
-> Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/
-Comments URL: https://news.ycombinator.com/item?id=49409200
-Points: 21
-# Comments: 2
-- `Hacker News` [Authoritarianism of Code](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
-> Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/
-Comments URL: https://news.ycombinator.com/item?id=49409184
-Points: 5
-# Comments: 3
-- `Hacker News` [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
-> Article URL: https://earendil.com/posts/what-is-a-harness/
-Comments URL: https://news.ycombinator.com/item?id=49409092
-Points: 27
+- `Hacker News` [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
+> Article URL: https://github.com/murerkinn/bookshelf
+Comments URL: https://news.ycombinator.com/item?id=49427001
+Points: 32
+# Comments: 7
+- `Hacker News` [Show HN: Flostep – Diagrams people can actually walkthrough](https://flostep.dev/)
+> Article URL: https://flostep.dev/
+Comments URL: https://news.ycombinator.com/item?id=49426877
+Points: 6
+# Comments: 1
+- `Hacker News` [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+> Article URL: https://developer.apple.com/news/?id=1ptvdtcm
+Comments URL: https://news.ycombinator.com/item?id=49426564
+Points: 208
+# Comments: 46
+- `Hacker News` [Moon (2024)](https://ciechanow.ski/moon/)
+> Article URL: https://ciechanow.ski/moon/
+Comments URL: https://news.ycombinator.com/item?id=49426466
+Points: 91
 # Comments: 15
-- `Hacker News` [Death to px, long live ch](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
-> Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/
-Comments URL: https://news.ycombinator.com/item?id=49408889
-Points: 20
+- `Hacker News` [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
+> Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk
+Comments URL: https://news.ycombinator.com/item?id=49425819
+Points: 122
+# Comments: 98
+- `Hacker News` [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
+> Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/
+Comments URL: https://news.ycombinator.com/item?id=49425800
+Points: 50
 # Comments: 10
-- `Hacker News` [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
-> Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes
-Comments URL: https://news.ycombinator.com/item?id=49408858
-Points: 48
-# Comments: 13
-- `Hacker News` [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
-> Article URL: https://securelist.com/android-head-unit-malware/121106/
-Comments URL: https://news.ycombinator.com/item?id=49408550
-Points: 87
-# Comments: 40
-- `Hacker News` [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
-> Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o
-Comments URL: https://news.ycombinator.com/item?id=49407576
-Points: 90
-# Comments: 59
-- `Hacker News` [Iranian hackers shut down UK power plant for 4 days](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
-> Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/
-Comments URL: https://news.ycombinator.com/item?id=49407509
-Points: 56
-# Comments: 34
-- `Hacker News` [I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
-> Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/
-Comments URL: https://news.ycombinator.com/item?id=49407507
-Points: 159
-# Comments: 80
-- `Hacker News` [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
-> Article URL: https://skylens.yantraai.app/
-Comments URL: https://news.ycombinator.com/item?id=49407309
-Points: 36
-# Comments: 17
-- `TechCrunch` [Who’s behind the new ‘stealth model’ Ox Alpha?](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
-> A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.
-- `TechCrunch` [Uber faces fine of nearly $1B over automated driver suspensions](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/)
-> The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.
-- `TechCrunch` [Linkdaze’s smart calendar is built to run a household, not just track a schedule](https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/)
-> Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.
-- `TechCrunch` [TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions](https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/)
-> Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.
-- `TechCrunch` [Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash](https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/)
-> Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.
-- `TechCrunch` [Is it legal to train AI models on copyrighted books? It’s complicated](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/)
-> Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?
-- `TechCrunch` [Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders](https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/)
-> Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.
-- `TechCrunch` [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)
-> In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.
-- `TechCrunch` [Will the DOJ’s investigation into a16z spook other VCs?](https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/)
-> On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.
-- `TechCrunch` [Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and Open...](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)
-> Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.
-- `The Verge` [De-Googled GrapheneOS is coming to Motorola’s foldables next year](https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11)
-> GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, startin...
-- `The Verge` [Humanoid robots smash Usain Bolt’s 100-meter record](https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026)
-> The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Ti...
-- `The Verge` [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
-> It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back it...
-- `The Verge` [We’re All Going to the World’s Fair is an intimate coming-of-age horror film](https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review)
-> Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the ...
-- `The Verge` [Grand Theft Auto VI exists in its own universe](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arr...
-- `The Verge` [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
-> I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together...
-- `The Verge` [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)
-> W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of c...
-- `The Verge` [Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv)
-> Citing "significant increases in memory and storage component costs," Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest...
-- `The Verge` [An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook ...](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review)
-> Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparativel...
-- `The Verge` [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2)
-> Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at...
+- `Hacker News` [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
+> Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o
+Comments URL: https://news.ycombinator.com/item?id=49424606
+Points: 387
+# Comments: 281
+- `Hacker News` [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
+> Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
+Comments URL: https://news.ycombinator.com/item?id=49424387
+Points: 89
+# Comments: 50
+- `Hacker News` [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
+> Article URL: https://textlog.cc/post/2059
+Comments URL: https://news.ycombinator.com/item?id=49424167
+Points: 49
+# Comments: 22
+- `Hacker News` [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
+> Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/
+Comments URL: https://news.ycombinator.com/item?id=49424082
+Points: 94
+# Comments: 104
+- `TechCrunch` [Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/)
+> The AI hedge fund went from "the talk of Wall Street" to "subject of federal subpoenas" faster than you can say "diversify your portfolio."
+- `TechCrunch` [Oura is reportedly eyeing a September IPO that could value it at more than $16B](https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/)
+> We all knew it was coming. The expected valuation may surprise, though.
+- `TechCrunch` [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
+> The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.
+- `TechCrunch` [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)
+> Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.
+- `TechCrunch` [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
+> Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.
+- `TechCrunch` [Alabama launches investigation into OpenAI’s hack of Hugging Face](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/)
+> Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.
+- `TechCrunch` [Amazon hikes hardware prices by 60%, blaming memory shortage](https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/)
+> As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.
+- `TechCrunch` [Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)
+> At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.
+- `TechCrunch` [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
+> Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.
+- `TechCrunch` [Instinct’s powerful AI assistant is raising privacy and security concerns](https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/)
+> Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.
+- `The Verge` [Lenovo confirms Legion Go issues after gamers report bricked devices](https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked)
+> When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing gia...
+- `The Verge` [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
+> The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's ...
+- `The Verge` [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)
+> The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 "partnership" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redf...
+- `The Verge` [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)
+> Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis ...
+- `The Verge` [The Witcher 4 developers target a 2028 release](https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom)
+> CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years...
+- `The Verge` [ESPN streaming plans are getting more expensive](https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase)
+> ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its a...
+- `The Verge` [Raspberry Pi shares its official tutorial for making a cyberdeck](https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases)
+> Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying "we haven't been able to get away from cyberdecks this year." Tiny portable computers made out of thi...
+- `The Verge` [Apple’s four-pack of second-gen AirTags is $20 off](https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale)
+> Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, bu...
+- `The Verge` [How GoFundMe became America’s backup plan](https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses)
+> Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses ...
+- `The Verge` [Netflix reportedly considers opening its app to other streamers](https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one)
+> Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around b...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
