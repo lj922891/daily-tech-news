@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-25
+# 📰 每日科技日报 — 2026-08-26
 
-> 自动收集于 2026-08-25 12:20 | 共 40 条
+> 自动收集于 2026-08-26 01:42 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：Apple 发布新款 Mac mini 和 Mac Studio 等](https://sspai.com/post/113847)
+> 索尼正式发布 Xperia 10 VIII 手机，Apple 钱包上线郑州绿城通交通卡等。查看全文
 - `少数派` [社区速递 155 | 适马千元人像神头与七月派友剁手清单](https://sspai.com/post/113828)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [台湾打工换宿｜用人与人的喜好串起淡水的地图](https://sspai.com/post/113673)
@@ -28,101 +30,91 @@
 > 有些 app 总是太吵，有些又总嫌声音不够大；既然 iOS 还没有提供真正的应用独立音量，不妨用快捷指令让 iPhone 自动记住每个 app 该有多大声。查看全文
 - `少数派` [派早报：九家车企召回近 430 万辆不易识别应急拉手汽车](https://sspai.com/post/113767)
 > 九家车企召回近 430 万辆不易识别应急拉手汽车英伟达达成 70 亿美元合作，研发顶级开放权重模型高院发布著作权新司法解释，网络转载不允许先转后付买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘国际加紧制定统一月球时间个人消费贷贴息政策扩展覆盖买车、装修等看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本](https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard)
-> 手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly)
-> Article URL: https://github.com/PlummersSoftwareLLC/HelloAssembly
-Comments URL: https://news.ycombinator.com/item?id=49432227
-Points: 3
+- `Hacker News` [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
+> Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables
+Comments URL: https://news.ycombinator.com/item?id=49442589
+Points: 5
 # Comments: 1
-- `Hacker News` [Credit Card Rewards Became a $9.2B Wealth Transfer](https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer)
-> Article URL: https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer
-Comments URL: https://news.ycombinator.com/item?id=49432201
-Points: 59
-...
-- `Hacker News` [Quantum battery upends the rules of charging](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets)
-> Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets
-Comments URL: https://news.ycombinator.com/item?id=49431560
-Points: 37
-# Comments: 30
-- `Hacker News` [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
-> Article URL: https://www.bbc.com/news/articles/c4g36yze692o
-Comments URL: https://news.ycombinator.com/item?id=49431364
-Points: 150
-# Comments: 261
-- `Hacker News` [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
-> Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents
-Comments URL: https://news.ycombinator.com/item?id=49428882
-Points: 83
-# Comments: 33
-- `Hacker News` [SiFive's First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform)
-> Article URL: https://chipsandcheese.com/p/sifives-first-server-platform
-Comments URL: https://news.ycombinator.com/item?id=49428638
-Points: 73
-# Comments: 16
-- `Hacker News` [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
-> Article URL: https://paulgraham.com/prepare.html
-Comments URL: https://news.ycombinator.com/item?id=49428121
-Points: 161
-# Comments: 185
-- `Hacker News` [Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
-> Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/
-Comments URL: https://news.ycombinator.com/item?id=49428080
-Points: 100
-# Comments: 172
-- `Hacker News` [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
-> Article URL: https://github.com/murerkinn/bookshelf
-Comments URL: https://news.ycombinator.com/item?id=49427001
-Points: 117
-# Comments: 45
-- `Hacker News` [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
-> Article URL: https://developer.apple.com/news/?id=1ptvdtcm
-Comments URL: https://news.ycombinator.com/item?id=49426564
-Points: 505
-# Comments: 152
-- `TechCrunch` [Fitbit founders launch Luffu Link, an LTE health and safety band](https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/)
-> Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.
-- `TechCrunch` [‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux](https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/)
-> TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.
-- `TechCrunch` [India’s Airbound bags $37M to take on trucks with rocket-like drones](https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/)
-> Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.
-- `TechCrunch` [Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC](https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/)
-> The AI hedge fund went from "the talk of Wall Street" to "subject of federal subpoenas" faster than you can say "diversify your portfolio."
-- `TechCrunch` [Oura is reportedly eyeing a September IPO that could value it at more than $16B](https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/)
-> We all knew it was coming. The expected valuation may surprise, though.
-- `TechCrunch` [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
-> The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.
-- `TechCrunch` [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)
-> Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.
-- `TechCrunch` [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
-> Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.
-- `TechCrunch` [Alabama launches investigation into OpenAI’s hack of Hugging Face](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/)
-> Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.
-- `TechCrunch` [Amazon hikes hardware prices by 60%, blaming memory shortage](https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/)
-> As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.
-- `The Verge` [Android is getting its own weird dots to cure car sickness](https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure)
-> Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very si...
-- `The Verge` [Lenovo confirms Legion Go issues after gamers report bricked devices](https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked)
-> When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing gia...
-- `The Verge` [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
-> The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's ...
-- `The Verge` [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)
-> The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 "partnership" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redf...
-- `The Verge` [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)
-> Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis ...
-- `The Verge` [The Witcher 4 developers target a 2028 release](https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom)
-> CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years...
-- `The Verge` [ESPN streaming plans are getting more expensive](https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase)
-> ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its a...
-- `The Verge` [Raspberry Pi shares its official tutorial for making a cyberdeck](https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases)
-> Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying "we haven't been able to get away from cyberdecks this year." Tiny portable computers made out of thi...
-- `The Verge` [Apple’s four-pack of second-gen AirTags is $20 off](https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale)
-> Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, bu...
-- `The Verge` [How GoFundMe became America’s backup plan](https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses)
-> Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses ...
+- `Hacker News` [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
+> Article URL: https://github.com/runetes/maiao
+Comments URL: https://news.ycombinator.com/item?id=49441666
+Points: 25
+# Comments: 4
+- `Hacker News` [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)
+> I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately s...
+- `Hacker News` [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
+> Article URL: https://sebsite.pw/w/20260801-pythonconstants.html
+Comments URL: https://news.ycombinator.com/item?id=49441033
+Points: 136
+# Comments: 109
+- `Hacker News` [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
+> Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability
+Comments URL: https://news.ycombinator.com/item?id=49440410
+Points: 56
+# Comments: 29
+- `Hacker News` [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
+> Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html
+Comments URL: https://news.ycombinator.com/item?id=49439499
+Points: 75
+# Comments: 35
+- `Hacker News` [A brief history of federal lift ticket regulation](https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket)
+> Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket
+Comments URL: https://news.ycombinator.com/item?id=49439296
+Points: 26
+# Comments: 0
+- `Hacker News` [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+> Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar
+Comments URL: https://news.ycombinator...
+- `Hacker News` [Dolly Parton has died](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
+> https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d..., https://archive.ph/w4vsEhttps://www.hollywoodreporter.com/music/music...
+- `Hacker News` [Firefox 157 will include JPEG XL by default on all platforms](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
+> Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1
+Comments URL: https://news.ycombinator.com/item?id=49437946
+Points: 275
+# Comments: 69
+- `TechCrunch` [Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)
+> The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
+- `TechCrunch` [OpenAI loses a top data center exec, as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/)
+> Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.
+- `TechCrunch` [X sends cease-and-desist to open source project Nitter over alleged scraping](https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/)
+> X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.
+- `TechCrunch` [Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/)
+> Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have...
+- `TechCrunch` [Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/)
+> The company's new fundraising total now stands at $232 million.
+- `TechCrunch` [SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana](https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/)
+> The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.
+- `TechCrunch` [Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit](https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/)
+> Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!
+- `TechCrunch` [Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass](https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/)
+> If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15...
+- `TechCrunch` [Claude Cowork finally remembers what you told the app in chat](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/)
+> Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.
+- `TechCrunch` [Waymo robotaxis are headed to Munich](https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/)
+> Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.
+- `The Verge` [Garmin’s new Fenix 9 adds brighter screens and smoother map panning](https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch)
+> Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its pre...
+- `The Verge` [Trump is upping the price of Big Tech’s favorite visa](https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration)
+> In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plan...
+- `The Verge` [At just $8, you owe it to yourself to grab Inscryption](https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale)
+> If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, ...
+- `The Verge` [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer)
+> CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastere...
+- `The Verge` [Dreame’s dream of a rocket-powered car is dead](https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down)
+> Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsC...
+- `The Verge` [Take a look at Microsoft’s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories)
+> The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, al...
+- `The Verge` [Bose’s smallest Bluetooth speaker is a great deal at 35 percent off](https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale)
+> Bose may be best known for its QuietComfort headphones, but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Mic...
+- `The Verge` [Gamescom Opening Night Live 2026: The biggest announcements and trailers](https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley)
+> The Geoff Keighley-hosted Opening Night Live event at Gamescom just wrapped up. Arguably the biggest announcement was the closer: a remastered version of The Witcher 3: Wild Hunt from CD Projekt Re...
+- `The Verge` [Instagram’s ‘First Draft’ trims your Reels clips for you](https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels)
+> Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app an...
+- `The Verge` [Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17)
+> With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
