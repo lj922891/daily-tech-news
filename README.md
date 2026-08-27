@@ -4,12 +4,18 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-26
+# 📰 每日科技日报 — 2026-08-27
 
-> 自动收集于 2026-08-26 12:22 | 共 30 条
+> 自动收集于 2026-08-27 08:39 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
+> 不知不觉，我日常使用 Linux 已经有第 6 个年头了。一个词概括，「舒适」。查看全文
+- `少数派` [来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记](https://sspai.com/post/113222)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
+- `少数派` [派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等](https://sspai.com/post/113873)
+> OpenAI 发布 ChatGPT Admin 插件、Commodore 推出《赛博朋克 2077》主题复古电脑等。查看全文
 - `少数派` [开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱](https://sspai.com/post/68227)
 > 学生党到底有哪些专享福利？看这一篇就对了。查看全文
 - `少数派` [装了啥特别篇：少数派编辑部最近都 vibe 了啥？](https://sspai.com/prime/story/zhuanglesha-260826)
@@ -24,55 +30,100 @@
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [台湾打工换宿｜用人与人的喜好串起淡水的地图](https://sspai.com/post/113673)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙](https://sspai.com/post/112442)
-> 你会把它当成一个金融账户，还是一件属于自己人生的收藏品？查看全文
-- `少数派` [派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等](https://sspai.com/post/113813)
-> 少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ...查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/113795)
-> >下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 
 ## 🌍 国际科技
 
-- `TechCrunch` [Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses](https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/)
-> The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.
-- `TechCrunch` [Runable hits $21M to bet AI agents can go from building businesses to growing them](https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/)
-> Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.
-- `TechCrunch` [Ventures Platform goes bigger — and broader — with its second Africa fund](https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/)
-> The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria.
-- `TechCrunch` [India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call](https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/)
-> Ringg has raised $10 million from Peak XV as a part of its Series A extension.
-- `TechCrunch` [Robotics startup Generalist reaches $3B valuation, sources say](https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/)
-> The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.
-- `TechCrunch` [OpenAI loses a top data center exec as stream of high-profile departures continues](https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/)
-> In a statement to TechCrunch about Malone's departure, OpenAI said it had "recently reorganized" its "infrastructure organization to support the scale and pace of our work."
-- `TechCrunch` [X sends cease-and-desist to open source project Nitter over alleged scraping](https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/)
-> X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.
-- `TechCrunch` [Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious](https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/)
-> Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have...
-- `TechCrunch` [Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/)
-> The company's new fundraising total now stands at $232 million.
-- `TechCrunch` [SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana](https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/)
-> The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.
-- `The Verge` [Rockstar finally responds to ‘heartbreaking’ GTA 6 leaks](https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking)
-> Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period "heartbreaking for our team." "It would be an unde...
-- `The Verge` [The second-generation Bose QuietComfort Headphones are good, but don’t stand out](https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review)
-> Bose QuietComfort headphones used to be innovative. Bose's noise-canceling research is the reason the technology is where it is today, and its headphones set the standard. They were the ubiquitous ...
-- `The Verge` [Bill Gates is deeply worried about AI, and he’s no longer staying quiet](https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet)
-> Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means...
-- `The Verge` [Ikea’s Xbox collection includes a giant thumbstick stool](https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool)
-> Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstab...
-- `The Verge` [Garmin’s new Fenix 9 adds brighter screens and smoother map panning](https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch)
-> Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its pre...
-- `The Verge` [Trump is upping the price of Big Tech’s favorite visa](https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration)
-> In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plan...
-- `The Verge` [At just $8, you owe it to yourself to grab Inscryption](https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale)
-> If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, ...
-- `The Verge` [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer)
-> CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastere...
-- `The Verge` [Dreame’s dream of a rocket-powered car is dead](https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down)
-> Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsC...
-- `The Verge` [Take a look at Microsoft’s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories)
-> The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, al...
+- `Hacker News` [Kusama Yayoi has died](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
+> https://archive.ph/axjMFhttps://yayoi-kusama.jp/en/news4518/
+
+Comments URL: https://news.ycombinator.com/item?id=49458709
+Points: 156
+# Comments: 13
+- `Hacker News` [Getting video models to learn better, faster](https://www.linum.ai/field-notes/data-filtering-gen-video)
+> Article URL: https://www.linum.ai/field-notes/data-filtering-gen-video
+Comments URL: https://news.ycombinator.com/item?id=49458502
+Points: 23
+# Comments: 9
+- `Hacker News` [Laion Big Video Dataset](https://projects.laion.ai/bvd/)
+> Article URL: https://projects.laion.ai/bvd/
+Comments URL: https://news.ycombinator.com/item?id=49458478
+Points: 56
+# Comments: 15
+- `Hacker News` [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive)
+> Article URL: https://github.com/SenteLabsAI/OpenExecutive
+Comments URL: https://news.ycombinator.com/item?id=49458418
+Points: 518
+# Comments: 338
+- `Hacker News` [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
+> https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled)https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...
+
+Comments URL: https://news.ycombinator.com/item?id=494581...
+- `Hacker News` [Mechanical Turk shutting down September 30](https://www.mturk.com/)
+> Article URL: https://www.mturk.com/
+Comments URL: https://news.ycombinator.com/item?id=49457545
+Points: 319
+# Comments: 85
+- `Hacker News` [Zohran and the Short Link](https://iamwillwang.com/notes/zohran-and-the-short-link/)
+> Article URL: https://iamwillwang.com/notes/zohran-and-the-short-link/
+Comments URL: https://news.ycombinator.com/item?id=49457512
+Points: 185
+# Comments: 65
+- `Hacker News` [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
+> Article URL: https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html
+Comments URL: https://news.ycombinator.com/item?id=49456929
+Points: 157
+# Comments: 71
+- `Hacker News` [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/)
+> Article URL: https://asahilinux.org/2026/08/progress-report-7-2/
+Comments URL: https://news.ycombinator.com/item?id=49456851
+Points: 251
+# Comments: 79
+- `Hacker News` [Stripe acquires Clerky](https://www.clerky.com/blog/clerky-is-joining-stripe)
+> https://twitter.com/darbyw/status/2092718828405096955
+
+Comments URL: https://news.ycombinator.com/item?id=49455956
+Points: 163
+# Comments: 26
+- `TechCrunch` [Nvidia closes in on Hugging Face acquisition](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/)
+> Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.
+- `TechCrunch` [Viral AI startup Instinct has raised $350M at a $2.5B valuation](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
+> The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.
+- `TechCrunch` [Amazon just tripled its order of Nvidia chips over ‘surging demand’](https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/)
+> Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.
+- `TechCrunch` [Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well](https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/)
+> The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.
+- `TechCrunch` [Anthropic continues compute-gobbling streak in $45B deal with Nscale](https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/)
+> The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.
+- `TechCrunch` [Google’s Gemini has a branding problem, and so does the rest of AI](https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/)
+> Consumer AI apps need to stop making users learn their product architecture.
+- `TechCrunch` [How do we explain OpenAI’s executive exodus?](https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/)
+> Was Greg Brockman the right executive all along?
+- `TechCrunch` [OpenAI releases its official report on the Hugging Face breach](https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/)
+> The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.
+- `TechCrunch` [Flipboard acquires Graze, the feed builder working to monetize the open social web](https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/)
+> Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.
+- `TechCrunch` [Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its...](https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/)
+> The company won't say if medical devices are affected or if any customer data was exfiltrated.
+- `The Verge` [Nvidia is about to be a hundred-billion-dollar-a-quarter company](https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue)
+> Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabe...
+- `The Verge` [OpenAI’s rogue AI model incident was worse than we thought](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr)
+> In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret "message board," and...
+- `The Verge` [All the ways Instagram and Facebook are changing for teens](https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes)
+> Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Ins...
+- `The Verge` [Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards](https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale)
+> If you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash. Amazon is offering an extra $150 off the Pixel 11, Pixel 11 Pro, and Pixel 11 Pro X...
+- `The Verge` [Being a mom is hard — the heat is making it harder](https://www.theverge.com/news/985225/heat-stress-children-climate-change-study)
+> It's 8:52 AM and 86 degrees Fahrenheit (30 Celsius) where I live in Southern California. My husband just came back from a morning outing with our four-month-old. "How was the botanic garden?" I ask...
+- `The Verge` [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa)
+> This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That’s next Tuesday! The company gave plenty of notice, but the time has finally come. Th...
+- `The Verge` [Apple Maps has ads now](https://www.theverge.com/tech/985249/apple-maps-iphone-ads)
+> Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the "suggeste...
+- `The Verge` [Google’s new AI transcription edits out your ‘ums’ and ‘ahs’](https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai)
+> Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini fa...
+- `The Verge` [Apple announces September iPhone launch event](https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date)
+> Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a "Surprise and shine" tagline, were sent out on Wednesday. The event will take place at the St...
+- `The Verge` [Volvo’s cars will warn one another about hazards in the road](https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist)
+> Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
