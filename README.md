@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-08-27
 
-> 自动收集于 2026-08-27 08:39 | 共 40 条
+> 自动收集于 2026-08-27 21:21 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [新玩意 250｜少数派的编辑们最近买了啥？](https://sspai.com/post/113905)
+> 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ...查看全文
 - `少数派` [日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
 > 不知不觉，我日常使用 Linux 已经有第 6 个年头了。一个词概括，「舒适」。查看全文
 - `少数派` [来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记](https://sspai.com/post/113222)
@@ -28,102 +30,93 @@
 > 索尼正式发布 Xperia 10 VIII 手机，Apple 钱包上线郑州绿城通交通卡等。查看全文
 - `少数派` [社区速递 155 | 适马千元人像神头与七月派友剁手清单](https://sspai.com/post/113828)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [台湾打工换宿｜用人与人的喜好串起淡水的地图](https://sspai.com/post/113673)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Kusama Yayoi has died](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
-> https://archive.ph/axjMFhttps://yayoi-kusama.jp/en/news4518/
-
-Comments URL: https://news.ycombinator.com/item?id=49458709
-Points: 156
-# Comments: 13
-- `Hacker News` [Getting video models to learn better, faster](https://www.linum.ai/field-notes/data-filtering-gen-video)
-> Article URL: https://www.linum.ai/field-notes/data-filtering-gen-video
-Comments URL: https://news.ycombinator.com/item?id=49458502
-Points: 23
-# Comments: 9
-- `Hacker News` [Laion Big Video Dataset](https://projects.laion.ai/bvd/)
-> Article URL: https://projects.laion.ai/bvd/
-Comments URL: https://news.ycombinator.com/item?id=49458478
-Points: 56
-# Comments: 15
-- `Hacker News` [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive)
-> Article URL: https://github.com/SenteLabsAI/OpenExecutive
-Comments URL: https://news.ycombinator.com/item?id=49458418
-Points: 518
-# Comments: 338
-- `Hacker News` [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
-> https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled)https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...
-
-Comments URL: https://news.ycombinator.com/item?id=494581...
-- `Hacker News` [Mechanical Turk shutting down September 30](https://www.mturk.com/)
-> Article URL: https://www.mturk.com/
-Comments URL: https://news.ycombinator.com/item?id=49457545
-Points: 319
-# Comments: 85
-- `Hacker News` [Zohran and the Short Link](https://iamwillwang.com/notes/zohran-and-the-short-link/)
-> Article URL: https://iamwillwang.com/notes/zohran-and-the-short-link/
-Comments URL: https://news.ycombinator.com/item?id=49457512
-Points: 185
-# Comments: 65
-- `Hacker News` [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
-> Article URL: https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html
-Comments URL: https://news.ycombinator.com/item?id=49456929
-Points: 157
-# Comments: 71
-- `Hacker News` [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/)
-> Article URL: https://asahilinux.org/2026/08/progress-report-7-2/
-Comments URL: https://news.ycombinator.com/item?id=49456851
-Points: 251
-# Comments: 79
-- `Hacker News` [Stripe acquires Clerky](https://www.clerky.com/blog/clerky-is-joining-stripe)
-> https://twitter.com/darbyw/status/2092718828405096955
-
-Comments URL: https://news.ycombinator.com/item?id=49455956
-Points: 163
-# Comments: 26
-- `TechCrunch` [Nvidia closes in on Hugging Face acquisition](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/)
-> Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.
-- `TechCrunch` [Viral AI startup Instinct has raised $350M at a $2.5B valuation](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/)
-> The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.
-- `TechCrunch` [Amazon just tripled its order of Nvidia chips over ‘surging demand’](https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/)
-> Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.
-- `TechCrunch` [Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well](https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/)
-> The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.
-- `TechCrunch` [Anthropic continues compute-gobbling streak in $45B deal with Nscale](https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/)
-> The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.
-- `TechCrunch` [Google’s Gemini has a branding problem, and so does the rest of AI](https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/)
-> Consumer AI apps need to stop making users learn their product architecture.
-- `TechCrunch` [How do we explain OpenAI’s executive exodus?](https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/)
-> Was Greg Brockman the right executive all along?
-- `TechCrunch` [OpenAI releases its official report on the Hugging Face breach](https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/)
-> The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.
-- `TechCrunch` [Flipboard acquires Graze, the feed builder working to monetize the open social web](https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/)
-> Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.
-- `TechCrunch` [Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its...](https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/)
-> The company won't say if medical devices are affected or if any customer data was exfiltrated.
-- `The Verge` [Nvidia is about to be a hundred-billion-dollar-a-quarter company](https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue)
-> Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabe...
-- `The Verge` [OpenAI’s rogue AI model incident was worse than we thought](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr)
-> In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret "message board," and...
-- `The Verge` [All the ways Instagram and Facebook are changing for teens](https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes)
-> Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Ins...
-- `The Verge` [Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards](https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale)
-> If you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash. Amazon is offering an extra $150 off the Pixel 11, Pixel 11 Pro, and Pixel 11 Pro X...
-- `The Verge` [Being a mom is hard — the heat is making it harder](https://www.theverge.com/news/985225/heat-stress-children-climate-change-study)
-> It's 8:52 AM and 86 degrees Fahrenheit (30 Celsius) where I live in Southern California. My husband just came back from a morning outing with our four-month-old. "How was the botanic garden?" I ask...
-- `The Verge` [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa)
-> This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That’s next Tuesday! The company gave plenty of notice, but the time has finally come. Th...
-- `The Verge` [Apple Maps has ads now](https://www.theverge.com/tech/985249/apple-maps-iphone-ads)
-> Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the "suggeste...
-- `The Verge` [Google’s new AI transcription edits out your ‘ums’ and ‘ahs’](https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai)
-> Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini fa...
-- `The Verge` [Apple announces September iPhone launch event](https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date)
-> Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a "Surprise and shine" tagline, were sent out on Wednesday. The event will take place at the St...
-- `The Verge` [Volvo’s cars will warn one another about hazards in the road](https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist)
-> Volvo is updating three of its electric vehicles with new hazard alerts to warn drivers when there are animals or vulnerable road users ahead. The new connected safety features are based on Volvo's...
+- `Hacker News` [Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform](https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/)
+> Article URL: https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/
+Comments URL: https://new...
+- `Hacker News` [Silicon Valley is in denial in face of widespread backlash](https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers)
+> Article URL: https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers
+Comments URL: https://news.ycombinator.com/item?id=49470380
+Points: 63
+# Comments: 55
+- `Hacker News` [Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
+> Article URL: https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc
+Comments URL: https://news.ycombinator.com/item?id=49469249
+Points: 76
+...
+- `Hacker News` [Autism mutations drive neurodevelopmental pathology](https://www.science.org/doi/10.1126/science.ady4523)
+> Article URL: https://www.science.org/doi/10.1126/science.ady4523
+Comments URL: https://news.ycombinator.com/item?id=49469098
+Points: 58
+# Comments: 60
+- `Hacker News` [Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview)
+> Article URL: https://www.anthropic.com/news/model-hardware-standard-research-preview
+Comments URL: https://news.ycombinator.com/item?id=49468834
+Points: 42
+# Comments: 21
+- `Hacker News` [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/)
+> Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
+Comments URL: https://news.ycombinator.com/item?id=49468818
+Points: 39
+# Comments: 10
+- `Hacker News` [Show HN: Voronoi Go](https://voronoigo.com/)
+> I posted once before but wanted to share again because a lot has changed. There's now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The comb...
+- `Hacker News` [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
+> Article URL: https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290
+Comments URL: https://news.ycombinator.com/item?id=49468642
+Points: 102
+# Comments: 74
+- `Hacker News` [M5Stack Launches PaperMono](https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects)
+> Article URL: https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects
+Comments URL: https://news.ycombinator.com/item?id=49468593
+P...
+- `Hacker News` [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+> Article URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+Comments URL: https://news.ycombinator.com/item?id=49468083
+Points: 318
+# Comments: 90
+- `TechCrunch` [Rivian’s CFO is leaving the company](https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/)
+> Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.
+- `TechCrunch` [Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral](https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/)
+> Sometimes people just want to post to their followers, Bluesky says.
+- `TechCrunch` [Buried in Meta’s $18B settlement is a legal pass on kids’ data](https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/)
+> Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.
+- `TechCrunch` [YouTube now lets creators tag Amazon products and earn commissions from purchases](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/)
+> The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.
+- `TechCrunch` [Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)
+> Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.
+- `TechCrunch` [ATF declares ‘major incident’ as ransomware gang claims hack](https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/)
+> The ATF is the latest federal government agency in recent years to notify Congress of a "major incident" involving its cybersecurity.
+- `TechCrunch` [OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI](https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/)
+> Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation...
+- `TechCrunch` [Google’s new Fitbit Air brings Pokémon Sleep to your wrist](https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/)
+> Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.
+- `TechCrunch` [Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup](https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/)
+> Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.
+- `TechCrunch` [Hoomanely’s building a smart feeding bowl and an AI platform to help owners spot when their pup i...](https://techcrunch.com/2026/08/27/hoomanelys-building-a-smart-feeding-bowl-and-an-ai-platform-to-help-owners-spot-when-their-pup-is-sick/)
+> Hoomanely has developed a smart bowl to measure and record dogs' feeding data, then tells owners if behaviors change.
+- `The Verge` [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
+> It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back it...
+- `The Verge` [GTA VI looks just as great as we could hope for](https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look)
+> Netflix and Rockstar Games finally debuted their "extended look" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting...
+- `The Verge` [Google’s AI note-taking app now allows you to interact with books](https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books)
+> Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new "Expert Intelligence" feature allows you to bring titles from Google Play Books direc...
+- `The Verge` [Google tells Android app developers to cool it on memory use, or else](https://www.theverge.com/tech/985679/google-play-android-17-memory-limit)
+> Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enfor...
+- `The Verge` [Speedo’s new smart goggles module can track all four swim strokes](https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module)
+> Speedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. Th...
+- `The Verge` [Jensen Huang says Nvidia achieved AGI, again — not that it matters](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi)
+> On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had "achieved AGI," one of the tech industry's ultimate goals some of its biggest players have spent years chasi...
+- `The Verge` [Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs](https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv)
+> After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bra...
+- `The Verge` [Americans are cheering for vigilantes who take down Flock cameras](https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes)
+> Americans have declared war on Flock cameras. They've protested them, damaged them, and destroyed them. This is only the beginning. The spontaneous and decentralized nature of the vigilante protest...
+- `The Verge` [Google launches Pokémon Sleep special-edition Fitbit Air](https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep)
+> The latest special-edition of Google's Fitbit Air is inspired by the Pokémon Sleep game, with a "Sleepy Blue" band emblazoned with a snoozing Pikachu. It's not exactly Snorlax blue, but matche...
+- `The Verge` [In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’](https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk)
+> As Tesla gears up for the official launch of its steering wheel and pedal-less Cybercabs, Waymo is issuing a stark warning about Elon Musk's approach autonomous driving. Srikanth Thirumalai, Waymo'...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
