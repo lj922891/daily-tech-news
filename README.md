@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-08-28
 
-> 自动收集于 2026-08-28 10:52 | 共 40 条
+> 自动收集于 2026-08-28 21:32 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,78 +33,83 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
-> Article URL: https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html
-Comments URL: https://news.ycombinator.com/item?id=49476143
-Points: 57
-# Comments: 8
-- `Hacker News` [Climate change is strengthening El Niño, coral records suggest](https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest)
-> Article URL: https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest
-Comments URL: https://news.ycombinator.com/item?id=49475404
-Points: 55
-# Comment...
-- `Hacker News` [Show HN: FnScribe – Open-source, offline dictation for macOS](https://github.com/AlgorithmicResearchGroup/fnscribe)
-> Article URL: https://github.com/AlgorithmicResearchGroup/fnscribe
-Comments URL: https://news.ycombinator.com/item?id=49475159
-Points: 9
+- `Hacker News` [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
+> Article URL: https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/
+Comments URL: https://news.ycombinator.com/item?id=49483816
+Points: 26
+# Comments: 12
+- `Hacker News` [Isitdoneyet.gg is a website I made to figure out if games are complete](https://isitdoneyet.gg/)
+> Article URL: https://isitdoneyet.gg/
+Comments URL: https://news.ycombinator.com/item?id=49483187
+Points: 25
+# Comments: 36
+- `Hacker News` [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)
+> Article URL: https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/
+Comments URL: https://news.ycombinator.com/item?id=49483182
+Points: 120
+# Comments: 83
+- `Hacker News` [Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai)
+> Article URL: https://github.com/sseshachala/conductai
+Comments URL: https://news.ycombinator.com/item?id=49483173
+Points: 16
+# Comments: 1
+- `Hacker News` [Show HN: Sesame - a local-first, open-source password manager](https://usesesame.app/)
+> I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don't need an account to create or use a vault, and the hosted service never receives the ...
+- `Hacker News` [The Analytical AI Handbook](https://handbook.sutro.sh)
+> Article URL: https://handbook.sutro.sh
+Comments URL: https://news.ycombinator.com/item?id=49482925
+Points: 36
 # Comments: 2
-- `Hacker News` [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
-> Article URL: https://modal.cx/blog/announcing-flatpak-sta/
-Comments URL: https://news.ycombinator.com/item?id=49474786
-Points: 138
-# Comments: 77
-- `Hacker News` [GoGoGrandparent (YC S16) is hiring back end engineers](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
-> Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer
-Comments URL: https://news.ycombinator.com/item?id=49474060
+- `Hacker News` [Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment](https://arxiv.org/abs/2608.23691)
+> Article URL: https://arxiv.org/abs/2608.23691
+Comments URL: https://news.ycombinator.com/item?id=49481455
+Points: 56
+# Comments: 8
+- `Hacker News` [Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering)
+> Article URL: https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering
+Comments URL: https://news.ycombinator.com/item?id=49481423
 Points: 0
 # Comments: 0
-- `Hacker News` [Bootstrappable Builds: How and Why](https://lwn.net/Articles/1088279/)
-> Article URL: https://lwn.net/Articles/1088279/
-Comments URL: https://news.ycombinator.com/item?id=49473868
-Points: 41
-# Comments: 27
-- `Hacker News` [Stripe said to abandon $50B pursuit of PayPal](https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal)
-> https://archive.ph/qdE54
-
-Comments URL: https://news.ycombinator.com/item?id=49473483
-Points: 151
-# Comments: 199
-- `Hacker News` [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement)
-> Article URL: https://www.terminal-bench-science.ai/announcement
-Comments URL: https://news.ycombinator.com/item?id=49472820
-Points: 93
-# Comments: 27
-- `Hacker News` [Select * from Internet.blogposts](https://pfrazee.leaflet.pub/3mu3p2smmis22)
-> Article URL: https://pfrazee.leaflet.pub/3mu3p2smmis22
-Comments URL: https://news.ycombinator.com/item?id=49472161
-Points: 93
-# Comments: 40
-- `Hacker News` [Doctors are finally learning to manage antidepressant withdrawal](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/)
-> https://web.archive.org/web/20260826205502/https://www.newsc...https://archive.ph/zahjc
-
-Comments URL: https://news.ycombinator.com/item?id=49472090
-Points: 138
-# Comments: 125
-- `TechCrunch` [As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space](https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/)
-> Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.
-- `TechCrunch` [AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10](https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/)
-> A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports...
-- `TechCrunch` [Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/)
-> At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.
-- `TechCrunch` [Rivian’s CFO is leaving the company](https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/)
-> Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.
-- `TechCrunch` [Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral](https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/)
-> Sometimes people just want to post to their followers, Bluesky says.
-- `TechCrunch` [Buried in Meta’s $18B settlement is a legal pass on kids’ data](https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/)
-> Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.
-- `TechCrunch` [YouTube now lets creators tag Amazon products and earn commissions from purchases](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/)
-> The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.
-- `TechCrunch` [Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google](https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/)
-> Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.
-- `TechCrunch` [ATF declares ‘major incident’ as ransomware gang claims hack](https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/)
-> The ATF is the latest federal government agency in recent years to notify Congress of a "major incident" involving its cybersecurity.
-- `TechCrunch` [OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI](https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/)
-> Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation...
+- `Hacker News` [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
+> Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit
+Comments URL: https://news.ycombinator.com/item?id=49480466
+Points: 180
+# Comments: 60
+- `Hacker News` [EasyEffects can massively improve laptop speaker sound quality](https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/)
+> Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/
+Comments URL: http...
+- `TechCrunch` [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)
+> Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.
+- `TechCrunch` [An Anthropic researcher just gave us a peek at self-improving AI](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/)
+> Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.
+- `TechCrunch` [Brave’s browser one-ups Chrome with its new support for email aliases](https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/)
+> The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.
+- `TechCrunch` [Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/)
+> There's a lot of capital pouring into the business of giving models away.
+- `TechCrunch` [How Sweden built one of Europe’s hottest startup ecosystems](https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/)
+> Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.
+- `TechCrunch` [More Americans oppose police license plate cameras than support them: survey](https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/)
+> The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.
+- `TechCrunch` [Friend-focused photo-sharing app Retro snags $21M](https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/)
+> Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.
+- `TechCrunch` [Apple TV is raising its subscription prices again](https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/)
+> Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.
+- `TechCrunch` [a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’](https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/)
+> The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.
+- `TechCrunch` [Anthropic gets its first court win over the Pentagon’s supply-chain risk label](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/)
+> A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.
+- `The Verge` [Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate](https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale)
+> Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, al...
+- `The Verge` [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)
+> Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those ce...
+- `The Verge` [DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai)
+> Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build o...
+- `The Verge` [The iPhone Fold could make concerts even worse](https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast)
+> You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we...
+- `The Verge` [Apple TV now costs $14.99 a month after its fourth price hike in four years](https://www.theverge.com/tech/986130/apple-tv-plus-price-hike)
+> Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription ...
+- `The Verge` [Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2](https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv)
+> Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time...
 - `The Verge` [Anthropic was illegally blacklisted by the Trump administration, court rules](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling)
 > On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump...
 - `The Verge` [The GTA VI ‘extended look’ is now streaming on YouTube](https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream)
@@ -113,18 +118,6 @@ Points: 138
 > I think I know why Rockstar Games debuted its "extended look" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 2...
 - `The Verge` [Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign](https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign)
 > Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality,...
-- `The Verge` [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
-> It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back it...
-- `The Verge` [GTA VI looks just as great as we could hope for](https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look)
-> Netflix and Rockstar Games finally debuted their "extended look" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting...
-- `The Verge` [Google’s AI note-taking app now allows you to interact with books](https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books)
-> Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new "Expert Intelligence" feature allows you to bring titles from Google Play Books direc...
-- `The Verge` [Google tells Android app developers to cool it on memory use, or else](https://www.theverge.com/tech/985679/google-play-android-17-memory-limit)
-> Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enfor...
-- `The Verge` [Speedo’s new smart goggles module can track all four swim strokes](https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module)
-> Speedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. Th...
-- `The Verge` [Jensen Huang says Nvidia achieved AGI, again — not that it matters](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi)
-> On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had "achieved AGI," one of the tech industry's ultimate goals some of its biggest players have spent years chasi...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
