@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-08-29
 
-> 自动收集于 2026-08-29 06:39 | 共 40 条
+> 自动收集于 2026-08-29 15:48 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,51 +33,60 @@
 
 ## 🌍 国际科技
 
+- `Hacker News` [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)
+> Article URL: https://uecker.codeberg.page/2026-08-29.html
+Comments URL: https://news.ycombinator.com/item?id=49490138
+Points: 18
+# Comments: 2
+- `Hacker News` [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/)
+> Article URL: https://lwn.net/Articles/1091231/
+Comments URL: https://news.ycombinator.com/item?id=49489982
+Points: 189
+# Comments: 129
+- `Hacker News` [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
+> Article URL: https://www.bbc.com/news/articles/cn45vdxyvvlo
+Comments URL: https://news.ycombinator.com/item?id=49489057
+Points: 252
+# Comments: 296
+- `Hacker News` [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
+> Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing
+Comments URL: https://news.ycombinator.com/item?id=49487341
+Points: 180
+# Comments: 62
 - `Hacker News` [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
 > Article URL: https://github.com/kingroryg/turbokv
 Comments URL: https://news.ycombinator.com/item?id=49486334
-Points: 62
-# Comments: 22
-- `Hacker News` [Kumander Linux – A Linux Distro with a Windows 7 Desktop](https://www.kumander.org/)
-> Article URL: https://www.kumander.org/
-Comments URL: https://news.ycombinator.com/item?id=49486176
-Points: 34
-# Comments: 11
+Points: 147
+# Comments: 70
 - `Hacker News` [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
 > Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
 Comments URL: https://news.ycombinator.com/item?id=49486172
-Points: 349
-# Comments: 143
+Points: 680
+# Comments: 404
 - `Hacker News` [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
 > Article URL: https://github.com/stemdeckapp/stemdeck
 Comments URL: https://news.ycombinator.com/item?id=49486081
-Points: 64
-# Comments: 13
+Points: 162
+# Comments: 45
 - `Hacker News` [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
 > Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/
 Comments URL: https://news.ycombinator.com/item?id=49485532
-Points: 77
-# Comments: 30
-- `Hacker News` [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
-> Article URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/
-Comments URL: https://news.ycombinator.com/item?id=494...
+Points: 120
+# Comments: 70
 - `Hacker News` [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
 > Article URL: https://pwning.systems/posts/llm-memory-program-analysis/
 Comments URL: https://news.ycombinator.com/item?id=49485416
-Points: 94
-# Comments: 16
+Points: 215
+# Comments: 64
 - `Hacker News` [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
 > Article URL: https://github.com/Lakr233/vphone-cli
 Comments URL: https://news.ycombinator.com/item?id=49485267
-Points: 207
-# Comments: 66
-- `Hacker News` [Identifying fake cosmetics using AI](https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html)
-> Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html
-Comments URL: https://news.ycombinator.com/item?id=49484925
-Points: 46
-# Comments: 19
-- `Hacker News` [Show HN: Sesame - a local-first, open-source password manager](https://usesesame.app/)
-> I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don't need an account to create or use a vault, and the hosted service never receives the ...
+Points: 341
+# Comments: 87
+- `TechCrunch` [The Theragun Sense makes everyday recovery surprisingly easy](https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/)
+> As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always ...
+- `TechCrunch` [Nvidia’s AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
+> The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.
 - `TechCrunch` [Chinese automakers are following Tesla’s bet that robots are the next big profit machine](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/)
 > Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.
 - `TechCrunch` [Is the best way to watch a movie on a pair of sunglasses?](https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/)
@@ -94,10 +103,12 @@ Points: 46
 > Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.
 - `TechCrunch` [More Americans oppose police license plate cameras than support them: survey](https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/)
 > The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.
-- `TechCrunch` [Friend-focused photo-sharing app Retro snags $21M](https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/)
-> Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.
-- `TechCrunch` [Apple TV is raising its subscription prices again](https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/)
-> Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.
+- `The Verge` [Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango](https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango)
+> Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, whic...
+- `The Verge` [The Galaxy Z Flip 8 is at its best when there’s friction](https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review)
+> What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for th...
+- `The Verge` [Musicians-turned-detectives are hunting for AI grifters](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai)
+> As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically der...
 - `The Verge` [Google further buries search results under AI mode](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)
 > Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typ...
 - `The Verge` [Xbox CEO calls Project Helix a ‘family of devices’](https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices)
@@ -112,12 +123,6 @@ Points: 46
 > You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we...
 - `The Verge` [Apple TV now costs $14.99 a month after its fourth price hike in four years](https://www.theverge.com/tech/986130/apple-tv-plus-price-hike)
 > Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription ...
-- `The Verge` [Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2](https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv)
-> Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time...
-- `The Verge` [Anthropic was illegally blacklisted by the Trump administration, court rules](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling)
-> On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump...
-- `The Verge` [The GTA VI ‘extended look’ is now streaming on YouTube](https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream)
-> Rockstar has officially published its "extended look" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which "entirely" features footage captured from the PS...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
