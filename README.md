@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-29
+# 📰 每日科技日报 — 2026-08-30
 
-> 自动收集于 2026-08-29 15:48 | 共 40 条
+> 自动收集于 2026-08-30 04:52 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,56 +33,61 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)
-> Article URL: https://uecker.codeberg.page/2026-08-29.html
-Comments URL: https://news.ycombinator.com/item?id=49490138
-Points: 18
-# Comments: 2
-- `Hacker News` [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/)
-> Article URL: https://lwn.net/Articles/1091231/
-Comments URL: https://news.ycombinator.com/item?id=49489982
-Points: 189
-# Comments: 129
-- `Hacker News` [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
-> Article URL: https://www.bbc.com/news/articles/cn45vdxyvvlo
-Comments URL: https://news.ycombinator.com/item?id=49489057
-Points: 252
-# Comments: 296
-- `Hacker News` [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
-> Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing
-Comments URL: https://news.ycombinator.com/item?id=49487341
-Points: 180
-# Comments: 62
-- `Hacker News` [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
-> Article URL: https://github.com/kingroryg/turbokv
-Comments URL: https://news.ycombinator.com/item?id=49486334
-Points: 147
-# Comments: 70
-- `Hacker News` [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
-> Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
-Comments URL: https://news.ycombinator.com/item?id=49486172
-Points: 680
-# Comments: 404
-- `Hacker News` [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
-> Article URL: https://github.com/stemdeckapp/stemdeck
-Comments URL: https://news.ycombinator.com/item?id=49486081
-Points: 162
-# Comments: 45
-- `Hacker News` [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
-> Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/
-Comments URL: https://news.ycombinator.com/item?id=49485532
-Points: 120
-# Comments: 70
-- `Hacker News` [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/)
-> Article URL: https://pwning.systems/posts/llm-memory-program-analysis/
-Comments URL: https://news.ycombinator.com/item?id=49485416
-Points: 215
-# Comments: 64
-- `Hacker News` [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
-> Article URL: https://github.com/Lakr233/vphone-cli
-Comments URL: https://news.ycombinator.com/item?id=49485267
-Points: 341
-# Comments: 87
+- `Hacker News` [Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
+> Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws
+Comments URL: https://news.ycombinator.com/item?id=49495127
+Points: ...
+- `Hacker News` [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
+> Article URL: https://freecore.org/
+Comments URL: https://news.ycombinator.com/item?id=49494856
+Points: 53
+# Comments: 31
+- `Hacker News` [Benjamin Franklin's Alter Egos Gave Him the Most Freedom](https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/)
+> Article URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/
+Comments URL: https://news.ycombinator.c...
+- `Hacker News` [Open Oscar Server: open-source server compatible with AIM and ICQ clients](https://github.com/mk6i/open-oscar-server)
+> Article URL: https://github.com/mk6i/open-oscar-server
+Comments URL: https://news.ycombinator.com/item?id=49494571
+Points: 11
+# Comments: 5
+- `Hacker News` [Bug Blindness](https://danluu.com/bug-blind/)
+> Article URL: https://danluu.com/bug-blind/
+Comments URL: https://news.ycombinator.com/item?id=49494520
+Points: 129
+# Comments: 53
+- `Hacker News` [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
+> Article URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/
+Comments URL: https://news.ycombinator.com/item?id=49494182
+Points: 196
+# Comments: 90
+- `Hacker News` [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+> Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/
+Comments URL: https://news.ycombinator.com/item?id=49492632
+Points: 230
+# Comments: 138
+- `Hacker News` [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents)
+> Article URL: https://coldtake.dev/blog/domain-driven-agents
+Comments URL: https://news.ycombinator.com/item?id=49492584
+Points: 69
+# Comments: 12
+- `Hacker News` [Functional State Machines in Rust: Typestate and Newtype Patterns](https://dl.acm.org/doi/10.1145/3830438.3830958)
+> Article URL: https://dl.acm.org/doi/10.1145/3830438.3830958
+Comments URL: https://news.ycombinator.com/item?id=49492368
+Points: 65
+# Comments: 27
+- `Hacker News` [DHS is using obscure law to snoop on journalists, non-profits, unions](https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits)
+> Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits
+Comments URL: https://news.ycombinator.com/item?id=49492219
+Points: 358
+# Comments...
+- `TechCrunch` [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)
+> This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.
+- `TechCrunch` [At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/)
+> Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.
+- `TechCrunch` [“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z](https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/)
+> Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an ...
+- `TechCrunch` [Hollywood celebs are getting into microdrama apps](https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/)
+> Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.
 - `TechCrunch` [The Theragun Sense makes everyday recovery surprisingly easy](https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/)
 > As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always ...
 - `TechCrunch` [Nvidia’s AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
@@ -95,14 +100,14 @@ Points: 341
 > Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.
 - `TechCrunch` [An Anthropic researcher just gave us a peek at self-improving AI](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/)
 > Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.
-- `TechCrunch` [Brave’s browser one-ups Chrome with its new support for email aliases](https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/)
-> The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.
-- `TechCrunch` [Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/)
-> There's a lot of capital pouring into the business of giving models away.
-- `TechCrunch` [How Sweden built one of Europe’s hottest startup ecosystems](https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/)
-> Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.
-- `TechCrunch` [More Americans oppose police license plate cameras than support them: survey](https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/)
-> The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.
+- `The Verge` [Vicariously hike the Appalachian in the gorgeous A Trail Tale](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale)
+> I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and ch...
+- `The Verge` [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice)
+> Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yi...
+- `The Verge` [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)
+> Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for "tens of thousands" copyrighted works. The comp...
+- `The Verge` [Distraction-free writing gadget BYOK is adding custom extensions](https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions)
+> BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there...
 - `The Verge` [Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango](https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango)
 > Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, whic...
 - `The Verge` [The Galaxy Z Flip 8 is at its best when there’s friction](https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review)
@@ -115,14 +120,6 @@ Points: 341
 > According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's "next generation console" - phrasing that seemingly implied a singular device - will act...
 - `The Verge` [Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate](https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale)
 > Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, al...
-- `The Verge` [Trump’s EPA wants to let data centers hide their air pollution](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)
-> Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those ce...
-- `The Verge` [DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything](https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai)
-> Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build o...
-- `The Verge` [The iPhone Fold could make concerts even worse](https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast)
-> You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we...
-- `The Verge` [Apple TV now costs $14.99 a month after its fourth price hike in four years](https://www.theverge.com/tech/986130/apple-tv-plus-price-hike)
-> Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
