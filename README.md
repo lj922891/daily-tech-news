@@ -4,12 +4,17 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-08-30
+# 📰 每日科技日报 — 2026-08-31
 
-> 自动收集于 2026-08-30 15:34 | 共 40 条
+> 自动收集于 2026-08-31 04:56 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [全球仅剩三位数的物种，科学家却连一个准数都数不出来](https://sspai.com/post/113827)
+> 门前大桥下游过勺嘴鹬，快来快来数一数……这究竟怎么数呀？
+查看全文
+- `少数派` [派早报：GTA 6 引发请假玩游戏热潮](https://sspai.com/post/114022)
+> GTA 6 引发请假玩游戏热潮Sam Altman 为 OpenAI 高管定制豪华表海信发布 A10 系列墨水屏手机Pixel 11 削减内存安全特性，GrapheneOS 考虑放弃支持「承重」等 Claude 滥用词在 GitHub 蔓延工信部曝光车企监督检查典型案例看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营](https://sspai.com/post/113974)
 > 我种草佛罗伦萨的理由绝对是世所罕见：因为SEVENTEEN的NanaTour有很大一部分是在佛罗伦萨及其周边拍摄的。从去年夏天看了这个综艺开始，我就一直对这个地方念念不忘，心想夏日的意大利到底是有何种 ...查看全文
 - `少数派` [2026 烟灶选购指南](https://sspai.com/post/112775)
@@ -26,61 +31,64 @@
 > Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。查看全文
 - `少数派` [新玩意 250｜少数派的编辑们最近买了啥？](https://sspai.com/post/113905)
 > 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ...查看全文
-- `少数派` [日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑](https://sspai.com/post/89194)
-> 不知不觉，我日常使用 Linux 已经有第 6 个年头了。一个词概括，「舒适」。查看全文
-- `少数派` [来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记](https://sspai.com/post/113222)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy](https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement)
-> Article URL: https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement
-Comments URL: https://news.ycombinator.com/item?id=49499394
-Points: 11
-# Comments: 1
-- `Hacker News` [Europe's summer drought is so extreme that desertification is a growing threat](https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/)
-> Article URL: https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/
-Comments URL: https://news.ycombinator.com/item?id=49498978
-Points: 37
-# Comments: 24
-- `Hacker News` [No AI Fridays](https://noaifridays.com/)
-> Article URL: https://noaifridays.com/
-Comments URL: https://news.ycombinator.com/item?id=49498095
-Points: 134
-# Comments: 57
-- `Hacker News` [monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter](https://github.com/fugue-labs/monty-go)
-> Article URL: https://github.com/fugue-labs/monty-go
-Comments URL: https://news.ycombinator.com/item?id=49497928
-Points: 26
-# Comments: 3
-- `Hacker News` [Automating Immersive Reading](https://smoores.dev/post/automating_immersive_reading/)
-> Article URL: https://smoores.dev/post/automating_immersive_reading/
-Comments URL: https://news.ycombinator.com/item?id=49497854
-Points: 39
-# Comments: 13
-- `Hacker News` [An implementation of Conway's Game of Life for Windows 3.1x and later](https://www.muppetlabs.com/~breadbox/software/windows.html)
-> Article URL: https://www.muppetlabs.com/~breadbox/software/windows.html
-Comments URL: https://news.ycombinator.com/item?id=49497819
-Points: 31
-# Comments: 4
-- `Hacker News` [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
-> Article URL: https://greenlightning.eu/diy/hacking-ikea-furniture/
-Comments URL: https://news.ycombinator.com/item?id=49497810
-Points: 116
-# Comments: 55
-- `Hacker News` [One Nix flake to rule them all](https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all)
-> Article URL: https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all
-Comments URL: https://news.ycombinator.com/item?id=49497712
-Points: 39
-# Comments: 4
-- `Hacker News` [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
-> Article URL: https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994
-Comments URL: https://news.ycombinator.com/item?id=49497...
-- `Hacker News` [Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
-> Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/
-Comments URL: https://news.ycombinator.com/item?id=49496918
-Points: 133
-# Comments: 53
+- `Hacker News` [The EU has begun enforcing the AI Act: first RFIs to model providers](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis)
+> Article URL: https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis
+Comments URL: https://news.ycombinator.com/item?id=49505351
+Points: 18
+# Comments: 11
+- `Hacker News` [UC Berkeley indefinitely suspends international student work authorizations](https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html)
+> Article URL: https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.ht...
+- `Hacker News` [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
+> Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names
+Comments URL: https://news.ycombinator.com/item?id=49505219
+Points: 18
+# Comments: 10
+- `Hacker News` [SolarWindow launches 0.85 mm-thick, self-adhesive solar film](https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/)
+> Article URL: https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/
+Comments URL: https://news.ycombinator.com/item?id=4...
+- `Hacker News` [CobaltC – The Successor to C?](https://strawberry9.github.io/the-wrong-memory/Appendix_06.html)
+> Article URL: https://strawberry9.github.io/the-wrong-memory/Appendix_06.html
+Comments URL: https://news.ycombinator.com/item?id=49504922
+Points: 12
+# Comments: 17
+- `Hacker News` [Internet centralization and the original sin of NAT](https://dreamstation.systems/personal/ntppost.html)
+> Article URL: https://dreamstation.systems/personal/ntppost.html
+Comments URL: https://news.ycombinator.com/item?id=49504905
+Points: 5
+# Comments: 0
+- `Hacker News` [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)
+> Article URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
+Comments URL: https://news.ycombinator.com/item?id=49504625
+Points: 96
+# Comments: 31
+- `Hacker News` [How to build a diffusion language model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/)
+> Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/
+Comments URL: https://news.ycombinator.com/item?id=49503956
+Points: 33
+# Comments: 2
+- `Hacker News` [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox)
+> Article URL: https://www.abortretry.fail/p/matrox
+Comments URL: https://news.ycombinator.com/item?id=49503934
+Points: 56
+# Comments: 12
+- `Hacker News` [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+> Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/
+Comments URL: https://news.ycombinator.com/item?id=49503601
+Points: 450
+# Comments: 110
+- `TechCrunch` [The U.S. is building barriers around drones and robots, but China has scale to get around them](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/)
+> The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.
+- `TechCrunch` [Grindr wants to be the everything app for gay men; investors are still deciding whether it can pu...](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/)
+> George Arison is done letting Wall Street's "Grindr discount" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on health...
+- `TechCrunch` [Liux’s Big microcar bets on sustainability to take on Chinese rivals](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/)
+> The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.
+- `TechCrunch` [Musk’s faster path to more gas turbines comes with pollution problem](https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/)
+> Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already tr...
+- `TechCrunch` [TechCrunch Mobility: The hidden human cost of robotaxis](https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 - `TechCrunch` [Caterpillar is bringing to AI deployment what it learned from automating mining](https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/)
 > Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.
 - `TechCrunch` [Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft](https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/)
@@ -91,16 +99,14 @@ Points: 133
 > Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a "discovery" science to an ...
 - `TechCrunch` [Hollywood celebs are getting into microdrama apps](https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/)
 > Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.
-- `TechCrunch` [The Theragun Sense makes everyday recovery surprisingly easy](https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/)
-> As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always ...
-- `TechCrunch` [Nvidia’s AI advantage is moving beyond the GPU](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
-> The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.
-- `TechCrunch` [Chinese automakers are following Tesla’s bet that robots are the next big profit machine](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/)
-> Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.
-- `TechCrunch` [Is the best way to watch a movie on a pair of sunglasses?](https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/)
-> Are XREAL's smart glasses the way of the future for home entertainment?
-- `TechCrunch` [Neocloud Lambda secures $1B in debt to buy more chips](https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/)
-> Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.
+- `The Verge` [Professor Murder Rides the Subway is a forgotten slice of dance punk perfection](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review)
+> I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. Ther...
+- `The Verge` [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)
+> Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But pe...
+- `The Verge` [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)
+> After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second ...
+- `The Verge` [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras)
+> As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation th...
 - `The Verge` [Chess.com launched a poker site and is planning even more classic games](https://www.theverge.com/games/986302/chess-poker-expansion-gambit)
 > Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in ...
 - `The Verge` [China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)
@@ -113,14 +119,6 @@ Points: 133
 > Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yi...
 - `The Verge` [Sony Music Publishing and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)
 > Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for "tens of thousands" copyrighted work...
-- `The Verge` [Distraction-free writing gadget BYOK is adding custom extensions](https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions)
-> BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there...
-- `The Verge` [Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango](https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango)
-> Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, whic...
-- `The Verge` [The Galaxy Z Flip 8 is at its best when there’s friction](https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review)
-> What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for th...
-- `The Verge` [Musicians-turned-detectives are hunting for AI grifters](https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai)
-> As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically der...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
