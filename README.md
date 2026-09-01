@@ -6,10 +6,16 @@
 
 # 📰 每日科技日报 — 2026-09-01
 
-> 自动收集于 2026-09-01 04:34 | 共 40 条
+> 自动收集于 2026-09-01 15:38 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会](https://sspai.com/post/114071)
+> 北京时间9月10日凌晨，Apple一年一度的秋季特别活动即将拉开帷幕，我们会在Keynote讲演环节中见到新一年度的iPhone、AppleWatch等多个新品。除了备受期待的iPhone18Pro系 ...查看全文
+- `少数派` [开学季｜值得关注的官翻渠道汇总（2026）](https://sspai.com/post/114062)
+> 不管你是大学新生想要购置数码产品，还是即将踏入职场的毕业生租房想要添置小家电，在处于身份和环境转换的新阶段里，都可以试着把钱用在刀刃上、选择性价比更高的产品和销售渠道。查看全文
 - `少数派` [线索若隐若现：深入 Tim Cook 和 Nike 的商业连接](https://sspai.com/post/111081)
 > 一直以来，Apple 和 Nike 之间的商业关系在公众视野里简单明了。但在两者中间，Apple 的前任 CEO Tim Cook 一直扮演着连接者的角色，他和 Nike 之间的关系也因此而显得十分微妙。在本期节目中，我们就来一起深入 Apple、Nike 和 Tim Cook 之间的商业三角关系。查看全文
 - `少数派` [派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等](https://sspai.com/post/114055)
@@ -25,105 +31,100 @@
 - `少数派` [全球仅剩三位数的物种，科学家却连一个准数都数不出来](https://sspai.com/post/113827)
 > 门前大桥下游过勺嘴鹬，快来快来数一数……这究竟怎么数呀？
 查看全文
-- `少数派` [派早报：GTA 6 引发请假玩游戏热潮](https://sspai.com/post/114022)
-> GTA 6 引发请假玩游戏热潮Sam Altman 为 OpenAI 高管定制豪华表海信发布 A10 系列墨水屏手机Pixel 11 削减内存安全特性，GrapheneOS 考虑放弃支持「承重」等 Claude 滥用词在 GitHub 蔓延工信部曝光车企监督检查典型案例看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营](https://sspai.com/post/113974)
-> 我种草佛罗伦萨的理由绝对是世所罕见：因为SEVENTEEN的NanaTour有很大一部分是在佛罗伦萨及其周边拍摄的。从去年夏天看了这个综艺开始，我就一直对这个地方念念不忘，心想夏日的意大利到底是有何种 ...查看全文
-- `少数派` [2026 烟灶选购指南](https://sspai.com/post/112775)
-> 如何在新老国标换代这一年买到合适自己的烟机灶具呢？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Restroom Archive](https://restroomarchive.com)
-> Article URL: https://restroomarchive.com
-Comments URL: https://news.ycombinator.com/item?id=49517624
-Points: 4
-# Comments: 1
-- `Hacker News` [Google Antigravity introduces Boost deep reasoning (/boost)](https://antigravity.google/docs/boost/)
-> Article URL: https://antigravity.google/docs/boost/
-Comments URL: https://news.ycombinator.com/item?id=49517537
-Points: 24
-# Comments: 7
-- `Hacker News` [Fastpotify](https://fastpotify.rocks/)
-> Article URL: https://fastpotify.rocks/
-Comments URL: https://news.ycombinator.com/item?id=49517448
-Points: 30
-# Comments: 5
-- `Hacker News` [Tailcat: Tailscale Without Tailscale, by Tailscale](https://tailscale.com/blog/tailcat)
-> Article URL: https://tailscale.com/blog/tailcat
-Comments URL: https://news.ycombinator.com/item?id=49517420
-Points: 38
+- `Hacker News` [Christian Employers Can Now Discriminate Against Trans People](https://theintercept.com/2026/09/01/christian-employers-settlement-gender-discrimination-eeoc/)
+> Article URL: https://theintercept.com/2026/09/01/christian-employers-settlement-gender-discrimination-eeoc/
+Comments URL: https://news.ycombinator.com/item?id=49523101
+Points: 5
+# Comments: 0
+- `Hacker News` [Ubisoft's FOR HONOR will block SteamOS / Linux players starting September 10](https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/)
+> Article URL: https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/
+Comments URL: https://news.ycombinator.com/item?id=49523033
+Points: 18
+# Comments: 6
+- `Hacker News` [EFF to Governor Newsom: Veto California's AB 1709](https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709)
+> Article URL: https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709
+Comments URL: https://news.ycombinator.com/item?id=49522954
+Points: 23
 # Comments: 3
-- `Hacker News` [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell)
-> Article URL: https://github.com/fregacmols/RotaryCell
-Comments URL: https://news.ycombinator.com/item?id=49517297
-Points: 7
-# Comments: 1
-- `Hacker News` [DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs](https://www.dolthub.com/blog/2026-08-31-doltlite-beta/)
-> Article URL: https://www.dolthub.com/blog/2026-08-31-doltlite-beta/
-Comments URL: https://news.ycombinator.com/item?id=49516848
-Points: 10
-# Comments: 1
-- `Hacker News` [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
-> Article URL: https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/
-Comments URL: https://news.ycombinator.com/item?id=49516699
-Points: 65
-# Comments: 37
-- `Hacker News` [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138)
-> Article URL: https://datacolada.org/138
-Comments URL: https://news.ycombinator.com/item?id=49516199
-Points: 110
-# Comments: 82
-- `Hacker News` [Run macOS Software on Linux](https://www.darlinghq.org/)
-> Article URL: https://www.darlinghq.org/
-Comments URL: https://news.ycombinator.com/item?id=49515830
-Points: 160
-# Comments: 52
-- `Hacker News` [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
-> Article URL: https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide
-Comments URL: https://news.ycombinator.com/item?id=49515662
-Points: 65
-# Comments: 34
+- `Hacker News` [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897)
+> Please state the location and include REMOTE for remote work, REMOTE (US)
+or similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally ar...
+- `Hacker News` [Ask HN: Who wants to be hired? (September 2026)](https://news.ycombinator.com/item?id=49522896)
+> Share your information if you are looking for work. Please use this format:  Location:
+  Remote:
+  Willing to relocate:
+  Technologies:
+  Résumé/CV:
+  Email:
+
+Please only post if you are personally...
+- `Hacker News` [State of Open Models: Summer 2026 Observations](https://huggingface.co/blog/state-of-open-models-summer-2026)
+> Article URL: https://huggingface.co/blog/state-of-open-models-summer-2026
+Comments URL: https://news.ycombinator.com/item?id=49522816
+Points: 8
+# Comments: 0
+- `Hacker News` [Urban Congestion Pricing and the Response Times of Emergency Medical Services](https://www.nber.org/digest/202609/urban-congestion-pricing-and-response-times-emergency-medical-services)
+> Article URL: https://www.nber.org/digest/202609/urban-congestion-pricing-and-response-times-emergency-medical-services
+Comments URL: https://news.ycombinator.com/item?id=49522503
+Points: 26
+# Comme...
+- `Hacker News` [Saab Enters Collaborative Combat Aircraft Race with High-End Concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
+> Article URL: https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept
+Comments URL: https://news.ycombinator.com/item?id=49522374
+Points:...
+- `Hacker News` [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/)
+> Article URL: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/
+Comments URL: https://news.ycombinator.com/item?id=49521973
+Points: 41
+# Comments: 14
+- `Hacker News` [Io_uring Without Readahead](https://frn.sh/io-uring/)
+> Article URL: https://frn.sh/io-uring/
+Comments URL: https://news.ycombinator.com/item?id=49521623
+Points: 45
+# Comments: 3
+- `TechCrunch` [Microsoft 365 outage drags on, but things are improving](https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/)
+> Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.
+- `TechCrunch` [Fambot introduces an ‘AI chief of staff’ for families](https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/)
+> Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.
+- `TechCrunch` [Florida and Texas move to block Flock cameras over privacy concerns](https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/)
+> Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.
+- `TechCrunch` [This startup is fuel-injecting hydrogen to make cargo ships more efficient](https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/)
+> Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.
+- `TechCrunch` [Waymo accelerates robotaxi expansion with launches in Denver, San Diego and Tampa](https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/)
+> Waymo will begin inviting riders on a rolling basis and slowly ramp up access in the three cities, following its usual commercial playbook.
+- `TechCrunch` [Help build the future of startups: Volunteer at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/)
+> TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you.
+- `TechCrunch` [India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation](https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/)
+> "We raised at a peak, but sold at a fraction of that," Unacademy co-founder and CEO Gaurav Munjal wrote. "I'm not going to dress these facts up."
+- `TechCrunch` [If space data centers feel far-fetched, why not interstellar travel?](https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/)
+> The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.
+- `TechCrunch` [Magna increases bet on battery swapping in India with $35M for Yuma](https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/)
+> Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.
 - `TechCrunch` [Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year](https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/)
 > Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.
-- `TechCrunch` [Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/)
-> Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.
-- `TechCrunch` [Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund](https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/)
-> The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.
-- `TechCrunch` [a16z brings growth fund to $8.5B days after launching new $1.1B fund](https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/)
-> Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.
-- `TechCrunch` [A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms](https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/)
-> Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.
-- `TechCrunch` [FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit](https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/)
-> Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.
-- `TechCrunch` [The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)
-> Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.
-- `TechCrunch` [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
-> Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.
-- `TechCrunch` [Instagram puts new limits on undisclosed AI profiles](https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/)
-> As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.
-- `TechCrunch` [Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down](https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/)
-> The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.
-- `The Verge` [The Google TV Streamer now costs $50 more](https://www.theverge.com/tech/987032/google-tv-streamer-price-increase)
-> Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offerin...
-- `The Verge` [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs)
-> JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contras...
-- `The Verge` [FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads](https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit)
-> The FTC and 22 state attorneys general are suing Amazon for allegedly using a "secret ad surcharge" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog ...
-- `The Verge` [I went to the loneliest baseball game on Apple Vision Pro](https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game)
-> This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't ...
-- `The Verge` [Alienware’s budget-friendly QD-OLED is discounted for the first time](https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale)
-> While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break ...
-- `The Verge` [Car owners want tech they can ignore](https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition)
-> Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate t...
-- `The Verge` [Phil Schiller is leaving his biggest jobs at Apple](https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down)
-> Longtime Apple executive Phil Schiller is stepping down from his role as the head of the App Store and Apple events, according to a report from Bloomberg. Following the change, Schiller will keep h...
-- `The Verge` [Markiplier is now GoPro’s biggest shareholder](https://www.theverge.com/tech/986847/markiplier-gopro-investor)
-> YouTuber Mark "Markiplier" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fisch...
-- `The Verge` [Read Tim Cook’s final message to Apple staff as CEO](https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff)
-> Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most do...
-- `The Verge` [Debian won’t ban AI code from its Linux distribution](https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy)
-> Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's "development, maintenance, [and] documentation." The new policy on AI acknowledges that "responsi...
+- `The Verge` [Shelly’s new $50 security camera watches your home without a subscription](https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation)
+> After launching a budget-friendly flood sensor last month with impressive battery life, Shelly announced a new $49.99 security camera today that can be used without any additional subscription fees...
+- `The Verge` [Sonos introduces new headphones, soundbar, and software in its biggest announcement in years](https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement)
+> At an event in New York City, Sonos announced two new audio products - the Sonos Beam Ultra soundbar and Sonos Ace Ultra headphones, details of which were found in an FCC filing in early August - a...
+- `The Verge` [Tim Cook’s legacy isn’t just phones, it’s politics](https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi)
+> As much as any Apple product released during his time as CEO, Tim Cook's tenure will be remembered for its ruthlessly efficient tight-rope walk between an autocrat in China and a would-be autocrat ...
+- `The Verge` [John Ternus takes over as Apple’s new CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook)
+> The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus. How...
+- `The Verge` [Florida blocks Flock cams on state highways](https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways)
+> Florida is banning Flock cameras and other automated license plate readers across state highways, as reported earlier by NBC News and local news outlet WUSF. In a memo on Monday, Florida's Departme...
+- `The Verge` [Get ready for a really busy month of smartphones](https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi)
+> We're not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra. We're expecting more this week, as the IFA trade show kicks off in Berlin, bef...
+- `The Verge` [Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower](https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27)
+> Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a "real-time generative AI filter for video games" and "motion ...
+- `The Verge` [Nvidia’s DLSS 5, explained](https://www.theverge.com/games/986980/nvidias-dlss-5-explained)
+> Nvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this we...
+- `The Verge` [Roku’s first OLED TVs undercut the midrange competition](https://www.theverge.com/tech/987148/roku-oled-tv-announcement)
+> Just a few weeks ago the only midrange OLED options available were from LG and Samsung. But after Sony officially announced the Bravia 6 last week, Roku has now launched its first-ever OLED TV - th...
+- `The Verge` [Mozilla launches ad blocking for Firefox on iOS](https://www.theverge.com/news/987247/mozilla-firefox-ad-blocker-ios-launch)
+> Mozilla is officially launching ad blocking for Firefox on iOS today, after testing the feature over the past few weeks. The new built-in option will block most third-party ads and trackers before ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
