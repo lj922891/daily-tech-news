@@ -4,13 +4,15 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-02
+# 📰 每日科技日报 — 2026-09-03
 
-> 自动收集于 2026-09-02 15:26 | 共 40 条
+> 自动收集于 2026-09-03 03:56 | 共 40 条
 
 ## 🇨🇳 中文科技
 
-- `少数派` [折叠屏 iPhone、新款 HomePod…… Apple 发布会有哪些看点？](https://sspai.com/post/114084)
+- `少数派` [派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等](https://sspai.com/post/114113)
+> World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文
+- `少数派` [除了折叠屏 iPhone，Apple 发布会还有哪些看点？](https://sspai.com/post/114084)
 > 上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...查看全文
 - `少数派` [一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间](https://sspai.com/post/80562)
 > Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35 天，35 天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。查看全文
@@ -28,101 +30,95 @@
 > 一直以来，Apple 和 Nike 之间的商业关系在公众视野里简单明了。但在两者中间，Apple 的前任 CEO Tim Cook 一直扮演着连接者的角色，他和 Nike 之间的关系也因此而显得十分微妙。在本期节目中，我们就来一起深入 Apple、Nike 和 Tim Cook 之间的商业三角关系。查看全文
 - `少数派` [派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等](https://sspai.com/post/114055)
 > 少数派的近期动态能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章全球仅剩三位数的物种，科学家却连一个准数都数不出来屏幕之外，桌面之上 ...查看全文
-- `少数派` [本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2](https://sspai.com/post/114043)
-> 在多人联机游戏里， 你都跟同伴一起创造过怎样的回忆？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Exit the Cave](https://turtlespace.blog/p/exit-the-cave)
-> Article URL: https://turtlespace.blog/p/exit-the-cave
-Comments URL: https://news.ycombinator.com/item?id=49536606
-Points: 17
-# Comments: 2
-- `Hacker News` [WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm)
-> Article URL: https://github.com/mlc-ai/web-llm
-Comments URL: https://news.ycombinator.com/item?id=49536411
-Points: 13
-# Comments: 3
-- `Hacker News` [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
-> Article URL: https://grapheneos.social/@GrapheneOS/117194007157499435
-Comments URL: https://news.ycombinator.com/item?id=49536384
-Points: 53
-# Comments: 32
-- `Hacker News` [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
-> Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/
-Comments URL: https://news.ycombinator.com/item?id=49536375
-Points: 85
-# Comments: 47
-- `Hacker News` [Poisson Disk Sampling](https://stripeacross.com/posts/poisson-disk-sampling/)
-> Article URL: https://stripeacross.com/posts/poisson-disk-sampling/
-Comments URL: https://news.ycombinator.com/item?id=49536177
-Points: 36
-# Comments: 5
-- `Hacker News` [Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)
-> Article URL: https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero
-Comments URL: https://news.ycombinator.com/item?id=49536114
-Points: 51
+- `Hacker News` [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
+> Hi HN,I’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufa...
+- `Hacker News` [Reasons robotics is hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
+> Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard
+Comments URL: https://news.ycombinator.com/item?id=49543191
+Points: 56
 # Comments: 20
-- `Hacker News` [Biggest dark matter detector spots a single weird particle](https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle)
-> Article URL: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle
-Comments URL: https://news.ycombinator.com/item?id=49536079
-Points: 55
-# Commen...
-- `Hacker News` [A Note from LWN](https://lwn.net/Articles/1090585/)
-> Article URL: https://lwn.net/Articles/1090585/
-Comments URL: https://news.ycombinator.com/item?id=49535752
-Points: 320
-# Comments: 52
-- `Hacker News` [A Beginner's Deep Dive Guide to Entra Passkeys](https://emsroute.com/2026/03/19/passkeys-beginners-101/)
-> Article URL: https://emsroute.com/2026/03/19/passkeys-beginners-101/
-Comments URL: https://news.ycombinator.com/item?id=49535721
-Points: 13
-# Comments: 8
-- `Hacker News` [LLMs: Intelligence vs. Cost](https://openteams.com/intelligence-vs-cost/)
-> Article URL: https://openteams.com/intelligence-vs-cost/
-Comments URL: https://news.ycombinator.com/item?id=49535586
-Points: 20
-# Comments: 9
-- `TechCrunch` [HiddenLayer nabs $100M as enterprises rush to secure their AI deployments](https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/)
-> HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.
-- `TechCrunch` [PSA: Amazon’s shopping AI can now tell you if that message is a scam](https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/)
-> Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.
-- `TechCrunch` [Adobe acquires Indian market intelligence startup Rilo](https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/)
-> This is Adobe's second acquisition out of India after Rephrase.ai in 2023
-- `TechCrunch` [Norway considers ban on camera-enabled wearable ‘pervert glasses’](https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/)
-> The Nordic country says wearable camera headsets need to be regulated given their privacy risks.
-- `TechCrunch` [Adobe is making its tools available in Slack](https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/)
-> Users will be able to access Express, Premiere, and Acrobat in Slack
-- `TechCrunch` [Uber is laying off 10% of staff, or 3,300 people](https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/)
-> Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ride-sharing, delivery, and robotaxi divisions.
-- `TechCrunch` [OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting](https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/)
-> Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.
-- `TechCrunch` [Larry Page’s flying car company Pivotal loses its CEO](https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/)
-> The company told TechCrunch he is "pursuing new endeavors." Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.
-- `TechCrunch` [Reliance’s JioHotstar takes its streaming empire global — without sports](https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/)
-> JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.
-- `TechCrunch` [Apple follows Google in adopting Trump’s ‘Lake America’ name](https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/)
-> Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
-- `The Verge` [Belkin’s kid-friendly wireless headphones are 25 percent off](https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale)
-> Verge readers can get a discount on Belkin’s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy controls, and a mode that lets them ...
-- `The Verge` [OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits](https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting)
-> OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing "substantial assistance and encouragement" to the suspect in Canada's Tumbler Ridge school shooting, as report...
-- `The Verge` [NYC bans AI use for students until they reach high school](https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban)
-> New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year...
-- `The Verge` [Tado’s new thermostat is designed as a Nest killer](https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest)
-> When Google ignominiously exited the European thermostat market last year, it pointed its customers to Tado. This week, the German-based smart home company is launching its Smart Thermostat X (2nd ...
-- `The Verge` [‘Wordle in 1’ is the NYT’s new puzzle just for subscribers](https://www.theverge.com/games/988099/nyt-bonus-puzzle-games-weekly-wordle)
-> The New York Times has prepared some exclusive goodies for its subscribers: a weekly drop of bonus puzzles based on the publication's popular games. Five to six new puzzles will be released every W...
-- `The Verge` [Elon Musk’s heterodox robotaxi philosophy gets put to the test](https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar)
-> Believe it or not, the Tesla Cybercab is coming. Nearly two years after Elon Musk first unveiled the gold-tinted, gull-wing-door sporting, steering-wheel-free, two-seaters as the future of Tesla's ...
-- `The Verge` [The amazing USB-C gadgets that play old Nintendo cartridges](https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes)
-> Last week, I powered on a 26-year-old copy of Pokémon Pinball, one of the best Game Boy games ever made. My save file was no more. The Charmander I'd caught for my daughter, the high scores we...
-- `The Verge` [The robot butler dream doesn’t have legs](https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa)
-> The idea of humanoid robots running our homes has been the stuff of science fiction for years. But unlike hoverboards and self-tying sneakers, a robot housekeeper has never felt close to rolling in...
-- `The Verge` [Is this the future of America?](https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash)
-> In 2007, the US was on the cusp of an economic recession, and Buddy Rizer was tasked with finding Loudoun County, Virginia, a new way to make money. Rizer’s earlier career as a radio DJ didn’t exac...
-- `The Verge` [Acer’s new MacBook Air rival is nearly a pound lighter than Apple’s laptop](https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs)
-> Acer is announcing a new laptop poised to rival the MacBook Air's thinness and lightness - and in the process, it cops another laptop's name. The Acer Swift Blade 14 (not to be confused with the Ra...
+- `Hacker News` [Uber shuts operations in Nigeria and Uganda with immediate effect](https://www.bbc.com/news/articles/c86xpv8l9y9o)
+> Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o
+Comments URL: https://news.ycombinator.com/item?id=49543007
+Points: 112
+# Comments: 76
+- `Hacker News` [Nango (YC W23) is hiring across eng, product and GTM (SF and remote)](https://nango.dev/careers)
+> Article URL: https://nango.dev/careers
+Comments URL: https://news.ycombinator.com/item?id=49542486
+Points: 0
+# Comments: 0
+- `Hacker News` [Altair Basic Interpreter Source Code (1975) [pdf]](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
+> Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf
+Comments URL: https://news.ycombinator.com/it...
+- `Hacker News` [I wanna live an NPC life](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
+> Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/
+Comments URL: https://news.ycombinator.com/item?id=49541519
+Points: 206
+# Comments: 187
+- `Hacker News` [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
+> Article URL: https://github.com/PhiloLabs/fable51-worlds
+Comments URL: https://news.ycombinator.com/item?id=49541458
+Points: 158
+# Comments: 54
+- `Hacker News` [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+> https://research.meta.ai/blog/introducing-muse-spark-1-3
+
+Comments URL: https://news.ycombinator.com/item?id=49541256
+Points: 435
+# Comments: 289
+- `Hacker News` [Qantas Airbus A380 engine failure in 2010 (2023)](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
+> Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7
+Comments URL: https://news.ycombinator.com/item?id=49540565
+Points: 92
+# Comments...
+- `Hacker News` [Embedded Rust RTOS vs. C RTOS](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/)
+> Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/
+Comments URL: https://news.ycombinator.com/item?id=49540415
+Points: 65
+# Comments: 32
+- `TechCrunch` [The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/)
+> The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.
+- `TechCrunch` [Palo Alto Networks paid $500M for Thrive-backed Console, sources say](https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/)
+> The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.
+- `TechCrunch` [TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)
+> On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
+- `TechCrunch` [Google spared from ad-business breakup, but judge orders changes to how it operates](https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/)
+> Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.
+- `TechCrunch` [OpenAI’s new reasoning technique alarms AI safety experts](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/)
+> OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.
+- `TechCrunch` [MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming](https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/)
+> The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.
+- `TechCrunch` [It sure looks like hackers breached a major ID card verification service](https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/)
+> An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.
+- `TechCrunch` [Delivery Hero board backs Uber’s $15B takeover bid](https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/)
+> If approved, the combined company would become one of the largest food delivery platforms in the world.
+- `TechCrunch` [Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’](https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/)
+> The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job application...
+- `TechCrunch` [X shifts US creator payouts from Stripe to X Money](https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/)
+> X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.
+- `The Verge` [Uber beats Waymo as first to launch robotaxis in London](https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch)
+> Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially featu...
+- `The Verge` [Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more](https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash)
+> Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model "works harder" than Gemini 3.7 Flash by performing more reasoning steps on comple...
+- `The Verge` [Here are some of REI’s best Labor Day sale deals](https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026)
+> Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, f...
+- `The Verge` [1Password wades into a right-wing mess after funding a Linux project](https://www.theverge.com/tech/988536/1password-dhh-linux-controversy)
+> 1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog ...
+- `The Verge` [Amazon’s AI assistant can now spot fake emails from the company](https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails)
+> Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. ...
+- `The Verge` [Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing](https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs)
+> I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powe...
+- `The Verge` [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones)
+> The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep...
+- `The Verge` [Researchers fear safety disaster ahead of OpenAI’s Astra release](https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety)
+> OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details ab...
+- `The Verge` [The Trump administration is supporting OpenAI in the NYT copyright lawsuit](https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit)
+> The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging th...
+- `The Verge` [Google is sending MrBeast into the wilderness, armed with AI](https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit)
+> MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy "MrBeast" Dona...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
