@@ -6,10 +6,18 @@
 
 # 📰 每日科技日报 — 2026-09-04
 
-> 自动收集于 2026-09-04 03:58 | 共 40 条
+> 自动收集于 2026-09-04 15:15 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/114175)
+> 📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文
+- `少数派` [新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/114110)
+> 多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文
+- `少数派` [开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点](https://sspai.com/post/114117)
+> 研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文
+- `少数派` [在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p](https://sspai.com/post/113990)
+> 在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文
 - `少数派` [派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等](https://sspai.com/post/114164)
 > Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。查看全文
 - `少数派` [新玩意 251｜少数派的编辑们最近买了啥？](https://sspai.com/post/114154)
@@ -22,105 +30,96 @@
 > World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文
 - `少数派` [除了折叠屏 iPhone，Apple 发布会还有哪些看点？](https://sspai.com/post/114084)
 > 上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...查看全文
-- `少数派` [一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间](https://sspai.com/post/80562)
-> Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35 天，35 天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。查看全文
-- `少数派` [众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响](https://sspai.com/post/113581)
-> 近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...查看全文
-- `少数派` [社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会](https://sspai.com/post/114071)
-> 北京时间9月10日凌晨，Apple一年一度的秋季特别活动即将拉开帷幕，我们会在Keynote讲演环节中见到新一年度的iPhone、AppleWatch等多个新品。除了备受期待的iPhone18Pro系 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
-> Article URL: https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/
-Comments URL: https://news.ycombinator.com/item?id=49559992
-Points: 7
-# Comments: 1
-- `Hacker News` [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
-> Article URL: https://computer.rip/2026-06-14-hookswitch-to-grave.html
-Comments URL: https://news.ycombinator.com/item?id=49559901
-Points: 7
-# Comments: 0
-- `Hacker News` [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
-> Article URL: https://gwern.net/xanadu
-Comments URL: https://news.ycombinator.com/item?id=49559522
-Points: 23
+- `Hacker News` [GMails custom domain "send as" discontinues January 2027](https://support.google.com/mail/answer/22370?hl=en)
+> Article URL: https://support.google.com/mail/answer/22370?hl=en
+Comments URL: https://news.ycombinator.com/item?id=49565693
+Points: 4
 # Comments: 2
-- `Hacker News` [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
-> https://web.archive.org/web/20260903235256/https://gizmodo.c...
-
-Comments URL: https://news.ycombinator.com/item?id=49558086
-Points: 75
-# Comments: 41
-- `Hacker News` [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
-> Article URL: https://armature.tech/blog/which-tools-coding-agents-install
-Comments URL: https://news.ycombinator.com/item?id=49557206
-Points: 124
-# Comments: 46
-- `Hacker News` [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
-> Article URL: https://tasklet.ai/careers/customer-success-engineer
-Comments URL: https://news.ycombinator.com/item?id=49556922
+- `Hacker News` [Burnt out on a three-day week](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)
+> Article URL: https://jennywanger.com/articles/burnt-out-on-a-three-day-week/
+Comments URL: https://news.ycombinator.com/item?id=49564960
+Points: 46
+# Comments: 36
+- `Hacker News` [Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
+> Article URL: https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/
+Comments URL: https://news.ycombinator.com/item?id=49564714...
+- `Hacker News` ['People are going to get screwed' Pennsylvania voters unite against data centres](http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5)
+> Article URL: http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5
+Comments URL: https://news.ycombinator.com/item?id=49564397
+Points: 80
+# Comments: 85
+- `Hacker News` [IBM Bob](https://bob.ibm.com/)
+> Article URL: https://bob.ibm.com/
+Comments URL: https://news.ycombinator.com/item?id=49563851
+Points: 90
+# Comments: 87
+- `Hacker News` [Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region](https://github.com/hawshemi/lg-c5-webos25-region-change)
+> Article URL: https://github.com/hawshemi/lg-c5-webos25-region-change
+Comments URL: https://news.ycombinator.com/item?id=49563839
+Points: 34
+# Comments: 39
+- `Hacker News` [Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+](https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/)
+> Article URL: https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/
+Comments URL: https://news.ycombinator.com/item?id=49563784
+Points...
+- `Hacker News` [Ok, but Does It Scale?](https://spacetimedb.com/blog/how-does-spacetime-scale)
+> Article URL: https://spacetimedb.com/blog/how-does-spacetime-scale
+Comments URL: https://news.ycombinator.com/item?id=49563772
+Points: 53
+# Comments: 25
+- `Hacker News` [SubImage (YC W25) Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer)
+> Article URL: https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer
+Comments URL: https://news.ycombinator.com/item?id=49563415
 Points: 0
 # Comments: 0
-- `Hacker News` [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
-> Article URL: https://arcprize.org/blog/astra
-Comments URL: https://news.ycombinator.com/item?id=49555691
-Points: 177
-# Comments: 113
-- `Hacker News` [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
-> Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/
-Comments URL: https://news.ycombinator.com/item?id=49555233
-Points: 95
-# Comments: 109
-- `Hacker News` [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
-> System Card: https://deploymentsafety.openai.com/gpt-6-astraRelated ongoing threads:OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691GPT-6 Astra makes major gains in...
-- `Hacker News` [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
-> Article URL: https://inference-docs.cerebras.ai/models/overview
-Comments URL: https://news.ycombinator.com/item?id=49554520
-Points: 473
-# Comments: 145
+- `Hacker News` [Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
+> Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products
+Comments URL: https://news.ycombinator.com/item?id=49563386
+Points: 132
+# Comments: 22
+- `TechCrunch` [CD sales are making an unexpected comeback amid a retro tech boom](https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/)
+> U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.
+- `TechCrunch` [Krafton doubles down on India with another $250M bet beyond gaming](https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/)
+> Krafton's planned investment in India is set to surpass $500 million with its latest commitment.
+- `TechCrunch` [Google’s Gemini Spark can now manage your Google Photos library](https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/)
+> Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.
+- `TechCrunch` [Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event](https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/)
+> Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.
+- `TechCrunch` [US military disabled ad tracking on troops’ devices following reports of targeted attacks](https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/)
+> A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.
+- `TechCrunch` [Feds launch investigation into Tesla’s Cybercab deployment](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/)
+> The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.
+- `TechCrunch` [The sameness problem behind those unappetizing AI-generated menus](https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/)
+> While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.
 - `TechCrunch` [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
 > The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.
 - `TechCrunch` [Oura files to go public](https://techcrunch.com/2026/09/03/oura-files-to-go-public/)
 > The ring maker says that its business has shown significant revenue growth over the past year.
 - `TechCrunch` [Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/)
 > The company published a form on its website Thursday soliciting info from people who are interested in "Cybercab fleet vehicle purchasing."
-- `TechCrunch` [Startup ARR is less secure than ever, new research shows](https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/)
-> The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.
-- `TechCrunch` [The Cybercab is Tesla’s ‘fork in the road’ moment](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/)
-> The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.
-- `TechCrunch` [Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation](https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/)
-> The high-profile startup's annual revenue run rate stands at over $100 million.
-- `TechCrunch` [Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit](https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/)
-> The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.
-- `TechCrunch` [Abliteration.ai is making a business out of removing AI guardrails](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/)
-> Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.
-- `TechCrunch` [Meta is paying to peek at how you use their latest AI model](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/)
-> For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who "contribute" to the development of futur...
-- `TechCrunch` [OpenAI launches Astra, its powerful (and controversial) new model](https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/)
-> OpenAI claims that Astra represents "a new frontier on computer and browser use," and that it handles tasks with unmatched "speed, accuracy, and safety."
-- `The Verge` [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40)
-> Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their...
-- `The Verge` [The unusually muted Tesla Cybercab launch](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk)
-> At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent a...
-- `The Verge` [Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out)
-> Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no a...
-- `The Verge` [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling)
-> Does your power bank have "CryoPulse technology" or a "Cyber Window"? If you disappointingly answered "no" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power B...
-- `The Verge` [Dungeons & Dragons is getting a ‘Ravenloft’ live-action Netflix series](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix)
-> A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to ...
-- `The Verge` [Congressman says TikTok backed out of a meeting to avoid child safety questions](https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety)
-> TikTok backed out of a congressional committee's "public roundtable" set for this month over concerns it would be asked about child safety practices, the chair of the committee said. After negotiat...
-- `The Verge` [Samsung’s beloved Q Series sound system is hundreds off for Labor Day](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale)
-> Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon ...
-- `The Verge` [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
-> OpenAI's next big model is here: GPT-6 Astra. The company calls it a "generational leap in capability" for areas like cybersecurity, professional work, software engineering, science, and computer u...
-- `The Verge` [Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers](https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes)
-> Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans ha...
-- `The Verge` [Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option](https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option)
-> Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox...
+- `The Verge` [Alienware’s refurbished 16 Aurora is almost $200 off at Woot](https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale)
+> Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a prett...
+- `The Verge` [What to expect at Apple’s September 9th launch event](https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch)
+> Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likel...
+- `The Verge` [Nintendo’s next two Direct events are both happening next week](https://www.theverge.com/games/990207/nintendo-direct-zelda-40th)
+> Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last aroun...
+- `The Verge` [Rogue OpenAI agents appear to have organized another attack using a German wiki](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki)
+> A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks...
+- `The Verge` [Tesla Cybercab is barely on the road and it’s already under investigation](https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify)
+> Elon Musk's gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle's lack of traditional features - many of which are required by law. ...
+- `The Verge` [Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming](https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs)
+> Microsoft is partnering with TCL to bring its Xbox app to supported TCL smart TVs. The Xbox app lets you connect to Xbox Cloud Gaming and stream Game Pass titles or select games you own as part of ...
+- `The Verge` [iRobot unveils the Roomba Duo](https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum)
+> The original robot vacuum company showed off a concept robot at the IFA tech show in Berlin today. The Roomba Duo combines a heavy-duty floor-washing machine with a smaller, slimmer Roomba. The two...
+- `The Verge` [Bluetti launches ‘e-generator’ to take on noisy, stinky, polluting gas generators](https://www.theverge.com/tech/986123/bluetti-pioneer-5000-solar-generator)
+> Bluetti doesn't want you to call the Pioneer 5000 a solar generator (SoGen), even though that's what it is. What makes it slightly different from other large power stations that can be charged off ...
+- `The Verge` [We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything](https://www.theverge.com/tech/989199/ifa-berlin-2026-gadgets-ask-us-anything)
+> Europe's biggest tech trade show, IFA, has taken over Berlin this week - and we've been on the ground all week checking it out in person. We figure you have questions, so we're hosting an AMA that'...
+- `The Verge` [Instagram’s AI detection is a mess (again)](https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion)
+> Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has g...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
