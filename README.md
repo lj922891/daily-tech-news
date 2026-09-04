@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-03
+# 📰 每日科技日报 — 2026-09-04
 
-> 自动收集于 2026-09-03 15:20 | 共 30 条
+> 自动收集于 2026-09-04 03:58 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等](https://sspai.com/post/114164)
+> Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。查看全文
 - `少数派` [新玩意 251｜少数派的编辑们最近买了啥？](https://sspai.com/post/114154)
 > 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ...查看全文
 - `少数派` [TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验](https://sspai.com/post/113998)
@@ -24,8 +26,6 @@
 > Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35 天，35 天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。查看全文
 - `少数派` [众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响](https://sspai.com/post/113581)
 > 近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...查看全文
-- `少数派` [派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等](https://sspai.com/post/114093)
-> 索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。查看全文
 - `少数派` [社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验](https://sspai.com/post/114078)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会](https://sspai.com/post/114071)
@@ -33,46 +33,94 @@
 
 ## 🌍 国际科技
 
-- `TechCrunch` [Google’s latest AI weather model gives you no excuse to forget your umbrella](https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/)
-> Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior...
-- `TechCrunch` [Volunteer at TechCrunch Founder Summit in Boston](https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/)
-> Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are ...
-- `TechCrunch` [TikTok comments are getting more interactive with voice comments, polls, and more](https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/)
-> With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform.
-- `TechCrunch` [Nvidia confirms it will buy Hugging Face for $12.9 billion](https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/)
-> Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.
-- `TechCrunch` [Amazon’s Zoox expands its robotaxi service to Las Vegas airport](https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/)
-> Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.
-- `TechCrunch` [The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/)
-> The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.
-- `TechCrunch` [Palo Alto Networks paid $500M for Thrive-backed Console, sources say](https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/)
-> The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.
-- `TechCrunch` [TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)
-> On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
-- `TechCrunch` [Google spared from ad-business breakup, but judge orders changes to how it operates](https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/)
-> Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.
-- `TechCrunch` [OpenAI’s new reasoning technique alarms AI safety experts](https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/)
-> OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.
-- `The Verge` [Google says its AI weather model is getting better](https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update)
-> Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now...
-- `The Verge` [Dyson’s new straightener has liquid cooling pipes to reduce hair damage](https://www.theverge.com/tech/989293/dyson-corrale-coolshine-hair-straightener-airsmooth-dryer-brush-styling)
-> After expanding its health and beauty lineup earlier this week with a camera-equipped electric toothbrush, Dyson is also introducing two new hair care products this month. The $329 Corrale CoolShin...
-- `The Verge` [Hohem’s tiny steadycam has a removable action cam](https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam)
-> Hohem is trying something new with its Eyepic handheld stabilized camera to differentiate it from existing offerings from companies like DJI and Insta360. At its core, the camera is functionally si...
-- `The Verge` [How Sonos rebooted itself](https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign)
-> Today, I’m talking with Tom Conrad, the CEO of Sonos. Tom and I have known each other for a long time — he was the chief technology officer of Pandora, VP of product at Snap, and the chief product ...
-- `The Verge` [SwitchBot’s retrofit door lock offers 19 ways to unlock it](https://www.theverge.com/tech/989246/switchbot-lock-ultra-max-retrofit-smartlock-ifa-launch)
-> SwitchBot has launched a new retrofit smart lock that gives owners multiple ways to enter European homes without a traditional key. Announced at IFA today, the SwitchBot Lock Ultra Max Vision Pro C...
-- `The Verge` [DJI’s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy](https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa)
-> DJI has announced a second generation of its Romo robovac. The Romo 2 series is quieter, more powerful, and better at climbing over small steps and other obstacles. But more importantly for DJI, a ...
-- `The Verge` [Nvidia is buying Hugging Face for almost $13 billion](https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal)
-> Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's bigges...
-- `The Verge` [TCL’s new Nxtpaper phone offers both e-reader and OLED](https://www.theverge.com/tech/988059/tcls-new-nxtpaper-phone-offers-both-e-reader-and-oled)
-> With the P80 Ultra, TCL's E Ink-esque Nxtpaper phones are finally going OLED. Just like previous LCD models, the phone can switch to a low power, monochromatic display mode that replicates the look...
-- `The Verge` [These new robot lawnmowers trim your edges](https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026)
-> Anker's new robot lawnmower might take over for your weedwacker, too. Announced at IFA 2026, the Eufy Robot Lawn Mower S2 Max comes with an extendable trimming arm to clean up the grass around your...
-- `The Verge` [Microsoft discloses Azure revenue as part of major financial reporting changes](https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue)
-> Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The ch...
+- `Hacker News` [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
+> Article URL: https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/
+Comments URL: https://news.ycombinator.com/item?id=49559992
+Points: 7
+# Comments: 1
+- `Hacker News` [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
+> Article URL: https://computer.rip/2026-06-14-hookswitch-to-grave.html
+Comments URL: https://news.ycombinator.com/item?id=49559901
+Points: 7
+# Comments: 0
+- `Hacker News` [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
+> Article URL: https://gwern.net/xanadu
+Comments URL: https://news.ycombinator.com/item?id=49559522
+Points: 23
+# Comments: 2
+- `Hacker News` [GLP-1s are being linked to fewer serious infections, including TB](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
+> https://web.archive.org/web/20260903235256/https://gizmodo.c...
+
+Comments URL: https://news.ycombinator.com/item?id=49558086
+Points: 75
+# Comments: 41
+- `Hacker News` [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install)
+> Article URL: https://armature.tech/blog/which-tools-coding-agents-install
+Comments URL: https://news.ycombinator.com/item?id=49557206
+Points: 124
+# Comments: 46
+- `Hacker News` [Tasklet (YC P26) Is Hiring a Customer Success Engineer](https://tasklet.ai/careers/customer-success-engineer)
+> Article URL: https://tasklet.ai/careers/customer-success-engineer
+Comments URL: https://news.ycombinator.com/item?id=49556922
+Points: 0
+# Comments: 0
+- `Hacker News` [OpenAI's GPT-6 Astra on ARC-AGI-3](https://arcprize.org/blog/astra)
+> Article URL: https://arcprize.org/blog/astra
+Comments URL: https://news.ycombinator.com/item?id=49555691
+Points: 177
+# Comments: 113
+- `Hacker News` [The asteroid currently hitting front end web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
+> Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/
+Comments URL: https://news.ycombinator.com/item?id=49555233
+Points: 95
+# Comments: 109
+- `Hacker News` [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+> System Card: https://deploymentsafety.openai.com/gpt-6-astraRelated ongoing threads:OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691GPT-6 Astra makes major gains in...
+- `Hacker News` [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
+> Article URL: https://inference-docs.cerebras.ai/models/overview
+Comments URL: https://news.ycombinator.com/item?id=49554520
+Points: 473
+# Comments: 145
+- `TechCrunch` [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
+> The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.
+- `TechCrunch` [Oura files to go public](https://techcrunch.com/2026/09/03/oura-files-to-go-public/)
+> The ring maker says that its business has shown significant revenue growth over the past year.
+- `TechCrunch` [Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/)
+> The company published a form on its website Thursday soliciting info from people who are interested in "Cybercab fleet vehicle purchasing."
+- `TechCrunch` [Startup ARR is less secure than ever, new research shows](https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/)
+> The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.
+- `TechCrunch` [The Cybercab is Tesla’s ‘fork in the road’ moment](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/)
+> The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.
+- `TechCrunch` [Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation](https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/)
+> The high-profile startup's annual revenue run rate stands at over $100 million.
+- `TechCrunch` [Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit](https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/)
+> The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.
+- `TechCrunch` [Abliteration.ai is making a business out of removing AI guardrails](https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/)
+> Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.
+- `TechCrunch` [Meta is paying to peek at how you use their latest AI model](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/)
+> For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who "contribute" to the development of futur...
+- `TechCrunch` [OpenAI launches Astra, its powerful (and controversial) new model](https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/)
+> OpenAI claims that Astra represents "a new frontier on computer and browser use," and that it handles tasks with unmatched "speed, accuracy, and safety."
+- `The Verge` [Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40)
+> Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their...
+- `The Verge` [The unusually muted Tesla Cybercab launch](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk)
+> At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent a...
+- `The Verge` [Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out)
+> Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no a...
+- `The Verge` [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling)
+> Does your power bank have "CryoPulse technology" or a "Cyber Window"? If you disappointingly answered "no" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power B...
+- `The Verge` [Dungeons & Dragons is getting a ‘Ravenloft’ live-action Netflix series](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix)
+> A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to ...
+- `The Verge` [Congressman says TikTok backed out of a meeting to avoid child safety questions](https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety)
+> TikTok backed out of a congressional committee's "public roundtable" set for this month over concerns it would be asked about child safety practices, the chair of the committee said. After negotiat...
+- `The Verge` [Samsung’s beloved Q Series sound system is hundreds off for Labor Day](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale)
+> Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon ...
+- `The Verge` [OpenAI’s next big AI model has ‘entered the AGI era’](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release)
+> OpenAI's next big model is here: GPT-6 Astra. The company calls it a "generational leap in capability" for areas like cybersecurity, professional work, software engineering, science, and computer u...
+- `The Verge` [Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers](https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes)
+> Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans ha...
+- `The Verge` [Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option](https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option)
+> Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
