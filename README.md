@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-04
+# 📰 每日科技日报 — 2026-09-05
 
-> 自动收集于 2026-09-04 15:15 | 共 40 条
+> 自动收集于 2026-09-05 03:55 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,93 +33,93 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [GMails custom domain "send as" discontinues January 2027](https://support.google.com/mail/answer/22370?hl=en)
-> Article URL: https://support.google.com/mail/answer/22370?hl=en
-Comments URL: https://news.ycombinator.com/item?id=49565693
-Points: 4
+- `Hacker News` [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+> Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances
+Comments URL: https://news.ycombinator.com/item?id=49571634
+Points: 29
+# Comments: 8
+- `Hacker News` [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+> Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2
+Comments URL: https://news.ycombinator.com/item?id=49571632
+Points: 74
+# Comments: 18
+- `Hacker News` [Show HN: Moadim.io – A scheduler for agents](https://moadim.io/)
+> Why can't we get an agent scheduler that supports all of the following:- git compatible- agent agnostic- 100% open source- os and system-agnostic- multi-runner support- support mcp/ui/http- unlimit...
+- `Hacker News` [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
+> Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90
+Comments URL: https://news.ycombinator.com/item?id=49571465
+Points: 54
+# Comments: 23
+- `Hacker News` [Connecting every app to every other app](https://blog.val.town/connectors)
+> Article URL: https://blog.val.town/connectors
+Comments URL: https://news.ycombinator.com/item?id=49571263
+Points: 20
 # Comments: 2
-- `Hacker News` [Burnt out on a three-day week](https://jennywanger.com/articles/burnt-out-on-a-three-day-week/)
-> Article URL: https://jennywanger.com/articles/burnt-out-on-a-three-day-week/
-Comments URL: https://news.ycombinator.com/item?id=49564960
-Points: 46
-# Comments: 36
-- `Hacker News` [Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
-> Article URL: https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/
-Comments URL: https://news.ycombinator.com/item?id=49564714...
-- `Hacker News` ['People are going to get screwed' Pennsylvania voters unite against data centres](http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5)
-> Article URL: http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5
-Comments URL: https://news.ycombinator.com/item?id=49564397
-Points: 80
-# Comments: 85
-- `Hacker News` [IBM Bob](https://bob.ibm.com/)
-> Article URL: https://bob.ibm.com/
-Comments URL: https://news.ycombinator.com/item?id=49563851
-Points: 90
-# Comments: 87
-- `Hacker News` [Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region](https://github.com/hawshemi/lg-c5-webos25-region-change)
-> Article URL: https://github.com/hawshemi/lg-c5-webos25-region-change
-Comments URL: https://news.ycombinator.com/item?id=49563839
-Points: 34
-# Comments: 39
-- `Hacker News` [Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+](https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/)
-> Article URL: https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/
-Comments URL: https://news.ycombinator.com/item?id=49563784
-Points...
-- `Hacker News` [Ok, but Does It Scale?](https://spacetimedb.com/blog/how-does-spacetime-scale)
-> Article URL: https://spacetimedb.com/blog/how-does-spacetime-scale
-Comments URL: https://news.ycombinator.com/item?id=49563772
-Points: 53
-# Comments: 25
-- `Hacker News` [SubImage (YC W25) Is Hiring a Founding Engineer in SF](https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer)
-> Article URL: https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer
-Comments URL: https://news.ycombinator.com/item?id=49563415
-Points: 0
-# Comments: 0
-- `Hacker News` [Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
-> Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products
-Comments URL: https://news.ycombinator.com/item?id=49563386
-Points: 132
-# Comments: 22
+- `Hacker News` [Can guitar frets perform multiplication?](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html)
+> Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html
+Comments URL: https://news.ycombinator.com/item?id=49571047
+Points: 43
+# Comments: 12
+- `Hacker News` [Record-High 89% in U.S. Say Government Corruption Widespread](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx)
+> Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx
+Comments URL: https://news.ycombinator.com/item?id=49570772
+Points: 255
+# Comments: 196
+- `Hacker News` [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+> Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046
+Comments URL: https://news.ycombinator.com/item?id=49570669
+Points: 317
+# Comments: 179
+- `Hacker News` [Icons as a Service](https://nravic.com/blog/images/)
+> Article URL: https://nravic.com/blog/images/
+Comments URL: https://news.ycombinator.com/item?id=49570597
+Points: 29
+# Comments: 2
+- `Hacker News` [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
+> Article URL: https://openrouter.ai/openai/gpt-6-astra
+Comments URL: https://news.ycombinator.com/item?id=49570545
+Points: 147
+# Comments: 77
+- `TechCrunch` [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)
+> The round is being raised just months after the robot data startup exited from stealth.
+- `TechCrunch` [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)
+> OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.
+- `TechCrunch` [AI compute provider Nscale is looking for $3.5B in pre-IPO financing](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/)
+> Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.
+- `TechCrunch` [Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now](https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/)
+> A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Twe...
+- `TechCrunch` [What will Apple’s John Ternus era look like?](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/)
+> It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised...
+- `TechCrunch` [No little kids allowed, and other new info about Tesla’s Cybercab](https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/)
+> The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.
+- `TechCrunch` [Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)
+> It's the latest failure of OpenAI's internal monitoring and security systems.
 - `TechCrunch` [CD sales are making an unexpected comeback amid a retro tech boom](https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/)
 > U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.
 - `TechCrunch` [Krafton doubles down on India with another $250M bet beyond gaming](https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/)
 > Krafton's planned investment in India is set to surpass $500 million with its latest commitment.
 - `TechCrunch` [Google’s Gemini Spark can now manage your Google Photos library](https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/)
 > Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.
-- `TechCrunch` [Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event](https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/)
-> Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.
-- `TechCrunch` [US military disabled ad tracking on troops’ devices following reports of targeted attacks](https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/)
-> A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.
-- `TechCrunch` [Feds launch investigation into Tesla’s Cybercab deployment](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/)
-> The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.
-- `TechCrunch` [The sameness problem behind those unappetizing AI-generated menus](https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/)
-> While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.
-- `TechCrunch` [Crusoe reportedly raises $3B at a  $30B valuation](https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/)
-> The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.
-- `TechCrunch` [Oura files to go public](https://techcrunch.com/2026/09/03/oura-files-to-go-public/)
-> The ring maker says that its business has shown significant revenue growth over the past year.
-- `TechCrunch` [Tesla is asking people if they want to buy and run Cybercab fleets](https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/)
-> The company published a form on its website Thursday soliciting info from people who are interested in "Cybercab fleet vehicle purchasing."
+- `The Verge` [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing)
+> Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nea...
+- `The Verge` [The White House is making arcade games racist](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright)
+> The PR masterminds at the White House just released a series of vaguely policy-themed "arcade" games, some of which are racist - and modeled on real games whose copyright holders may not be too hap...
+- `The Verge` [GoPro says it’s still committed ‘to your collective stoke’](https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter)
+> GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's "core DNA," after a proposed $285 million acquisition by Starman was announced earlier this week. He ...
+- `The Verge` [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip)
+> It's not quite the "push button; get song" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (...
+- `The Verge` [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)
+> OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that "the AGI era" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First...
+- `The Verge` [Microsoft says virtually nobody was grabbing NYT articles through its chatbot](https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit)
+> Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as...
+- `The Verge` [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones)
+> The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what ...
 - `The Verge` [Alienware’s refurbished 16 Aurora is almost $200 off at Woot](https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale)
 > Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a prett...
 - `The Verge` [What to expect at Apple’s September 9th launch event](https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch)
 > Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likel...
 - `The Verge` [Nintendo’s next two Direct events are both happening next week](https://www.theverge.com/games/990207/nintendo-direct-zelda-40th)
 > Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last aroun...
-- `The Verge` [Rogue OpenAI agents appear to have organized another attack using a German wiki](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki)
-> A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks...
-- `The Verge` [Tesla Cybercab is barely on the road and it’s already under investigation](https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify)
-> Elon Musk's gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle's lack of traditional features - many of which are required by law. ...
-- `The Verge` [Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming](https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs)
-> Microsoft is partnering with TCL to bring its Xbox app to supported TCL smart TVs. The Xbox app lets you connect to Xbox Cloud Gaming and stream Game Pass titles or select games you own as part of ...
-- `The Verge` [iRobot unveils the Roomba Duo](https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum)
-> The original robot vacuum company showed off a concept robot at the IFA tech show in Berlin today. The Roomba Duo combines a heavy-duty floor-washing machine with a smaller, slimmer Roomba. The two...
-- `The Verge` [Bluetti launches ‘e-generator’ to take on noisy, stinky, polluting gas generators](https://www.theverge.com/tech/986123/bluetti-pioneer-5000-solar-generator)
-> Bluetti doesn't want you to call the Pioneer 5000 a solar generator (SoGen), even though that's what it is. What makes it slightly different from other large power stations that can be charged off ...
-- `The Verge` [We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything](https://www.theverge.com/tech/989199/ifa-berlin-2026-gadgets-ask-us-anything)
-> Europe's biggest tech trade show, IFA, has taken over Berlin this week - and we've been on the ground all week checking it out in person. We figure you have questions, so we're hosting an AMA that'...
-- `The Verge` [Instagram’s AI detection is a mess (again)](https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion)
-> Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has g...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
