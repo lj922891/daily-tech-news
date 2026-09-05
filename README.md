@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-09-05
 
-> 自动收集于 2026-09-05 03:55 | 共 40 条
+> 自动收集于 2026-09-05 14:04 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [最值得买的顶级公路车？TREK 八代 Madone 评测](https://sspai.com/post/114040)
+> 它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/114175)
 > 📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文
 - `少数派` [新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/114110)
@@ -28,58 +30,59 @@
 > 聊聊 Hi-Fi 这件事。查看全文
 - `少数派` [派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等](https://sspai.com/post/114113)
 > World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文
-- `少数派` [除了折叠屏 iPhone，Apple 发布会还有哪些看点？](https://sspai.com/post/114084)
-> 上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
+> Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/
+Comments URL: https://news.ycombinator.com/item?id=49576386
+Points: 15
+# Comments: 6
+- `Hacker News` [Pentagon rescinds new testosterone screening policy without explanation](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/)
+> Article URL: https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/
+Comments URL: https://news.ycombinator.com/item?id=49576196
+Points: 45
+# Co...
+- `Hacker News` [Terpstra Keyboard](http://terpstrakeyboard.com/)
+> Article URL: http://terpstrakeyboard.com/
+Comments URL: https://news.ycombinator.com/item?id=49575150
+Points: 17
+# Comments: 6
+- `Hacker News` [Netherlands pulls gold out of the US for fears of 'geopolitical unrest'](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990)
+> Article URL: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990
+Comments URL: https://news.ycombinator.com/item?id=49575034
+Points: 146
+# Comment...
+- `Hacker News` [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
+> Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
+Comments URL: https://news.ycombinator.com/item?id=49574167
+Points: 234
+# Comments: 205
+- `Hacker News` [Git hosting that never leaves Europe](https://pushin.eu)
+> Article URL: https://pushin.eu
+Comments URL: https://news.ycombinator.com/item?id=49573680
+Points: 140
+# Comments: 80
 - `Hacker News` [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
 > Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances
 Comments URL: https://news.ycombinator.com/item?id=49571634
-Points: 29
-# Comments: 8
+Points: 373
+# Comments: 140
 - `Hacker News` [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
 > Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2
 Comments URL: https://news.ycombinator.com/item?id=49571632
-Points: 74
-# Comments: 18
-- `Hacker News` [Show HN: Moadim.io – A scheduler for agents](https://moadim.io/)
-> Why can't we get an agent scheduler that supports all of the following:- git compatible- agent agnostic- 100% open source- os and system-agnostic- multi-runner support- support mcp/ui/http- unlimit...
+Points: 130
+# Comments: 54
 - `Hacker News` [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
 > Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90
 Comments URL: https://news.ycombinator.com/item?id=49571465
-Points: 54
-# Comments: 23
-- `Hacker News` [Connecting every app to every other app](https://blog.val.town/connectors)
-> Article URL: https://blog.val.town/connectors
-Comments URL: https://news.ycombinator.com/item?id=49571263
-Points: 20
-# Comments: 2
+Points: 178
+# Comments: 89
 - `Hacker News` [Can guitar frets perform multiplication?](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html)
 > Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html
 Comments URL: https://news.ycombinator.com/item?id=49571047
-Points: 43
-# Comments: 12
-- `Hacker News` [Record-High 89% in U.S. Say Government Corruption Widespread](https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx)
-> Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx
-Comments URL: https://news.ycombinator.com/item?id=49570772
-Points: 255
-# Comments: 196
-- `Hacker News` [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
-> Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046
-Comments URL: https://news.ycombinator.com/item?id=49570669
-Points: 317
-# Comments: 179
-- `Hacker News` [Icons as a Service](https://nravic.com/blog/images/)
-> Article URL: https://nravic.com/blog/images/
-Comments URL: https://news.ycombinator.com/item?id=49570597
-Points: 29
-# Comments: 2
-- `Hacker News` [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
-> Article URL: https://openrouter.ai/openai/gpt-6-astra
-Comments URL: https://news.ycombinator.com/item?id=49570545
-Points: 147
-# Comments: 77
+Points: 102
+# Comments: 28
 - `TechCrunch` [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)
 > The round is being raised just months after the robot data startup exited from stealth.
 - `TechCrunch` [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)
@@ -100,6 +103,14 @@ Points: 147
 > Krafton's planned investment in India is set to surpass $500 million with its latest commitment.
 - `TechCrunch` [Google’s Gemini Spark can now manage your Google Photos library](https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/)
 > Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.
+- `The Verge` [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad)
+> During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a dis...
+- `The Verge` [The weird and wonderful headphones of CanJam 2026](https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026)
+> I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the s...
+- `The Verge` [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)
+> OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm ...
+- `The Verge` [Robotaxis enter their villain era](https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai)
+> It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be ...
 - `The Verge` [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing)
 > Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nea...
 - `The Verge` [The White House is making arcade games racist](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright)
@@ -112,14 +123,6 @@ Points: 147
 > OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that "the AGI era" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First...
 - `The Verge` [Microsoft says virtually nobody was grabbing NYT articles through its chatbot](https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit)
 > Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as...
-- `The Verge` [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones)
-> The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what ...
-- `The Verge` [Alienware’s refurbished 16 Aurora is almost $200 off at Woot](https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale)
-> Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a prett...
-- `The Verge` [What to expect at Apple’s September 9th launch event](https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch)
-> Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likel...
-- `The Verge` [Nintendo’s next two Direct events are both happening next week](https://www.theverge.com/games/990207/nintendo-direct-zelda-40th)
-> Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last aroun...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
