@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-05
+# 📰 每日科技日报 — 2026-09-06
 
-> 自动收集于 2026-09-05 14:04 | 共 40 条
+> 自动收集于 2026-09-06 04:00 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,56 +33,63 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
-> Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/
-Comments URL: https://news.ycombinator.com/item?id=49576386
-Points: 15
-# Comments: 6
-- `Hacker News` [Pentagon rescinds new testosterone screening policy without explanation](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/)
-> Article URL: https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/
-Comments URL: https://news.ycombinator.com/item?id=49576196
-Points: 45
-# Co...
-- `Hacker News` [Terpstra Keyboard](http://terpstrakeyboard.com/)
-> Article URL: http://terpstrakeyboard.com/
-Comments URL: https://news.ycombinator.com/item?id=49575150
-Points: 17
-# Comments: 6
-- `Hacker News` [Netherlands pulls gold out of the US for fears of 'geopolitical unrest'](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990)
-> Article URL: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990
-Comments URL: https://news.ycombinator.com/item?id=49575034
-Points: 146
-# Comment...
-- `Hacker News` [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
-> Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
-Comments URL: https://news.ycombinator.com/item?id=49574167
-Points: 234
-# Comments: 205
-- `Hacker News` [Git hosting that never leaves Europe](https://pushin.eu)
-> Article URL: https://pushin.eu
-Comments URL: https://news.ycombinator.com/item?id=49573680
-Points: 140
-# Comments: 80
-- `Hacker News` [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
-> Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances
-Comments URL: https://news.ycombinator.com/item?id=49571634
-Points: 373
-# Comments: 140
-- `Hacker News` [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
-> Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2
-Comments URL: https://news.ycombinator.com/item?id=49571632
-Points: 130
-# Comments: 54
-- `Hacker News` [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
-> Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90
-Comments URL: https://news.ycombinator.com/item?id=49571465
-Points: 178
-# Comments: 89
-- `Hacker News` [Can guitar frets perform multiplication?](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html)
-> Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html
-Comments URL: https://news.ycombinator.com/item?id=49571047
-Points: 102
-# Comments: 28
+- `Hacker News` [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
+> Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation
+Comments URL: https://news.ycombinator.com/item?id=49582656
+Points: 3
+# Comments: 0
+- `Hacker News` [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
+> Article URL: https://openai.robocurve.org/gpt-6-astra/
+Comments URL: https://news.ycombinator.com/item?id=49582582
+Points: 72
+# Comments: 26
+- `Hacker News` [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+> Article URL: https://cloudinabottle.org/blog/launch-post
+Comments URL: https://news.ycombinator.com/item?id=49582000
+Points: 214
+# Comments: 86
+- `Hacker News` [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
+> Article URL: https://lapcatsoftware.com/articles/2026/9/1.html
+Comments URL: https://news.ycombinator.com/item?id=49581870
+Points: 154
+# Comments: 17
+- `Hacker News` [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)
+> Article URL: https://github.com/okf-memory/okf-agent-memory
+Comments URL: https://news.ycombinator.com/item?id=49581240
+Points: 47
+# Comments: 16
+- `Hacker News` [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
+> Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/
+Comments URL: https://news.ycombinator.com/item?id=49580939
+Points: 180
+# Comments: 66
+- `Hacker News` [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
+> Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket
+Comments URL: https://news.ycombinator.com/item?id=4958...
+- `Hacker News` [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
+> Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/
+Comments URL: https://news.ycombinator.com/item?id=49580329
+Point...
+- `Hacker News` [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
+> Article URL: https://arxiv.org/abs/2609.03344
+Comments URL: https://news.ycombinator.com/item?id=49580164
+Points: 206
+# Comments: 171
+- `Hacker News` [ISAR Aerospace 5 Sept Mission Onward and Upward](https://isaraerospace.com/mission-updates-overview)
+> Article URL: https://isaraerospace.com/mission-updates-overview
+Comments URL: https://news.ycombinator.com/item?id=49579956
+Points: 25
+# Comments: 4
+- `TechCrunch` [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)
+> Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.
+- `TechCrunch` [Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)
+> The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."
+- `TechCrunch` [OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/)
+> OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.
+- `TechCrunch` [Clucky’s new alarm app wakes you up with a crowing rooster](https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/)
+> Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.
+- `TechCrunch` [Oura is going public, but these smart ring companies are coming for its crown](https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/)
+> While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.
 - `TechCrunch` [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)
 > The round is being raised just months after the robot data startup exited from stealth.
 - `TechCrunch` [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/)
@@ -93,16 +100,14 @@ Points: 102
 > A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Twe...
 - `TechCrunch` [What will Apple’s John Ternus era look like?](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/)
 > It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised...
-- `TechCrunch` [No little kids allowed, and other new info about Tesla’s Cybercab](https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/)
-> The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.
-- `TechCrunch` [Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/)
-> It's the latest failure of OpenAI's internal monitoring and security systems.
-- `TechCrunch` [CD sales are making an unexpected comeback amid a retro tech boom](https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/)
-> U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.
-- `TechCrunch` [Krafton doubles down on India with another $250M bet beyond gaming](https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/)
-> Krafton's planned investment in India is set to surpass $500 million with its latest commitment.
-- `TechCrunch` [Google’s Gemini Spark can now manage your Google Photos library](https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/)
-> Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.
+- `The Verge` [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)
+> I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active l...
+- `The Verge` [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)
+> When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back...
+- `The Verge` [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
+> According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six m...
+- `The Verge` [Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy](https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview)
+> Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners ...
 - `The Verge` [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad)
 > During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a dis...
 - `The Verge` [The weird and wonderful headphones of CanJam 2026](https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026)
@@ -115,14 +120,6 @@ Points: 102
 > Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nea...
 - `The Verge` [The White House is making arcade games racist](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright)
 > The PR masterminds at the White House just released a series of vaguely policy-themed "arcade" games, some of which are racist - and modeled on real games whose copyright holders may not be too hap...
-- `The Verge` [GoPro says it’s still committed ‘to your collective stoke’](https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter)
-> GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's "core DNA," after a proposed $285 million acquisition by Starman was announced earlier this week. He ...
-- `The Verge` [Roland is getting into generative AI music with Melody Flip](https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip)
-> It's not quite the "push button; get song" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (...
-- `The Verge` [AGI is whatever you want it to be](https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be)
-> OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that "the AGI era" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First...
-- `The Verge` [Microsoft says virtually nobody was grabbing NYT articles through its chatbot](https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit)
-> Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
