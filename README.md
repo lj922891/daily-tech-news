@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-09-06
 
-> 自动收集于 2026-09-06 04:00 | 共 40 条
+> 自动收集于 2026-09-06 14:29 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游](https://sspai.com/post/114076)
+> 对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...查看全文
 - `少数派` [最值得买的顶级公路车？TREK 八代 Madone 评测](https://sspai.com/post/114040)
 > 它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/114175)
@@ -28,58 +30,56 @@
 > 经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。查看全文
 - `少数派` [当说起「Hi-Fi」时，我们到底在追求什么？](https://sspai.com/post/113159)
 > 聊聊 Hi-Fi 这件事。查看全文
-- `少数派` [派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等](https://sspai.com/post/114113)
-> World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
-> Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation
-Comments URL: https://news.ycombinator.com/item?id=49582656
-Points: 3
+- `Hacker News` [The many mysteries and lessons of the Bayeux tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)
+> Article URL: https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry
+Comments URL: https://news.ycombinator.com/item?id=49586435
+Points: 12
+# Comm...
+- `Hacker News` [I'm teaching an introductory 12 week course on Quantum Oracle Engineering](https://shukla.io/quantum-oracle-engineering/)
+> Article URL: https://shukla.io/quantum-oracle-engineering/
+Comments URL: https://news.ycombinator.com/item?id=49586151
+Points: 4
+# Comments: 1
+- `Hacker News` [Schemy Lisp En DOS](https://sled.neocities.org/)
+> Article URL: https://sled.neocities.org/
+Comments URL: https://news.ycombinator.com/item?id=49586139
+Points: 11
 # Comments: 0
-- `Hacker News` [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
-> Article URL: https://openai.robocurve.org/gpt-6-astra/
-Comments URL: https://news.ycombinator.com/item?id=49582582
-Points: 72
-# Comments: 26
-- `Hacker News` [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
-> Article URL: https://cloudinabottle.org/blog/launch-post
-Comments URL: https://news.ycombinator.com/item?id=49582000
-Points: 214
-# Comments: 86
-- `Hacker News` [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
-> Article URL: https://lapcatsoftware.com/articles/2026/9/1.html
-Comments URL: https://news.ycombinator.com/item?id=49581870
-Points: 154
-# Comments: 17
-- `Hacker News` [OKF Agent Memory – Git-native persistent memory for AI coding agents](https://github.com/okf-memory/okf-agent-memory)
-> Article URL: https://github.com/okf-memory/okf-agent-memory
-Comments URL: https://news.ycombinator.com/item?id=49581240
-Points: 47
-# Comments: 16
-- `Hacker News` [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
-> Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/
-Comments URL: https://news.ycombinator.com/item?id=49580939
-Points: 180
-# Comments: 66
-- `Hacker News` [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
-> Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket
-Comments URL: https://news.ycombinator.com/item?id=4958...
-- `Hacker News` [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
-> Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/
-Comments URL: https://news.ycombinator.com/item?id=49580329
-Point...
-- `Hacker News` [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
-> Article URL: https://arxiv.org/abs/2609.03344
-Comments URL: https://news.ycombinator.com/item?id=49580164
-Points: 206
-# Comments: 171
-- `Hacker News` [ISAR Aerospace 5 Sept Mission Onward and Upward](https://isaraerospace.com/mission-updates-overview)
-> Article URL: https://isaraerospace.com/mission-updates-overview
-Comments URL: https://news.ycombinator.com/item?id=49579956
+- `Hacker News` [2026 Hugo Awards](https://www.thehugoawards.org/)
+> Article URL: https://www.thehugoawards.org/
+Comments URL: https://news.ycombinator.com/item?id=49586005
+Points: 17
+# Comments: 1
+- `Hacker News` [The pencil case model of creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity)
+> Article URL: https://dub.uu.nl/en/column/pencil-case-model-creativity
+Comments URL: https://news.ycombinator.com/item?id=49585703
 Points: 25
-# Comments: 4
+# Comments: 3
+- `Hacker News` [Intellectual Fly Is Open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
+> Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/
+Comments URL: https://news.ycombinator.com/item?id=49585644
+Points: 176
+# Comments: 97
+- `Hacker News` [Doomscrolling Ourselves to Death](https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death)
+> Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death
+Comments URL: https://news.ycombinator.com/item?id=49585627
+Points: 122
+# Comments: 66
+- `Hacker News` [New all in one 6502 computer (Neo6502kbd)](https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/)
+> Article URL: https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-k...
+- `Hacker News` ['Old Person Smell'](https://www.theguardian.com/wellness/2026/sep/03/old-person-smell)
+> Article URL: https://www.theguardian.com/wellness/2026/sep/03/old-person-smell
+Comments URL: https://news.ycombinator.com/item?id=49585520
+Points: 39
+# Comments: 20
+- `Hacker News` [I Changed My License](https://bergie.iki.fi/blog/eupl/)
+> Article URL: https://bergie.iki.fi/blog/eupl/
+Comments URL: https://news.ycombinator.com/item?id=49585161
+Points: 106
+# Comments: 122
 - `TechCrunch` [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)
 > Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.
 - `TechCrunch` [Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)
@@ -100,6 +100,12 @@ Points: 25
 > A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Twe...
 - `TechCrunch` [What will Apple’s John Ternus era look like?](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/)
 > It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised...
+- `The Verge` [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review)
+> The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials a...
+- `The Verge` [Competitive Pokémon is on phones now, but you still need a Switch to become a champion](https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility)
+> To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. A...
+- `The Verge` [DIY plug-in solar gains momentum in the US](https://www.theverge.com/column/990183/diy-plug-in-solar-us)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback ar...
 - `The Verge` [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)
 > I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active l...
 - `The Verge` [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)
@@ -114,12 +120,6 @@ Points: 25
 > I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the s...
 - `The Verge` [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)
 > OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm ...
-- `The Verge` [Robotaxis enter their villain era](https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai)
-> It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be ...
-- `The Verge` [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing)
-> Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nea...
-- `The Verge` [The White House is making arcade games racist](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright)
-> The PR masterminds at the White House just released a series of vaguely policy-themed "arcade" games, some of which are racist - and modeled on real games whose copyright holders may not be too hap...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
