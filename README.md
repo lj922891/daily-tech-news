@@ -6,10 +6,16 @@
 
 # 📰 每日科技日报 — 2026-09-07
 
-> 自动收集于 2026-09-07 04:00 | 共 40 条
+> 自动收集于 2026-09-07 16:44 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派评｜近期值得关注的 App](https://sspai.com/post/114288)
+> >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
+> 一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文
+- `少数派` [定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
+> 在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文
 - `少数派` [派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策](https://sspai.com/post/114250)
 > 美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文
 - `少数派` [让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游](https://sspai.com/post/114076)
@@ -24,66 +30,52 @@
 > 研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文
 - `少数派` [在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p](https://sspai.com/post/113990)
 > 在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文
-- `少数派` [新玩意 251｜少数派的编辑们最近买了啥？](https://sspai.com/post/114154)
-> 关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ...查看全文
-- `少数派` [TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验](https://sspai.com/post/113998)
-> 经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。查看全文
-- `少数派` [当说起「Hi-Fi」时，我们到底在追求什么？](https://sspai.com/post/113159)
-> 聊聊 Hi-Fi 这件事。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Keep Our Servers Running: Your Recurring Donation Goes 3X This September](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-> Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/
-Comments URL: https://news.ycombinator.com/item?id=49593563
-Points: 34
-# Co...
-- `Hacker News` [Show HN: GET Together – A social network where you don't need POST to Post](https://gettogether.dev)
-> Article URL: https://gettogether.dev
-Comments URL: https://news.ycombinator.com/item?id=49592840
-Points: 11
-# Comments: 4
-- `Hacker News` [MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel)
-> Article URL: https://github.com/Staatsgeheim/MathKernel
-Comments URL: https://news.ycombinator.com/item?id=49592366
-Points: 17
-# Comments: 3
-- `Hacker News` [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-> Article URL: https://austinhenley.com/blog/python1024.html
-Comments URL: https://news.ycombinator.com/item?id=49591876
-Points: 138
-# Comments: 54
-- `Hacker News` [Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet](https://twitter.com/Liquid_BTC/status/2096696272447218108)
-> https://xcancel.com/Liquid_BTC/status/2096696272447218108
-
-Comments URL: https://news.ycombinator.com/item?id=49591672
-Points: 88
-# Comments: 54
-- `Hacker News` [Signing TLS handshakes inside a TPM](https://bschaatsbergen.com/posts/go-tpm-tls/)
-> Article URL: https://bschaatsbergen.com/posts/go-tpm-tls/
-Comments URL: https://news.ycombinator.com/item?id=49590946
-Points: 5
-# Comments: 2
-- `Hacker News` [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)
-> Article URL: https://github.com/marsbos/mador
-Comments URL: https://news.ycombinator.com/item?id=49590738
-Points: 75
-# Comments: 22
-- `Hacker News` [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
-> Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/
-Comments URL: https://news.ycombinator.com/item?id=49590611
-Points: 174
-# Comments: 100
-- `Hacker News` [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540)
-> Article URL: https://arxiv.org/abs/2505.12540
-Comments URL: https://news.ycombinator.com/item?id=49590595
+- `Hacker News` [Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)
+> Article URL: https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set
+Comments URL: https://news.ycombinator.com/item?id=4959...
+- `Hacker News` [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
+> Article URL: https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker
+Comments URL: https://news.ycombinator.com/item?id=49599481
+Points: 15
+# Comments: 7
+- `Hacker News` [bzip3](https://github.com/iczelia/bzip3)
+> Article URL: https://github.com/iczelia/bzip3
+Comments URL: https://news.ycombinator.com/item?id=49598291
+Points: 150
+# Comments: 47
+- `Hacker News` [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
+> Article URL: https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/
+Comments URL: https://news.ycombinator.com/item?id=49597907
+Points: 316
+# Comments: 135
+- `Hacker News` [Splash-free urinals (2025)](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
+> Article URL: https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false
+Comments URL: https://news.ycombinator.com/item?id=49597895
+Points: 152
+# Comments: 84
+- `Hacker News` [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
+> Article URL: https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532
+Comments URL: https://news.ycombinator.com/item?...
+- `Hacker News` [Apparently CodePen 2.0 sends data to their servers as you type](https://news.ycombinator.com/item?id=49596976)
+> They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one sav...
+- `Hacker News` [VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent](https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/)
+> Article URL: https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/
+Comments URL: https://news.ycombinator.com/item?id=4959...
+- `Hacker News` [Tiny $70 Xteink X3 e-reader](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/)
+> Article URL: https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/
+Comments URL: https://news.ycombinator.com/item?id=49596629
+Points: 143
+# Comments: 140
+- `Hacker News` [Impedance Matching (2017)](https://www.edge.org/response-detail/27238)
+> Article URL: https://www.edge.org/response-detail/27238
+Comments URL: https://news.ycombinator.com/item?id=49596274
 Points: 57
-# Comments: 17
-- `Hacker News` [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649)
-> Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649
-Comments URL: https://news.ycombinator.com/item?id=49590512
-Points: 219
-# Comments: 161
+# Comments: 18
+- `TechCrunch` [What we expect from the upcoming Apple launch](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/)
+> While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.
 - `TechCrunch` [Phil Schiller’s App Store exit reportedly driven by wariness over future plans](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/)
 > Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.
 - `TechCrunch` [Authors push back as publishers and agents make claims on Anthropic settlement](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/)
@@ -102,8 +94,16 @@ Points: 219
 > Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.
 - `TechCrunch` [Oura is going public, but these smart ring companies are coming for its crown](https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/)
 > While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.
-- `TechCrunch` [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)
-> The round is being raised just months after the robot data startup exited from stealth.
+- `The Verge` [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
+> Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to w...
+- `The Verge` [EcoFlow makes the miniature power station even smaller](https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller)
+> If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh ca...
+- `The Verge` [The real reason your phone is getting more expensive](https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone)
+> When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest s...
+- `The Verge` [Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds](https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8)
+> Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadill...
+- `The Verge` [Huawei copies Samsung’s privacy display in its latest trifold](https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display)
+> Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor use...
 - `The Verge` [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
 > The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its...
 - `The Verge` [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami)
@@ -114,16 +114,6 @@ Points: 219
 > Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly stil...
 - `The Verge` [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review)
 > The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials a...
-- `The Verge` [Competitive Pokémon is on phones now, but you still need a Switch to become a champion](https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility)
-> To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. A...
-- `The Verge` [DIY plug-in solar gains momentum in the US](https://www.theverge.com/column/990183/diy-plug-in-solar-us)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback ar...
-- `The Verge` [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)
-> I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active l...
-- `The Verge` [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)
-> When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back...
-- `The Verge` [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
-> According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six m...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
