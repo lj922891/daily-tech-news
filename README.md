@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-07
+# 📰 每日科技日报 — 2026-09-08
 
-> 自动收集于 2026-09-07 16:44 | 共 40 条
+> 自动收集于 2026-09-08 04:02 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
+> 少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文
 - `少数派` [派评｜近期值得关注的 App](https://sspai.com/post/114288)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
@@ -28,52 +30,65 @@
 > 多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文
 - `少数派` [开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点](https://sspai.com/post/114117)
 > 研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文
-- `少数派` [在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p](https://sspai.com/post/113990)
-> 在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set)
-> Article URL: https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set
-Comments URL: https://news.ycombinator.com/item?id=4959...
-- `Hacker News` [Bill Gates tries to install MovieMaker](https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker)
-> Article URL: https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker
-Comments URL: https://news.ycombinator.com/item?id=49599481
+- `Hacker News` [Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]](https://www.youtube.com/watch?v=9EuNUe-CJRM)
+> Article URL: https://www.youtube.com/watch?v=9EuNUe-CJRM
+Comments URL: https://news.ycombinator.com/item?id=49605222
 Points: 15
-# Comments: 7
-- `Hacker News` [bzip3](https://github.com/iczelia/bzip3)
-> Article URL: https://github.com/iczelia/bzip3
-Comments URL: https://news.ycombinator.com/item?id=49598291
-Points: 150
-# Comments: 47
-- `Hacker News` [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
-> Article URL: https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/
-Comments URL: https://news.ycombinator.com/item?id=49597907
-Points: 316
-# Comments: 135
-- `Hacker News` [Splash-free urinals (2025)](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
-> Article URL: https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false
-Comments URL: https://news.ycombinator.com/item?id=49597895
-Points: 152
-# Comments: 84
-- `Hacker News` [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
-> Article URL: https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532
-Comments URL: https://news.ycombinator.com/item?...
-- `Hacker News` [Apparently CodePen 2.0 sends data to their servers as you type](https://news.ycombinator.com/item?id=49596976)
-> They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one sav...
-- `Hacker News` [VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent](https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/)
-> Article URL: https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/
-Comments URL: https://news.ycombinator.com/item?id=4959...
-- `Hacker News` [Tiny $70 Xteink X3 e-reader](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/)
-> Article URL: https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/
-Comments URL: https://news.ycombinator.com/item?id=49596629
-Points: 143
-# Comments: 140
-- `Hacker News` [Impedance Matching (2017)](https://www.edge.org/response-detail/27238)
-> Article URL: https://www.edge.org/response-detail/27238
-Comments URL: https://news.ycombinator.com/item?id=49596274
-Points: 57
+# Comments: 1
+- `Hacker News` [Show HN: NYC MapTap – Learn NYC neighborhoods (with subway routes when you miss)](https://albertjoseph0.github.io/nyc-maptap/)
+> Article URL: https://albertjoseph0.github.io/nyc-maptap/
+Comments URL: https://news.ycombinator.com/item?id=49605122
+Points: 4
+# Comments: 2
+- `Hacker News` [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
+> Article URL: https://jellyfin.org/posts/jellyfin-release-12.0/
+Comments URL: https://news.ycombinator.com/item?id=49604861
+Points: 138
+# Comments: 51
+- `Hacker News` [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+> Article URL: https://mcpherrin.ca/2026/09/07/rsa.html
+Comments URL: https://news.ycombinator.com/item?id=49604637
+Points: 149
+# Comments: 28
+- `Hacker News` [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+> Article URL: https://d2lang.com/blog/tala-is-open-source/
+Comments URL: https://news.ycombinator.com/item?id=49604150
+Points: 121
+# Comments: 10
+- `Hacker News` [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
+> Stuxnet! Here reproduced by me. Only researchs educations purposes.
+
+Comments URL: https://news.ycombinator.com/item?id=49603546
+Points: 121
+# Comments: 44
+- `Hacker News` [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
+> Article URL: https://porticoquarterly.com/essay/macbeth-and-his-problems/
+Comments URL: https://news.ycombinator.com/item?id=49602716
+Points: 47
 # Comments: 18
+- `Hacker News` [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
+> Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/
+Comments URL: https://news.ycombinator.com/item?id=49602699
+Points: 128...
+- `Hacker News` [Emacs Bedrock 2.0](https://lambdaland.org/posts/2026-09-06-bedrock-v2/)
+> Article URL: https://lambdaland.org/posts/2026-09-06-bedrock-v2/
+Comments URL: https://news.ycombinator.com/item?id=49602490
+Points: 61
+# Comments: 0
+- `Hacker News` [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
+> Article URL: https://lax-skyline.parcelscope.net/
+Comments URL: https://news.ycombinator.com/item?id=49601655
+Points: 243
+# Comments: 125
+- `TechCrunch` [Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch](https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/)
+> Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hand...
+- `TechCrunch` [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+> The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
+- `TechCrunch` [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
+> Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder.
 - `TechCrunch` [What we expect from the upcoming Apple launch](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/)
 > While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.
 - `TechCrunch` [Phil Schiller’s App Store exit reportedly driven by wariness over future plans](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/)
@@ -88,12 +103,10 @@ Points: 57
 > Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.
 - `TechCrunch` [Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)
 > The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."
-- `TechCrunch` [OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/)
-> OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.
-- `TechCrunch` [Clucky’s new alarm app wakes you up with a crowing rooster](https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/)
-> Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.
-- `TechCrunch` [Oura is going public, but these smart ring companies are coming for its crown](https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/)
-> While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.
+- `The Verge` [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)
+> China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphi...
+- `The Verge` [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
+> When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want ...
 - `The Verge` [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
 > Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to w...
 - `The Verge` [EcoFlow makes the miniature power station even smaller](https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller)
@@ -110,10 +123,6 @@ Points: 57
 > A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the...
 - `The Verge` [Europe has its first commercial orbital rocket](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch)
 > German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the ...
-- `The Verge` [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa)
-> Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly stil...
-- `The Verge` [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review)
-> The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials a...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
