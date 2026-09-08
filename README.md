@@ -6,10 +6,18 @@
 
 # 📰 每日科技日报 — 2026-09-08
 
-> 自动收集于 2026-09-08 04:02 | 共 40 条
+> 自动收集于 2026-09-08 15:28 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
+> 相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
+> Where's everyone going? Bingo?查看全文
+- `少数派` [日本浮生录 11｜越过九州，走进奄美大岛的山海夏日](https://sspai.com/post/113299)
+> 浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文
 - `少数派` [派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等](https://sspai.com/post/114307)
 > 少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文
 - `少数派` [派评｜近期值得关注的 App](https://sspai.com/post/114288)
@@ -22,107 +30,97 @@
 > 美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文
 - `少数派` [让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游](https://sspai.com/post/114076)
 > 对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...查看全文
-- `少数派` [最值得买的顶级公路车？TREK 八代 Madone 评测](https://sspai.com/post/114040)
-> 它没有卷到极致的轻量化，也没有最极端的气动数据，但综合实力稳稳站在顶级公路车的第一梯队。查看全文
-- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/114175)
-> 📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文
-- `少数派` [新学期，新气象：正版软件 & 付费栏目限时优惠](https://sspai.com/post/114110)
-> 多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文
-- `少数派` [开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点](https://sspai.com/post/114117)
-> 研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]](https://www.youtube.com/watch?v=9EuNUe-CJRM)
-> Article URL: https://www.youtube.com/watch?v=9EuNUe-CJRM
-Comments URL: https://news.ycombinator.com/item?id=49605222
-Points: 15
-# Comments: 1
-- `Hacker News` [Show HN: NYC MapTap – Learn NYC neighborhoods (with subway routes when you miss)](https://albertjoseph0.github.io/nyc-maptap/)
-> Article URL: https://albertjoseph0.github.io/nyc-maptap/
-Comments URL: https://news.ycombinator.com/item?id=49605122
-Points: 4
-# Comments: 2
-- `Hacker News` [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
-> Article URL: https://jellyfin.org/posts/jellyfin-release-12.0/
-Comments URL: https://news.ycombinator.com/item?id=49604861
-Points: 138
-# Comments: 51
-- `Hacker News` [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
-> Article URL: https://mcpherrin.ca/2026/09/07/rsa.html
-Comments URL: https://news.ycombinator.com/item?id=49604637
-Points: 149
-# Comments: 28
-- `Hacker News` [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
-> Article URL: https://d2lang.com/blog/tala-is-open-source/
-Comments URL: https://news.ycombinator.com/item?id=49604150
-Points: 121
-# Comments: 10
-- `Hacker News` [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
-> Stuxnet! Here reproduced by me. Only researchs educations purposes.
-
-Comments URL: https://news.ycombinator.com/item?id=49603546
-Points: 121
-# Comments: 44
-- `Hacker News` [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
-> Article URL: https://porticoquarterly.com/essay/macbeth-and-his-problems/
-Comments URL: https://news.ycombinator.com/item?id=49602716
-Points: 47
-# Comments: 18
-- `Hacker News` [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
-> Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/
-Comments URL: https://news.ycombinator.com/item?id=49602699
-Points: 128...
-- `Hacker News` [Emacs Bedrock 2.0](https://lambdaland.org/posts/2026-09-06-bedrock-v2/)
-> Article URL: https://lambdaland.org/posts/2026-09-06-bedrock-v2/
-Comments URL: https://news.ycombinator.com/item?id=49602490
-Points: 61
+- `Hacker News` [Disappointed Optimists](https://cwodtke.com/disappointed-optimists/)
+> Article URL: https://cwodtke.com/disappointed-optimists/
+Comments URL: https://news.ycombinator.com/item?id=49611549
+Points: 3
 # Comments: 0
-- `Hacker News` [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
-> Article URL: https://lax-skyline.parcelscope.net/
-Comments URL: https://news.ycombinator.com/item?id=49601655
-Points: 243
-# Comments: 125
+- `Hacker News` [Reverse engineering the 2008 LogiCola, a logic drill program](https://logicola.org/blog/the-new-logicola)
+> Article URL: https://logicola.org/blog/the-new-logicola
+Comments URL: https://news.ycombinator.com/item?id=49611329
+Points: 3
+# Comments: 0
+- `Hacker News` [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
+> Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
+Comments URL: https://news.ycombinator.com/item?id=49611251
+Points: 22
+# Comments: 1
+- `Hacker News` [ZX Spectrum: Experimenting with 1-Bit Sound](https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/)
+> Article URL: https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/
+Comments URL: https://news.ycombinator.com/item?id=49611230
+Points: 14
+# Comments: 2
+- `Hacker News` [How Climate Resilient Are the Largest Cities?](https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/)
+> Article URL: https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/
+Comments URL: https://news.ycombinator.com/item?id=49611132
+Points: 13
+# Comments: 7
+- `Hacker News` [The two Christian saints who are the Buddha](https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/)
+> Article URL: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/
+Comments URL: https://news.ycombinator.com/item?id=49611051
+Points: 24
+# Comments: 2
+- `Hacker News` [DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits](https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/)
+> Article URL: https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/
+Comments URL: https://news.ycombinator.com/item?id=49610...
+- `Hacker News` [Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger](https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/)
+> Article URL: https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/
+Comments URL: https://news.ycombinator.com/item?id=49610900
+Points: 29
+# ...
+- `Hacker News` [I-have-ADHD: A skill to stop your coding agent from burying the answer](https://github.com/ayghri/i-have-adhd)
+> Article URL: https://github.com/ayghri/i-have-adhd
+Comments URL: https://news.ycombinator.com/item?id=49610631
+Points: 3
+# Comments: 0
+- `Hacker News` [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
+> Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/
+Comments URL: https://news.ycombinator.com/item?id=49610538
+Points: 264
+# Comments: 81
+- `TechCrunch` [Google’s revived nuclear power plant gets $1.9B loan from US government](https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/)
+> Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.
+- `TechCrunch` [Chrome is now shipping updates every 2 weeks as AI changes the security landscape](https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/)
+> Google is speeding up Chrome’s release schedule to ship security patches and new features faster.
+- `TechCrunch` [Mistral raises €3B as sovereign AI becomes big business](https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/)
+> The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.
+- `TechCrunch` [A hacker stole $340M in a crypto heist, then returned most of it](https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/)
+> The latest heist is one of the largest thefts of cryptocurrency to date.
+- `TechCrunch` [Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch](https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/)
+> Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.
+- `TechCrunch` [Poseidon Aerospace lands $60M ahead of first pilotless test flight](https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/)
+> The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.
+- `TechCrunch` [Stoke Space raises another billion to rival SpaceX at re-flying rockets](https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/)
+> Stoke has "completed the initial closing" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.
 - `TechCrunch` [Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch](https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/)
 > Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hand...
 - `TechCrunch` [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 > The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
 - `TechCrunch` [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
 > Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder.
-- `TechCrunch` [What we expect from the upcoming Apple launch](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/)
-> While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.
-- `TechCrunch` [Phil Schiller’s App Store exit reportedly driven by wariness over future plans](https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/)
-> Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.
-- `TechCrunch` [Authors push back as publishers and agents make claims on Anthropic settlement](https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/)
-> Authors say publishers seem to be claiming more than their fair share of settlement payments.
-- `TechCrunch` [Travis Kalanick’s Atoms might be getting into the robotaxi business](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/)
-> The Uber founder has said that Atoms will allow him to complete "unfinished business."
-- `TechCrunch` [TechCrunch Mobility: Tesla Cybercab hits the road — and a snag](https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-- `TechCrunch` [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)
-> Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.
-- `TechCrunch` [Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)
-> The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required."
-- `The Verge` [First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3)
-> China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphi...
-- `The Verge` [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
-> When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want ...
-- `The Verge` [Six years later, Sony revisits its legendary XM4 headphones](https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones)
-> Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to w...
-- `The Verge` [EcoFlow makes the miniature power station even smaller](https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller)
-> If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh ca...
-- `The Verge` [The real reason your phone is getting more expensive](https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone)
-> When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest s...
-- `The Verge` [Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds](https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8)
-> Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadill...
-- `The Verge` [Huawei copies Samsung’s privacy display in its latest trifold](https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display)
-> Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor use...
-- `The Verge` [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
-> The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its...
-- `The Verge` [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami)
-> A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the...
-- `The Verge` [Europe has its first commercial orbital rocket](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch)
-> German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the ...
+- `The Verge` [Pusheen’s first game is coming to Apple Arcade](https://www.theverge.com/games/991398/pusheen-apple-arcade-game)
+> Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames ...
+- `The Verge` [JBL’s soundbar with detachable rear speakers is over $300 off](https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale)
+> A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of...
+- `The Verge` [Nintendo’s Ocarina of Time remake launches in November](https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer)
+> Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is l...
+- `The Verge` [A word with a woman who’s trying to pull off a crossbody phone strap](https://www.theverge.com/tech/990849/crossbody-phone-strap-style)
+> Oh, this thing? It's just a crossbody strap. It's a fun and youthful way to carry your phone. It's all the rage with Europeans and young people. I love it, and I definitely don't feel weird and sel...
+- `The Verge` [SteelSeries’ pro-grade, wireless Xbox controller sure is expensive](https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features)
+> SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's...
+- `The Verge` [Microsoft breaks another patch Tuesday record](https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad)
+> Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows a...
+- `The Verge` [Google’s Atlas of the human genome could pave the way for new treatments](https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas)
+> Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research a...
+- `The Verge` [The Legend of Zelda 40th Anniversary Direct: All the news and trailers](https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct)
+> The Legend of Zelda franchise turns 40 this year, and Nintendo has some news in store. The company is airing a Zelda-themed Direct on September 8th at 10AM ET (it’s actually the first of two ...
+- `The Verge` [Intel CPUs are reportedly getting a 10 percent price hike in October](https://www.theverge.com/tech/991285/intel-cpu-price-increase-october)
+> Intel's PC CPUs may get more expensive in a few weeks, with Digitimes reporting that Intel has a 10 percent price hike planned, following similar increases earlier this year. According to Digitimes...
+- `The Verge` [Adobe is trying to make its AI generators idiot-proof in Premiere](https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere)
+> Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and sou...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
