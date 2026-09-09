@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-08
+# 📰 每日科技日报 — 2026-09-09
 
-> 自动收集于 2026-09-08 15:28 | 共 40 条
+> 自动收集于 2026-09-09 04:09 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
+- `少数派` [派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
+> Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。查看全文
 - `少数派` [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
 > 相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
@@ -26,101 +30,99 @@
 > 一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文
 - `少数派` [定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
 > 在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文
-- `少数派` [派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策](https://sspai.com/post/114250)
-> 美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文
-- `少数派` [让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游](https://sspai.com/post/114076)
-> 对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Disappointed Optimists](https://cwodtke.com/disappointed-optimists/)
-> Article URL: https://cwodtke.com/disappointed-optimists/
-Comments URL: https://news.ycombinator.com/item?id=49611549
-Points: 3
-# Comments: 0
-- `Hacker News` [Reverse engineering the 2008 LogiCola, a logic drill program](https://logicola.org/blog/the-new-logicola)
-> Article URL: https://logicola.org/blog/the-new-logicola
-Comments URL: https://news.ycombinator.com/item?id=49611329
-Points: 3
-# Comments: 0
-- `Hacker News` [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
-> Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
-Comments URL: https://news.ycombinator.com/item?id=49611251
-Points: 22
-# Comments: 1
-- `Hacker News` [ZX Spectrum: Experimenting with 1-Bit Sound](https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/)
-> Article URL: https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/
-Comments URL: https://news.ycombinator.com/item?id=49611230
-Points: 14
-# Comments: 2
-- `Hacker News` [How Climate Resilient Are the Largest Cities?](https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/)
-> Article URL: https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/
-Comments URL: https://news.ycombinator.com/item?id=49611132
-Points: 13
-# Comments: 7
-- `Hacker News` [The two Christian saints who are the Buddha](https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/)
-> Article URL: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/
-Comments URL: https://news.ycombinator.com/item?id=49611051
-Points: 24
-# Comments: 2
-- `Hacker News` [DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits](https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/)
-> Article URL: https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/
-Comments URL: https://news.ycombinator.com/item?id=49610...
-- `Hacker News` [Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger](https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/)
-> Article URL: https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/
-Comments URL: https://news.ycombinator.com/item?id=49610900
-Points: 29
-# ...
-- `Hacker News` [I-have-ADHD: A skill to stop your coding agent from burying the answer](https://github.com/ayghri/i-have-adhd)
-> Article URL: https://github.com/ayghri/i-have-adhd
-Comments URL: https://news.ycombinator.com/item?id=49610631
-Points: 3
-# Comments: 0
-- `Hacker News` [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
-> Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/
-Comments URL: https://news.ycombinator.com/item?id=49610538
-Points: 264
-# Comments: 81
+- `Hacker News` [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
+> Article URL: https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance
+Comments URL: https://news.ycombinator.com/item?id=49619906
+Points: 94
+# Comments: 45
+- `Hacker News` [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843)
+> Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843
+Comments URL: https://news.ycombinator.com/item?id=49619639
+Points: 65
+# Comments: 14
+- `Hacker News` [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
+> Article URL: https://gpu-lexer.vercel.app/
+Comments URL: https://news.ycombinator.com/item?id=49619464
+Points: 32
+# Comments: 9
+- `Hacker News` [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
+> Article URL: https://e-infinity.space/picture-book/
+Comments URL: https://news.ycombinator.com/item?id=49618050
+Points: 66
+# Comments: 8
+- `Hacker News` [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+> Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH
+Comments URL: https://news.ycombinator.com/item?id=49617581
+Points: 117
+# Comments: 56
+- `Hacker News` [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+> Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/
+Comments URL: https://news.ycombinator.com/item?id=49617255
+Points: 193
+# Comments: 38
+- `Hacker News` [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
+> Article URL: https://mathstodon.xyz/@tao/117237320796901560
+Comments URL: https://news.ycombinator.com/item?id=49616968
+Points: 220
+# Comments: 156
+- `Hacker News` [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
+> Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5
+Comments URL: https://news.ycombinator.com/item?id=49616354
+Points: 136
+# Comments: 19
+- `Hacker News` [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
+> Article URL: https://glocq.com/en/blog/20260827/
+Comments URL: https://news.ycombinator.com/item?id=49616272
+Points: 54
+# Comments: 5
+- `Hacker News` [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
+> Article URL: https://github.com/argonautlabsai/deltafin
+Comments URL: https://news.ycombinator.com/item?id=49616257
+Points: 227
+# Comments: 117
+- `TechCrunch` [CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks](https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/)
+> UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.
+- `TechCrunch` [White House takes down ‘Build the Wall’ game after the Tetris Company complains](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/)
+> The Trump administration's short-lived arcade game "Build the Wall" is now nowhere to be found after the Tetris Company posted that it takes "copyright infringement very seriously."
+- `TechCrunch` [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/)
+> Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.
+- `TechCrunch` [Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-al...](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/)
+> Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.
+- `TechCrunch` [The Exploration Company nabs $450 million to challenge SpaceX](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/)
+> The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”
+- `TechCrunch` [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)
+> Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people stil...
+- `TechCrunch` [How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/)
+> Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.
+- `TechCrunch` [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
+> There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.
+- `TechCrunch` [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)
+> Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.
 - `TechCrunch` [Google’s revived nuclear power plant gets $1.9B loan from US government](https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/)
-> Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.
-- `TechCrunch` [Chrome is now shipping updates every 2 weeks as AI changes the security landscape](https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/)
-> Google is speeding up Chrome’s release schedule to ship security patches and new features faster.
-- `TechCrunch` [Mistral raises €3B as sovereign AI becomes big business](https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/)
-> The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.
-- `TechCrunch` [A hacker stole $340M in a crypto heist, then returned most of it](https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/)
-> The latest heist is one of the largest thefts of cryptocurrency to date.
-- `TechCrunch` [Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch](https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/)
-> Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.
-- `TechCrunch` [Poseidon Aerospace lands $60M ahead of first pilotless test flight](https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/)
-> The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.
-- `TechCrunch` [Stoke Space raises another billion to rival SpaceX at re-flying rockets](https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/)
-> Stoke has "completed the initial closing" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.
-- `TechCrunch` [Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch](https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/)
-> Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hand...
-- `TechCrunch` [Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
-> The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
-- `TechCrunch` [A secret new Elizabeth Holmes documentary stuns Telluride](https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/)
-> Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, "You Can See Everything," stunned Telluride audiences Sunday night with its generous access to the Theranos founder.
-- `The Verge` [Pusheen’s first game is coming to Apple Arcade](https://www.theverge.com/games/991398/pusheen-apple-arcade-game)
-> Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames ...
-- `The Verge` [JBL’s soundbar with detachable rear speakers is over $300 off](https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale)
-> A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of...
-- `The Verge` [Nintendo’s Ocarina of Time remake launches in November](https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer)
-> Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is l...
-- `The Verge` [A word with a woman who’s trying to pull off a crossbody phone strap](https://www.theverge.com/tech/990849/crossbody-phone-strap-style)
-> Oh, this thing? It's just a crossbody strap. It's a fun and youthful way to carry your phone. It's all the rage with Europeans and young people. I love it, and I definitely don't feel weird and sel...
-- `The Verge` [SteelSeries’ pro-grade, wireless Xbox controller sure is expensive](https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features)
-> SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's...
-- `The Verge` [Microsoft breaks another patch Tuesday record](https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad)
-> Engineers at Microsoft typically enjoy a quieter summer to take vacations and spend time with family, as is common at many companies. But this year, the season has been unusually busy for Windows a...
-- `The Verge` [Google’s Atlas of the human genome could pave the way for new treatments](https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas)
-> Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research a...
-- `The Verge` [The Legend of Zelda 40th Anniversary Direct: All the news and trailers](https://www.theverge.com/games/991265/the-legend-of-zelda-40th-anniversary-direct)
-> The Legend of Zelda franchise turns 40 this year, and Nintendo has some news in store. The company is airing a Zelda-themed Direct on September 8th at 10AM ET (it’s actually the first of two ...
-- `The Verge` [Intel CPUs are reportedly getting a 10 percent price hike in October](https://www.theverge.com/tech/991285/intel-cpu-price-increase-october)
-> Intel's PC CPUs may get more expensive in a few weeks, with Digitimes reporting that Intel has a 10 percent price hike planned, following similar increases earlier this year. According to Digitimes...
-- `The Verge` [Adobe is trying to make its AI generators idiot-proof in Premiere](https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere)
-> Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and sou...
+> Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.
+- `The Verge` [Sony isn’t phasing out discs quite as quickly as we thought](https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent)
+> Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's...
+- `The Verge` [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
+> OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announ...
+- `The Verge` [Rivian spinout Also apologizes for delays in shipping futuristic e-bikes](https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology)
+> Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately...
+- `The Verge` [Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off](https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale)
+> It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific...
+- `The Verge` [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
+> OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw...
+- `The Verge` [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race)
+> Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a m...
+- `The Verge` [AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)
+> Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic m...
+- `The Verge` [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6)
+> There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto V...
+- `The Verge` [Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control)
+> The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after ...
+- `The Verge` [The White House pulls its racist Tetris clone](https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone)
+> The White House has taken down its racist Tetris ripoff days after launching a website dedicated to "arcade" games, as spotted earlier by Kotaku. The Tetris clone, called "Build the Wall," involved...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
