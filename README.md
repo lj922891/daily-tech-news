@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-09-09
 
-> 自动收集于 2026-09-09 04:09 | 共 40 条
+> 自动收集于 2026-09-09 15:24 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
+> 为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？查看全文
+- `少数派` [华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线](https://sspai.com/post/113842)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [Velastar：喜欢仰望星空的你，有了一个探索异星的新选择](https://sspai.com/post/113668)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等](https://sspai.com/post/114352)
@@ -26,103 +30,95 @@
 > 少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文
 - `少数派` [派评｜近期值得关注的 App](https://sspai.com/post/114288)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥](https://sspai.com/post/113877)
-> 一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文
-- `少数派` [定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记](https://sspai.com/post/114103)
-> 在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance)
-> Article URL: https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance
-Comments URL: https://news.ycombinator.com/item?id=49619906
-Points: 94
-# Comments: 45
-- `Hacker News` [AI Responsibility – OpenAI and Anthropic](https://twitter.com/hilbertspaess/status/2097476196791709843)
-> Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843
-Comments URL: https://news.ycombinator.com/item?id=49619639
-Points: 65
-# Comments: 14
-- `Hacker News` [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/)
-> Article URL: https://gpu-lexer.vercel.app/
-Comments URL: https://news.ycombinator.com/item?id=49619464
-Points: 32
-# Comments: 9
-- `Hacker News` [A Topological Picture Book, Rendered](https://e-infinity.space/picture-book/)
-> Article URL: https://e-infinity.space/picture-book/
-Comments URL: https://news.ycombinator.com/item?id=49618050
-Points: 66
-# Comments: 8
-- `Hacker News` [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-> Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH
-Comments URL: https://news.ycombinator.com/item?id=49617581
-Points: 117
-# Comments: 56
-- `Hacker News` [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
-> Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/
-Comments URL: https://news.ycombinator.com/item?id=49617255
-Points: 193
-# Comments: 38
-- `Hacker News` [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560)
-> Article URL: https://mathstodon.xyz/@tao/117237320796901560
-Comments URL: https://news.ycombinator.com/item?id=49616968
-Points: 220
-# Comments: 156
-- `Hacker News` [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
-> Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5
-Comments URL: https://news.ycombinator.com/item?id=49616354
-Points: 136
-# Comments: 19
-- `Hacker News` [Animation in Bevy: The Big Picture](https://glocq.com/en/blog/20260827/)
-> Article URL: https://glocq.com/en/blog/20260827/
-Comments URL: https://news.ycombinator.com/item?id=49616272
-Points: 54
-# Comments: 5
-- `Hacker News` [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
-> Article URL: https://github.com/argonautlabsai/deltafin
-Comments URL: https://news.ycombinator.com/item?id=49616257
-Points: 227
-# Comments: 117
-- `TechCrunch` [CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks](https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/)
-> UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.
-- `TechCrunch` [White House takes down ‘Build the Wall’ game after the Tetris Company complains](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/)
-> The Trump administration's short-lived arcade game "Build the Wall" is now nowhere to be found after the Tetris Company posted that it takes "copyright infringement very seriously."
-- `TechCrunch` [Hackers are stealing Claude tokens from subscribers](https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/)
-> Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.
-- `TechCrunch` [Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-al...](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/)
-> Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.
-- `TechCrunch` [The Exploration Company nabs $450 million to challenge SpaceX](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/)
-> The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”
-- `TechCrunch` [Meta debuts its Muse AI agent. Will consumers trust it?](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/)
-> Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people stil...
-- `TechCrunch` [How to watch Apple’s foldable iPhone announcement](https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/)
-> Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.
-- `TechCrunch` [OpenAI fought dirty on career-making math problem, says NYU mathematician](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/)
-> There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.
-- `TechCrunch` [Google Cloud races to catch up in the AI deployment wars with Accenture deal](https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/)
-> Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.
-- `TechCrunch` [Google’s revived nuclear power plant gets $1.9B loan from US government](https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/)
-> Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.
+- `Hacker News` [Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger)
+> Article URL: https://github.com/Atomburstofficial/geiger
+Comments URL: https://news.ycombinator.com/item?id=49627646
+Points: 7
+# Comments: 0
+- `Hacker News` [The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years](https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html)
+> Article URL: https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html
+Comments URL: https://news.ycombinator.com/item?id=49626634
+Point...
+- `Hacker News` [Playing whack-a-mole is losing](https://dadrian.io/blog/posts/whack-a-mole-is-losing/)
+> Article URL: https://dadrian.io/blog/posts/whack-a-mole-is-losing/
+Comments URL: https://news.ycombinator.com/item?id=49626429
+Points: 17
+# Comments: 4
+- `Hacker News` [What will our economic future look like?](https://www.anthropic.com/institute/econ-scenarios)
+> Article URL: https://www.anthropic.com/institute/econ-scenarios
+Comments URL: https://news.ycombinator.com/item?id=49626373
+Points: 82
+# Comments: 96
+- `Hacker News` [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+> Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify
+Comments URL: https://news.ycombinator.com/item?id=49626190
+Points: 303
+# Comments: 120
+- `Hacker News` [Roame (YC S23) Is Hiring Viral Content Editor](https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor)
+> Article URL: https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor
+Comments URL: https://news.ycombinator.com/item?id=49625110
+Points: 0
+# Comments: 0
+- `Hacker News` [I advertise malicious software on Google Ads](https://xlii.space/eng/malicious-software-on-google-ads/)
+> Article URL: https://xlii.space/eng/malicious-software-on-google-ads/
+Comments URL: https://news.ycombinator.com/item?id=49624856
+Points: 202
+# Comments: 106
+- `Hacker News` [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
+> Article URL: https://desertant.com/blog/introducing-desert-ant-labs/
+Comments URL: https://news.ycombinator.com/item?id=49624823
+Points: 182
+# Comments: 49
+- `Hacker News` [DeepSeek launching v4.1 flash cheaper and more capable than v4 pro](https://news.ycombinator.com/item?id=49624603)
+> DSeek plans to officially release the V4.1 Flash model around September 10, 2026 (Beijing Time). After extensive internal and external testing, V4.1 Flash has comprehensively surpassed V4 Pro acros...
+- `Hacker News` [How An AI math breakthrough ignited a controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+> Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy
+Comments URL: https://news.ycombinator.com/item?id=49624163
+Points: 183
+# Comments: 176
+- `TechCrunch` [Viral AI assistant Instinct now has its own email address](https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/)
+> Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.
+- `TechCrunch` [Uber rival inDrive scales beyond ride-hailing to capture more consumer spending](https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/)
+> inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.
+- `TechCrunch` [‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI](https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/)
+> Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.
+- `TechCrunch` [Shipt becomes the latest delivery app with an AI shopping assistant](https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/)
+> Users can ask the assistant to do things like "Create a cart for my Saturday tailgate for 25 people and include some brunch items," or "Build a cart for easy school lunches and after-school snacks,...
+- `TechCrunch` [Uber invests $10M in Indian fleet operator Carrum at $168M valuation](https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/)
+> Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.
+- `TechCrunch` [AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?](https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/)
+> Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.
+- `TechCrunch` [Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms](https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/)
+> The three Indian companies are accused of using hackers to steal information used to sway litigation.
+- `TechCrunch` [Instacart launches an AI grocery shopping assistant called Clementine](https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/)
+> Instacart is the latest app to bake a conversational AI assistant into its platform.
+- `TechCrunch` [Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive](https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/)
+> Scott Painter, founder of TrueCar, is still trying to build a business around vehicle subscriptions, where you can cancel at any time.
+- `TechCrunch` [Sequoia doubles down on Cymphony as AI agents create new enterprise security risks](https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/)
+> Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.
+- `The Verge` [The Switch 2 is getting a 2D Metroid called Ravenous](https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous)
+> Nintendo just announced a new 2D entry in the Metroid series for the Switch 2, titled Metroid Ravenous. It's launching on January 28th, 2027. The new game looks like an evolution of Metroid Dread. ...
+- `The Verge` [I spent an hour riding inside Tesla’s steering-wheel-free Cybercab](https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin)
+> Getting out of a taxi shouldn't be a shameful experience. Yet I find myself feeling particularly embarrassed while exiting a Tesla Cybercab as it partially blocks a narrow road outside a popular Au...
+- `The Verge` [My favorite gaming earbuds got their first discount](https://www.theverge.com/gadgets/992003/asus-cetra-open-wireless-gaming-headset-earbuds-deal-sale)
+> Asus’ Cetra Open wireless earbuds are some of the best that I’ve tested, despite being open-style earbuds. Their drivers sit outside of your ear, which allows outside sounds to mix with audio comin...
+- `The Verge` [Nintendo Direct September 2026: The biggest news and trailers](https://www.theverge.com/games/991547/nintendo-direct-september-2026-news-trailers-announcements)
+> Nintendo just wrapped part two of its double feature this week. On Tuesday, the company hosted a showcase all about the Legend of Zelda franchise, including footage and a November 5th release date ...
+- `The Verge` [Amazon Prime Video’s new AI tech matches lips to dubbed audio](https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing)
+> Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with "human-dubbed" audio. The feature is only available with the English dub of the German series Maxton H...
+- `The Verge` [How to watch Apple’s September 9th launch event](https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch)
+> Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likel...
+- `The Verge` [Students who use AI generally score worse at school](https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa)
+> Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds th...
+- `The Verge` [Worried Anthropic researchers warn that AI ‘could kill all humans’](https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans)
+> A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence "could kill all humans" by the end of the decade, just hours after a colleague resigned ...
+- `The Verge` [Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable)
+> With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding ph...
 - `The Verge` [Sony isn’t phasing out discs quite as quickly as we thought](https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent)
 > Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's...
-- `The Verge` [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
-> OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announ...
-- `The Verge` [Rivian spinout Also apologizes for delays in shipping futuristic e-bikes](https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology)
-> Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately...
-- `The Verge` [Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off](https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale)
-> It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific...
-- `The Verge` [ChatGPT Sketch turns your bad drawings into detailed AI images](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch)
-> OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw...
-- `The Verge` [Meta bets on AI agent Muse to catch up in AI race](https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race)
-> Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a m...
-- `The Verge` [AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court](https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans)
-> Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic m...
-- `The Verge` [Nintendo isn’t scared of GTA VI](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6)
-> There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto V...
-- `The Verge` [Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control)
-> The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after ...
-- `The Verge` [The White House pulls its racist Tetris clone](https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone)
-> The White House has taken down its racist Tetris ripoff days after launching a website dedicated to "arcade" games, as spotted earlier by Kotaku. The Tetris clone, called "Build the Wall," involved...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
