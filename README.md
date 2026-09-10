@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-09-10
 
-> 自动收集于 2026-09-10 04:06 | 共 40 条
+> 自动收集于 2026-09-10 15:19 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
+> 祝每一位老师教师节快乐！查看全文
 - `少数派` [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
 > 奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。查看全文
 - `少数派` [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
@@ -28,92 +30,96 @@
 > 相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [一日一技｜我的 Windows 11 头像会动，你也可以](https://sspai.com/post/114312)
-> Where's everyone going? Bingo?查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](https://hugovergnes.github.io/little-lm-3-8b/)
-> Article URL: https://hugovergnes.github.io/little-lm-3-8b/
-Comments URL: https://news.ycombinator.com/item?id=49637435
-Points: 9
-# Comments: 1
-- `Hacker News` [A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
-> Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/
-Comments URL: https://news.ycombinato...
-- `Hacker News` [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
-> I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first versio...
-- `Hacker News` [Automattic's board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
-> Article URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/
-Comments URL: https://news.ycombinator.com/item?id=49636283
-Points: 104
-# Comments:...
-- `Hacker News` [Blizzard Workers Win Historic Union Contract](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
-> Article URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers
-Comments URL: https://news.ycombinator.com/item?id=4963...
-- `Hacker News` [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260)
-> Article URL: https://cognition.com/blog/factoring-rsa-260
-Comments URL: https://news.ycombinator.com/item?id=49633534
+- `Hacker News` [Amazon pilots ad services in ChatGPT](https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/)
+> Article URL: https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/
+Comments URL: https://news.ycombinator.com/item?id=49644047
+Points: 42
+# Com...
+- `Hacker News` [Show HN: I couldn't afford interview prep, so I built a free alternative](https://learningto.co/)
+> Article URL: https://learningto.co/
+Comments URL: https://news.ycombinator.com/item?id=49643992
+Points: 21
+# Comments: 21
+- `Hacker News` [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
+> Article URL: https://shopify.engineering/back-to-native
+Comments URL: https://news.ycombinator.com/item?id=49643982
+Points: 152
+# Comments: 82
+- `Hacker News` [Who Dung It? (Turdle.fun)](https://turdle.fun/)
+> Article URL: https://turdle.fun/
+Comments URL: https://news.ycombinator.com/item?id=49643864
+Points: 7
+# Comments: 4
+- `Hacker News` [Bending Spoons buying Miro for $1.355B](https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro)
+> Article URL: https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro
+Comments URL: https://news.ycombinator.com/item?id=49643848
 Points: 52
-# Comments: 6
-- `Hacker News` [iPhone Duo](https://www.apple.com/iphone-duo/)
-> Article URL: https://www.apple.com/iphone-duo/
-Comments URL: https://news.ycombinator.com/item?id=49630931
-Points: 993
-# Comments: 1786
-- `Hacker News` [Apple Watch Series 12](https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/)
-> Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/
-Comments URL: https://news.ycombinator.com/item?id=49630566
-Points: 231...
-- `Hacker News` [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
-> Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/
-Comments URL: https://news.ycombinator.com/item?id=49630253
-Poi...
-- `Hacker News` [iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/)
-> Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/
-Comments URL: https://news.ycombinator.com/item?id=49630151
-Points: 307
-# Comments: 332
-- `TechCrunch` [AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks](https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/)
-> Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.
-- `TechCrunch` [Automattic’s board forces CEO Matt Mullenweg into leave of absence](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/)
-> Mullenweg said in a company Slack message that it was against his will.
-- `TechCrunch` [OpenAI adds a prominent AI doomer to its board of directors](https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/)
-> Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.
-- `TechCrunch` [Massachusetts hits data centers with new clean power rules](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/)
-> Massachusetts has become the third state in as many months to slap new restrictions on data center development.
-- `TechCrunch` [Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago](https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/)
-> John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.
-- `TechCrunch` [Apple Watch’s new AI features are normalizing the idea that technology is always listening](https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/)
-> Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave...
-- `TechCrunch` [Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-li...](https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/)
-> The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.
-- `TechCrunch` [There are new shiny iPhones, so Apple is making you pay more for older models](https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/)
-> Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.
-- `TechCrunch` [The hinge for Apple’s new foldable phone was built with AI](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/)
-> Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.
-- `TechCrunch` [Apple Watch’s new feature listens to your chats and recaps them](https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/)
-> The Siri Recap feature is similar to other note-taking apps like Granola.
-- `The Verge` [There aren’t AirPods with cameras yet and I hope it stays that way](https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event)
-> September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro an...
-- `The Verge` [The black iPhone Pro returns](https://www.theverge.com/tech/993048/iphone-18-pro-black-color)
-> Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark bl...
-- `The Verge` [The incomplete history of Duo devices](https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices)
-> Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the ...
-- `The Verge` [Automattic CEO Matt Mullenweg placed on leave](https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence)
-> Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Autom...
-- `The Verge` [It’s the year of smartphone price hikes](https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro)
-> Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessor...
-- `The Verge` [Suno releases its first AI music model made with record industry help](https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help)
-> Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was "trained from the ground up, with a new set of data that does not ...
-- `The Verge` [OpenAI’s sly mathematical breakthrough sends a chill through academia](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)
-> OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a str...
-- `The Verge` [Read the Apple document explaining how new listening features still protect your privacy](https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy)
-> At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside ...
-- `The Verge` [How the new Apple Watches compare to the last-gen models](https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison)
-> Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at its "Surprise and shine" event. The new watches feature sizable improvements to their health sensors and tracking, plus the abi...
-- `The Verge` [Verge staffers react to the iPhone Duo: What we love and don’t love](https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react)
-> Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rat...
+# Comments: 43
+- `Hacker News` [Tell HN: OpenAI keeps re-enabling the 'allow training' setting](https://news.ycombinator.com/item?id=49643556)
+> I've reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if it...
+- `Hacker News` [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
+> Article URL: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/
+Comments URL: https://news.ycombinator.com/item?id=49643546
+Points: 119
+# Comments: 47
+- `Hacker News` [Another researcher says OpenAI trained on conversations, then claimed breakthrou](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)
+> Article URL: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d
+Comments URL: https://news.ycombinator.com/item?id=49643112
+Points: 177
+# Comments: 81
+- `Hacker News` [Who People Talk to When They're Struggling](https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling)
+> Article URL: https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling
+Comments URL: https://news.ycombinator.com/item?id=49643027
+Points: 47
+# Comments: 26
+- `Hacker News` [List of references on Sony websites to players "owning" their digital games](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit)
+> Article URL: https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit
+Comments URL: https://news.ycombinator.com/item?id=49642531
+Points: 145
+# Comments: 45
+- `TechCrunch` [The Boring Company raises $3B in round led by UAE](https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/)
+> The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.
+- `TechCrunch` [AI agents are flooding public services with new requests](https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/)
+> “The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.
+- `TechCrunch` [Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation](https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/)
+> Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.
+- `TechCrunch` [Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)
+> Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
+- `TechCrunch` [Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs](https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/)
+> The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.
+- `TechCrunch` [ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses st...](https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/)
+> The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.
+- `TechCrunch` [Snapchat takes aim at Partiful with new event-planning features](https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/)
+> Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.
+- `TechCrunch` [Defense tech Mach Industries doubles valuation to $3.7B in 3 months](https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/)
+> The buzzy startup raised another $600 million in a Series C extension round, bringing the total of the round to $900 million.
+- `TechCrunch` [European founders and VCs urge lawmakers ‘to get EU Inc right’](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/)
+> Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc.' shouldn’t be watered down.
+- `TechCrunch` [US Army places $11M bet on Austin-based GPS alternative Tern](https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/)
+> Tern has described its tech as "Google Maps for the battlefield."
+- `The Verge` [Where to preorder the new Apple Watch Series 12 and Ultra 4](https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy)
+> The iPhone Duo was the unequivocal star of Apple's "Surprise and shine" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about ...
+- `The Verge` [Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game](https://www.theverge.com/games/992937/wolverine-review-ps5)
+> Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac, Wolverine is a straightforward action game that is at its best when y...
+- `The Verge` [Sure, Meta’s AI Muse works, but it sure creeps me out](https://www.theverge.com/tech/993391/meta-muse-ai-hands-on)
+> Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can "take the busywork off your plate" by helping ...
+- `The Verge` [Another big James Talarico interview is punted to YouTube due to FCC threats](https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico)
+> Jimmy Kimmel will be interviewing Democratic Texas Senate candidate James Talarico "under unusual circumstances," posting the interview directly to YouTube, rather than airing it on TV during Jimmy...
+- `The Verge` [The iPhone Duo’s hardware doesn’t look special, but its software might be](https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo)
+> With the iPhone Duo, Apple has pulled off a familiar trick. It arrives into a mature Android foldable market with a handful of hardware features we've mostly already seen elsewhere, but paired with...
+- `The Verge` [How the iPhone Duo compares to other folding phones](https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison)
+> Apple's foldable phone is finally here - well, almost. The iPhone Duo, coming October 23rd, follows in the footsteps of past folding devices from Android phone makers like Samsung, OnePlus, and Goo...
+- `The Verge` [Why the current tech backlash feels different](https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers)
+> This interview has been lightly edited for length and clarity.  Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior prod...
+- `The Verge` [New standards for masculinity are stacked against men’s health](https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health)
+> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
+- `The Verge` [Snapchat makes it easier to plan events and meetups](https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups)
+> Snapchat is launching Plans, a new suite of features designed to help turn the plans already being made in group chats - everything from birthday celebrations to study sessions and weekend hangouts...
+- `The Verge` [Mathematicians want proof OpenAI didn’t use their work](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data)
+> Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
