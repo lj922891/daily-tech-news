@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-10
+# 📰 每日科技日报 — 2026-09-11
 
-> 自动收集于 2026-09-10 15:19 | 共 40 条
+> 自动收集于 2026-09-11 04:05 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
+> 商务部回应美国 AI 蒸馏指控谷歌声称为了合规将「降级」欧盟搜索服务Apple 智能将有用量限制OpenAI 将与三星合作开发芯片小岛秀夫新游戏被索尼取消，转由微软发行DeepSeek V4.1 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
 > 祝每一位老师教师节快乐！查看全文
 - `少数派` [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
@@ -28,98 +30,97 @@
 > Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。查看全文
 - `少数派` [Apple「随航」的无感体验里，藏着多少流畅的秘密？](https://sspai.com/prime/story/sidecar-optimizations)
 > 相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
-- `少数派` [社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源](https://sspai.com/post/114327)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Amazon pilots ad services in ChatGPT](https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/)
-> Article URL: https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/
-Comments URL: https://news.ycombinator.com/item?id=49644047
-Points: 42
-# Com...
-- `Hacker News` [Show HN: I couldn't afford interview prep, so I built a free alternative](https://learningto.co/)
-> Article URL: https://learningto.co/
-Comments URL: https://news.ycombinator.com/item?id=49643992
-Points: 21
-# Comments: 21
-- `Hacker News` [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
-> Article URL: https://shopify.engineering/back-to-native
-Comments URL: https://news.ycombinator.com/item?id=49643982
-Points: 152
-# Comments: 82
-- `Hacker News` [Who Dung It? (Turdle.fun)](https://turdle.fun/)
-> Article URL: https://turdle.fun/
-Comments URL: https://news.ycombinator.com/item?id=49643864
+- `Hacker News` [LLM Visualizer – Build a Transformer from Scratch](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)
+> Article URL: https://jayvisaria.github.io/LLM-Visualizer/#/dashboard
+Comments URL: https://news.ycombinator.com/item?id=49652996
 Points: 7
+# Comments: 3
+- `Hacker News` [Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure](https://github.com/HimanshuJ16/Algo-Trading-Skills)
+> Article URL: https://github.com/HimanshuJ16/Algo-Trading-Skills
+Comments URL: https://news.ycombinator.com/item?id=49652907
+Points: 5
+# Comments: 2
+- `Hacker News` [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
+> Article URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/
+Comments URL: https://news.ycombinator.co...
+- `Hacker News` [Herdr Studio](https://powerfooI.github.io/herdr-studio/)
+> Article URL: https://powerfooI.github.io/herdr-studio/
+Comments URL: https://news.ycombinator.com/item?id=49652188
+Points: 12
 # Comments: 4
-- `Hacker News` [Bending Spoons buying Miro for $1.355B](https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro)
-> Article URL: https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro
-Comments URL: https://news.ycombinator.com/item?id=49643848
-Points: 52
-# Comments: 43
-- `Hacker News` [Tell HN: OpenAI keeps re-enabling the 'allow training' setting](https://news.ycombinator.com/item?id=49643556)
-> I've reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if it...
-- `Hacker News` [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
-> Article URL: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/
-Comments URL: https://news.ycombinator.com/item?id=49643546
-Points: 119
-# Comments: 47
-- `Hacker News` [Another researcher says OpenAI trained on conversations, then claimed breakthrou](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)
-> Article URL: https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d
-Comments URL: https://news.ycombinator.com/item?id=49643112
-Points: 177
-# Comments: 81
-- `Hacker News` [Who People Talk to When They're Struggling](https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling)
-> Article URL: https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling
-Comments URL: https://news.ycombinator.com/item?id=49643027
-Points: 47
-# Comments: 26
-- `Hacker News` [List of references on Sony websites to players "owning" their digital games](https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit)
-> Article URL: https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit
-Comments URL: https://news.ycombinator.com/item?id=49642531
-Points: 145
-# Comments: 45
-- `TechCrunch` [The Boring Company raises $3B in round led by UAE](https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/)
-> The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.
-- `TechCrunch` [AI agents are flooding public services with new requests](https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/)
-> “The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.
-- `TechCrunch` [Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation](https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/)
-> Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.
-- `TechCrunch` [Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)
-> Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
-- `TechCrunch` [Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs](https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/)
-> The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.
-- `TechCrunch` [ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses st...](https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/)
-> The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.
-- `TechCrunch` [Snapchat takes aim at Partiful with new event-planning features](https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/)
-> Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.
-- `TechCrunch` [Defense tech Mach Industries doubles valuation to $3.7B in 3 months](https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/)
-> The buzzy startup raised another $600 million in a Series C extension round, bringing the total of the round to $900 million.
-- `TechCrunch` [European founders and VCs urge lawmakers ‘to get EU Inc right’](https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/)
-> Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc.' shouldn’t be watered down.
-- `TechCrunch` [US Army places $11M bet on Austin-based GPS alternative Tern](https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/)
-> Tern has described its tech as "Google Maps for the battlefield."
+- `Hacker News` [Setting up OpenCode with Ollama and sbx on Mac](https://tensorsandtokens.com/posts/opencode-ollama/)
+> Article URL: https://tensorsandtokens.com/posts/opencode-ollama/
+Comments URL: https://news.ycombinator.com/item?id=49652122
+Points: 13
+# Comments: 9
+- `Hacker News` [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)
+> Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o
+Comments URL: https://news.ycombinator.com/item?id=49652105
+Points: 121
+# Comments: 93
+- `Hacker News` [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
+> Article URL: https://map-yue2.github.io/
+Comments URL: https://news.ycombinator.com/item?id=49652028
+Points: 61
+# Comments: 49
+- `Hacker News` [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai)
+> Article URL: https://system76.com/workstations/thelio-mira-ai
+Comments URL: https://news.ycombinator.com/item?id=49651372
+Points: 58
+# Comments: 35
+- `Hacker News` [NTSB issues investigative update on B-767 runway excursion accident in Miami](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+> Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx
+Comments URL: https://news.ycombinator.com/item?id=49650418
+Points: 73
+# Comments: 119
+- `Hacker News` [Proof of Capture: Apple Reference Image, but open source and using steganography](https://merybenavente.me/blog/proof-of-capture)
+> Article URL: https://merybenavente.me/blog/proof-of-capture
+Comments URL: https://news.ycombinator.com/item?id=49649222
+Points: 76
+# Comments: 51
+- `TechCrunch` [Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play](https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/)
+> Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.
+- `TechCrunch` [Jensen Huang explains why Nvidia will grow an astounding 70% next year](https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/)
+> Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.
+- `TechCrunch` [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
+> Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.
+- `TechCrunch` [OpenAI puts Pro subscriptions on hold due to Astra demand](https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/)
+> The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.
+- `TechCrunch` [Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek](https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/)
+> A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.
+- `TechCrunch` [Furo’s founders left Silicon Valley — and it’s paying off](https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/)
+> The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.
+- `TechCrunch` [Meta’s AI agent Muse is now the No. 2 app in the US](https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/)
+> Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.
+- `TechCrunch` [Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers](https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/)
+> Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key ...
+- `TechCrunch` [Amazon makes it easier to buy what you see on Prime Video](https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/)
+> Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-p...
+- `TechCrunch` [Anthropic reveals rogue AI agents hate CAPTCHAs, just like you](https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/)
+> Come inside the mind of a bot trying to convince the internet it's human.
+- `The Verge` [Slack can now vibe-code interactive charts and reports inside chats](https://www.theverge.com/tech/989853/slackforce-surfaces-launch)
+> A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can de...
+- `The Verge` [Schools are catching on to Big Tech’s playbook](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)
+> It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resourc...
+- `The Verge` [Amazon’s Fire TV Stick 4K is over half off at under $20](https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale)
+> Looking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for...
+- `The Verge` [Electric air taxis get the green light for test flights in Texas](https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas)
+> A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalize...
+- `The Verge` [Universal Music is launching an AI music platform with ElevenLabs](https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai)
+> Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to ...
 - `The Verge` [Where to preorder the new Apple Watch Series 12 and Ultra 4](https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy)
 > The iPhone Duo was the unequivocal star of Apple's "Surprise and shine" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about ...
 - `The Verge` [Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game](https://www.theverge.com/games/992937/wolverine-review-ps5)
 > Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac, Wolverine is a straightforward action game that is at its best when y...
-- `The Verge` [Sure, Meta’s AI Muse works, but it sure creeps me out](https://www.theverge.com/tech/993391/meta-muse-ai-hands-on)
+- `The Verge` [Meta’s Muse AI works and creeps me out](https://www.theverge.com/tech/993391/meta-muse-ai-hands-on)
 > Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can "take the busywork off your plate" by helping ...
 - `The Verge` [Another big James Talarico interview is punted to YouTube due to FCC threats](https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico)
 > Jimmy Kimmel will be interviewing Democratic Texas Senate candidate James Talarico "under unusual circumstances," posting the interview directly to YouTube, rather than airing it on TV during Jimmy...
 - `The Verge` [The iPhone Duo’s hardware doesn’t look special, but its software might be](https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo)
 > With the iPhone Duo, Apple has pulled off a familiar trick. It arrives into a mature Android foldable market with a handful of hardware features we've mostly already seen elsewhere, but paired with...
-- `The Verge` [How the iPhone Duo compares to other folding phones](https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison)
-> Apple's foldable phone is finally here - well, almost. The iPhone Duo, coming October 23rd, follows in the footsteps of past folding devices from Android phone makers like Samsung, OnePlus, and Goo...
-- `The Verge` [Why the current tech backlash feels different](https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers)
-> This interview has been lightly edited for length and clarity.  Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior prod...
-- `The Verge` [New standards for masculinity are stacked against men’s health](https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health)
-> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
-- `The Verge` [Snapchat makes it easier to plan events and meetups](https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups)
-> Snapchat is launching Plans, a new suite of features designed to help turn the plans already being made in group chats - everything from birthday celebrations to study sessions and weekend hangouts...
-- `The Verge` [Mathematicians want proof OpenAI didn’t use their work](https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data)
-> Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
