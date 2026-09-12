@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-09-12
 
-> 自动收集于 2026-09-12 04:05 | 共 40 条
+> 自动收集于 2026-09-12 14:28 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
 > 📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和特效总监，神木隆之介、滨边美波回归出演， ...查看全文
 - `少数派` [iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事](https://sspai.com/post/114449)
@@ -28,61 +30,58 @@
 > 9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文
 - `少数派` [可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
 > 9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文
-- `少数派` [我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年](https://sspai.com/post/114366)
-> 为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
-> Article URL: https://www.autom.dev/blog/google-search-goto-links
-Comments URL: https://news.ycombinator.com/item?id=49668386
-Points: 15
-# Comments: 3
-- `Hacker News` [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
-> Article URL: https://eddie.codes/posts/pandas-should-go-extinct/
-Comments URL: https://news.ycombinator.com/item?id=49668198
+- `Hacker News` [Compiler Can Undo Your Security Checks](https://davidbombal.com/your-compiler-can-undo-your-security-checks/)
+> Article URL: https://davidbombal.com/your-compiler-can-undo-your-security-checks/
+Comments URL: https://news.ycombinator.com/item?id=49672474
+Points: 3
+# Comments: 0
+- `Hacker News` [My last six months at Evernote](https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/)
+> Article URL: https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/
+Comments URL: https://news.ycombinator.com/item?id=49672342
+Points: 7
+# Comments: 0
+- `Hacker News` [Coding Is Over. Get over It](https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./)
+> Article URL: https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./
+Comments URL: https://news.ycombinator.com/item?id=49672045
+Points: 8
+# Comments: 2
+- `Hacker News` [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+> Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/
+Comments URL: https://news.ycombinator.com/item?id=49671329
+Points: 236
+# Comments: 171
+- `Hacker News` [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
+> Article URL: https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/
+Comments URL: https://news.ycombinator.com/item?id=49671296
+Points...
+- `Hacker News` [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
+> Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/
+Comments URL: https://news.ycombinator.com/item?id=49671159
 Points: 48
 # Comments: 26
-- `Hacker News` [Google stole open source code without crediting the authors (Artemis/Minitap)](https://www.minitap.ai/blog/i-expected-better-from-google)
-> Article URL: https://www.minitap.ai/blog/i-expected-better-from-google
-Comments URL: https://news.ycombinator.com/item?id=49668181
-Points: 71
-# Comments: 11
-- `Hacker News` [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
-> Article URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies
-Comments URL: https://news.ycombinator.com/item?id=49667375
-Points: 63
-#...
-- `Hacker News` [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp)
-> Article URL: https://github.com/zachsaw/graphify-csharp
-Comments URL: https://news.ycombinator.com/item?id=49667188
-Points: 20
-# Comments: 9
-- `Hacker News` [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
-> Article URL: https://www.rubyhack.ai/
-Comments URL: https://news.ycombinator.com/item?id=49666735
-Points: 446
-# Comments: 258
-- `Hacker News` [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
-> Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf
-Comments URL: https://news.ycombinator.com/item?id=49666155
-Points: 23
-# Comments: 8
-- `Hacker News` [Project Blinkenlights](https://blinkenlights.de/en/)
-> Article URL: https://blinkenlights.de/en/
-Comments URL: https://news.ycombinator.com/item?id=49666146
-Points: 60
-# Comments: 25
-- `Hacker News` [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
-> Article URL: https://github.com/mirza-rizvi/ResolveHQ
-Comments URL: https://news.ycombinator.com/item?id=49665864
-Points: 40
-# Comments: 14
-- `Hacker News` [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie)
-> Article URL: https://www.dwarkesh.com/p/john-beren-charlie
-Comments URL: https://news.ycombinator.com/item?id=49665711
-Points: 67
-# Comments: 57
+- `Hacker News` [We've followed their lives for six decades; now the stars of 7 Up are bowing out](https://www.bbc.co.uk/news/articles/crm932el3yjo)
+> Article URL: https://www.bbc.co.uk/news/articles/crm932el3yjo
+Comments URL: https://news.ycombinator.com/item?id=49670981
+Points: 49
+# Comments: 10
+- `Hacker News` [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
+> Article URL: https://eiln.github.io/posts/ane.html
+Comments URL: https://news.ycombinator.com/item?id=49670032
+Points: 149
+# Comments: 19
+- `Hacker News` [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
+> Article URL: https://www.usenet-rewind.com/
+Comments URL: https://news.ycombinator.com/item?id=49668777
+Points: 91
+# Comments: 28
+- `Hacker News` [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
+> Article URL: https://www.claymath.org/news/navier-stokes-announcement/
+Comments URL: https://news.ycombinator.com/item?id=49668706
+Points: 223
+# Comments: 156
 - `TechCrunch` [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
 > The round for the two-year-old startup is coming together months after Mecka announced its Series A.
 - `TechCrunch` [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/)
@@ -103,6 +102,12 @@ Points: 67
 > Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at Te...
 - `TechCrunch` [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)
 > The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.
+- `The Verge` [Laika’s stop-motion fantasy Wildwood looks so smooth](https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian)
+> Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating detai...
+- `The Verge` [Where to preorder the iPhone 18 Pro and Pro Max](https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy)
+> The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 "Sunrise and shine" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the fast...
+- `The Verge` [OpenAI just wants to win](https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition)
+> OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millenniu...
 - `The Verge` [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)
 > New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters....
 - `The Verge` [Matt Mullenweg returns as Automattic CEO two days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return)
@@ -117,12 +122,6 @@ Points: 67
 > Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's "decided it is time for me to move on and try new things," after supp...
 - `The Verge` [Meta may have leaked the first look at its slim ‘Project Phoenix’ headset](https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak)
 > Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's "Project Phoenix" headset. The images, which UploadVR says were...
-- `The Verge` [Where to preorder the Apple AirPods 5](https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy)
-> The Apple AirPods 5 are bringing active noise cancellation to the masses, and they're now available for preorder at a variety of retailers. They'll officially launch on September 18th, the same day...
-- `The Verge` [Anime reaction YouTubers are at war with copyright enforcers](https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media)
-> On September 6th, YouTuber Nicholas Light posted a video to one of his channels that made it seem like all of his content was about to be removed from the platform. In the video - ominously titled ...
-- `The Verge` [The wireless earbuds with unbeatable call quality got their first discount](https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale)
-> Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgin...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
