@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-11
+# 📰 每日科技日报 — 2026-09-12
 
-> 自动收集于 2026-09-11 15:20 | 共 40 条
+> 自动收集于 2026-09-12 04:05 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,91 +33,96 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [HuggingFace: Security.txt](https://huggingface.co/security.txt)
-> Article URL: https://huggingface.co/security.txt
-Comments URL: https://news.ycombinator.com/item?id=49659245
-Points: 22
-# Comments: 1
-- `Hacker News` [New York thoracic surgeon: "For many patients 9/11 is not over"](https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/)
-> Article URL: https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/
-Comments URL: https://news.ycombinator.com/item?id=49658819
-Points: 11
-# Com...
-- `Hacker News` [Why Bullshit Jobs Are (Finally) Dying [video]](https://www.youtube.com/watch?v=QecDVkcGPxY)
-> Article URL: https://www.youtube.com/watch?v=QecDVkcGPxY
-Comments URL: https://news.ycombinator.com/item?id=49658370
-Points: 16
+- `Hacker News` [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
+> Article URL: https://www.autom.dev/blog/google-search-goto-links
+Comments URL: https://news.ycombinator.com/item?id=49668386
+Points: 15
+# Comments: 3
+- `Hacker News` [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
+> Article URL: https://eddie.codes/posts/pandas-should-go-extinct/
+Comments URL: https://news.ycombinator.com/item?id=49668198
+Points: 48
+# Comments: 26
+- `Hacker News` [Google stole open source code without crediting the authors (Artemis/Minitap)](https://www.minitap.ai/blog/i-expected-better-from-google)
+> Article URL: https://www.minitap.ai/blog/i-expected-better-from-google
+Comments URL: https://news.ycombinator.com/item?id=49668181
+Points: 71
+# Comments: 11
+- `Hacker News` [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
+> Article URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies
+Comments URL: https://news.ycombinator.com/item?id=49667375
+Points: 63
+#...
+- `Hacker News` [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp)
+> Article URL: https://github.com/zachsaw/graphify-csharp
+Comments URL: https://news.ycombinator.com/item?id=49667188
+Points: 20
 # Comments: 9
-- `Hacker News` [If coding is solved, what now?: Measuring the sloppiness of code](https://earendil.com/posts/measuring-code-sloppiness/)
-> Article URL: https://earendil.com/posts/measuring-code-sloppiness/
-Comments URL: https://news.ycombinator.com/item?id=49658311
-Points: 93
-# Comments: 109
-- `Hacker News` [Re-Engineering YouTube for the Living Room: Bringing "Chrobalt" to RDK](https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html)
-> Article URL: https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html
-Comments URL: https://news.ycombinato...
-- `Hacker News` [Houthis 'take control' of key island in global shipping route](https://www.bbc.com/news/live/cmd683p01eljt)
-> Article URL: https://www.bbc.com/news/live/cmd683p01eljt
-Comments URL: https://news.ycombinator.com/item?id=49658299
-Points: 162
-# Comments: 117
-- `Hacker News` [Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)
-> Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part.I noticed that because ...
-- `Hacker News` [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
-> Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html
-Comments URL: https://news.ycombinator.com/item?id=49656496
-Points: 257
-# Comments: 203
-- `Hacker News` [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
-> Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/
-Comments URL: https://news.ycombinator.com/item?id=49656471
-Points: 79
-# Comments: 48
-- `Hacker News` [Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
-> Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude
-Comments URL: https://news.ycombinator.com/item?id=49656225
-Points: 262
-# Comments: 349
-- `TechCrunch` [Matt Mullenweg tells Automattic staff in Slack he’s back in control after CEO ouster](https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/)
-> In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the appa...
-- `TechCrunch` [Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email...](https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/)
-> This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.
-- `TechCrunch` [Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play](https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/)
-> Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.
-- `TechCrunch` [Jensen Huang explains why Nvidia will grow an astounding 70% next year](https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/)
-> Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.
-- `TechCrunch` [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
-> Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.
-- `TechCrunch` [OpenAI puts Pro subscriptions on hold due to Astra demand](https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/)
-> The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.
-- `TechCrunch` [Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek](https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/)
-> A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.
-- `TechCrunch` [Furo’s founders left Silicon Valley — and it’s paying off](https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/)
-> The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.
-- `TechCrunch` [Meta’s AI agent Muse is now the No. 2 app in the US](https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/)
-> Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.
-- `TechCrunch` [Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers](https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/)
-> Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key ...
+- `Hacker News` [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+> Article URL: https://www.rubyhack.ai/
+Comments URL: https://news.ycombinator.com/item?id=49666735
+Points: 446
+# Comments: 258
+- `Hacker News` [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
+> Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf
+Comments URL: https://news.ycombinator.com/item?id=49666155
+Points: 23
+# Comments: 8
+- `Hacker News` [Project Blinkenlights](https://blinkenlights.de/en/)
+> Article URL: https://blinkenlights.de/en/
+Comments URL: https://news.ycombinator.com/item?id=49666146
+Points: 60
+# Comments: 25
+- `Hacker News` [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)
+> Article URL: https://github.com/mirza-rizvi/ResolveHQ
+Comments URL: https://news.ycombinator.com/item?id=49665864
+Points: 40
+# Comments: 14
+- `Hacker News` [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie)
+> Article URL: https://www.dwarkesh.com/p/john-beren-charlie
+Comments URL: https://news.ycombinator.com/item?id=49665711
+Points: 67
+# Comments: 57
+- `TechCrunch` [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
+> The round for the two-year-old startup is coming together months after Mecka announced its Series A.
+- `TechCrunch` [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/)
+> "It's actually allegedly being built out now," said Rabois, who has clearly dealt with a missed construction timeline or two.
+- `TechCrunch` [Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
+> Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.
+- `TechCrunch` [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
+> Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
+- `TechCrunch` [One week left to book your exhibit table at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)
+> Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.
+- `TechCrunch` [Final, final, final call for TechCrunch Disrupt 2026 Side Events](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/)
+> The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.
+- `TechCrunch` [Kimi-maker Moonshot AI targets $2B in annual revenue](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/)
+> While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.
+- `TechCrunch` [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/)
+> At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available ac...
+- `TechCrunch` [Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ](https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/)
+> Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at Te...
+- `TechCrunch` [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)
+> The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.
+- `The Verge` [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)
+> New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters....
+- `The Verge` [Matt Mullenweg returns as Automattic CEO two days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return)
+> Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Directo...
+- `The Verge` [We unfolded the iPhone Duo](https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms)
+> You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talki...
+- `The Verge` [The White House says Truth Social is the ‘most powerful and popular social media platform in the ...](https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful)
+> The White House claims the Donald Trump-owned Truth Social is the "most powerful and popular social media platform in the world." The statement, provided to The New York Times by White House spokes...
+- `The Verge` [Anthropic spent this week in hot water over cybersecurity](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity)
+> After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a ...
+- `The Verge` [Microsoft’s head of comms is leaving after almost 20 years](https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms)
+> Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's "decided it is time for me to move on and try new things," after supp...
+- `The Verge` [Meta may have leaked the first look at its slim ‘Project Phoenix’ headset](https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak)
+> Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's "Project Phoenix" headset. The images, which UploadVR says were...
+- `The Verge` [Where to preorder the Apple AirPods 5](https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy)
+> The Apple AirPods 5 are bringing active noise cancellation to the masses, and they're now available for preorder at a variety of retailers. They'll officially launch on September 18th, the same day...
 - `The Verge` [Anime reaction YouTubers are at war with copyright enforcers](https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media)
 > On September 6th, YouTuber Nicholas Light posted a video to one of his channels that made it seem like all of his content was about to be removed from the platform. In the video - ominously titled ...
 - `The Verge` [The wireless earbuds with unbeatable call quality got their first discount](https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale)
 > Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgin...
-- `The Verge` [Meta says it’s changing AI suggestions after posing invasive personal questions](https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions)
-> Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futur...
-- `The Verge` [New York City’s last pickpocket doesn’t need a smartphone](https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york)
-> Hello once again from Toronto, where for a week every year I watch far too many movies and tell you all about them. The festival, better known as TIFF, is always a great preview of the months ahead...
-- `The Verge` [Why Apple’s next computer should be for the smart home](https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router)
-> John Ternus didn't mention Apple Home once during his first keynote as Apple CEO. But he did open by describing an "intelligent personal hub" that prioritizes local processing, protects your privac...
-- `The Verge` [Samsung says ‘Tim Cook’ bought a Galaxy Fold](https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8)
-> That isn't Apple's former CEO promoting the Galaxy Z Fold 8 in a new Samsung ad - "Tim Cook from Palmerston North" just happens to have the same name and look a lot like him. Released right as Appl...
-- `The Verge` [Ikea supersized its cheap Bluetooth speaker and added an optical input](https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input)
-> Ikea's new Badkruka wireless Bluetooth speaker is now available in the US for $59.99. It's reminiscent of the colorful and tiny $10 Kallsup speaker that Ikea debuted earlier this year at CES 2026, ...
-- `The Verge` [Arizona’s lifeline for chip manufacturing is drying up](https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river)
-> Arizona, an epicenter for the bipartisan push to revive American chip manufacturing, is about to lose more than a quarter of the water it typically pulls each year from the Colorado River. The 1,40...
-- `The Verge` [Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US](https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs)
-> Insta360's first compact steadycam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it's followed the Ultra with a slightly stripped back Pro model, which drop...
-- `The Verge` [Apple addresses iPhone Duo copycats](https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats)
-> Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost imposs...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
