@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-12
+# 📰 每日科技日报 — 2026-09-13
 
-> 自动收集于 2026-09-12 14:28 | 共 40 条
+> 自动收集于 2026-09-13 15:09 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
+> 作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。查看全文
 - `少数派` [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/114458)
@@ -28,60 +30,59 @@
 > 奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。查看全文
 - `少数派` [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
 > 9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文
-- `少数派` [可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾](https://sspai.com/post/114392)
-> 9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Compiler Can Undo Your Security Checks](https://davidbombal.com/your-compiler-can-undo-your-security-checks/)
-> Article URL: https://davidbombal.com/your-compiler-can-undo-your-security-checks/
-Comments URL: https://news.ycombinator.com/item?id=49672474
-Points: 3
+- `Hacker News` [Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo)
+> Article URL: https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo
+Comments URL: https://news.ycombinator.com/item?id=49684266
+P...
+- `Hacker News` [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
+> Article URL: https://www.youtube.com/watch?v=xJzrU38pGWc
+Comments URL: https://news.ycombinator.com/item?id=49684042
+Points: 10
 # Comments: 0
-- `Hacker News` [My last six months at Evernote](https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/)
-> Article URL: https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/
-Comments URL: https://news.ycombinator.com/item?id=49672342
-Points: 7
-# Comments: 0
-- `Hacker News` [Coding Is Over. Get over It](https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./)
-> Article URL: https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./
-Comments URL: https://news.ycombinator.com/item?id=49672045
-Points: 8
-# Comments: 2
-- `Hacker News` [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
-> Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/
-Comments URL: https://news.ycombinator.com/item?id=49671329
-Points: 236
-# Comments: 171
-- `Hacker News` [Crypto farm in Mexican mountains puts spotlight on cartel funding](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
-> Article URL: https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/
-Comments URL: https://news.ycombinator.com/item?id=49671296
+- `Hacker News` [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
+> Article URL: https://www.theverge.com/column/994172/your-car-is-selling-your-data
+Comments URL: https://news.ycombinator.com/item?id=49683953
+Points: 39
+# Comments: 18
+- `Hacker News` [Flock worker calls police on reporter filming public camera installation](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/)
+> Article URL: https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/
+Comments URL: https://news.ycombinator.com/item?id=4968385...
+- `Hacker News` [Mars astronauts could live in houses made of yeast and jello, say scientists](https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931)
+> Article URL: https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931
+Comments URL: https://news.ycombinator.com/item?id=49...
+- `Hacker News` [AI models don't kill people – people kill people](https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368)
+> Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368
+Comments URL: https://news.ycombinator.com/item?id=49683834
+Points: 25
+# Comments...
+- `Hacker News` [US Customs supervisor busted for stealing hardware from Homeland Security PCs](https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg)
+> Article URL: https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardw...
+- `Hacker News` ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
+> Article URL: https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet
+Comments URL: https://news.ycombinator.com/item?id=49683033
 Points...
-- `Hacker News` [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
-> Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/
-Comments URL: https://news.ycombinator.com/item?id=49671159
-Points: 48
-# Comments: 26
-- `Hacker News` [We've followed their lives for six decades; now the stars of 7 Up are bowing out](https://www.bbc.co.uk/news/articles/crm932el3yjo)
-> Article URL: https://www.bbc.co.uk/news/articles/crm932el3yjo
-Comments URL: https://news.ycombinator.com/item?id=49670981
-Points: 49
-# Comments: 10
-- `Hacker News` [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
-> Article URL: https://eiln.github.io/posts/ane.html
-Comments URL: https://news.ycombinator.com/item?id=49670032
-Points: 149
-# Comments: 19
-- `Hacker News` [Usenet rewind archive search engine](https://www.usenet-rewind.com/)
-> Article URL: https://www.usenet-rewind.com/
-Comments URL: https://news.ycombinator.com/item?id=49668777
-Points: 91
-# Comments: 28
-- `Hacker News` [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
-> Article URL: https://www.claymath.org/news/navier-stokes-announcement/
-Comments URL: https://news.ycombinator.com/item?id=49668706
-Points: 223
-# Comments: 156
+- `Hacker News` [Show HN: Analyst Index – analysts who make money telling you good stock calls](https://www.analystidx.com/)
+> Hi HN!What if analyst ratings could be relied on to help you find the next Sandisk, before it takes off?On Analyst Index, analysts publish price targets with a maturity date. Every call gets scored...
+- `Hacker News` [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
+> Article URL: https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/
+Comments URL: https://news.ycombinator.com/item?id=49682087
+Points: 104
+# Comm...
+- `TechCrunch` [Fusion power startups find new partners in the defense world](https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/)
+> Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.
+- `TechCrunch` [Automattic confirms Mullenweg has returned as CEO after attempted ouster by board](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/)
+> Automattic says Mullenweg is back as "chairman and CEO of Automattic, with full support of the board."
+- `TechCrunch` [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
+> While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
+- `TechCrunch` [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
+> Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?
+- `TechCrunch` [Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/)
+> Tesla’s halo sports car was first announced in November 2017.
+- `TechCrunch` [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
+> Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.
 - `TechCrunch` [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
 > The round for the two-year-old startup is coming together months after Mecka announced its Series A.
 - `TechCrunch` [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/)
@@ -90,38 +91,26 @@ Points: 223
 > Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.
 - `TechCrunch` [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
 > Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
-- `TechCrunch` [One week left to book your exhibit table at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/)
-> Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.
-- `TechCrunch` [Final, final, final call for TechCrunch Disrupt 2026 Side Events](https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/)
-> The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.
-- `TechCrunch` [Kimi-maker Moonshot AI targets $2B in annual revenue](https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/)
-> While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.
-- `TechCrunch` [Roblox is making it easier to build games with AI — and play them outside Roblox](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/)
-> At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available ac...
-- `TechCrunch` [Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ](https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/)
-> Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at Te...
-- `TechCrunch` [Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO](https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/)
-> The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.
-- `The Verge` [Laika’s stop-motion fantasy Wildwood looks so smooth](https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian)
-> Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating detai...
-- `The Verge` [Where to preorder the iPhone 18 Pro and Pro Max](https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy)
-> The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 "Sunrise and shine" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the fast...
-- `The Verge` [OpenAI just wants to win](https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition)
-> OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millenniu...
-- `The Verge` [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)
-> New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters....
-- `The Verge` [Matt Mullenweg returns as Automattic CEO two days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return)
-> Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Directo...
-- `The Verge` [We unfolded the iPhone Duo](https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms)
-> You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talki...
-- `The Verge` [The White House says Truth Social is the ‘most powerful and popular social media platform in the ...](https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful)
-> The White House claims the Donald Trump-owned Truth Social is the "most powerful and popular social media platform in the world." The statement, provided to The New York Times by White House spokes...
-- `The Verge` [Anthropic spent this week in hot water over cybersecurity](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity)
-> After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a ...
-- `The Verge` [Microsoft’s head of comms is leaving after almost 20 years](https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms)
-> Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's "decided it is time for me to move on and try new things," after supp...
-- `The Verge` [Meta may have leaked the first look at its slim ‘Project Phoenix’ headset](https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak)
-> Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's "Project Phoenix" headset. The images, which UploadVR says were...
+- `The Verge` [Waymo pulls over, calls cops on riders with a ghost gun](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun)
+> Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ...
+- `The Verge` [Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster](https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026)
+> Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising d...
+- `The Verge` [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arri...
+- `The Verge` [Apple’s new phones are here](https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones)
+> Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old edition...
+- `The Verge` [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)
+> In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were respon...
+- `The Verge` [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)
+> OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Huggi...
+- `The Verge` [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
+> Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morh...
+- `The Verge` [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music)
+> Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the...
+- `The Verge` [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)
+> Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its "adherence to safety practices a...
+- `The Verge` [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
+> Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
