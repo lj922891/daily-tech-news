@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-13
+# 📰 每日科技日报 — 2026-09-14
 
-> 自动收集于 2026-09-13 15:09 | 共 40 条
+> 自动收集于 2026-09-14 04:23 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
+> 每年九月都是苹果用户最期待的时节——苹果发布新一代iPhone。当新机到手，你可能也要随之给手上的配件更新换代。巧了，这一次，少数派给大家带来了一款颠覆以往所有磁吸支架形态的产品，它够薄、够轻、够好用 ...查看全文
+- `少数派` [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
+> 美国 AI 高管呼吁放缓研发，特朗普反对苹果解释 Apple Watch 不会持续录音LG 否认智能电视监控用户暴雪公布《魔兽世界》怀旧服儿童贴身使用笔记本电脑导致皮肤灼伤Android 开始支持密码管理器迁移看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
 > 作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。查看全文
 - `少数派` [与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南](https://sspai.com/post/114461)
@@ -26,51 +30,69 @@
 > 商务部回应美国 AI 蒸馏指控谷歌声称为了合规将「降级」欧盟搜索服务Apple 智能将有用量限制OpenAI 将与三星合作开发芯片小岛秀夫新游戏被索尼取消，转由微软发行DeepSeek V4.1 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
 > 祝每一位老师教师节快乐！查看全文
-- `少数派` [派早报：Apple 发布 iPhone Duo 折叠屏等](https://sspai.com/post/114394)
-> 奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。查看全文
-- `少数派` [一图流 | 一张图带你看完 2026 Apple 秋季发布会](https://sspai.com/post/114393)
-> 9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo)
-> Article URL: https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo
-Comments URL: https://news.ycombinator.com/item?id=49684266
-P...
-- `Hacker News` [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
-> Article URL: https://www.youtube.com/watch?v=xJzrU38pGWc
-Comments URL: https://news.ycombinator.com/item?id=49684042
-Points: 10
-# Comments: 0
-- `Hacker News` [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
-> Article URL: https://www.theverge.com/column/994172/your-car-is-selling-your-data
-Comments URL: https://news.ycombinator.com/item?id=49683953
-Points: 39
-# Comments: 18
-- `Hacker News` [Flock worker calls police on reporter filming public camera installation](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/)
-> Article URL: https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/
-Comments URL: https://news.ycombinator.com/item?id=4968385...
-- `Hacker News` [Mars astronauts could live in houses made of yeast and jello, say scientists](https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931)
-> Article URL: https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931
-Comments URL: https://news.ycombinator.com/item?id=49...
-- `Hacker News` [AI models don't kill people – people kill people](https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368)
-> Article URL: https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368
-Comments URL: https://news.ycombinator.com/item?id=49683834
-Points: 25
-# Comments...
-- `Hacker News` [US Customs supervisor busted for stealing hardware from Homeland Security PCs](https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg)
-> Article URL: https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardw...
-- `Hacker News` ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
-> Article URL: https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet
-Comments URL: https://news.ycombinator.com/item?id=49683033
-Points...
-- `Hacker News` [Show HN: Analyst Index – analysts who make money telling you good stock calls](https://www.analystidx.com/)
-> Hi HN!What if analyst ratings could be relied on to help you find the next Sandisk, before it takes off?On Analyst Index, analysts publish price targets with a maturity date. Every call gets scored...
-- `Hacker News` [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
-> Article URL: https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/
-Comments URL: https://news.ycombinator.com/item?id=49682087
-Points: 104
-# Comm...
+- `Hacker News` [Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
+> https://archive.ph/8NmSg
+
+Comments URL: https://news.ycombinator.com/item?id=49691343
+Points: 33
+# Comments: 16
+- `Hacker News` [Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg)
+> My friend Greg often posts incredible things he just made, just for fun.Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG!A few things he made that...
+- `Hacker News` [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228)
+> Article URL: https://arxiv.org/abs/1802.07228
+Comments URL: https://news.ycombinator.com/item?id=49690678
+Points: 22
+# Comments: 5
+- `Hacker News` [Show HN: Exploring the intersection of prediction markets and social media](https://www.thevidmarket.com/)
+> The idea is to explore whether an intersection of social media, popularity, and prediction markets can exist and what it can look like.
+
+Comments URL: https://news.ycombinator.com/item?id=49690614
+...
+- `Hacker News` [AI Robots – When will they be in our homes](https://spectrum.ieee.org/ai-robots)
+> Article URL: https://spectrum.ieee.org/ai-robots
+Comments URL: https://news.ycombinator.com/item?id=49690411
+Points: 11
+# Comments: 8
+- `Hacker News` [Writing a better reality: The case for optimistic sci-fi](https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/)
+> Article URL: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/
+Comments URL: https://news.ycombinator.com/item?id=49690279
+Points: 21
+# Comments: 11
+- `Hacker News` [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list)
+> Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list
+Comments URL: https://news.ycombinator.com/item?id=49690260
+Points: 47
+# Comments: 4
+- `Hacker News` [Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/)
+> Article URL: https://developer.apple.com/accessories/dimensional-drawings/
+Comments URL: https://news.ycombinator.com/item?id=49690174
+Points: 63
+# Comments: 12
+- `Hacker News` ["Chilling" warning or overreaction? AI bioweapons report divides experts](https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts)
+> Article URL: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts
+Comments URL: https://news.ycombinator.com/item?id=49690139
+Points: 17
+# C...
+- `Hacker News` [The Coming War on General Computation (2011)](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
+> Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation
+Comments URL: https://news.ycombinator.com/item?id=49690051
+Points: 63
+# Comments: 15
+- `TechCrunch` [Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm ...](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)
+> Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his...
+- `TechCrunch` [Larry Ellison cancels $7.5 billion sale of Oracle stock](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/)
+> Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.
+- `TechCrunch` [The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/)
+> From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.
+- `TechCrunch` [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
+> On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.
+- `TechCrunch` [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
+> Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and s...
+- `TechCrunch` [TechCrunch Mobility: Lyft has entered the robotaxi chat](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.
 - `TechCrunch` [Fusion power startups find new partners in the defense world](https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/)
 > Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.
 - `TechCrunch` [Automattic confirms Mullenweg has returned as CEO after attempted ouster by board](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/)
@@ -79,18 +101,12 @@ Points: 104
 > While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
 - `TechCrunch` [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
 > Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?
-- `TechCrunch` [Tesla says it will finally unveil the second generation Roadster on October 1](https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/)
-> Tesla’s halo sports car was first announced in November 2017.
-- `TechCrunch` [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
-> Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.
-- `TechCrunch` [Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)
-> The round for the two-year-old startup is coming together months after Mecka announced its Series A.
-- `TechCrunch` [Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road](https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/)
-> "It's actually allegedly being built out now," said Rabois, who has clearly dealt with a missed construction timeline or two.
-- `TechCrunch` [Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
-> Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.
-- `TechCrunch` [OpenAI’s feud with mathematicians is only escalating](https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/)
-> Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
+- `The Verge` [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)
+> Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to "pace the frontier" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly...
+- `The Verge` [Apple is reportedly working on iPhone game controllers](https://www.theverge.com/tech/994426/apple-iphone-game-controllers)
+> Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have...
+- `The Verge` [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review)
+> The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of the...
 - `The Verge` [Waymo pulls over, calls cops on riders with a ghost gun](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun)
 > Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ...
 - `The Verge` [Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster](https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026)
@@ -105,12 +121,6 @@ Points: 104
 > OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Huggi...
 - `The Verge` [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
 > Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morh...
-- `The Verge` [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music)
-> Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the...
-- `The Verge` [Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)
-> Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its "adherence to safety practices a...
-- `The Verge` [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
-> Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
