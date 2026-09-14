@@ -6,10 +6,16 @@
 
 # 📰 每日科技日报 — 2026-09-14
 
-> 自动收集于 2026-09-14 04:23 | 共 40 条
+> 自动收集于 2026-09-14 17:06 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派评｜近期值得关注的 App](https://sspai.com/post/114577)
+> >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)
+> 用具体的测试数据和盲评结果，聊聊当下 AI 辅助制作 Excel 的真实水平，以及我使用 AI 辅助制作 Excel 的心得。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)
+> 照片能证明它被拍过，但不能证明镜头前是真的。查看全文
 - `少数派` [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
 > 每年九月都是苹果用户最期待的时节——苹果发布新一代iPhone。当新机到手，你可能也要随之给手上的配件更新换代。巧了，这一次，少数派给大家带来了一款颠覆以往所有磁吸支架形态的产品，它够薄、够轻、够好用 ...查看全文
 - `少数派` [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
@@ -24,103 +30,97 @@
 > 新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。查看全文
 - `少数派` [「正常」已是不易：聊聊不那么标新立异的理想 i6](https://sspai.com/post/113605)
 > 如果你想买一辆能够长期持有、同时又足够「正常」的新能源车，我还是非常推荐去试试理想 i6。查看全文
-- `少数派` [新 iPhone 配件精选：多种组合一次配齐](https://sspai.com/post/114414)
-> iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠29元，防护充电组合优 ...查看全文
-- `少数派` [派早报：商务部回应美国 AI 蒸馏指控](https://sspai.com/post/114439)
-> 商务部回应美国 AI 蒸馏指控谷歌声称为了合规将「降级」欧盟搜索服务Apple 智能将有用量限制OpenAI 将与三星合作开发芯片小岛秀夫新游戏被索尼取消，转由微软发行DeepSeek V4.1 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [App+1｜下一节：教学工作紧张忙碌，下一节课从从容容](https://sspai.com/post/114384)
-> 祝每一位老师教师节快乐！查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
-> https://archive.ph/8NmSg
-
-Comments URL: https://news.ycombinator.com/item?id=49691343
-Points: 33
-# Comments: 16
-- `Hacker News` [Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg)
-> My friend Greg often posts incredible things he just made, just for fun.Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG!A few things he made that...
-- `Hacker News` [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228)
-> Article URL: https://arxiv.org/abs/1802.07228
-Comments URL: https://news.ycombinator.com/item?id=49690678
-Points: 22
-# Comments: 5
-- `Hacker News` [Show HN: Exploring the intersection of prediction markets and social media](https://www.thevidmarket.com/)
-> The idea is to explore whether an intersection of social media, popularity, and prediction markets can exist and what it can look like.
-
-Comments URL: https://news.ycombinator.com/item?id=49690614
-...
-- `Hacker News` [AI Robots – When will they be in our homes](https://spectrum.ieee.org/ai-robots)
-> Article URL: https://spectrum.ieee.org/ai-robots
-Comments URL: https://news.ycombinator.com/item?id=49690411
-Points: 11
-# Comments: 8
-- `Hacker News` [Writing a better reality: The case for optimistic sci-fi](https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/)
-> Article URL: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/
-Comments URL: https://news.ycombinator.com/item?id=49690279
+- `Hacker News` [Fitting Neural Textures and PBR Material Maps with ES (No Backprop)](http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html)
+> Article URL: http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html
+Comments URL: https://news.ycombinator.com/item?id=49699696
+Points: 3
+# Comments: 0
+- `Hacker News` [Blizzard Revives 'StarCraft' Franchise with Open-World Sci-Fi Shooter](https://hypebeast.com/2026/9/blizzard-open-world-starcraft-sci-fi-shooter-2030-release-info-teaser-revealed)
+> Article URL: https://hypebeast.com/2026/9/blizzard-open-world-starcraft-sci-fi-shooter-2030-release-info-teaser-revealed
+Comments URL: https://news.ycombinator.com/item?id=49699671
+Points: 30
+# Com...
+- `Hacker News` [Why don't machine learning research agents overfit?](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit)
+> Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit
+Comments URL: https://news.ycombinator.com/item?id=49699648
+Points: 8
+# Comments: 1
+- `Hacker News` [When LLM judges agree, should we believe them?](https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them)
+> Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them
+Comments URL: https://news.ycombinator.com/item?id=49699590
+Points: 6
+# Comments: 0
+- `Hacker News` [I stress-tested Meta Muse until its agent control plane started timing out](https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/)
+> Article URL: https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/
+Comments URL: https://news.ycombinator.com/item?id=49699527
+Points: 4
+# Comments: 1
+- `Hacker News` [Hacking AI customer service agents](https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents)
+> Article URL: https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents
+Comments URL: https://news.ycombinator.com/item?id=49699526
 Points: 21
+# Comments: 1
+- `Hacker News` [For AI leaders Doom is a form of hype](https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/)
+> Article URL: https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/
+Comments URL: https://news.ycombinator.com/item?id=49699384
+Points: 98
+# Comments: 63
+- `Hacker News` [Claude is a Contrarian](https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada)
+> Article URL: https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada
+Comments URL: https://news.ycombinator.com/item?id=49699373
+Points: 24
 # Comments: 11
-- `Hacker News` [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list)
-> Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list
-Comments URL: https://news.ycombinator.com/item?id=49690260
-Points: 47
-# Comments: 4
-- `Hacker News` [Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/)
-> Article URL: https://developer.apple.com/accessories/dimensional-drawings/
-Comments URL: https://news.ycombinator.com/item?id=49690174
-Points: 63
-# Comments: 12
-- `Hacker News` ["Chilling" warning or overreaction? AI bioweapons report divides experts](https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts)
-> Article URL: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts
-Comments URL: https://news.ycombinator.com/item?id=49690139
-Points: 17
-# C...
-- `Hacker News` [The Coming War on General Computation (2011)](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
-> Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation
-Comments URL: https://news.ycombinator.com/item?id=49690051
-Points: 63
-# Comments: 15
+- `Hacker News` [Microsoft patches Windows and Excel – breaks audio, remote access, and paste](https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085)
+> Article URL: https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085
+Comments URL: https://news.ycombinator.com/item?id=...
+- `Hacker News` [Show HN: Neobrutalism.dev – just added Base UI support and added new color theme](https://www.neobrutalism.dev/)
+> Article URL: https://www.neobrutalism.dev/
+Comments URL: https://news.ycombinator.com/item?id=49699159
+Points: 13
+# Comments: 1
+- `TechCrunch` [Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/)
+> Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.
+- `TechCrunch` [Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)
+> The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as ...
+- `TechCrunch` [Waymo opens robotaxi service in Las Vegas](https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/)
+> Las Vegas will be Waymo's 15th commercial robotaxi market.
+- `TechCrunch` [Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg](https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/)
+> Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.
+- `TechCrunch` [Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?](https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/)
+> If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactiv...
+- `TechCrunch` [Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work](https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/)
+> Fathom said that it has over 400,000 monthly active users.
+- `TechCrunch` [Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/)
+> Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional...
+- `TechCrunch` [5 days left to exhibit at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/)
+> The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, inves...
+- `TechCrunch` [A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting](https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/)
+> Former Spotify exec's company releases experimental "singles" that involves users in music making.
 - `TechCrunch` [Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm ...](https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/)
 > Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his...
-- `TechCrunch` [Larry Ellison cancels $7.5 billion sale of Oracle stock](https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/)
-> Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.
-- `TechCrunch` [The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs](https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/)
-> From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.
-- `TechCrunch` [What’s behind the AI industry’s latest warnings of doom?](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/)
-> On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.
-- `TechCrunch` [Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)
-> Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and s...
-- `TechCrunch` [TechCrunch Mobility: Lyft has entered the robotaxi chat](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.
-- `TechCrunch` [Fusion power startups find new partners in the defense world](https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/)
-> Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.
-- `TechCrunch` [Automattic confirms Mullenweg has returned as CEO after attempted ouster by board](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/)
-> Automattic says Mullenweg is back as "chairman and CEO of Automattic, with full support of the board."
-- `TechCrunch` [OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
-> While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
-- `TechCrunch` [Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)
-> Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?
-- `The Verge` [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)
-> Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to "pace the frontier" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly...
-- `The Verge` [Apple is reportedly working on iPhone game controllers](https://www.theverge.com/tech/994426/apple-iphone-game-controllers)
-> Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have...
-- `The Verge` [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review)
-> The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of the...
-- `The Verge` [Waymo pulls over, calls cops on riders with a ghost gun](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun)
-> Two people were arrested in San Fransico while riding around in a Waymo robotaxi after the cab pulled over and called the cops on them. The riders were juveniles in possession of a loaded AR-style ...
-- `The Verge` [Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster](https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026)
-> Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising d...
-- `The Verge` [Your car is selling your data](https://www.theverge.com/column/994172/your-car-is-selling-your-data)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arri...
-- `The Verge` [Apple’s new phones are here](https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones)
-> Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old edition...
-- `The Verge` [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)
-> In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were respon...
-- `The Verge` [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)
-> OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Huggi...
-- `The Verge` [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
-> Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morh...
+- `The Verge` [The Steam Frame is made for irresponsible hardware nerds like me](https://www.theverge.com/tech/994267/steam-frame-review)
+> For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. ...
+- `The Verge` [Valve’s Steam Frame costs $1,059](https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date)
+> Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also o...
+- `The Verge` [Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame](https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port)
+> Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadg...
+- `The Verge` [I reviewed Valve’s Steam Frame, ask me anything](https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered)
+> Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset th...
+- `The Verge` [The Dell XPS 13 is the first real competitor to the MacBook Neo](https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review)
+> Dell's last XPS 13 was meant to be a farewell before the company sunset the entire XPS brand. But it was a bitter ending, and an overpriced one as well. Earlier this year, Dell resurrected the XPS ...
+- `The Verge` [Netflix is making a Crazy Taxi movie and a Sonic show with ‘edge’](https://www.theverge.com/streaming/994861/netflix-crazy-taxi-sonic-stranger-than-heaven)
+> Netflix has announced three new adaptations of Sega games: a Crazy Taxi film, a Sonic animated series "built for kids who want to feel a little edge," and a live-action movie based on the upcoming ...
+- `The Verge` [Volkswagen’s slippery new EV breaks a bunch of efficiency records](https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record)
+> No, that's not a Tesla Cybercab. That's Volkswagen's Mission Efficiency, the world's slipperiest electric vehicle. The near-production 2+2 seat electric coupe prototype was built on VW's MEB+ platf...
+- `The Verge` [Google’s Pixel 11 is cheaper ahead of iPhone 18 Pro launch](https://www.theverge.com/gadgets/994737/google-pixel-11-pro-10a-amazon-fire-tv-cube-game-deal-sale)
+> Apple’s iPhone 18 Pro will release this Friday, September 18th, and it’s tough to see it as just a coincidence that Google’s latest Pixel phones are discounted. The Pixel 11 Pro carries the biggest...
+- `The Verge` [Adam Conover explains how YouTube ruined everything](https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai)
+> Today, I’m joined by comedian, podcast host, and YouTuber Adam Conover. Adam is a familiar face to anyone who’s spent time on the internet. He got his start, like so many successful comedy writers,...
+- `The Verge` [The four-hour-long Elon Musk documentary might be preaching to the choir](https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026)
+> It makes sense that Musk is a long film. The latest from Alex Gibney, who has previously directed documentaries about Theranos and Steve Jobs, is an impressively thorough retelling of the story of ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
