@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-15
+# 📰 每日科技日报 — 2026-09-16
 
-> 自动收集于 2026-09-15 15:46 | 共 40 条
+> 自动收集于 2026-09-16 04:19 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
+> 复活吧，微软（旧）Edge——怀念一款「失败」的浏览器。查看全文
+- `少数派` [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
+> 华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。查看全文
 - `少数派` [社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
@@ -26,100 +30,99 @@
 > 照片能证明它被拍过，但不能证明镜头前是真的。查看全文
 - `少数派` [众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)
 > 每年九月都是苹果用户最期待的时节——苹果发布新一代iPhone。当新机到手，你可能也要随之给手上的配件更新换代。巧了，这一次，少数派给大家带来了一款颠覆以往所有磁吸支架形态的产品，它够薄、够轻、够好用 ...查看全文
-- `少数派` [派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)
-> 美国 AI 高管呼吁放缓研发，特朗普反对苹果解释 Apple Watch 不会持续录音LG 否认智能电视监控用户暴雪公布《魔兽世界》怀旧服儿童贴身使用笔记本电脑导致皮肤灼伤Android 开始支持密码管理器迁移看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [搭建自己的 HomeLab（一）：聊聊我的硬件清单](https://sspai.com/post/113880)
-> 作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)
-> Article URL: https://www.formas.ai/cartesian
-Comments URL: https://news.ycombinator.com/item?id=49713999
-Points: 5
-# Comments: 0
-- `Hacker News` [Global bond yields hit 2008 highs, raising stakes for big borrowers](https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/)
-> Article URL: https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/
-Comments URL: https://news.ycombinator.com/item?id=49712746
-Points: 86
-#...
-- `Hacker News` [Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel)
-> Article URL: https://github.com/greentfrapp/panel
-Comments URL: https://news.ycombinator.com/item?id=49712621
-Points: 21
-# Comments: 4
-- `Hacker News` [AI is breaking our proxies for expertise](https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/)
-> Article URL: https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/
-Comments URL: https://news.ycombinator.com/item?id=49712416
-Points: 46
+- `Hacker News` [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
+> Article URL: https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/
+Comments URL: https://news.ycombinator.com/item?id=49721548
+Points: 30
+# Comments: 10
+- `Hacker News` [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
+> Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/
+Comments URL: https://news.ycombinator.com/item?id=49721435
+Points: 35
+# Comments: 15
+- `Hacker News` [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
+> Article URL: https://security.apple.com/blog/apple-reference-image/
+Comments URL: https://news.ycombinator.com/item?id=49721322
+Points: 47
+# Comments: 31
+- `Hacker News` [Saving Jet Fuel](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
+> Article URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html
+Comments URL: https://news.ycombinator.com/item?id=49720164
+Points: 54
+# Comments: 21
+- `Hacker News` [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
+> Article URL: https://nand2mario.github.io/posts/2026/zsst-voodoo/
+Comments URL: https://news.ycombinator.com/item?id=49719938
+Points: 65
+# Comments: 10
+- `Hacker News` [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
+> Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html
+Comments URL: https://news.ycombinator.com/item?id=49718928
+Points: 156
+# Comments: 46
+- `Hacker News` [Jean-Pierre Serre turns 100](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
+> Article URL: https://mathshistory.st-andrews.ac.uk/Biographies/Serre/
+Comments URL: https://news.ycombinator.com/item?id=49718822
+Points: 109
 # Comments: 18
-- `Hacker News` [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/)
-> Hey HN,I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few month...
-- `Hacker News` [Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks](https://github.com/ordewell/ordewell)
-> Article URL: https://github.com/ordewell/ordewell
-Comments URL: https://news.ycombinator.com/item?id=49712276
-Points: 17
-# Comments: 14
-- `Hacker News` [Show HN: Hacking a $20 4G wireless hotspot into a texting device](https://bkovac.github.io/modem-thing/)
-> Article URL: https://bkovac.github.io/modem-thing/
-Comments URL: https://news.ycombinator.com/item?id=49712102
-Points: 81
-# Comments: 8
-- `Hacker News` [Java 27 Released](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
-> Article URL: https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/
-Comments URL: https://news.ycombinator.com/item?id=49712041
-Points: 196
-# Comments:...
-- `Hacker News` [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
-> Article URL: https://github.com/arnegiacomo/fugleramme
-Comments URL: https://news.ycombinator.com/item?id=49711544
-Points: 462
-# Comments: 78
-- `Hacker News` [25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]](https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough)
-> Article URL: https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough
-Comments URL: https://news.ycombinator.com/item?id=49711309
-Points: 93
-# Comments: 6
-- `TechCrunch` [AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round](https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/)
-> Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.
-- `TechCrunch` [Wonder scores a $425 million partnership with DoorDash as it builds its food empire](https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/)
-> Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.
-- `TechCrunch` [Former TikTok execs built an app that uses AI to teach you how to pose for a photo](https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/)
-> Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.
-- `TechCrunch` [Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/)
-> Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedr...
-- `TechCrunch` [India ends free ride for larger transactions on its ubiquitous digital payments network](https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/)
-> India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.
-- `TechCrunch` [Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data](https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/)
-> Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.
-- `TechCrunch` [4 days left to exhibit at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/)
-> Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.
-- `TechCrunch` [Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents](https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/)
-> Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.
-- `TechCrunch` [Spotify finally lets parents exclude kids’ music from Wrapped and recommendations](https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/)
-> Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.
-- `TechCrunch` [New Italian unicorn Exein rides the physical AI wave](https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/)
-> Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.
+- `Hacker News` [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/)
+> Article URL: https://codyho.dev/blog/gpu-driver/
+Comments URL: https://news.ycombinator.com/item?id=49717638
+Points: 205
+# Comments: 123
+- `Hacker News` [WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages](https://github.com/GraafHenk/numberwang)
+> Article URL: https://github.com/GraafHenk/numberwang
+Comments URL: https://news.ycombinator.com/item?id=49717605
+Points: 123
+# Comments: 47
+- `Hacker News` [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+> Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev
+Comments URL: https://news.ycombinator.com/item?id=49717558
+Points: 938
+# Comments: 294
+- `TechCrunch` [We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)
+> AI isn't some new form of "alien mind," according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.
+- `TechCrunch` [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/)
+> National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.
+- `TechCrunch` [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/)
+> A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.
+- `TechCrunch` [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+> From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
+- `TechCrunch` [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/)
+> The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.
+- `TechCrunch` [SpaceX will try to put Starship in orbit for the first time on September 22](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/)
+> Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.
+- `TechCrunch` [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/)
+> The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.
+- `TechCrunch` [US military says it has launched weapons into space](https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/)
+> This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.
+- `TechCrunch` [Meta expands subscription push with new AI-focused plans](https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/)
+> Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.
+- `TechCrunch` [Health benefits platform Thatch reaches $1B valuation as healthcare costs surge](https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/)
+> Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund...
+- `The Verge` [The Boox Palma 3 gets stylus support and a sleek redesign](https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16)
+> Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small ...
+- `The Verge` [The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization](https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability)
+> Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the origina...
+- `The Verge` [AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september)
+> Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular....
+- `The Verge` [Microsoft announces Windows and Surface event for October 7th](https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco)
+> It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7t...
+- `The Verge` [What if social media isn’t hurting kids?](https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt)
+> Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame...
+- `The Verge` [Kia’s electric van lineup is getting more interesting with reveal of PV7](https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale)
+> You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that...
+- `The Verge` [One of the best 3D printers for beginners is almost $100 off](https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale)
+> If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its u...
+- `The Verge` [How The Oregon Trail became a generational icon](https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon)
+> Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premie...
+- `The Verge` [Vintage Violence is an absurdist crime thriller for phone addicts](https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster)
+> There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre sp...
 - `The Verge` [Now Light’s minimalist phone can easily call an Uber](https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app)
 > More than a decade after its Kickstarter proposed a "cell phone designed to be used as little as possible," Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owner...
-- `The Verge` [Meta’s new One subscriptions put a price on social media and AI](https://www.theverge.com/tech/995453/meta-one-subscriptions-ai)
-> Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundl...
-- `The Verge` [Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint](https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection)
-> Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round des...
-- `The Verge` [This doorbell camera lets a human security guard watch your front door](https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs)
-> DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with th...
-- `The Verge` [Voicemod’s new pocket-friendly device brings real-time voice changing to your phone](https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard)
-> Voicemod announced a new mobile device that expands the capabilities of the Voicemod Key dongle it launched in late 2024 as a way to bring the company's real-time voice changing tech to consoles. W...
-- `The Verge` [The premium AirPods 5 are the best open-ear earbuds Apple has made](https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review)
-> It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) more expensive. But that's not what Apple ...
-- `The Verge` [GM updates its trucks’ native software to coexist with CarPlay](https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto)
-> General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls....
-- `The Verge` [Microsoft issues emergency Windows 11 update to fix its record-breaking patch](https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues)
-> Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its bigge...
-- `The Verge` [Volvo’s plug-in hybrid XC60 and XC90 can really go the distance](https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range)
-> Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is ...
-- `The Verge` [Valve is still figuring out ‘how and when’ to do Steam Deck 2](https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when)
-> Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve i...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
