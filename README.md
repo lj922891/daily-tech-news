@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-09-17
 
-> 自动收集于 2026-09-17 04:25 | 共 40 条
+> 自动收集于 2026-09-17 15:44 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [城市漫步指南｜威海初秋，看海玩沙](https://sspai.com/post/114557)
+> 9 月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。查看全文
+- `少数派` [具透 | macOS 27 正式版来了，这些是你值得了解新细节](https://sspai.com/post/114643)
+> 除了只支持 Apple Silicon，macOS 27 Golden Gate 还有这些变化。查看全文
 - `少数派` [一个小创意的诞生：BeatBox 雪漫天外壳定制指南](https://sspai.com/post/114451)
 > 今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？查看全文
 - `少数派` [派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等](https://sspai.com/post/114658)
@@ -26,103 +30,90 @@
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
 > 少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文
-- `少数派` [开学季 | 学生理财的三条建议，学生党也可以一样理财](https://sspai.com/post/47126)
-> 学生理财应是「理」字当头，培养收支的计划性是第一位，也恰恰是理财投资的基础。查看全文
-- `少数派` [派评｜近期值得关注的 App](https://sspai.com/post/114577)
-> >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The Painful Truth: The RAM Crisis Is Only Just the Beginning](https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/)
-> Article URL: https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/
-Comments URL: https://news.ycombinator.com/item?id=49736220
-Points: 6
-# Comments: 4
-- `Hacker News` [ASCII City](https://asciicity.live/)
-> Article URL: https://asciicity.live/
-Comments URL: https://news.ycombinator.com/item?id=49736077
-Points: 13
-# Comments: 1
-- `Hacker News` [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
-> Article URL: https://ryan.science/blog/keys-not-included
-Comments URL: https://news.ycombinator.com/item?id=49735930
-Points: 46
-# Comments: 15
-- `Hacker News` [Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)](https://www.vanityfair.com/news/2008/05/monsanto200805)
-> Article URL: https://www.vanityfair.com/news/2008/05/monsanto200805
-Comments URL: https://news.ycombinator.com/item?id=49735692
-Points: 23
-# Comments: 8
-- `Hacker News` [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html)
-> Article URL: https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html
-Comments URL: https://news.ycombinator.com/item?id=49735410
-Points: 63
-# Comments: 6
-- `Hacker News` [Part-human part-mouse brain developed in science breakthrough](https://www.bbc.com/news/articles/c60m3k28j81mo)
-> Article URL: https://www.bbc.com/news/articles/c60m3k28j81mo
-Comments URL: https://news.ycombinator.com/item?id=49735367
-Points: 11
-# Comments: 7
-- `Hacker News` [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/)
-> Article URL: https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/
-Comments URL: https://news.ycombinator.com/item?id=49734929
-Points: 38
-# Comments: 17
-- `Hacker News` [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/)
-> Article URL: https://openspec.dev/
-Comments URL: https://news.ycombinator.com/item?id=49734264
-Points: 96
-# Comments: 38
-- `Hacker News` [HarnessTax: How Much Does the Harness Matter for Coding Agents?](https://harnesstax.github.io/)
-> Article URL: https://harnesstax.github.io/
-Comments URL: https://news.ycombinator.com/item?id=49733726
-Points: 69
-# Comments: 20
-- `Hacker News` [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
-> Article URL: https://arxiv.org/abs/2609.16338
-Comments URL: https://news.ycombinator.com/item?id=49732931
-Points: 162
-# Comments: 22
-- `TechCrunch` [Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain wh...](https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/)
-> This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability,...
-- `TechCrunch` [Snap tries to make the case again for its $2,200 smart glasses](https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/)
-> Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.
-- `TechCrunch` [Musk’s long-time backer is giving SpaceX stock to its investors](https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/)
-> Valor Equity Partners is handing out stock to its LPs instead of cash returns.
-- `TechCrunch` [Al Gore says the real AI risk isn’t data centers](https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/)
-> In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.
-- `TechCrunch` [US automakers could soon be forced to include AM radio for free](https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/)
-> The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.
-- `TechCrunch` [Noise wants to help everyday people  become paid content creators](https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/)
-> Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.
-- `TechCrunch` [Pulley, a Carta rival, is shutting down](https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/)
-> Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund,   announced that it's closing shop in December.
-- `TechCrunch` [Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/)
-> Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independenc...
-- `TechCrunch` [After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/)
-> Can Meta dodge the "pervert glasses" accusations with a new camera-free product?
-- `TechCrunch` [X will now let US users trade via Cashtags](https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/)
-> The move closes the gap between the market discussions taking place on the timeline, and the market itself.
-- `The Verge` [The streamers are fighting over Halloween](https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie)
-> The Toronto International Film Festival is a place to go to see the future of film, but this year it also provided a glimpse at what is coming very soon in the realm of streaming. Four different st...
-- `The Verge` [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac)
-> Snap is introducing "Specs Intelligence," a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems simila...
-- `The Verge` [I wore Snap’s $2,200 smart glasses](https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses)
-> My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could sel...
-- `The Verge` [The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long](https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review)
-> Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely ...
-- `The Verge` [The AI data center e-waste problem is huge — and getting bigger](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban)
-> E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circ...
-- `The Verge` [Resident Evil is a comedy first and a thrilling nightmare second](https://www.theverge.com/entertainment/996416/resident-zach-cregger-review)
-> When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations co...
-- `The Verge` [Walmart takes a bite off the cost of Metroid Ravenous physical preorders](https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale)
-> The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switc...
-- `The Verge` [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia)
-> According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left ent...
-- `The Verge` [Your ‘health age’ is fake](https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity)
-> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
-- `The Verge` [Google will now let any AI agent run your smart home](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date)
-> Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context...
+- `Hacker News` [I Don't Like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)
+> Article URL: https://martinfowler.com/articles/2026-dont-like-llms.html
+Comments URL: https://news.ycombinator.com/item?id=49740834
+Points: 88
+# Comments: 92
+- `Hacker News` [I had Gemini train its own replacement for $9](https://www.petervijeh.com/projects/reddit-ner)
+> Article URL: https://www.petervijeh.com/projects/reddit-ner
+Comments URL: https://news.ycombinator.com/item?id=49740330
+Points: 78
+# Comments: 31
+- `Hacker News` [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/)
+> I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown ou...
+- `Hacker News` [Show HN: I built a new version of my fun spatial 3D online meeting app](https://flat.social)
+> Hi HN!flat.social is a fun spatial online meeting app for remote teams and communities. It's largely built like a web multiplayer game, and the 3D virtual spaces are highly customisable with elemen...
+- `Hacker News` [Iran school bombing: grounds to believe US was behind atrocity, UN finds](https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack)
+> Article URL: https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack
+Comments URL: https://news.ycombinator.com/item?id=49739018
+Points: 199
+# Comment...
+- `Hacker News` [Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)
+> I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address.Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin do...
+- `Hacker News` [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
+> Article URL: https://manticoresearch.com/blog/auto-chunking/
+Comments URL: https://news.ycombinator.com/item?id=49738766
+Points: 57
+# Comments: 10
+- `Hacker News` [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
+> Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure
+Comments URL: https://news.ycombinator.com/item?id=49737922
+Points: 218
+# Comments: 168
+- `Hacker News` [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+> Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/
+Comments URL: https://news.ycombinator.com/item?id=49737849
+Points: 257
+# Comments: 111
+- `Hacker News` [CCC invites all model citizens to 40C3](https://events.ccc.de/en/2026/09/12/40c3-model-citizens/)
+> Article URL: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/
+Comments URL: https://news.ycombinator.com/item?id=49737787
+Points: 171
+# Comments: 45
+- `TechCrunch` [Last call: Disrupt volunteer application closes soon](https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/)
+> If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.
+- `TechCrunch` [I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout](https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/)
+> Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions.
+- `TechCrunch` [Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia](https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/)
+> Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.
+- `TechCrunch` [2 days left to exhibit at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/)
+> Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.
+- `TechCrunch` [Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls](https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/)
+> People can use these assistants to make restaurant reservations and cancel subscriptions.
+- `TechCrunch` [Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers](https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/)
+> A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.
+- `TechCrunch` [Lucid Motors has a potential robotaxi partner for Europe](https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/)
+> The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet.
+- `TechCrunch` [How Bain Capital Ventures plans to deploy its fresh $1.6B fund](https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/)
+> BCV's latest fund targets early-stage founders harnessing AGI and building the infrastructure to run it efficiently.
+- `TechCrunch` [Spotify expands its partner program for podcasts to 35 new countries](https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/)
+> Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third.
+- `TechCrunch` [Comp AI sets eyes on a continuously agentic future for security and compliance](https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/)
+> Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.
+- `The Verge` [Camp Snap’s 110D gives slim retro film cameras a digital upgrade](https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film)
+> Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film camera...
+- `The Verge` [Your robotaxi might be a narc](https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance)
+> In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected "a violation of our terms of service involving a firearm," p...
+- `The Verge` [Microsoft AI CEO says AI threats are real, and Anthropic is making it worse](https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude)
+> Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.  It sho...
+- `The Verge` [AI is feared globally as the destroyer of jobs](https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs)
+> Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people acro...
+- `The Verge` [Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins](https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst)
+> Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI...
+- `The Verge` [Bose’s next open earbuds have more bass, more volume, and more battery life](https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport)
+> Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feat...
+- `The Verge` [Spotify’s Fresh Finds Forward gives artists free studio time and more](https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward)
+> Getting added to Spotify's Fresh Finds playlists can be a huge break for artists trying to cut through the noise on streaming. Now Spotify is launching a program called Fresh Finds Forward, which a...
+- `The Verge` [Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks](https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack)
+> After teasing a music-related reveal a few days ago, Rockstar has officially announced the soundtrack for Grand Theft Auto VI. Called Grand Theft Auto VI: The Album, the soundtrack will feature 34 ...
+- `The Verge` [The Apple Watch Series 12 is the start of a new wearable era](https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch)
+> You wouldn't know that the Apple Watch Series 12 is a big deal just by looking at it. It has the same design, buttons, sizes, and sensor types as generations of Apple Watches before it. But under t...
+- `The Verge` [Inside the suddenly explosive world of AI safety](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic)
+> On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a "war room" to dissect the hi...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
