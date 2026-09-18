@@ -6,10 +6,18 @@
 
 # 📰 每日科技日报 — 2026-09-18
 
-> 自动收集于 2026-09-18 04:09 | 共 40 条
+> 自动收集于 2026-09-18 15:17 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/114716)
+> 📅本周新预告《哆啦A梦大雄的蒸汽时间车》首支特报9月15日，动画电影《哆啦A梦大雄的蒸汽时间车》发布了特报影像，定档2027年3月5日在日本上映。本作为《哆啦A梦》电影系列第46部作品，森山瑠潮执导， ...查看全文
+- `少数派` [8月音乐精选：有限的生命里，要听得再任性一点！](https://sspai.com/post/114555)
+> 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
+- `少数派` [具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……](https://sspai.com/post/114670)
+> 让我们一起细数 watchOS 27 中的新功能。查看全文
+- `少数派` [让 Agent 读懂你的身体：数据获取篇](https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis)
+> 某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种「怎么练来练去还是这样」的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等](https://sspai.com/post/114699)
 > 少数派的近期动态口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解八月买了什 ...查看全文
 - `少数派` [城市漫步指南｜威海初秋，看海玩沙](https://sspai.com/post/114557)
@@ -22,68 +30,66 @@
 > 惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。查看全文
 - `少数派` [探秘柬埔寨，千年吴哥窟](https://sspai.com/post/114454)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性](https://sspai.com/post/114607)
-> 今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。查看全文
-- `少数派` [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
-> 复活吧，微软（旧）Edge——怀念一款「失败」的浏览器。查看全文
-- `少数派` [社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
-> 少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)
-> Article URL: https://linguisticdiscovery.com/posts/pre-greek/
-Comments URL: https://news.ycombinator.com/item?id=49749771
-Points: 4
+- `Hacker News` [I Vibed a Proof of Conway's Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/)
+> Article URL: https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/
+Comments URL: https://news.ycombinator.com/item?id=49755024
+Points: 34
+# Comments: 13
+- `Hacker News` [Second Circuit Allows Government to Search Electronic Devices at the Border](https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion)
+> Article URL: https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion
+Comments URL: https://news.ycombinator.com/item?id=...
+- `Hacker News` [HEIF Heist: image parser RCE exploit](https://heif-heist.com)
+> Article URL: https://heif-heist.com
+Comments URL: https://news.ycombinator.com/item?id=49754253
+Points: 2
 # Comments: 0
-- `Hacker News` [Code Scans](https://devin.ai/blog/introducing-code-scans)
-> Article URL: https://devin.ai/blog/introducing-code-scans
-Comments URL: https://news.ycombinator.com/item?id=49749744
-Points: 6
-# Comments: 0
-- `Hacker News` [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
-> Article URL: https://www.hacktron.ai/blog/hacking-openai
-Comments URL: https://news.ycombinator.com/item?id=49749656
-Points: 47
+- `Hacker News` [NATS publishes preliminary report on technical incident of 8 September](https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/)
+> Article URL: https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/
+Comments URL: https://news.ycombinator.com/item?id=49754064
+Points: 9
+# Comments: 2
+- `Hacker News` [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
+> Article URL: https://arxiv.org/abs/2609.20804
+Comments URL: https://news.ycombinator.com/item?id=49753878
+Points: 98
 # Comments: 15
-- `Hacker News` [The open source version of Claude Project that gives you the context ownershp](https://github.com/zqiren/Orbital)
-> Article URL: https://github.com/zqiren/Orbital
-Comments URL: https://news.ycombinator.com/item?id=49749457
-Points: 4
+- `Hacker News` [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
+> Article URL: https://hawksley.dev/blog/i-dont-like-passkeys
+Comments URL: https://news.ycombinator.com/item?id=49753211
+Points: 327
+# Comments: 300
+- `Hacker News` [Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)
+> Article URL: https://blog.liampwll.com/posts/bend_vibe_coding/
+Comments URL: https://news.ycombinator.com/item?id=49753179
+Points: 255
+# Comments: 176
+- `Hacker News` [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
+> Article URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us
+Comments URL: https://news.ycombinator.com/item?id=49753131
+Points: 0
 # Comments: 0
-- `Hacker News` [Shapelearn Qwen 3.8 27B (13.1 GB VRAM)](https://byteshape.com/blogs/Qwen3.8-27B/)
-> Article URL: https://byteshape.com/blogs/Qwen3.8-27B/
-Comments URL: https://news.ycombinator.com/item?id=49749393
-Points: 6
-# Comments: 0
-- `Hacker News` [Ask A Monk – A digital wilderness for thoughts with no immediate answer](https://askamonk.online)
-> Article URL: https://askamonk.online
-Comments URL: https://news.ycombinator.com/item?id=49749171
-Points: 16
-# Comments: 5
-- `Hacker News` [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
-> Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006
-Comments URL: https://news.ycombinator.com/item?id=49748957
-Points: 24
-# Comments: 9
-- `Hacker News` [Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)
-> Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash
-Comments URL: https://news.ycombinator.com/item?id=49747925
-Points: 87
-# Comments: 20
-- `Hacker News` [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
-> Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/
-Comments URL: https://news.ycombinator.com/item?id=49746628
-Points: 67
-# Comments: 29
-- `Hacker News` [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
-> Article URL: https://prismml.com/news/bonsai-2-27b
-Comments URL: https://news.ycombinator.com/item?id=49746618
-Points: 296
-# Comments: 95
-- `TechCrunch` [Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal](https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/)
+- `Hacker News` [Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)
+> Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html
+Comments URL: https://news.ycombinator.com/item?id=49752614
+Points: 161
+# Comments: 104
+- `Hacker News` [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
+> Article URL: https://tokenstead.ai/guides/zcode-silent-git-history-upload
+Comments URL: https://news.ycombinator.com/item?id=49752422
+Points: 219
+# Comments: 47
+- `TechCrunch` [Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/)
+> Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.
+- `TechCrunch` [Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/)
+> Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.
+- `TechCrunch` [Researchers used Anthropic’s Claude to hack into OpenAI](https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/)
+> Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.
+- `TechCrunch` [The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/)
+> Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.
+- `TechCrunch` [Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal](https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/)
 > Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.
 - `TechCrunch` [Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/)
 > The round values the data center giant at $30.9 billion.
@@ -95,14 +101,12 @@ Points: 296
 > If AI lab PrismML isn't on your radar yet, it should be.
 - `TechCrunch` [The FAA’s plan to fix air traffic? $875M worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/)
 > A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.
-- `TechCrunch` [The fix for rogue AI agents could be more AI](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/)
-> As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.
-- `TechCrunch` [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)
-> OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capab...
-- `TechCrunch` [Is the AI safety debate about safety or control?](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/)
-> Not everyone agrees with Amodei's call for globally coordinated action for AI safety.
-- `TechCrunch` [UN turns to Google to make its global data ready for AI agents](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/)
-> The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.
+- `The Verge` [Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy](https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale)
+> Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch...
+- `The Verge` [This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket](https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge)
+> FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limi...
+- `The Verge` [Flash floods can strike without warning — this new technology could change that](https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning)
+> On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy ...
 - `The Verge` [Waymo says Singapore will be its next international robotaxi city](https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027)
 > Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore i...
 - `The Verge` [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)
@@ -117,12 +121,6 @@ Points: 296
 > Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film camera...
 - `The Verge` [Your robotaxi might be a narc](https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance)
 > In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected "a violation of our terms of service involving a firearm," p...
-- `The Verge` [Microsoft AI CEO says AI threats are real, and Anthropic is making it worse](https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude)
-> Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.  It sho...
-- `The Verge` [AI is feared globally as the destroyer of jobs](https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs)
-> Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people acro...
-- `The Verge` [Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins](https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst)
-> Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
