@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-17
+# 📰 每日科技日报 — 2026-09-18
 
-> 自动收集于 2026-09-17 15:44 | 共 40 条
+> 自动收集于 2026-09-18 04:09 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等](https://sspai.com/post/114699)
+> 少数派的近期动态口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解八月买了什 ...查看全文
 - `少数派` [城市漫步指南｜威海初秋，看海玩沙](https://sspai.com/post/114557)
 > 9 月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。查看全文
 - `少数派` [具透 | macOS 27 正式版来了，这些是你值得了解新细节](https://sspai.com/post/114643)
@@ -24,8 +26,6 @@
 > 今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。查看全文
 - `少数派` [当我怀念旧版 Edge 浏览器时，我在怀念什么？](https://sspai.com/post/113295)
 > 复活吧，微软（旧）Edge——怀念一款「失败」的浏览器。查看全文
-- `少数派` [派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等](https://sspai.com/post/114638)
-> 华为与问界调整鸿蒙智行合作模式，雅马哈发布 B200A 条形音箱等。查看全文
 - `少数派` [社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备](https://sspai.com/post/114613)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性](https://sspai.com/post/114565)
@@ -33,67 +33,86 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [I Don't Like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)
-> Article URL: https://martinfowler.com/articles/2026-dont-like-llms.html
-Comments URL: https://news.ycombinator.com/item?id=49740834
-Points: 88
-# Comments: 92
-- `Hacker News` [I had Gemini train its own replacement for $9](https://www.petervijeh.com/projects/reddit-ner)
-> Article URL: https://www.petervijeh.com/projects/reddit-ner
-Comments URL: https://news.ycombinator.com/item?id=49740330
-Points: 78
-# Comments: 31
-- `Hacker News` [Show HN: Share your AI Setup, Learn from others](https://mysetup.ai/)
-> I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown ou...
-- `Hacker News` [Show HN: I built a new version of my fun spatial 3D online meeting app](https://flat.social)
-> Hi HN!flat.social is a fun spatial online meeting app for remote teams and communities. It's largely built like a web multiplayer game, and the 3D virtual spaces are highly customisable with elemen...
-- `Hacker News` [Iran school bombing: grounds to believe US was behind atrocity, UN finds](https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack)
-> Article URL: https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack
-Comments URL: https://news.ycombinator.com/item?id=49739018
-Points: 199
-# Comment...
-- `Hacker News` [Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)
-> I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address.Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin do...
-- `Hacker News` [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
-> Article URL: https://manticoresearch.com/blog/auto-chunking/
-Comments URL: https://news.ycombinator.com/item?id=49738766
-Points: 57
-# Comments: 10
-- `Hacker News` [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
-> Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure
-Comments URL: https://news.ycombinator.com/item?id=49737922
-Points: 218
-# Comments: 168
-- `Hacker News` [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
-> Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/
-Comments URL: https://news.ycombinator.com/item?id=49737849
-Points: 257
-# Comments: 111
-- `Hacker News` [CCC invites all model citizens to 40C3](https://events.ccc.de/en/2026/09/12/40c3-model-citizens/)
-> Article URL: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/
-Comments URL: https://news.ycombinator.com/item?id=49737787
-Points: 171
-# Comments: 45
-- `TechCrunch` [Last call: Disrupt volunteer application closes soon](https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/)
-> If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.
-- `TechCrunch` [I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout](https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/)
-> Tovala offers both a smart oven and a meal-delivery service. Its meals come with QR codes that you scan using the app, allowing the oven to automatically follow the cooking instructions.
-- `TechCrunch` [Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia](https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/)
-> Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.
-- `TechCrunch` [2 days left to exhibit at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/)
-> Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.
-- `TechCrunch` [Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls](https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/)
-> People can use these assistants to make restaurant reservations and cancel subscriptions.
-- `TechCrunch` [Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers](https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/)
-> A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.
-- `TechCrunch` [Lucid Motors has a potential robotaxi partner for Europe](https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/)
-> The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet.
-- `TechCrunch` [How Bain Capital Ventures plans to deploy its fresh $1.6B fund](https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/)
-> BCV's latest fund targets early-stage founders harnessing AGI and building the infrastructure to run it efficiently.
-- `TechCrunch` [Spotify expands its partner program for podcasts to 35 new countries](https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/)
-> Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third.
-- `TechCrunch` [Comp AI sets eyes on a continuously agentic future for security and compliance](https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/)
-> Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.
+- `Hacker News` [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)
+> Article URL: https://linguisticdiscovery.com/posts/pre-greek/
+Comments URL: https://news.ycombinator.com/item?id=49749771
+Points: 4
+# Comments: 0
+- `Hacker News` [Code Scans](https://devin.ai/blog/introducing-code-scans)
+> Article URL: https://devin.ai/blog/introducing-code-scans
+Comments URL: https://news.ycombinator.com/item?id=49749744
+Points: 6
+# Comments: 0
+- `Hacker News` [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
+> Article URL: https://www.hacktron.ai/blog/hacking-openai
+Comments URL: https://news.ycombinator.com/item?id=49749656
+Points: 47
+# Comments: 15
+- `Hacker News` [The open source version of Claude Project that gives you the context ownershp](https://github.com/zqiren/Orbital)
+> Article URL: https://github.com/zqiren/Orbital
+Comments URL: https://news.ycombinator.com/item?id=49749457
+Points: 4
+# Comments: 0
+- `Hacker News` [Shapelearn Qwen 3.8 27B (13.1 GB VRAM)](https://byteshape.com/blogs/Qwen3.8-27B/)
+> Article URL: https://byteshape.com/blogs/Qwen3.8-27B/
+Comments URL: https://news.ycombinator.com/item?id=49749393
+Points: 6
+# Comments: 0
+- `Hacker News` [Ask A Monk – A digital wilderness for thoughts with no immediate answer](https://askamonk.online)
+> Article URL: https://askamonk.online
+Comments URL: https://news.ycombinator.com/item?id=49749171
+Points: 16
+# Comments: 5
+- `Hacker News` [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006)
+> Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006
+Comments URL: https://news.ycombinator.com/item?id=49748957
+Points: 24
+# Comments: 9
+- `Hacker News` [Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)
+> Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash
+Comments URL: https://news.ycombinator.com/item?id=49747925
+Points: 87
+# Comments: 20
+- `Hacker News` [How Uber Protects Against Retry Storms](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
+> Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/
+Comments URL: https://news.ycombinator.com/item?id=49746628
+Points: 67
+# Comments: 29
+- `Hacker News` [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+> Article URL: https://prismml.com/news/bonsai-2-27b
+Comments URL: https://news.ycombinator.com/item?id=49746618
+Points: 296
+# Comments: 95
+- `TechCrunch` [Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal](https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/)
+> Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.
+- `TechCrunch` [Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/)
+> The round values the data center giant at $30.9 billion.
+- `TechCrunch` [Google DeepMind launches institute to widen the AGI debate](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/)
+> The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. "They will not always agree, and they will likely change the...
+- `TechCrunch` [Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear](https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/)
+> An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.
+- `TechCrunch` [PrismML hopes its tiny LLM will change how we all use AI](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/)
+> If AI lab PrismML isn't on your radar yet, it should be.
+- `TechCrunch` [The FAA’s plan to fix air traffic? $875M worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/)
+> A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.
+- `TechCrunch` [The fix for rogue AI agents could be more AI](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/)
+> As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.
+- `TechCrunch` [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/)
+> OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capab...
+- `TechCrunch` [Is the AI safety debate about safety or control?](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/)
+> Not everyone agrees with Amodei's call for globally coordinated action for AI safety.
+- `TechCrunch` [UN turns to Google to make its global data ready for AI agents](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/)
+> The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.
+- `The Verge` [Waymo says Singapore will be its next international robotaxi city](https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027)
+> Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore i...
+- `The Verge` [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)
+> Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and resear...
+- `The Verge` [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)
+> The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other ...
+- `The Verge` [Save $30 or more on a refurbished Apple TV 4K](https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale)
+> Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buyin...
+- `The Verge` [Xbox’s clever disc-to-digital feature was 15 years in the making](https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad)
+> When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xb...
 - `The Verge` [Camp Snap’s 110D gives slim retro film cameras a digital upgrade](https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film)
 > Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film camera...
 - `The Verge` [Your robotaxi might be a narc](https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance)
@@ -104,16 +123,6 @@ Points: 171
 > Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people acro...
 - `The Verge` [Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins](https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst)
 > Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI...
-- `The Verge` [Bose’s next open earbuds have more bass, more volume, and more battery life](https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport)
-> Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feat...
-- `The Verge` [Spotify’s Fresh Finds Forward gives artists free studio time and more](https://www.theverge.com/entertainment/996505/spotify-fresh-finds-forward)
-> Getting added to Spotify's Fresh Finds playlists can be a huge break for artists trying to cut through the noise on streaming. Now Spotify is launching a program called Fresh Finds Forward, which a...
-- `The Verge` [Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks](https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack)
-> After teasing a music-related reveal a few days ago, Rockstar has officially announced the soundtrack for Grand Theft Auto VI. Called Grand Theft Auto VI: The Album, the soundtrack will feature 34 ...
-- `The Verge` [The Apple Watch Series 12 is the start of a new wearable era](https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch)
-> You wouldn't know that the Apple Watch Series 12 is a big deal just by looking at it. It has the same design, buttons, sizes, and sensor types as generations of Apple Watches before it. But under t...
-- `The Verge` [Inside the suddenly explosive world of AI safety](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic)
-> On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a "war room" to dissect the hi...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
