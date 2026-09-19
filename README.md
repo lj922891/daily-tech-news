@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-09-19
 
-> 自动收集于 2026-09-19 04:06 | 共 40 条
+> 自动收集于 2026-09-19 14:54 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [你的脸红是什么红：了解玫瑰痤疮](https://sspai.com/post/114641)
+> 脸红发烫却没有小鹿乱撞：警惕玫瑰痤疮。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/114716)
 > 📅本周新预告《哆啦A梦大雄的蒸汽时间车》首支特报9月15日，动画电影《哆啦A梦大雄的蒸汽时间车》发布了特报影像，定档2027年3月5日在日本上映。本作为《哆啦A梦》电影系列第46部作品，森山瑠潮执导， ...查看全文
 - `少数派` [8月音乐精选：有限的生命里，要听得再任性一点！](https://sspai.com/post/114555)
@@ -28,58 +30,58 @@
 > 今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？查看全文
 - `少数派` [派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等](https://sspai.com/post/114658)
 > 惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。查看全文
-- `少数派` [探秘柬埔寨，千年吴哥窟](https://sspai.com/post/114454)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
-> Article URL: https://sdcc.sourceforge.net/
-Comments URL: https://news.ycombinator.com/item?id=49762744
-Points: 18
-# Comments: 2
-- `Hacker News` [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
-> Article URL: https://jepedersen.dk/blog/202505_research/
-Comments URL: https://news.ycombinator.com/item?id=49762687
-Points: 26
-# Comments: 11
-- `Hacker News` [Gemini hacked three companies in first known breakout by Google's AI](https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/)
-> Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/
-Comments URL: https://news.ycombinator.com/item?id=49762493
-Poi...
-- `Hacker News` [Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/)
-> Article URL: https://liveworld.info/
-Comments URL: https://news.ycombinator.com/item?id=49762099
-Points: 21
-# Comments: 23
-- `Hacker News` [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
-> Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions
-Comments URL: https://news.ycombinator.com/item?id=...
-- `Hacker News` [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
-> Article URL: https://spectrum.ieee.org/llms-for-chip-design
-Comments URL: https://news.ycombinator.com/item?id=49761432
-Points: 71
-# Comments: 64
-- `Hacker News` [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
-> Article URL: https://code.claude.com/docs/en/changelog
-Comments URL: https://news.ycombinator.com/item?id=49760187
-Points: 554
-# Comments: 201
-- `Hacker News` [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
-> Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576
-Comments URL: https://news.ycombinator.com/item?id=49758736
-Points: 628
-# Comments: 306
-- `Hacker News` [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)
-> Article URL: https://arxiv.org/abs/2609.02852
-Comments URL: https://news.ycombinator.com/item?id=49758689
-Points: 56
-# Comments: 20
-- `Hacker News` [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](https://arxiv.org/abs/2510.03215)
-> Article URL: https://arxiv.org/abs/2510.03215
-Comments URL: https://news.ycombinator.com/item?id=49758615
-Points: 70
-# Comments: 12
+- `Hacker News` [Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
+> Article URL: https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951
+Comments URL: https://news.ycombinator.com/item?id=497668...
+- `Hacker News` [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
+> Article URL: https://github.com/mindbox77/zxdesk
+Comments URL: https://news.ycombinator.com/item?id=49766676
+Points: 15
+# Comments: 4
+- `Hacker News` [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
+> Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/
+Comments URL: https://news.ycombinator.com/item?id=49766637
+Points: 28
+# Comments: 10
+- `Hacker News` [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
+> Article URL: https://planetscale.com/blog/introducing-tin
+Comments URL: https://news.ycombinator.com/item?id=49766611
+Points: 20
+# Comments: 3
+- `Hacker News` [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
+> Article URL: https://laya.convaiinnovations.com/
+Comments URL: https://news.ycombinator.com/item?id=49765348
+Points: 318
+# Comments: 63
+- `Hacker News` [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+> Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html
+Comments URL: https://news.ycombinator.com/item?id=49764791
+Points: 562
+# Comments: 343
+- `Hacker News` [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
+> Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio
+Comments URL: https://news.ycombinator.com/item?id=49763987
+Points: 212
+# Comments: 118
+- `Hacker News` [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+> Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/
+Comments URL: https://news.ycombinator.com/item?id=49763928
+Points: 196...
+- `Hacker News` [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+> Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html
+Comments URL: https://news.ycombinator.com/item?id=49763697
+Points: 423
+# Comments: 156
+- `Hacker News` [NASA-IBM Lunar Foundation open-Source Geospatial AI Model](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/)
+> Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/
+Comments URL: https://news.ycombinator.com/item?id=49763379
+Points: 46
+# Comm...
+- `TechCrunch` [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/)
+> Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.
 - `TechCrunch` [India forces caller-ID apps to feed spam reports to telcos](https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/)
 > Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.
 - `TechCrunch` [Tilly Norwood’s press tour is going about as well as you’d expect for an AI](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/)
@@ -98,8 +100,12 @@ Points: 70
 > Angle Health has grown to 5,000 customers and become profitable by helping small businesses get "level-funded" health insurance.
 - `TechCrunch` [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/)
 > Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually b...
-- `TechCrunch` [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/)
-> Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.
+- `The Verge` [Does AI need an antitrust exemption so it doesn’t kill everyone????](https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition)
+> Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the ...
+- `The Verge` [It’s not just LG. Every TV company is spying on you](https://www.theverge.com/tech/997682/every-tv-company-is-spying)
+> The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio ev...
+- `The Verge` [The AI regulation smackdown isn’t over](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)
+> At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing ...
 - `The Verge` [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)
 > Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a "doom loop" that would ...
 - `The Verge` [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
@@ -114,12 +120,6 @@ Points: 70
 > As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Dis...
 - `The Verge` [Security researchers used Claude to help them hack into OpenAI](https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist)
 > A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street ...
-- `The Verge` [Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning ...](https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount)
-> The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of...
-- `The Verge` [Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy](https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale)
-> Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch...
-- `The Verge` [This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket](https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge)
-> FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limi...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
