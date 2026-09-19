@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-18
+# 📰 每日科技日报 — 2026-09-19
 
-> 自动收集于 2026-09-18 15:17 | 共 40 条
+> 自动收集于 2026-09-19 04:06 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,94 +33,93 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [I Vibed a Proof of Conway's Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/)
-> Article URL: https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/
-Comments URL: https://news.ycombinator.com/item?id=49755024
-Points: 34
-# Comments: 13
-- `Hacker News` [Second Circuit Allows Government to Search Electronic Devices at the Border](https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion)
-> Article URL: https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion
-Comments URL: https://news.ycombinator.com/item?id=...
-- `Hacker News` [HEIF Heist: image parser RCE exploit](https://heif-heist.com)
-> Article URL: https://heif-heist.com
-Comments URL: https://news.ycombinator.com/item?id=49754253
-Points: 2
-# Comments: 0
-- `Hacker News` [NATS publishes preliminary report on technical incident of 8 September](https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/)
-> Article URL: https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/
-Comments URL: https://news.ycombinator.com/item?id=49754064
-Points: 9
+- `Hacker News` [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
+> Article URL: https://sdcc.sourceforge.net/
+Comments URL: https://news.ycombinator.com/item?id=49762744
+Points: 18
 # Comments: 2
-- `Hacker News` [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
-> Article URL: https://arxiv.org/abs/2609.20804
-Comments URL: https://news.ycombinator.com/item?id=49753878
-Points: 98
-# Comments: 15
-- `Hacker News` [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
-> Article URL: https://hawksley.dev/blog/i-dont-like-passkeys
-Comments URL: https://news.ycombinator.com/item?id=49753211
-Points: 327
-# Comments: 300
-- `Hacker News` [Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)
-> Article URL: https://blog.liampwll.com/posts/bend_vibe_coding/
-Comments URL: https://news.ycombinator.com/item?id=49753179
-Points: 255
-# Comments: 176
-- `Hacker News` [Cekura (YC F24) Is Hiring](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
-> Article URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us
-Comments URL: https://news.ycombinator.com/item?id=49753131
-Points: 0
-# Comments: 0
-- `Hacker News` [Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)
-> Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html
-Comments URL: https://news.ycombinator.com/item?id=49752614
-Points: 161
-# Comments: 104
-- `Hacker News` [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
-> Article URL: https://tokenstead.ai/guides/zcode-silent-git-history-upload
-Comments URL: https://news.ycombinator.com/item?id=49752422
-Points: 219
-# Comments: 47
-- `TechCrunch` [Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/)
-> Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.
-- `TechCrunch` [Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/)
-> Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.
-- `TechCrunch` [Researchers used Anthropic’s Claude to hack into OpenAI](https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/)
-> Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.
-- `TechCrunch` [The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/)
-> Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.
-- `TechCrunch` [Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal](https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/)
-> Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.
-- `TechCrunch` [Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/)
-> The round values the data center giant at $30.9 billion.
-- `TechCrunch` [Google DeepMind launches institute to widen the AGI debate](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/)
-> The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. "They will not always agree, and they will likely change the...
-- `TechCrunch` [Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear](https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/)
-> An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.
-- `TechCrunch` [PrismML hopes its tiny LLM will change how we all use AI](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/)
-> If AI lab PrismML isn't on your radar yet, it should be.
-- `TechCrunch` [The FAA’s plan to fix air traffic? $875M worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/)
-> A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.
+- `Hacker News` [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
+> Article URL: https://jepedersen.dk/blog/202505_research/
+Comments URL: https://news.ycombinator.com/item?id=49762687
+Points: 26
+# Comments: 11
+- `Hacker News` [Gemini hacked three companies in first known breakout by Google's AI](https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/)
+> Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/
+Comments URL: https://news.ycombinator.com/item?id=49762493
+Poi...
+- `Hacker News` [Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/)
+> Article URL: https://liveworld.info/
+Comments URL: https://news.ycombinator.com/item?id=49762099
+Points: 21
+# Comments: 23
+- `Hacker News` [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
+> Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions
+Comments URL: https://news.ycombinator.com/item?id=...
+- `Hacker News` [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
+> Article URL: https://spectrum.ieee.org/llms-for-chip-design
+Comments URL: https://news.ycombinator.com/item?id=49761432
+Points: 71
+# Comments: 64
+- `Hacker News` [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
+> Article URL: https://code.claude.com/docs/en/changelog
+Comments URL: https://news.ycombinator.com/item?id=49760187
+Points: 554
+# Comments: 201
+- `Hacker News` [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
+> Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576
+Comments URL: https://news.ycombinator.com/item?id=49758736
+Points: 628
+# Comments: 306
+- `Hacker News` [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)
+> Article URL: https://arxiv.org/abs/2609.02852
+Comments URL: https://news.ycombinator.com/item?id=49758689
+Points: 56
+# Comments: 20
+- `Hacker News` [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](https://arxiv.org/abs/2510.03215)
+> Article URL: https://arxiv.org/abs/2510.03215
+Comments URL: https://news.ycombinator.com/item?id=49758615
+Points: 70
+# Comments: 12
+- `TechCrunch` [India forces caller-ID apps to feed spam reports to telcos](https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/)
+> Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.
+- `TechCrunch` [Tilly Norwood’s press tour is going about as well as you’d expect for an AI](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/)
+> In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.
+- `TechCrunch` [A startup that builds other startups raised $100M and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/)
+> UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.
+- `TechCrunch` [Anthropic is operating a lab that conducts biology experiments](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/)
+> AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.
+- `TechCrunch` [AI hallucination nearly triggers US military operation](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/)
+> “It’s important for service members to understand the uncertainty inherent to LLMs," a GovAI research scholar warns.
+- `TechCrunch` [Anthropic’s first embedded evaluator is … Accenture?](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/)
+> Accenture is about to take on its most high-risk consulting engagement ever.
+- `TechCrunch` [Automattic names interim CFO after exec departures](https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/)
+> Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.
+- `TechCrunch` [Y Combinator insurance tech alum Angle Health hits $2.7B valuation](https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/)
+> Angle Health has grown to 5,000 customers and become profitable by helping small businesses get "level-funded" health insurance.
+- `TechCrunch` [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/)
+> Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually b...
+- `TechCrunch` [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/)
+> Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.
+- `The Verge` [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)
+> Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a "doom loop" that would ...
+- `The Verge` [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
+> Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state t...
+- `The Verge` [Disney’s first CTO is Character.AI’s former CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai)
+> You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first ti...
+- `The Verge` [The real story of the iPhone 18 Pro’s camera](https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera)
+> It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up...
+- `The Verge` [Gavin Newsom is pushing for an AI kill switch](https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch)
+> California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a "kill switch" for frontier models, with a new executive order issued...
+- `The Verge` [What Hollywood thinks about existential AI warnings](https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings)
+> As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Dis...
+- `The Verge` [Security researchers used Claude to help them hack into OpenAI](https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist)
+> A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street ...
+- `The Verge` [Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning ...](https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount)
+> The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of...
 - `The Verge` [Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy](https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale)
 > Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch...
 - `The Verge` [This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket](https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge)
 > FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limi...
-- `The Verge` [Flash floods can strike without warning — this new technology could change that](https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning)
-> On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy ...
-- `The Verge` [Waymo says Singapore will be its next international robotaxi city](https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027)
-> Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore i...
-- `The Verge` [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)
-> Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and resear...
-- `The Verge` [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)
-> The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other ...
-- `The Verge` [Save $30 or more on a refurbished Apple TV 4K](https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale)
-> Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buyin...
-- `The Verge` [Xbox’s clever disc-to-digital feature was 15 years in the making](https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad)
-> When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xb...
-- `The Verge` [Camp Snap’s 110D gives slim retro film cameras a digital upgrade](https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film)
-> Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film camera...
-- `The Verge` [Your robotaxi might be a narc](https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance)
-> In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected "a violation of our terms of service involving a firearm," p...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
