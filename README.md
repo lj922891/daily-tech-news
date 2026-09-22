@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-21
+# 📰 每日科技日报 — 2026-09-22
 
-> 自动收集于 2026-09-21 17:16 | 共 40 条
+> 自动收集于 2026-09-22 04:19 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm](https://sspai.com/post/114823)
+> 如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...查看全文
+- `少数派` [派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等](https://sspai.com/post/114840)
+> 少数派的近期动态少数派会员2026周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研口袋先知新版本1.3. ...查看全文
 - `少数派` [一台主机，多重角色：新款 Mac mini 首发体验](https://sspai.com/post/114829)
 > Macmini虽然不是性能最强、体验最完整的Mac电脑，但在AI时代，它或许比以往任何时候都更适合家庭用户。从年初OpenClaw的现象级走红，到如今Codex引领Agent工作方式潮流，这台小巧精悍 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/114815)
@@ -26,77 +30,89 @@
 > 这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅勃拉邦的慢生活，从清晨薄雾中的布施开始到日落时分反射着金光的湄公河结束。查看全文
 - `少数派` [给电话加上「辅助驾驶」？我们想听听你的意见](https://sspai.com/post/114717)
 > 会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...查看全文
-- `少数派` [你的脸红是什么红：了解玫瑰痤疮](https://sspai.com/post/114641)
-> 脸红发烫却没有小鹿乱撞，可能真不是什么好事……查看全文
-- `少数派` [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/114716)
-> 📅本周新预告《哆啦A梦大雄的蒸汽时间车》首支特报9月15日，动画电影《哆啦A梦大雄的蒸汽时间车》发布了特报影像，定档2027年3月5日在日本上映。本作为《哆啦A梦》电影系列第46部作品，森山瑠潮执导， ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents](https://github.com/naw103/foremerge)
-> At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are ...
-- `Hacker News` [This Digital Radio Gets Messages to the World’s Remotest Locations](https://spectrum.ieee.org/hermes-shortwave-radio-digital-data)
-> Article URL: https://spectrum.ieee.org/hermes-shortwave-radio-digital-data
-Comments URL: https://news.ycombinator.com/item?id=49789228
-Points: 11
-# Comments: 2
-- `Hacker News` [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027)
-> Article URL: https://twitter.com/Lon/status/2101793422487204027
-Comments URL: https://news.ycombinator.com/item?id=49789224
-Points: 54
-# Comments: 28
-- `Hacker News` [How do Traffic Signals Work (2019)](https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work)
-> Article URL: https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work
-Comments URL: https://news.ycombinator.com/item?id=49789081
-Points: 7
-# Comments: 3
-- `Hacker News` [Grok 4.7](https://x.ai/news/grok-4-7)
-> Article URL: https://x.ai/news/grok-4-7
-Comments URL: https://news.ycombinator.com/item?id=49788838
-Points: 154
-# Comments: 85
-- `Hacker News` [A restored PDP-11/83 serving this page on 211BSD Unix](http://pdp1173.com/)
-> The box is a restored Q-bus PDP-11/83 named minerva: Mentec M11 CPU, two chassis tied with M9404/M9405, RQDX3, 2xEmulex UC07, KDA50, RLV12, DEQNA, M3104. Storage is RA82 + dual RA92, MFM boot/swap,...
-- `Hacker News` [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
-> Article URL: https://alicegg.tech/2026/09/21/attention
-Comments URL: https://news.ycombinator.com/item?id=49787726
-Points: 160
-# Comments: 31
-- `Hacker News` [Noodle Gallery- Open-source, self-hosted alternative to Google Photos and Immich](https://digitalescapetools.com/tools/noodlegallery.html)
-> Article URL: https://digitalescapetools.com/tools/noodlegallery.html
-Comments URL: https://news.ycombinator.com/item?id=49787684
-Points: 14
-# Comments: 7
-- `Hacker News` [Apple Mac mini review](https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/)
-> Article URL: https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/
-Comments URL: https://news.ycombinator.com/item?id=49787548
+- `Hacker News` [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh)
+> Article URL: https://status.claude.com/incidents/7g1qpkyz5gxh
+Comments URL: https://news.ycombinator.com/item?id=49795579
+Points: 77
+# Comments: 60
+- `Hacker News` [Socrates vs. the Written Word (2011)](https://wondermark.com/socrates-vs-writing/)
+> Article URL: https://wondermark.com/socrates-vs-writing/
+Comments URL: https://news.ycombinator.com/item?id=49795122
+Points: 21
+# Comments: 4
+- `Hacker News` [Looking forward to Git 2.56 – and 3.0](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
+> Article URL: https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/
+Comments URL: https://news.ycombinator.com/item?id=49794736
 Points: 55
-# Comments...
-- `Hacker News` [macOS 27: Workaround to avoid downloading AI models and save storage](https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/)
-> Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/
-Comments URL: https://news.ycombinator.com/item?id=49787535
-Points: 102
+# Comments: 22
+- `Hacker News` [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
+> Article URL: https://brand.io/article/spymarks/
+Comments URL: https://news.ycombinator.com/item?id=49794615
+Points: 217
+# Comments: 40
+- `Hacker News` [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+> Article URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
+Comments URL: https://news.ycombinator.com/item?id=49794330
+Points: 420
+# Comments: 139
+- `Hacker News` [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+> Article URL: https://mimo.xiaomi.com/mimo-v2-6
+Comments URL: https://news.ycombinator.com/item?id=49792730
+Points: 656
+# Comments: 320
+- `Hacker News` [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
+> Article URL: https://poloclub.github.io/transformer-explainer/
+Comments URL: https://news.ycombinator.com/item?id=49792342
+Points: 251
 # Comments: 41
+- `Hacker News` [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)
+> Article URL: https://linear.app/now/ci-bottleneck-reworked
+Comments URL: https://news.ycombinator.com/item?id=49792067
+Points: 170
+# Comments: 178
+- `Hacker News` [The Advisory Group on Mathematics and Artificial Intelligence](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/)
+> Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/
+Comments URL: https://news.ycombinator.com/item?id=49791997
+Points: 108
+# Comments: 54
+- `Hacker News` [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)
+> Article URL: https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead
+Comments URL: https://news.ycombinator.com/item?id=49791939
+Points: 338
+# Comments: 272
+- `TechCrunch` [The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/)
+> Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.
+- `TechCrunch` [OpenAI forms math advisory group as its AI resolves more than 100 open problems](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/)
+> The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.
+- `TechCrunch` [Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket](https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/)
+> Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab y...
+- `TechCrunch` [Meta’s Muse is outpacing ChatGPT’s early mobile launch](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/)
+> Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from App...
+- `TechCrunch` [Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google](https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/)
+> Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.
+- `TechCrunch` [Meta’s AI agent has been blocked from using Amazon.com](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/)
+> Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why w...
+- `TechCrunch` [X will now tell users when governments have forced it to limit their posts](https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/)
+> X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.
 - `TechCrunch` [Oura’s $2.2B IPO is mostly a payday for existing shareholders](https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/)
 > Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.
 - `TechCrunch` [With Tabby, a former accountant is using AI to make accountants obsolete](https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/)
 > Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.
 - `TechCrunch` [Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCru...](https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/)
 > Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.
-- `TechCrunch` [Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini](https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/)
-> Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.
-- `TechCrunch` [From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/)
-> From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.
-- `TechCrunch` [Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/)
-> Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a front-row ...
-- `TechCrunch` [Corridor raises $25M seed to build a health benefits brokerage for SMBs](https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/)
-> Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.
-- `TechCrunch` [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/)
-> Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.
-- `TechCrunch` [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/)
-> Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually b...
-- `TechCrunch` [Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio](https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/)
-> Many of The Boring Company's announced projects have not materialized.
+- `The Verge` [A cut cable disrupted hundreds of flights across the US](https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us)
+> Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford s...
+- `The Verge` [Amazon wants to help the Colorado River, but we still don’t know how much water the company uses](https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river)
+> Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amaz...
+- `The Verge` [California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)
+> California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws ...
+- `The Verge` [GM can’t ‘bring back’ Apple CarPlay because it never left](https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google)
+> Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring system...
+- `The Verge` [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement)
+> Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadbloc...
 - `The Verge` [Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content](https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations)
 > Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Conten...
 - `The Verge` [Grab an Xbox controller and a $50 Xbox gift card together for just $80](https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale)
@@ -107,16 +123,6 @@ Points: 102
 > Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an...
 - `The Verge` [Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo](https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china)
 > Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors...
-- `The Verge` [These are the first five Googlebook laptops](https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell)
-> Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They're available for p...
-- `The Verge` [The long dream of the Googlebook](https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history)
-> In late 2010, an up-and-coming Google executive named Sundar Pichai took the stage in front of a bunch of reporters and explained that Google had a big new idea about laptops. In the future, he sai...
-- `The Verge` [I got to see Google’s wild ideas about the future of laptops](https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs)
-> There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromeboo...
-- `The Verge` [The Mac Mini is still mighty, just not as cheap](https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review)
-> There are lots of compact desktop computers out there, but none match the Mac Mini's small size and big power. 2024's redesign reduced the Mini to 0.82L, a chassis so minimal you can easily mount i...
-- `The Verge` [The M5 Ultra Mac Studio tears through our benchmark tests](https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review)
-> The Mac Studio review unit that Apple sent us to test this year is, put simply, kind of outrageous. It has an M5 Ultra chip with a 36-core CPU and 80-core GPU, 256GB of RAM, and 4TB of storage and ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
