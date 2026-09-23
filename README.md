@@ -4,17 +4,21 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-22
+# 📰 每日科技日报 — 2026-09-23
 
-> 自动收集于 2026-09-22 15:49 | 共 40 条
+> 自动收集于 2026-09-23 04:16 | 共 30 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [Here Wallpaper：把喜欢的地图做成壁纸](https://sspai.com/post/114211)
+> 家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文
+- `少数派` [派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等](https://sspai.com/post/114889)
+> 高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。查看全文
 - `少数派` [可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验](https://sspai.com/post/114878)
 > 在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...查看全文
 - `少数派` [怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？](https://sspai.com/post/114551)
 > 黄金时代「时尚与科技结合」的浪漫。查看全文
-- `少数派` [App+1 | Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
+- `少数派` [Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
 > 从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。查看全文
 - `少数派` [少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm](https://sspai.com/post/114823)
 > 如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...查看全文
@@ -26,97 +30,49 @@
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [以人为本还是脱离实际？GNOME 桌面环境的演进及争议](https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de)
 > 反复失败的预言1999年，时任SUSE首席技术官的DirkHohndel大概不会想到，自己口中的「Linux桌面元年」此后会被反复提起，成为圈内一个著名的迷因。每年都有人扮演先知，然后看着统计报告上的 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
-- `少数派` [体验过华为 Pura X View 后，他们最想留下的「阔体验」是……](https://sspai.com/post/114734)
-> 不久前，我们发起了「华为PuraXView新品探索计划」，请大家去线下门店亲自感受华为PuraXView，也向我们分享那些最真实、细致的上手体验。比起参数表，我们更想知道，换成一块更阔的屏幕后，到底哪 ...查看全文
-- `少数派` [当 AI 让执行力变得廉价，我们该拿什么脱颖而出？](https://sspai.com/post/114519)
-> 当代码与设计的生产成本趋近于零，我们可以这样跳出工具的依赖，构建属于自己的优势和认知壁垒。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me](https://mouse.dev/blog/muse-runtime-export/)
-> Article URL: https://mouse.dev/blog/muse-runtime-export/
-Comments URL: https://news.ycombinator.com/item?id=49802871
-Points: 13
-# Comments: 8
-- `Hacker News` [If you start writing today, there's no way to know if you can write without AI](https://www.ssp.sh/brain/ai-writing/)
-> Article URL: https://www.ssp.sh/brain/ai-writing/
-Comments URL: https://news.ycombinator.com/item?id=49802619
-Points: 7
-# Comments: 5
-- `Hacker News` [Vacate a Drone Restriction That Criminalized Recording Immigration Agents](https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration)
-> Article URL: https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration
-Comments URL: https://news.ycombinator.com/item?id=49802581
-Poi...
-- `Hacker News` [OpenAI is about to eat Jev's lunch – Arcturus Labs](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)
-> Article URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/
-Comments URL: https://news.ycombinator.com/item?id=49802161
-Points: 71
-# Comments: 53
-- `Hacker News` [Jev – a curation of Jev demos on X, tools, skills, and integrations](https://github.com/Amal-David/awesome-jev)
-> Article URL: https://github.com/Amal-David/awesome-jev
-Comments URL: https://news.ycombinator.com/item?id=49802160
-Points: 42
-# Comments: 6
-- `Hacker News` [Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)
-> Article URL: https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/
-Comments URL: https://news.ycombinator.com/item?id=49802030
-Points: 28
-...
-- `Hacker News` [Apple has added persistent 'ads' to iOS, and it's driving users crazy](https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy)
-> Article URL: https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy
-Comments URL: https://news.ycombinator....
-- `Hacker News` [Show HN: Drop – a rootless Linux sandbox with gVisor support](https://droprun.sh/)
-> I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is ev...
-- `Hacker News` [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
-> Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html
-Comments URL: https://news.ycombinator.com/item?id=49801324
-Points: 200
-# Comments: 200
-- `Hacker News` [The Economics of Open-Weight Inference](https://data.ornn.com/publications/the-economics-of-open-weight-inference)
-> Article URL: https://data.ornn.com/publications/the-economics-of-open-weight-inference
-Comments URL: https://news.ycombinator.com/item?id=49801218
-Points: 3
-# Comments: 0
-- `TechCrunch` [Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt](https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/)
-> Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.
-- `TechCrunch` [Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda](https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/)
-> At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $20...
-- `TechCrunch` [AstroForge is putting AI in command of its next spacecraft](https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/)
-> Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.
-- `TechCrunch` [TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage](https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/)
-> Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a...
-- `TechCrunch` [Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/)
-> We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders ...
-- `TechCrunch` [TikTok’s US arm joins Lantern, a cross-platform child safety initiative](https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/)
-> Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.
-- `TechCrunch` [4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/)
-> Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.
-- `TechCrunch` [Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs](https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/)
-> Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.
-- `TechCrunch` [Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future](https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/)
-> To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.
-- `TechCrunch` [Everyone can find a reason to dislike data center construction](https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/)
-> Inside two years of fraught AI data center debates in Pennsylvania.
-- `The Verge` [Xbox is barely Xbox anymore](https://www.theverge.com/games/998758/xbox-activision-blizzard)
-> Xbox has become a shell of its former self - and things are only getting worse. As part of its planned cuts impacting around 3,200 workers, the company announced today more changes that will furthe...
-- `The Verge` [Xbox is merging its Forza developers into a single studio](https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio)
-> Microsoft is uniting its two Forza developers into a single studio today, as part of a massive restructuring of Xbox. Playground Games, which develops Forza Horizon, and Turn 10 Studios, creators o...
-- `The Verge` [Microsoft is laying off 268 Xbox staffers and Ninja Theory may close](https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure)
-> Microsoft is laying off around 260 Xbox employees today, as part of an ongoing "reset" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma descr...
-- `The Verge` [Activision is taking over Halo as part of a massive Xbox shake-up](https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs)
-> Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the H...
-- `The Verge` [The Beats 360 are what I’d bring to the gym if I hated earbuds](https://www.theverge.com/tech/998566/beats-360-headphones-review)
-> Everyone has seen someone at the gym or running around their neighborhood wearing headphones that were never designed for workouts. Quite often those headphones are Beats. Good news for the earbud ...
-- `The Verge` [‘Trump TV’ is just reruns of the president on YouTube](https://www.theverge.com/policy/998726/trump-tv-youtube-livestream)
-> The White House is now airing reruns of President Donald Trump's speeches, bill signings, and other moments on a YouTube livestream that it's calling "Trump TV," as reported earlier by Time. The 24...
-- `The Verge` [Waymo is offering transit discounts again, this time with Visa](https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa)
-> Waymo has made several attempts over the years at offering transit discounts to its customers in the hopes of getting them to more frequently use the company's robotaxis to connect with a train or ...
-- `The Verge` [These discreet hearing aid glasses now have better voice boosting and battery life](https://www.theverge.com/tech/998243/essilorluxottica-nuance-audio-plus-otc-hearing-aid-glasses)
-> EssilorLuxottica, the company that Meta partnered with for its Ray-Ban smart glasses, announced a new version of its Nuance Audio glasses that are designed to double as discreet over-the-counter he...
-- `The Verge` [Oppo’s new phone is the first with three 200-megapixel cameras](https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china)
-> Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of its rear cameras. A 17-stop dynamic range for the main camera...
-- `The Verge` [Peloton is back with a ‘cheaper’ folding treadmill](https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills)
-> Last year, Peloton did a sweeping refresh of its hardware that added cameras, fans, and AI-powered software called Peloton IQ. This year, it's zeroing in on its treadmill lineup - refreshing its tw...
+- `TechCrunch` [Discord’s age verification era is upon us, despite community backlash](https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/)
+> According to Discord, 90% of users will not have to verify their age.
+- `TechCrunch` [TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Bosto...](https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/)
+> Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.
+- `TechCrunch` [Snorkel AI triples valuation to $3.5B as demand for AI training data booms](https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/)
+> The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.
+- `TechCrunch` [Qualcomm launches two new smartphone chips with emphasis on AI](https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/)
+> Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.
+- `TechCrunch` [Apple could take on Whoop with a new fitness tracker, report says](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/)
+> Apple may be developing a new fitness tracker as part of its new generation of hardware devices.
+- `TechCrunch` [Meta admits Muse’s likeness to OpenClaw isn’t a coincidence](https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/)
+> Meta says Muse was built from scratch, but acknowledges the AI assistant was "heavily inspired" by OpenClaw — down to some of its workspace filenames and content.
+- `TechCrunch` [Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/)
+> The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.
+- `TechCrunch` [a16z is challenging Silicon Valley’s love for drop-outs by launching a school](https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/)
+> This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.
+- `TechCrunch` [OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/)
+> OpenAI is launching two new models, which it says are cut from the same cloth as Astra.
+- `TechCrunch` [Waymo’s latest expansion strategy: teenagers](https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/)
+> Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.
+- `The Verge` [OpenAI wants to consult elite mathematicians about how to not fumble again](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel)
+> After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the...
+- `The Verge` [Paramount will need to release way more movies to make this merger work](https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails)
+> Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the w...
+- `The Verge` [Rabbit’s new AI agent doesn’t need an R1 to run](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3)
+> Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 "age...
+- `The Verge` [Saudi Arabia’s new Exobot EVs make the Cybertruck look normal](https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot)
+> The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle pro...
+- `The Verge` [Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too](https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6)
+> Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relativ...
+- `The Verge` [Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset](https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6)
+> Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years,...
+- `The Verge` [Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras](https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style)
+> Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new featur...
+- `The Verge` [Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy](https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale)
+> The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder p...
+- `The Verge` [Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad](https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale)
+> Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of ...
+- `The Verge` [San Francisco sues Trump Media for selling early access to Trump posts](https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco)
+> San Francisco is suing the Trump Media & Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsu...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
