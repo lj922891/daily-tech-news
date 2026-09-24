@@ -6,10 +6,18 @@
 
 # 📰 每日科技日报 — 2026-09-24
 
-> 自动收集于 2026-09-24 04:13 | 共 40 条
+> 自动收集于 2026-09-24 15:59 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [新玩意 252｜少数派的编辑们最近买了啥？](https://sspai.com/post/114954)
+> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
+- `少数派` [家庭饮品 DIY 指南（五）：特调咖啡及其他饮品](https://sspai.com/prime/story/home-made-beverages-5)
+> 往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」](https://sspai.com/post/113823)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
+- `少数派` [古董电脑室十周年记：为什么我不再是收藏家（上）](https://sspai.com/post/114395)
+> 站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。查看全文
 - `少数派` [派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等](https://sspai.com/post/114913)
 > Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文
 - `少数派` [社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品](https://sspai.com/post/114904)
@@ -22,107 +30,92 @@
 > 在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...查看全文
 - `少数派` [怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？](https://sspai.com/post/114551)
 > 黄金时代「时尚与科技结合」的浪漫。查看全文
-- `少数派` [Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
-> 从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。查看全文
-- `少数派` [少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm](https://sspai.com/post/114823)
-> 如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...查看全文
-- `少数派` [一台主机，多重角色：新款 Mac mini 首发体验](https://sspai.com/post/114829)
-> Macmini虽然不是性能最强、体验最完整的Mac电脑，但在AI时代，它或许比以往任何时候都更适合家庭用户。从年初OpenClaw的现象级走红，到如今Codex引领Agent工作方式潮流，这台小巧精悍 ...查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/114815)
-> >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Australia says OpenAI agent hacked into government website](https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411)
-> Article URL: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411
-Comments URL: https://news.ycombinator.com/item?id=49825024
-Points: 50
-# Comments: 32
-- `Hacker News` [Liquid Network Security Incident Assessment](https://blog.blockstream.com/liquid-network-security-incident-assessment/)
-> Article URL: https://blog.blockstream.com/liquid-network-security-incident-assessment/
-Comments URL: https://news.ycombinator.com/item?id=49824978
-Points: 4
+- `Hacker News` [F-Droid 2.0: A New Chapter for Android Freedom](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+> Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
+Comments URL: https://news.ycombinator.com/item?id=49831968
+Points: 41
+# Comments: 5
+- `Hacker News` [Disney+ and Hulu raise prices by up to 13 percent after doubling profits](https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/)
+> Article URL: https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/
+Comments URL: https://news.ycombinator.com/item?id=49831774
+Points: 21
+...
+- `Hacker News` [Tutoring company tells parents to save their money and 'use AI instead'](https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r)
+> Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r
+Comments URL: https://news.ycombinator.com/item?id=...
+- `Hacker News` [Japanese used bookstores see 5x sales surge as books are being bought by the ton](https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities)
+> Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-...
+- `Hacker News` [Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram)
+> Article URL: https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram
+Comments URL: https://news.ycombinator.com/item?id=49831201
+Points: 53
+# Comments: 13
+- `Hacker News` [Unknown number of Texas voter registrations went unprocessed due to DPS error](https://www.votebeat.org/texas/2026/09/22/voter-registration-applications-unprocessed-dps-error/)
+> Article URL: https://www.votebeat.org/texas/2026/09/22/voter-registration-applications-unprocessed-dps-error/
+Comments URL: https://news.ycombinator.com/item?id=49831175
+Points: 57
+# Comments: 65
+- `Hacker News` [Best LLM for every budget, updated daily](https://bestmodelforyourbudget.terrydjony.com/)
+> Article URL: https://bestmodelforyourbudget.terrydjony.com/
+Comments URL: https://news.ycombinator.com/item?id=49830866
+Points: 92
+# Comments: 54
+- `Hacker News` [Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center](https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center)
+> Article URL: https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center
+Comments URL: https://news.ycombinator.com/item?id=49830037
+...
+- `Hacker News` [Owners mourn spoiled food after firmware update bricks Samsung smart fridges](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/)
+> Article URL: https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/
+Comments URL: https://news.ycombinator.com/item?id=49829960
+Points...
+- `Hacker News` [What Is RLCD? The Secret Behind Jev](https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/)
+> Article URL: https://di-zhang-llm.github.io/blog/what-is-rlcd-the-secret-behind-jev/
+Comments URL: https://news.ycombinator.com/item?id=49829625
+Points: 11
 # Comments: 0
-- `Hacker News` [FLAWED's Flaws and What This Means for Industry Research](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/)
-> Article URL: https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/
-Comments URL: https://news.ycombinator.com/item?id=49824969
-Points: 14
-# Comments: 2
-- `Hacker News` [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)
-> Article URL: https://github.com/nestrilabs/virtio-nvgpu
-Comments URL: https://news.ycombinator.com/item?id=49824864
-Points: 26
-# Comments: 16
-- `Hacker News` [Show HN: An open-source manufacturing ERP/MES/QMS](https://carbon.ms/self-hosted)
-> Article URL: https://carbon.ms/self-hosted
-Comments URL: https://news.ycombinator.com/item?id=49824715
-Points: 12
-# Comments: 9
-- `Hacker News` [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
-> Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign
-Comments URL: https://news.ycombinator.com/item?id=49824686
-Points: 125
-# Comments: 102
-- `Hacker News` [Meta VR Glasses](https://www.meta.com/vr-glasses/)
-> Article URL: https://www.meta.com/vr-glasses/
-Comments URL: https://news.ycombinator.com/item?id=49824268
-Points: 296
-# Comments: 261
-- `Hacker News` [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
-> Article URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/
-Comments URL: https://news.ycombinator.com/item?id=49823664
-Points: 90
-# Comments: 12
-- `Hacker News` [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
-> Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux
-Comments URL: https://news.ycombinator.com/item?id=49823582
-Points: 225
-# Comments: 111
-- `Hacker News` [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5)
-> Article URL: https://artificialanalysis.ai/models/mercury-2-5
-Comments URL: https://news.ycombinator.com/item?id=49823348
-Points: 70
-# Comments: 42
+- `TechCrunch` [Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch D...](https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/)
+> Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.
+- `TechCrunch` [Lovable’s annualized revenue crosses $600M as vibe coding takes off](https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/)
+> Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.
+- `TechCrunch` [Ando wants to take on Slack with a team messaging app that lets humans and agents work together](https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/)
+> Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.
+- `TechCrunch` [TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it](https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/)
+> Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.
+- `TechCrunch` [2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend](https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/)
+> Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50%...
+- `TechCrunch` [Australia to investigate if OpenAI hack of government health website broke the law](https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/)
+> The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.
 - `TechCrunch` [Everything new coming to Meta’s AI agent Muse](https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/)
 > CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI gl...
 - `TechCrunch` [Meta made a Tamagotchi-like wearable for its Muse AI agent](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/)
 > The tiny hardware device creates  another mobile home for its AI agent Muse.
 - `TechCrunch` [Meta is trying VR glasses (again), this time with more IMAX](https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/)
-> Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.
+> Meta's return to the VR glasses realm comes with a promising combination of lightweight form factor and enhanced entertainment options.
 - `TechCrunch` [Meta introduces camera-free AI glasses](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/)
-> Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.
-- `TechCrunch` [Vogue sent robots down the runway at Vogue World, and people were not impressed](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/)
-> Nothing says Italian craftsmanship like a Chinese robot doing a lasso to "L'Amour Toujours."
-- `TechCrunch` [Anthropic says its biology lab has already found something big](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/)
-> But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.
-- `TechCrunch` [If Amazon doesn’t know how to eliminate carbon emissions, then who does?](https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/)
-> Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?
-- `TechCrunch` [VC firm Bessemer now has another $5.75B to invest in (what else?) AI](https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/)
-> The VC firm says that AI-native companies are growing faster than any technology, ever.
-- `TechCrunch` [Enveda secures $311M to bring more nature-derived AI drugs into clinical trials](https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/)
-> The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.
-- `TechCrunch` [Modal Motors is trying to cut China out of electric motors entirely](https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/)
-> The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.
-- `The Verge` [Meta is making a standalone Muse AI gadget](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware)
-> Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presen...
-- `The Verge` [Meta Connect 2026: The 7 biggest announcements](https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced)
-> Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight s...
-- `The Verge` [Meta’s next VR device isn’t a headset — it’s glasses](https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on)
-> Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive...
-- `The Verge` [Muse is coming to Meta smart glasses](https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features)
-> Just a couple of weeks after launching Muse, Meta announced that it's "working on" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able...
-- `The Verge` [Meta ditches the camera on its newest smart glasses](https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026)
-> Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where "pervert glasses" are not a concern...
-- `The Verge` [Meta is making Muse more powerful and will let you video chat with it, too](https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026)
-> Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own emai...
-- `The Verge` [Meta Connect 2026: The biggest news and announcements](https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements)
-> It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely tha...
-- `The Verge` [Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch](https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote)
-> It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be...
-- `The Verge` [Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus](https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus)
-> Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware f...
-- `The Verge` [Microsoft’s new Surface Mouse has haptic feedback and a customizable action button](https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback)
-> Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which i...
+> Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.
+- `The Verge` [You might not miss what Nikon removed from its cheaper full-frame Z5 IIC](https://www.theverge.com/tech/1000037/nikon-z5-iic-full-frame-digital-camera-ibis-mechanical-shutter)
+> Nikon waited five years to update its full-frame Z5 camera to the Z5 II, but today it announced a new variant of last year's upgrade that removes features instead of introducing improvements in ord...
+- `The Verge` [Why can’t we just keep rogue AIs off the internet?](https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents)
+> AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing the...
+- `The Verge` [Google is sending an AI satellite into space next week](https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher)
+> Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatch...
+- `The Verge` [The vibes are bad for Flock in Washington](https://www.theverge.com/policy/1000005/flock-senate-hearing)
+> Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its "AI Surveillance Network" on Wednesday. "There's many players in this industry, but...
+- `The Verge` [I have some questions for Mark Zuckerberg](https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers)
+> It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I’ve been using it — it is surprisin...
+- `The Verge` [Waymo’s driverless cars continue to crash less often than people](https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human-driver)
+> Waymo's latest batch of self-reported data continues to affirm the company's message that its driverless cars are safer than human drivers. As policymakers continue to debate the safety and economi...
+- `The Verge` [Meta’s Muse AI Charms can interact with each other](https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem)
+> Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, whic...
+- `The Verge` [Everything is spying on you and there’s no opting out](https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance)
+> Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever's going on around you. ...
+- `The Verge` [Logitech’s new haptics-based gaming mouse is a little better and $20 more](https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price)
+> The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decr...
+- `The Verge` [Control Resonant gets tough, but gives you the tools to deal with it](https://www.theverge.com/games/999464/control-resonant-assist-mode)
+> Control Resonant isn't an easy game. At any given moment while exploring vast open areas where you're sometimes leaping from wall to wall to ceiling, you may be surrounded by swarms of otherworldly...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
