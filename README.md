@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-09-26
 
-> 自动收集于 2026-09-26 04:29 | 共 30 条
+> 自动收集于 2026-09-26 15:11 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [宜家 Matter 智能家居终于要来了？在中国市场它将如何破局](https://sspai.com/post/114958)
+> 距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/114957)
 > 📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ...查看全文
 - `少数派` [新玩意 252｜少数派的编辑们最近买了啥？](https://sspai.com/post/114954)
@@ -28,11 +30,58 @@
 > Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...查看全文
 - `少数派` [Here Wallpaper：把喜欢的地图做成壁纸](https://sspai.com/post/114211)
 > 家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文
-- `少数派` [可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验](https://sspai.com/post/114878)
-> 在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [A Roman Name for Software](https://marcosmagueta.com/blog/a-roman-name-for-software/)
+> Article URL: https://marcosmagueta.com/blog/a-roman-name-for-software/
+Comments URL: https://news.ycombinator.com/item?id=49857173
+Points: 3
+# Comments: 0
+- `Hacker News` [Earth is tearing apart beneath the Pacific Northwest](https://www.sciencedaily.com/releases/2026/09/260924231343.htm)
+> Article URL: https://www.sciencedaily.com/releases/2026/09/260924231343.htm
+Comments URL: https://news.ycombinator.com/item?id=49856971
+Points: 9
+# Comments: 0
+- `Hacker News` [Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)
+> Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior
+Comments URL: https://news.ycombinator.com/item?id=49856149
+Points:...
+- `Hacker News` [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
+> Article URL: https://gultsch.de/posts/breaking-up-with-google-play/
+Comments URL: https://news.ycombinator.com/item?id=49855315
+Points: 305
+# Comments: 120
+- `Hacker News` [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
+> Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html
+Comments URL: https://news.ycombinator.com/item?id=49855018
+Points: 129
+# Comments: 131
+- `Hacker News` [The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
+> Article URL: https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding
+Comments URL: https://...
+- `Hacker News` [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+> Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story
+Comments URL: https://news.ycombinator.com/item?id=49854693
+Points: 162
+# Comments: 20
+- `Hacker News` [Floci: Locally emulating any cloud service](https://floci.io)
+> Article URL: https://floci.io
+Comments URL: https://news.ycombinator.com/item?id=49854416
+Points: 85
+# Comments: 13
+- `Hacker News` [Is your Postgres migration safe or not safe?](https://safenotsafe.dev/)
+> Article URL: https://safenotsafe.dev/
+Comments URL: https://news.ycombinator.com/item?id=49854161
+Points: 79
+# Comments: 23
+- `Hacker News` [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
+> Article URL: http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html
+Comments URL: https://news.ycombinator.com/item?id=49853175
+Points: 109
+# Comments: 30
+- `TechCrunch` [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/)
+> After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.
 - `TechCrunch` [At Meta Connect, the company’s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)
 > The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.
 - `TechCrunch` [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)
@@ -51,8 +100,14 @@
 > Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.
 - `TechCrunch` [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/)
 > The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.
-- `TechCrunch` [The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)
-> Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.
+- `The Verge` [Can Cloudflare CEO Matthew Prince save the web from AI?](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising)
+> Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ...
+- `The Verge` [Control Resonant is a great game — it’s even better when you read everything](https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs)
+> In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading ev...
+- `The Verge` [Pokémon card resellers have turned collecting into an online blood sport](https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers)
+> Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush s...
+- `The Verge` [Can ‘eSUV’ e-bikes really go from trail to town?](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox)
+> Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called "electric SUV" (eSUV) e-bikes ...
 - `The Verge` [Roku’s first OLED TVs are up to $400 off, starting at $699](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale)
 > Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports an...
 - `The Verge` [Phones don’t have lights](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks)
@@ -65,14 +120,6 @@
 > Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeare...
 - `The Verge` [Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K](https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k)
 > Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new ve...
-- `The Verge` [Sony and UMG are suing Suno again](https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music)
-> Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, ...
-- `The Verge` [One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google)
-> In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents fr...
-- `The Verge` [Cricut’s new compact crafter prints, cuts, and laminates stickers](https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers)
-> Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut Stic...
-- `The Verge` [Gaming’s biggest horror series are more vital than ever](https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil)
-> For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
