@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-25
+# 📰 每日科技日报 — 2026-09-26
 
-> 自动收集于 2026-09-25 16:00 | 共 40 条
+> 自动收集于 2026-09-26 04:29 | 共 30 条
 
 ## 🇨🇳 中文科技
 
@@ -33,75 +33,38 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Classified Estimates Show the NSA Is Paying Billions to Test AI Models](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
-> Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models
-Comments URL: https://news.ycombinator.com/item?id=49845952
-Points: 17
-# Comments: 4
-- `Hacker News` [Patrick Boyle: The Copy-Paste Professor](https://www.youtube.com/watch?v=Za5IfIbWNEk)
-> Article URL: https://www.youtube.com/watch?v=Za5IfIbWNEk
-Comments URL: https://news.ycombinator.com/item?id=49845810
-Points: 4
-# Comments: 0
-- `Hacker News` [Factorio that you can touch](https://factorio.com/blog/post/fff-447)
-> Article URL: https://factorio.com/blog/post/fff-447
-Comments URL: https://news.ycombinator.com/item?id=49845133
-Points: 44
-# Comments: 1
-- `Hacker News` [Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot](https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot)
-> Article URL: https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot
-Comments URL: https://news.ycombinator.com/item?id=49844896
-Points: 1...
-- `Hacker News` [Allow Carriers on Planes](https://www.jefftk.com/p/allow-carriers-on-planes)
-> Article URL: https://www.jefftk.com/p/allow-carriers-on-planes
-Comments URL: https://news.ycombinator.com/item?id=49844786
-Points: 109
-# Comments: 106
-- `Hacker News` [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
-> Article URL: https://sunilsadasivan.com/writing/first-principles-thinking/
-Comments URL: https://news.ycombinator.com/item?id=49844736
-Points: 41
-# Comments: 5
-- `Hacker News` [The Test](https://tante.cc/2026/09/24/the-test/)
-> Article URL: https://tante.cc/2026/09/24/the-test/
-Comments URL: https://news.ycombinator.com/item?id=49843550
-Points: 80
-# Comments: 21
-- `Hacker News` [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
-> Article URL: https://go.dev/blog/simd-experiment
-Comments URL: https://news.ycombinator.com/item?id=49843269
-Points: 155
-# Comments: 45
-- `Hacker News` [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)
-> Article URL: https://github.com/git-bug/git-bug
-Comments URL: https://news.ycombinator.com/item?id=49843174
-Points: 143
-# Comments: 32
-- `Hacker News` [Oracle on the hook to pay data centre investors even if site has no electricity](https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016)
-> Article URL: https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016
-Comments URL: https://news.ycombinator.com/item?id=49842483
-Points: 127
-# Comments: 111
-- `TechCrunch` [Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack](https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/)
-> The tech giant, which allows companies to send large datasets over the internet, said it received a "credible threat" from law enforcement about an imminent attack.
-- `TechCrunch` [For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts](https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/)
-> The latest unauthorized agent swarms were discovered by researchers.
-- `TechCrunch` [Anthropic’s founders seek voting control ahead of IPO](https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/)
-> Anthropic is asking its shareholders to approve a  structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.
-- `TechCrunch` [Tesla finally moves to electrify trucking after a decade of work and delays](https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/)
-> Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.
-- `TechCrunch` [TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI st...](https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/)
-> At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $...
-- `TechCrunch` [Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass](https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/)
-> Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.
-- `TechCrunch` [Meadow lets you leave your smartphone at home without sacrificing the essentials](https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/)
-> “We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff," said 25-year-old founder Shreyas Narlanka.
-- `TechCrunch` [Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum](https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/)
-> Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the ne...
-- `TechCrunch` [North Korean hackers suspected in $351M crypto theft, the largest so far this year](https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/)
-> The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.
-- `TechCrunch` [Lightspeed targets $250M for new India fund, focusing on early-stage AI](https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/)
-> The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.
+- `TechCrunch` [At Meta Connect, the company’s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)
+> The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.
+- `TechCrunch` [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)
+> Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
+- `TechCrunch` [Automattic has a new board after failed attempt to put CEO on leave](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/)
+> After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.
+- `TechCrunch` [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/)
+> AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.
+- `TechCrunch` [Meta opens early access program for new Muse features](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/)
+> Anyone interested in joining has to ask Muse to put them on the list.
+- `TechCrunch` [The hottest new hangout for middle schoolers is NPR’s comment section?](https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/)
+> When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.
+- `TechCrunch` [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/)
+> Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropi...
+- `TechCrunch` [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
+> Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.
+- `TechCrunch` [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/)
+> The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.
+- `TechCrunch` [The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)
+> Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.
+- `The Verge` [Roku’s first OLED TVs are up to $400 off, starting at $699](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale)
+> Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports an...
+- `The Verge` [Phones don’t have lights](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks)
+> Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, n...
+- `The Verge` [These camera apps give you more control over the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera)
+> One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48...
+- `The Verge` [Tesla’s Optimus robot is going through growing pains](https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands)
+> Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced "several hundred robots a week" last month, after it re...
+- `The Verge` [Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem)
+> Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeare...
+- `The Verge` [Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K](https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k)
+> Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new ve...
 - `The Verge` [Sony and UMG are suing Suno again](https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music)
 > Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, ...
 - `The Verge` [One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google)
@@ -110,18 +73,6 @@ Points: 127
 > Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut Stic...
 - `The Verge` [Gaming’s biggest horror series are more vital than ever](https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil)
 > For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself ...
-- `The Verge` [Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test](https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review)
-> A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed ag...
-- `The Verge` [Insta360 conquered 360 cameras — now it’s eyeing glasses](https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview)
-> It's right there in the name: "Insta360" makes 360-degree cameras, ones that film every angle simultaneously so you can shoot first and frame later. It didn't invent the idea, but Insta360 has beco...
-- `The Verge` [Microsoft thinks its new Copilot ‘super app’ will be as influential as Office](https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot)
-> After teasing its new Copilot "super app" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, a...
-- `The Verge` [Here’s the Tesla Semi… again](https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer)
-> Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduct...
-- `The Verge` [Microsoft is killing off the ‘Copilot Plus PC’ brand](https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand)
-> Remember when Microsoft wanted everyone to know that "Copilot Plus PCs" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a hal...
-- `The Verge` [Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats)
-> Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and menta...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
