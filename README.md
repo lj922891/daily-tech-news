@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-26
+# 📰 每日科技日报 — 2026-09-27
 
-> 自动收集于 2026-09-26 15:11 | 共 40 条
+> 自动收集于 2026-09-27 04:47 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,53 +33,65 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [A Roman Name for Software](https://marcosmagueta.com/blog/a-roman-name-for-software/)
-> Article URL: https://marcosmagueta.com/blog/a-roman-name-for-software/
-Comments URL: https://news.ycombinator.com/item?id=49857173
-Points: 3
-# Comments: 0
-- `Hacker News` [Earth is tearing apart beneath the Pacific Northwest](https://www.sciencedaily.com/releases/2026/09/260924231343.htm)
-> Article URL: https://www.sciencedaily.com/releases/2026/09/260924231343.htm
-Comments URL: https://news.ycombinator.com/item?id=49856971
+- `Hacker News` [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
+> Article URL: https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/
+Comments URL: https://news.ycombinator.com/item?id=49863062
+Points: 50
+# Comments: 8
+- `Hacker News` [What is the size of Yemen? (2024)](https://theborys.substack.com/p/what-is-the-size-of-yemen)
+> Article URL: https://theborys.substack.com/p/what-is-the-size-of-yemen
+Comments URL: https://news.ycombinator.com/item?id=49862809
+Points: 42
+# Comments: 6
+- `Hacker News` [OpenAI agents tried to bruteforce a UN website's API fields](https://swarmcha.se/posts/openai-unctad)
+> Article URL: https://swarmcha.se/posts/openai-unctad
+Comments URL: https://news.ycombinator.com/item?id=49862299
 Points: 9
-# Comments: 0
-- `Hacker News` [Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)
-> Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior
-Comments URL: https://news.ycombinator.com/item?id=49856149
-Points:...
-- `Hacker News` [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
-> Article URL: https://gultsch.de/posts/breaking-up-with-google-play/
-Comments URL: https://news.ycombinator.com/item?id=49855315
-Points: 305
-# Comments: 120
-- `Hacker News` [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
-> Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html
-Comments URL: https://news.ycombinator.com/item?id=49855018
-Points: 129
-# Comments: 131
-- `Hacker News` [The Copilot+ PC brand is dead](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
-> Article URL: https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding
-Comments URL: https://...
-- `Hacker News` [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
-> Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story
-Comments URL: https://news.ycombinator.com/item?id=49854693
-Points: 162
-# Comments: 20
-- `Hacker News` [Floci: Locally emulating any cloud service](https://floci.io)
-> Article URL: https://floci.io
-Comments URL: https://news.ycombinator.com/item?id=49854416
-Points: 85
-# Comments: 13
-- `Hacker News` [Is your Postgres migration safe or not safe?](https://safenotsafe.dev/)
-> Article URL: https://safenotsafe.dev/
-Comments URL: https://news.ycombinator.com/item?id=49854161
-Points: 79
-# Comments: 23
-- `Hacker News` [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
-> Article URL: http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html
-Comments URL: https://news.ycombinator.com/item?id=49853175
-Points: 109
-# Comments: 30
+# Comments: 5
+- `Hacker News` [Real-time feedback: My closing move in every interview](https://mgrebler.substack.com/p/real-time-feedback-my-closing-move)
+> Article URL: https://mgrebler.substack.com/p/real-time-feedback-my-closing-move
+Comments URL: https://news.ycombinator.com/item?id=49862244
+Points: 13
+# Comments: 2
+- `Hacker News` [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
+> Article URL: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/
+Comments URL: https://news.ycombinator.com/item?id=49860074
+Points: 60
+# C...
+- `Hacker News` [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
+> Article URL: https://arxiv.org/abs/2609.22978
+Comments URL: https://news.ycombinator.com/item?id=49859112
+Points: 196
+# Comments: 58
+- `Hacker News` [Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC](https://www.righto.com/2026/09/8087-tangent-cordic.html)
+> Article URL: https://www.righto.com/2026/09/8087-tangent-cordic.html
+Comments URL: https://news.ycombinator.com/item?id=49858676
+Points: 49
+# Comments: 7
+- `Hacker News` [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
+> I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) softwa...
+- `Hacker News` [The Evolution of Vending Machines](https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/)
+> Article URL: https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/
+Comments URL: https://news.ycombinator.com/item?id=49858424
+Points: 27
+# ...
+- `Hacker News` [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
+> Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent
+Comments URL: https://news.ycombinator.com/item?id=49857729
+Points: 126
+# Comments: 34
+- `TechCrunch` [PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair](https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/)
+> PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measu...
+- `TechCrunch` [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/)
+> The limited test covers select products and users, with a broader rollout planned for later in October.
+- `TechCrunch` [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
+> Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.
+- `TechCrunch` [TikTok agrees to pay at least $100M in Alabama settlement](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/)
+> TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.
+- `TechCrunch` [Meta and YouTube say they will run ads for ‘Musk’ documentary after all](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/)
+> Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected ...
+- `TechCrunch` [Levoit’s new air purifier is for the pet odors that have taken over your apartment](https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/)
+> This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.
 - `TechCrunch` [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/)
 > After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.
 - `TechCrunch` [At Meta Connect, the company’s smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)
@@ -88,18 +100,14 @@ Points: 109
 > Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
 - `TechCrunch` [Automattic has a new board after failed attempt to put CEO on leave](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/)
 > After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.
-- `TechCrunch` [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/)
-> AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.
-- `TechCrunch` [Meta opens early access program for new Muse features](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/)
-> Anyone interested in joining has to ask Muse to put them on the list.
-- `TechCrunch` [The hottest new hangout for middle schoolers is NPR’s comment section?](https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/)
-> When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.
-- `TechCrunch` [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/)
-> Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropi...
-- `TechCrunch` [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
-> Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.
-- `TechCrunch` [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/)
-> The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.
+- `The Verge` [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
+> Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, "The ...
+- `The Verge` [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview)
+> I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tr...
+- `The Verge` [Kids turned the comment section of an NPR podcast into a group chat](https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section)
+> Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episod...
+- `The Verge` [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)
+> As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The...
 - `The Verge` [Can Cloudflare CEO Matthew Prince save the web from AI?](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising)
 > Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ...
 - `The Verge` [Control Resonant is a great game — it’s even better when you read everything](https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs)
@@ -112,14 +120,6 @@ Points: 109
 > Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports an...
 - `The Verge` [Phones don’t have lights](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks)
 > Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, n...
-- `The Verge` [These camera apps give you more control over the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera)
-> One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48...
-- `The Verge` [Tesla’s Optimus robot is going through growing pains](https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands)
-> Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced "several hundred robots a week" last month, after it re...
-- `The Verge` [Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem)
-> Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeare...
-- `The Verge` [Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K](https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k)
-> Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new ve...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
