@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-09-27
 
-> 自动收集于 2026-09-27 04:47 | 共 40 条
+> 自动收集于 2026-09-27 15:53 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等](https://sspai.com/post/115056)
+> 《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险……查看全文
 - `少数派` [宜家 Matter 智能家居终于要来了？在中国市场它将如何破局](https://sspai.com/post/114958)
 > 距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/114957)
@@ -28,58 +30,61 @@
 > 除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文
 - `少数派` [具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性](https://sspai.com/post/114901)
 > Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...查看全文
-- `少数派` [Here Wallpaper：把喜欢的地图做成壁纸](https://sspai.com/post/114211)
-> 家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
-> Article URL: https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/
-Comments URL: https://news.ycombinator.com/item?id=49863062
-Points: 50
-# Comments: 8
-- `Hacker News` [What is the size of Yemen? (2024)](https://theborys.substack.com/p/what-is-the-size-of-yemen)
-> Article URL: https://theborys.substack.com/p/what-is-the-size-of-yemen
-Comments URL: https://news.ycombinator.com/item?id=49862809
-Points: 42
-# Comments: 6
-- `Hacker News` [OpenAI agents tried to bruteforce a UN website's API fields](https://swarmcha.se/posts/openai-unctad)
-> Article URL: https://swarmcha.se/posts/openai-unctad
-Comments URL: https://news.ycombinator.com/item?id=49862299
-Points: 9
-# Comments: 5
-- `Hacker News` [Real-time feedback: My closing move in every interview](https://mgrebler.substack.com/p/real-time-feedback-my-closing-move)
-> Article URL: https://mgrebler.substack.com/p/real-time-feedback-my-closing-move
-Comments URL: https://news.ycombinator.com/item?id=49862244
-Points: 13
-# Comments: 2
-- `Hacker News` [Welcome to the Medical Clinic at the Interplanetary Relay Station](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
-> Article URL: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/
-Comments URL: https://news.ycombinator.com/item?id=49860074
-Points: 60
-# C...
-- `Hacker News` [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
-> Article URL: https://arxiv.org/abs/2609.22978
-Comments URL: https://news.ycombinator.com/item?id=49859112
-Points: 196
-# Comments: 58
-- `Hacker News` [Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC](https://www.righto.com/2026/09/8087-tangent-cordic.html)
-> Article URL: https://www.righto.com/2026/09/8087-tangent-cordic.html
-Comments URL: https://news.ycombinator.com/item?id=49858676
-Points: 49
+- `Hacker News` ["They had no concept of a duty of care to their users."](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)
+> Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/
+Comments URL: https://news.ycombinator.com/item?id=49867067
+Points: 93
+# Comments: 55
+- `Hacker News` [10 Tells of a Slop UI](https://hereticpleb.vercel.app/blog/10-tells-of-slop)
+> Article URL: https://hereticpleb.vercel.app/blog/10-tells-of-slop
+Comments URL: https://news.ycombinator.com/item?id=49867038
+Points: 121
+# Comments: 78
+- `Hacker News` [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
+> Article URL: https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html
+Comments URL: https://news.ycombinator.com/item?id=49866951
+Points: 44
+# Comments: 13
+- `Hacker News` [Ten Lines of Code That Changed My World](https://pixelambacht.nl/2026/ten-lines-of-code/)
+> Article URL: https://pixelambacht.nl/2026/ten-lines-of-code/
+Comments URL: https://news.ycombinator.com/item?id=49866534
+Points: 10
+# Comments: 0
+- `Hacker News` [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
+> Article URL: https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/
+Comments URL: https://news.ycombinator.com/item?id=49866515
+Points: 46
+# Comments: 13
+- `Hacker News` ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)
+> Article URL: https://arxiv.org/abs/2609.25021
+Comments URL: https://news.ycombinator.com/item?id=49865343
+Points: 81
+# Comments: 86
+- `Hacker News` [Rusty thoughts on "Parse, don't validate"](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
+> Article URL: https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/
+Comments URL: https://news.ycombinator.com/item?id=49864743
+Points: 34
 # Comments: 7
-- `Hacker News` [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
-> I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) softwa...
-- `Hacker News` [The Evolution of Vending Machines](https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/)
-> Article URL: https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/
-Comments URL: https://news.ycombinator.com/item?id=49858424
-Points: 27
-# ...
-- `Hacker News` [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
-> Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent
-Comments URL: https://news.ycombinator.com/item?id=49857729
-Points: 126
-# Comments: 34
+- `Hacker News` [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
+> Article URL: https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/
+Comments URL: https://news.ycombinator.com/item?id=49864642
+Points: 358
+# Comments: 250
+- `Hacker News` [Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+> Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/
+Comments URL: https://news.ycombinator.com/item?id=49863864
+Points: 527
+# Comments: 457
+- `Hacker News` [The internet discovers TLA+. Now what?](https://reasonable.io/blog/tla-tutorial/)
+> Article URL: https://reasonable.io/blog/tla-tutorial/
+Comments URL: https://news.ycombinator.com/item?id=49863600
+Points: 76
+# Comments: 38
+- `TechCrunch` [Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises](https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/)
+> I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.
 - `TechCrunch` [PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair](https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/)
 > PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measu...
 - `TechCrunch` [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/)
@@ -98,8 +103,12 @@ Points: 126
 > The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.
 - `TechCrunch` [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/)
 > Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
-- `TechCrunch` [Automattic has a new board after failed attempt to put CEO on leave](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/)
-> After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.
+- `The Verge` [Why OLPC’s $100 laptop never stood a chance](https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance)
+> The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix ev...
+- `The Verge` [Googlebooks might be the real deal](https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse)
+> Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read al...
+- `The Verge` [The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepbac...
 - `The Verge` [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
 > Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, "The ...
 - `The Verge` [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview)
@@ -114,12 +123,6 @@ Points: 126
 > In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading ev...
 - `The Verge` [Pokémon card resellers have turned collecting into an online blood sport](https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers)
 > Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush s...
-- `The Verge` [Can ‘eSUV’ e-bikes really go from trail to town?](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox)
-> Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called "electric SUV" (eSUV) e-bikes ...
-- `The Verge` [Roku’s first OLED TVs are up to $400 off, starting at $699](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale)
-> Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports an...
-- `The Verge` [Phones don’t have lights](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks)
-> Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, n...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
