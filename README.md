@@ -6,10 +6,16 @@
 
 # 📰 每日科技日报 — 2026-09-28
 
-> 自动收集于 2026-09-28 04:49 | 共 40 条
+> 自动收集于 2026-09-28 18:49 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/115094)
+> >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [基于 Termux 的 Android 手机开发服务器实操](https://sspai.com/prime/story/dev-env-on-android-with-termux)
+> 不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [比起折痕， iPhone Duo 的交互设计更加令人着迷](https://sspai.com/post/114972)
+> 一起来看看 Apple 是如何围绕一块会改变形状的屏幕，重新思考人与界面的关系。查看全文
 - `少数派` [摸鱼+3 | 还剩三天班，一天一个解谜游戏](https://sspai.com/post/114967)
 > 节后再说！查看全文
 - `少数派` [派早报：OpenAI 称与苹果合作效果不佳](https://sspai.com/post/115079)
@@ -24,102 +30,93 @@
 > 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
 - `少数派` [家庭饮品 DIY 指南（五）：特调咖啡及其他饮品](https://sspai.com/prime/story/home-made-beverages-5)
 > 往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
-- `少数派` [微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」](https://sspai.com/post/113823)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [古董电脑室十周年记：为什么我不再是收藏家（上）](https://sspai.com/post/114395)
-> 站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现实，最终将我推向了一个完全意想不到的方向，并彻底改变了我对「技术」和「收藏」的理解。查看全文
-- `少数派` [派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等](https://sspai.com/post/114913)
-> Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834)
-> Article URL: https://arxiv.org/abs/2110.01834
-Comments URL: https://news.ycombinator.com/item?id=49873241
-Points: 16
-# Comments: 1
-- `Hacker News` [Microsoft drops Copilot+ branding from its new laptops](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding)
-> Article URL: https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lac...
-- `Hacker News` [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
-> Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/
-Comments URL: https://news.ycombinator.com/item?id=49872883
-Points: 21
-# Comments: 17
-- `Hacker News` [TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
-> Article URL: https://efraingaray.com/en/blog/tabpfn-vs-xgboost/
-Comments URL: https://news.ycombinator.com/item?id=49872864
-Points: 5
+- `Hacker News` [So long Google, and thanks for all the nudes](https://lecaro.me/20260921-google-less.html)
+> Article URL: https://lecaro.me/20260921-google-less.html
+Comments URL: https://news.ycombinator.com/item?id=49881951
+Points: 22
 # Comments: 3
-- `Hacker News` [Musk, the Movie](https://bleeckerstreetmedia.com/musk)
-> Article URL: https://bleeckerstreetmedia.com/musk
-Comments URL: https://news.ycombinator.com/item?id=49872766
-Points: 114
-# Comments: 31
-- `Hacker News` [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
-> Article URL: https://colo.to/nvidia-stock-narrative.html
-Comments URL: https://news.ycombinator.com/item?id=49872723
-Points: 268
-# Comments: 138
-- `Hacker News` [As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'](https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html)
-> Article URL: https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html
-Comments URL: https://news.ycombinator.com/item?id=49872522
-Points: 77
-# Comments: 59
-- `Hacker News` [Research finds 485 chemicals in US pesticide products linked to breast cancer](https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products)
-> Article URL: https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products
-Comments URL: https://news.ycombinator.com/item?id=49872497
-Points: 65
-# Comments: 21
-- `Hacker News` [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
-> Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html
-Comments URL: https://news.ycombinator.com/item?id=49870837
-Points: 56
-# Comments: 38
-- `Hacker News` [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
-> Article URL: https://sancho.bearblog.dev/google-weird/
-Comments URL: https://news.ycombinator.com/item?id=49870367
-Points: 950
-# Comments: 517
-- `TechCrunch` [Truecaller takes its scam intelligence to the open web as it looks beyond caller ID](https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/)
-> Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.
-- `TechCrunch` [Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/)
-> This will be the first one-on-one meeting between Dario Amodei and Donald Trump
-- `TechCrunch` [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/)
-> On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.
-- `TechCrunch` [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/)
-> "AI is the devil and I its maker."
-- `TechCrunch` [TechCrunch Mobility: AV companies pick their lanes](https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-- `TechCrunch` [Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises](https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/)
-> I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.
-- `TechCrunch` [PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair](https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/)
-> PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measu...
-- `TechCrunch` [Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India](https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/)
-> The limited test covers select products and users, with a broader rollout planned for later in October.
-- `TechCrunch` [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/)
-> Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.
-- `TechCrunch` [TikTok agrees to pay at least $100M in Alabama settlement](https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/)
-> TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.
-- `The Verge` [Out of the Park Baseball lets me enjoy baseball even when the Mets suck](https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review)
-> If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing...
-- `The Verge` [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
-> Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate ...
-- `The Verge` [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website)
-> Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inci...
-- `The Verge` [Why OLPC’s $100 laptop never stood a chance](https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance)
-> The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix ev...
-- `The Verge` [Googlebooks might be the real deal](https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse)
-> Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read al...
-- `The Verge` [The smart home graveyard is getting crowded](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepbac...
-- `The Verge` [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
-> Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, "The ...
-- `The Verge` [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview)
-> I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tr...
-- `The Verge` [Kids turned the comment section of an NPR podcast into a group chat](https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section)
-> Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episod...
-- `The Verge` [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)
-> As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The...
+- `Hacker News` [Claude Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)
+> Article URL: https://www.anthropic.com/claude-sonnet-5-5
+Comments URL: https://news.ycombinator.com/item?id=49881850
+Points: 137
+# Comments: 94
+- `Hacker News` [I made a visual workspace for AI Automations](https://www.biom.dev/)
+> Article URL: https://www.biom.dev/
+Comments URL: https://news.ycombinator.com/item?id=49881777
+Points: 6
+# Comments: 2
+- `Hacker News` [Definitely not Windows (Win 11 parody)](https://definitelynotwindows.com/)
+> Article URL: https://definitelynotwindows.com/
+Comments URL: https://news.ycombinator.com/item?id=49881747
+Points: 72
+# Comments: 23
+- `Hacker News` [Who Wrote Elizabeth I's Most Scathing Letters?](https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/)
+> Article URL: https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-...
+- `Hacker News` [The Teen Portraits That Captivated Sofia Coppola](https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola)
+> Article URL: https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola
+Comments URL: https://news.ycombinator.com/item?id=49881606
+Points: 7
+# Comments: 1
+- `Hacker News` [Launch HN: Vespper (YC F24) – SOTA Docx MCP](https://www.vespper.com/blog/launching-vespper-docx-mcp)
+> Hey HN! We're Dudu and Topaz from Vespper (https://vespper.com). Vespper is an MCP that lets AI agents efficiently edit Word documents, powered by our fine-tuned model. It's currently 3× faster, 2×...
+- `Hacker News` [OpenAI still doesn't seem to have a handle on all of its rogue AI activity](https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/)
+> Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/
+Comments URL: https://news.ycombinator.com/item?id=49881484
+Points: 45
+# Co...
+- `Hacker News` [Show HN: Destroy Any Website with Stickman](https://destroy.spritefusion.com/)
+> Article URL: https://destroy.spritefusion.com/
+Comments URL: https://news.ycombinator.com/item?id=49880601
+Points: 12
+# Comments: 5
+- `Hacker News` [The problem is not AI code, but not knowing about system architecture or intent](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
+> Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/
+Comments URL: https://news.ycombinator.com/item?id=49880312
+Points: 277
+# Comments: 187
+- `TechCrunch` [Nvidia launches new platform for reining in rogue AI agents](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/)
+> As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen...
+- `TechCrunch` [Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/)
+> Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.
+- `TechCrunch` [Google is killing off Gemini’s Gems in favor of ‘skills’](https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/)
+> As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.
+- `TechCrunch` [OpenAI still doesn’t seem to have a handle on all of its rogue AI activity](https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/)
+> On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.
+- `TechCrunch` [Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative](https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/)
+> Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.
+- `TechCrunch` [The iPhone Duo may already have its first killer app: a virtual Walkman](https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/)
+> The app imitates how Walkmans used to function: You can open up the Duo to pick your music and "insert" your cassette tape, then close the device shut to start listening.
+- `TechCrunch` [Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch D...](https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/)
+> Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.
+- `TechCrunch` [Physical AI chip developer SiMa AI hits $1.45B valuation](https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/)
+> The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.
+- `TechCrunch` [MAVI bets on the AI boom creating demand for a new kind of accountant](https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/)
+> Accounting staffing company MAVI emerges from stealth with $4 million in funding.
+- `TechCrunch` [After a deepfake voice fooled her grandfather, this founder sprang into action](https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/)
+> After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphone...
+- `The Verge` [OpenAI’s AI agents need to catch up](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent)
+> OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing A...
+- `The Verge` [Trump finalizes rule to make cars less fuel efficient](https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards)
+> The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it "among the largest deregulatory actions under the second Trump Administration." It's a ...
+- `The Verge` [AI is supercharging hacking, and your local hospitals and banks aren’t ready](https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready)
+> In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources...
+- `The Verge` [Florida seeks a ban on ChatGPT acting like a person](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids)
+> Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from "giving ChatGPT false human attributes," a few months after Florida sued the AI company over safety concerns. Acc...
+- `The Verge` [OpenAI keeps bulldozing mathematicians](https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group)
+> In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is ...
+- `The Verge` [Walmart won’t hike prices based on your shopping history, CEO says](https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels)
+> Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner ...
+- `The Verge` [Volkswagen replaces ID.4 with all-electric Tiguan](https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev)
+> In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automake...
+- `The Verge` [Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off](https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale)
+> It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my col...
+- `The Verge` [Bose’s first wired earbuds in 11 years add noise canceling](https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder)
+> Everything old is new again as today Bose announced its first pair of wired earbuds since discontinuing the option in 2015. The new tethered earbuds, which are simply called the Bose Noise Cancelli...
+- `The Verge` [The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes](https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira)
+> Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.  Atlassian is one of those companies that every other company runs on — it makes important platform tools li...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
