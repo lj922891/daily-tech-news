@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-28
+# 📰 每日科技日报 — 2026-09-29
 
-> 自动收集于 2026-09-28 18:49 | 共 40 条
+> 自动收集于 2026-09-29 05:15 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [可塑的白昼：ColorOS17 深度评测](https://sspai.com/post/114728)
+> 时间倾斜，触碰我，发出清澈的金属般的声响。我的感官在战栗，我觉我能——我能抓住这可塑的白昼。——里尔克《时辰祈祷》AppleEvent'26上，主动智能赋能的SiriAI终于正式发布。Craig一句「 ...查看全文
+- `少数派` [派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等](https://sspai.com/post/115134)
+> 少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/115094)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [基于 Termux 的 Android 手机开发服务器实操](https://sspai.com/prime/story/dev-env-on-android-with-termux)
@@ -26,77 +30,82 @@
 > 距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/114957)
 > 📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ...查看全文
-- `少数派` [新玩意 252｜少数派的编辑们最近买了啥？](https://sspai.com/post/114954)
-> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
-- `少数派` [家庭饮品 DIY 指南（五）：特调咖啡及其他饮品](https://sspai.com/prime/story/home-made-beverages-5)
-> 往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [So long Google, and thanks for all the nudes](https://lecaro.me/20260921-google-less.html)
-> Article URL: https://lecaro.me/20260921-google-less.html
-Comments URL: https://news.ycombinator.com/item?id=49881951
-Points: 22
-# Comments: 3
-- `Hacker News` [Claude Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)
-> Article URL: https://www.anthropic.com/claude-sonnet-5-5
-Comments URL: https://news.ycombinator.com/item?id=49881850
-Points: 137
-# Comments: 94
-- `Hacker News` [I made a visual workspace for AI Automations](https://www.biom.dev/)
-> Article URL: https://www.biom.dev/
-Comments URL: https://news.ycombinator.com/item?id=49881777
-Points: 6
+- `Hacker News` [Profit Margins of the Largest Companies](https://www.visualcapitalist.com/ranked-how-profitable-are-the-worlds-largest-companies/)
+> Article URL: https://www.visualcapitalist.com/ranked-how-profitable-are-the-worlds-largest-companies/
+Comments URL: https://news.ycombinator.com/item?id=49887518
+Points: 19
+# Comments: 6
+- `Hacker News` [Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra](https://bluegraph.io/)
+> Article URL: https://bluegraph.io/
+Comments URL: https://news.ycombinator.com/item?id=49886901
+Points: 15
 # Comments: 2
-- `Hacker News` [Definitely not Windows (Win 11 parody)](https://definitelynotwindows.com/)
-> Article URL: https://definitelynotwindows.com/
-Comments URL: https://news.ycombinator.com/item?id=49881747
-Points: 72
-# Comments: 23
-- `Hacker News` [Who Wrote Elizabeth I's Most Scathing Letters?](https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/)
-> Article URL: https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-...
-- `Hacker News` [The Teen Portraits That Captivated Sofia Coppola](https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola)
-> Article URL: https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola
-Comments URL: https://news.ycombinator.com/item?id=49881606
-Points: 7
-# Comments: 1
-- `Hacker News` [Launch HN: Vespper (YC F24) – SOTA Docx MCP](https://www.vespper.com/blog/launching-vespper-docx-mcp)
-> Hey HN! We're Dudu and Topaz from Vespper (https://vespper.com). Vespper is an MCP that lets AI agents efficiently edit Word documents, powered by our fine-tuned model. It's currently 3× faster, 2×...
-- `Hacker News` [OpenAI still doesn't seem to have a handle on all of its rogue AI activity](https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/)
-> Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/
-Comments URL: https://news.ycombinator.com/item?id=49881484
-Points: 45
-# Co...
-- `Hacker News` [Show HN: Destroy Any Website with Stickman](https://destroy.spritefusion.com/)
-> Article URL: https://destroy.spritefusion.com/
-Comments URL: https://news.ycombinator.com/item?id=49880601
-Points: 12
-# Comments: 5
-- `Hacker News` [The problem is not AI code, but not knowing about system architecture or intent](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
-> Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/
-Comments URL: https://news.ycombinator.com/item?id=49880312
-Points: 277
-# Comments: 187
+- `Hacker News` [Tank Body Problem](http://www.jimsitu.com)
+> Article URL: http://www.jimsitu.com
+Comments URL: https://news.ycombinator.com/item?id=49886482
+Points: 55
+# Comments: 9
+- `Hacker News` [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
+> Article URL: https://lolchat.rip/
+Comments URL: https://news.ycombinator.com/item?id=49886195
+Points: 71
+# Comments: 39
+- `Hacker News` [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
+> Benchmarks how well Harness+models can create a Pac-Man game from a single prompt:“Create a Pac-Man game in a single HTML page”Each model gets one shot — no follow-up prompts or fixes.
+
+Comments UR...
+- `Hacker News` [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
+> Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster
+Comments URL: https://news.ycombinator.com/item?id=49884625
+Points: 62
+# Comments: 8
+- `Hacker News` [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+> Article URL: https://github.com/firelex/jeff
+Comments URL: https://news.ycombinator.com/item?id=49883844
+Points: 403
+# Comments: 154
+- `Hacker News` [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
+> Article URL: https://www.worldlabs.ai/blog/amd-announcement
+Comments URL: https://news.ycombinator.com/item?id=49883760
+Points: 240
+# Comments: 98
+- `Hacker News` [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
+> Article URL: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops
+Comments URL: https://news.ycombinator.com/item?id=49883539
+Points: 124
+# C...
+- `Hacker News` [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/)
+> Article URL: https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/
+Comments URL: https://news.ycombinator.com/item?id=49883536
+Points: 90
+# Comments: 41
+- `TechCrunch` [Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/)
+> In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.
+- `TechCrunch` [Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/)
+> Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.
+- `TechCrunch` [OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/)
+> A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.
+- `TechCrunch` [Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds](https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/)
+> Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.
+- `TechCrunch` [Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/)
+> The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.
+- `TechCrunch` [AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/)
+> The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.
+- `TechCrunch` [Shopify opens checkout to browser-based AI agents](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/)
+> Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.
+- `TechCrunch` [Tesla delays Roadster 2 event again due to bad weather](https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/)
+> Tesla says the event "can only be held outdoors," as it's expected to show the car flying in some form using SpaceX thrusters.
+- `TechCrunch` [The AI boom took over Climate Week and not everyone is happy about it](https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/)
+> Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.
 - `TechCrunch` [Nvidia launches new platform for reining in rogue AI agents](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/)
-> As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen...
-- `TechCrunch` [Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/)
-> Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.
-- `TechCrunch` [Google is killing off Gemini’s Gems in favor of ‘skills’](https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/)
-> As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.
-- `TechCrunch` [OpenAI still doesn’t seem to have a handle on all of its rogue AI activity](https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/)
-> On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.
-- `TechCrunch` [Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative](https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/)
-> Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.
-- `TechCrunch` [The iPhone Duo may already have its first killer app: a virtual Walkman](https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/)
-> The app imitates how Walkmans used to function: You can open up the Duo to pick your music and "insert" your cassette tape, then close the device shut to start listening.
-- `TechCrunch` [Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch D...](https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/)
-> Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.
-- `TechCrunch` [Physical AI chip developer SiMa AI hits $1.45B valuation](https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/)
-> The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.
-- `TechCrunch` [MAVI bets on the AI boom creating demand for a new kind of accountant](https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/)
-> Accounting staffing company MAVI emerges from stealth with $4 million in funding.
-- `TechCrunch` [After a deepfake voice fooled her grandfather, this founder sprang into action](https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/)
-> After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphone...
+> Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments eve...
+- `The Verge` [AMD is acquiring AI company World Labs in a deal worth more than $8 billion](https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal)
+> AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launc...
+- `The Verge` [Bose starts adding Auracast to its headphones](https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support)
+> A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose ...
 - `The Verge` [OpenAI’s AI agents need to catch up](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent)
 > OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing A...
 - `The Verge` [Trump finalizes rule to make cars less fuel efficient](https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards)
@@ -113,10 +122,6 @@ Points: 277
 > In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automake...
 - `The Verge` [Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off](https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale)
 > It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my col...
-- `The Verge` [Bose’s first wired earbuds in 11 years add noise canceling](https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder)
-> Everything old is new again as today Bose announced its first pair of wired earbuds since discontinuing the option in 2015. The new tethered earbuds, which are simply called the Bose Noise Cancelli...
-- `The Verge` [The SaaSpocalypse that wasn’t, with Atlassian CEO Mike Cannon-Brookes](https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira)
-> Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.  Atlassian is one of those companies that every other company runs on — it makes important platform tools li...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
