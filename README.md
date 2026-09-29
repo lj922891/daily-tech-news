@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-09-29
 
-> 自动收集于 2026-09-29 05:15 | 共 40 条
+> 自动收集于 2026-09-29 17:06 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单](https://sspai.com/post/115153)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...查看全文
+- `少数派` [更懂你的心，也更懂你：Apple Watch Series 12 体验](https://sspai.com/post/115061)
+> 全新 Apple Watch Series 12，有哪些可感知的升级？查看全文
 - `少数派` [可塑的白昼：ColorOS17 深度评测](https://sspai.com/post/114728)
 > 时间倾斜，触碰我，发出清澈的金属般的声响。我的感官在战栗，我觉我能——我能抓住这可塑的白昼。——里尔克《时辰祈祷》AppleEvent'26上，主动智能赋能的SiriAI终于正式发布。Craig一句「 ...查看全文
 - `少数派` [派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等](https://sspai.com/post/115134)
@@ -26,102 +30,95 @@
 > OpenAI 称与苹果合作效果不佳iPhone 4「天线门」媒体问答录像时隔十六年现身F-Droid 2.0 发布三星冰箱固件升级后罢工，影响韩国用户过中秋Excel 单元格将支持数组微软不再使用 Copilot+ PC 品牌看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等](https://sspai.com/post/115056)
 > 《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险……查看全文
-- `少数派` [宜家 Matter 智能家居终于要来了？在中国市场它将如何破局](https://sspai.com/post/114958)
-> 距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ...查看全文
-- `少数派` [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/114957)
-> 📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Profit Margins of the Largest Companies](https://www.visualcapitalist.com/ranked-how-profitable-are-the-worlds-largest-companies/)
-> Article URL: https://www.visualcapitalist.com/ranked-how-profitable-are-the-worlds-largest-companies/
-Comments URL: https://news.ycombinator.com/item?id=49887518
-Points: 19
-# Comments: 6
-- `Hacker News` [Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra](https://bluegraph.io/)
-> Article URL: https://bluegraph.io/
-Comments URL: https://news.ycombinator.com/item?id=49886901
-Points: 15
-# Comments: 2
-- `Hacker News` [Tank Body Problem](http://www.jimsitu.com)
-> Article URL: http://www.jimsitu.com
-Comments URL: https://news.ycombinator.com/item?id=49886482
-Points: 55
-# Comments: 9
-- `Hacker News` [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
-> Article URL: https://lolchat.rip/
-Comments URL: https://news.ycombinator.com/item?id=49886195
-Points: 71
-# Comments: 39
-- `Hacker News` [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
-> Benchmarks how well Harness+models can create a Pac-Man game from a single prompt:“Create a Pac-Man game in a single HTML page”Each model gets one shot — no follow-up prompts or fixes.
-
-Comments UR...
-- `Hacker News` [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
-> Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster
-Comments URL: https://news.ycombinator.com/item?id=49884625
-Points: 62
-# Comments: 8
-- `Hacker News` [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
-> Article URL: https://github.com/firelex/jeff
-Comments URL: https://news.ycombinator.com/item?id=49883844
-Points: 403
-# Comments: 154
-- `Hacker News` [World Labs Is Joining AMD](https://www.worldlabs.ai/blog/amd-announcement)
-> Article URL: https://www.worldlabs.ai/blog/amd-announcement
-Comments URL: https://news.ycombinator.com/item?id=49883760
-Points: 240
-# Comments: 98
-- `Hacker News` [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
-> Article URL: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops
-Comments URL: https://news.ycombinator.com/item?id=49883539
-Points: 124
-# C...
-- `Hacker News` [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/)
-> Article URL: https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/
-Comments URL: https://news.ycombinator.com/item?id=49883536
-Points: 90
-# Comments: 41
-- `TechCrunch` [Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/)
-> In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.
-- `TechCrunch` [Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort](https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/)
-> Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.
-- `TechCrunch` [OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/)
-> A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.
-- `TechCrunch` [Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds](https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/)
-> Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.
-- `TechCrunch` [Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation](https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/)
-> The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.
-- `TechCrunch` [AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion](https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/)
-> The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.
-- `TechCrunch` [Shopify opens checkout to browser-based AI agents](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/)
-> Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.
-- `TechCrunch` [Tesla delays Roadster 2 event again due to bad weather](https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/)
-> Tesla says the event "can only be held outdoors," as it's expected to show the car flying in some form using SpaceX thrusters.
-- `TechCrunch` [The AI boom took over Climate Week and not everyone is happy about it](https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/)
-> Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.
-- `TechCrunch` [Nvidia launches new platform for reining in rogue AI agents](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/)
-> Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments eve...
-- `The Verge` [AMD is acquiring AI company World Labs in a deal worth more than $8 billion](https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal)
-> AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launc...
-- `The Verge` [Bose starts adding Auracast to its headphones](https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support)
-> A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose ...
-- `The Verge` [OpenAI’s AI agents need to catch up](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent)
-> OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing A...
-- `The Verge` [Trump finalizes rule to make cars less fuel efficient](https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards)
-> The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it "among the largest deregulatory actions under the second Trump Administration." It's a ...
-- `The Verge` [AI is supercharging hacking, and your local hospitals and banks aren’t ready](https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready)
-> In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources...
-- `The Verge` [Florida seeks a ban on ChatGPT acting like a person](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids)
-> Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from "giving ChatGPT false human attributes," a few months after Florida sued the AI company over safety concerns. Acc...
-- `The Verge` [OpenAI keeps bulldozing mathematicians](https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group)
-> In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is ...
-- `The Verge` [Walmart won’t hike prices based on your shopping history, CEO says](https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels)
-> Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner ...
-- `The Verge` [Volkswagen replaces ID.4 with all-electric Tiguan](https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev)
-> In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automake...
-- `The Verge` [Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off](https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale)
-> It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my col...
+- `Hacker News` [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising)
+> Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising
+Comments URL: https://news.ycombinator.com/item?id=49896050
+Points: 31
+# Comme...
+- `Hacker News` [Show HN: NSL – WSL for Linux](https://frostyard.github.io/nsl/)
+> One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX.  NSL is my ...
+- `Hacker News` [macOS Golden Gate Is a Buggy Mess](https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/)
+> Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/
+Comments URL: https://news.ycombinator.com/item?id=49894005
+Points: 281
+# Comments: 201
+- `Hacker News` [Google ending ChromeOS support two years early](https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674)
+> Article URL: https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674
+Comments URL: https://news.ycombinator.com/item?id=49893653
+Points: 94
+# Comm...
+- `Hacker News` [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
+> Article URL: https://spectrum.ieee.org/delhi-electricity-loss
+Comments URL: https://news.ycombinator.com/item?id=49892245
+Points: 287
+# Comments: 163
+- `Hacker News` [Without the Hot Air](https://www.withouthotair.com/)
+> Article URL: https://www.withouthotair.com/
+Comments URL: https://news.ycombinator.com/item?id=49892175
+Points: 85
+# Comments: 46
+- `Hacker News` [1 in 8 cancer cases worldwide are caused by infections, study finds](https://www.cbc.ca/lite/story/9.7361622)
+> Article URL: https://www.cbc.ca/lite/story/9.7361622
+Comments URL: https://news.ycombinator.com/item?id=49892120
+Points: 123
+# Comments: 81
+- `Hacker News` [Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound](https://jevstiller.pages.dev/posts/the-guarantee/)
+> Article URL: https://jevstiller.pages.dev/posts/the-guarantee/
+Comments URL: https://news.ycombinator.com/item?id=49891769
+Points: 32
+# Comments: 4
+- `Hacker News` [500k facial scans at UK stations yield no arrests, 1 false positive](https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive)
+> Article URL: https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive
+Comments URL: https://news.ycombinator.com/item?id=49891480
+Poin...
+- `Hacker News` [You are no longer invited to dinner](https://www.derekthompson.org/p/the-death-of-the-american-host)
+> Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host
+Comments URL: https://news.ycombinator.com/item?id=49891295
+Points: 523
+# Comments: 462
+- `TechCrunch` [Can a chatbot fix the government maze? The White House is about to find out](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/)
+> America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.
+- `TechCrunch` [Instinct founder said more than 50% of transactions on the platform are travel-related](https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/)
+> Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.
+- `TechCrunch` [After losing his voice to cancer, this founder is building ‘glasses for voice’](https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/)
+> Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.
+- `TechCrunch` [Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market](https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/)
+> The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.
+- `TechCrunch` [With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox](https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/)
+> Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, fo...
+- `TechCrunch` [Meta is expanding its AI agent Muse to small businesses](https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/)
+> The tech giant says the agent can help owners run their business and find new customers.
+- `TechCrunch` [Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix](https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/)
+> Apple says the bug was used to attack "specific targeted individuals" running iOS 26, which the majority of Apple customers are still using.
+- `TechCrunch` [Fireflies adds dictation to its desktop notetaking apps](https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/)
+> Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.
+- `TechCrunch` [OpenAI apologizes to Australia after its AI agents breached government sites](https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/)
+> The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.
+- `TechCrunch` [Reco raises $55M as AI agent security startups crowd the market](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/)
+> The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.
+- `The Verge` [Xbox’s Mythic Achievements are here and they’re just like PlayStation Platinum trophies](https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature)
+> Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum t...
+- `The Verge` [Apple’s new CEO could change when it launches phones and laptops](https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy)
+> John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial...
+- `The Verge` [OpenAI DevDay 2026: The biggest news and announcements](https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements)
+> It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman. The co...
+- `The Verge` [This might be our first look at Google’s Pixel 11A](https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look)
+> Google isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines. The image renders made by OnLeaks are potentially our fir...
+- `The Verge` [Leaked images reveal new colors for Amazon’s next entry-level Kindle](https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button)
+> Amazon typically introduces new Kindle models a few months ahead of the holiday shopping season, and this year it looks like that will include a bigger update to the entry-level Kindle than what de...
+- `The Verge` [Meta’s Muse AI sent a YouTuber’s address to a stranger](https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns)
+> Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing ...
+- `The Verge` [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
+> It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, w...
+- `The Verge` [SteelSeries’ new mice are super light, with ultra-wideband and swappable batteries](https://www.theverge.com/games/1000245/steelseries-rival-sensei-pro-uwb-swappable-batteries-specs-price)
+> The new ergonomic Rival Pro and ambidextrous Sensei Pro wireless gaming mice are some of the company's most interesting models in years. They're familiar designs that feel incredibly lightweight to...
+- `The Verge` [Fairphone’s next repairable wireless earbuds will launch on October 14th](https://www.theverge.com/tech/1001859/fairphone-fairbuds-2-wireless-earbuds-repairable-modular-price-release)
+> Following leaks revealing a major redesign earlier this month and an official teaser posted to X yesterday, Fairphone has shared some exclusive details with The Verge about the first follow-up to i...
+- `The Verge` [Polaroid’s new instant camera has four creative shooting modes you can experiment with](https://www.theverge.com/tech/1001587/polaroid-mod-instant-camera-creative-shooting-modes)
+> Polaroid announced a new instant camera that lets photographers get more creative and experimental with their shots than just changing the aperture or shutter speed. In addition to a Brightness dia...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
