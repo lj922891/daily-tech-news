@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-10-01
 
-> 自动收集于 2026-10-01 05:17 | 共 30 条
+> 自动收集于 2026-10-01 17:35 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,46 +33,96 @@
 
 ## 🌍 国际科技
 
-- `TechCrunch` [Google releases Gemini 4 Argon, called its most powerful model yet](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/)
-> Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.
-- `TechCrunch` [The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next](https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/)
-> Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administr...
-- `TechCrunch` [Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)
-> Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.
-- `TechCrunch` [Factory CEO just accused his VC board adviser of spying for Cognition](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/)
-> VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.
-- `TechCrunch` [Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/)
-> Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative heal...
-- `TechCrunch` [Hackers stole millions of US military personnel records during months-long data breach](https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/)
-> The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.
-- `TechCrunch` [DoorDash’s drone strategy started on the ground](https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/)
-> DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.
-- `TechCrunch` [BMW built the same car for gas and electric. The EV is $4,400 cheaper.](https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/)
-> The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.
-- `TechCrunch` [OpenAI’s Jev clone could help the frontier lab stop its swarming agents](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/)
-> OpenAI's "Decisions API" is a Jev clone that confirms the importance of fast, cheap intelligence.
-- `TechCrunch` [AI voice startup ElevenLabs doubles valuation to $22B](https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/)
-> The $300 million employee tender was co-led by Wellington and T. Rowe Price.
-- `The Verge` [Vivo’s X Fold 6 accidentally feels like a throwback](https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras)
-> It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel ...
-- `The Verge` [Elon Musk’s Grokipedia has a ‘newly refreshed’ design](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai)
-> Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refres...
-- `The Verge` [The new and huger Paramount has a new co-CEO](https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez)
-> Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead a...
-- `The Verge` [Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie](https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie)
-> A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it c...
-- `The Verge` [Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have i...](https://www.theverge.com/tech/1002980/google-gemini-4-argon)
-> Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers "frontier performance in complex workflows across real-world software engineering, enterp...
-- `The Verge` [The AI Tamagotchis are coming](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices)
-> While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to chan...
-- `The Verge` [Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping)
-> Reddit is further limiting who can use the "Old Reddit" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use...
-- `The Verge` [Amazon’s delivery driver smart glasses will reportedly take photos ‘almost constantly’](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy)
-> Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Blo...
-- `The Verge` [Here’s what AI leaders are saying about Trump’s new safety plan](https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments)
-> After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previ...
-- `The Verge` [This blog could help you poop better](https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health)
-> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
+- `Hacker News` [ParadeDB Search Performance Improvements](https://www.paradedb.com/blog/opening-a-closed-tin)
+> Article URL: https://www.paradedb.com/blog/opening-a-closed-tin
+Comments URL: https://news.ycombinator.com/item?id=49924275
+Points: 6
+# Comments: 0
+- `Hacker News` [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
+> Article URL: https://blog.gitbutler.com/git-3-sha-256
+Comments URL: https://news.ycombinator.com/item?id=49924179
+Points: 18
+# Comments: 1
+- `Hacker News` [Clef: our open-source decision models](https://blog.cloudflare.com/clef-decision-models/)
+> Article URL: https://blog.cloudflare.com/clef-decision-models/
+Comments URL: https://news.ycombinator.com/item?id=49923692
+Points: 100
+# Comments: 28
+- `Hacker News` [Lightweight PDF parser with layout, tables, formulas and bounding boxes](https://github.com/beatrizalmeidaf/papero-pdf-text-extractor)
+> Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor
+Comments URL: https://news.ycombinator.com/item?id=49923638
+Points: 3
+# Comments: 0
+- `Hacker News` [Canada fast-tracks Pacific oil pipeline to reduce US dependence](https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb)
+> Article URL: https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb
+Comments URL: https://news.ycombinator.com/item?id=49923575
+Points: 40
+# Comments: 26
+- `Hacker News` [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
+> Article URL: https://turbopuffer.com/blog/rip-vector-database
+Comments URL: https://news.ycombinator.com/item?id=49923466
+Points: 76
+# Comments: 17
+- `Hacker News` [Red Hat being phased out of existence?](https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml)
+> Article URL: https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml
+Comments URL: https://news.ycombinator.com/item?id=49923056
+Points: 77
+# Comme...
+- `Hacker News` [Identity Management for Agentic AI [pdf] (2025)](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)
+> Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf
+Comments URL: https://news.ycombinator.com/item?id=49922736
+Points: 41
+# Comments: 6
+- `Hacker News` [Figma restricts MCP access to whitelisted clients, excluding Pi](https://twitter.com/GayaniFigma/status/2105295629941350454)
+> Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454
+Comments URL: https://news.ycombinator.com/item?id=49922729
+Points: 98
+# Comments: 46
+- `Hacker News` [Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers](https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/)
+> Article URL: https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/
+Comments URL: https://news.ycombinator.com/item?id=49922674
+Points: 13
+# ...
+- `TechCrunch` [This startup wants to turn idle user car inventory into rental revenue](https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/)
+> When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only need a car for a few months ar...
+- `TechCrunch` [Amazon releases its own Jev clone as decision models flood the web](https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/)
+> Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.
+- `TechCrunch` [Shopify debuts Canvas, a way to build online stores by chatting with AI](https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/)
+> Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.
+- `TechCrunch` [California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people](https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/)
+> The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.
+- `TechCrunch` [One year later, Tesla and Musk still don’t have a good definition of ‘abundance’](https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/)
+> The CEO promised to get more specific about his vision. But the details are still absent.
+- `TechCrunch` [Brian Chesky interview: AI agents need their own operating system](https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/)
+> Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.
+- `TechCrunch` [Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.](https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/)
+> The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.
+- `TechCrunch` [Hearing tech startup Legato launches its AI hearing glasses](https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/)
+> The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.
+- `TechCrunch` [Audible’s new features let you explore book worlds — and use AI to talk to characters](https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/)
+> Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.
+- `TechCrunch` [The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader](https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/)
+> The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.
+- `The Verge` [Judge dismisses antitrust lawsuits over Google’s AI Overviews](https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed)
+> A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-pow...
+- `The Verge` [Sony brings AI graphics upscaling to the regular PS5](https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr)
+> Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a "new performance tier of AI upscaling" that's a r...
+- `The Verge` [Can VR glasses save VR?](https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality)
+> I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I want you to understand that Meta jus...
+- `The Verge` [Microsoft’s Office and Teams chief is leaving](https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving)
+> After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office last year and then ...
+- `The Verge` [Inside Microsoft’s big Copilot rethink](https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad)
+> Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of C...
+- `The Verge` [NYC is now the first city in America that bans sketchy subscriptions](https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule)
+> New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, whic...
+- `The Verge` [OpenAI’s new agent is a shot at Meta — but can it compete with free?](https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle)
+> At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman w...
+- `The Verge` [Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle](https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash)
+> Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.  The idea was to build the world’s b...
+- `The Verge` [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
+> It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, w...
+- `The Verge` [What even is a ‘microdrama’?](https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video)
+> On Monday, Variety reported that RoseBerry Media is recutting episodes of the Australian soap opera Neighbours "into microdramas." These clips will be available on Epis, a short-form vertical video...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
