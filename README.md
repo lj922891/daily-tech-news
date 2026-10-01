@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-09-30
+# 📰 每日科技日报 — 2026-10-01
 
-> 自动收集于 2026-09-30 17:04 | 共 40 条
+> 自动收集于 2026-10-01 05:17 | 共 30 条
 
 ## 🇨🇳 中文科技
 
@@ -33,96 +33,46 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603)
-> Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603
-Comments URL: https://news.ycombinator.com/item?id=49910613
-Points: 16
-# Comments: 5
-- `Hacker News` [The AI Race Just Got Awkward](https://insufferable.dev/posts/the-ai-race-just-got-awkward/)
-> Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/
-Comments URL: https://news.ycombinator.com/item?id=49910553
-Points: 262
-# Comments: 220
-- `Hacker News` [SDF Public Access Unix System ... est. 1987](https://sdf.org/)
-> Article URL: https://sdf.org/
-Comments URL: https://news.ycombinator.com/item?id=49909610
-Points: 11
-# Comments: 1
-- `Hacker News` [A Brief History of the Bloomberg Terminal](https://spectrum.ieee.org/bloomberg-terminal)
-> Article URL: https://spectrum.ieee.org/bloomberg-terminal
-Comments URL: https://news.ycombinator.com/item?id=49909583
-Points: 46
-# Comments: 13
-- `Hacker News` [What TLA+ can and can't check](https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/)
-> Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/
-Comments URL: https://news.ycombinator.com/item?id=49909056
-Points: 9
-# Comments: 1
-- `Hacker News` [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
-> Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/
-Comments URL: https://news.ycombinator.com/item?id=49908962
-Points: 65
-# Comments: 31
-- `Hacker News` [You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
-> Article URL: https://earendil.com/posts/you-said-no-mcp/
-Comments URL: https://news.ycombinator.com/item?id=49906637
-Points: 438
-# Comments: 240
-- `Hacker News` [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
-> Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/
-Comments URL: https://news.ycombinator.com/item?id=49905487
-Points: 455
-# Comments: 335
-- `Hacker News` [RSS Feeds for Last.fm](https://lfm.xiffy.nl/)
-> Article URL: https://lfm.xiffy.nl/
-Comments URL: https://news.ycombinator.com/item?id=49903862
-Points: 111
-# Comments: 36
-- `Hacker News` [Floppy Emu Hardware Failure Analysis Results](https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/)
-> Article URL: https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/
-Comments URL: https://news.ycombinator.com/item?id=49902093
-Points: 40
-# Comments: 9
-- `TechCrunch` [Meta disputes claim that Muse read a user’s private messages without permission](https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/)
-> Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was...
-- `TechCrunch` [DoorDash launches an AI agent you can text to order food](https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/)
-> By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.
-- `TechCrunch` [Destro AI’s secret sauce is getting robots and humans on the same page](https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/)
-> "One of the biggest reasons we are winning against robotics companies is because we are not a robotics company."
-- `TechCrunch` [Instinct’s new product recommendations are giving some users the ick](https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/)
-> Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.
-- `TechCrunch` [FedEx orders 2,000 electric trucks from Harbinger in $300M deal](https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/)
-> The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.
-- `TechCrunch` [Pledge signed by President Trump and top AI leaders misspells the United States](https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/)
-> On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety ...
-- `TechCrunch` [Google launches Fitbit Air in India, though its high price might deter the masses](https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/)
-> Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.
-- `TechCrunch` [Instagram rolls out an AI video assistant for creators](https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/)
-> This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.
-- `TechCrunch` [Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/)
-> At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints...
-- `TechCrunch` [Restate lands $20M as the need for durable infrastructure increases with AI agents](https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/)
-> Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be ex...
+- `TechCrunch` [Google releases Gemini 4 Argon, called its most powerful model yet](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/)
+> Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.
+- `TechCrunch` [The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next](https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/)
+> Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administr...
+- `TechCrunch` [Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation](https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/)
+> Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.
+- `TechCrunch` [Factory CEO just accused his VC board adviser of spying for Cognition](https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/)
+> VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.
+- `TechCrunch` [Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America](https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/)
+> Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative heal...
+- `TechCrunch` [Hackers stole millions of US military personnel records during months-long data breach](https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/)
+> The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.
+- `TechCrunch` [DoorDash’s drone strategy started on the ground](https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/)
+> DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.
+- `TechCrunch` [BMW built the same car for gas and electric. The EV is $4,400 cheaper.](https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/)
+> The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.
+- `TechCrunch` [OpenAI’s Jev clone could help the frontier lab stop its swarming agents](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/)
+> OpenAI's "Decisions API" is a Jev clone that confirms the importance of fast, cheap intelligence.
+- `TechCrunch` [AI voice startup ElevenLabs doubles valuation to $22B](https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/)
+> The $300 million employee tender was co-led by Wellington and T. Rowe Price.
+- `The Verge` [Vivo’s X Fold 6 accidentally feels like a throwback](https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras)
+> It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel ...
+- `The Verge` [Elon Musk’s Grokipedia has a ‘newly refreshed’ design](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai)
+> Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refres...
+- `The Verge` [The new and huger Paramount has a new co-CEO](https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez)
+> Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead a...
+- `The Verge` [Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie](https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie)
+> A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it c...
+- `The Verge` [Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have i...](https://www.theverge.com/tech/1002980/google-gemini-4-argon)
+> Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers "frontier performance in complex workflows across real-world software engineering, enterp...
+- `The Verge` [The AI Tamagotchis are coming](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices)
+> While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to chan...
+- `The Verge` [Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping)
+> Reddit is further limiting who can use the "Old Reddit" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use...
+- `The Verge` [Amazon’s delivery driver smart glasses will reportedly take photos ‘almost constantly’](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy)
+> Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Blo...
+- `The Verge` [Here’s what AI leaders are saying about Trump’s new safety plan](https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments)
+> After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previ...
 - `The Verge` [This blog could help you poop better](https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health)
 > This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
-- `The Verge` [Asus won’t say how it escaped the US router ban](https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing)
-> This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a nationa...
-- `The Verge` [‘Xbox is not for sale’ says Microsoft’s gaming chief](https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview)
-> Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been cons...
-- `The Verge` [The Halide camera app now offers full control of the iPhone 18 Pro’s aperture](https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture)
-> A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Hal...
-- `The Verge` [All the latest news on Meta’s cute, creepy Muse AI agent](https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai)
-> Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’r...
-- `The Verge` [Google reportedly tests paying publishers for AI search results](https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features)
-> Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes...
-- `The Verge` [Instagram is adding an AI ‘assistant’ to tell you how to post](https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube)
-> Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will no...
-- `The Verge` [Amazon’s new Fire TV Stick 4K can pull power directly from your TV](https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power)
-> The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's U...
-- `The Verge` [The Sonos Ace Ultra are the headphones Sonos should have made the first time](https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review)
-> The original Sonos Ace headphones should have been a triumphant entry into a new product category. Instead, they were overshadowed by Sonos's disastrous app redesign. And while the original Ace are...
-- `The Verge` [Potato by air](https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery)
-> The Wing Hummingbird 7000W-B delivery drone weighs less than 15 pounds. It has 16 propellers - four for horizontal movement and 12 for vertical - a top speed of 60 miles per hour, a carrying capaci...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
