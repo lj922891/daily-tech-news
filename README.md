@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-10-02
 
-> 自动收集于 2026-10-02 05:05 | 共 40 条
+> 自动收集于 2026-10-02 16:54 | 共 30 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/115211)
+> 📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...查看全文
 - `少数派` [从玩家的世界掠过：Bungie 的「列车」如何驶向终焉](https://sspai.com/post/115070)
 > Bungie 究竟是在和时间赛跑，还是在和自己赛跑？查看全文
 - `少数派` [经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166)
@@ -28,101 +30,49 @@
 > 少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/115094)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [基于 Termux 的 Android 手机开发服务器实操](https://sspai.com/prime/story/dev-env-on-android-with-termux)
-> 不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [DeepSeek Harness](https://www.deepseek.com/en/harness/)
-> Article URL: https://www.deepseek.com/en/harness/
-Comments URL: https://news.ycombinator.com/item?id=49929489
-Points: 41
-# Comments: 14
-- `Hacker News` [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
-> Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works
-Comments URL: https://news.ycombinator.com/item?id=49929113
-Points: 43
-# Comments: 13
-- `Hacker News` [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
-> Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators
-Comments URL: https://news.ycombinator.com/item?id=49928152
-Points: 27
-# Comments: 4
-- `Hacker News` [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
-> Article URL: https://lwn.net/Articles/1097401/
-Comments URL: https://news.ycombinator.com/item?id=49928121
-Points: 194
-# Comments: 122
-- `Hacker News` [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)
-> Article URL: https://www.frogandtoad.ai/
-Comments URL: https://news.ycombinator.com/item?id=49927760
-Points: 85
-# Comments: 13
-- `Hacker News` [Aweb – Communication for AI Agents](https://aweb.ai)
-> Article URL: https://aweb.ai
-Comments URL: https://news.ycombinator.com/item?id=49927587
-Points: 30
-# Comments: 23
-- `Hacker News` [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
-> Article URL: https://www.cssbed.com
-Comments URL: https://news.ycombinator.com/item?id=49927212
-Points: 81
-# Comments: 21
-- `Hacker News` [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness)
-> Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness
-Comments URL: https://news.ycombinator.com/item?id=49926917
-Points: 104
-# Comments: 19
-- `Hacker News` [Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus)
-> Article URL: https://github.com/Vibra-Ingenn/Janus
-Comments URL: https://news.ycombinator.com/item?id=49926773
-Points: 60
-# Comments: 9
-- `Hacker News` [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html)
-> Article URL: https://automatictransmission.khoury.northeastern.edu/index.html
-Comments URL: https://news.ycombinator.com/item?id=49926628
-Points: 158
-# Comments: 151
-- `TechCrunch` [Robotaxi operators will face fines for blocking first responders](https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/)
-> A new California law places new rules on autonomous vehicles operators
-- `TechCrunch` [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
-> TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.
-- `TechCrunch` [Lyft is paying $272.5M to settle lawsuit over how it classified drivers](https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/)
-> Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.
-- `TechCrunch` [Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation](https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/)
-> Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.
-- `TechCrunch` [Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/)
-> President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.
-- `TechCrunch` [ChatGPT can now virtually try on clothes for you](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/)
-> OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.
-- `TechCrunch` [Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the g...](https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/)
-> Google launched its first advanced chip into orbit to pave the way for space data centers.
-- `TechCrunch` [World’s first enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/)
-> Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.
-- `TechCrunch` [OpenAI cuts ties with 3 safety researchers, WSJ reports](https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/)
-> OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.
-- `TechCrunch` [Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)](https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/)
-> Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.
-- `The Verge` [Apple’s reportedly developing a smart home camera that doesn’t record video](https://www.theverge.com/tech/1003877/apple-security-camera-no-video)
-> Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of...
-- `The Verge` [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision)
-> Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in ...
-- `The Verge` [Android Central ‘will continue’ despite laying off its staff](https://www.theverge.com/tech/1003735/android-central-layoffs)
-> Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six sta...
-- `The Verge` [Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?](https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for)
-> The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a "generational leap" in performance ...
-- `The Verge` [Judge dismisses antitrust lawsuits over Google’s AI Overviews](https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed)
-> A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-pow...
-- `The Verge` [Sony brings AI graphics upscaling to the regular PS5](https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr)
-> Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a "new performance tier of AI upscaling" that's a r...
-- `The Verge` [Can VR glasses save VR?](https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality)
-> I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I want you to understand that Meta jus...
-- `The Verge` [Microsoft’s Office and Teams chief is leaving](https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving)
-> After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office last year and then ...
-- `The Verge` [Inside Microsoft’s big Copilot rethink](https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad)
-> Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of C...
-- `The Verge` [NYC is now the first city in America that bans sketchy subscriptions](https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule)
-> New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, whic...
+- `TechCrunch` [Paramount and Warner Bros Discovery to become Skydance](https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/)
+> The roughly $110 billion deal is expected to close October 6.
+- `TechCrunch` [Pope Leo XIV is not a fan of AI-generated art](https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/)
+> "There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others," the po...
+- `TechCrunch` [Laytr’s new app lets you save anything you find online, not just articles to read](https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/)
+> Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.
+- `TechCrunch` [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/)
+> Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.
+- `TechCrunch` [Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order](https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/)
+> The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.
+- `TechCrunch` [TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/)
+> Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.
+- `TechCrunch` [Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders](https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/)
+> Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West...
+- `TechCrunch` [Less than 24 hours to apply for a  Side Event at Founder Summit 2026](https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/)
+> The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston sta...
+- `TechCrunch` [Tesla sustains its EV sales momentum despite US troubles](https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/)
+> The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.
+- `TechCrunch` [Medical records giant Epic pauses product development to fix security bugs that risk patients’ data](https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/)
+> The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.
+- `The Verge` [Nacon’s new PS5 controller can mix audio from your phone and console](https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller)
+> Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping b...
+- `The Verge` [Dots get up in Muse’s business](https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast)
+> OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per mont...
+- `The Verge` [Tesla will now let you drive off mid-charge if there’s an emergency](https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting)
+> Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Idaho in August that left seven people ...
+- `The Verge` [Keurig’s new machine uses plastic-free compressed coffee pucks](https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder)
+> Keurig's new single-serve coffee machine delivers the same convenience that helped popularize its appliances but without the use of recyclable pods made from plastic and aluminum. The company first...
+- `The Verge` [Paramount’s Warner Bros. megamerger will just be called Skydance](https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name)
+> Paramount Skydance CEO David Ellison has announced that the company will just be called Skydance when it completes its $110 billion merger with Warner Bros. Discovery next week. In a post on X, Ell...
+- `The Verge` [Tesla’s recovery hits a speed bump](https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump)
+> Tesla sold fewer vehicles in the third quarter than it did a year ago, when consumers rushed to cash in on expiring federal tax credits for electric vehicle purchases. But the company still beat es...
+- `The Verge` [Home Assistant says ‘Big tech ruined the cloud, so we’re out’](https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out)
+> The open-source smart home platform Home Assistant is kicking the cloud to the curb - in name at least. "We are renaming Home Assistant Cloud to Home Assistant Link, because we hate clouds," founde...
+- `The Verge` [The Pocket Advance nearly perfects my favorite Nintendo handheld](https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld)
+> Although I count the original Game Boy as one of my first tech obsessions, I still consider Nintendo’s Game Boy Advance to be my favorite console of all time thanks to its more comfortable horizont...
+- `The Verge` [Star Wars: Galactic Racer is my childhood podracing dream come true](https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review)
+> The podracing scene in The Phantom Menace is one of my favorite movie sequences ever. It's just so dang cool: The futuristic racers tear over treacherous Tatooine terrain while various Star Wars al...
+- `The Verge` [AI hallucinations are making entitled customers even worse](https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents)
+> Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. "Sometimes people will tell me they have a shellfish allergy...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
