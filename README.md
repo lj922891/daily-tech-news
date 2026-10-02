@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-01
+# 📰 每日科技日报 — 2026-10-02
 
-> 自动收集于 2026-10-01 17:35 | 共 40 条
+> 自动收集于 2026-10-02 05:05 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,76 +33,84 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [ParadeDB Search Performance Improvements](https://www.paradedb.com/blog/opening-a-closed-tin)
-> Article URL: https://www.paradedb.com/blog/opening-a-closed-tin
-Comments URL: https://news.ycombinator.com/item?id=49924275
-Points: 6
-# Comments: 0
-- `Hacker News` [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
-> Article URL: https://blog.gitbutler.com/git-3-sha-256
-Comments URL: https://news.ycombinator.com/item?id=49924179
-Points: 18
-# Comments: 1
-- `Hacker News` [Clef: our open-source decision models](https://blog.cloudflare.com/clef-decision-models/)
-> Article URL: https://blog.cloudflare.com/clef-decision-models/
-Comments URL: https://news.ycombinator.com/item?id=49923692
-Points: 100
-# Comments: 28
-- `Hacker News` [Lightweight PDF parser with layout, tables, formulas and bounding boxes](https://github.com/beatrizalmeidaf/papero-pdf-text-extractor)
-> Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor
-Comments URL: https://news.ycombinator.com/item?id=49923638
-Points: 3
-# Comments: 0
-- `Hacker News` [Canada fast-tracks Pacific oil pipeline to reduce US dependence](https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb)
-> Article URL: https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb
-Comments URL: https://news.ycombinator.com/item?id=49923575
-Points: 40
-# Comments: 26
-- `Hacker News` [RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)
-> Article URL: https://turbopuffer.com/blog/rip-vector-database
-Comments URL: https://news.ycombinator.com/item?id=49923466
-Points: 76
-# Comments: 17
-- `Hacker News` [Red Hat being phased out of existence?](https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml)
-> Article URL: https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml
-Comments URL: https://news.ycombinator.com/item?id=49923056
-Points: 77
-# Comme...
-- `Hacker News` [Identity Management for Agentic AI [pdf] (2025)](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)
-> Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf
-Comments URL: https://news.ycombinator.com/item?id=49922736
+- `Hacker News` [DeepSeek Harness](https://www.deepseek.com/en/harness/)
+> Article URL: https://www.deepseek.com/en/harness/
+Comments URL: https://news.ycombinator.com/item?id=49929489
 Points: 41
-# Comments: 6
-- `Hacker News` [Figma restricts MCP access to whitelisted clients, excluding Pi](https://twitter.com/GayaniFigma/status/2105295629941350454)
-> Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454
-Comments URL: https://news.ycombinator.com/item?id=49922729
-Points: 98
-# Comments: 46
-- `Hacker News` [Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers](https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/)
-> Article URL: https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/
-Comments URL: https://news.ycombinator.com/item?id=49922674
-Points: 13
-# ...
-- `TechCrunch` [This startup wants to turn idle user car inventory into rental revenue](https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/)
-> When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only need a car for a few months ar...
-- `TechCrunch` [Amazon releases its own Jev clone as decision models flood the web](https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/)
-> Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.
-- `TechCrunch` [Shopify debuts Canvas, a way to build online stores by chatting with AI](https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/)
-> Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.
-- `TechCrunch` [California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people](https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/)
-> The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.
-- `TechCrunch` [One year later, Tesla and Musk still don’t have a good definition of ‘abundance’](https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/)
-> The CEO promised to get more specific about his vision. But the details are still absent.
-- `TechCrunch` [Brian Chesky interview: AI agents need their own operating system](https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/)
-> Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.
-- `TechCrunch` [Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.](https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/)
-> The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.
-- `TechCrunch` [Hearing tech startup Legato launches its AI hearing glasses](https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/)
-> The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.
-- `TechCrunch` [Audible’s new features let you explore book worlds — and use AI to talk to characters](https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/)
-> Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.
-- `TechCrunch` [The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader](https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/)
-> The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.
+# Comments: 14
+- `Hacker News` [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
+> Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works
+Comments URL: https://news.ycombinator.com/item?id=49929113
+Points: 43
+# Comments: 13
+- `Hacker News` [Butterflies use optical illusions to dodge predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
+> Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators
+Comments URL: https://news.ycombinator.com/item?id=49928152
+Points: 27
+# Comments: 4
+- `Hacker News` [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+> Article URL: https://lwn.net/Articles/1097401/
+Comments URL: https://news.ycombinator.com/item?id=49928121
+Points: 194
+# Comments: 122
+- `Hacker News` [Frog and Toad and the Increasingly Capable Machines](https://www.frogandtoad.ai/)
+> Article URL: https://www.frogandtoad.ai/
+Comments URL: https://news.ycombinator.com/item?id=49927760
+Points: 85
+# Comments: 13
+- `Hacker News` [Aweb – Communication for AI Agents](https://aweb.ai)
+> Article URL: https://aweb.ai
+Comments URL: https://news.ycombinator.com/item?id=49927587
+Points: 30
+# Comments: 23
+- `Hacker News` [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com)
+> Article URL: https://www.cssbed.com
+Comments URL: https://news.ycombinator.com/item?id=49927212
+Points: 81
+# Comments: 21
+- `Hacker News` [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness)
+> Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness
+Comments URL: https://news.ycombinator.com/item?id=49926917
+Points: 104
+# Comments: 19
+- `Hacker News` [Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus)
+> Article URL: https://github.com/Vibra-Ingenn/Janus
+Comments URL: https://news.ycombinator.com/item?id=49926773
+Points: 60
+# Comments: 9
+- `Hacker News` [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html)
+> Article URL: https://automatictransmission.khoury.northeastern.edu/index.html
+Comments URL: https://news.ycombinator.com/item?id=49926628
+Points: 158
+# Comments: 151
+- `TechCrunch` [Robotaxi operators will face fines for blocking first responders](https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/)
+> A new California law places new rules on autonomous vehicles operators
+- `TechCrunch` [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
+> TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.
+- `TechCrunch` [Lyft is paying $272.5M to settle lawsuit over how it classified drivers](https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/)
+> Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.
+- `TechCrunch` [Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation](https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/)
+> Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.
+- `TechCrunch` [Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/)
+> President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.
+- `TechCrunch` [ChatGPT can now virtually try on clothes for you](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/)
+> OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.
+- `TechCrunch` [Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the g...](https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/)
+> Google launched its first advanced chip into orbit to pave the way for space data centers.
+- `TechCrunch` [World’s first enhanced geothermal power plant completed in just 23 months](https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/)
+> Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.
+- `TechCrunch` [OpenAI cuts ties with 3 safety researchers, WSJ reports](https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/)
+> OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.
+- `TechCrunch` [Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)](https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/)
+> Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.
+- `The Verge` [Apple’s reportedly developing a smart home camera that doesn’t record video](https://www.theverge.com/tech/1003877/apple-security-camera-no-video)
+> Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of...
+- `The Verge` [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision)
+> Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in ...
+- `The Verge` [Android Central ‘will continue’ despite laying off its staff](https://www.theverge.com/tech/1003735/android-central-layoffs)
+> Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six sta...
+- `The Verge` [Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?](https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for)
+> The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a "generational leap" in performance ...
 - `The Verge` [Judge dismisses antitrust lawsuits over Google’s AI Overviews](https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed)
 > A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-pow...
 - `The Verge` [Sony brings AI graphics upscaling to the regular PS5](https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr)
@@ -115,14 +123,6 @@ Points: 13
 > Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of C...
 - `The Verge` [NYC is now the first city in America that bans sketchy subscriptions](https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule)
 > New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, whic...
-- `The Verge` [OpenAI’s new agent is a shot at Meta — but can it compete with free?](https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle)
-> At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman w...
-- `The Verge` [Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle](https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash)
-> Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.  The idea was to build the world’s b...
-- `The Verge` [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
-> It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, w...
-- `The Verge` [What even is a ‘microdrama’?](https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video)
-> On Monday, Variety reported that RoseBerry Media is recutting episodes of the Australian soap opera Neighbours "into microdramas." These clips will be available on Epis, a short-form vertical video...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
