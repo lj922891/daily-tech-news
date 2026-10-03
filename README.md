@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-02
+# 📰 每日科技日报 — 2026-10-03
 
-> 自动收集于 2026-10-02 16:54 | 共 30 条
+> 自动收集于 2026-10-03 04:48 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,46 +33,93 @@
 
 ## 🌍 国际科技
 
-- `TechCrunch` [Paramount and Warner Bros Discovery to become Skydance](https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/)
+- `Hacker News` [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
+> Article URL: https://www.extrabigassintelligence.com/
+Comments URL: https://news.ycombinator.com/item?id=49941114
+Points: 3
+# Comments: 0
+- `Hacker News` [Cloudflare Ohttp Gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
+> Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/
+Comments URL: https://news.ycombinator.com/item?id=49941091
+Points: 9
+# Comments: 2
+- `Hacker News` [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf)
+> Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf
+Comments URL: https://news.ycombinator.com/item?id=49940467
+Points: 27
+# Comments: 11
+- `Hacker News` [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
+> Article URL: https://www.newgrounds.com/
+Comments URL: https://news.ycombinator.com/item?id=49940394
+Points: 94
+# Comments: 22
+- `Hacker News` [Where Is the Planet](http://whereistheplanet.com)
+> Article URL: http://whereistheplanet.com
+Comments URL: https://news.ycombinator.com/item?id=49940233
+Points: 17
+# Comments: 0
+- `Hacker News` [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer)
+> Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer
+Comments URL: https://news.ycombinator.com/item?id=49940219
+Points: 136
+# Comments: 51
+- `Hacker News` [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
+> Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an "asse...
+- `Hacker News` [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
+> Article URL: https://developer.apple.com/news/?id=p6zjojqw
+Comments URL: https://news.ycombinator.com/item?id=49937631
+Points: 156
+# Comments: 93
+- `Hacker News` [Muse Gadgets](https://gadgets.muse.ai)
+> Article URL: https://gadgets.muse.ai
+Comments URL: https://news.ycombinator.com/item?id=49937504
+Points: 158
+# Comments: 75
+- `Hacker News` [Apple Pass Designer](https://developer.apple.com/pass-designer/)
+> Article URL: https://developer.apple.com/pass-designer/
+Comments URL: https://news.ycombinator.com/item?id=49937276
+Points: 365
+# Comments: 228
+- `TechCrunch` [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)
+> Meta wants Muse in your TV and your toaster, so it's giving the code away for free.
+- `TechCrunch` [Sanders introduces bill to ban the federal government from using Flock](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/)
+> The proposed legislation would extend to all automotica license plate readers.
+- `TechCrunch` [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
+> Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.
+- `TechCrunch` [Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/)
+> Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.
+- `TechCrunch` [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/)
+> Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history r...
+- `TechCrunch` [It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/)
+> This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that Pres...
+- `TechCrunch` [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/)
+> Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.
+- `TechCrunch` [Circuit Breaker Labs hopes to make AI safer for your kids (and you)](https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/)
+> With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created "crash-test  dummies" to solve...
+- `TechCrunch` [Paramount and Warner Bros. Discovery to become Skydance](https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/)
 > The roughly $110 billion deal is expected to close October 6.
 - `TechCrunch` [Pope Leo XIV is not a fan of AI-generated art](https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/)
 > "There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others," the po...
-- `TechCrunch` [Laytr’s new app lets you save anything you find online, not just articles to read](https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/)
-> Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.
-- `TechCrunch` [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/)
-> Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.
-- `TechCrunch` [Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order](https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/)
-> The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.
-- `TechCrunch` [TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/)
-> Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.
-- `TechCrunch` [Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders](https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/)
-> Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West...
-- `TechCrunch` [Less than 24 hours to apply for a  Side Event at Founder Summit 2026](https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/)
-> The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston sta...
-- `TechCrunch` [Tesla sustains its EV sales momentum despite US troubles](https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/)
-> The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.
-- `TechCrunch` [Medical records giant Epic pauses product development to fix security bugs that risk patients’ data](https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/)
-> The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.
+- `The Verge` [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link)
+> Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink displa...
+- `The Verge` [Netflix is pivoting away from prestige](https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig)
+> Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, t...
+- `The Verge` [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
+> Apple will add new limits for "full disk access" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls ...
+- `The Verge` [Sling TV drops its one-day cable passes](https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops)
+> Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced l...
+- `The Verge` [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)
+> It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like...
+- `The Verge` [Breaking up (with Elon Musk) is hard to do](https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis)
+> In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from "Big Tech...
+- `The Verge` [Rivian’s sales pop as the company’s big R2 bet starts to pay off](https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2)
+> Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 1...
+- `The Verge` [Beehiiv creators are buzzing about a new price increase](https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions)
+> Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder ...
 - `The Verge` [Nacon’s new PS5 controller can mix audio from your phone and console](https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller)
 > Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping b...
 - `The Verge` [Dots get up in Muse’s business](https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast)
 > OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per mont...
-- `The Verge` [Tesla will now let you drive off mid-charge if there’s an emergency](https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting)
-> Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Idaho in August that left seven people ...
-- `The Verge` [Keurig’s new machine uses plastic-free compressed coffee pucks](https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder)
-> Keurig's new single-serve coffee machine delivers the same convenience that helped popularize its appliances but without the use of recyclable pods made from plastic and aluminum. The company first...
-- `The Verge` [Paramount’s Warner Bros. megamerger will just be called Skydance](https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name)
-> Paramount Skydance CEO David Ellison has announced that the company will just be called Skydance when it completes its $110 billion merger with Warner Bros. Discovery next week. In a post on X, Ell...
-- `The Verge` [Tesla’s recovery hits a speed bump](https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump)
-> Tesla sold fewer vehicles in the third quarter than it did a year ago, when consumers rushed to cash in on expiring federal tax credits for electric vehicle purchases. But the company still beat es...
-- `The Verge` [Home Assistant says ‘Big tech ruined the cloud, so we’re out’](https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out)
-> The open-source smart home platform Home Assistant is kicking the cloud to the curb - in name at least. "We are renaming Home Assistant Cloud to Home Assistant Link, because we hate clouds," founde...
-- `The Verge` [The Pocket Advance nearly perfects my favorite Nintendo handheld](https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld)
-> Although I count the original Game Boy as one of my first tech obsessions, I still consider Nintendo’s Game Boy Advance to be my favorite console of all time thanks to its more comfortable horizont...
-- `The Verge` [Star Wars: Galactic Racer is my childhood podracing dream come true](https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review)
-> The podracing scene in The Phantom Menace is one of my favorite movie sequences ever. It's just so dang cool: The futuristic racers tear over treacherous Tatooine terrain while various Star Wars al...
-- `The Verge` [AI hallucinations are making entitled customers even worse](https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents)
-> Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. "Sometimes people will tell me they have a shellfish allergy...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
