@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-10-03
 
-> 自动收集于 2026-10-03 04:48 | 共 40 条
+> 自动收集于 2026-10-03 15:18 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验](https://sspai.com/post/114922)
+> 不知道以后 CMF 的设计还会不会像现在一样出彩。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/115211)
 > 📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...查看全文
 - `少数派` [从玩家的世界掠过：Bungie 的「列车」如何驶向终焉](https://sspai.com/post/115070)
@@ -28,58 +30,67 @@
 > 时间倾斜，触碰我，发出清澈的金属般的声响。我的感官在战栗，我觉我能——我能抓住这可塑的白昼。——里尔克《时辰祈祷》AppleEvent'26上，主动智能赋能的SiriAI终于正式发布。Craig一句「 ...查看全文
 - `少数派` [派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等](https://sspai.com/post/115134)
 > 少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ...查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/115094)
-> >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
+> Article URL: https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack
+Comments URL: https://news.ycombinator.com/item?id=49943524
+Points: 0
+# Comments: 0
+- `Hacker News` [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
+> Article URL: https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia
+Comments URL: https://news.ycombinator.com/item?id=49943451
+Points: 97
+# Comments: 74
+- `Hacker News` [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri)
+> Article URL: https://tej.as/blog/aleph-alpha-kolibri
+Comments URL: https://news.ycombinator.com/item?id=49943034
+Points: 169
+# Comments: 93
+- `Hacker News` [GitHub's new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/)
+> Article URL: https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/
+Comments URL: https://news.ycombinator.com/item?id=49942818
+Points: 58
+# Comments: 74
+- `Hacker News` [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
+> Article URL: https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/
+Comments URL: https://news.ycombinator.com/item?id=49942706
+Points: 109
+# Comments: 20
+- `Hacker News` [Show HN: Offrun – manage every coding agent from one workspace](https://offrun.dev/)
+> Run Claude Code, Codex, AGY, and Grok Build side by side. See who is working, who needs you, and what every account has left.
+
+Comments URL: https://news.ycombinator.com/item?id=49942434
+Points: 36...
+- `Hacker News` [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
+> Article URL: https://blog.kagi.com/update-orion-linux-windows
+Comments URL: https://news.ycombinator.com/item?id=49941447
+Points: 124
+# Comments: 63
 - `Hacker News` [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
 > Article URL: https://www.extrabigassintelligence.com/
 Comments URL: https://news.ycombinator.com/item?id=49941114
-Points: 3
-# Comments: 0
-- `Hacker News` [Cloudflare Ohttp Gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
+Points: 382
+# Comments: 85
+- `Hacker News` [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
 > Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/
 Comments URL: https://news.ycombinator.com/item?id=49941091
-Points: 9
-# Comments: 2
-- `Hacker News` [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf)
-> Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf
-Comments URL: https://news.ycombinator.com/item?id=49940467
-Points: 27
-# Comments: 11
+Points: 133
+# Comments: 57
 - `Hacker News` [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
 > Article URL: https://www.newgrounds.com/
 Comments URL: https://news.ycombinator.com/item?id=49940394
-Points: 94
-# Comments: 22
-- `Hacker News` [Where Is the Planet](http://whereistheplanet.com)
-> Article URL: http://whereistheplanet.com
-Comments URL: https://news.ycombinator.com/item?id=49940233
-Points: 17
-# Comments: 0
-- `Hacker News` [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer)
-> Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer
-Comments URL: https://news.ycombinator.com/item?id=49940219
-Points: 136
-# Comments: 51
-- `Hacker News` [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
-> Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an "asse...
-- `Hacker News` [Updates to Full Disk Access in macOS](https://developer.apple.com/news/?id=p6zjojqw)
-> Article URL: https://developer.apple.com/news/?id=p6zjojqw
-Comments URL: https://news.ycombinator.com/item?id=49937631
-Points: 156
-# Comments: 93
-- `Hacker News` [Muse Gadgets](https://gadgets.muse.ai)
-> Article URL: https://gadgets.muse.ai
-Comments URL: https://news.ycombinator.com/item?id=49937504
-Points: 158
-# Comments: 75
-- `Hacker News` [Apple Pass Designer](https://developer.apple.com/pass-designer/)
-> Article URL: https://developer.apple.com/pass-designer/
-Comments URL: https://news.ycombinator.com/item?id=49937276
-Points: 365
-# Comments: 228
+Points: 342
+# Comments: 96
+- `TechCrunch` [Jack Dorsey’s Bitchat disappears from app stores in India after government order](https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/)
+> Bitchat has become largely unavailable in India as a result of the restrictions.
+- `TechCrunch` [Vessev built an electric ferry that almost flies](https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/)
+> Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.
+- `TechCrunch` [All the AI agents that can live in your text messages](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/)
+> We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+- `TechCrunch` [Spotify billionaire’s body scan startup has come to America](https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/)
+> Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.
 - `TechCrunch` [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)
 > Meta wants Muse in your TV and your toaster, so it's giving the code away for free.
 - `TechCrunch` [Sanders introduces bill to ban the federal government from using Flock](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/)
@@ -92,14 +103,12 @@ Points: 365
 > Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history r...
 - `TechCrunch` [It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/)
 > This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that Pres...
-- `TechCrunch` [TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/)
-> Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.
-- `TechCrunch` [Circuit Breaker Labs hopes to make AI safer for your kids (and you)](https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/)
-> With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created "crash-test  dummies" to solve...
-- `TechCrunch` [Paramount and Warner Bros. Discovery to become Skydance](https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/)
-> The roughly $110 billion deal is expected to close October 6.
-- `TechCrunch` [Pope Leo XIV is not a fan of AI-generated art](https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/)
-> "There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others," the po...
+- `The Verge` [Splice CEO Kakul Srivastava thinks AI emails are killing conversations](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview)
+> Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like L...
+- `The Verge` [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm)
+> David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlanti...
+- `The Verge` [3D movies are finally worth watching](https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro)
+> Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since Ja...
 - `The Verge` [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link)
 > Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink displa...
 - `The Verge` [Netflix is pivoting away from prestige](https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig)
@@ -114,12 +123,6 @@ Points: 365
 > In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from "Big Tech...
 - `The Verge` [Rivian’s sales pop as the company’s big R2 bet starts to pay off](https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2)
 > Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 1...
-- `The Verge` [Beehiiv creators are buzzing about a new price increase](https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions)
-> Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder ...
-- `The Verge` [Nacon’s new PS5 controller can mix audio from your phone and console](https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller)
-> Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping b...
-- `The Verge` [Dots get up in Muse’s business](https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast)
-> OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per mont...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
