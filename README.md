@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-03
+# 📰 每日科技日报 — 2026-10-04
 
-> 自动收集于 2026-10-03 15:18 | 共 40 条
+> 自动收集于 2026-10-04 05:21 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,56 +33,60 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
-> Article URL: https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack
-Comments URL: https://news.ycombinator.com/item?id=49943524
-Points: 0
-# Comments: 0
-- `Hacker News` [The Escalation of War in Ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
-> Article URL: https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia
-Comments URL: https://news.ycombinator.com/item?id=49943451
-Points: 97
-# Comments: 74
-- `Hacker News` [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri)
-> Article URL: https://tej.as/blog/aleph-alpha-kolibri
-Comments URL: https://news.ycombinator.com/item?id=49943034
-Points: 169
-# Comments: 93
-- `Hacker News` [GitHub's new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/)
-> Article URL: https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/
-Comments URL: https://news.ycombinator.com/item?id=49942818
-Points: 58
-# Comments: 74
-- `Hacker News` [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
-> Article URL: https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/
-Comments URL: https://news.ycombinator.com/item?id=49942706
-Points: 109
-# Comments: 20
-- `Hacker News` [Show HN: Offrun – manage every coding agent from one workspace](https://offrun.dev/)
-> Run Claude Code, Codex, AGY, and Grok Build side by side. See who is working, who needs you, and what every account has left.
+- `Hacker News` [Why don't more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+> Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/
+Comments URL: https://news.ycombinator.com/item?id=49950554
+Points: 27
+# Comments: 14
+- `Hacker News` [Religious scholars met with Anthropic](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)
+> https://archive.is/y8FW0
 
-Comments URL: https://news.ycombinator.com/item?id=49942434
-Points: 36...
-- `Hacker News` [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
-> Article URL: https://blog.kagi.com/update-orion-linux-windows
-Comments URL: https://news.ycombinator.com/item?id=49941447
-Points: 124
-# Comments: 63
-- `Hacker News` [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
-> Article URL: https://www.extrabigassintelligence.com/
-Comments URL: https://news.ycombinator.com/item?id=49941114
-Points: 382
-# Comments: 85
-- `Hacker News` [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
-> Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/
-Comments URL: https://news.ycombinator.com/item?id=49941091
-Points: 133
-# Comments: 57
-- `Hacker News` [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
-> Article URL: https://www.newgrounds.com/
-Comments URL: https://news.ycombinator.com/item?id=49940394
-Points: 342
-# Comments: 96
+Comments URL: https://news.ycombinator.com/item?id=49950052
+Points: 53
+# Comments: 77
+- `Hacker News` [We're working on a new RuneScape MMO](https://play.runescape.com/4)
+> Article URL: https://play.runescape.com/4
+Comments URL: https://news.ycombinator.com/item?id=49949588
+Points: 10
+# Comments: 4
+- `Hacker News` [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
+> I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his...
+- `Hacker News` [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
+> Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
+Comments URL: https://news.ycombinator.com/item?id=49949235
+Points: 309
+# Comments: 158
+- `Hacker News` [Federal judge calls Flock 'indiscriminate mass surveillance'](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
+> Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/
+Comments URL: https://news.ycombinator.com/item?id=49948254
+Points: 386
+# Comments: 218
+- `Hacker News` [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/)
+> Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/
+Comments URL: https://news.ycombinator.com/item?id=49947631
+Points: 125
+# Comments: 61
+- `Hacker News` [Surely you have ultra-wideband radios on your bins too?](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/)
+> Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/
+Comments URL: https://news.ycombinator.com/item?id=49947472
+Points: 59
+# Comments: 29
+- `Hacker News` [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
+> Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
+Comments URL: https://news.ycombinator.com/item?id=49946895
+Points: 195
+# Comments: 23
+- `Hacker News` [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
+> Article URL: https://notoriousbfg.com/hole-punch/
+Comments URL: https://news.ycombinator.com/item?id=49946393
+Points: 258
+# Comments: 62
+- `TechCrunch` [Federal judge calls Flock ‘indiscriminate mass surveillance’](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
+> A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.
+- `TechCrunch` [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/)
+> The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.
+- `TechCrunch` [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/)
+> By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.
 - `TechCrunch` [Jack Dorsey’s Bitchat disappears from app stores in India after government order](https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/)
 > Bitchat has become largely unavailable in India as a result of the restrictions.
 - `TechCrunch` [Vessev built an electric ferry that almost flies](https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/)
@@ -97,12 +101,10 @@ Points: 342
 > The proposed legislation would extend to all automotica license plate readers.
 - `TechCrunch` [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/)
 > Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.
-- `TechCrunch` [Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/)
-> Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.
-- `TechCrunch` [Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/)
-> Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history r...
-- `TechCrunch` [It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/)
-> This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that Pres...
+- `The Verge` [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development)
+> Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a pres...
+- `The Verge` [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
+> It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, w...
 - `The Verge` [Splice CEO Kakul Srivastava thinks AI emails are killing conversations](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview)
 > Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like L...
 - `The Verge` [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm)
@@ -119,10 +121,6 @@ Points: 342
 > Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced l...
 - `The Verge` [OpenAI’s Dot agent is enterprise software that can also order your dinner](https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent)
 > It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like...
-- `The Verge` [Breaking up (with Elon Musk) is hard to do](https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis)
-> In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from "Big Tech...
-- `The Verge` [Rivian’s sales pop as the company’s big R2 bet starts to pay off](https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2)
-> Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 1...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
