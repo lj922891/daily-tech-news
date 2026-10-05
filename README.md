@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-04
+# 📰 每日科技日报 — 2026-10-05
 
-> 自动收集于 2026-10-04 16:02 | 共 40 条
+> 自动收集于 2026-10-05 05:03 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [十个案例助你轻松上手 iOS 27 通知自动化](https://sspai.com/post/114536)
+> iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文
 - `少数派` [方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验](https://sspai.com/post/115308)
 > iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。查看全文
 - `少数派` [TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验](https://sspai.com/post/114922)
@@ -28,62 +30,58 @@
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...查看全文
 - `少数派` [更懂你的心，也更懂你：Apple Watch Series 12 体验](https://sspai.com/post/115061)
 > 全新 Apple Watch Series 12，有哪些可感知的升级？查看全文
-- `少数派` [可塑的白昼：ColorOS17 深度评测](https://sspai.com/post/114728)
-> 时间倾斜，触碰我，发出清澈的金属般的声响。我的感官在战栗，我觉我能——我能抓住这可塑的白昼。——里尔克《时辰祈祷》AppleEvent'26上，主动智能赋能的SiriAI终于正式发布。Craig一句「 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/)
-> Article URL: https://automatictransmission.khoury.northeastern.edu/
-Comments URL: https://news.ycombinator.com/item?id=49954882
-Points: 21
-# Comments: 4
-- `Hacker News` [RuneScape's Position on Gen AI](https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/)
-> Article URL: https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/
-Comments URL: https://news.ycombinator.com/item?id=49954745
-Points: 7
-# Comments: 1
-- `Hacker News` [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
-> Article URL: https://github.com/Niko1221/Strata
-Comments URL: https://news.ycombinator.com/item?id=49953495
-Points: 227
-# Comments: 110
-- `Hacker News` [Rejection Sensitivity in Gifted and Twice-Exceptional Children](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and)
-> Article URL: https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and
-Comments URL: https://news.ycombinator.com/item?id=49953116
-Points: 73
-# Comments: 32
-- `Hacker News` [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
-> Article URL: https://github.com/allenv0/SCM
-Comments URL: https://news.ycombinator.com/item?id=49952111
-Points: 56
-# Comments: 35
-- `Hacker News` [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/)
-> Article URL: https://gamehistory.org/5k-magazines/
-Comments URL: https://news.ycombinator.com/item?id=49952029
-Points: 73
-# Comments: 11
-- `Hacker News` [What's the Future for Pure Math Research in the Age of AI?](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/)
-> Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/
-Comments URL: https://news.ycombinator.com/item?id=49951641
-Points: 22
+- `Hacker News` [The AI industry is booming. Women are getting left behind](https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality)
+> Article URL: https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality
+Comments URL: https://news.ycombinator.com/item?id=49960725
+Points: 5
 # Comments: 2
-- `Hacker News` [Emitting metadata early makes building/checking Rust up to twice as fast](https://github.com/PowderworksCode/headstart)
-> Article URL: https://github.com/PowderworksCode/headstart
-Comments URL: https://news.ycombinator.com/item?id=49951218
-Points: 63
-# Comments: 12
-- `Hacker News` [Why don't more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
-> Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/
-Comments URL: https://news.ycombinator.com/item?id=49950554
-Points: 220
-# Comments: 218
-- `Hacker News` [Religious scholars met with Anthropic](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)
-> https://archive.is/y8FW0
+- `Hacker News` [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
+> Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857
+Comments URL: https://news.ycombinator.com/item?id=499600...
+- `Hacker News` [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
+> Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/
+Comments URL: https://news.ycombinator.com/item...
+- `Hacker News` [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
+> Article URL: https://frn.sh/go-gc/
+Comments URL: https://news.ycombinator.com/item?id=49959654
+Points: 22
+# Comments: 6
+- `Hacker News` [Self-hosted HTTP tunnels with SSH and Nginx](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
+> Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh
+Comments URL: https://news.ycombinator.com/item?id=49958569
+Points: 97
+# Comments: 29
+- `Hacker News` [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
+> Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/
+Comments URL: https://news.ycombinator.com/item?id=499...
+- `Hacker News` [Homa: The end of TCP for AI clusters [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+> Paper: 
+https://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro...
 
-Comments URL: https://news.ycombinator.com/item?id=49950052
-Points: 140
-# Comments: 317
+Comments URL: https://ne...
+- `Hacker News` [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI)
+> Article URL: https://github.com/omlahore/RemoveMacAI
+Comments URL: https://news.ycombinator.com/item?id=49957116
+Points: 459
+# Comments: 284
+- `Hacker News` [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
+> Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/
+Comments URL: https://news.ycombinator.com/item?id=49957068
+Po...
+- `Hacker News` [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/)
+> Article URL: https://wieslawsoltes.github.io/VB6/
+Comments URL: https://news.ycombinator.com/item?id=49956681
+Points: 133
+# Comments: 48
+- `TechCrunch` [Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/)
+> AI slop seems to be overwhelming bug bounty programs.
+- `TechCrunch` [Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)
+> On Equity, we discussed the Trump administration's attempts to rebrand AI.
+- `TechCrunch` [TechCrunch Mobility: Reining in robotaxis](https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 - `TechCrunch` [Trump unveils his new Super Intelligence Force](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/)
 > This new task force is Trump's latest response to the debate over AI safety.
 - `TechCrunch` [Federal judge calls Flock ‘indiscriminate mass surveillance’](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
@@ -98,12 +96,14 @@ Points: 140
 > Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.
 - `TechCrunch` [All the AI agents that can live in your text messages](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/)
 > We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
-- `TechCrunch` [Spotify billionaire’s body scan startup has come to America](https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/)
-> Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.
-- `TechCrunch` [Meta wants your next gadget to be Muse-infused](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)
-> Meta wants Muse in your TV and your toaster, so it's giving the code away for free.
-- `TechCrunch` [Sanders introduces bill to ban the federal government from using Flock](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/)
-> The proposed legislation would extend to all automotica license plate readers.
+- `The Verge` [The new Fitbit Edge leaks](https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks)
+> We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines...
+- `The Verge` [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review)
+> While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was brie...
+- `The Verge` [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
+> It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, w...
+- `The Verge` [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true)
+> New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-f...
 - `The Verge` [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft)
 > StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-ma...
 - `The Verge` [This toolless modular lever-action wallet is the coolest I’ve stuck to my phone](https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone)
@@ -116,14 +116,6 @@ Points: 140
 > Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only a...
 - `The Verge` [The forgotten Chromebook that started it all](https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all)
 > Google didn't even call the first Chromebook a "Chromebook." The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a porta...
-- `The Verge` [The rise, fall, and rise of portable MP3 players](https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Terrence O'Brien. T...
-- `The Verge` [Amazon’s colorful and sturdy new Kindles](https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones)
-> Hi, friends! Welcome to Installer No. 146, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, it's October already?, and also you can read all the old editions ...
-- `The Verge` [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development)
-> Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a pres...
-- `The Verge` [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
-> It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, w...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
