@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-10-06
 
-> 自动收集于 2026-10-06 05:51 | 共 40 条
+> 自动收集于 2026-10-06 17:28 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [基于 Vaultwarden 和 Keyguard 的自托管密码管理实践](https://sspai.com/post/115416)
+> 密码管理服务的数据，当然要掌握在自己手里。查看全文
 - `少数派` [十个案例助你轻松上手 iOS 27 通知自动化](https://sspai.com/post/114536)
 > iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文
 - `少数派` [方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验](https://sspai.com/post/115308)
@@ -28,101 +30,97 @@
 > Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。查看全文
 - `少数派` [社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单](https://sspai.com/post/115153)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...查看全文
-- `少数派` [更懂你的心，也更懂你：Apple Watch Series 12 体验](https://sspai.com/post/115061)
-> 全新 Apple Watch Series 12，有哪些可感知的升级？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
-> Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/
-Comments URL: https://news.ycombinator.com/item?id=49973878
-Points: 16
-# Comments: 4
-- `Hacker News` [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)
-> Article URL: https://www.vivienhenz.com/common-lisp
-Comments URL: https://news.ycombinator.com/item?id=49973598
-Points: 80
-# Comments: 100
-- `Hacker News` [High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days](https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days)
-> Article URL: https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days
-Comments URL: https://news.ycombinator.com/item?id=49972607
-Points: 101
-# Comments: 75
-- `Hacker News` [Samon: Designing a Zen Garden Raking Puzzle](https://gwern.net/doc/design/2026-10-03-gwern-samon.html)
-> Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html
-Comments URL: https://news.ycombinator.com/item?id=49972211
-Points: 38
-# Comments: 14
-- `Hacker News` [Ephemeral Testing](https://lemire.me/blog/2026/10/05/ephemeral-testing/)
-> Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/
-Comments URL: https://news.ycombinator.com/item?id=49972008
-Points: 44
-# Comments: 13
-- `Hacker News` [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
-> Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history
-Comments URL: https://news.ycombinator.com/item?id=49971921
-Points: 154
-# Comments: 89
-- `Hacker News` [ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/)
-> Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/
-Comments URL: https://news.ycombinator.com/item?id=49971846
-Points: 367
-# C...
-- `Hacker News` [Global Solar Atlas: summary of solar power potential globally](https://globalsolaratlas.info/)
-> Article URL: https://globalsolaratlas.info/
-Comments URL: https://news.ycombinator.com/item?id=49971782
-Points: 40
-# Comments: 18
-- `Hacker News` [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
-> Article URL: https://dbushell.com/2026/10/03/deno-to-node/
-Comments URL: https://news.ycombinator.com/item?id=49971719
-Points: 114
-# Comments: 51
-- `Hacker News` [Texas city demands $2M for public records on Flock usage](https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/)
-> Article URL: https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/
-Comments URL: https://news.ycombinator.com/item?id=49971523
-Points: 161
+- `Hacker News` [Utah to let AI examine patients and prescribe medication without human oversight](https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html)
+> Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html
+Comments URL: https://news.ycombinator.com/item?id=49981197
+Points: 18
+# Comments: 9
+- `Hacker News` [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
+> Article URL: https://github.com/FeSens/openTPU
+Comments URL: https://news.ycombinator.com/item?id=49980715
+Points: 72
+# Comments: 32
+- `Hacker News` [The Early History of Smalltalk (1993)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
+> Article URL: https://worrydream.com/EarlyHistoryOfSmalltalk/
+Comments URL: https://news.ycombinator.com/item?id=49979845
+Points: 48
+# Comments: 11
+- `Hacker News` [Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer](https://peterszentkiralyi.eu/darkplug/)
+> I am a film photographer and do some darkroom printing and always wanted one of the proper, advanced f-stop timers, but never really wanted to spend a couple hundred dollars on one. Eventually I fi...
+- `Hacker News` [Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
+> Article URL: https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/
+Comments URL: https://news.ycombinator.com/item?id=49978563
+Points: 82
 # Comments: 26
-- `TechCrunch` [Lucid Motors’ EV output falls to lowest level in almost 2 years](https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/)
-> The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.
-- `TechCrunch` [OpenAI will start watermarking ChatGPT’s text in the EU](https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/)
-> OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.
-- `TechCrunch` [Etched fields funding offers at $40B+ valuation, sources say](https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/)
-> Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.
-- `TechCrunch` [After Factory’s public spat with Khosla, Menlo proudly invests](https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/)
-> Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.
-- `TechCrunch` [Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost](https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/)
-> Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI sy...
-- `TechCrunch` [Instinct brings its AI agent to group chats, even for friends without an account](https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/)
-> Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain s...
-- `TechCrunch` [TikTok rolls out an AI shopping assistant and one-click checkout](https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/)
-> TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.
-- `TechCrunch` [At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI](https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/)
-> Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.
-- `TechCrunch` [Hot Girl Hotline is like ‘Dear Abby’ for the AI era](https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/)
-> Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.
-- `TechCrunch` [5 startups that caught VCs’ attention at the latest PearX demo day](https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/)
-> TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.
-- `The Verge` [Gemini Call for Me might tell your mom you’re running late](https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors)
-> Google may be expanding its "Call for Me" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a "Gemini Calling" introductor...
-- `The Verge` [Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports](https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports)
-> It’s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be p...
-- `The Verge` [The Matic is the first robovac to get an FCC ban waiver, not that it needs it](https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval)
-> The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actuall...
-- `The Verge` [This startup is issuing AI-generated acne prescriptions](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions)
-> People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its...
-- `The Verge` [All the drama around AI’s takeover of mathematics](https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution)
-> This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current s...
-- `The Verge` [Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage](https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage)
-> Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it "can confirm that we have discovered som...
-- `The Verge` [Hyundai CEO says only a ‘level playing field’ can minimize damage from China](https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share)
-> There's been a lot of doom and gloom from the auto industry lately when the subject of China comes up. Automaker CEOs, in particular, warn that allowing low-cost, high-tech Chinese electric vehicle...
-- `The Verge` [OpenAI is adding text watermarking in ChatGPT and Codex](https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act)
-> An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking "matched or ex...
-- `The Verge` [OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide](https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr)
-> An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman ab...
-- `The Verge` [Sam Altman says ‘some bad things’ will happen, but AI is totally worth it](https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff)
-> Sam Altman thinks that the benefits of AI will be so great that "the world should accept some bad things happening" along the way. The OpenAI CEO pointed to hacks, scams, and "other bad things" as ...
+- `Hacker News` [Show HN: Parseable, an open observability datalake, handles 100M time-series/min](https://www.parseable.com)
+> Article URL: https://www.parseable.com
+Comments URL: https://news.ycombinator.com/item?id=49978171
+Points: 40
+# Comments: 7
+- `Hacker News` [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
+> https://docs.mistral.ai/models/mistral-large-4-0
+
+Comments URL: https://news.ycombinator.com/item?id=49977979
+Points: 924
+# Comments: 618
+- `Hacker News` [Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl](https://mastodon.social/@bagder/117392573268225646)
+> Article URL: https://mastodon.social/@bagder/117392573268225646
+Comments URL: https://news.ycombinator.com/item?id=49977832
+Points: 33
+# Comments: 5
+- `Hacker News` [Mathematics of Geothermal Energy](https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/)
+> Article URL: https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/
+Comments URL: https://news.ycombinator.com/item?id=49977819
+Points: 37
+# Comments: 15
+- `Hacker News` [Meta's Muse Is an Adorable Privacy and Security Dumpster Fire](https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/)
+> Article URL: https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/
+Comments URL: https://news.ycombinator.com/item?id=49977588
+Points: 261
+# Comments: 156
+- `TechCrunch` [India’s JioHotstar takes partnership route for Middle East expansion](https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/)
+> JioHotstar will be offered inside Starzplay rather than through a stand-alone service.
+- `TechCrunch` [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/)
+> Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market resear...
+- `TechCrunch` [Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors](https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/)
+> The storied Silicon Valley firm makes its first pure defense investment.
+- `TechCrunch` [Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, Nov...](https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/)
+> There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the nex...
+- `TechCrunch` [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
+> "We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone."
+- `TechCrunch` [LibreOffice says ‘no AI’ is now a software feature](https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/)
+> The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.
+- `TechCrunch` [Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust](https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/)
+> Wajo's Fo agent can hire humans to complete a task.
+- `TechCrunch` [Bluesky wants to give you your own domain on the open web](https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/)
+> Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.
+- `TechCrunch` [Emmys will move from broadcast TV to Prime Video in 2027](https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/)
+> Non-Amazon Prime subscribers will be able to watch the awards show on the platform.
+- `TechCrunch` [Mistral’s new 1T model aims to leapfrog closed and open rivals](https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/)
+> French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.
+- `The Verge` [Apple TV’s great year continues with Small Prophets](https://www.theverge.com/entertainment/1005781/small-prophets-review-apple-tv)
+> Apple TV has had a really great run in 2026 - and a cozy new addition is helping expand its lineup even more. As the streaming service has attempted to grow in order to better compete with the like...
+- `The Verge` [Anker’s 100W universal charger is a great travel gadget for $64](https://www.theverge.com/gadgets/1004339/anker-nano-100w-universal-travel-charger-prime-day-deal-sale)
+> For frequent travelers who like to pack light, the Anker Nano 100W universal travel adapter packs multiple USB ports and is equipped with the ability to adapt to outlets in over 200 countries and r...
+- `The Verge` [Our favorite headphones and earbuds are cheaper during October Prime Day](https://www.theverge.com/gadgets/1004886/october-prime-day-big-deals-days-headphones-earbuds-deal-sale)
+> We spotted a variety of discounted headphones and earbuds during October’s Prime Big Deals Days, with some of our favorite options discounted to at (or near) their all-time low prices. While some d...
+- `The Verge` [We can’t just change the definition of ‘recording’](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording)
+> With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone...
+- `The Verge` [HBO Max and Paramount Plus will merge into a single streamer under Skydance](https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance)
+> HBO Max and Paramount Plus will become one streaming service under Paramount's $110 billion acquisition of Warner Bros. Discovery. In a press release announcing the completion of the deal, Skydance...
+- `The Verge` [The stylish Nothing Headphone 1 are cheaper than ever](https://www.theverge.com/gadgets/1004290/nothing-headphone-1-deal-sale)
+> There’s no denying that Nothing knows how to make eye-catching headphones. If you’re considering a new pair of over-ear cans, the Nothing Headphone 1 pack style and great sound, and they’re on sale...
+- `The Verge` [Arturia adds proper sound design tools to its AstroLab synths](https://www.theverge.com/gadgets/1005671/arturia-astrolab-synth-firmware-update)
+> Arturia's AstroLab series was already amongst the best stage keyboards out there. They essentially put the company's AnalogLab suite of vintage synth emulations, sampled pianos, and original instru...
+- `The Verge` [The earbuds with the best call quality are cheaper than ever](https://www.theverge.com/gadgets/1004111/soundcore-liberty-5-pro-prime-day-deal-sale)
+> Normally $169.99, the Soundcore Liberty 5 Pro are discounted to $135.99 during Amazon’s October sale, beating their previous low price of $149.99, and coming in $14 lower than the AirPods 5. While ...
+- `The Verge` [New leaks reveal more details about the Fitbit Edge including its price](https://www.theverge.com/tech/1005519/google-fitbit-edge-leak-fitness-tracker-price-features)
+> Following more images of the previously leaked Google Fitbit Edge surfacing a few days ago, new details about the upcoming fitness tracker have been revealed, including potential features and prici...
+- `The Verge` [A Trump Mobile breach may have exposed data of more than 3,600 people](https://www.theverge.com/tech/1005546/trump-mobile-data-breach-leak)
+> Trump Mobile appears to have suffered a data breach that may have exposed the data of 3,615 people, according to reports from PCMag and Straight Arrow News. The breach reportedly included names, ho...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
