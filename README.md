@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-06
+# 📰 每日科技日报 — 2026-10-07
 
-> 自动收集于 2026-10-06 17:28 | 共 40 条
+> 自动收集于 2026-10-07 05:23 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [罗马：永恒之城，永恒于世](https://sspai.com/post/114845)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [基于 Vaultwarden 和 Keyguard 的自托管密码管理实践](https://sspai.com/post/115416)
 > 密码管理服务的数据，当然要掌握在自己手里。查看全文
 - `少数派` [十个案例助你轻松上手 iOS 27 通知自动化](https://sspai.com/post/114536)
@@ -28,99 +30,97 @@
 > 祝你旅途顺遂，假期自由。查看全文
 - `少数派` [派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等](https://sspai.com/post/115197)
 > Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。查看全文
-- `少数派` [社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单](https://sspai.com/post/115153)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Utah to let AI examine patients and prescribe medication without human oversight](https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html)
-> Article URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html
-Comments URL: https://news.ycombinator.com/item?id=49981197
-Points: 18
-# Comments: 9
-- `Hacker News` [AI is now capable of developing its own inference hardware](https://github.com/FeSens/openTPU)
-> Article URL: https://github.com/FeSens/openTPU
-Comments URL: https://news.ycombinator.com/item?id=49980715
-Points: 72
-# Comments: 32
-- `Hacker News` [The Early History of Smalltalk (1993)](https://worrydream.com/EarlyHistoryOfSmalltalk/)
-> Article URL: https://worrydream.com/EarlyHistoryOfSmalltalk/
-Comments URL: https://news.ycombinator.com/item?id=49979845
-Points: 48
-# Comments: 11
-- `Hacker News` [Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer](https://peterszentkiralyi.eu/darkplug/)
-> I am a film photographer and do some darkroom printing and always wanted one of the proper, advanced f-stop timers, but never really wanted to spend a couple hundred dollars on one. Eventually I fi...
-- `Hacker News` [Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
-> Article URL: https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/
-Comments URL: https://news.ycombinator.com/item?id=49978563
-Points: 82
-# Comments: 26
-- `Hacker News` [Show HN: Parseable, an open observability datalake, handles 100M time-series/min](https://www.parseable.com)
-> Article URL: https://www.parseable.com
-Comments URL: https://news.ycombinator.com/item?id=49978171
-Points: 40
+- `Hacker News` [Calling It Quits on ServerFault](https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml)
+> Article URL: https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml
+Comments URL: https://news.ycombinator.com/item?id=49988142
+Points: 26
+# Comments: 8
+- `Hacker News` [The art of defusing a second world war bomb](https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb)
+> Article URL: https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb
+Comments URL: https://news.ycombinator.com/it...
+- `Hacker News` [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html)
+> Article URL: https://nanochess.org/la_cueva_bbs.html
+Comments URL: https://news.ycombinator.com/item?id=49987675
+Points: 21
+# Comments: 2
+- `Hacker News` [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)
+> Article URL: https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights
+Comments URL: https://news.ycombinator.com/item?id=49987245
+Points: 23
+# Comments: 19
+- `Hacker News` [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
+> Article URL: https://strandsagents.com/blog/introducing-strands-decider/
+Comments URL: https://news.ycombinator.com/item?id=49987076
+Points: 86
+# Comments: 13
+- `Hacker News` [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock)
+> Article URL: https://github.com/M-Abozaid/esp32-c3-adblock
+Comments URL: https://news.ycombinator.com/item?id=49986862
+Points: 35
 # Comments: 7
-- `Hacker News` [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
-> https://docs.mistral.ai/models/mistral-large-4-0
-
-Comments URL: https://news.ycombinator.com/item?id=49977979
-Points: 924
-# Comments: 618
-- `Hacker News` [Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl](https://mastodon.social/@bagder/117392573268225646)
-> Article URL: https://mastodon.social/@bagder/117392573268225646
-Comments URL: https://news.ycombinator.com/item?id=49977832
-Points: 33
-# Comments: 5
-- `Hacker News` [Mathematics of Geothermal Energy](https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/)
-> Article URL: https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/
-Comments URL: https://news.ycombinator.com/item?id=49977819
-Points: 37
-# Comments: 15
-- `Hacker News` [Meta's Muse Is an Adorable Privacy and Security Dumpster Fire](https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/)
-> Article URL: https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/
-Comments URL: https://news.ycombinator.com/item?id=49977588
-Points: 261
-# Comments: 156
+- `Hacker News` [Jev-Driven SRE Diagnosis: What Worked and What Failed](https://www.sregym.com/blog/jev-driven-sre-diagnosis)
+> Article URL: https://www.sregym.com/blog/jev-driven-sre-diagnosis
+Comments URL: https://news.ycombinator.com/item?id=49986765
+Points: 16
+# Comments: 4
+- `Hacker News` [AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)](https://github.com/boykopovar/AnyPS5)
+> Article URL: https://github.com/boykopovar/AnyPS5
+Comments URL: https://news.ycombinator.com/item?id=49985664
+Points: 171
+# Comments: 128
+- `Hacker News` [State of Devs 2026](https://2026.stateofdevs.com/en-US/)
+> Article URL: https://2026.stateofdevs.com/en-US/
+Comments URL: https://news.ycombinator.com/item?id=49985643
+Points: 107
+# Comments: 39
+- `Hacker News` [Integer multiplication below n log n](https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026)
+> Article URL: https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026
+Comments URL: https://news.ycombinator.com/item?id=49985524
+Points: 88
+# Comme...
+- `TechCrunch` [How to find out if Amazon thinks you have ‘flat buttocks’](https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/)
+> "I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless," one shopper wrote on Threads.
+- `TechCrunch` [Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell](https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/)
+> Apple appears poised to push into the smart home market with a slate of new devices and a key partner.
+- `TechCrunch` [Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product](https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/)
+> Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.
+- `TechCrunch` [Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet](https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/)
+> Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.
+- `TechCrunch` [How AI decision models could change content moderation](https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/)
+> On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.
+- `TechCrunch` [AI computing startup Lambda to raise $4B ahead of planned IPO](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/)
+> Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.
+- `TechCrunch` [The next hurdle for AI agents: getting websites to let them in](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/)
+> Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new st...
+- `TechCrunch` [Hark releases an AI personal assistant with a focus on privacy](https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/)
+> The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.
 - `TechCrunch` [India’s JioHotstar takes partnership route for Middle East expansion](https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/)
 > JioHotstar will be offered inside Starzplay rather than through a stand-alone service.
 - `TechCrunch` [Mirror Particle is building a ‘world model’ of human behavior](https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/)
 > Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market resear...
-- `TechCrunch` [Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors](https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/)
-> The storied Silicon Valley firm makes its first pure defense investment.
-- `TechCrunch` [Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, Nov...](https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/)
-> There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the nex...
-- `TechCrunch` [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/)
-> "We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone."
-- `TechCrunch` [LibreOffice says ‘no AI’ is now a software feature](https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/)
-> The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.
-- `TechCrunch` [Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust](https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/)
-> Wajo's Fo agent can hire humans to complete a task.
-- `TechCrunch` [Bluesky wants to give you your own domain on the open web](https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/)
-> Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.
-- `TechCrunch` [Emmys will move from broadcast TV to Prime Video in 2027](https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/)
-> Non-Amazon Prime subscribers will be able to watch the awards show on the platform.
-- `TechCrunch` [Mistral’s new 1T model aims to leapfrog closed and open rivals](https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/)
-> French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.
-- `The Verge` [Apple TV’s great year continues with Small Prophets](https://www.theverge.com/entertainment/1005781/small-prophets-review-apple-tv)
-> Apple TV has had a really great run in 2026 - and a cozy new addition is helping expand its lineup even more. As the streaming service has attempted to grow in order to better compete with the like...
-- `The Verge` [Anker’s 100W universal charger is a great travel gadget for $64](https://www.theverge.com/gadgets/1004339/anker-nano-100w-universal-travel-charger-prime-day-deal-sale)
-> For frequent travelers who like to pack light, the Anker Nano 100W universal travel adapter packs multiple USB ports and is equipped with the ability to adapt to outlets in over 200 countries and r...
-- `The Verge` [Our favorite headphones and earbuds are cheaper during October Prime Day](https://www.theverge.com/gadgets/1004886/october-prime-day-big-deals-days-headphones-earbuds-deal-sale)
-> We spotted a variety of discounted headphones and earbuds during October’s Prime Big Deals Days, with some of our favorite options discounted to at (or near) their all-time low prices. While some d...
-- `The Verge` [We can’t just change the definition of ‘recording’](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording)
-> With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone...
-- `The Verge` [HBO Max and Paramount Plus will merge into a single streamer under Skydance](https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance)
-> HBO Max and Paramount Plus will become one streaming service under Paramount's $110 billion acquisition of Warner Bros. Discovery. In a press release announcing the completion of the deal, Skydance...
-- `The Verge` [The stylish Nothing Headphone 1 are cheaper than ever](https://www.theverge.com/gadgets/1004290/nothing-headphone-1-deal-sale)
-> There’s no denying that Nothing knows how to make eye-catching headphones. If you’re considering a new pair of over-ear cans, the Nothing Headphone 1 pack style and great sound, and they’re on sale...
-- `The Verge` [Arturia adds proper sound design tools to its AstroLab synths](https://www.theverge.com/gadgets/1005671/arturia-astrolab-synth-firmware-update)
-> Arturia's AstroLab series was already amongst the best stage keyboards out there. They essentially put the company's AnalogLab suite of vintage synth emulations, sampled pianos, and original instru...
-- `The Verge` [The earbuds with the best call quality are cheaper than ever](https://www.theverge.com/gadgets/1004111/soundcore-liberty-5-pro-prime-day-deal-sale)
-> Normally $169.99, the Soundcore Liberty 5 Pro are discounted to $135.99 during Amazon’s October sale, beating their previous low price of $149.99, and coming in $14 lower than the AirPods 5. While ...
-- `The Verge` [New leaks reveal more details about the Fitbit Edge including its price](https://www.theverge.com/tech/1005519/google-fitbit-edge-leak-fitness-tracker-price-features)
-> Following more images of the previously leaked Google Fitbit Edge surfacing a few days ago, new details about the upcoming fitness tracker have been revealed, including potential features and prici...
-- `The Verge` [A Trump Mobile breach may have exposed data of more than 3,600 people](https://www.theverge.com/tech/1005546/trump-mobile-data-breach-leak)
-> Trump Mobile appears to have suffered a data breach that may have exposed the data of 3,615 people, according to reports from PCMag and Straight Arrow News. The breach reportedly included names, ho...
+- `The Verge` [OpenAI drops another batch of mathematical breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github)
+> OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group relat...
+- `The Verge` [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)
+> Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that "no other platform holder is doing" during an employee all-hands this morning. Ac...
+- `The Verge` [The best robot vacuum and mop deals during October Prime Day](https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale)
+> Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual...
+- `The Verge` [Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat](https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc)
+> Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will report...
+- `The Verge` [Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say](https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy)
+> Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many es...
+- `The Verge` [Tesla’s Model 3 and Model Y can be a backup battery for your house](https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup)
+> Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously o...
+- `The Verge` [Google’s power-hungry data centers crave nuclear energy](https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation)
+> Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-y...
+- `The Verge` [Amazon’s last-gen Kindle Paperwhite is 30 percent off](https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale)
+> Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The new...
+- `The Verge` [Save on MacBooks, iPads and Apple Watches during October Prime Day](https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale)
+> Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple products and accessories in the sale, ranging from laptops and headphones to desktops and...
+- `The Verge` [Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED](https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications)
+> Is Sony about to announce a new PlayStation Portal game streaming handheld? The Wi-Fi Alliance recently certified two unannounced PlayStation products of some kind, and the certification documents ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
