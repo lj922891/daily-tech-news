@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-07
+# 📰 每日科技日报 — 2026-10-08
 
-> 自动收集于 2026-10-07 18:01 | 共 40 条
+> 自动收集于 2026-10-08 05:32 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [App Store 生态规模五年翻倍，助力中国开发者走向全球](https://sspai.com/post/115462)
+> 10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ...查看全文
+- `少数派` [派早报：微软发布 Windows 相关新品、Google AI 新闻两则等](https://sspai.com/post/115455)
+> Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。查看全文
 - `少数派` [罗马：永恒之城，永恒于世](https://sspai.com/post/114845)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [基于 Vaultwarden 和 Keyguard 的自托管密码管理实践](https://sspai.com/post/115416)
@@ -26,100 +30,99 @@
 > Bungie 究竟是在和时间赛跑，还是在和自己赛跑？查看全文
 - `少数派` [经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166)
 > 完全重构的 2Do 是我的心目中最佳的任务管理工具。查看全文
-- `少数派` [别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的](https://sspai.com/post/114945)
-> 祝你旅途顺遂，假期自由。查看全文
-- `少数派` [派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等](https://sspai.com/post/115197)
-> Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Show HN: Pinrail – A desktop inbox where coding agents wait for your review](https://github.com/forgeplane/pinrail)
-> Article URL: https://github.com/forgeplane/pinrail
-Comments URL: https://news.ycombinator.com/item?id=49995778
-Points: 3
-# Comments: 0
-- `Hacker News` [EmDash uses Clef to moderate the plugin registry](https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry)
-> Article URL: https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry
-Comments URL: https://news.ycombinator.com/item?id=49995740
-Points: 5
-# Comments: 1
-- `Hacker News` [Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
-> Article URL: https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth
-Comments URL: https://news.ycombinator.com/item?id=49...
-- `Hacker News` [Open source 160 sound visualization experiments](https://www.kagan.in/iwrzwr/visual-archive/)
-> Article URL: https://www.kagan.in/iwrzwr/visual-archive/
-Comments URL: https://news.ycombinator.com/item?id=49994481
-Points: 24
-# Comments: 4
+- `Hacker News` [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew)
+> Article URL: https://github.com/zerobrewhq/zerobrew
+Comments URL: https://news.ycombinator.com/item?id=50001580
+Points: 14
+# Comments: 6
+- `Hacker News` [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+> Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007
+Comments URL: https://news.ycombinator.com/item?id=49998895
+Points: 1105
+# Comments: 124
+- `Hacker News` ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
+> Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/
+Comments URL: https://news.ycombinator.com/item?id=49998066
+Points: 105
+# Comments: 40
+- `Hacker News` [Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
+> Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/
+Comments URL: https://news.ycombinator.com/item?id=49997161
+Points: 324
+# Comments: 308
+- `Hacker News` [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
+> Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/
+Comments URL: https://news.ycombinator.com/item?id=49997073
+Points: 128
+# Comments: 60
+- `Hacker News` [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+> Article URL: https://www.anthropic.com/claude-haiku-5-5
+Comments URL: https://news.ycombinator.com/item?id=49996437
+Points: 779
+# Comments: 387
+- `Hacker News` [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)
+> Article URL: https://openai.com/index/gpt-6-for-everyone/
+Comments URL: https://news.ycombinator.com/item?id=49996425
+Points: 565
+# Comments: 293
+- `Hacker News` [In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick](https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html)
+> Article URL: https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html
+Comments URL: https://news.ycombinator.com/item?id=49996406
+Points: 61
+# Comments: 5
+- `Hacker News` [Docker Agent](https://github.com/docker/docker-agent)
+> Article URL: https://github.com/docker/docker-agent
+Comments URL: https://news.ycombinator.com/item?id=49996259
+Points: 207
+# Comments: 97
 - `Hacker News` [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/)
 > Article URL: https://bigwords.page/
 Comments URL: https://news.ycombinator.com/item?id=49994443
-Points: 75
-# Comments: 23
-- `Hacker News` [Navier–Stokes Lost in Translation](https://arxiv.org/abs/2610.08144)
-> Article URL: https://arxiv.org/abs/2610.08144
-Comments URL: https://news.ycombinator.com/item?id=49994145
-Points: 134
-# Comments: 101
-- `Hacker News` [Across the Globe, People Increasingly Say Social Media Is Harming Democracy](https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/)
-> Article URL: https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/
-Comments URL: https://news.ycombinator.com/item?id=49994122
-Po...
-- `Hacker News` [Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware](https://github.com/AL-255/FM-1-RE)
-> Article URL: https://github.com/AL-255/FM-1-RE
-Comments URL: https://news.ycombinator.com/item?id=49994065
-Points: 29
-# Comments: 12
-- `Hacker News` [GitHub Incident with Git Operations, Pull Requests and Actions](https://www.githubstatus.com/incidents/djlmxz2zd0j7)
-> Article URL: https://www.githubstatus.com/incidents/djlmxz2zd0j7
-Comments URL: https://news.ycombinator.com/item?id=49994027
-Points: 203
-# Comments: 159
-- `Hacker News` [ShinyHunters Extorted Boeing Spin-Off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/)
-> Article URL: https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/
-Comments URL: https://news.ycombinator.com/item?id=49993997
-Points: 31
-# Comments: 0
+Points: 426
+# Comments: 126
+- `TechCrunch` [Robot data startup Mecka AI nabs $60M from Sequoia](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/)
+> Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.
+- `TechCrunch` [While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/)
+> Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.
+- `TechCrunch` [Nous Research confirms it hit $1.5B valuation, launches AI agents for business users](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/)
+> The developer of Hermes Agent raised a $90 million Series B.
+- `TechCrunch` [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)
+> Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.
+- `TechCrunch` [Meta’s Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/)
+> Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.
+- `TechCrunch` [ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)
+> ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships ...
+- `TechCrunch` [X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/)
+> X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.
 - `TechCrunch` [ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)
 > OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.
 - `TechCrunch` [Greenairy is building smart plant towers to clean the air in your office](https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/)
 > As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.
 - `TechCrunch` [CIA officer admits to creating fake top secret government program to steal over $190M, including ...](https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/)
 > CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.
-- `TechCrunch` [Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material](https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/)
-> Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.
-- `TechCrunch` [Healthleap raises $38M for its AI that flags hospital patients who may need a closer look](https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/)
-> The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.
-- `TechCrunch` [Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing](https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/)
-> The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.
-- `TechCrunch` [SpaceX alumni nab $100M to rethink shipping with autonomous freight trains](https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/)
-> Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.
-- `TechCrunch` [Tony Fadell on why the first wave of AI gadgets failed — and what comes next](https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/)
-> The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.
-- `TechCrunch` [Google experiments with an AI-powered gaming platform](https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/)
-> Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.
-- `TechCrunch` [OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots](https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/)
-> OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save ...
-- `The Verge` [How Microsoft built its MacBook Pro competitor](https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes)
-> Before Microsoft releases a laptop to the public, it needs to put the device through its paces. That all happens inside a windowless, warehouse-like lab on the company's Redmond, Washington, campus...
-- `The Verge` [The Meta Quest 3S gets a rare discount during October Prime Day](https://www.theverge.com/gadgets/1006810/meta-quest-3s-prime-day-deal-sale)
-> Until the end of Amazon’s October sale later tonight, you can grab the 128GB Meta Quest 3S for just $297.49 (usually $349.99) at Amazon, Walmart, and Best Buy. While the lenses and displays aren’t ...
-- `The Verge` [What The Social Reckoning gets right — and wrong](https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life)
-> Aaron Sorkin's The Social Reckoning has its fair share of cinematic flair, but many details in the story hew closely to real life. The movie tells the story of how Frances Haugen, a Facebook civic ...
-- `The Verge` [The Surface Laptop Ultra finally has a release date — and a starting price of $2,599](https://www.theverge.com/news/1006378/microsoft-surface-laptop-ultra-pricing-release-date)
-> Months after revealing its Surface Laptop Ultra, Microsoft has announced that the Nvidia RTX Spark-equipped device will launch on October 16th. Pricing starts at $2,599 for the base configuration, ...
-- `The Verge` [Surface RTX Spark Dev Box is available for preorder for $5,999](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder)
-> Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia lau...
-- `The Verge` [The best October Prime Day deals from Apple, Sony, Google, and more](https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two)
-> Day two of Amazon’s Prime Big Deal Days event is here, and the sale will end at 3AM ET on Thursday, October 8th. While a few of the best deals from yesterday have already ended, many are still happ...
-- `The Verge` [Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging](https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging)
-> Microsoft has created a magnetic charging solution for its Surface Laptop Ultra that uses USB-C. After scrapping its proprietary Surface Connect magnetic charging on its smaller Surface devices las...
-- `The Verge` [The Apple Watch Series 12 is a good deal at $50 off](https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale)
-> Several configurations of the Apple Watch Series 12 are $50 off for the first time for the remainder of Amazon’s Prime Big Deal Days. This includes both sizes (42mm and 46mm) of the GPS + Wi-Fi wat...
-- `The Verge` [The scariest thing about gray-market peptides is how little we know](https://www.theverge.com/column/1006902/optimizer-bpc-157-gray-market-real-world-usage)
-> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
-- `The Verge` [Windows and Surface live blog: On the ground at Microsoft’s event](https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark)
-> We're in San Francisco today to hear what's next for Windows and Surface. Microsoft CEO Satya Nadella, Nvidia CEO Jensen Huang, and Windows and Surface chief Pavan Davuluri will all be holding a "c...
+- `The Verge` [BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover](https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china)
+> While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress ...
+- `The Verge` [Teenage Engineering’s CEO says it’ll stop making synths](https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths)
+> Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a...
+- `The Verge` [Android’s physical navigation buttons are back on Googlebooks, but not the way you think](https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think)
+> A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is s...
+- `The Verge` [We found some great October Prime Day deals under $50](https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50)
+> Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sal...
+- `The Verge` [Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700](https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale)
+> Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day....
+- `The Verge` [ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)
+> OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6,...
+- `The Verge` [The first Nvidia RTX Spark laptops cost up to $7,000](https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000)
+> The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ult...
+- `The Verge` [It appears .agent and .agi are about to be the hot new domains](https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi)
+> For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end...
+- `The Verge` [Everything announced at Microsoft’s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced)
+> Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that&#...
+- `The Verge` [Microsoft is giving Copilot more control over Windows and your files](https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence)
+> At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
