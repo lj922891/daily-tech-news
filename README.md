@@ -6,10 +6,16 @@
 
 # 📰 每日科技日报 — 2026-10-08
 
-> 自动收集于 2026-10-08 05:32 | 共 40 条
+> 自动收集于 2026-10-08 18:03 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [iPhone Duo：苹果，终究还是对强迫症下手了](https://sspai.com/post/115282)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
+- `少数派` [从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole](https://sspai.com/post/113843)
+> 最近我写了不少关于独立开发的思考，想着要汇总一下，就把Mole从开源CLI做到Mac付费软件这一路聊一聊：我当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。去年国庆我在三 ...查看全文
+- `少数派` [扔掉的是杂念，掌控的是生活：我的断舍离实践经验](https://sspai.com/post/115209)
+> 断舍离从来不是为了追求极致的空旷，而是为了在混乱的生活里，重新夺回对空间的掌控权。查看全文
 - `少数派` [App Store 生态规模五年翻倍，助力中国开发者走向全球](https://sspai.com/post/115462)
 > 10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ...查看全文
 - `少数派` [派早报：微软发布 Windows 相关新品、Google AI 新闻两则等](https://sspai.com/post/115455)
@@ -24,105 +30,94 @@
 > iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。查看全文
 - `少数派` [TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验](https://sspai.com/post/114922)
 > 不知道以后 CMF 的设计还会不会像现在一样出彩。查看全文
-- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/115211)
-> 📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...查看全文
-- `少数派` [从玩家的世界掠过：Bungie 的「列车」如何驶向终焉](https://sspai.com/post/115070)
-> Bungie 究竟是在和时间赛跑，还是在和自己赛跑？查看全文
-- `少数派` [经典任务管理软件的现代重构：新版 2Do 详解](https://sspai.com/post/115166)
-> 完全重构的 2Do 是我的心目中最佳的任务管理工具。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew)
-> Article URL: https://github.com/zerobrewhq/zerobrew
-Comments URL: https://news.ycombinator.com/item?id=50001580
-Points: 14
+- `Hacker News` [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
+> Article URL: https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/
+Comments URL: https://news.ycombinator.com/item?id=50008685
+Points: 8
+# Comments: 1
+- `Hacker News` [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+> Article URL: https://cactuscompute.com/blog/whistle
+Comments URL: https://news.ycombinator.com/item?id=50008427
+Points: 75
+# Comments: 19
+- `Hacker News` [OpenAI annualised revenues $20B less than previously signalled](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a)
+> Article URL: https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a
+Comments URL: https://news.ycombinator.com/item?id=50008187
+Points: 59
+# Comments: 10
+- `Hacker News` [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
+> Article URL: https://openrouter.ai/stepfun/step-5-preview
+Comments URL: https://news.ycombinator.com/item?id=50007764
+Points: 20
 # Comments: 6
-- `Hacker News` [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-> Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007
-Comments URL: https://news.ycombinator.com/item?id=49998895
-Points: 1105
-# Comments: 124
-- `Hacker News` ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
-> Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/
-Comments URL: https://news.ycombinator.com/item?id=49998066
-Points: 105
-# Comments: 40
-- `Hacker News` [Meta and Microsoft take steps to reduce employee usage of Claude AI](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
-> Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/
-Comments URL: https://news.ycombinator.com/item?id=49997161
-Points: 324
-# Comments: 308
-- `Hacker News` [Push ifs up and fors down: The idiom, its algebra, and its limits](https://debasishg.github.io/blog/push-ifs-up-fors-down/)
-> Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/
-Comments URL: https://news.ycombinator.com/item?id=49997073
-Points: 128
-# Comments: 60
-- `Hacker News` [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
-> Article URL: https://www.anthropic.com/claude-haiku-5-5
-Comments URL: https://news.ycombinator.com/item?id=49996437
-Points: 779
-# Comments: 387
-- `Hacker News` [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)
-> Article URL: https://openai.com/index/gpt-6-for-everyone/
-Comments URL: https://news.ycombinator.com/item?id=49996425
-Points: 565
-# Comments: 293
-- `Hacker News` [In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick](https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html)
-> Article URL: https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html
-Comments URL: https://news.ycombinator.com/item?id=49996406
-Points: 61
-# Comments: 5
-- `Hacker News` [Docker Agent](https://github.com/docker/docker-agent)
-> Article URL: https://github.com/docker/docker-agent
-Comments URL: https://news.ycombinator.com/item?id=49996259
-Points: 207
-# Comments: 97
-- `Hacker News` [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/)
-> Article URL: https://bigwords.page/
-Comments URL: https://news.ycombinator.com/item?id=49994443
-Points: 426
-# Comments: 126
-- `TechCrunch` [Robot data startup Mecka AI nabs $60M from Sequoia](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/)
-> Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.
-- `TechCrunch` [While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/)
-> Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.
-- `TechCrunch` [Nous Research confirms it hit $1.5B valuation, launches AI agents for business users](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/)
-> The developer of Hermes Agent raised a $90 million Series B.
-- `TechCrunch` [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)
-> Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.
-- `TechCrunch` [Meta’s Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/)
-> Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.
-- `TechCrunch` [ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)
-> ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships ...
-- `TechCrunch` [X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/)
-> X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.
-- `TechCrunch` [ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)
-> OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.
-- `TechCrunch` [Greenairy is building smart plant towers to clean the air in your office](https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/)
-> As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.
-- `TechCrunch` [CIA officer admits to creating fake top secret government program to steal over $190M, including ...](https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/)
-> CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.
-- `The Verge` [BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover](https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china)
-> While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress ...
-- `The Verge` [Teenage Engineering’s CEO says it’ll stop making synths](https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths)
-> Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a...
-- `The Verge` [Android’s physical navigation buttons are back on Googlebooks, but not the way you think](https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think)
-> A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is s...
-- `The Verge` [We found some great October Prime Day deals under $50](https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50)
-> Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sal...
-- `The Verge` [Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700](https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale)
-> Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day....
-- `The Verge` [ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)
-> OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6,...
-- `The Verge` [The first Nvidia RTX Spark laptops cost up to $7,000](https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000)
-> The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ult...
-- `The Verge` [It appears .agent and .agi are about to be the hot new domains](https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi)
-> For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end...
-- `The Verge` [Everything announced at Microsoft’s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced)
-> Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that&#...
-- `The Verge` [Microsoft is giving Copilot more control over Windows and your files](https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence)
-> At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's...
+- `Hacker News` [4-hour battery storage is cheaper to install than gas turbines all across globe](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/)
+> Article URL: https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/
+Comments URL: https://news.ycombinator.com/item?id=500075...
+- `Hacker News` [Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)
+> Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea
+Comments URL: https://news.ycombinator.com/item?id=50006832
+Points: 425
+# Comments: 647
+- `Hacker News` [Tell HN: I've been paying for a rural Tanzanian's education for 10 years](https://news.ycombinator.com/item?id=50006366)
+> Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There's no school in the village. The nearest one is a boar...
+- `Hacker News` [2027 Web Platform Feature Ranking](https://interop-rank.fxdx.dev/)
+> Article URL: https://interop-rank.fxdx.dev/
+Comments URL: https://news.ycombinator.com/item?id=50005643
+Points: 38
+# Comments: 8
+- `Hacker News` [Sub-1-Bit LLM Compression via Latent Factorization](https://github.com/SamsungLabs/LittleBit)
+> Article URL: https://github.com/SamsungLabs/LittleBit
+Comments URL: https://news.ycombinator.com/item?id=50005608
+Points: 58
+# Comments: 8
+- `Hacker News` [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
+> Article URL: https://vale.rocks/posts/dvd-menus
+Comments URL: https://news.ycombinator.com/item?id=50005527
+Points: 169
+# Comments: 109
+- `TechCrunch` [A startup founder who served time in prison is looking to court an untapped market: ex-cons](https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/)
+> Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison fi...
+- `TechCrunch` [Natura’s $99 smart ring puts AI agents on your finger](https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/)
+> Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.
+- `TechCrunch` [Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost](https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/)
+> Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works an...
+- `TechCrunch` [US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers](https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/)
+> The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.
+- `TechCrunch` [Elon Musk questions Ambani’s influence as Starlink India launch stalls](https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/)
+> “Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.
+- `TechCrunch` [New York alleges TikTok gave teens, children a placebo safety feature instead of a real one](https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/)
+> New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.
+- `TechCrunch` [Asos confirms breach of customer data after hackers send rogue app notification](https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/)
+> The hackers alerted the fashion giant's customers through a push notification that said they had "fully compromised" the company's cloud storage.
+- `TechCrunch` [Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating ...](https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/)
+> Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.
+- `TechCrunch` [Spotify is getting more serious about selling enterprise software](https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/)
+> The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.
+- `TechCrunch` [Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion](https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/)
+> This is the first time the Alphabet-owned company has turned to debt financing.
+- `The Verge` [USA Today becomes the latest publisher to sue OpenAI](https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit)
+> USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied "hundreds of thousands" of articles to train its AI models, as reported earlier b...
+- `The Verge` [SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute](https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson)
+> If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omar...
+- `The Verge` [Older Pixel watches are losing free cellular access to several safety features](https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending)
+> Google announced through a short community post today that the LTE versions of the Pixel Watch 2 and 3 are losing free access to Safety Signal that allowed features like Emergency SOS, Fall Detecti...
+- `The Verge` [Anthropic bans ‘abusive or cruel behavior’ toward Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)
+> Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, ...
+- `The Verge` [Trump administration says Microsoft ‘abused’ worker visa program and is cutting off access](https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance)
+> The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as rep...
+- `The Verge` [New York accuses TikTok of serving users ‘placebo’ safety features](https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features)
+> New York is alleging that thousands of TikTok users, including kids and teens, were unknowingly given "ghost" versions of the platform's safety features rather than the working versions. Reuters re...
+- `The Verge` [Are you ready for everything to look like TikTok?](https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok)
+> Since TikTok burst into mainstream consciousness, many things have been called a "TikTok clone": YouTube Shorts, Instagram Reels, Snapchat Spotlight, Netflix's Clips, LinkedIn's vertical video feed...
+- `The Verge` [Amazon is phasing out Fire Tablets because they weren’t ‘giving customers what they were asking for’](https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay)
+> In an interview with Bloomberg, Amazon's head of consumer electronics, Panos Panay, confirmed the company would phase out the Fire brand in favor of Alexa Tablets. The new lineup runs proper Androi...
+- `The Verge` [Apple announces surprise ‘Welcome home’ launch event](https://www.theverge.com/news/1008039/apple-smart-home-event-october-13th)
+> Apple has just announced a new October event, taking place in New York on October 13th at 9AM ET. The company is rumored to be launching smart home-focused products this month, and the event invite...
+- `The Verge` [Google’s AI note-taking app transcribes your meetings completely offline](https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline)
+> Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is fr...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
