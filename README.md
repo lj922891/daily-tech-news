@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-09
+# 📰 每日科技日报 — 2026-10-10
 
-> 自动收集于 2026-10-09 17:36 | 共 40 条
+> 自动收集于 2026-10-10 05:20 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [App+1｜专注星空：让「少刷手机」这件事更愉悦一点](https://sspai.com/post/115237)
+> 把决定使用时长的时机，放到每次打开应用之前。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/115566)
 > 📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ...查看全文
 - `少数派` [vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧](https://sspai.com/post/115456)
@@ -28,96 +30,98 @@
 > 10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ...查看全文
 - `少数派` [派早报：微软发布 Windows 相关新品、Google AI 新闻两则等](https://sspai.com/post/115455)
 > Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。查看全文
-- `少数派` [罗马：永恒之城，永恒于世](https://sspai.com/post/114845)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Tomek Korbak: OpenAI's head of safety told they no longer trust me](https://twitter.com/tomekkorbak/status/2108266859397283953)
-> Article URL: https://twitter.com/tomekkorbak/status/2108266859397283953
-Comments URL: https://news.ycombinator.com/item?id=50023293
-Points: 19
+- `Hacker News` [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html)
+> Article URL: https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html
+Comments URL: https://news.ycombinator.com/item?id=50029630
+Points: 89
+# Comments: 15
+- `Hacker News` [Data Center Darling's $30B IPO Dream Crushed in 48 Hours](https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours)
+> Article URL: https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours
+Comments URL: https://news.ycombinator.com/item?id=50029452
+Points: 11...
+- `Hacker News` [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+> Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/
+Comments URL: https://news.ycombinator.com/item?id=50029123
+Points: 28
+# Comments: 4
+- `Hacker News` [Put a price on breakthroughs](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
+> Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/
+Comments URL: https://news.ycombinator.com/item?id=50028982
+Points: 8
 # Comments: 1
-- `Hacker News` [A statement on the Tor Project's relationship with Mullvad](https://blog.torproject.org/on-tor-relationship-with-mullvad/)
-> Article URL: https://blog.torproject.org/on-tor-relationship-with-mullvad/
-Comments URL: https://news.ycombinator.com/item?id=50022266
-Points: 38
-# Comments: 39
-- `Hacker News` [Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland](https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms)
-> Article URL: https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articl...
-- `Hacker News` [Imposing Sanctions on the International Criminal Court](https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/)
-> Article URL: https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/
-Comments URL: https://news.ycombinator.com/item?id=50021403
-Point...
-- `Hacker News` [Python 3.15.0](https://www.python.org/downloads/release/python-3150/)
-> Article URL: https://www.python.org/downloads/release/python-3150/
-Comments URL: https://news.ycombinator.com/item?id=50021127
-Points: 191
-# Comments: 38
-- `Hacker News` [US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
-> Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/
-Comments URL: https://news.ycombinator.com/item?id=50021066
-Po...
-- `Hacker News` [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
-> Article URL: https://oxide.computer/blog/our-445m-series-d
-Comments URL: https://news.ycombinator.com/item?id=50020014
-Points: 358
-# Comments: 141
-- `Hacker News` [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare)
-> Article URL: https://deno.com/blog/cloudflare
-Comments URL: https://news.ycombinator.com/item?id=50019911
-Points: 668
-# Comments: 354
-- `Hacker News` [Study: Exercise increases cancer survival rates](https://www.nejm.org/doi/10.1056/NEJMoa2502760)
-> Article URL: https://www.nejm.org/doi/10.1056/NEJMoa2502760
-Comments URL: https://news.ycombinator.com/item?id=50019741
-Points: 65
-# Comments: 34
-- `Hacker News` [Reactions to 100 Solutions](https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/)
-> Article URL: https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/
-Comments URL: https://news.ycombinator.com/item?id=50019499
-Points: 26
+- `Hacker News` [Next.js 16.4](https://nextjs.org/blog/next-16-4)
+> Article URL: https://nextjs.org/blog/next-16-4
+Comments URL: https://news.ycombinator.com/item?id=50028855
+Points: 4
+# Comments: 0
+- `Hacker News` [REA Reverse – Engineer Anything](https://rea.tools/)
+> Article URL: https://rea.tools/
+Comments URL: https://news.ycombinator.com/item?id=50028275
+Points: 233
+# Comments: 75
+- `Hacker News` [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
+> Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/
+Comments URL: https://news.ycombinator.com/item?id=50028062
+Points: 20
+# Comments: 35
+- `Hacker News` [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
+> Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants
+Comments URL: https://news.ycombinator.com/item?id=50028027
+Points: 25
+# C...
+- `Hacker News` [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
+> Article URL: https://lwn.net/Articles/1055211/
+Comments URL: https://news.ycombinator.com/item?id=50027853
+Points: 42
+# Comments: 4
+- `Hacker News` [Rewriting Prime Agent in Rust](https://www.primeintellect.ai/blog/prime-agent-rust)
+> Article URL: https://www.primeintellect.ai/blog/prime-agent-rust
+Comments URL: https://news.ycombinator.com/item?id=50027694
+Points: 39
 # Comments: 13
+- `TechCrunch` [Elon Musk intensifies attack on Ambani over Starlink India launch delay](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/)
+> Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.
+- `TechCrunch` [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live...](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)
+> Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
+- `TechCrunch` [Long live the mechanical keyboard](https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/)
+> Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.
+- `TechCrunch` [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/)
+> What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
+- `TechCrunch` [An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)
+> Anthropic did not discover this behavior until over two months after its AI submitted the false tip.
+- `TechCrunch` [Batteries are now cheaper than natural gas turbines used at many data centers](https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/)
+> Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.
+- `TechCrunch` [TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landi...](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/)
+> Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.
 - `TechCrunch` [LumenUs helps automate tedious paperwork in times of grief](https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/)
 > "The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about," said founder Sara Tashakorinia.
 - `TechCrunch` [Amazon and others are done keeping data center deals secret. Is it enough to build trust?](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)
 > Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled...
 - `TechCrunch` [Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)
 > For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
-- `TechCrunch` [We can’t help treating AI like it’s human. But should we?](https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/)
-> "When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us," Dr. Sherry Turkle writes. "And we are wired to care for it in return."
-- `TechCrunch` [Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe](https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/)
-> The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.
-- `TechCrunch` [Remember Orkut? Its founder wants to bring it back](https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/)
-> Orkut's founder is now taking aim at algorithms and AI-generated content.
-- `TechCrunch` [a16z’s Olivia Moore on the state of consumer AI](https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/)
-> Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.
-- `TechCrunch` [Automattic loses its interim CFO just weeks after boardroom shakeup](https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/)
-> Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion bac...
-- `TechCrunch` [Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss](https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/)
-> TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisc...
-- `TechCrunch` [TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landi...](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/)
-> Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.
+- `The Verge` [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
+> CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making n...
+- `The Verge` [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip)
+> An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, th...
+- `The Verge` [Ohio blogger found guilty of harassment for sending Shrek nude to senator](https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude)
+> A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of...
+- `The Verge` [‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos)
+> "Staggering." "Overwhelming." "Unprecedented." "Surreal." "Pure insanity." Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they...
+- `The Verge` [Brendan Carr says he’ll let Pete Hegseth decide whether TV networks can air the public execution](https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air)
+> FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. Th...
+- `The Verge` [Nikon microscopic video competition winner disqualified for using generative AI](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai)
+> Nikon says the video that originally won first place in its Small World in Motion contest "did not comply with the competition rules regarding generative AI." BBC reports that the original first pl...
+- `The Verge` [Google teases Fitbit Edge launch next week](https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week)
+> It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with ...
+- `The Verge` [The Samsung Galaxy S26 Ultra is down to $950 after Prime Day](https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale)
+> Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s standout feature is the adjustable p...
 - `The Verge` [Amazon’s new Kindles appear to have a light leak problem](https://www.theverge.com/tech/1008833/amazon-kindle-light-leak)
 > Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appe...
 - `The Verge` [Microsoft tries to spark new life into Windows](https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad)
 > When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that those renovations would be complete, ...
-- `The Verge` [Frances Haugen hopes The Social Reckoning will inspire more whistleblowers](https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower)
-> Facebook whistleblower Frances Haugen was mostly unfazed watching Oscar-winning actress Mikey Madison play a character named after her in The Social Reckoning, except for one thing: the wrist warme...
-- `The Verge` [Apple and LG leak shows new ‘tap to control’ HomeKit features](https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor)
-> A post on X from "pdfu," who has previously posted leaks and renders of suspected Apple features and LG smart home gear, shows new details of rumored Apple Home accessories from LG. According to th...
-- `The Verge` [YouTube, Meta, and Twitch won’t say if they’ll allow the US government to livestream an execution](https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream)
-> YouTube, Twitch, Meta, and X aren't saying whether they'll allow the US government to livestream an execution on their platforms. The four companies didn't respond to The Verge's requests for comme...
-- `The Verge` [The AI is in the computer](https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast)
-> It's gadget season, and a lot of companies are launching a lot of new products. But whether it's Microsoft dropping a high-end laptop, Amazon shipping a fancy Android tablet, or Apple diving headlo...
-- `The Verge` [Trump’s attempt to rename AI is looking awfully artificial](https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding)
-> President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like "Little Marco" and "Crooked Hillary"; he changed "fake new...
-- `The Verge` [Instinct was the buzziest AI agent around — can it survive Muse?](https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots)
-> Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And y...
-- `The Verge` [A week with Googlebooks: four notes from our testing so far](https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable)
-> Google's new operating system is off to a rocky start. The five newly launched Googlebook laptops have hardware that ranges from great to excellent, but the software in its current state is the wea...
-- `The Verge` [Meta is banning TikTok ads across its platforms](https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban)
-> Meta has banned ads from TikTok's Chinese parent company ByteDance across the US and several other countries as the rivalry between the major social media operators heats up, as reported earlier by...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
