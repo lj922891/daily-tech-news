@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-10-10
 
-> 自动收集于 2026-10-10 05:20 | 共 40 条
+> 自动收集于 2026-10-10 16:27 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,55 +33,59 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html)
-> Article URL: https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html
-Comments URL: https://news.ycombinator.com/item?id=50029630
-Points: 89
-# Comments: 15
-- `Hacker News` [Data Center Darling's $30B IPO Dream Crushed in 48 Hours](https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours)
-> Article URL: https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours
-Comments URL: https://news.ycombinator.com/item?id=50029452
-Points: 11...
-- `Hacker News` [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
-> Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/
-Comments URL: https://news.ycombinator.com/item?id=50029123
-Points: 28
-# Comments: 4
-- `Hacker News` [Put a price on breakthroughs](https://alexwang.ai/posts/put-a-price-on-breakthroughs/)
-> Article URL: https://alexwang.ai/posts/put-a-price-on-breakthroughs/
-Comments URL: https://news.ycombinator.com/item?id=50028982
-Points: 8
-# Comments: 1
-- `Hacker News` [Next.js 16.4](https://nextjs.org/blog/next-16-4)
-> Article URL: https://nextjs.org/blog/next-16-4
-Comments URL: https://news.ycombinator.com/item?id=50028855
-Points: 4
+- `Hacker News` [The Disease called Politics (1962)](https://www.panarchy.org/roszak/politics.html)
+> Article URL: https://www.panarchy.org/roszak/politics.html
+Comments URL: https://news.ycombinator.com/item?id=50034141
+Points: 6
 # Comments: 0
-- `Hacker News` [REA Reverse – Engineer Anything](https://rea.tools/)
-> Article URL: https://rea.tools/
-Comments URL: https://news.ycombinator.com/item?id=50028275
-Points: 233
-# Comments: 75
-- `Hacker News` [Has the Autonomous Trucking Revolution Arrived?](https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/)
-> Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/
-Comments URL: https://news.ycombinator.com/item?id=50028062
-Points: 20
-# Comments: 35
-- `Hacker News` [Clinical trial of a prion disease drug candidate begins enrolling participants](https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants)
-> Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants
-Comments URL: https://news.ycombinator.com/item?id=50028027
-Points: 25
-# C...
-- `Hacker News` [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/)
-> Article URL: https://lwn.net/Articles/1055211/
-Comments URL: https://news.ycombinator.com/item?id=50027853
-Points: 42
-# Comments: 4
-- `Hacker News` [Rewriting Prime Agent in Rust](https://www.primeintellect.ai/blog/prime-agent-rust)
-> Article URL: https://www.primeintellect.ai/blog/prime-agent-rust
-Comments URL: https://news.ycombinator.com/item?id=50027694
-Points: 39
-# Comments: 13
+- `Hacker News` [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)
+> Article URL: https://www.thomas-huehn.com/knuth-reward-check
+Comments URL: https://news.ycombinator.com/item?id=50034081
+Points: 12
+# Comments: 1
+- `Hacker News` [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)
+> Article URL: https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd
+Comments URL: https://news.ycombinator.com/item?id=50034008
+Points: 6
+# Comments: 1
+- `Hacker News` [Lobbying Is Corruption](https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313)
+> Article URL: https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313
+Comments URL: https://news.ycombinator.com/item?id=...
+- `Hacker News` [PVX-001: open-source Covid-19 vaccine starts Phase 1 trial](https://chronicles.popvax.com/p/popvax-goes-clinical)
+> Article URL: https://chronicles.popvax.com/p/popvax-goes-clinical
+Comments URL: https://news.ycombinator.com/item?id=50033721
+Points: 8
+# Comments: 0
+- `Hacker News` [My personal AI agent posted my bank details on company Slack](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10)
+> Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10
+Comments URL: https://news.ycombinator.com/item?id=50033517
+Points: 37
+# Comments: 34
+- `Hacker News` [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
+> Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750
+Comments URL: https://news.ycombinator.com/item?id=50033407
+Points: 126
+# Comments: 78
+- `Hacker News` [I would like the value of my home to rise, while my property taxes fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
+> Article URL: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/
+Comments URL: https://news.ycombinator.com/item?id=50032758
+Points: ...
+- `Hacker News` [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
+> Article URL: https://www.opengroup.org//openbrand/register/
+Comments URL: https://news.ycombinator.com/item?id=50031653
+Points: 125
+# Comments: 124
+- `Hacker News` [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
+> Article URL: https://github.com/rociiu/talorys
+Comments URL: https://news.ycombinator.com/item?id=50031614
+Points: 128
+# Comments: 63
+- `TechCrunch` [Cloudflare acquires Deno to improve its Workers programming model](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/)
+> Cloudflare will use this acquisition to improve its Workers programming model and platform.
+- `TechCrunch` [3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/)
+> TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200...
+- `TechCrunch` [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/)
+> We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
 - `TechCrunch` [Elon Musk intensifies attack on Ambani over Starlink India launch delay](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/)
 > Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.
 - `TechCrunch` [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live...](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)
@@ -96,32 +100,26 @@ Points: 39
 > Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.
 - `TechCrunch` [TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landi...](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/)
 > Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.
-- `TechCrunch` [LumenUs helps automate tedious paperwork in times of grief](https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/)
-> "The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about," said founder Sara Tashakorinia.
-- `TechCrunch` [Amazon and others are done keeping data center deals secret. Is it enough to build trust?](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)
-> Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled...
-- `TechCrunch` [Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)
-> For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
+- `The Verge` [K-pop star Sunmi loves Notion and ear cleaning videos](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview)
+> Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of...
+- `The Verge` [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet)
+> After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detaile...
+- `The Verge` [Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure)
+> Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now sim...
+- `The Verge` [LG’s RGB LED TV is good for certain situations, but an OLED is better](https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review)
+> When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major compa...
+- `The Verge` [AI agent makers are promising privacy — will they deliver?](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots)
+> At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to "set a new standard for privacy in frontier AI." OpenAI would sp...
+- `The Verge` [The techlash has gone Hollywood](https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer)
+> Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at th...
+- `The Verge` [The Telo MT1 is a big truck trapped in a tiny truck’s body](https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck)
+> I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for "mini truck") unq...
+- `The Verge` [The director of Fjord takes the ‘risky position’ of moderator](https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview)
+> Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway....
+- `The Verge` [My brief romance with an AI bird feeder](https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too)
+> It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. "Looks like Great Tit!" read the firs...
 - `The Verge` [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
 > CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making n...
-- `The Verge` [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip)
-> An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, th...
-- `The Verge` [Ohio blogger found guilty of harassment for sending Shrek nude to senator](https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude)
-> A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of...
-- `The Verge` [‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos)
-> "Staggering." "Overwhelming." "Unprecedented." "Surreal." "Pure insanity." Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they...
-- `The Verge` [Brendan Carr says he’ll let Pete Hegseth decide whether TV networks can air the public execution](https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air)
-> FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. Th...
-- `The Verge` [Nikon microscopic video competition winner disqualified for using generative AI](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai)
-> Nikon says the video that originally won first place in its Small World in Motion contest "did not comply with the competition rules regarding generative AI." BBC reports that the original first pl...
-- `The Verge` [Google teases Fitbit Edge launch next week](https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week)
-> It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with ...
-- `The Verge` [The Samsung Galaxy S26 Ultra is down to $950 after Prime Day](https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale)
-> Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s standout feature is the adjustable p...
-- `The Verge` [Amazon’s new Kindles appear to have a light leak problem](https://www.theverge.com/tech/1008833/amazon-kindle-light-leak)
-> Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appe...
-- `The Verge` [Microsoft tries to spark new life into Windows](https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad)
-> When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that those renovations would be complete, ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
