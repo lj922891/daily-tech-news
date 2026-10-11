@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-10-11
 
-> 自动收集于 2026-10-11 05:12 | 共 40 条
+> 自动收集于 2026-10-11 16:51 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复](https://sspai.com/post/115568)
+> 前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ...查看全文
 - `少数派` [App+1｜专注星空：让「少刷手机」这件事更愉悦一点](https://sspai.com/post/115237)
 > 把决定使用时长的时机，放到每次打开应用之前。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/115566)
@@ -28,59 +30,67 @@
 > 断舍离从来不是为了追求极致的空旷，而是为了在混乱的生活里，重新夺回对空间的掌控权。查看全文
 - `少数派` [App Store 生态规模五年翻倍，助力中国开发者走向全球](https://sspai.com/post/115462)
 > 10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ...查看全文
-- `少数派` [派早报：微软发布 Windows 相关新品、Google AI 新闻两则等](https://sspai.com/post/115455)
-> Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Vegetables are half as nutritious as they were in the 1960s](https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/)
-> Article URL: https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/
-Comments URL: https://news.ycombinator.com/item?id=50039715
-Points: 10
-# Comments: 9
-- `Hacker News` [Satya Nadella says we should assume all AI models are 'compromised'](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
-> Article URL: https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
-Comments URL: https://news.ycombinator.com/item?id=5003962...
-- `Hacker News` [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
-> Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU
-Comments URL: https://news.ycombinator.com/item?id=50039536
-Points: 14
+- `Hacker News` [How I reverse engineered a commercial spatial audio effect](http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/)
+> Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/
+Comments URL: https://news.ycombinator.com/item?id=50044272
+Points: 16
+# Comments: 2
+- `Hacker News` [Internal files add to evidence of an ExxonMobil climate deception campaign](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
+> Article URL: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/
+Comments URL: https://news.ycombinator.com/item?id=50043682
+Points: 301
+# Comments: 143
+- `Hacker News` [Why Texas Is Making Data Centers Wait](https://a16z.com/why-texas-is-making-data-centers-wait/)
+> Article URL: https://a16z.com/why-texas-is-making-data-centers-wait/
+Comments URL: https://news.ycombinator.com/item?id=50043603
+Points: 19
+# Comments: 21
+- `Hacker News` [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
+> Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+Comments URL: https://news.ycombinator.com/item?id=50043026
+Points: 121
+# Comments: 154
+- `Hacker News` [The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
+> Article URL: https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/
+Comments URL: https://news.ycombinator.com/item?id=50042425
+Points: 119
+# Comments: 67
+- `Hacker News` [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
+> Article URL: https://verdagon.dev/blog/valen-group-borrowing
+Comments URL: https://news.ycombinator.com/item?id=50042362
+Points: 67
+# Comments: 28
+- `Hacker News` [Show HN: BetterWispr – Free, open-source dictation for Mac](https://betterwispr.com/)
+> Article URL: https://betterwispr.com/
+Comments URL: https://news.ycombinator.com/item?id=50042333
+Points: 55
+# Comments: 25
+- `Hacker News` [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
+> Article URL: https://jobs.ashbyhq.com/weave-os
+Comments URL: https://news.ycombinator.com/item?id=50042330
+Points: 0
 # Comments: 0
-- `Hacker News` [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
-> Article URL: https://worldfacts.app
-Comments URL: https://news.ycombinator.com/item?id=50039504
-Points: 25
-# Comments: 27
-- `Hacker News` [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
-> Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/
-Comments URL: https://news.ycombinator.com/item?id=50039092
-Points: 66
-# Comments: 50
-- `Hacker News` [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)
-> Article URL: https://wallhop.io/
-Comments URL: https://news.ycombinator.com/item?id=50038634
-Points: 189
-# Comments: 84
-- `Hacker News` [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
-> Article URL: https://github.com/othermod/PSPi-Version-6
-Comments URL: https://news.ycombinator.com/item?id=50038623
-Points: 47
-# Comments: 5
-- `Hacker News` [Veda: The First Agentic Hobby Operating System](https://github.com/vahmoh25/Veda)
-> Article URL: https://github.com/vahmoh25/Veda
-Comments URL: https://news.ycombinator.com/item?id=50038473
-Points: 39
-# Comments: 9
-- `Hacker News` [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
-> Article URL: https://nishtahir.com/build-your-own-decision-model/
-Comments URL: https://news.ycombinator.com/item?id=50037949
-Points: 182
-# Comments: 36
-- `Hacker News` [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
-> Article URL: https://housing.over.pizza/
-Comments URL: https://news.ycombinator.com/item?id=50036864
-Points: 248
-# Comments: 88
+- `Hacker News` [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
+> Article URL: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/
+Comments URL: https://news.ycombinator.com/item?id=50042219
+Points: 222
+# Comments: 115
+- `Hacker News` [Nicolas Cage says he won't work with Amazon again over AI dispute](https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute)
+> Article URL: https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute
+Comments URL: https://news.ycombinator.com/item?id...
+- `TechCrunch` [TechCrunch Mobility: A roadblock clears for self-driving trucks](https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+- `TechCrunch` [Dawn Myers is making it easier to style, detangle, and care for curly hair](https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/)
+> Richualist is one of TechCrunch's Battlefield 200 Companies!
+- `TechCrunch` [Efferon wants to eradicate the devastating toll of pediatric sepsis](https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/)
+> This Battlefield 200 startup has developed blood-purification tech to save children
+- `TechCrunch` [What to know about the landmark Warner Bros. Discovery sale](https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/)
+> Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.
+- `TechCrunch` [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/)
+> Voice AI's often misses important points for its context layer, and causes the whole pipeline to break
 - `TechCrunch` [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)
 > In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.
 - `TechCrunch` [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/)
@@ -91,36 +101,26 @@ Points: 248
 > Cloudflare will use this acquisition to improve its Workers programming model and platform.
 - `TechCrunch` [3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/)
 > TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200...
-- `TechCrunch` [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/)
-> We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
-- `TechCrunch` [Elon Musk intensifies attack on Ambani over Starlink India launch delay](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/)
-> Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.
-- `TechCrunch` [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live...](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)
-> Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
-- `TechCrunch` [Long live the mechanical keyboard](https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/)
-> Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.
-- `TechCrunch` [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/)
-> What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
+- `The Verge` [NASA dumped over 800GB of Artemis II data online](https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data)
+> If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & S...
+- `The Verge` [George A. Romero’s Season of the Witch is a slow-burn feminist occult drama](https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review)
+> George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made tw...
+- `The Verge` [Vurt wants you to look at vertical videos as a genre of their own](https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey)
+> From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media...
+- `The Verge` [What to expect from Apple’s ‘Welcome Home’ event](https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home)
+> We are quickly coming up on Apple's "Welcome Home" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a br...
+- `The Verge` [Horror is big business](https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our sub...
+- `The Verge` [Why the LeapPad couldn’t survive the iPad](https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history)
+> For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of g...
+- `The Verge` [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)
+> I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingl...
 - `The Verge` [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
 > In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI i...
 - `The Verge` [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit)
 > Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct respons...
 - `The Verge` [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts)
 > Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBi...
-- `The Verge` [K-pop star Sunmi loves Notion and ear cleaning videos](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview)
-> Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of...
-- `The Verge` [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet)
-> After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detaile...
-- `The Verge` [Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure)
-> Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now sim...
-- `The Verge` [LG’s RGB LED TV is good for certain situations, but an OLED is better](https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review)
-> When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major compa...
-- `The Verge` [AI agent makers are promising privacy — will they deliver?](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots)
-> At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to "set a new standard for privacy in frontier AI." OpenAI would sp...
-- `The Verge` [The techlash has gone Hollywood](https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer)
-> Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at th...
-- `The Verge` [The Telo MT1 is a big truck trapped in a tiny truck’s body](https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck)
-> I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for "mini truck") unq...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
