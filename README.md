@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-10
+# 📰 每日科技日报 — 2026-10-11
 
-> 自动收集于 2026-10-10 16:27 | 共 40 条
+> 自动收集于 2026-10-11 05:12 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,53 +33,60 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [The Disease called Politics (1962)](https://www.panarchy.org/roszak/politics.html)
-> Article URL: https://www.panarchy.org/roszak/politics.html
-Comments URL: https://news.ycombinator.com/item?id=50034141
-Points: 6
+- `Hacker News` [Vegetables are half as nutritious as they were in the 1960s](https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/)
+> Article URL: https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/
+Comments URL: https://news.ycombinator.com/item?id=50039715
+Points: 10
+# Comments: 9
+- `Hacker News` [Satya Nadella says we should assume all AI models are 'compromised'](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
+> Article URL: https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
+Comments URL: https://news.ycombinator.com/item?id=5003962...
+- `Hacker News` [GameBoy on E-Paper ESP32 at 30FPS [video]](https://www.youtube.com/watch?v=XiZmM6hwwAU)
+> Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU
+Comments URL: https://news.ycombinator.com/item?id=50039536
+Points: 14
 # Comments: 0
-- `Hacker News` [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)
-> Article URL: https://www.thomas-huehn.com/knuth-reward-check
-Comments URL: https://news.ycombinator.com/item?id=50034081
-Points: 12
-# Comments: 1
-- `Hacker News` [How Protein Took over the World](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)
-> Article URL: https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd
-Comments URL: https://news.ycombinator.com/item?id=50034008
-Points: 6
-# Comments: 1
-- `Hacker News` [Lobbying Is Corruption](https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313)
-> Article URL: https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313
-Comments URL: https://news.ycombinator.com/item?id=...
-- `Hacker News` [PVX-001: open-source Covid-19 vaccine starts Phase 1 trial](https://chronicles.popvax.com/p/popvax-goes-clinical)
-> Article URL: https://chronicles.popvax.com/p/popvax-goes-clinical
-Comments URL: https://news.ycombinator.com/item?id=50033721
-Points: 8
-# Comments: 0
-- `Hacker News` [My personal AI agent posted my bank details on company Slack](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10)
-> Article URL: https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10
-Comments URL: https://news.ycombinator.com/item?id=50033517
-Points: 37
-# Comments: 34
-- `Hacker News` [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
-> Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750
-Comments URL: https://news.ycombinator.com/item?id=50033407
-Points: 126
-# Comments: 78
-- `Hacker News` [I would like the value of my home to rise, while my property taxes fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
-> Article URL: https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/
-Comments URL: https://news.ycombinator.com/item?id=50032758
-Points: ...
-- `Hacker News` [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
-> Article URL: https://www.opengroup.org//openbrand/register/
-Comments URL: https://news.ycombinator.com/item?id=50031653
-Points: 125
-# Comments: 124
-- `Hacker News` [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
-> Article URL: https://github.com/rociiu/talorys
-Comments URL: https://news.ycombinator.com/item?id=50031614
-Points: 128
-# Comments: 63
+- `Hacker News` [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
+> Article URL: https://worldfacts.app
+Comments URL: https://news.ycombinator.com/item?id=50039504
+Points: 25
+# Comments: 27
+- `Hacker News` [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+> Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/
+Comments URL: https://news.ycombinator.com/item?id=50039092
+Points: 66
+# Comments: 50
+- `Hacker News` [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)
+> Article URL: https://wallhop.io/
+Comments URL: https://news.ycombinator.com/item?id=50038634
+Points: 189
+# Comments: 84
+- `Hacker News` [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
+> Article URL: https://github.com/othermod/PSPi-Version-6
+Comments URL: https://news.ycombinator.com/item?id=50038623
+Points: 47
+# Comments: 5
+- `Hacker News` [Veda: The First Agentic Hobby Operating System](https://github.com/vahmoh25/Veda)
+> Article URL: https://github.com/vahmoh25/Veda
+Comments URL: https://news.ycombinator.com/item?id=50038473
+Points: 39
+# Comments: 9
+- `Hacker News` [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
+> Article URL: https://nishtahir.com/build-your-own-decision-model/
+Comments URL: https://news.ycombinator.com/item?id=50037949
+Points: 182
+# Comments: 36
+- `Hacker News` [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
+> Article URL: https://housing.over.pizza/
+Comments URL: https://news.ycombinator.com/item?id=50036864
+Points: 248
+# Comments: 88
+- `TechCrunch` [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)
+> In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.
+- `TechCrunch` [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/)
+> Is Apple hoping to get into the AI-generated podcast business?
+- `TechCrunch` [Petra Power looks to modernize energy for data centers and defense vehicles](https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/)
+> The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.
 - `TechCrunch` [Cloudflare acquires Deno to improve its Workers programming model](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/)
 > Cloudflare will use this acquisition to improve its Workers programming model and platform.
 - `TechCrunch` [3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/)
@@ -94,12 +101,12 @@ Points: 128
 > Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.
 - `TechCrunch` [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/)
 > What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
-- `TechCrunch` [An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)
-> Anthropic did not discover this behavior until over two months after its AI submitted the false tip.
-- `TechCrunch` [Batteries are now cheaper than natural gas turbines used at many data centers](https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/)
-> Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.
-- `TechCrunch` [TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landi...](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/)
-> Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.
+- `The Verge` [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
+> In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI i...
+- `The Verge` [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit)
+> Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct respons...
+- `The Verge` [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts)
+> Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBi...
 - `The Verge` [K-pop star Sunmi loves Notion and ear cleaning videos](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview)
 > Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of...
 - `The Verge` [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet)
@@ -114,12 +121,6 @@ Points: 128
 > Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at th...
 - `The Verge` [The Telo MT1 is a big truck trapped in a tiny truck’s body](https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck)
 > I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for "mini truck") unq...
-- `The Verge` [The director of Fjord takes the ‘risky position’ of moderator](https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview)
-> Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway....
-- `The Verge` [My brief romance with an AI bird feeder](https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too)
-> It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. "Looks like Great Tit!" read the firs...
-- `The Verge` [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
-> CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making n...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
