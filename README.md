@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-10-13
 
-> 自动收集于 2026-10-13 06:23 | 共 40 条
+> 自动收集于 2026-10-13 18:34 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议](https://sspai.com/post/116068)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App](https://sspai.com/post/115400)
+> 在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文
 - `少数派` [迈上生态新台阶，首期 Apple 应用孵化器顺利收官](https://sspai.com/post/116028)
 > 为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。查看全文
 - `少数派` [高端，不只是材质而已：Apple Watch Edition 的前世今生](https://sspai.com/post/114561)
@@ -26,104 +30,91 @@
 > 工信部等就进一步加强汽车产品创新设计管理征求意见三季度全球 PC 出货量骤降法国判决 Cloudflare 无须通过 DNS 屏蔽盗版Anthropic 宣布切断内部评估环境的互联网访问权限AI 助力老游戏移植到浏览器3C 证书大面积暂停，电动自行车销售接近停滞看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复](https://sspai.com/post/115568)
 > 前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ...查看全文
-- `少数派` [App+1｜专注星空：让「少刷手机」这件事更愉悦一点](https://sspai.com/post/115237)
-> 把决定使用时长的时机，放到每次打开应用之前。查看全文
-- `少数派` [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/115566)
-> 📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Threat of AI share crash puts world financial stability at risk, says IMF](https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks)
-> Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks
-Comments URL: https://news.ycombinator.com/item?id=50067356
-Points: 5
-# Com...
-- `Hacker News` [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
-> Article URL: https://www.patreon.com/vihart/posts/vi-harts-big-171939430
-Comments URL: https://news.ycombinator.com/item?id=50067098
-Points: 10
-# Comments: 3
-- `Hacker News` [A look at OpenAI’s math that’s claimed computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
-> Article URL: https://www.argmin.net/p/faster-fourier-transforms
-Comments URL: https://news.ycombinator.com/item?id=50065932
-Points: 85
-# Comments: 58
-- `Hacker News` [The Dock on Mac, from OS 10 to macOS 27](https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/)
-> Article URL: https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/
-Comments URL: https://news.ycombinator.com/item?id=50065713
+- `Hacker News` [Show HN: XY Music Notation](https://music.xy.dev/)
+> I've been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it.The idea is to represent each note in ...
+- `Hacker News` [Coris (YC S22) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
+> Article URL: https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations
+Comments URL: https://news.ycombinator.com/item?id=50074969
+Points:...
+- `Hacker News` [Show HN: How Random Are You?](https://lab.specr.net/rigged-draw/)
+> Article URL: https://lab.specr.net/rigged-draw/
+Comments URL: https://news.ycombinator.com/item?id=50074909
+Points: 16
+# Comments: 8
+- `Hacker News` [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)
+> Article URL: https://developers.googleblog.com/gemini-4-argon-for-robotics/
+Comments URL: https://news.ycombinator.com/item?id=50074869
 Points: 48
-# Comments: 25
-- `Hacker News` [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
-> Article URL: https://arxiv.org/abs/2610.13928
-Comments URL: https://news.ycombinator.com/item?id=50065692
-Points: 110
-# Comments: 53
-- `Hacker News` [Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)
-> Article URL: https://github.com/bherbruck/solidcraft
-Comments URL: https://news.ycombinator.com/item?id=50064840
-Points: 27
-# Comments: 1
-- `Hacker News` [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
-> https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/
-
-Comments URL: https://news.ycombinator.com/item?id=50064536
-Points: 140
-# Comments: 92
-- `Hacker News` [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
-> Article URL: https://github.com/andrewfader/blokkily
-Comments URL: https://news.ycombinator.com/item?id=50064438
-Points: 39
-# Comments: 17
-- `Hacker News` [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
-> Article URL: https://github.com/prabanta-dev/janas
-Comments URL: https://news.ycombinator.com/item?id=50063717
-Points: 92
-# Comments: 31
-- `Hacker News` [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
-> Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/
-Comments URL: https://news.ycombinator.com/item?id=50063427
-Points: 327
-# Comments: 273
-- `TechCrunch` [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)
-> Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on comp...
-- `TechCrunch` [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
-> A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.
-- `TechCrunch` [Honeyjar offers AI tools to improve PR and comms at every company](https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/)
-> Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?
-- `TechCrunch` [Microsoft president says UK is best placed to drive AI regulation](https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/)
-> Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.
-- `TechCrunch` [This AI startup says it can generate permit-ready blueprints in minutes](https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/)
-> Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.
-- `TechCrunch` [Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch](https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/)
-> Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.
-- `TechCrunch` [Smart ring maker Ultrahuman to roll out biological-age model across UAE](https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/)
-> Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.
-- `TechCrunch` [TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings](https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/)
-> Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections,...
-- `TechCrunch` [Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/)
-> One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech com...
-- `TechCrunch` [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
-> TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.
-- `The Verge` [The Social Reckoning is flopping at the box office](https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy)
-> As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network onl...
-- `The Verge` [Meta has some Wonder Full new AI models](https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model)
-> Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new mo...
-- `The Verge` [Elon Musk has donated over $276 million to Republican midterm efforts](https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations)
-> Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $1...
-- `The Verge` [The Yandex outage probably didn’t blitz Russian bots](https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk)
-> Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot ac...
-- `The Verge` [Mechanism’s first Switch 2 case is as awesome as I hoped it would be](https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on)
-> Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on sh...
-- `The Verge` [Android is the best and worst thing about Googlebooks](https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing)
-> My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me h...
-- `The Verge` [No Man’s Sky is coming to the iPhone and iPad](https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date)
-> The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both...
-- `The Verge` [The OnePlus 16 is the company’s most interesting phone in years](https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china)
-> Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best ...
-- `The Verge` [CMF’s first wireless speakers look like musical milk cartons](https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize)
-> The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. ...
-- `The Verge` [The Fitbit Edge is for folks who don’t want to go totally screenless](https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker)
-> The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official. The tracker sits smack-dab between the recently launched Fitbit Air and the more p...
+# Comments: 8
+- `Hacker News` [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)
+> Article URL: https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24
+Comments URL: https://news.ycombinator.com/item?id=50074289
+Points: 79
+# Comments...
+- `Hacker News` [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+> Article URL: https://deepmind.google/models/gemini/
+Comments URL: https://news.ycombinator.com/item?id=50073879
+Points: 482
+# Comments: 367
+- `Hacker News` [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+> Article URL: https://www.anthropic.com/engineering/redesigning-source-control
+Comments URL: https://news.ycombinator.com/item?id=50073633
+Points: 114
+# Comments: 84
+- `Hacker News` [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471)
+> Hey Hacker News! I'm Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure.
+Consus itself satisfies ITAR re...
+- `Hacker News` [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
+> Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic
+Comments URL: https://news.ycombinator.com/item?id=50073221
+Points: 112
+# Comments: 72
+- `Hacker News` [The United Kingdom Generates Less Electricity per Person Than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
+> Article URL: https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak
+Comments URL: https://news.ycombinator....
+- `TechCrunch` [Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field](https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/)
+> Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.
+- `TechCrunch` [Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads](https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/)
+> Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.
+- `TechCrunch` [Facebook is giving users more control over their algorithm](https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/)
+> Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds.  Meta announced the launch of its new AI-powered feat...
+- `TechCrunch` [Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt...](https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/)
+> Longshot is trying to build a gun big enough to make space data centers a reality.
+- `TechCrunch` [Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)
+> University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing ...
+- `TechCrunch` [Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/)
+> The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping securit...
+- `TechCrunch` [MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt](https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/)
+> Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.
+- `TechCrunch` [Google Play now lets anyone build private, vibe-coded apps that run on Android](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/)
+> Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.
+- `TechCrunch` [SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
+> Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.
+- `TechCrunch` [The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between](https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/)
+> Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.
+- `The Verge` [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)
+> The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha la...
+- `The Verge` [The feds are looking into reports of Tesla’s robotaxis speeding through school zones](https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation)
+> The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding "posted speed limits in activ...
+- `The Verge` [The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever](https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale)
+> If you’re looking for an e-reader that can easily fit in your pocket (or snap onto your magnet-equipped phone), the tiny Xteink X4 Pro might be worth a look. It features a 4.26-inch, 800 x 48...
+- `The Verge` [Facebook will let you customize your feed algorithm using AI](https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai)
+> Facebook's new "Your Algorithm" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations "respond right away" after you ma...
+- `The Verge` [Google makes it easier to launch your vibe-coded apps](https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch)
+> The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will al...
+- `The Verge` [A redesigned Play Store is coming to cars with Google built-in](https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store)
+> The Google Play Store is getting a big update for cars with Google built-in. On Tuesday, the company announced that the Play Store's layout will now automatically adapt to the size and layout of yo...
+- `The Verge` [I tried out Apple’s HomeView smart display](https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on)
+> Apple has just announced the HomeView, its first smart home display - and I just got hands-on with the device, which features a gorgeous 7-inch square touchscreen and built-in Siri AI. It's designe...
+- `The Verge` [Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread](https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce)
+> Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark...
+- `The Verge` [Hands-on with the Apple Home Collection](https://www.theverge.com/tech/1009899/apple-home-collection-hands-on)
+> We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's "Welcome Home" event on Tuesday. The six new devices are part o...
+- `The Verge` [Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon)
+> After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Go...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
