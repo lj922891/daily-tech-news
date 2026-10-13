@@ -4,12 +4,18 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-12
+# 📰 每日科技日报 — 2026-10-13
 
-> 自动收集于 2026-10-12 20:29 | 共 40 条
+> 自动收集于 2026-10-13 06:23 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [迈上生态新台阶，首期 Apple 应用孵化器顺利收官](https://sspai.com/post/116028)
+> 为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。查看全文
+- `少数派` [高端，不只是材质而已：Apple Watch Edition 的前世今生](https://sspai.com/post/114561)
+> Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。查看全文
+- `少数派` [派早报：一加发布一加 16，Google 推出 Fitbit Edge 等](https://sspai.com/post/116033)
+> 少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/115934)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注](https://sspai.com/post/115242)
@@ -24,65 +30,60 @@
 > 把决定使用时长的时机，放到每次打开应用之前。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/115566)
 > 📅本周新预告《寒夜怪谈》新预告10月1日，电影《寒夜怪谈》发布了新预告，将于11月13日在北美上映。缇·威斯特（《X》《珀尔》《玛克辛》）执导，约翰尼·德普回归奇幻巨制，将狄更斯名著《圣诞颂歌》改编为 ...查看全文
-- `少数派` [vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧](https://sspai.com/post/115456)
-> 让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。查看全文
-- `少数派` [App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts](https://sspai.com/post/114869)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等](https://sspai.com/post/115532)
-> XMG 发布 PRO 18 系列笔记本、OpenAI 宣布在 ChatGPT 上线 GPT-6 模型查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Writing a Demoscene Intro for the ZX Spectrum](https://www.markround.com/blog/2026/zx-spectrum-intro)
-> Article URL: https://www.markround.com/blog/2026/zx-spectrum-intro
-Comments URL: https://news.ycombinator.com/item?id=50061859
-Points: 3
-# Comments: 0
-- `Hacker News` [AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai)
-> Article URL: https://www.anthropic.com/research/self-replicating-ai
-Comments URL: https://news.ycombinator.com/item?id=50061603
-Points: 43
-# Comments: 37
-- `Hacker News` [Introducing OpenFatigue](https://openfatigue.ai/)
-> Article URL: https://openfatigue.ai/
-Comments URL: https://news.ycombinator.com/item?id=50061278
-Points: 78
-# Comments: 15
-- `Hacker News` [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
-> Article URL: https://github.com/openai/codex/issues/48195
-Comments URL: https://news.ycombinator.com/item?id=50060694
-Points: 237
-# Comments: 143
-- `Hacker News` [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
-> Article URL: https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback
-Comments URL: https://news.ycombinator.com/item?id=50060674
-Points: 47
-# Comments: 26
-- `Hacker News` [My Reddit AMA on the Law of Web Scraping](https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm)
-> Article URL: https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm
-Comments URL: https://news.ycombinator.com/item?id=50060296
-Points: 36
-# Comments: 5
-- `Hacker News` ['AI' Is Not a Tool by Rich Hickey](https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02)
-> Article URL: https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02
-Comments URL: https://news.ycombinator.com/item?id=50060269
-Points: 41
+- `Hacker News` [Threat of AI share crash puts world financial stability at risk, says IMF](https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks)
+> Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks
+Comments URL: https://news.ycombinator.com/item?id=50067356
+Points: 5
+# Com...
+- `Hacker News` [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
+> Article URL: https://www.patreon.com/vihart/posts/vi-harts-big-171939430
+Comments URL: https://news.ycombinator.com/item?id=50067098
+Points: 10
+# Comments: 3
+- `Hacker News` [A look at OpenAI’s math that’s claimed computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms)
+> Article URL: https://www.argmin.net/p/faster-fourier-transforms
+Comments URL: https://news.ycombinator.com/item?id=50065932
+Points: 85
+# Comments: 58
+- `Hacker News` [The Dock on Mac, from OS 10 to macOS 27](https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/)
+> Article URL: https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/
+Comments URL: https://news.ycombinator.com/item?id=50065713
+Points: 48
+# Comments: 25
+- `Hacker News` [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
+> Article URL: https://arxiv.org/abs/2610.13928
+Comments URL: https://news.ycombinator.com/item?id=50065692
+Points: 110
+# Comments: 53
+- `Hacker News` [Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)
+> Article URL: https://github.com/bherbruck/solidcraft
+Comments URL: https://news.ycombinator.com/item?id=50064840
+Points: 27
+# Comments: 1
+- `Hacker News` [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
+> https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/
+
+Comments URL: https://news.ycombinator.com/item?id=50064536
+Points: 140
+# Comments: 92
+- `Hacker News` [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
+> Article URL: https://github.com/andrewfader/blokkily
+Comments URL: https://news.ycombinator.com/item?id=50064438
+Points: 39
 # Comments: 17
-- `Hacker News` [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
-> Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/
-Comments URL: https://news.ycombinator.com/item?id=50059523
-Points: 183
-# Comments: 143
-- `Hacker News` [Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer](https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/)
-> Article URL: https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/
-Comments URL: https://news.ycombinator.com/item?id=50059446
-Points: 90
-# Comment...
-- `Hacker News` [Thinking will become a hobby](https://www.spinellis.gr/blog/20261008/?li261008)
-> Article URL: https://www.spinellis.gr/blog/20261008/?li261008
-Comments URL: https://news.ycombinator.com/item?id=50059204
-Points: 129
-# Comments: 150
+- `Hacker News` [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
+> Article URL: https://github.com/prabanta-dev/janas
+Comments URL: https://news.ycombinator.com/item?id=50063717
+Points: 92
+# Comments: 31
+- `Hacker News` [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+> Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/
+Comments URL: https://news.ycombinator.com/item?id=50063427
+Points: 327
+# Comments: 273
 - `TechCrunch` [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)
 > Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on comp...
 - `TechCrunch` [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
@@ -103,6 +104,8 @@ Points: 129
 > One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech com...
 - `TechCrunch` [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
 > TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.
+- `The Verge` [The Social Reckoning is flopping at the box office](https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy)
+> As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network onl...
 - `The Verge` [Meta has some Wonder Full new AI models](https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model)
 > Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new mo...
 - `The Verge` [Elon Musk has donated over $276 million to Republican midterm efforts](https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations)
@@ -121,8 +124,6 @@ Points: 129
 > The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. ...
 - `The Verge` [The Fitbit Edge is for folks who don’t want to go totally screenless](https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker)
 > The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official. The tracker sits smack-dab between the recently launched Fitbit Air and the more p...
-- `The Verge` [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)
-> Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the "primary AI inference system" for Microsoft's products and services. Maia 300 not only improves the cost...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
