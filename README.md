@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-13
+# 📰 每日科技日报 — 2026-10-14
 
-> 自动收集于 2026-10-13 18:34 | 共 40 条
+> 自动收集于 2026-10-14 04:24 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒](https://sspai.com/post/92653)
+> Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文
+- `少数派` [派早报：Apple 发布 HomePod mini 2、HomeView 等新品](https://sspai.com/post/116138)
+> Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文
 - `少数派` [社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议](https://sspai.com/post/116068)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App](https://sspai.com/post/115400)
@@ -26,95 +30,97 @@
 > iOS 27 对家长控制和儿童账户体系进行了进一步完善，让对儿童的设备管理从过去偏重「限制监控」，逐步转向更加系统级别的「管理保护」。查看全文
 - `少数派` [怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小](https://sspai.com/post/114821)
 > 来看看一种消失已久的笔记本。查看全文
-- `少数派` [派早报：工信部等就进一步加强汽车产品创新设计管理征求意见](https://sspai.com/post/115845)
-> 工信部等就进一步加强汽车产品创新设计管理征求意见三季度全球 PC 出货量骤降法国判决 Cloudflare 无须通过 DNS 屏蔽盗版Anthropic 宣布切断内部评估环境的互联网访问权限AI 助力老游戏移植到浏览器3C 证书大面积暂停，电动自行车销售接近停滞看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复](https://sspai.com/post/115568)
-> 前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Show HN: XY Music Notation](https://music.xy.dev/)
-> I've been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it.The idea is to represent each note in ...
-- `Hacker News` [Coris (YC S22) Is Hiring Back End Engineer](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
-> Article URL: https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations
-Comments URL: https://news.ycombinator.com/item?id=50074969
-Points:...
-- `Hacker News` [Show HN: How Random Are You?](https://lab.specr.net/rigged-draw/)
-> Article URL: https://lab.specr.net/rigged-draw/
-Comments URL: https://news.ycombinator.com/item?id=50074909
-Points: 16
-# Comments: 8
-- `Hacker News` [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)
-> Article URL: https://developers.googleblog.com/gemini-4-argon-for-robotics/
-Comments URL: https://news.ycombinator.com/item?id=50074869
-Points: 48
-# Comments: 8
-- `Hacker News` [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)
-> Article URL: https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24
-Comments URL: https://news.ycombinator.com/item?id=50074289
-Points: 79
-# Comments...
-- `Hacker News` [Gemini 4 Argon](https://deepmind.google/models/gemini/)
-> Article URL: https://deepmind.google/models/gemini/
-Comments URL: https://news.ycombinator.com/item?id=50073879
-Points: 482
-# Comments: 367
-- `Hacker News` [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
-> Article URL: https://www.anthropic.com/engineering/redesigning-source-control
-Comments URL: https://news.ycombinator.com/item?id=50073633
-Points: 114
-# Comments: 84
-- `Hacker News` [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471)
-> Hey Hacker News! I'm Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure.
-Consus itself satisfies ITAR re...
-- `Hacker News` [I posted to HN, and then my website was flooded with AI bot traffic](https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic)
-> Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic
-Comments URL: https://news.ycombinator.com/item?id=50073221
-Points: 112
-# Comments: 72
-- `Hacker News` [The United Kingdom Generates Less Electricity per Person Than in the 1970s](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak)
-> Article URL: https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak
-Comments URL: https://news.ycombinator....
-- `TechCrunch` [Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field](https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/)
-> Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.
-- `TechCrunch` [Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads](https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/)
-> Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.
-- `TechCrunch` [Facebook is giving users more control over their algorithm](https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/)
-> Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds.  Meta announced the launch of its new AI-powered feat...
-- `TechCrunch` [Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt...](https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/)
-> Longshot is trying to build a gun big enough to make space data centers a reality.
-- `TechCrunch` [Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)
-> University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing ...
-- `TechCrunch` [Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/)
-> The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping securit...
-- `TechCrunch` [MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt](https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/)
-> Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.
-- `TechCrunch` [Google Play now lets anyone build private, vibe-coded apps that run on Android](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/)
-> Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.
-- `TechCrunch` [SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
-> Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.
-- `TechCrunch` [The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between](https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/)
-> Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.
+- `Hacker News` [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
+> Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/
+Comments URL: https://news.ycombinator.com/item?id=50081930
+Points: 9
+# Comments: 0
+- `Hacker News` [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)
+> Article URL: https://blumify.io/people
+Comments URL: https://news.ycombinator.com/item?id=50081151
+Points: 38
+# Comments: 24
+- `Hacker News` [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
+> Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/
+Comments URL: https://news.ycombinator.com/item?id=50081133
+Points: 36
+# Comments: 6
+- `Hacker News` [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
+> Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger...
+- `Hacker News` [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
+> Article URL: https://anitab.org/press-release
+Comments URL: https://news.ycombinator.com/item?id=50080007
+Points: 35
+# Comments: 3
+- `Hacker News` [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
+> Article URL: https://www.cphiri.dev/presentations/recreational-programming
+Comments URL: https://news.ycombinator.com/item?id=50079865
+Points: 97
+# Comments: 32
+- `Hacker News` [AlphaNIST](https://alpha-nist.github.io/)
+> Article URL: https://alpha-nist.github.io/
+Comments URL: https://news.ycombinator.com/item?id=50079464
+Points: 57
+# Comments: 14
+- `Hacker News` [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
+> Article URL: https://www.pi.website/blog/api-beta
+Comments URL: https://news.ycombinator.com/item?id=50079437
+Points: 47
+# Comments: 0
+- `Hacker News` [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
+> Article URL: https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0
+Comments URL: https://news.ycombinator.com/item?id=50078686
+Points: 0
+# Comments: 0
+- `Hacker News` [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
+> https://x.com/OpenAINewsroom/status/2110095403198849132
+
+Comments URL: https://news.ycombinator.com/item?id=50078141
+Points: 473
+# Comments: 410
+- `TechCrunch` [Justice Department says North Koreans have infiltrated dozens of U.S. companies](https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/)
+> U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.
+- `TechCrunch` [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
+> Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (B...
+- `TechCrunch` [Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)
+> Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
+- `TechCrunch` [Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)
+> Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
+- `TechCrunch` [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/)
+> Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out it...
+- `TechCrunch` [Helix Carbon says it can make iron cheaper by recycling blast furnace pollution](https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/)
+> The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.
+- `TechCrunch` [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/)
+> It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to "capture sensitive communications about the company’s super intelligence te...
+- `TechCrunch` [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)
+> A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.
+- `TechCrunch` [Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/)
+> Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.
+- `TechCrunch` [Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt](https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/)
+> Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.
+- `The Verge` [Apple’s HomeView ad is confusing to everyone except parents](https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction)
+> Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess,...
+- `The Verge` [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device)
+> An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-o...
+- `The Verge` [It looks like Apple Music is getting a new icon](https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta)
+> Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slight...
+- `The Verge` [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents)
+> More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers confi...
+- `The Verge` [Xbox is officially embracing the chaos of AI-powered game ports](https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration)
+> Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different gam...
+- `The Verge` [The Nothing Headphone A are half off for the first time](https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale)
+> One of the best deals we’ve seen today bundles together a great pair of headphones with a solid album. When you add the Nothing Headphone A in black or white and the CD version of the Charli XCX al...
+- `The Verge` [Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex](https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy)
+> Days after Ukrainian military drones took down several Russian data centers, President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation efforts. "It suddenly became a ...
+- `The Verge` [Rivian partner Mind Robotics hires Doug Field as president](https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple)
+> Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. Field was a VP of special projects at A...
 - `The Verge` [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)
 > The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha la...
 - `The Verge` [The feds are looking into reports of Tesla’s robotaxis speeding through school zones](https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation)
 > The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding "posted speed limits in activ...
-- `The Verge` [The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever](https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale)
-> If you’re looking for an e-reader that can easily fit in your pocket (or snap onto your magnet-equipped phone), the tiny Xteink X4 Pro might be worth a look. It features a 4.26-inch, 800 x 48...
-- `The Verge` [Facebook will let you customize your feed algorithm using AI](https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai)
-> Facebook's new "Your Algorithm" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations "respond right away" after you ma...
-- `The Verge` [Google makes it easier to launch your vibe-coded apps](https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch)
-> The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will al...
-- `The Verge` [A redesigned Play Store is coming to cars with Google built-in](https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store)
-> The Google Play Store is getting a big update for cars with Google built-in. On Tuesday, the company announced that the Play Store's layout will now automatically adapt to the size and layout of yo...
-- `The Verge` [I tried out Apple’s HomeView smart display](https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on)
-> Apple has just announced the HomeView, its first smart home display - and I just got hands-on with the device, which features a gorgeous 7-inch square touchscreen and built-in Siri AI. It's designe...
-- `The Verge` [Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread](https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce)
-> Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark...
-- `The Verge` [Hands-on with the Apple Home Collection](https://www.theverge.com/tech/1009899/apple-home-collection-hands-on)
-> We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's "Welcome Home" event on Tuesday. The six new devices are part o...
-- `The Verge` [Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon)
-> After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Go...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
