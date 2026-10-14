@@ -6,10 +6,18 @@
 
 # 📰 每日科技日报 — 2026-10-14
 
-> 自动收集于 2026-10-14 04:24 | 共 40 条
+> 自动收集于 2026-10-14 16:02 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [认知心理学背后的播客剪辑技巧](https://sspai.com/post/114861)
+> 为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？查看全文
+- `少数派` [带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验](https://sspai.com/post/115426)
+> 这些新技术将如何让我们的照片和视频更好？查看全文
+- `少数派` [家中、这里、那里——Sonos Play 体验](https://sspai.com/post/115382)
+> 本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文
+- `少数派` [众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验](https://sspai.com/post/116109)
+> 上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文
 - `少数派` [已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒](https://sspai.com/post/92653)
 > Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文
 - `少数派` [派早报：Apple 发布 HomePod mini 2、HomeView 等新品](https://sspai.com/post/116138)
@@ -22,105 +30,99 @@
 > 为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。查看全文
 - `少数派` [高端，不只是材质而已：Apple Watch Edition 的前世今生](https://sspai.com/post/114561)
 > Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。查看全文
-- `少数派` [派早报：一加发布一加 16，Google 推出 Fitbit Edge 等](https://sspai.com/post/116033)
-> 少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互 ...查看全文
-- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/115934)
-> >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注](https://sspai.com/post/115242)
-> iOS 27 对家长控制和儿童账户体系进行了进一步完善，让对儿童的设备管理从过去偏重「限制监控」，逐步转向更加系统级别的「管理保护」。查看全文
-- `少数派` [怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小](https://sspai.com/post/114821)
-> 来看看一种消失已久的笔记本。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
-> Article URL: https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/
-Comments URL: https://news.ycombinator.com/item?id=50081930
-Points: 9
-# Comments: 0
-- `Hacker News` [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)
-> Article URL: https://blumify.io/people
-Comments URL: https://news.ycombinator.com/item?id=50081151
-Points: 38
-# Comments: 24
-- `Hacker News` [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
-> Article URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/
-Comments URL: https://news.ycombinator.com/item?id=50081133
+- `Hacker News` [Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
+> Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/
+Comments URL: https://news.ycombinator.com/item?id=50089395
+Points: 6
+# Comments: 1
+- `Hacker News` [Passkeys Are Not a Trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
+> Article URL: https://scotthelme.co.uk/passkeys-are-not-a-trap/
+Comments URL: https://news.ycombinator.com/item?id=50088935
+Points: 164
+# Comments: 158
+- `Hacker News` [Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)
+> Article URL: https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation
+Comments URL: https://news.ycombinator.com/item?id=50088643
+Points: 15
+# Comments: 4
+- `Hacker News` [AI is mass decompiling games. That's both awesome and scary](https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/)
+> Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/
+Comments URL: https://news.ycombinator.com/item?id=50088534
+Points: 15
+# Comments: 5
+- `Hacker News` [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
+> Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/
+Comments URL: https://news.ycombinator.com/item?id=50088430
+Points: 76
+# Comments...
+- `Hacker News` [Apple Keynote now showing ads in its UI](https://mastodon.social/@marioguzman/117436264149891011)
+> Article URL: https://mastodon.social/@marioguzman/117436264149891011
+Comments URL: https://news.ycombinator.com/item?id=50087524
 Points: 36
-# Comments: 6
-- `Hacker News` [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
-> Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger...
-- `Hacker News` [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
-> Article URL: https://anitab.org/press-release
-Comments URL: https://news.ycombinator.com/item?id=50080007
-Points: 35
-# Comments: 3
-- `Hacker News` [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
-> Article URL: https://www.cphiri.dev/presentations/recreational-programming
-Comments URL: https://news.ycombinator.com/item?id=50079865
-Points: 97
+# Comments: 5
+- `Hacker News` [Eric Binnion has died](https://ma.tt/2026/10/rip-eric/)
+> Article URL: https://ma.tt/2026/10/rip-eric/
+Comments URL: https://news.ycombinator.com/item?id=50087044
+Points: 71
+# Comments: 30
+- `Hacker News` [The Aaronson Oracle](https://aaronsonoracle.com/)
+> Article URL: https://aaronsonoracle.com/
+Comments URL: https://news.ycombinator.com/item?id=50086484
+Points: 36
 # Comments: 32
-- `Hacker News` [AlphaNIST](https://alpha-nist.github.io/)
-> Article URL: https://alpha-nist.github.io/
-Comments URL: https://news.ycombinator.com/item?id=50079464
-Points: 57
-# Comments: 14
-- `Hacker News` [Physical Intelligence API Beta: Frontier Models for Every Robot](https://www.pi.website/blog/api-beta)
-> Article URL: https://www.pi.website/blog/api-beta
-Comments URL: https://news.ycombinator.com/item?id=50079437
-Points: 47
+- `Hacker News` [Nvidia's first GPU: GeForce 256](https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/)
+> Article URL: https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/
+Comments URL: https://news.ycombinator.com/item?id=50086363
+Points: 6
 # Comments: 0
-- `Hacker News` [PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
-> Article URL: https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0
-Comments URL: https://news.ycombinator.com/item?id=50078686
-Points: 0
-# Comments: 0
-- `Hacker News` [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
-> https://x.com/OpenAINewsroom/status/2110095403198849132
-
-Comments URL: https://news.ycombinator.com/item?id=50078141
-Points: 473
-# Comments: 410
-- `TechCrunch` [Justice Department says North Koreans have infiltrated dozens of U.S. companies](https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/)
+- `Hacker News` [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
+> Article URL: https://github.com/timescale/pg_vectorsearch
+Comments URL: https://news.ycombinator.com/item?id=50086165
+Points: 110
+# Comments: 34
+- `TechCrunch` [Prismm helps banks keep inherited money in-house](https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/)
+> With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.
+- `TechCrunch` [Deezer will soon let you filter out AI-generated music](https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/)
+> Deezer said that the new toggle will be rolled out by the end of the year.
+- `TechCrunch` [Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Mos...](https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/)
+> Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physica...
+- `TechCrunch` [Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace](https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/)
+> Zenzap is used by organizations including Starbucks and Taco Bell.
+- `TechCrunch` [Floqer’s AI agents research sales prospects so teams don’t have to](https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/)
+> The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.
+- `TechCrunch` [Netflix to lay off 1,000 staff amid intensifying competition for user attention](https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/)
+> Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.
+- `TechCrunch` [TechCrunch Disrupt 2026: Day 2](https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/)
+> Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.
+- `TechCrunch` [NTangible bets it can predict how athletes will perform under pressure](https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/)
+> NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's "clutch" factor.
+- `TechCrunch` [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
+> Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.
+- `TechCrunch` [Justice Department says North Koreans have infiltrated dozens of US companies](https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/)
 > U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.
-- `TechCrunch` [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
-> Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (B...
-- `TechCrunch` [Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)
-> Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
-- `TechCrunch` [Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)
-> Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
-- `TechCrunch` [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/)
-> Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out it...
-- `TechCrunch` [Helix Carbon says it can make iron cheaper by recycling blast furnace pollution](https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/)
-> The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.
-- `TechCrunch` [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/)
-> It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to "capture sensitive communications about the company’s super intelligence te...
-- `TechCrunch` [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)
-> A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.
-- `TechCrunch` [Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/)
-> Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.
-- `TechCrunch` [Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt](https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/)
-> Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.
-- `The Verge` [Apple’s HomeView ad is confusing to everyone except parents](https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction)
-> Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess,...
-- `The Verge` [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device)
-> An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-o...
-- `The Verge` [It looks like Apple Music is getting a new icon](https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta)
-> Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slight...
-- `The Verge` [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents)
-> More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers confi...
-- `The Verge` [Xbox is officially embracing the chaos of AI-powered game ports](https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration)
-> Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different gam...
-- `The Verge` [The Nothing Headphone A are half off for the first time](https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale)
-> One of the best deals we’ve seen today bundles together a great pair of headphones with a solid album. When you add the Nothing Headphone A in black or white and the CD version of the Charli XCX al...
-- `The Verge` [Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex](https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy)
-> Days after Ukrainian military drones took down several Russian data centers, President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation efforts. "It suddenly became a ...
-- `The Verge` [Rivian partner Mind Robotics hires Doug Field as president](https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple)
-> Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. Field was a VP of special projects at A...
-- `The Verge` [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)
-> The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha la...
-- `The Verge` [The feds are looking into reports of Tesla’s robotaxis speeding through school zones](https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation)
-> The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding "posted speed limits in activ...
+- `The Verge` [Android is using AI to suss out scammers in Google Messages](https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages)
+> Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Bui...
+- `The Verge` [Anthropic’s self-replicating AI warning is alarming deja vu](https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk)
+> Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-repl...
+- `The Verge` [Netflix is laying off around 1,000 employees](https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees)
+> Following a report last week that Netflix was planning to lay off five percent of the company, today the streamer's co-CEOs Ted Sarandos and Greg Peters announced in an email that it would actually...
+- `The Verge` [HomeView doesn’t natively support any video apps yet — not even Apple’s](https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming)
+> Apple says HomeView is "the perfect way" to enjoy its audio and video entertainment apps, but some notable examples like Apple TV only work if you AirPlay it through your iPhone. As noted on the Ho...
+- `The Verge` [Ukraine claims Starlink is suddenly disrupting service for its military](https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions)
+> Ukrainian officials claim the Elon Musk-owned Starlink put new limits on its service in the area without warning, disrupting the country's drone operations and missions, according to reports from R...
+- `The Verge` [$15 gets you Psychonauts 2, the latest Like a Dragon game, and more](https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale)
+> There are several deals happening right now on video games and gaming-related tech that are worth sharing. To start, this month’s Humble Choice drop of Steam PC games is really good. The $14.99 per...
+- `The Verge` [Apple’s new Find My-compatible remote will also work with your old Apple TV](https://www.theverge.com/gadgets/1011069/apple-tv-remote-find-my)
+> You don't need to buy the new Apple TV 4K just to get the updated Siri Remote with Find My and a built-in speaker, as it works with every model released going back to the Apple TV HD and is availab...
+- `The Verge` [Halo’s co-creator wrote a novel about AI taking over the world](https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny)
+> Back in 2019, author Margaret Stohl was handed a manuscript written by Jason Jones, who's best known as the co-creator of sci-fi gaming series Halo and Destiny. The two had worked together at Bungi...
+- `The Verge` [Epic’s new games launcher is ‘vibe coded’](https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux)
+> Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is "way faster" and now supports Linux. But the company, which has been publicly making...
+- `The Verge` [Epic is bringing Fortnite to Linux](https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat)
+> Epic is working on bringing Fortnite to Linux through its Epic Games Launcher. The new launcher is releasing in preview today, and for the first time on Linux, and while Fortnite isn't available th...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
