@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-15
+# 📰 每日科技日报 — 2026-10-16
 
-> 自动收集于 2026-10-15 15:50 | 共 40 条
+> 自动收集于 2026-10-16 04:02 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688)
+> 从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。查看全文
+- `少数派` [派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本](https://sspai.com/post/116355)
+> SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文
 - `少数派` [新玩意 253｜少数派的编辑们最近买了啥？](https://sspai.com/post/116246)
 > 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
 - `少数派` [顺应变化，重申标准：《少数派创作手册》修订说明](https://sspai.com/post/116181)
@@ -26,102 +30,97 @@
 > 这些新技术将如何让我们的照片和视频更好？查看全文
 - `少数派` [家中、这里、那里——Sonos Play 体验](https://sspai.com/post/115382)
 > 本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文
-- `少数派` [众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验](https://sspai.com/post/116109)
-> 上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文
-- `少数派` [已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒](https://sspai.com/post/92653)
-> Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Celebrating 70 Years of Fortran](https://fortran-lang.org/news/2026/09-15-Fortran-birthday/)
-> Article URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/
-Comments URL: https://news.ycombinator.com/item?id=50104726
-Points: 32
-# Comments: 8
-- `Hacker News` [Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
-> Article URL: https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/
-Comments URL: https://news.ycombinator.com/item?id=50104654
-Points: ...
-- `Hacker News` [Siri is so bad at everything](https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/)
-> Article URL: https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/
-Comments URL: https://news.ycombinator.com/item?id=50104465
-Points: 56
-# Comments: 33
-- `Hacker News` [Prompt injection in HTTP headers: what 217M web responses show](https://www.signalscorps.com/blog/prompt-injection-in-http-headers/)
-> Article URL: https://www.signalscorps.com/blog/prompt-injection-in-http-headers/
-Comments URL: https://news.ycombinator.com/item?id=50104310
-Points: 23
-# Comments: 5
-- `Hacker News` [Using AI to reverse engineer hardware](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
-> Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/
-Comments URL: https://news.ycombinator.com/item?id=50104299
-Points: 26
-# Comments: 10
-- `Hacker News` [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
-> Article URL: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep
-Comments URL: https://news.ycombinator.com/item?id=50103630
-Points: 95
-# Comments: 150
-- `Hacker News` [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
-> Article URL: https://github.com/fyzugx/DEsk
-Comments URL: https://news.ycombinator.com/item?id=50103338
-Points: 143
-# Comments: 42
-- `Hacker News` [GridSnap – an open-source Divvy-style window snapper for macOS](https://github.com/konieczkow/gridsnap)
-> Article URL: https://github.com/konieczkow/gridsnap
-Comments URL: https://news.ycombinator.com/item?id=50103263
-Points: 19
-# Comments: 10
-- `Hacker News` [C++26 Contracts: Introduction to Preconditions and Postconditions](https://www.cppstories.com/2026/cpp26_contracts/)
-> Article URL: https://www.cppstories.com/2026/cpp26_contracts/
-Comments URL: https://news.ycombinator.com/item?id=50103164
-Points: 55
-# Comments: 45
-- `Hacker News` [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
-> Article URL: https://libreboot.org/news/libreboot2610.html
-Comments URL: https://news.ycombinator.com/item?id=50102923
-Points: 140
-# Comments: 63
-- `TechCrunch` [AI agents are coming to Rivian’s cars](https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/)
-> We'll likely learn more about how this will work at the company's upcoming "AI & Autonomy Day" event in December.
-- `TechCrunch` [Ramp reaches $60B valuation as it pushes deeper into AI](https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/)
-> The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.
-- `TechCrunch` [Google’s Universal Cart shopping tool launches in the US](https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/)
-> The new shopping tool is available in the U.S. across Google Search and the Gemini app.
-- `TechCrunch` [TechCrunch Disrupt 2026: Last day](https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/)
-> Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.
-- `TechCrunch` [Amazon’s Bee launches two new personal AI devices, starting at $75](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/)
-> Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize ...
-- `TechCrunch` [Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware](https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/)
-> The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.
-- `TechCrunch` [Figma announces new features to define how agents work on its platform](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)
-> Figma is also releasing its code layers feature in open beta.
-- `TechCrunch` [Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/)
-> The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip ...
-- `TechCrunch` [Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’](https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/)
-> At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.
-- `TechCrunch` [Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026](https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/)
-> It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.
-- `The Verge` [Shelly’s new presence sensor simultaneously detects up to 10 people without a camera](https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera)
-> Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they m...
-- `The Verge` [Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries](https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud)
-> Microsoft has redesigned its Photos app for Windows 11, overhauling the editor and image viewer, and combining photos and videos from your PC, OneDrive, and iCloud into a single space. The new comb...
-- `The Verge` [Trump calls off livestream of execution](https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming)
-> The execution of Fort Hood shooter Nidal Hasan will not be livestreamed as Secretary of Defense Pete Hegseth had previously announced. Donald Trump announced the plan was off in a post on Truth Soc...
-- `The Verge` [How Windows is being optimized for Nvidia’s RTX Spark laptops](https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad)
-> Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on a...
-- `The Verge` [An Israeli firm is sending spyware through online ads, researchers say](https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware)
-> An Israeli ad tech firm worked with spyware companies to infect devices, including at Al Jazeera, by simply showing users an online ad, according to a joint investigation by security researchers at...
-- `The Verge` [Prep your cart before iPhone Duo preorders open tomorrow](https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder)
-> Apple's iPhone Duo foldable phone opens for preorder tomorrow, October 16th, at 8am ET / 5am PT, but you don't have to wait until then to get your order mostly sorted. The company's product page fo...
-- `The Verge` [Nobody is safe from celebrity AI deepfakes](https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth)
-> In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing...
-- `The Verge` [Benn Jordan on Flock, privacy, and the new surveillance backlash](https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy)
-> Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental ...
-- `The Verge` [Some great games to play before GTA VI and Zelda launch](https://www.theverge.com/entertainment/1011816/october-2026-game-reviews-dressmaker-castlevania)
-> You could say we're in the eye of the storm right now. The storm, of course, being the fall and winter release calendar for new video games. Things started out with a hectic few weeks that were pac...
-- `The Verge` [Microsoft says Windows 11 is now ‘more responsive’ and runs better on 8GB of RAM](https://www.theverge.com/news/1011891/microsoft-windows-11-speed-memory-improvements)
-> Earlier this year Microsoft laid out a plan to fix Windows 11, with a focus on performance, reliability, and the overall OS experience. After months of fixes, Microsoft now says the "result is a Wi...
+- `Hacker News` [Comparing Chromium Development at Google and Igalia](https://lwn.net/Articles/1094721/)
+> Article URL: https://lwn.net/Articles/1094721/
+Comments URL: https://news.ycombinator.com/item?id=50112887
+Points: 13
+# Comments: 0
+- `Hacker News` [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
+> Article URL: https://github.com/Saffsanity/sill
+Comments URL: https://news.ycombinator.com/item?id=50112739
+Points: 52
+# Comments: 6
+- `Hacker News` [Thank You, Deno](https://www.vlt.io/blog/competition-keeps-javascript-moving)
+> Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving
+Comments URL: https://news.ycombinator.com/item?id=50112331
+Points: 29
+# Comments: 3
+- `Hacker News` [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+> Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes
+Comments URL: https://news.ycombinator.com/item?id=50112330
+Points: 74
+# Comments: 22
+- `Hacker News` [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+> Article URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/
+Comments URL: https://news.ycombinator.com/item?id=50111852
+Points...
+- `Hacker News` [BeBox is a Haiku application that emulates Be Inc.'s BeBox](https://github.com/johnrash/bebox)
+> Article URL: https://github.com/johnrash/bebox
+Comments URL: https://news.ycombinator.com/item?id=50111742
+Points: 34
+# Comments: 9
+- `Hacker News` [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+> Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/
+Comments URL: https://news.ycombinator.com/item?id=50109715
+Points: 330
+# Comments: 216
+- `Hacker News` [New Withings Users Must Pay $99/Year for Apple Health Syncing](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+> Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts
+Comments URL: https://news.ycombina...
+- `Hacker News` [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
+> Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup
+Comments URL: https://news.ycombinator.com/item?id=50108872
+Points: 269
+# Comments: 128
+- `Hacker News` [E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
+> https://web.archive.org/web/20261015180401/https://www.eink....
+
+Comments URL: https://news.ycombinator.com/item?id=50108229
+Points: 146
+# Comments: 82
+- `TechCrunch` [Tesla reveals SpaceX-powered Roadster that flies and falls with style](https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/)
+> The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.
+- `TechCrunch` [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)
+> The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.
+- `TechCrunch` [And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems](https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/)
+> Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.
+- `TechCrunch` [Amazon devices chief Panos Panay on the importance of failure and bouncing back from it](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/)
+> Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.
+- `TechCrunch` [Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/)
+> Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.
+- `TechCrunch` [Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)
+> Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.
+- `TechCrunch` [Bluesky wants to make it easier to buy, sell, and fundraise on the network](https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/)
+> The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.
+- `TechCrunch` [Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/)
+> METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.
+- `TechCrunch` [Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/)
+> Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network'...
+- `TechCrunch` [Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16](https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/)
+> Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s So...
+- `The Verge` [The Tesla Roadster flew, drove upside down, and hit 60mph in under a second](https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk)
+> Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, ...
+- `The Verge` [Steam can now show game achievements in separate ‘sets’](https://www.theverge.com/games/1012541/valve-steam-achievement-sets)
+> Valve is introducing a major new feature for Steam achievements called "achievement sets" that lets developers list different groups of achievements for a base game and DLCs. "In games that support...
+- `The Verge` [ChatGPT can peek at your Chrome tabs now](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs)
+> OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed,...
+- `The Verge` [Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled)
+> Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by ...
+- `The Verge` [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)
+> Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron...
+- `The Verge` [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column)
+> President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old Whit...
+- `The Verge` [Bluesky’s AI tool now lets you make games and apps to share on social](https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps)
+> Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make "small" social apps like games, polls, and dashboards that you can ...
+- `The Verge` [Withings now charges $100 per year to sync your data to other apps](https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026)
+> If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now goi...
+- `The Verge` [Meta and Apple team up to make Muse AI models run better on Macs](https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx)
+> Meta announced the Muse Spark Open AI model today, claiming that it's the "most capable US open-weight model to date." But the company also says that it's the "the first model in its class" that ca...
+- `The Verge` [Sony made a $5,900 gold-plated Walkman MP3 player](https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player)
+> Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwich...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
