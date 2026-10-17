@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-16
+# 📰 每日科技日报 — 2026-10-17
 
-> 自动收集于 2026-10-16 15:39 | 共 40 条
+> 自动收集于 2026-10-17 03:53 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,75 +33,86 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)
-> Article URL: https://waymo.com/blog/2026/10/waymo-in-toronto/
-Comments URL: https://news.ycombinator.com/item?id=50118981
-Points: 72
-# Comments: 97
-- `Hacker News` [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
-> Article URL: https://calif.io/research/big-fish
-Comments URL: https://news.ycombinator.com/item?id=50118977
-Points: 33
-# Comments: 2
-- `Hacker News` [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)
-> Article URL: https://www.worksinprogress.news/p/porcelain
-Comments URL: https://news.ycombinator.com/item?id=50118828
-Points: 7
+- `Hacker News` [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
+> Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad
+Comments URL: https://news.ycombinator.com/item?id=50127274
+Points: 92
+# Comments: 45
+- `Hacker News` [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
+> Article URL: https://www.flexport.com/company/careers/
+Comments URL: https://news.ycombinator.com/item?id=50126774
+Points: 0
 # Comments: 0
-- `Hacker News` [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
-> I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse
+- `Hacker News` [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org)
+> Hi HN!Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.I came up with this idea a few mon...
+- `Hacker News` [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
+> Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/
+Comments URL: https://news.ycombinator.com/item?id=50125545
+Points: 37
+# Comments: 17
+- `Hacker News` [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
+> Article URL: https://bfl.ai/blog/flux-3-image-klein
+Comments URL: https://news.ycombinator.com/item?id=50123580
+Points: 126
+# Comments: 37
+- `Hacker News` [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
+> Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/
+Comments URL: https://news.ycombinator.com/item?id=50122951
+Points: 261
+# Comments: 249
+- `Hacker News` [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
+> Article URL: https://alexwang.ai/posts/associative-memory/
+Comments URL: https://news.ycombinator.com/item?id=50122878
+Points: 176
+# Comments: 49
+- `Hacker News` [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+> https://words.filippo.io/seeds-solved/
 
-Comments URL: https://news...
-- `Hacker News` [How to make System 1 LLMs show System 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113)
-> Article URL: https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113
-Comments URL: https://news.ycombinator.com/item?id=50118662
-Points: 6
-# Comments: 1
-- `Hacker News` [How to Formalize All of Mathematics](https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/)
-> Article URL: https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/
-Comments URL: https://news.ycombinator.com/item?id=50118512
-Points: 20
-# Comments: 8
-- `Hacker News` [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
-> Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference
-Comments URL: https://news.ycombinator.com/item?id=50118320
-Points: 41
-# Comments: 8
-- `Hacker News` [What was a Token Ring network?](https://dfarq.homeip.net/what-was-a-token-ring-network/)
-> Article URL: https://dfarq.homeip.net/what-was-a-token-ring-network/
-Comments URL: https://news.ycombinator.com/item?id=50118318
-Points: 14
-# Comments: 5
-- `Hacker News` [RFC8950: Announce IPv4 with an IPv6 next-hop](https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/)
-> Article URL: https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/
-Comments URL: https://news.ycombinator.com/item?id=50118267
-Points: 17
-# Comments: 2
-- `Hacker News` [Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities](https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations)
-> Article URL: https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations
-Comments URL: https://news.ycombinator.com/item?id=50117952
-Points: 39
-# Comments: 20
+Comments URL: https://news.ycombinator.com/item?id=50122800
+Points: 737
+# Comments: 282
+- `Hacker News` [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging)
+> Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging
+Comments URL: https://news.ycombinator.com/item?id=50122736
+Points: 75
+# Comments: 11
+- `Hacker News` [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
+> Article URL: https://github.com/cobanov/PS5LM
+Comments URL: https://news.ycombinator.com/item?id=50122431
+Points: 224
+# Comments: 62
+- `TechCrunch` [Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/)
+> Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needi...
+- `TechCrunch` [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
+> Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer wi...
+- `TechCrunch` [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/)
+> The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.
+- `TechCrunch` [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
+> The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.
+- `TechCrunch` [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
+> Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robo...
+- `TechCrunch` [Waymo’s robotaxis are headed to Canada](https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/)
+> The company will start off by testing its self-driving vehicles on Toronto's streets.
+- `TechCrunch` [Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)
+> According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.
+- `TechCrunch` [Tressfecta wants to make hair braiding a less arduous task for hairstylists](https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/)
+> Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.
+- `TechCrunch` [In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder](https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/)
+> Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.
 - `TechCrunch` [Jev is Vercel’s fastest-adopted AI model ever](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/)
-> The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.
-- `TechCrunch` [Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his l...](https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/)
-> Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used "to enhance what you're doing."
-- `TechCrunch` [Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/)
-> Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as "superfakes," as genuine items. A startup called Veritas wants to tackle the problem with its own chip...
-- `TechCrunch` [Replit’s CEO says the future of work is the ‘self-driving company’](https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/)
-> Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.
-- `TechCrunch` [Even Benchmark thinks AI is eroding the venture pact against backing rivals](https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/)
-> Benchmark says the Valley’s rule against backing rivals is getting harder to keep.
-- `TechCrunch` [Tesla reveals SpaceX-powered Roadster that flies and falls with style](https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/)
-> The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.
-- `TechCrunch` [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)
-> The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.
-- `TechCrunch` [And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems](https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/)
-> Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.
-- `TechCrunch` [Amazon devices chief Panos Panay on the importance of failure and bouncing back from it](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/)
-> Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.
-- `TechCrunch` [Meta launches an open-weight AI model that runs on Macs](https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/)
-> Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.
+> The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.
+- `The Verge` [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)
+> Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and bare...
+- `The Verge` [Apple’s updated App Store rules go after ‘nudify’ AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment)
+> Apple's App Store rules now more explicitly ban so-called "nudify" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism t...
+- `The Verge` [We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli)
+> Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out...
+- `The Verge` [Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash)
+> After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that "Despite its name, full self-driving is not full...
+- `The Verge` [Why Apple is finally making its own smart home devices](https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home)
+> For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats...
+- `The Verge` [The new Apple TV 4K just got its first (very small) discount](https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale)
+> Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box ...
 - `The Verge` [Apple’s HomeView has an app problem](https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast)
 > It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing...
 - `The Verge` [Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades](https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus)
@@ -110,18 +121,6 @@ Points: 39
 > After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a "sponsored" slot above the real version. As reported earli...
 - `The Verge` [A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions)
 > Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new "superchip." RTX Spark is designed to be a high-p...
-- `The Verge` [The incredible flying Tesla Roadster is just for show](https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk)
-> Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air "kickflip" over a lineup of Teslas, and landing via...
-- `The Verge` [Meta’s new terms may allow it to train AI on news sites for free](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers)
-> Meta's new terms appear to give it permission to crawl and scrape websites "associated" with the businesses that use its platforms - including online publishers, according to a report from Nieman L...
-- `The Verge` [This stretchy MagSafe storage pouch gives your phone a sizable trunk](https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage)
-> There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The Ma...
-- `The Verge` [iPhone Duo orders are already delayed into 2027](https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay)
-> Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery...
-- `The Verge` [The Sony Xperia 10 VI won’t be getting a promised update to Android 17](https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security)
-> When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this y...
-- `The Verge` [The first vibe-coded gun is here](https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson)
-> Since gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in a chaotic era of untraceable ghost guns. Now he's claiming...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
