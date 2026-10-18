@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-10-18
 
-> 自动收集于 2026-10-18 03:59 | 共 40 条
+> 自动收集于 2026-10-18 14:58 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [Quote/0 妙用 +1，把墨水屏变成点餐助手](https://sspai.com/post/115241)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？](https://sspai.com/post/104231)
 > 这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/116423)
@@ -28,58 +30,53 @@
 > 四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...查看全文
 - `少数派` [学得会的快捷指令，零基础入门苹果效率魔法](https://sspai.com/post/116182)
 > 快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...查看全文
-- `少数派` [App+1｜Mangata：把每次散步当作一次探索旅行](https://sspai.com/post/115238)
-> 不一定要拍满，也不一定要发。走完看看留下了什么，就够了。查看全文
 
 ## 🌍 国际科技
 
+- `Hacker News` [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
+> Article URL: https://github.com/VikOlliver/RepRapMicron/wiki
+Comments URL: https://news.ycombinator.com/item?id=50141076
+Points: 44
+# Comments: 5
+- `Hacker News` [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
+> Article URL: https://github.com/0x23/MicroManipulatorStepper
+Comments URL: https://news.ycombinator.com/item?id=50140001
+Points: 66
+# Comments: 5
+- `Hacker News` [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
+> Article URL: https://terriblesoftware.org/2026/10/02/the-brain-sandwich/
+Comments URL: https://news.ycombinator.com/item?id=50139998
+Points: 9
+# Comments: 3
+- `Hacker News` [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
+> Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/
+Comments URL: https://news.ycombinator.com/item?id...
+- `Hacker News` [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)
+> Article URL: https://t3.at/blog/2026-10-17-parser-combinators/
+Comments URL: https://news.ycombinator.com/item?id=50139067
+Points: 108
+# Comments: 48
+- `Hacker News` [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
+> Article URL: https://api-docs.deepseek.com/guides/search/
+Comments URL: https://news.ycombinator.com/item?id=50138531
+Points: 359
+# Comments: 181
+- `Hacker News` [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
+> FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.
+
+Co...
+- `Hacker News` [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
+> Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything
+Comments URL: https://news.ycombinator.com/item?id=50137620
+Points: 231
+# Comments: 282
 - `Hacker News` [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
 > Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-...
-- `Hacker News` [JDK 28](https://openjdk.org/projects/jdk/28/)
-> Article URL: https://openjdk.org/projects/jdk/28/
-Comments URL: https://news.ycombinator.com/item?id=50135379
-Points: 84
-# Comments: 33
-- `Hacker News` [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
-> Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/
-Comments URL: https://news.ycombinator.com/item?id=50134617
-Points: 99
-# Comments: 106
 - `Hacker News` [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
 > Article URL: https://github.com/openai/codex/issues/25921
 Comments URL: https://news.ycombinator.com/item?id=50133231
-Points: 96
-# Comments: 33
-- `Hacker News` [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
-> Article URL: https://www.derekwessman.com/blog-1/natural
-Comments URL: https://news.ycombinator.com/item?id=50133150
-Points: 171
-# Comments: 78
-- `Hacker News` [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
-> Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export
-Comments URL: https://news.ycombinator.com/item?id=50132870
-Points: 266
-# Comments: 135
-- `Hacker News` [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers)
-> Article URL: https://www.artie.com/careers
-Comments URL: https://news.ycombinator.com/item?id=50132839
-Points: 0
-# Comments: 0
-- `Hacker News` [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
-> Article URL: https://pele.run/
-Comments URL: https://news.ycombinator.com/item?id=50132193
-Points: 299
-# Comments: 27
-- `Hacker News` [Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
-> Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/
-Comments URL: https://news.ycombinator.com/item?id=50131256
-Points: 508
-# Comments: 320
-- `Hacker News` [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
-> Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using
-Comments URL: https://news.ycombinator.com/item?id=50131213
-Points: 271
-# Comments: 68
+Points: 155
+# Comments: 70
 - `TechCrunch` [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
 > A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.
 - `TechCrunch` [TikTok permanently bans ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/)
@@ -100,6 +97,14 @@ Points: 271
 > Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robo...
 - `TechCrunch` [Waymo’s robotaxis are headed to Canada](https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/)
 > The company will start off by testing its self-driving vehicles on Toronto's streets.
+- `The Verge` [Trump says Google kisses his ass](https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass)
+> During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accom...
+- `The Verge` [The best gadget I bought this year is a milk frother](https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget)
+> Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for it...
+- `The Verge` [How overhead projectors took over your classroom](https://www.theverge.com/podcast/1013473/overhead-projector-version-history)
+> It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for mi...
+- `The Verge` [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arri...
 - `The Verge` [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
 > Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. ...
 - `The Verge` [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
@@ -112,14 +117,6 @@ Points: 271
 > If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pik...
 - `The Verge` [Jad Abumrad loves a butterfly knife and a good springy pillow](https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview)
 > It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unpreceden...
-- `The Verge` [SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon](https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile)
-> Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. La...
-- `The Verge` [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
-> Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservatio...
-- `The Verge` [Bose’s new wired earbuds are simple in the best way](https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review)
-> After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and the...
-- `The Verge` [Apple’s HomeView is just the latest threat to online recipe writers](https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting)
-> When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic m...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
