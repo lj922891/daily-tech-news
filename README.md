@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-17
+# 📰 每日科技日报 — 2026-10-18
 
-> 自动收集于 2026-10-17 14:30 | 共 40 条
+> 自动收集于 2026-10-18 03:59 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,60 +33,65 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
-> Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/
-Comments URL: https://news.ycombinator.com/item?id=50131256
-Points: 28
-# Comments: 7
-- `Hacker News` [MapQuest will now show you where Flock cameras are in your neighborhood](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/)
-> Article URL: https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/
-Comments URL: https://news.ycombinator.com/item?id=50129947
-Points: 21
-# Comme...
-- `Hacker News` [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
-> Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017
-Comments URL: https://news.ycombinator.com/item?id=50129121
-Points: 388
-# Comments: 175
-- `Hacker News` [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
-> Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
-Comments URL: https://news.ycombinator.com/item?id=50129045
-Points: 293
-# Comments: 113
-- `Hacker News` [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
-> Article URL: https://llmspeed.dev/
-Comments URL: https://news.ycombinator.com/item?id=50127979
-Points: 155
-# Comments: 51
-- `Hacker News` [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
-> Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad
-Comments URL: https://news.ycombinator.com/item?id=50127274
-Points: 308
-# Comments: 175
-- `Hacker News` [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
-> Article URL: https://www.flexport.com/company/careers/
-Comments URL: https://news.ycombinator.com/item?id=50126774
+- `Hacker News` [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
+> Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-...
+- `Hacker News` [JDK 28](https://openjdk.org/projects/jdk/28/)
+> Article URL: https://openjdk.org/projects/jdk/28/
+Comments URL: https://news.ycombinator.com/item?id=50135379
+Points: 84
+# Comments: 33
+- `Hacker News` [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
+> Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/
+Comments URL: https://news.ycombinator.com/item?id=50134617
+Points: 99
+# Comments: 106
+- `Hacker News` [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
+> Article URL: https://github.com/openai/codex/issues/25921
+Comments URL: https://news.ycombinator.com/item?id=50133231
+Points: 96
+# Comments: 33
+- `Hacker News` [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
+> Article URL: https://www.derekwessman.com/blog-1/natural
+Comments URL: https://news.ycombinator.com/item?id=50133150
+Points: 171
+# Comments: 78
+- `Hacker News` [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
+> Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export
+Comments URL: https://news.ycombinator.com/item?id=50132870
+Points: 266
+# Comments: 135
+- `Hacker News` [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers)
+> Article URL: https://www.artie.com/careers
+Comments URL: https://news.ycombinator.com/item?id=50132839
 Points: 0
 # Comments: 0
-- `Hacker News` [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
-> Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/
-Comments URL: https://news.ycombinator.com/item?id=50125545
-Points: 92
-# Comments: 43
-- `Hacker News` [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
-> Article URL: https://bfl.ai/blog/flux-3-image-klein
-Comments URL: https://news.ycombinator.com/item?id=50123580
-Points: 183
-# Comments: 52
-- `Hacker News` [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
-> Article URL: https://alexwang.ai/posts/associative-memory/
-Comments URL: https://news.ycombinator.com/item?id=50122878
-Points: 372
-# Comments: 84
+- `Hacker News` [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
+> Article URL: https://pele.run/
+Comments URL: https://news.ycombinator.com/item?id=50132193
+Points: 299
+# Comments: 27
+- `Hacker News` [Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
+> Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/
+Comments URL: https://news.ycombinator.com/item?id=50131256
+Points: 508
+# Comments: 320
+- `Hacker News` [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
+> Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using
+Comments URL: https://news.ycombinator.com/item?id=50131213
+Points: 271
+# Comments: 68
+- `TechCrunch` [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
+> A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.
+- `TechCrunch` [TikTok permanently bans ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/)
+> A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.
+- `TechCrunch` [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
+> The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.
+- `TechCrunch` [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
+> Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.
+- `TechCrunch` [Ember’s new temperature-controlled mug makes my nightly tea ritual even better](https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/)
+> The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.
 - `TechCrunch` [Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/)
 > Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needi...
-- `TechCrunch` [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
-> Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer wi...
 - `TechCrunch` [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/)
 > The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.
 - `TechCrunch` [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
@@ -95,14 +100,16 @@ Points: 372
 > Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robo...
 - `TechCrunch` [Waymo’s robotaxis are headed to Canada](https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/)
 > The company will start off by testing its self-driving vehicles on Toronto's streets.
-- `TechCrunch` [Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)
-> According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.
-- `TechCrunch` [Tressfecta wants to make hair braiding a less arduous task for hairstylists](https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/)
-> Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.
-- `TechCrunch` [In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder](https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/)
-> Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.
-- `TechCrunch` [Jev is Vercel’s fastest-adopted AI model ever](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/)
-> The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.
+- `The Verge` [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
+> Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. ...
+- `The Verge` [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
+> Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, n...
+- `The Verge` [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
+> In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew law...
+- `The Verge` [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites)
+> After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no...
+- `The Verge` [Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update](https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale)
+> If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pik...
 - `The Verge` [Jad Abumrad loves a butterfly knife and a good springy pillow](https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview)
 > It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unpreceden...
 - `The Verge` [SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon](https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile)
@@ -113,16 +120,6 @@ Points: 372
 > After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and the...
 - `The Verge` [Apple’s HomeView is just the latest threat to online recipe writers](https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting)
 > When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic m...
-- `The Verge` [It’s a dream week for tech docs](https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer)
-> Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and als...
-- `The Verge` [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)
-> Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and bare...
-- `The Verge` [Apple’s updated App Store rules go after ‘nudify’ AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment)
-> Apple's App Store rules now more explicitly ban so-called "nudify" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism t...
-- `The Verge` [We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli)
-> Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out...
-- `The Verge` [Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash)
-> After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that "Despite its name, full self-driving is not full...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
