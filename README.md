@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-18
+# 📰 每日科技日报 — 2026-10-19
 
-> 自动收集于 2026-10-18 14:58 | 共 40 条
+> 自动收集于 2026-10-19 04:08 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [开源掌机的文化线索](https://sspai.com/post/115125)
+> 在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？查看全文
+- `少数派` [派早报：三季度全球手机出货量继续两位数下降](https://sspai.com/post/116641)
+> 三季度全球手机出货量继续两位数下降Roadster 发布会留下诸多疑问闰时将取代闰秒微软声称 Windows 11 响应提速 20%，为 8GB 优化E Ink 发布 Kaleido 4全国铁路列车车次编排更新看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [Quote/0 妙用 +1，把墨水屏变成点餐助手](https://sspai.com/post/115241)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？](https://sspai.com/post/104231)
@@ -26,60 +30,66 @@
 > SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文
 - `少数派` [新玩意 253｜少数派的编辑们最近买了啥？](https://sspai.com/post/116246)
 > 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
-- `少数派` [顺应变化，重申标准：《少数派创作手册》修订说明](https://sspai.com/post/116181)
-> 四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...查看全文
-- `少数派` [学得会的快捷指令，零基础入门苹果效率魔法](https://sspai.com/post/116182)
-> 快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
-> Article URL: https://github.com/VikOlliver/RepRapMicron/wiki
-Comments URL: https://news.ycombinator.com/item?id=50141076
-Points: 44
-# Comments: 5
-- `Hacker News` [Open MicroManipulator – A sub-micrometer 3D motion control plattform](https://github.com/0x23/MicroManipulatorStepper)
-> Article URL: https://github.com/0x23/MicroManipulatorStepper
-Comments URL: https://news.ycombinator.com/item?id=50140001
-Points: 66
-# Comments: 5
-- `Hacker News` [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)
-> Article URL: https://terriblesoftware.org/2026/10/02/the-brain-sandwich/
-Comments URL: https://news.ycombinator.com/item?id=50139998
-Points: 9
-# Comments: 3
-- `Hacker News` [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
-> Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/
-Comments URL: https://news.ycombinator.com/item?id...
-- `Hacker News` [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)
-> Article URL: https://t3.at/blog/2026-10-17-parser-combinators/
-Comments URL: https://news.ycombinator.com/item?id=50139067
-Points: 108
-# Comments: 48
-- `Hacker News` [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
-> Article URL: https://api-docs.deepseek.com/guides/search/
-Comments URL: https://news.ycombinator.com/item?id=50138531
-Points: 359
-# Comments: 181
-- `Hacker News` [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
-> FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.
-
-Co...
-- `Hacker News` [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
-> Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything
-Comments URL: https://news.ycombinator.com/item?id=50137620
-Points: 231
-# Comments: 282
-- `Hacker News` [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
-> Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-...
-- `Hacker News` [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
-> Article URL: https://github.com/openai/codex/issues/25921
-Comments URL: https://news.ycombinator.com/item?id=50133231
-Points: 155
-# Comments: 70
+- `Hacker News` [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
+> Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/
+Comments URL: https://news.ycombinator.com/item?id=50147492
+Points: 18
+# Comments: 9
+- `Hacker News` [Footage of the Flock search that a judge ruled was uncosntitutional](https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/)
+> Article URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/
+Comments URL: https://news.ycombinator.com/item?id=50147455
+Points: 46
+# Comments: 13
+- `Hacker News` [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+> Article URL: https://colo.to/cyberspace.html
+Comments URL: https://news.ycombinator.com/item?id=50146625
+Points: 98
+# Comments: 15
+- `Hacker News` [How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)
+> Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base
+Comments URL: https://news.ycombinator.com/item?id=50146624
+Points: 28
+# Comments: 10
+- `Hacker News` [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
+> I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.I wanted to run it for f...
+- `Hacker News` [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
+> Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/
+Comments URL: https://news.ycombinator.com/item?id=50145507
+Points: 74
+# Comments: 54
+- `Hacker News` [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+> https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2...
+- `Hacker News` [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
+> Article URL: https://www.getlazarus.org/dynamic/
+Comments URL: https://news.ycombinator.com/item?id=50144066
+Points: 123
+# Comments: 25
+- `Hacker News` [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
+> Article URL: https://github.com/ardiri/palmos-lemmings
+Comments URL: https://news.ycombinator.com/item?id=50143536
+Points: 104
+# Comments: 24
+- `Hacker News` [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
+> Article URL: https://anderegg.ca/2026/10/18/what-the-heck-is-pkg
+Comments URL: https://news.ycombinator.com/item?id=50143154
+Points: 27
+# Comments: 8
+- `TechCrunch` [No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market](https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/)
+> Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms
+- `TechCrunch` [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)
+> Anthropic said that it will commit 5% of its shares to the fund.
+- `TechCrunch` [Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’](https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/)
+> "You Can See Everything" is having the second biggest opening weekend ever for a documentary film.
+- `TechCrunch` [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)
+> The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward w...
+- `TechCrunch` [TechCrunch Mobility: Rivian’s next act](https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 - `TechCrunch` [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
 > A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.
-- `TechCrunch` [TikTok permanently bans ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/)
+- `TechCrunch` [TikTok says it’s restored ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/)
 > A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.
 - `TechCrunch` [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
 > The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.
@@ -87,16 +97,18 @@ Points: 155
 > Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.
 - `TechCrunch` [Ember’s new temperature-controlled mug makes my nightly tea ritual even better](https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/)
 > The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.
-- `TechCrunch` [Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/)
-> Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needi...
-- `TechCrunch` [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/)
-> The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.
-- `TechCrunch` [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
-> The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.
-- `TechCrunch` [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
-> Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robo...
-- `TechCrunch` [Waymo’s robotaxis are headed to Canada](https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/)
-> The company will start off by testing its self-driving vehicles on Toronto's streets.
+- `The Verge` [A Savannah police officer gave her Flock login to her ICE agent husband](https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband)
+> Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE ...
+- `The Verge` [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review)
+> Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling abou...
+- `The Verge` [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)
+> Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 "I know they'r...
+- `The Verge` [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)
+> Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establ...
+- `The Verge` [Lenovo’s fast, comfy SteamOS handheld is hundreds off](https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale)
+> The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (10...
+- `The Verge` [J Mascis has nothing better to do](https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview)
+> Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided r...
 - `The Verge` [Trump says Google kisses his ass](https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass)
 > During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accom...
 - `The Verge` [The best gadget I bought this year is a milk frother](https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget)
@@ -105,18 +117,6 @@ Points: 155
 > It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for mi...
 - `The Verge` [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws)
 > This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arri...
-- `The Verge` [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
-> Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. ...
-- `The Verge` [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
-> Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, n...
-- `The Verge` [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
-> In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew law...
-- `The Verge` [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites)
-> After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no...
-- `The Verge` [Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update](https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale)
-> If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pik...
-- `The Verge` [Jad Abumrad loves a butterfly knife and a good springy pillow](https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview)
-> It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unpreceden...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
