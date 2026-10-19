@@ -6,10 +6,16 @@
 
 # 📰 每日科技日报 — 2026-10-19
 
-> 自动收集于 2026-10-19 04:08 | 共 40 条
+> 自动收集于 2026-10-19 17:50 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/116705)
+> >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585)
+> 离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...查看全文
+- `少数派` [9 月音乐精选：用这 8 张新专辑，激发人生新可能](https://sspai.com/post/116699)
+> 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
 - `少数派` [开源掌机的文化线索](https://sspai.com/post/115125)
 > 在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？查看全文
 - `少数派` [派早报：三季度全球手机出货量继续两位数下降](https://sspai.com/post/116641)
@@ -24,99 +30,91 @@
 > 当你下次在屏幕前看到两台赛车撞得粉身碎骨、而车手淡定地推开残骸向看台挥手致意时，希望你能想起今天的故事。查看全文
 - `少数派` [一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验](https://sspai.com/post/115679)
 > 从正面的手感与显示聊起，再翻到背面看看换图的玩法。查看全文
-- `少数派` [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688)
-> 从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。查看全文
-- `少数派` [派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本](https://sspai.com/post/116355)
-> SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文
-- `少数派` [新玩意 253｜少数派的编辑们最近买了啥？](https://sspai.com/post/116246)
-> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
-> Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/
-Comments URL: https://news.ycombinator.com/item?id=50147492
-Points: 18
-# Comments: 9
-- `Hacker News` [Footage of the Flock search that a judge ruled was uncosntitutional](https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/)
-> Article URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/
-Comments URL: https://news.ycombinator.com/item?id=50147455
-Points: 46
-# Comments: 13
-- `Hacker News` [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
-> Article URL: https://colo.to/cyberspace.html
-Comments URL: https://news.ycombinator.com/item?id=50146625
-Points: 98
-# Comments: 15
-- `Hacker News` [How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?](https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base)
-> Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base
-Comments URL: https://news.ycombinator.com/item?id=50146624
-Points: 28
-# Comments: 10
-- `Hacker News` [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
-> I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.I wanted to run it for f...
-- `Hacker News` [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
-> Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/
-Comments URL: https://news.ycombinator.com/item?id=50145507
-Points: 74
-# Comments: 54
-- `Hacker News` [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
-> https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2...
-- `Hacker News` [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
-> Article URL: https://www.getlazarus.org/dynamic/
-Comments URL: https://news.ycombinator.com/item?id=50144066
-Points: 123
-# Comments: 25
-- `Hacker News` [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
-> Article URL: https://github.com/ardiri/palmos-lemmings
-Comments URL: https://news.ycombinator.com/item?id=50143536
-Points: 104
-# Comments: 24
-- `Hacker News` [What the heck is /pkg?](https://anderegg.ca/2026/10/18/what-the-heck-is-pkg)
-> Article URL: https://anderegg.ca/2026/10/18/what-the-heck-is-pkg
-Comments URL: https://news.ycombinator.com/item?id=50143154
-Points: 27
-# Comments: 8
+- `Hacker News` [Inception "Mercury 3", 1000 tok/s diffusion LLM](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
+> Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3
+Comments URL: https://news.ycombinator.com/item?id=50155245
+Points: 4
+# Comments: 1
+- `Hacker News` [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
+> Article URL: https://evidence.dev/jobs
+Comments URL: https://news.ycombinator.com/item?id=50155172
+Points: 0
+# Comments: 0
+- `Hacker News` [Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures](https://news.ycombinator.com/item?id=50154029)
+> Hi HN, we’re Robert and Din from Laminar (https://laminar.sh). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find ...
+- `Hacker News` [Degraded availability for GitHub Actions, GitHub Pages and Webhooks](https://www.githubstatus.com/incidents/8tzbpcnl75jp)
+> Article URL: https://www.githubstatus.com/incidents/8tzbpcnl75jp
+Comments URL: https://news.ycombinator.com/item?id=50153934
+Points: 107
+# Comments: 82
+- `Hacker News` [CERN and Mistral join forces to accelerate AI for science](https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/)
+> Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/
+Comments URL: https://news.ycombinator.com/item?id=50153630
+Points: 133
+# Comments: 21
+- `Hacker News` [Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf)
+> Article URL: https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf
+Comments URL: https://news.ycombinator.com/item?id=501534...
+- `Hacker News` [Maybe There Was an Egg Cartel After All](https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411)
+> Article URL: https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411
+Comments URL: https://news.ycombinator.com/item?id=50152970
+Points: 126
+# Comments: 97
+- `Hacker News` [A hacker broke into John Deere and SharkNinja with an army of AI agents](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins)
+> Article URL: https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins
+Comments URL: https://news.ycombinator.com/item?id=50152877
+Points: 47
+# Comme...
+- `Hacker News` [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)
+> Hi all,So I have been working on this project KiviDB from February 2026. It started as a project for me to understand rust, having a product with no GC pauses, memory blow up after snapshots and ge...
+- `Hacker News` [Plex vulnerabilities being exploited in the wild to drop a cryptominer](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html)
+> Article URL: http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html
+Comments URL: https://news.ycombinator.com/item?id=50152321
+Points: 40
+# Comments: 5
+- `TechCrunch` [Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs](https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/)
+> His vision will culminate with the R4 vehicle.
+- `TechCrunch` [Amazon to fund 12 small nuclear reactors at former Indiana coal plant](https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/)
+> Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.
+- `TechCrunch` [People are using AI to make their smart TVs dumb again](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/)
+> Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.
+- `TechCrunch` [Nvidia launches new open models to run agents in the enterprise and on PCs](https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/)
+> Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.
+- `TechCrunch` [Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review](https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/)
+> The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensi...
+- `TechCrunch` [Musk pledges to give ‘every kid in America’ one of his SpaceX shares](https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/)
+> Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new "public benefit fund," which it intends to use to make "large donations to traditional nonprofits or di...
+- `TechCrunch` [Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics](https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/)
+> Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.
 - `TechCrunch` [No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market](https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/)
 > Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms
 - `TechCrunch` [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)
-> Anthropic said that it will commit 5% of its shares to the fund.
+> The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”
 - `TechCrunch` [Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’](https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/)
 > "You Can See Everything" is having the second biggest opening weekend ever for a documentary film.
-- `TechCrunch` [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)
-> The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward w...
-- `TechCrunch` [TechCrunch Mobility: Rivian’s next act](https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-- `TechCrunch` [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
-> A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.
-- `TechCrunch` [TikTok says it’s restored ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/)
-> A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.
-- `TechCrunch` [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
-> The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.
-- `TechCrunch` [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
-> Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.
-- `TechCrunch` [Ember’s new temperature-controlled mug makes my nightly tea ritual even better](https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/)
-> The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.
-- `The Verge` [A Savannah police officer gave her Flock login to her ICE agent husband](https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband)
-> Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE ...
-- `The Verge` [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review)
-> Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling abou...
-- `The Verge` [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)
-> Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 "I know they'r...
-- `The Verge` [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)
-> Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establ...
-- `The Verge` [Lenovo’s fast, comfy SteamOS handheld is hundreds off](https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale)
-> The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (10...
-- `The Verge` [J Mascis has nothing better to do](https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview)
-> Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided r...
-- `The Verge` [Trump says Google kisses his ass](https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass)
-> During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accom...
-- `The Verge` [The best gadget I bought this year is a milk frother](https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget)
-> Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for it...
-- `The Verge` [How overhead projectors took over your classroom](https://www.theverge.com/podcast/1013473/overhead-projector-version-history)
-> It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for mi...
-- `The Verge` [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arri...
+- `The Verge` [Apple teases MacBook Pro event next week](https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement)
+> Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini...
+- `The Verge` [Amazon is funding a new nuclear plant in Indiana](https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana)
+> Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defu...
+- `The Verge` [Apple’s last-gen Mac Mini with the M4 is $150 off](https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale)
+> Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 pr...
+- `The Verge` [JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes](https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws)
+> Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that thos...
+- `The Verge` [Major European mobile carriers are teaming up for a ‘direct’ satellite program without Starlink](https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink)
+> Deutsche Telekom, Orange, Telefónica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competit...
+- `The Verge` [Elon Musk promises to give one SpaceX share to every child in the US](https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children)
+> Elon Musk says he plans to give one of his SpaceX shares to every child in the US starting next year. With around 72 million children in the US as of July 2025, Musk would be giving away about $10....
+- `The Verge` [It’s hard to imagine wireless headphones ever getting lighter than these](https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these)
+> If you're on the hunt for lightweight wireless headphones but wearing earbuds or clip-ons never feels comfortable or secure, a relatively obscure Japanese headphone maker could have the solution. F...
+- `The Verge` [A hacker broke into John Deere and SharkNinja with an army of AI agents](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins)
+> A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the t...
+- `The Verge` [Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level](https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display)
+> Wyze announced a new version of its Ultra BodyScan smart scale that debuted nearly a year ago with additional electrodes on a retractable handle, allowing it to provide a breakdown of various healt...
+- `The Verge` [Vibe coding is turning the music gear world upside down](https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware)
+> If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes. Wha...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
