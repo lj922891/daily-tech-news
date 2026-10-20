@@ -6,10 +6,16 @@
 
 # 📰 每日科技日报 — 2026-10-20
 
-> 自动收集于 2026-10-20 04:21 | 共 40 条
+> 自动收集于 2026-10-20 15:54 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁](https://sspai.com/prime/story/inside-release-notes-261020)
+> FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验](https://sspai.com/post/115475)
+> 在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？查看全文
+- `少数派` [从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面](https://sspai.com/post/116661)
+> 原厂屏幕之外最省心的搭档。查看全文
 - `少数派` [App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法](https://sspai.com/post/116430)
 > 简单干净、支持双拼纠错的 iOS 输入法。查看全文
 - `少数派` [派早报：MiniMax 发布 M3.1 Flash 模型等](https://sspai.com/post/116758)
@@ -24,105 +30,93 @@
 > 在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？查看全文
 - `少数派` [派早报：三季度全球手机出货量继续两位数下降](https://sspai.com/post/116641)
 > 三季度全球手机出货量继续两位数下降Roadster 发布会留下诸多疑问闰时将取代闰秒微软声称 Windows 11 响应提速 20%，为 8GB 优化E Ink 发布 Kaleido 4全国铁路列车车次编排更新看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [Quote/0 妙用 +1，把墨水屏变成点餐助手](https://sspai.com/post/115241)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？](https://sspai.com/post/104231)
-> 这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。查看全文
-- `少数派` [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/116423)
-> 📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Go will reject certificate chains containing eight distrusted SPKIs](https://github.com/golang/go/issues/82345)
-> Article URL: https://github.com/golang/go/issues/82345
-Comments URL: https://news.ycombinator.com/item?id=50160877
+- `Hacker News` [Why do we have so many meetings?](https://www.nber.org/papers/w35706)
+> Article URL: https://www.nber.org/papers/w35706
+Comments URL: https://news.ycombinator.com/item?id=50167732
 Points: 16
-# Comments: 3
-- `Hacker News` [OpenBSD 8.0](https://www.openbsd.org/80.html)
-> Article URL: https://www.openbsd.org/80.html
-Comments URL: https://news.ycombinator.com/item?id=50160494
-Points: 51
-# Comments: 8
-- `Hacker News` [OpenBSD 8.0: released Oct 20, 2026](https://marc.info/?l=openbsd-misc&m=179245849770356&w=2)
-> Article URL: https://marc.info/?l=openbsd-misc&m=179245849770356&w=2
-Comments URL: https://news.ycombinator.com/item?id=50160419
-Points: 18
+# Comments: 2
+- `Hacker News` [Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)
+> Article URL: https://github.com/AbdullahAlhariri/penmentor
+Comments URL: https://news.ycombinator.com/item?id=50167604
+Points: 5
+# Comments: 0
+- `Hacker News` [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
+> Hey HN, this is Andy from Respan (https://www.respan.ai). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protoc...
+- `Hacker News` [How to Link Real-Time Live Streaming to Video-on-Demand](https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/)
+> Article URL: https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/
+Comments URL: https://news.ycombinator.com/item?id=50167560
+Points: 5
 # Comments: 1
-- `Hacker News` [Developing Taste](https://emilkowal.ski/ui/developing-taste)
-> Article URL: https://emilkowal.ski/ui/developing-taste
-Comments URL: https://news.ycombinator.com/item?id=50160135
-Points: 16
-# Comments: 11
-- `Hacker News` [France's supermarket fridges were vulnerable online for months](https://ipinfo.io/blog/france-fridges-hack)
-> Article URL: https://ipinfo.io/blog/france-fridges-hack
-Comments URL: https://news.ycombinator.com/item?id=50159616
-Points: 75
-# Comments: 66
-- `Hacker News` [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
-> Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
-Comments URL: https://news.ycombinator.com/item?id=50159341
-Points: 111
-# Comments: 13
-- `Hacker News` [“bonsoir, Elliot”: How abliterated models can get you pwned](https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned)
-> Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned
-Comments URL: https://news.ycombinator.com/item?id=50159245
-Points: 65
-# Comments: 36
-- `Hacker News` [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv)
-> Article URL: https://cretezy.com/2026/ad-free-android-tv
-Comments URL: https://news.ycombinator.com/item?id=50158942
-Points: 71
-# Comments: 20
-- `Hacker News` [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
-> Article URL: https://bsd.network/@brynet/117407035545900963
-Comments URL: https://news.ycombinator.com/item?id=50158138
-Points: 118
-# Comments: 28
-- `Hacker News` [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
-> Article URL: https://josie.lol/blog/linux-rtx-spark
-Comments URL: https://news.ycombinator.com/item?id=50158100
-Points: 202
-# Comments: 94
-- `TechCrunch` [Walmart’s Flipkart is quietly building a food delivery challenger in India](https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/)
-> Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.
-- `TechCrunch` [Mamdani says feds have abdicated on AI, urges New Yorkers to push back](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/)
-> Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.
-- `TechCrunch` [Nscale and Anthropic are reportedly in talks for yet another $45B compute deal](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/)
-> If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.
-- `TechCrunch` [Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/)
-> The idea of embedded evaluators — in which supposedly "neutral" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with...
-- `TechCrunch` [Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/)
-> Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.
-- `TechCrunch` [Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool](https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/)
-> Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.
-- `TechCrunch` [Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts](https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/)
-> OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI...
-- `TechCrunch` [Tolan snags $30M for its AI companion that helps users navigate life](https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/)
-> AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.
-- `TechCrunch` [Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago](https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/)
-> Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.
-- `TechCrunch` [Tenstorrent hits $6.2B valuation to scale open-weight AI chips](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/)
-> After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.
-- `The Verge` [Baseus’ new security camera has a spotlight that tracks and follows moving targets](https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight)
-> Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence...
-- `The Verge` [Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’](https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account)
-> President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares...
-- `The Verge` [The fossil fuel comeback is here](https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report)
-> The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in mo...
-- `The Verge` [CoreWeave’s debt is becoming the whole AI industry’s problem](https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai)
-> CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds...
-- `The Verge` [I tried a $99 plug that promises to track your car and send help when needed — without selling yo...](https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date)
-> My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-...
-- `The Verge` [Sony’s best noise-canceling earbuds are nearly $100 off today only](https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only)
-> For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&H Photo is selling Sony’s latest WF-1000XM6 in bl...
-- `The Verge` [Apple teases MacBook Pro event next week](https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement)
-> Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini...
-- `The Verge` [Amazon is funding a new nuclear plant in Indiana](https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana)
-> Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defu...
-- `The Verge` [Apple’s last-gen Mac Mini with the M4 is $150 off](https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale)
-> Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 pr...
-- `The Verge` [JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes](https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws)
-> Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that thos...
+- `Hacker News` [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
+> Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919
+Comments URL: https://news.ycombinator.com/item?id=50167536
+Points: 64
+# Comments: 24
+- `Hacker News` [Getting Banned from r/java](https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/)
+> Article URL: https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/
+Comments URL: https://news.ycombinator.com/item?id=50167524
+Points: 4
+# Comments: 0
+- `Hacker News` [Building full-firm knowledge graphs to dramatically speed up agents](https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents)
+> Article URL: https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents
+Comments URL: https://news.ycombinator.com/item?id=50167523
+Points: 3
+# Comments: 0
+- `Hacker News` [Show HN: Run Claude Code unattended inside a fence, under a dollar budget](https://github.com/metahumansworld/SIwithin)
+> Article URL: https://github.com/metahumansworld/SIwithin
+Comments URL: https://news.ycombinator.com/item?id=50167456
+Points: 3
+# Comments: 1
+- `Hacker News` [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)
+> Hi HN! Im Katriel, and im a Security Researcher/Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industries ...
+- `Hacker News` [Ofcom Concedes Defeat in the 4chan Case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
+> Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/
+Comments URL: https://news.ycombinator.com/item?id=50167028
+Points: 62
+# Comments: 29
+- `TechCrunch` [TikTok staff raised child safety concerns, but executives reportedly failed to act](https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/)
+> Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.
+- `TechCrunch` [Figma co-founder Dylan Field thinks MCP is not a perfect protocol](https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/)
+> Figma said it plans to support as many standards as possible without exposing all of its data
+- `TechCrunch` [SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation](https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/)
+> Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.
+- `TechCrunch` [US orders federal agencies to remove China’s DeepSeek AI from their systems](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)
+> The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.
+- `TechCrunch` [Eka is worth $1.45B thanks to a physical AI model that has experts raving](https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/)
+> Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.
+- `TechCrunch` [Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitation...](https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/)
+> The raise comes as venture dollars pile up on the West Coast.
+- `TechCrunch` [Spotify launches paid podcast memberships with perks beyond bonus content](https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/)
+> Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.
+- `TechCrunch` [Oura adds new fitness metrics to show how workouts impact your body](https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/)
+> While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching m...
+- `TechCrunch` [Yelp can now call on your behalf to check wait times at a restaurant](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/)
+> Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.
+- `TechCrunch` [Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/)
+> Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting e...
+- `The Verge` [The Gospel according to Peter (Thiel)](https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis)
+> It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into ...
+- `The Verge` [Over $963,000 worth of graded Pokémon and sports cards were stolen from FedEx](https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex)
+> Last week over 200 packages of graded trading cards being shipped back to their owners were stolen from a FedEx truck parked outside the headquarters of Professional Sports Authenticator (PSA) in S...
+- `The Verge` [Spotify pulled 50 million AI slop and spam tracks from its recommendations](https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed)
+> Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Sp...
+- `The Verge` [TikTok employees said they knew about child safety issues, but execs failed to act](https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings)
+> TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated o...
+- `The Verge` [Adobe Lightroom mobile can now open closed eyes in photos with a simple tap](https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair)
+> Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app d...
+- `The Verge` [Wii Sports is back on the Switch 2, and it rules](https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2)
+> Wii Sports holds an important place in Nintendo's history. It's the best-selling piece of software the company has ever made, one that permeated culture in surprising ways, and its success helped r...
+- `The Verge` [Final Fantasy dips back into the SNES golden era with Resonance](https://www.theverge.com/games/1013958/final-fantasy-resonance-review)
+> Final Fantasy is a lot different than it used to be. While many of the early Final Fantasy titles look and play similarly to each other, the series has since grown to encompass blockbuster games li...
+- `The Verge` [Antigravity just halved the price of its drone — by swapping its headset for wristwatch control](https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control)
+> Last year's Antigravity A1 is the best beginner drone I've ever tried. I put a friend who'd never flown into its virtual cockpit and didn't worry one bit. The A1's also nice for people who'd prefer...
+- `The Verge` [Spotify’s new podcast memberships let you pay for extra perks](https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch)
+> Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May, the new Memberships subsc...
+- `The Verge` [Some Google Home Speakers caught downloading hundreds of gigs of data](https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download)
+> Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
