@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-10-21
 
-> 自动收集于 2026-10-21 04:11 | 共 40 条
+> 自动收集于 2026-10-21 16:11 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备](https://sspai.com/post/116820)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用](https://sspai.com/post/116445)
+> 如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文
 - `少数派` [怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？](https://sspai.com/post/115107)
 > 电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文
 - `少数派` [派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等](https://sspai.com/post/116887)
@@ -22,109 +26,102 @@
 > 原厂屏幕之外最省心的搭档。查看全文
 - `少数派` [App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法](https://sspai.com/post/116430)
 > 简单干净、支持双拼纠错的 iOS 输入法。查看全文
-- `少数派` [派早报：MiniMax 发布 M3.1 Flash 模型等](https://sspai.com/post/116758)
-> 索尼发布三款高端 Walkman 播放器，掌阅推出 Ocean 6 Pro 电纸书等。查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/116705)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585)
 > 离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...查看全文
-- `少数派` [9 月音乐精选：用这 8 张新专辑，激发人生新可能](https://sspai.com/post/116699)
-> 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
-> Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/
-Comments URL: https://news.ycombinator.com/item?id=50175185
-Points: 33
-# Comments: 9
-- `Hacker News` [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
-> Article URL: https://www.joshwcomeau.com/css/interop-2027/
-Comments URL: https://news.ycombinator.com/item?id=50175070
-Points: 58
-# Comments: 20
-- `Hacker News` [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
-> Article URL: https://unsung.aresluna.org/good-type-against-all-odds/
-Comments URL: https://news.ycombinator.com/item?id=50175059
-Points: 38
+- `Hacker News` [PHP Foundation's Overview of CVE-2026-109618 and CVE-2026-109619](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+> Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/
+Comments URL: https://news.ycombinator.com/item?id=50182987
+Points: 13
+# ...
+- `Hacker News` [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
+> Article URL: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488
+Comments URL: https://news.ycombinator.com/item?id=50182526
+Points: 25
 # Comments: 8
-- `Hacker News` [Learning to live with Waymos](https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird)
-> https://web.archive.org/web/20261015123002/https://www.newyo..., https://archive.li/fj7oR
+- `Hacker News` [Delays for Pull Requests and Webhook deliveries](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
+> Article URL: https://www.githubstatus.com/incidents/nms1dpzmh9d9
+Comments URL: https://news.ycombinator.com/item?id=50182130
+Points: 42
+# Comments: 9
+- `Hacker News` [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/)
+> Article URL: https://blog.cloudflare.com/php-vulnerabilities-waf-protection/
+Comments URL: https://news.ycombinator.com/item?id=50181326
+Points: 14
+# Comments: 1
+- `Hacker News` [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
+> https://patchtheplanet.org/
 
-Comments URL: https://news.ycombinator.com/item?id=50175057
-Points: 31
-# Comments: 61
-- `Hacker News` [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
-> https://web.archive.org/web/20261020230542/https://www.thebe...https://archive.ph/Tb1SZ
-
-Comments URL: https://news.ycombinator.com/item?id=50173891
-Points: 100
-# Comments: 66
-- `Hacker News` [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)
-> Article URL: https://fulcrumsec.vg/pingcap/
-Comments URL: https://news.ycombinator.com/item?id=50173716
-Points: 54
-# Comments: 7
-- `Hacker News` [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
-> Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
-Comments URL: https://news.ycombinator.com/item?id=50173487
-Points: 131
-# Comments: 50
-- `Hacker News` [Upcoming critical PHP security release](https://news-web.php.net/php.announce/509)
-> Article URL: https://news-web.php.net/php.announce/509
-Comments URL: https://news.ycombinator.com/item?id=50172041
-Points: 186
-# Comments: 58
-- `Hacker News` [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
-> Article URL: https://permit.petercai.com/
-Comments URL: https://news.ycombinator.com/item?id=50170593
-Points: 635
-# Comments: 325
-- `Hacker News` [Advanced coding in low-resource programming languages](https://openai.com/index/low-resource-programming-languages/)
-> Article URL: https://openai.com/index/low-resource-programming-languages/
-Comments URL: https://news.ycombinator.com/item?id=50169955
-Points: 47
-# Comments: 65
+Comments URL: https://news.ycombinator.com/item?id=50181175
+Points: 101
+# Comments: 51
+- `Hacker News` [The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
+> Article URL: https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/
+Comments URL: https://news.ycombinator.com/item?id=50181137...
+- `Hacker News` [DuckDB 2.0.0 LTS "Cinnamon Teal"](https://duckdb.org/2026/10/21/announcing-duckdb-200)
+> Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200
+Comments URL: https://news.ycombinator.com/item?id=50181136
+Points: 154
+# Comments: 14
+- `Hacker News` [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
+> Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
+Comments URL: https://news.ycombinator.com/item?id=50181114
+Points: 77
+# Comments: 35
+- `Hacker News` [PHP2Shell](https://www.php2shell.com)
+> Article URL: https://www.php2shell.com
+Comments URL: https://news.ycombinator.com/item?id=50181058
+Points: 30
+# Comments: 8
+- `Hacker News` [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
+> Article URL: https://github.com/php/php-src/releases/tag/php-8.2.35
+Comments URL: https://news.ycombinator.com/item?id=50180873
+Points: 530
+# Comments: 224
+- `TechCrunch` [Foursquare co-founder says equity holders saw no returns from the company’s acquisition](https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/)
+> Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.
+- `TechCrunch` [AI promises productivity, but for managers, it’s mostly a headache for now](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/)
+> More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.
+- `TechCrunch` [Heat pump tech is 170 years old. Pascal thinks it’s time for an update.](https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/)
+> Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.
+- `TechCrunch` [Mach9 raises $34M after pivoting to AI CAD software](https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/)
+> The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.
 - `TechCrunch` [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
-> The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.
+> The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.
 - `TechCrunch` [SpaceX and Tesla boards form special committees to review merger](https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/)
 > Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.
 - `TechCrunch` [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)
-> Before you share the Netflix documentary "AI Gone Rogue" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.
+> Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.
 - `TechCrunch` [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)
 > Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November ...
 - `TechCrunch` [SpaceX’s AI business is beating expectations](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)
-> SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.
+> SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.
 - `TechCrunch` [OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/)
 > OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researc...
-- `TechCrunch` [Google is bringing a more personal version of its Gemini AI assistant to your car](https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/)
-> Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more pe...
-- `TechCrunch` [GM to close Detroit battery-assembly plant, but not for reasons you might think](https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/)
-> GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.
-- `TechCrunch` [Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)
-> Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.
-- `TechCrunch` [ChatGPT now lets you lock your chats](https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/)
-> The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their dev...
-- `The Verge` [YouTube might be testing hiding the dislike button](https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu)
-> YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the ...
-- `The Verge` [Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit](https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed)
-> On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. ...
-- `The Verge` [Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program](https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers)
-> Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of ...
-- `The Verge` [Google’s more personalized Gemini AI is heading to your car](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto)
-> Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including...
-- `The Verge` [Tesla and SpaceX are discussing a possible merger, Musk says](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees)
-> Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said...
-- `The Verge` [SpaceX will try catching Starship and its booster for first time, Musk says](https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says)
-> SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Mus...
-- `The Verge` [Netflix is telling investors not to worry, even though you’re watching less and less](https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time)
-> Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its...
-- `The Verge` [Snap is paying Robert Downey Jr. to do the Iron Man thing](https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr)
-> Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' "Chief Customer Experience Officer" and has published several ...
-- `The Verge` [SpaceX says big AI growth fueled revenue jump](https://www.theverge.com/science/1014150/spacex-q3-2026-earnings)
-> SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year "fueled by our Super Intelligence (SI) segment and accelerated gro...
-- `The Verge` [Oura adds two new cardiovascular health tracking features to its smart rings](https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular)
-> Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their ...
+- `The Verge` [Supernatural’s comeback starts today, with more music and VR workouts coming soon](https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch)
+> Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in ...
+- `The Verge` [Apple Music has a new logo](https://www.theverge.com/tech/1015533/apple-music-new-logo)
+> Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new "identity"...
+- `The Verge` [Conversational Gemini navigation comes to Apple CarPlay](https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps)
+> After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, wit...
+- `The Verge` [Samsung’s 5K monitor has good gaming chops and a great price](https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale)
+> There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen...
+- `The Verge` [Apple says it only has ‘limited’ iPhone Duo units for in-store sales](https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales)
+> Apple says it will have "limited" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out, w...
+- `The Verge` [Blink brings 4K to its low-cost security camera lineup](https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch)
+> Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended...
+- `The Verge` [OpenAI says an AI agent lied about disabling its safety monitoring system](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems)
+> OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabl...
+- `The Verge` [Now Serato DJ works on your iPhone](https://www.theverge.com/tech/1015319/serato-dj-for-ios)
+> Serato DJ for iOS is finally bringing the company's pro-level DJ suite to the iPhone and iPad. Until now, the company had only dipped its toes into mobile software, with apps like Pyro that basical...
+- `The Verge` [Nvidia’s latest GPU driver brings a new way to speed up PC games](https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support)
+> Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game "just-in-time"...
+- `The Verge` [I reviewed the iPhone Duo, ask me anything](https://www.theverge.com/tech/1014316/iphone-duo-review-ama)
+> I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on th...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
