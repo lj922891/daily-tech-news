@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-20
+# 📰 每日科技日报 — 2026-10-21
 
-> 自动收集于 2026-10-20 15:54 | 共 40 条
+> 自动收集于 2026-10-21 04:11 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？](https://sspai.com/post/115107)
+> 电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文
+- `少数派` [派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等](https://sspai.com/post/116887)
+> 工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文
 - `少数派` [具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁](https://sspai.com/prime/story/inside-release-notes-261020)
 > FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验](https://sspai.com/post/115475)
@@ -26,97 +30,101 @@
 > 离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...查看全文
 - `少数派` [9 月音乐精选：用这 8 张新专辑，激发人生新可能](https://sspai.com/post/116699)
 > 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
-- `少数派` [开源掌机的文化线索](https://sspai.com/post/115125)
-> 在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？查看全文
-- `少数派` [派早报：三季度全球手机出货量继续两位数下降](https://sspai.com/post/116641)
-> 三季度全球手机出货量继续两位数下降Roadster 发布会留下诸多疑问闰时将取代闰秒微软声称 Windows 11 响应提速 20%，为 8GB 优化E Ink 发布 Kaleido 4全国铁路列车车次编排更新看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Why do we have so many meetings?](https://www.nber.org/papers/w35706)
-> Article URL: https://www.nber.org/papers/w35706
-Comments URL: https://news.ycombinator.com/item?id=50167732
-Points: 16
-# Comments: 2
-- `Hacker News` [Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)
-> Article URL: https://github.com/AbdullahAlhariri/penmentor
-Comments URL: https://news.ycombinator.com/item?id=50167604
-Points: 5
-# Comments: 0
-- `Hacker News` [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
-> Hey HN, this is Andy from Respan (https://www.respan.ai). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protoc...
-- `Hacker News` [How to Link Real-Time Live Streaming to Video-on-Demand](https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/)
-> Article URL: https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/
-Comments URL: https://news.ycombinator.com/item?id=50167560
-Points: 5
-# Comments: 1
-- `Hacker News` [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
-> Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919
-Comments URL: https://news.ycombinator.com/item?id=50167536
-Points: 64
-# Comments: 24
-- `Hacker News` [Getting Banned from r/java](https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/)
-> Article URL: https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/
-Comments URL: https://news.ycombinator.com/item?id=50167524
-Points: 4
-# Comments: 0
-- `Hacker News` [Building full-firm knowledge graphs to dramatically speed up agents](https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents)
-> Article URL: https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents
-Comments URL: https://news.ycombinator.com/item?id=50167523
-Points: 3
-# Comments: 0
-- `Hacker News` [Show HN: Run Claude Code unattended inside a fence, under a dollar budget](https://github.com/metahumansworld/SIwithin)
-> Article URL: https://github.com/metahumansworld/SIwithin
-Comments URL: https://news.ycombinator.com/item?id=50167456
-Points: 3
-# Comments: 1
-- `Hacker News` [Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)
-> Hi HN! Im Katriel, and im a Security Researcher/Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industries ...
-- `Hacker News` [Ofcom Concedes Defeat in the 4chan Case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)
-> Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/
-Comments URL: https://news.ycombinator.com/item?id=50167028
-Points: 62
-# Comments: 29
-- `TechCrunch` [TikTok staff raised child safety concerns, but executives reportedly failed to act](https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/)
-> Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.
-- `TechCrunch` [Figma co-founder Dylan Field thinks MCP is not a perfect protocol](https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/)
-> Figma said it plans to support as many standards as possible without exposing all of its data
-- `TechCrunch` [SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation](https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/)
-> Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.
-- `TechCrunch` [US orders federal agencies to remove China’s DeepSeek AI from their systems](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)
-> The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.
-- `TechCrunch` [Eka is worth $1.45B thanks to a physical AI model that has experts raving](https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/)
-> Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.
-- `TechCrunch` [Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitation...](https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/)
-> The raise comes as venture dollars pile up on the West Coast.
-- `TechCrunch` [Spotify launches paid podcast memberships with perks beyond bonus content](https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/)
-> Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.
-- `TechCrunch` [Oura adds new fitness metrics to show how workouts impact your body](https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/)
-> While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching m...
-- `TechCrunch` [Yelp can now call on your behalf to check wait times at a restaurant](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/)
-> Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.
-- `TechCrunch` [Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/)
-> Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting e...
-- `The Verge` [The Gospel according to Peter (Thiel)](https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis)
-> It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into ...
-- `The Verge` [Over $963,000 worth of graded Pokémon and sports cards were stolen from FedEx](https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex)
-> Last week over 200 packages of graded trading cards being shipped back to their owners were stolen from a FedEx truck parked outside the headquarters of Professional Sports Authenticator (PSA) in S...
-- `The Verge` [Spotify pulled 50 million AI slop and spam tracks from its recommendations](https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed)
-> Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Sp...
-- `The Verge` [TikTok employees said they knew about child safety issues, but execs failed to act](https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings)
-> TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated o...
-- `The Verge` [Adobe Lightroom mobile can now open closed eyes in photos with a simple tap](https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair)
-> Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app d...
-- `The Verge` [Wii Sports is back on the Switch 2, and it rules](https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2)
-> Wii Sports holds an important place in Nintendo's history. It's the best-selling piece of software the company has ever made, one that permeated culture in surprising ways, and its success helped r...
-- `The Verge` [Final Fantasy dips back into the SNES golden era with Resonance](https://www.theverge.com/games/1013958/final-fantasy-resonance-review)
-> Final Fantasy is a lot different than it used to be. While many of the early Final Fantasy titles look and play similarly to each other, the series has since grown to encompass blockbuster games li...
-- `The Verge` [Antigravity just halved the price of its drone — by swapping its headset for wristwatch control](https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control)
-> Last year's Antigravity A1 is the best beginner drone I've ever tried. I put a friend who'd never flown into its virtual cockpit and didn't worry one bit. The A1's also nice for people who'd prefer...
-- `The Verge` [Spotify’s new podcast memberships let you pay for extra perks](https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch)
-> Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May, the new Memberships subsc...
-- `The Verge` [Some Google Home Speakers caught downloading hundreds of gigs of data](https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download)
-> Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by ...
+- `Hacker News` [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
+> Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/
+Comments URL: https://news.ycombinator.com/item?id=50175185
+Points: 33
+# Comments: 9
+- `Hacker News` [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+> Article URL: https://www.joshwcomeau.com/css/interop-2027/
+Comments URL: https://news.ycombinator.com/item?id=50175070
+Points: 58
+# Comments: 20
+- `Hacker News` [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
+> Article URL: https://unsung.aresluna.org/good-type-against-all-odds/
+Comments URL: https://news.ycombinator.com/item?id=50175059
+Points: 38
+# Comments: 8
+- `Hacker News` [Learning to live with Waymos](https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird)
+> https://web.archive.org/web/20261015123002/https://www.newyo..., https://archive.li/fj7oR
+
+Comments URL: https://news.ycombinator.com/item?id=50175057
+Points: 31
+# Comments: 61
+- `Hacker News` [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
+> https://web.archive.org/web/20261020230542/https://www.thebe...https://archive.ph/Tb1SZ
+
+Comments URL: https://news.ycombinator.com/item?id=50173891
+Points: 100
+# Comments: 66
+- `Hacker News` [PingCap TiDB Leaks](https://fulcrumsec.vg/pingcap/)
+> Article URL: https://fulcrumsec.vg/pingcap/
+Comments URL: https://news.ycombinator.com/item?id=50173716
+Points: 54
+# Comments: 7
+- `Hacker News` [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+> Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
+Comments URL: https://news.ycombinator.com/item?id=50173487
+Points: 131
+# Comments: 50
+- `Hacker News` [Upcoming critical PHP security release](https://news-web.php.net/php.announce/509)
+> Article URL: https://news-web.php.net/php.announce/509
+Comments URL: https://news.ycombinator.com/item?id=50172041
+Points: 186
+# Comments: 58
+- `Hacker News` [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
+> Article URL: https://permit.petercai.com/
+Comments URL: https://news.ycombinator.com/item?id=50170593
+Points: 635
+# Comments: 325
+- `Hacker News` [Advanced coding in low-resource programming languages](https://openai.com/index/low-resource-programming-languages/)
+> Article URL: https://openai.com/index/low-resource-programming-languages/
+Comments URL: https://news.ycombinator.com/item?id=50169955
+Points: 47
+# Comments: 65
+- `TechCrunch` [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
+> The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.
+- `TechCrunch` [SpaceX and Tesla boards form special committees to review merger](https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/)
+> Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.
+- `TechCrunch` [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)
+> Before you share the Netflix documentary "AI Gone Rogue" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.
+- `TechCrunch` [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)
+> Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November ...
+- `TechCrunch` [SpaceX’s AI business is beating expectations](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)
+> SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.
+- `TechCrunch` [OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/)
+> OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researc...
+- `TechCrunch` [Google is bringing a more personal version of its Gemini AI assistant to your car](https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/)
+> Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more pe...
+- `TechCrunch` [GM to close Detroit battery-assembly plant, but not for reasons you might think](https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/)
+> GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.
+- `TechCrunch` [Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)
+> Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.
+- `TechCrunch` [ChatGPT now lets you lock your chats](https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/)
+> The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their dev...
+- `The Verge` [YouTube might be testing hiding the dislike button](https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu)
+> YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the ...
+- `The Verge` [Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit](https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed)
+> On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. ...
+- `The Verge` [Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program](https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers)
+> Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of ...
+- `The Verge` [Google’s more personalized Gemini AI is heading to your car](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto)
+> Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including...
+- `The Verge` [Tesla and SpaceX are discussing a possible merger, Musk says](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees)
+> Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said...
+- `The Verge` [SpaceX will try catching Starship and its booster for first time, Musk says](https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says)
+> SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Mus...
+- `The Verge` [Netflix is telling investors not to worry, even though you’re watching less and less](https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time)
+> Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its...
+- `The Verge` [Snap is paying Robert Downey Jr. to do the Iron Man thing](https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr)
+> Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' "Chief Customer Experience Officer" and has published several ...
+- `The Verge` [SpaceX says big AI growth fueled revenue jump](https://www.theverge.com/science/1014150/spacex-q3-2026-earnings)
+> SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year "fueled by our Super Intelligence (SI) segment and accelerated gro...
+- `The Verge` [Oura adds two new cardiovascular health tracking features to its smart rings](https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular)
+> Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
