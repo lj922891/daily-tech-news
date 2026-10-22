@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-21
+# 📰 每日科技日报 — 2026-10-22
 
-> 自动收集于 2026-10-21 16:11 | 共 40 条
+> 自动收集于 2026-10-22 04:11 | 共 30 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等](https://sspai.com/post/116953)
+> OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文
 - `少数派` [社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备](https://sspai.com/post/116820)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用](https://sspai.com/post/116445)
@@ -28,100 +30,49 @@
 > 简单干净、支持双拼纠错的 iOS 输入法。查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/116705)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585)
-> 离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [PHP Foundation's Overview of CVE-2026-109618 and CVE-2026-109619](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
-> Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/
-Comments URL: https://news.ycombinator.com/item?id=50182987
-Points: 13
-# ...
-- `Hacker News` [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488)
-> Article URL: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488
-Comments URL: https://news.ycombinator.com/item?id=50182526
-Points: 25
-# Comments: 8
-- `Hacker News` [Delays for Pull Requests and Webhook deliveries](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
-> Article URL: https://www.githubstatus.com/incidents/nms1dpzmh9d9
-Comments URL: https://news.ycombinator.com/item?id=50182130
-Points: 42
-# Comments: 9
-- `Hacker News` [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/)
-> Article URL: https://blog.cloudflare.com/php-vulnerabilities-waf-protection/
-Comments URL: https://news.ycombinator.com/item?id=50181326
-Points: 14
-# Comments: 1
-- `Hacker News` [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
-> https://patchtheplanet.org/
-
-Comments URL: https://news.ycombinator.com/item?id=50181175
-Points: 101
-# Comments: 51
-- `Hacker News` [The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
-> Article URL: https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/
-Comments URL: https://news.ycombinator.com/item?id=50181137...
-- `Hacker News` [DuckDB 2.0.0 LTS "Cinnamon Teal"](https://duckdb.org/2026/10/21/announcing-duckdb-200)
-> Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200
-Comments URL: https://news.ycombinator.com/item?id=50181136
-Points: 154
-# Comments: 14
-- `Hacker News` [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
-> Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
-Comments URL: https://news.ycombinator.com/item?id=50181114
-Points: 77
-# Comments: 35
-- `Hacker News` [PHP2Shell](https://www.php2shell.com)
-> Article URL: https://www.php2shell.com
-Comments URL: https://news.ycombinator.com/item?id=50181058
-Points: 30
-# Comments: 8
-- `Hacker News` [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
-> Article URL: https://github.com/php/php-src/releases/tag/php-8.2.35
-Comments URL: https://news.ycombinator.com/item?id=50180873
-Points: 530
-# Comments: 224
-- `TechCrunch` [Foursquare co-founder says equity holders saw no returns from the company’s acquisition](https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/)
-> Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.
-- `TechCrunch` [AI promises productivity, but for managers, it’s mostly a headache for now](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/)
-> More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.
-- `TechCrunch` [Heat pump tech is 170 years old. Pascal thinks it’s time for an update.](https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/)
-> Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.
-- `TechCrunch` [Mach9 raises $34M after pivoting to AI CAD software](https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/)
-> The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.
-- `TechCrunch` [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
-> The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.
-- `TechCrunch` [SpaceX and Tesla boards form special committees to review merger](https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/)
-> Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.
-- `TechCrunch` [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)
-> Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.
-- `TechCrunch` [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)
-> Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November ...
-- `TechCrunch` [SpaceX’s AI business is beating expectations](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)
-> SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.
-- `TechCrunch` [OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/)
-> OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researc...
-- `The Verge` [Supernatural’s comeback starts today, with more music and VR workouts coming soon](https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch)
-> Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in ...
-- `The Verge` [Apple Music has a new logo](https://www.theverge.com/tech/1015533/apple-music-new-logo)
-> Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new "identity"...
-- `The Verge` [Conversational Gemini navigation comes to Apple CarPlay](https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps)
-> After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, wit...
-- `The Verge` [Samsung’s 5K monitor has good gaming chops and a great price](https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale)
-> There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen...
-- `The Verge` [Apple says it only has ‘limited’ iPhone Duo units for in-store sales](https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales)
-> Apple says it will have "limited" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out, w...
-- `The Verge` [Blink brings 4K to its low-cost security camera lineup](https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch)
-> Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended...
-- `The Verge` [OpenAI says an AI agent lied about disabling its safety monitoring system](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems)
-> OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabl...
-- `The Verge` [Now Serato DJ works on your iPhone](https://www.theverge.com/tech/1015319/serato-dj-for-ios)
-> Serato DJ for iOS is finally bringing the company's pro-level DJ suite to the iPhone and iPad. Until now, the company had only dipped its toes into mobile software, with apps like Pyro that basical...
-- `The Verge` [Nvidia’s latest GPU driver brings a new way to speed up PC games](https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support)
-> Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game "just-in-time"...
-- `The Verge` [I reviewed the iPhone Duo, ask me anything](https://www.theverge.com/tech/1014316/iphone-duo-review-ama)
-> I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on th...
+- `TechCrunch` [Tesla says it will start selling Cybercabs by end of year](https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/)
+> Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued...
+- `TechCrunch` [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/)
+> Blackstone’s AI head on why the PE giant isn't panicked by market jitters.
+- `TechCrunch` [Meta wants to pay for its broad AI buildout with a newly created class of stock](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/)
+> The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.
+- `TechCrunch` [Airbnb limits chores for guests, sparking backlash from hosts](https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/)
+> Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.
+- `TechCrunch` [TechCrunch Founder Summit 2026: Everything you need to know](https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/)
+> TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building a...
+- `TechCrunch` [Meta says Muse has over 10M users, with shopping a top activity](https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/)
+> Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.
+- `TechCrunch` [Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/)
+> Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models "without ingesting half the internet."
+- `TechCrunch` [Tesla starts Optimus robot production in California as profit falls 43%](https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/)
+> Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.
+- `TechCrunch` [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/)
+> Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.
+- `TechCrunch` [Automattic begins layoffs following board upheaval and executive departures](https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/)
+> Sources say more cuts could follow as the company looks to improve its finances.
+- `The Verge` [YouTube says it isn’t testing hiding the dislike button](https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos)
+> On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the t...
+- `The Verge` [Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?](https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings)
+> For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's thi...
+- `The Verge` [Data centers could erase decades of air quality gains](https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report)
+> A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New...
+- `The Verge` [Meta to create a new class of shares to fund AI push](https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings)
+> Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go towar...
+- `The Verge` [New York’s first microdrama film festival searches for its audience](https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals)
+> It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - ...
+- `The Verge` [Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement](https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement)
+> Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released ...
+- `The Verge` [PHP: The three letters that shut down sites all over the internet today](https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026)
+> Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The "critical vulnerabilities" w...
+- `The Verge` [Flying Roadsters can’t lift Tesla’s flat Q3 revenues](https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger)
+> As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income ...
+- `The Verge` [Bose acquires Skullcandy to help it reach a wider audience](https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers)
+> Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's ...
+- `The Verge` [Airbnb bans making guests do dishes and take out the trash](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
+> Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, whic...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
