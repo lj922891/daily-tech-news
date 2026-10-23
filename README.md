@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-10-23
 
-> 自动收集于 2026-10-23 04:15 | 共 40 条
+> 自动收集于 2026-10-23 15:59 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/117169)
+> 📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...查看全文
+- `少数派` [TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验](https://sspai.com/post/116398)
+> 放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……查看全文
 - `少数派` [破与立：设计视角下的 iPhone Duo](https://sspai.com/post/116979)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等](https://sspai.com/post/117104)
@@ -26,63 +30,63 @@
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用](https://sspai.com/post/116445)
 > 如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文
-- `少数派` [怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？](https://sspai.com/post/115107)
-> 电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文
-- `少数派` [具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁](https://sspai.com/prime/story/inside-release-notes-261020)
-> FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [This I Believe](https://www.awakin.org/v2/read/view.php?tid=468)
-> Article URL: https://www.awakin.org/v2/read/view.php?tid=468
-Comments URL: https://news.ycombinator.com/item?id=50203759
-Points: 5
-# Comments: 0
-- `Hacker News` [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-> Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
-Comments URL: https://news.ycombinator.com/item?id=50203161
-Points: 66
-# Comments: 54
-- `Hacker News` [Mapping the Northern Sky](https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/)
-> Article URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/
-Comments URL: https://news.ycombinator.com/item?id=50202766
-Points: 23
-# Comments: 9
-- `Hacker News` [Jank – The native Clojure dialect with seamless C++ interop](https://jank-lang.org/)
-> Article URL: https://jank-lang.org/
-Comments URL: https://news.ycombinator.com/item?id=50202762
-Points: 33
-# Comments: 1
-- `Hacker News` [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-> Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird
-Comments URL: https://news.ycombinator.com/item?id=50202681
-Points: 223
-# Comments: 115
-- `Hacker News` [AI compute is the new oil–and needs a new market](https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market)
-> Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market
-Comments URL: https://news.ycombinator.com/item?id=50202671
-Points: 33
-# Com...
-- `Hacker News` [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
-> Article URL: https://www.anthropic.com/research/formal-verification
-Comments URL: https://news.ycombinator.com/item?id=50202217
-Points: 196
-# Comments: 105
-- `Hacker News` [Railpass](https://train.samismith.com/)
-> Article URL: https://train.samismith.com/
-Comments URL: https://news.ycombinator.com/item?id=50201414
-Points: 68
-# Comments: 21
-- `Hacker News` [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
-> Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai
-Comments URL: https://news.ycombinator.com/item?id=50199389
-Points: 159
-# Comments: 31
-- `Hacker News` [AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251)
-> Article URL: https://arxiv.org/abs/2610.27251
-Comments URL: https://news.ycombinator.com/item?id=50199230
-Points: 123
-# Comments: 72
+- `Hacker News` [Pentagon grants DHS permission to test heat ray weapon for use at border](https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon)
+> Article URL: https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon
+Comments URL: https://news.ycombinator.com/item?id=50210075
+Points: 10
+# Comments: 2
+- `Hacker News` [eMudhra ignored Mozilla Root investigation deadline; blames social media](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449)
+> Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2083449
+Comments URL: https://news.ycombinator.com/item?id=50210067
+Points: 36
+# Comments: 6
+- `Hacker News` [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
+> Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities
+Comments URL: https://news.ycombinator.com/item?id=50208837
+Points: 374
+# Comments: 271
+- `Hacker News` [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)
+> Article URL: https://codeberg.org/shitter/shitter
+Comments URL: https://news.ycombinator.com/item?id=50208343
+Points: 119
+# Comments: 69
+- `Hacker News` [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
+> Article URL: https://github.com/openssl/openssl/releases/tag/openssl-4.1.0
+Comments URL: https://news.ycombinator.com/item?id=50208099
+Points: 130
+# Comments: 32
+- `Hacker News` [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/)
+> Article URL: https://www.thisandthat.chat/enron/
+Comments URL: https://news.ycombinator.com/item?id=50207620
+Points: 14
+# Comments: 5
+- `Hacker News` [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
+> Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet
+Comments URL: https://news.ycombinator.com/item?id=50207405
+Points: 289
+# Comments: 100
+- `Hacker News` [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
+> Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/
+Comments URL: https://news.ycombinator.com/item?id=50207115
+Points: 120
+# Comments: 129
+- `Hacker News` [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania)
+> Article URL: https://tilschuenemann.de/job-loss-cortisone-mania
+Comments URL: https://news.ycombinator.com/item?id=50206840
+Points: 82
+# Comments: 19
+- `Hacker News` [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/)
+> Article URL: https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/
+Comments URL: https://news.ycombinator.com/item?id=50205934
+Points: 267
+# Comments: 241
+- `TechCrunch` [Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised d...](https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/)
+> Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.
+- `TechCrunch` [Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
+> Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.
 - `TechCrunch` [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
 > inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.
 - `TechCrunch` [Left alone with nothing to do, AI agents started playing](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
@@ -99,30 +103,26 @@ Points: 123
 > Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.
 - `TechCrunch` [Arc browser sunsets December 22 as The Browser Company doubles down on Dia](https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/)
 > Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.
-- `TechCrunch` [The secret to fast startup growth isn’t early sales, top names in tech say](https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/)
-> At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.
-- `TechCrunch` [1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/)
-> The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.
-- `The Verge` [Etsy is cracking down on AI slop listings](https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing)
-> Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that "many active buyers say they can't tell whic...
-- `The Verge` [Spotify says yes, it is busting people for using Family Plan sharing too widely](https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes)
-> Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verificati...
-- `The Verge` [The next-gen Xbox won’t cost you $1,800. It can’t. Can it?](https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial)
-> Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives...
-- `The Verge` [Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)
-> Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stag...
-- `The Verge` [PC shipments dropped over 20 percent in Q3 due to RAM price hikes](https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram)
-> Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports fr...
-- `The Verge` [Fall 2026 earnings watch](https://www.theverge.com/tech/1016506/fall-2026-earnings-watch)
-> Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and cal...
-- `The Verge` [Meta’s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
-> Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to addre...
-- `The Verge` [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts)
-> Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a mark...
-- `The Verge` [The FCC is beginning to block gadgets with ‘foreign surveillance chips’](https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole)
-> On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today,...
-- `The Verge` [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari)
-> Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to ...
+- `The Verge` [Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights](https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss)
+> After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The Nati...
+- `The Verge` [SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites](https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier)
+> SpaceX is planning to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publicati...
+- `The Verge` [Meta delays new business terms after publisher pushback on AI scraping](https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping)
+> Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Compa...
+- `The Verge` [The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera](https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade)
+> Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgr...
+- `The Verge` [Our best tips for using the iPhone Duo](https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe)
+> The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But...
+- `The Verge` [Apple revives the original iPod as an Apple Music easter egg](https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page)
+> If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual recreation of the first-generation iPod. The hidden iPod was spotted ...
+- `The Verge` [People are vibe coding their way to better TVs](https://www.theverge.com/tech/1016116/vibe-coding-tv-os)
+> Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change t...
+- `The Verge` [Netflix can’t fire its way out of this downward spiral](https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad)
+> Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company was going to lay off 1,000 employees, downsizing its product...
+- `The Verge` [Brick’s new app blocker is designed for bedtime doomscrolling](https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch)
+> Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night ...
+- `The Verge` [Retro gaming is being overrun with AI](https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port)
+> Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past m...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
