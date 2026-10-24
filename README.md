@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-23
+# 📰 每日科技日报 — 2026-10-24
 
-> 自动收集于 2026-10-23 15:59 | 共 40 条
+> 自动收集于 2026-10-24 04:06 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,96 +33,90 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Pentagon grants DHS permission to test heat ray weapon for use at border](https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon)
-> Article URL: https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon
-Comments URL: https://news.ycombinator.com/item?id=50210075
-Points: 10
-# Comments: 2
-- `Hacker News` [eMudhra ignored Mozilla Root investigation deadline; blames social media](https://bugzilla.mozilla.org/show_bug.cgi?id=2083449)
-> Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2083449
-Comments URL: https://news.ycombinator.com/item?id=50210067
-Points: 36
+- `Hacker News` [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
+> Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm
+Comments URL: https://news.ycombinator.com/item?id=50217683
+Points: 37
 # Comments: 6
-- `Hacker News` [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
-> Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities
-Comments URL: https://news.ycombinator.com/item?id=50208837
-Points: 374
-# Comments: 271
-- `Hacker News` [Shitter – A Nitter Fork](https://codeberg.org/shitter/shitter)
-> Article URL: https://codeberg.org/shitter/shitter
-Comments URL: https://news.ycombinator.com/item?id=50208343
-Points: 119
-# Comments: 69
-- `Hacker News` [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
-> Article URL: https://github.com/openssl/openssl/releases/tag/openssl-4.1.0
-Comments URL: https://news.ycombinator.com/item?id=50208099
-Points: 130
-# Comments: 32
-- `Hacker News` [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/)
-> Article URL: https://www.thisandthat.chat/enron/
-Comments URL: https://news.ycombinator.com/item?id=50207620
-Points: 14
-# Comments: 5
-- `Hacker News` [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
-> Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet
-Comments URL: https://news.ycombinator.com/item?id=50207405
-Points: 289
-# Comments: 100
-- `Hacker News` [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
-> Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/
-Comments URL: https://news.ycombinator.com/item?id=50207115
-Points: 120
-# Comments: 129
-- `Hacker News` [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania)
-> Article URL: https://tilschuenemann.de/job-loss-cortisone-mania
-Comments URL: https://news.ycombinator.com/item?id=50206840
-Points: 82
-# Comments: 19
-- `Hacker News` [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/)
-> Article URL: https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/
-Comments URL: https://news.ycombinator.com/item?id=50205934
-Points: 267
-# Comments: 241
-- `TechCrunch` [Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised d...](https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/)
-> Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.
-- `TechCrunch` [Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
-> Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.
-- `TechCrunch` [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
-> inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.
-- `TechCrunch` [Left alone with nothing to do, AI agents started playing](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
-> MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.
-- `TechCrunch` [Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing contr...](https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/)
-> A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the "billionaire's tax," should the measure be voted into law.
-- `TechCrunch` [Warhound raises $200M to engineer war dogs and arm them with Anduril gear](https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/)
-> Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.
-- `TechCrunch` [As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier](https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/)
-> The digital asset unit, helmed by Chris Dixon, broadens its scope.
-- `TechCrunch` [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
-> Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.
-- `TechCrunch` [Rivian buys world model startup to accelerate self-driving ambitions](https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/)
-> Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.
-- `TechCrunch` [Arc browser sunsets December 22 as The Browser Company doubles down on Dia](https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/)
-> Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.
-- `The Verge` [Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights](https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss)
-> After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The Nati...
-- `The Verge` [SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites](https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier)
-> SpaceX is planning to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publicati...
-- `The Verge` [Meta delays new business terms after publisher pushback on AI scraping](https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping)
-> Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Compa...
-- `The Verge` [The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera](https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade)
-> Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgr...
-- `The Verge` [Our best tips for using the iPhone Duo](https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe)
-> The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But...
-- `The Verge` [Apple revives the original iPod as an Apple Music easter egg](https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page)
-> If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual recreation of the first-generation iPod. The hidden iPod was spotted ...
-- `The Verge` [People are vibe coding their way to better TVs](https://www.theverge.com/tech/1016116/vibe-coding-tv-os)
-> Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change t...
-- `The Verge` [Netflix can’t fire its way out of this downward spiral](https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad)
-> Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company was going to lay off 1,000 employees, downsizing its product...
-- `The Verge` [Brick’s new app blocker is designed for bedtime doomscrolling](https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch)
-> Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night ...
-- `The Verge` [Retro gaming is being overrun with AI](https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port)
-> Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past m...
+- `Hacker News` [Twelve Years of Distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+> Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/
+Comments URL: https://news.ycombinator.com/item?id=50217500
+Points: 35
+# Comments: 1
+- `Hacker News` [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+> Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQL...
+- `Hacker News` [CVE Tracker](https://cve.0xosprey.com/)
+> Article URL: https://cve.0xosprey.com/
+Comments URL: https://news.ycombinator.com/item?id=50215530
+Points: 124
+# Comments: 53
+- `Hacker News` [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
+> Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/
+Comments URL: https://news.ycombinator.com/item?id=50214983
+Points: 36
+# Comments: 7
+- `Hacker News` [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/)
+> Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/
+Comments URL: https://news.ycombinator.com/item?id=50214416
+Points: 87
+# Comments: 99
+- `Hacker News` [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/)
+> Hey everyone,Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.I think I improved on the concept in a few ways, focusing on the ergonomi...
+- `Hacker News` [Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501](https://rune.build/blog/rune-1-3-release)
+> Article URL: https://rune.build/blog/rune-1-3-release
+Comments URL: https://news.ycombinator.com/item?id=50214325
+Points: 42
+# Comments: 9
+- `Hacker News` [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
+> Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update
+Comments URL: https://news.ycombinator.com/item?id=50214218
+Points: 317
+# Comments: 163
+- `Hacker News` [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
+> Article URL: https://block.xyz/dessa
+Comments URL: https://news.ycombinator.com/item?id=50213925
+Points: 283
+# Comments: 113
+- `TechCrunch` [Startups don’t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/)
+> At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
+- `TechCrunch` [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
+> OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
+- `TechCrunch` [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
+> The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
+- `TechCrunch` [VCs, Superhuman Mail founder share red flags about product-market fit](https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/)
+> Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.
+- `TechCrunch` [TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving righ...](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/)
+> TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessio...
+- `TechCrunch` [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/)
+> A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.
+- `TechCrunch` [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
+> Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch...
+- `TechCrunch` [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)
+> Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.
+- `TechCrunch` [Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors](https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/)
+> Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.
+- `TechCrunch` [What some of Anthropic’s backers are worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/)
+> Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.
+- `The Verge` [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure)
+> Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The V...
+- `The Verge` [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)
+> OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environme...
+- `The Verge` [Abandoned Popcorn Time apps had to be disabled to prevent a zombie army](https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided)
+> Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned fo...
+- `The Verge` [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech)
+> Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can...
+- `The Verge` [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale)
+> My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon t...
+- `The Verge` [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale)
+> If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkou...
+- `The Verge` [Elon Musk’s dangerous grip on outer space](https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly)
+> Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian a...
+- `The Verge` [The iPhone Duo should have been an iPad](https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast)
+> We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea abou...
+- `The Verge` [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
+> Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android ...
+- `The Verge` [The first broken iPhone Duos are here](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
+> The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
