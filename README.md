@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-10-24
 
-> 自动收集于 2026-10-24 04:06 | 共 40 条
+> 自动收集于 2026-10-24 14:57 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [在硅谷，遇见个人计算机历史](https://sspai.com/post/116128)
+> 从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/117169)
 > 📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...查看全文
 - `少数派` [TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验](https://sspai.com/post/116398)
@@ -28,55 +30,63 @@
 > OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文
 - `少数派` [社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备](https://sspai.com/post/116820)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用](https://sspai.com/post/116445)
-> 如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
-> Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm
-Comments URL: https://news.ycombinator.com/item?id=50217683
-Points: 37
-# Comments: 6
-- `Hacker News` [Twelve Years of Distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
-> Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/
-Comments URL: https://news.ycombinator.com/item?id=50217500
-Points: 35
+- `Hacker News` [One Must Fall 2097 Remastered](https://github.com/Jared-woodruff/OMF-2097-Remastered/)
+> Article URL: https://github.com/Jared-woodruff/OMF-2097-Remastered/
+Comments URL: https://news.ycombinator.com/item?id=50221179
+Points: 33
+# Comments: 18
+- `Hacker News` [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
+> Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/
+Comments URL: https://news.ycombinator.com/item?id=50220913
+Points: 240
+# Comments: 223
+- `Hacker News` [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
+> Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/
+Comments URL: https://news.ycombinator.com/item?id=50220204
+Points: 56
+# Comment...
+- `Hacker News` [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
+> Article URL: https://gitlab.com/c4psu13/mali-pagecache-root
+Comments URL: https://news.ycombinator.com/item?id=50220042
+Points: 13
 # Comments: 1
-- `Hacker News` [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
-> Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQL...
-- `Hacker News` [CVE Tracker](https://cve.0xosprey.com/)
-> Article URL: https://cve.0xosprey.com/
-Comments URL: https://news.ycombinator.com/item?id=50215530
-Points: 124
-# Comments: 53
-- `Hacker News` [A whirlwind tour of systemd-nspawn containers (2025)](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
-> Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/
-Comments URL: https://news.ycombinator.com/item?id=50214983
-Points: 36
-# Comments: 7
-- `Hacker News` [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment/)
-> Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/
-Comments URL: https://news.ycombinator.com/item?id=50214416
-Points: 87
-# Comments: 99
-- `Hacker News` [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/)
-> Hey everyone,Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.I think I improved on the concept in a few ways, focusing on the ergonomi...
-- `Hacker News` [Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501](https://rune.build/blog/rune-1-3-release)
-> Article URL: https://rune.build/blog/rune-1-3-release
-Comments URL: https://news.ycombinator.com/item?id=50214325
-Points: 42
-# Comments: 9
-- `Hacker News` [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
-> Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update
-Comments URL: https://news.ycombinator.com/item?id=50214218
-Points: 317
-# Comments: 163
-- `Hacker News` [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
-> Article URL: https://block.xyz/dessa
-Comments URL: https://news.ycombinator.com/item?id=50213925
-Points: 283
-# Comments: 113
+- `Hacker News` [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock)
+> Article URL: https://github.com/Zagitta/gpu-unlock
+Comments URL: https://news.ycombinator.com/item?id=50219700
+Points: 18
+# Comments: 4
+- `Hacker News` [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+> Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html
+Comments URL: https://news.ycombinator.com/item?id=50219666
+Points: 169
+# Comments: 111
+- `Hacker News` [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
+> Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497
+Comments URL: https://news.ycombinator.com/item?id=50219177
+Points: 106
+# Comments: 58
+- `Hacker News` [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
+> Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/
+Comments URL: https://news.ycombinator.com/item?id=50218633
+Points: 338
+# Comments: 106
+- `Hacker News` [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+> Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0
+Comments URL: https://news.ycombinator.com/item?id=50218430
+Points: 298
+# Comments: 85
+- `Hacker News` [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
+> Article URL: https://rtfeldman.com/fp-vs-c
+Comments URL: https://news.ycombinator.com/item?id=50218195
+Points: 179
+# Comments: 39
+- `TechCrunch` [The Boox Palma 2 Pro finally got me to stop reading on my phone](https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/)
+> The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.
+- `TechCrunch` [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)
+> We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
 - `TechCrunch` [Startups don’t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/)
 > At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
 - `TechCrunch` [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
@@ -93,10 +103,16 @@ Points: 283
 > Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch...
 - `TechCrunch` [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)
 > Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.
-- `TechCrunch` [Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors](https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/)
-> Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.
-- `TechCrunch` [What some of Anthropic’s backers are worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/)
-> Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.
+- `The Verge` [What to expect from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro)
+> It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on t...
+- `The Verge` [I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis)
+> It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: thi...
+- `The Verge` [Lee Chang Dong ponders the ethics of the camera](https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview)
+> Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicid...
+- `The Verge` [Laika has spent 20 years building up to Wildwood](https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika)
+> Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and T...
+- `The Verge` [It’s time to find a new browser](https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer)
+> Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood)...
 - `The Verge` [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure)
 > Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The V...
 - `The Verge` [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)
@@ -107,16 +123,6 @@ Points: 283
 > Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can...
 - `The Verge` [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale)
 > My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon t...
-- `The Verge` [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale)
-> If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkou...
-- `The Verge` [Elon Musk’s dangerous grip on outer space](https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly)
-> Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian a...
-- `The Verge` [The iPhone Duo should have been an iPad](https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast)
-> We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea abou...
-- `The Verge` [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
-> Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android ...
-- `The Verge` [The first broken iPhone Duos are here](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
-> The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
