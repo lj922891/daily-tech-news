@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-24
+# 📰 每日科技日报 — 2026-10-25
 
-> 自动收集于 2026-10-24 14:57 | 共 40 条
+> 自动收集于 2026-10-25 04:08 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,76 +33,82 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [One Must Fall 2097 Remastered](https://github.com/Jared-woodruff/OMF-2097-Remastered/)
-> Article URL: https://github.com/Jared-woodruff/OMF-2097-Remastered/
-Comments URL: https://news.ycombinator.com/item?id=50221179
-Points: 33
-# Comments: 18
-- `Hacker News` [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
-> Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/
-Comments URL: https://news.ycombinator.com/item?id=50220913
-Points: 240
-# Comments: 223
-- `Hacker News` [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
-> Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/
-Comments URL: https://news.ycombinator.com/item?id=50220204
-Points: 56
-# Comment...
-- `Hacker News` [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root)
-> Article URL: https://gitlab.com/c4psu13/mali-pagecache-root
-Comments URL: https://news.ycombinator.com/item?id=50220042
-Points: 13
-# Comments: 1
-- `Hacker News` [GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards](https://github.com/Zagitta/gpu-unlock)
-> Article URL: https://github.com/Zagitta/gpu-unlock
-Comments URL: https://news.ycombinator.com/item?id=50219700
-Points: 18
-# Comments: 4
-- `Hacker News` [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
-> Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html
-Comments URL: https://news.ycombinator.com/item?id=50219666
-Points: 169
-# Comments: 111
-- `Hacker News` [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
-> Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497
-Comments URL: https://news.ycombinator.com/item?id=50219177
-Points: 106
-# Comments: 58
-- `Hacker News` [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
-> Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/
-Comments URL: https://news.ycombinator.com/item?id=50218633
-Points: 338
-# Comments: 106
-- `Hacker News` [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
-> Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0
-Comments URL: https://news.ycombinator.com/item?id=50218430
-Points: 298
-# Comments: 85
-- `Hacker News` [How close can pure functional programming get to C?](https://rtfeldman.com/fp-vs-c)
-> Article URL: https://rtfeldman.com/fp-vs-c
-Comments URL: https://news.ycombinator.com/item?id=50218195
-Points: 179
-# Comments: 39
+- `Hacker News` [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
+> Article URL: https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/
+Comments URL: https://news.ycombinator.com/item?id=50227892
+Points: 36
+# Comments: 15
+- `Hacker News` [Meta employees say Lula’s accounts restricted in Brazil election: Report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report)
+> Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report
+Comments URL: https://news.ycombinator.com/item?id=50227639
+Points: ...
+- `Hacker News` [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+> Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
+Comments URL: https://news.ycombinator.com/item?id=50227356
+Points: 30
+# Comments: 8
+- `Hacker News` [FindMyWeb: Apple Find My, reverse enginiered](https://codeberg.org/Misom/FindMyWeb)
+> Article URL: https://codeberg.org/Misom/FindMyWeb
+Comments URL: https://news.ycombinator.com/item?id=50226646
+Points: 34
+# Comments: 7
+- `Hacker News` [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
+> Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt
+Comments URL: https://news.ycombinator.com/item?id=50226577
+Points: 43
+# Comments: 12
+- `Hacker News` [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
+> Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
+Comments URL: https://news.ycombinator.com/item?id=50226419
+Points: 228
+# Comments: 222
+- `Hacker News` [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+> Article URL: https://danluu.com/ambitious/
+Comments URL: https://news.ycombinator.com/item?id=50225695
+Points: 254
+# Comments: 224
+- `Hacker News` [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
+> Article URL: https://ratfactor.com/cards/pl-small
+Comments URL: https://news.ycombinator.com/item?id=50225674
+Points: 57
+# Comments: 5
+- `Hacker News` [The Importance of Limitations for Creativity and Learning (2023)](https://ratfactor.com/cards/limitations)
+> Article URL: https://ratfactor.com/cards/limitations
+Comments URL: https://news.ycombinator.com/item?id=50225663
+Points: 40
+# Comments: 11
+- `Hacker News` [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
+> Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun!
+
+Comments URL: https://news.ycombinator.com/i...
+- `TechCrunch` [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/)
+> Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.
+- `TechCrunch` [Will AI expose the rickety infrastructure of the internet?](https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/)
+> The moment you realize the internet is "held together by glue and dreams."
+- `TechCrunch` [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+> From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
+- `TechCrunch` [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/)
+> Instacart might sell itself to a larger competitor.
+- `TechCrunch` [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
+> Block said that the voice model can run locally on a MacBook M4 Max
+- `TechCrunch` [PHP-ocalypse: How two critical web bugs almost broke the internet](https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/)
+> Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.
+- `TechCrunch` [These clever apps show off the iPhone Duo’s potential](https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/)
+> From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.
+- `TechCrunch` [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)
+> A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.
 - `TechCrunch` [The Boox Palma 2 Pro finally got me to stop reading on my phone](https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/)
 > The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.
 - `TechCrunch` [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)
 > We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
-- `TechCrunch` [Startups don’t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/)
-> At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
-- `TechCrunch` [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
-> OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
-- `TechCrunch` [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
-> The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
-- `TechCrunch` [VCs, Superhuman Mail founder share red flags about product-market fit](https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/)
-> Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.
-- `TechCrunch` [TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving righ...](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/)
-> TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessio...
-- `TechCrunch` [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/)
-> A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.
-- `TechCrunch` [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
-> Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch...
-- `TechCrunch` [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)
-> Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.
+- `The Verge` [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
+> BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footag...
+- `The Verge` [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
+> On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether i...
+- `The Verge` [Fielded is obsessed with scammers and unhinged Japanese cyberpunk](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview)
+> Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an expe...
+- `The Verge` [LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale)
+> Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you sav...
 - `The Verge` [What to expect from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro)
 > It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on t...
 - `The Verge` [I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis)
@@ -115,14 +121,6 @@ Points: 179
 > Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood)...
 - `The Verge` [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure)
 > Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The V...
-- `The Verge` [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)
-> OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environme...
-- `The Verge` [Abandoned Popcorn Time apps had to be disabled to prevent a zombie army](https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided)
-> Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned fo...
-- `The Verge` [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech)
-> Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can...
-- `The Verge` [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale)
-> My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon t...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
