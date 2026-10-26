@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-25
+# 📰 每日科技日报 — 2026-10-26
 
-> 自动收集于 2026-10-25 15:07 | 共 40 条
+> 自动收集于 2026-10-26 04:12 | 共 30 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地](https://sspai.com/post/117180)
+> 每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...查看全文
+- `少数派` [派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患](https://sspai.com/post/117460)
+> iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患Spotify 将要求家庭组成员定期扫码验证Arc 浏览器宣布下线央广总台澄清「国补停止」说法谷歌建设虚拟电厂，付费激励电网用户省电留给 AIiTunes Store 重受歌手青睐看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro](https://sspai.com/post/114741)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [在硅谷，遇见个人计算机历史](https://sspai.com/post/116128)
@@ -26,63 +30,19 @@
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本](https://sspai.com/post/116923)
 > 配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。查看全文
-- `少数派` [终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记](https://sspai.com/post/115090)
-> 药物不能解决所有问题，这是是我学到的重要一课。查看全文
-- `少数派` [派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等](https://sspai.com/post/116953)
-> OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai)
-> Article URL: https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai
-Comments URL: https://news.ycombinator.com/item?id=50231722
-Points: 40
-# Comments: 21
-- `Hacker News` [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
-> Article URL: https://github.com/winnin/farol
-Comments URL: https://news.ycombinator.com/item?id=50231349
-Points: 23
-# Comments: 15
-- `Hacker News` [US inequality is getting worse in ways you might not expect](https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075)
-> Article URL: https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075
-Comments URL: https://news.ycombinator.com/item?id=50231310
-Points: 24
-# Comments: 23
-- `Hacker News` [The Lego group reveals collaboration with Daft Punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
-> Article URL: https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk
-Comments URL: https://news.ycombinator.com/item?id=50231001
-Points: 35
-# Comments: 31
-- `Hacker News` [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)
-> Article URL: https://loeffelholz-codex.org/en/
-Comments URL: https://news.ycombinator.com/item?id=50230917
-Points: 78
-# Comments: 31
-- `Hacker News` [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
-> Article URL: https://github.com/ihhub/fheroes2
-Comments URL: https://news.ycombinator.com/item?id=50230384
-Points: 95
-# Comments: 30
-- `Hacker News` [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)
-> Article URL: https://twitter.com/mike64_t/status/2114150399406202896
-Comments URL: https://news.ycombinator.com/item?id=50230181
-Points: 184
-# Comments: 117
-- `Hacker News` [Nikon photography contest winner loses title after scientists spot signs of AI](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)
-> Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html
-Comments URL: https://news.ycombinator.com/item?id=50229827
-Points: 67
-# Comment...
-- `Hacker News` [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
-> Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
-Comments URL: https://news.ycombinator.com/item?id=50227356
-Points: 255
-# Comments: 84
-- `Hacker News` [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
-> Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt
-Comments URL: https://news.ycombinator.com/item?id=50226577
-Points: 104
-# Comments: 57
+- `TechCrunch` [The best apps for tracking your reading and discovering new books](https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/)
+> There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.
+- `TechCrunch` [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
+> The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.
+- `TechCrunch` [‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/)
+> "That's a 12-year-old view of the world."
+- `TechCrunch` [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+> "Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
+- `TechCrunch` [TechCrunch Mobility: Blue-green is the color of autonomy](https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 - `TechCrunch` [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/)
 > We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.
 - `TechCrunch` [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/)
@@ -93,16 +53,18 @@ Points: 104
 > From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
 - `TechCrunch` [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/)
 > Instacart might sell itself to a larger competitor.
-- `TechCrunch` [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
-> Block said that the voice model can run locally on a MacBook M4 Max
-- `TechCrunch` [PHP-ocalypse: How two critical web bugs almost broke the internet](https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/)
-> Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.
-- `TechCrunch` [These clever apps show off the iPhone Duo’s potential](https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/)
-> From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.
-- `TechCrunch` [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)
-> A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.
-- `TechCrunch` [The Boox Palma 2 Pro finally got me to stop reading on my phone](https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/)
-> The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.
+- `The Verge` [iFixit’s look inside the iPhone Duo may explain those broken screens and hinges](https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge)
+> As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen ...
+- `The Verge` [Scott Walker’s The Drift will get under your skin](https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review)
+> In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like "The Monster Mash" and John Carpenter's "Halloween Theme." Then there is the genuinel...
+- `The Verge` [A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate](https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen)
+> Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the ...
+- `The Verge` [Zen Browser is the Arc replacement I was looking for](https://www.theverge.com/tech/1018275/zen-browser-arc-replacement)
+> I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company l...
+- `The Verge` [This Switch 2 sequel accessory was a few millimeters away from being good](https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on)
+> The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a c...
+- `The Verge` [Now you can watch Instagram Reels on your Apple TV](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv)
+> Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other vi...
 - `The Verge` [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban)
 > The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, "If your project uses AI, is made by AI, ...
 - `The Verge` [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing)
@@ -111,18 +73,6 @@ Points: 104
 > BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footag...
 - `The Verge` [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
 > On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether i...
-- `The Verge` [Fielded is obsessed with scammers and unhinged Japanese cyberpunk](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview)
-> Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an expe...
-- `The Verge` [LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale)
-> Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you sav...
-- `The Verge` [What to expect from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro)
-> It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on t...
-- `The Verge` [I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis)
-> It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: thi...
-- `The Verge` [Lee Chang Dong ponders the ethics of the camera](https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview)
-> Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicid...
-- `The Verge` [Laika has spent 20 years building up to Wildwood](https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika)
-> Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and T...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
