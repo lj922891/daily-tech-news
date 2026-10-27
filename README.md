@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-26
+# 📰 每日科技日报 — 2026-10-27
 
-> 自动收集于 2026-10-26 17:44 | 共 40 条
+> 自动收集于 2026-10-27 04:31 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机](https://sspai.com/post/115855)
+> 借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。查看全文
+- `少数派` [派早报：Apple 发布 iPad mini (A20 Pro) 等](https://sspai.com/post/117600)
+> 少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/117529)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [秋冬换季护肤买什么，双 11 选购推荐](https://sspai.com/post/117414)
@@ -26,82 +30,88 @@
 > 从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/117169)
 > 📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...查看全文
-- `少数派` [TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验](https://sspai.com/post/116398)
-> 放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……查看全文
-- `少数派` [破与立：设计视角下的 iPhone Duo](https://sspai.com/post/116979)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
-> Article URL: https://entire.com/blog/the-git-forge-for-agent-human-collaboration
-Comments URL: https://news.ycombinator.com/item?id=50247453
-Points: 15
-# Comments: 0
-- `Hacker News` [Concerning behavior from a popular open-weight AI model](https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model)
-> Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model
-Comments URL: https://news.ycombinator.com/item?id=50246658
-Points: 23
-# Comments: 3
-- `Hacker News` [Stalwart v1.0: The Fastest Mail Server on the Planet](https://stalw.art/blog/stalwart-1-0/)
-> Article URL: https://stalw.art/blog/stalwart-1-0/
-Comments URL: https://news.ycombinator.com/item?id=50245945
-Points: 19
-# Comments: 7
-- `Hacker News` [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
-> Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/
-Comments URL: https://news.ycombinator.com/item?id=50245831
-Points: 124
-# Comments: 26
-- `Hacker News` [Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/)
-> Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/
-Comments URL: https://news.ycombinator.com/item?id=50245524
-Points...
-- `Hacker News` [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
-> Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models
-Comments URL: https://news.ycombinator.com/item?id=50245138
-Points: 228
-# Comments: 24
-- `Hacker News` [Partyline: A group voice application for Reticulum, built on LXST](https://github.com/RFnexus/partyline)
-> Article URL: https://github.com/RFnexus/partyline
-Comments URL: https://news.ycombinator.com/item?id=50244583
-Points: 29
-# Comments: 6
-- `Hacker News` [KibernetykMono – A Geometric Monospace Typeface](https://pavlokilko.github.io/KibernetykMono/)
-> Article URL: https://pavlokilko.github.io/KibernetykMono/
-Comments URL: https://news.ycombinator.com/item?id=50244265
-Points: 6
-# Comments: 0
-- `Hacker News` [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
-> Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm
-Comments URL: https://news.ycombinator.com/item?id=50242939
-Points: 1016
-# Comments: 924
-- `Hacker News` [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
-> Article URL: https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm
-Comments URL: https://news.ycombinator.com/item?id=50242870
-Points: 110
-# Comments: 61
+- `Hacker News` [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
+> Article URL: https://github.com/otya128/winevdm
+Comments URL: https://news.ycombinator.com/item?id=50253529
+Points: 42
+# Comments: 2
+- `Hacker News` [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+> Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/
+Comments URL: https://news.ycombinator.com/item?id=50252159
+Points: 98
+# Comments: 31
+- `Hacker News` [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
+> Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it
+Comments URL: https://news.ycombinator.com/item?id=50252008...
+- `Hacker News` [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
+> See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344
+
+Comments URL: https://news.ycombinator.com/item?id=50251661...
+- `Hacker News` [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+> Related:The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661
+
+Comments URL: https://news.ycombinator.com/item?id=50251344
+Points: 632
+# Comments: 271
+- `Hacker News` [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
+> Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md
+Comments URL: https://news.ycombinator.com/item?id=50248371
+Points: 210
+# Comments: 145
+- `Hacker News` [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)
+> https://developers.openai.com/api/docs/models/gpt-6.1-terra
+
+Comments URL: https://news.ycombinator.com/item?id=50248124
+Points: 546
+# Comments: 342
+- `Hacker News` [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
+> Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/
+Comments URL: https://news.ycombinator.com/item?id=50248055
+Points: 342
+# Comments: 206
+- `Hacker News` [A Man from the Future: Why Johnny Can't Stop Abstracting](http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html)
+> Article URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html
+Comments URL: https://news.ycombinator.com/item?id=50247928
+Points: 141
+# Comments: 69
+- `Hacker News` [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
+> Article URL: https://github.com/DilawarShafiq/nietzschian-debugger
+Comments URL: https://news.ycombinator.com/item?id=50247493
+Points: 148
+# Comments: 49
+- `TechCrunch` [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/)
+> Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.
+- `TechCrunch` [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/)
+> An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing h...
+- `TechCrunch` [Databricks co-founder shares his secrets for winning big enterprise customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/)
+> Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.
+- `TechCrunch` [Watch out, YouTube — Instagram goes from short-form to 90-minute videos](https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/)
+> After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.
+- `TechCrunch` [Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)
+> A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.
+- `TechCrunch` [Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)
+> Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?
+- `TechCrunch` [This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)
+> Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.
 - `TechCrunch` [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)
 > Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise c...
 - `TechCrunch` [SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
-> SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a state...
-- `TechCrunch` [Microsoft offers buyouts to around 60,000 employees, reports say](https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/)
+> The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.
+- `TechCrunch` [Microsoft offers buyouts to around 60,000 employees](https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/)
 > The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.
-- `TechCrunch` [Anthropic officially files for its public debut](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)
-> Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI...
-- `TechCrunch` [Apple unveils new iPad mini with OLED display and faster A20 Pro chip](https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/)
-> The new iPad mini features a thinner and lighter design than its predecessor.
-- `TechCrunch` [Matiks raises $10M to expand its math and puzzle gaming platform](https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/)
-> Matiks has introduced a new platform for users to create games using AI.
-- `TechCrunch` [Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)](https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/)
-> Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.
-- `TechCrunch` [The best apps for tracking your reading and discovering new books](https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/)
-> There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.
-- `TechCrunch` [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
-> The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.
-- `TechCrunch` [‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/)
-> "That's a 12-year-old view of the world."
+- `The Verge` [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)
+> Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more "major" discoveries in ma...
+- `The Verge` [Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50](https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale)
+> Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) an...
+- `The Verge` [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk)
+> As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. "Competition for access to electrical supply and data center locations with adequate ...
+- `The Verge` [iPhone Duo now supports Apple Pencil with iOS 27.2](https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil)
+> Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an "Edge Light" feature for the iPhone Duo that's intended to illuminate your fa...
+- `The Verge` [The NBA’s response to gambling scandals is to add more gambling partnerships](https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket)
+> From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of...
 - `The Verge` [The RealReal won’t let AI agents hog designer clothing](https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal)
 > The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days afte...
 - `The Verge` [Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens](https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack)
@@ -112,16 +122,6 @@ Points: 110
 > Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spend...
 - `The Verge` [Everything old is new again with the Fitbit Edge](https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health)
 > Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. "You know, someone once told me time i...
-- `The Verge` [The Sony WH-1000XM4C bring back a beloved headphone design](https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review)
-> When Sony announced the WH-1000XM4C headphones, I was perplexed. A product revamp usually includes at least one or two significant improvements. Or if it's a nostalgia play, it's from a decades-old...
-- `The Verge` [Instagram chases YouTube with a push for longer, widescreen videos](https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube)
-> Instagram is announcing a big push into longform horizontal video, which the platform is calling "Features." Instagram boss Adam Mosseri has been against doing longform video on the platform "for a...
-- `The Verge` [Microsoft offers buyouts to 60,000 employees](https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible)
-> Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives ...
-- `The Verge` [T-Mobile’s new plans include swappable subscription perks](https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks)
-> T-Mobile is launching new "T-Mix" plans that bundle wireless service with subscriptions to services like Netflix, Apple TV, YouTube Premium, Xbox Game Pass Ultimate, device promotions, and more, as...
-- `The Verge` [Microsoft’s new Surface Laptop Ultra update fixes reboot and display bugs](https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update)
-> Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22nd release addresses three notable i...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
