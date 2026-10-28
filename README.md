@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-10-28
 
-> 自动收集于 2026-10-28 05:03 | 共 40 条
+> 自动收集于 2026-10-28 17:29 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [备受期待的国产 3A 游戏新作：《影之刃零》游玩体验](https://sspai.com/post/117725)
+> 编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文
+- `少数派` [断舍离只是起点：打造能长期经营的实用主义衣柜](https://sspai.com/post/116990)
+> 只扔不买是没有用的，穿衣服时不多费心神才是目的。查看全文
 - `少数派` [怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？](https://sspai.com/post/115533)
 > 短短几年，罗永浩和锤子科技在国产手机的红海中留下了浓墨重彩的一笔。查看全文
 - `少数派` [派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等](https://sspai.com/post/117684)
@@ -26,102 +30,97 @@
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [秋冬换季护肤买什么，双 11 选购推荐](https://sspai.com/post/117414)
 > 双 11 到来之际的秋冬护肤选购与搭配建议。查看全文
-- `少数派` [曲高和寡、终成绝唱：傲腾 P5800X 测试报告](https://sspai.com/post/115074)
-> 一起来看看 3D XPoint 这夸张的性能表现吧。查看全文
-- `少数派` [少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地](https://sspai.com/post/117180)
-> 每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
-> Article URL: https://lexifina.com/blog/git-for-the-us-code
-Comments URL: https://news.ycombinator.com/item?id=50268380
-Points: 125
-# Comments: 52
-- `Hacker News` [Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs](https://github.com/maharmstone/moxnox)
-> Article URL: https://github.com/maharmstone/moxnox
-Comments URL: https://news.ycombinator.com/item?id=50267569
-Points: 36
-# Comments: 7
-- `Hacker News` [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
-> Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners
-Comments URL: https://news.ycombinator.com/item?id=50266780
-Points: 89
-# Comments: 77
-- `Hacker News` [Expanding our partnership with GSA to bring Claude to all levels of government](https://www.anthropic.com/news/expanding-partnership-gsa)
-> Article URL: https://www.anthropic.com/news/expanding-partnership-gsa
-Comments URL: https://news.ycombinator.com/item?id=50266701
-Points: 32
-# Comments: 24
-- `Hacker News` [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
-> Article URL: https://www.anthropic.com/research/early-progress-drug-development
-Comments URL: https://news.ycombinator.com/item?id=50265609
-Points: 178
-# Comments: 159
-- `Hacker News` [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
-> Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/
-Comments URL: https://news.ycombinator.com/item?id=50265594
-Points: 126
-# Comments: 58
-- `Hacker News` [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
-> Article URL: https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/
-Comments URL: https://news.ycombinator.com/item?id=50265393
-Points...
-- `Hacker News` [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
-> Article URL: https://gracefulliberty.com/articles/four-months-of-zig/
-Comments URL: https://news.ycombinator.com/item?id=50265128
-Points: 95
-# Comments: 58
-- `Hacker News` [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
-> Article URL: https://tailscale.com/ssh-investigation-update
-Comments URL: https://news.ycombinator.com/item?id=50264857
-Points: 236
-# Comments: 119
-- `Hacker News` [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
-> Article URL: https://www.brangus.io/survival-llm
-Comments URL: https://news.ycombinator.com/item?id=50264853
-Points: 246
-# Comments: 120
-- `TechCrunch` [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/)
-> Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.
-- `TechCrunch` [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/)
-> A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.
-- `TechCrunch` [The data center boom has an upside: innovation for the US grid](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/)
-> As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.
-- `TechCrunch` [Guidewire buys Hyperexponential for $1.7B in cash](https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/)
-> The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.
-- `TechCrunch` [From 8VC to Benchmark, here’s what’s hiding in October SEC filings](https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/)
-> A whole crop of venture capital firms  are raising significant new funds.
-- `TechCrunch` [GM is embracing hybrids now](https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/)
-> GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.
-- `TechCrunch` [Bank of America kindly asks that you don’t share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/)
-> The banking giant reminds customers that "you're responsible for activity" resulting from your AI agents' access.
-- `TechCrunch` [Who’s really in charge at Anthropic after the IPO?](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/)
-> Here's a clear explanation of Anthropic's incredibly complex governance structure.
-- `TechCrunch` [Discord is making its public communities more searchable, and people have concerns](https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/)
-> In December, messages from Discord's public discoverable servers will begin appearing in search engine results.
-- `TechCrunch` [Re:Build, which spun out Slate Auto, raises $2.1B](https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/)
-> The manufacturing accelerator bills itself as "America’s answer to Shenzhen."
-- `The Verge` [Here’s why the iPhone Duo’s hinge could be cracking the screen](https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge)
-> Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on soc...
-- `The Verge` [Researchers are getting tired of OpenAI gatekeeping its breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics)
-> On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despi...
-- `The Verge` [Elon Musk says Ukraine’s military violated Starlink’s terms of service](https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service)
-> Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, "Ukraine military violated Starlink terms of servic...
-- `The Verge` [Trump is making it easier for fossil fuel companies to leak methane](https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump)
-> In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a...
-- `The Verge` [VisionQuest is what happens when AI really goes rogue](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai)
-> In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live t...
-- `The Verge` [The Super Mouse puts a touchscreen macro pad under your hand](https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter)
-> A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting...
-- `The Verge` [Anthropic’s elaborate plan to keep Wall Street at bay](https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety)
-> Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safel...
-- `The Verge` [Meta’s $25 billion legal loss just put blood in the water](https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement)
-> When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of t...
-- `The Verge` [Firefox’s Smart Window adds AI form filling and webpage monitoring](https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms)
-> Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart W...
-- `The Verge` [Major League Baseball is looking for a new kind of fan](https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers)
-> On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Ser...
+- `Hacker News` [MacBook Pro with Touch Enabled Proled XDR Display](https://www.apple.com/macbook-pro/proled-xdr-display/)
+> Article URL: https://www.apple.com/macbook-pro/proled-xdr-display/
+Comments URL: https://news.ycombinator.com/item?id=50276940
+Points: 48
+# Comments: 50
+- `Hacker News` [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
+> Why is it useful?
+- Present slides without sharing the screen and have every one be on the same page.
+- Present together with other cohosts and all control the current page.
+- Other features such a...
+- `Hacker News` [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+> Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
+Comments URL: https://news.ycombinator.com/item?id=50276792
+Points: 97
+# Comments: 47
+- `Hacker News` [Converge (YC S23) Is Hiring a Founding Platform Engineer](https://www.runconverge.com/careers/founding-platform-engineer)
+> Article URL: https://www.runconverge.com/careers/founding-platform-engineer
+Comments URL: https://news.ycombinator.com/item?id=50276779
+Points: 0
+# Comments: 0
+- `Hacker News` [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
+> Article URL: https://surgehq.ai/blog/dayjob-tax
+Comments URL: https://news.ycombinator.com/item?id=50275626
+Points: 51
+# Comments: 34
+- `Hacker News` [Scanning 7.25M Public Repositories on China's Largest Git Platform for Secrets](https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets)
+> Article URL: https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets
+Comments URL: https://news.ycombinator.com/item?i...
+- `Hacker News` [r/Seattle mods discover malware injection by archive.today, ban site](https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/)
+> Article URL: https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/
+Comments URL: https://news.ycombinator.com/item?id=50275373
+Points: 70
+# Comments: 26
+- `Hacker News` [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
+> Article URL: https://carmelitegothic.com/cnc-stone-carving/
+Comments URL: https://news.ycombinator.com/item?id=50274409
+Points: 188
+# Comments: 60
+- `Hacker News` [AlpineBSD](https://wiki.alpinebsd.org)
+> Article URL: https://wiki.alpinebsd.org
+Comments URL: https://news.ycombinator.com/item?id=50274251
+Points: 53
+# Comments: 47
+- `Hacker News` [An architectural comparison of Obsidian Canvas and Heptabase](https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase)
+> Article URL: https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase
+Comments URL: https://news.ycombinator.com/item?id=50274139
+Points: 30
+# Comments: 10
+- `TechCrunch` [Apple launches its new touchscreen MacBook Pro](https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/)
+> Apple's new touchscreen MacBook Pro starts at $2,899
+- `TechCrunch` [Xreal Aura is a new wired headset powered by Android XR](https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/)
+> Xreal Aura will start at $1,279 and will have multiple XR specific launch apps at launch
+- `TechCrunch` [As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)
+> A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.
+- `TechCrunch` [Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/)
+> The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.
+- `TechCrunch` [Reddit is the latest platform to embrace the ‘For You’ feed](https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/)
+> The For You feed combines posts from communities users have joined with recommendations tailored to their interests.
+- `TechCrunch` [AI execs may be too out of touch to build for the general public](https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/)
+> Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.
+- `TechCrunch` [Trump DOE loans $5B to nuclear plants that will power data centers](https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/)
+> Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.
+- `TechCrunch` [South Korea’s financial industry hit by fresh wave of cyberattacks](https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/)
+> South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.
+- `TechCrunch` [Voice AI in vogue: Nvidia releases new open transcription model](https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/)
+> Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription to...
+- `TechCrunch` [Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices](https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/)
+> Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.
+- `The Verge` [Apple ‘Pro and Tell’ event: everything announced this week](https://www.theverge.com/tech/1020069/apple-pro-and-tell-event-everything-announced-this-week)
+> Apple closed out its week of product announcements with a "Pro and Tell" event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its bi...
+- `The Verge` [Watch Apple’s reveal video for the touchscreen MacBook Pro](https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video)
+> Apple just announced its first touchscreen MacBook at its "Pro and tell" event on Wednesday. It showed off the long-awaited touch display in a video of the new MacBook Pro during the event that you...
+- `The Verge` [Hands-on with Apple’s touchscreen MacBook Pro](https://www.theverge.com/tech/1020549/macbook-studio-touchscreen-hands-on)
+> Steve Jobs famously called touchscreen laptops "ergonomically terrible," and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro - the company's fir...
+- `The Verge` [Here’s where you can preorder the new OLED-equipped iPad Mini](https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date)
+> Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Ap...
+- `The Verge` [Instagram doesn’t have a plan to pay long-form video creators](https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization)
+> Instagram is testing long-form videos (again) to lure in creatives from YouTube, but the platform hasn't figured out how (or if) it'll actually pay them. After Instagram head Adam Mosseri announced...
+- `The Verge` [Apple announces its first touchscreen MacBook Pro](https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell)
+> Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its "Pro and tell" event on Wednesday. It starts at $2,899 for the 14-inch model, or $3,399 for the 16-inch version, and it...
+- `The Verge` [Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms](https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence)
+> Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services li...
+- `The Verge` [Touchscreen MacBook live blog: On the ground at Apple’s launch event](https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog)
+> Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the defi...
+- `The Verge` [All the news from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements)
+> Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a mon...
+- `The Verge` [Meta says it’ll probably delay its controversial new business terms again](https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely)
+> Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
