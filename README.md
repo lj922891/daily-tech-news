@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-10-29
 
-> 自动收集于 2026-10-29 05:16 | 共 40 条
+> 自动收集于 2026-10-29 17:40 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [新玩意 254｜少数派的编辑们最近买了啥？](https://sspai.com/post/117791)
+> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
+- `少数派` [如何成为不吃压力的「大心脏」？](https://sspai.com/post/117244)
+> 适合别人的抗压方式为什么不适合自己？你也该知道的抗压方法论查看全文
 - `少数派` [让 Agent 读懂你的身体：数据处理篇](https://sspai.com/prime/story/how-to-analyze-health-data-with-agent)
 > 在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [一日一技｜iPhone 恶意被锁，线上移除流程拆招](https://sspai.com/post/116686)
@@ -26,101 +30,94 @@
 > 小米发布 REDMI K100 等新品，广电总局发布有线电视与 IPTV 运营服务新规等。查看全文
 - `少数派` [社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单](https://sspai.com/post/117633)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [Apple Sports：不看新闻、不聊球，只看我关心的比赛](https://sspai.com/post/117557)
-> 作为一个从小看CCTV-5体育频道下饭的「体育迷」，在互联网时代我一般都看新浪门户网站的体育板块来获取最新的体育资讯，在智能手机逐渐普及后，百度贴吧、虎扑、懂球帝等平台又是我获取体育资讯以及和网友们吹 ...查看全文
-- `少数派` [一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机](https://sspai.com/post/115855)
-> 借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Zillow to pay $212.5M to settle class action for real estate venture](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/)
-> Article URL: https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/
-Comments URL: https://news.ycombinator.com/item?id=5028...
-- `Hacker News` [The Milwaukee Brewers win the first World Series title in franchise history](https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series)
-> Article URL: https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series
-Comments URL: https://news.ycombinator.com/item?id=50284329
-Points: 47
-# Comments: 14
-- `Hacker News` [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
-> Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
-Comments URL: https://news.ycombinator.com/item?id=50284255
-Points: 139
-# Comments: 30
-- `Hacker News` [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
-> Article URL: https://divagr.com/blog/qwenputer
-Comments URL: https://news.ycombinator.com/item?id=50282838
-Points: 241
-# Comments: 54
-- `Hacker News` [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
-> Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html
-Comments URL: https://news.ycombinator.com/item?id=50282544
-Points: 125
-# Comments: 49
-- `Hacker News` [The first wired XR glasses powered by Android XR](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)
-> Article URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/
-Comments URL: https://news.ycombinator.com/item?id=50282538
-Points: 59
-# Comments: 48
-- `Hacker News` [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
-> Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1
-Comments URL: https://news.ycombinator.com/item?id=50282454
-Points: 235
-# Comments: 215
-- `Hacker News` [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
-> Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/
-Comments URL: https://news.ycombinator.com/item?id=50281044
-Points: 155
-# Comments: 105
-- `Hacker News` [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
-> Article URL: https://furbo.org/2026/10/28/a-health-update/
-Comments URL: https://news.ycombinator.com/item?id=50280974
-Points: 162
-# Comments: 25
-- `Hacker News` [Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel](https://nango.dev/careers)
-> Article URL: https://nango.dev/careers
-Comments URL: https://news.ycombinator.com/item?id=50280824
-Points: 0
+- `Hacker News` [Tomas Mikolov (creator of Word2Vec) receives the Medal of Merit](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)
+> Article URL: https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468
+Comments URL: https://news.ycombinator.com/item?id=50292233
+Poi...
+- `Hacker News` [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
+> Article URL: https://www.kadoa.com/companies/insights/google-search-below-half
+Comments URL: https://news.ycombinator.com/item?id=50291945
+Points: 149
+# Comments: 92
+- `Hacker News` [Toxic Experts](https://nedbatchelder.com/blog/201711/toxic_experts)
+> Article URL: https://nedbatchelder.com/blog/201711/toxic_experts
+Comments URL: https://news.ycombinator.com/item?id=50291927
+Points: 20
+# Comments: 7
+- `Hacker News` [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
+> Article URL: https://16colo.rs/
+Comments URL: https://news.ycombinator.com/item?id=50291421
+Points: 15
 # Comments: 0
-- `TechCrunch` [Upwind raises $400M after walking away from Datadog acquisition offer](https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/)
-> The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.
-- `TechCrunch` [Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme](https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/)
-> Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.
-- `TechCrunch` [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/)
-> Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.
-- `TechCrunch` [Google expands AI Search ads globally as core ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/)
-> The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.
-- `TechCrunch` [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)
-> Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous fin...
-- `TechCrunch` [Microsoft hits 10 quarters of record-breaking revenue in a row](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/)
-> Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% incre...
-- `TechCrunch` [Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE...](https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/)
-> A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.
-- `TechCrunch` [Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)
-> The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.
-- `TechCrunch` [Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’](https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/)
-> The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling ...
-- `TechCrunch` [Apple launches its new touchscreen MacBook Pro](https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/)
-> Apple's new touchscreen MacBook Pro starts at $2,899.
-- `The Verge` [Anduril now says its BlueChip laptop will meet Buy American standards at launch](https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american)
-> On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a "lo...
-- `The Verge` [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity)
-> Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and i...
-- `The Verge` [A hacker stole more than 40,000 DHS employee records](https://www.theverge.com/tech/1021528/ice-cbp-data-leak)
-> A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more...
-- `The Verge` [Akai is embracing vibe-coded mods with an open-source MPC](https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key)
-> The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hack...
-- `The Verge` [Readwise is taking on Kindle and Kobo for ebook supremacy](https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store)
-> For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember wha...
-- `The Verge` [Google says its investments in AI are driving more searches](https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026)
-> Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. "Our AI investments are driving overall S...
-- `The Verge` [Microsoft reveals strong cloud growth amid financial reporting overhaul](https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027)
-> Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent,...
-- `The Verge` [Apple charges $14,549 for a fully specced touchscreen MacBook Pro](https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced)
-> With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base...
-- `The Verge` [Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)
-> Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's...
-- `The Verge` [Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech](https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream)
-> What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans ...
+- `Hacker News` [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
+> Hi HN, we're Ahnaf and Seungmin from Simantic (https://simantic.com). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.Before Siman...
+- `Hacker News` [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
+> Article URL: https://sidbala.com/h-264-is-magic/
+Comments URL: https://news.ycombinator.com/item?id=50291054
+Points: 113
+# Comments: 51
+- `Hacker News` [Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
+> Article URL: https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler
+Comments URL: https://news.ycombinator.com/item?id=50290912
+Points: 50
+# Comments: 4
+- `Hacker News` [Mexico is a showroom for electric vehicles you can't buy in the U.S.](https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/)
+> Article URL: https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/
+Comments URL: https://news.ycombinator.com/item?id=50290668
+Points: ...
+- `Hacker News` [Zombie stats: Where the numbers AI quotes come from](https://trakkr.ai/trakkr-research/zombie-stats)
+> Article URL: https://trakkr.ai/trakkr-research/zombie-stats
+Comments URL: https://news.ycombinator.com/item?id=50290283
+Points: 81
+# Comments: 38
+- `Hacker News` [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
+> Article URL: https://martinfowler.com/bliki/LLM-Voice.html
+Comments URL: https://news.ycombinator.com/item?id=50290177
+Points: 64
+# Comments: 18
+- `TechCrunch` [US investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)
+> A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.
+- `TechCrunch` [Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/)
+> Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit...
+- `TechCrunch` [SuperMe raises $20M for its network of AI expert profiles](https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/)
+> SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat ...
+- `TechCrunch` [Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy](https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/)
+> Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.
+- `TechCrunch` [Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round](https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/)
+> On Thursday, AI app Wabi, now describing itself as a "personal agent," said it has raised $55 million at a $1.25 billion valuation.
+- `TechCrunch` [Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity](https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/)
+> Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.
+- `TechCrunch` [Bluesky blocks links to leaked DHS employee data as government seeks takedowns](https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/)
+> The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.
+- `TechCrunch` [DoorDash to acquire Instacart for $17B](https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/)
+> The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.
+- `TechCrunch` [Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure](https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/)
+> With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.
+- `TechCrunch` [Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery inst...](https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/)
+> The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.
+- `The Verge` [Data centers could send US climate pollution skyrocketing](https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas)
+> The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricit...
+- `The Verge` [This open-source project lets you sync Withings data to other apps without a subscription](https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free)
+> When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Ant...
+- `The Verge` [Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion](https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition)
+> The Joshua Kushner-led Thrive Holdings is acquiring ADT in an all-cash deal valued at $7.6 billion. The deal is expected to close in the first quarter of 2027 and will take ADT private, as reported...
+- `The Verge` [Microsoft’s AI future has fewer jobs](https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad)
+> To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the...
+- `The Verge` [The NYT Cooking app is testing AI recipe modifications](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool)
+> The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko...
+- `The Verge` [There’s one week left to preorder the Ocarina of Time remake for $10 off](https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale)
+> The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition...
+- `The Verge` [Anthropic is asking Wall Street to believe in AGI](https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview)
+> Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document k...
+- `The Verge` [Amazon’s AI shopping assistant can now edit your grocery lists and gift registries](https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries)
+> Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now...
+- `The Verge` [This $149 digital candle uses AI to accurately simulate a flickering flame](https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame)
+> After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appea...
+- `The Verge` [Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)
+> The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
