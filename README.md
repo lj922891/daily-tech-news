@@ -4,12 +4,18 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-29
+# 📰 每日科技日报 — 2026-10-30
 
-> 自动收集于 2026-10-29 17:40 | 共 40 条
+> 自动收集于 2026-10-30 05:16 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？](https://sspai.com/prime/story/zhuanglesha-261030)
+> 编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践](https://sspai.com/post/116435)
+> 就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。查看全文
+- `少数派` [派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等](https://sspai.com/post/117827)
+> 腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。查看全文
 - `少数派` [新玩意 254｜少数派的编辑们最近买了啥？](https://sspai.com/post/117791)
 > 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
 - `少数派` [如何成为不吃压力的「大心脏」？](https://sspai.com/post/117244)
@@ -24,100 +30,94 @@
 > 编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文
 - `少数派` [断舍离只是起点：打造能长期经营的实用主义衣柜](https://sspai.com/post/116990)
 > 只扔不买是没有用的，穿衣服时不多费心神才是目的。查看全文
-- `少数派` [怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？](https://sspai.com/post/115533)
-> 短短几年，罗永浩和锤子科技在国产手机的红海中留下了浓墨重彩的一笔。查看全文
-- `少数派` [派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等](https://sspai.com/post/117684)
-> 小米发布 REDMI K100 等新品，广电总局发布有线电视与 IPTV 运营服务新规等。查看全文
-- `少数派` [社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单](https://sspai.com/post/117633)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Tomas Mikolov (creator of Word2Vec) receives the Medal of Merit](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)
-> Article URL: https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468
-Comments URL: https://news.ycombinator.com/item?id=50292233
-Poi...
-- `Hacker News` [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
-> Article URL: https://www.kadoa.com/companies/insights/google-search-below-half
-Comments URL: https://news.ycombinator.com/item?id=50291945
-Points: 149
-# Comments: 92
-- `Hacker News` [Toxic Experts](https://nedbatchelder.com/blog/201711/toxic_experts)
-> Article URL: https://nedbatchelder.com/blog/201711/toxic_experts
-Comments URL: https://news.ycombinator.com/item?id=50291927
-Points: 20
-# Comments: 7
-- `Hacker News` [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
-> Article URL: https://16colo.rs/
-Comments URL: https://news.ycombinator.com/item?id=50291421
-Points: 15
-# Comments: 0
-- `Hacker News` [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
-> Hi HN, we're Ahnaf and Seungmin from Simantic (https://simantic.com). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.Before Siman...
-- `Hacker News` [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
-> Article URL: https://sidbala.com/h-264-is-magic/
-Comments URL: https://news.ycombinator.com/item?id=50291054
-Points: 113
-# Comments: 51
-- `Hacker News` [Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks](https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler)
-> Article URL: https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler
-Comments URL: https://news.ycombinator.com/item?id=50290912
-Points: 50
-# Comments: 4
-- `Hacker News` [Mexico is a showroom for electric vehicles you can't buy in the U.S.](https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/)
-> Article URL: https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/
-Comments URL: https://news.ycombinator.com/item?id=50290668
-Points: ...
-- `Hacker News` [Zombie stats: Where the numbers AI quotes come from](https://trakkr.ai/trakkr-research/zombie-stats)
-> Article URL: https://trakkr.ai/trakkr-research/zombie-stats
-Comments URL: https://news.ycombinator.com/item?id=50290283
-Points: 81
-# Comments: 38
-- `Hacker News` [LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)
-> Article URL: https://martinfowler.com/bliki/LLM-Voice.html
-Comments URL: https://news.ycombinator.com/item?id=50290177
-Points: 64
-# Comments: 18
-- `TechCrunch` [US investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)
-> A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.
-- `TechCrunch` [Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/)
-> Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit...
-- `TechCrunch` [SuperMe raises $20M for its network of AI expert profiles](https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/)
-> SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat ...
-- `TechCrunch` [Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy](https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/)
-> Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.
-- `TechCrunch` [Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round](https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/)
-> On Thursday, AI app Wabi, now describing itself as a "personal agent," said it has raised $55 million at a $1.25 billion valuation.
-- `TechCrunch` [Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity](https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/)
-> Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.
-- `TechCrunch` [Bluesky blocks links to leaked DHS employee data as government seeks takedowns](https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/)
-> The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.
-- `TechCrunch` [DoorDash to acquire Instacart for $17B](https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/)
-> The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.
-- `TechCrunch` [Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure](https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/)
-> With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.
-- `TechCrunch` [Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery inst...](https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/)
-> The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.
-- `The Verge` [Data centers could send US climate pollution skyrocketing](https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas)
-> The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricit...
-- `The Verge` [This open-source project lets you sync Withings data to other apps without a subscription](https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free)
-> When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Ant...
-- `The Verge` [Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion](https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition)
-> The Joshua Kushner-led Thrive Holdings is acquiring ADT in an all-cash deal valued at $7.6 billion. The deal is expected to close in the first quarter of 2027 and will take ADT private, as reported...
-- `The Verge` [Microsoft’s AI future has fewer jobs](https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad)
-> To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the...
-- `The Verge` [The NYT Cooking app is testing AI recipe modifications](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool)
-> The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko...
-- `The Verge` [There’s one week left to preorder the Ocarina of Time remake for $10 off](https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale)
-> The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition...
-- `The Verge` [Anthropic is asking Wall Street to believe in AGI](https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview)
-> Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document k...
-- `The Verge` [Amazon’s AI shopping assistant can now edit your grocery lists and gift registries](https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries)
-> Amazon is adding several new features to its AI shopping assistant, including ways to create, edit, and move items between shopping lists and gift registries. As an example, Amazon says you can now...
-- `The Verge` [This $149 digital candle uses AI to accurately simulate a flickering flame](https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame)
-> After engineering a flexible version of Tetris that could be wrapped around a magazine, Kevin Bates' latest creation is a digital candle that uses a custom AI model to accurately simulate the appea...
-- `The Verge` [Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)
-> The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing ...
+- `Hacker News` [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/)
+> Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/
+Comments URL: https://news.ycombinator.com/item?id=50299182
+Points: 29
+# Comments: 22
+- `Hacker News` [Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)
+> Lasm has been my dream for a good part of 2026.
+I firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be ena...
+- `Hacker News` [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754)
+> Article URL: https://github.com/picocss/pico/discussions/754
+Comments URL: https://news.ycombinator.com/item?id=50298964
+Points: 74
+# Comments: 21
+- `Hacker News` [Herdr has released native app](https://github.com/herdrdev/herdr-app)
+> Article URL: https://github.com/herdrdev/herdr-app
+Comments URL: https://news.ycombinator.com/item?id=50298436
+Points: 79
+# Comments: 55
+- `Hacker News` [Cormac McCarthy's Library](https://cormacmccarthy.lib.utk.edu/)
+> Article URL: https://cormacmccarthy.lib.utk.edu/
+Comments URL: https://news.ycombinator.com/item?id=50298318
+Points: 32
+# Comments: 13
+- `Hacker News` [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
+> Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use D...
+- `Hacker News` [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
+> Article URL: https://journal.animationstudies.org/article/id/66/
+Comments URL: https://news.ycombinator.com/item?id=50297089
+Points: 80
+# Comments: 13
+- `Hacker News` [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
+> Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/
+Comments URL: https://news.ycombinator.com/item?id=50296947
+Points: 54
+# Comments: 22
+- `Hacker News` [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
+> Article URL: https://labs.ycombinator.com/projects/games/index.html
+Comments URL: https://news.ycombinator.com/item?id=50296486
+Points: 226
+# Comments: 72
+- `Hacker News` [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+> Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8
+Comments URL: https://news.ycombinator.com/item?id=50296470
+Points: 981
+# Comments: 571
+- `TechCrunch` [You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
+> David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.
+- `TechCrunch` [Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’](https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/)
+> The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.
+- `TechCrunch` [AWS will be a $1T business, Jassy says. But first, it will spend big.](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)
+> Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.
+- `TechCrunch` [Binance pauses withdrawals as hackers suspected of stealing billions in crypto](https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/)
+> Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.
+- `TechCrunch` [Elon Musk is ‘truly a genius,’ says Vladimir Putin](https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/)
+> Putin said that he and Musk are in "close contact" about Rassvet, Russia's Starlink-like satellite connectivity project.
+- `TechCrunch` [Amazon reported booming cloud revenue but otherwise missed expectations](https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/)
+> The biggest ouch of the report was its negative free cash flow of $2.4 billion.
+- `TechCrunch` [GM reaches $220M settlement over selling drivers’ private data](https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/)
+> As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.
+- `TechCrunch` [Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident](https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/)
+> The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.
+- `TechCrunch` [As search traffic dries up, Reddit announces it’s shifting to a logged-in experience](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/)
+> As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.
+- `TechCrunch` [Rivian expands joint venture with VW to include AI assistant](https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/)
+> Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.
+- `The Verge` [The director of Obsession put a new horror short on YouTube](https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear)
+> Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled "Mama Bear," is nearly five minutes long. The video is pretty unnerv...
+- `The Verge` [Intel says it’s selling every affordable laptop chip it can make](https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage)
+> During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips "is outstripping supply." According to CFO David Zinsner, the chips are now sold out. ...
+- `The Verge` [Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’](https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic)
+> Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As par...
+- `The Verge` [Patrick Stewart has died at age 86](https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death)
+> Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday "follo...
+- `The Verge` [Reddit will force everyone to log in](https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings)
+> Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsou...
+- `The Verge` [Rivian’s R2 is officially its best-selling vehicle](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
+> Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, f...
+- `The Verge` [GM to pay $220 million to resolve claims it sold driving habits data](https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit)
+> General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves ...
+- `The Verge` [You can generate and edit Google Docs files directly in Gemini chats now](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs)
+> Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are avail...
+- `The Verge` [Ikea’s colorful donut-shaped smart lamp is $20 off](https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale)
+> With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tes...
+- `The Verge` [Apple’s new laptop supports one of the coolest features for color pros](https://www.theverge.com/1022347/apple-macbook-supports-new-cmf)
+> The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrato...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
