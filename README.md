@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-30
+# 📰 每日科技日报 — 2026-10-31
 
-> 自动收集于 2026-10-30 17:18 | 共 40 条
+> 自动收集于 2026-10-31 04:58 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,90 +33,89 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer)
-> Article URL: https://github.com/dbreunig/nesformer
-Comments URL: https://news.ycombinator.com/item?id=50306442
-Points: 12
-# Comments: 7
-- `Hacker News` [US tech stocks see sharp falls over AI cost fears](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
-> Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo
-Comments URL: https://news.ycombinator.com/item?id=50306008
-Points: 35
-# Comments: 9
-- `Hacker News` [Sam Altman Thinks You're Wasting DRAM](https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/)
-> Article URL: https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/
-Comment...
-- `Hacker News` [AI Isn't Replacing SREs. It's Deskilling Them](https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling)
-> Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling
-Comments URL: https://news.ycombinator.com/item?id=50305693
-Points: 166
-# Comments: 133
-- `Hacker News` [Florilegium: Procedural Flowers in LaTeX](https://github.com/kevinraymond/florilegium)
-> Article URL: https://github.com/kevinraymond/florilegium
-Comments URL: https://news.ycombinator.com/item?id=50305637
-Points: 6
-# Comments: 0
-- `Hacker News` [Geist Serif](https://vercel.com/blog/introducing-geist-serif)
-> Article URL: https://vercel.com/blog/introducing-geist-serif
-Comments URL: https://news.ycombinator.com/item?id=50305601
-Points: 32
-# Comments: 14
-- `Hacker News` [The federated code forge](https://tangled.org/blog/forge/)
-> Article URL: https://tangled.org/blog/forge/
-Comments URL: https://news.ycombinator.com/item?id=50305573
-Points: 41
-# Comments: 14
-- `Hacker News` [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance)
-> Article URL: https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance
-Comments URL: https://news.ycombinator.com/item?id=50305480
-Points: 57...
-- `Hacker News` [I didn't know I was lacking in Vitamin D until I collapsed at work](https://www.bbc.com/news/articles/cm78pxxe55v0o)
-> Article URL: https://www.bbc.com/news/articles/cm78pxxe55v0o
-Comments URL: https://news.ycombinator.com/item?id=50305436
-Points: 60
-# Comments: 61
-- `Hacker News` [Show HN: I built a multiplayer game where you're an aerial fighter cat](https://catcopter.com)
-> Hi everyone!I had the idea for catcopter on my mind for a long time (got the domain ~13 years ago). It's a web multiplayer game where you can fly a dangerous cat and engage in competition with othe...
-- `TechCrunch` [Google’s first data center satellite is online and writing poetry](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/)
-> The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.
-- `TechCrunch` [Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive ...](https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/)
-> The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.
-- `TechCrunch` [North Korean hackers blamed for stealing record $6.3B in Binance breach](https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/)
-> Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.
-- `TechCrunch` [Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate](https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/)
-> At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in ...
-- `TechCrunch` [DoorDash said it’s only received ‘several hundred’ orders from AI agents](https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/)
-> DoorDash said that it is open to working with third-party agent makers.
-- `TechCrunch` [Can AI data centers be mass-produced like cars? This startup aims to find out](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/)
-> Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.
-- `TechCrunch` [5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/)
-> 5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.
-- `TechCrunch` [Waymo taps Toyota to supply robotaxis for Japan and the UK](https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/)
-> Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.
-- `TechCrunch` [You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
-> David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.
-- `TechCrunch` [Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’](https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/)
-> The success of blockbuster hits like "Project Hail Mary" and "Verity" is only part of the story, Amazon's CEO says.
+- `Hacker News` [OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)
+> Article URL: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5
+Comments URL: https://news.ycombinator.com/item?id=50312922
+Points: 42
+# Comments...
+- `Hacker News` [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
+> Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:Subject: Notice of Security IncidentThis notice is being sent on behalf of Scribd, Inc., the parent company of S...
+- `Hacker News` [Flock camera searches fell 95% after a dispatcher's misconduct was caught](https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e)
+> Article URL: https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e
+Comments UR...
+- `Hacker News` [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
+> Article URL: https://tng.episodle.com/
+Comments URL: https://news.ycombinator.com/item?id=50311686
+Points: 130
+# Comments: 41
+- `Hacker News` [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun)
+> Article URL: https://www.firezone.dev/blog/introducing-sanstun
+Comments URL: https://news.ycombinator.com/item?id=50310398
+Points: 95
+# Comments: 17
+- `Hacker News` [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
+> Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/
+Comments URL: https://news.ycombinator.com/item?id=50309647
+Points: 263
+# Comments: 145
+- `Hacker News` [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
+> Article URL: https://blue-continuum.com/verne-paris
+Comments URL: https://news.ycombinator.com/item?id=50309314
+Points: 90
+# Comments: 19
+- `Hacker News` [The oldest ice disappears and the Stone Age emerges from it](https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921)
+> Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921
+Comments URL: https://news.ycombinator.co...
+- `Hacker News` [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
+> Article URL: https://blog.persistent.info/2026/10/infinite-mac-beos.html
+Comments URL: https://news.ycombinator.com/item?id=50309029
+Points: 127
+# Comments: 52
+- `Hacker News` [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+> Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/
+Comments URL: https://news.ycombinator.com/item?id=50307190
+Points: 268
+# Comments: 77
+- `TechCrunch` [Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up](https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/)
+> The money behind the money is thrilled, mostly.
+- `TechCrunch` [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)
+> When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.
+- `TechCrunch` [Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune](https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/)
+> The AI logistics startup will bolster the CRM giant's Missionforce defense platform.
+- `TechCrunch` [Ollie, a privacy-focused AI assistant, is shutting down](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/)
+> As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.
+- `TechCrunch` [Intel’s stock crashes, knocking $12B from government’s stake](https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/)
+> Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.
+- `TechCrunch` [Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
+> Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that ha...
+- `TechCrunch` [Applebee’s exposed customers’ personal data after leaving database password in app](https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/)
+> EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.
+- `TechCrunch` [Last-minute Halloween costumes for tech nerds](https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/)
+> No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.
+- `TechCrunch` [Cracks are emerging in the AI spending boom](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/)
+> Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.
+- `TechCrunch` [AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal](https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/)
+> Like a real-life episode of "Suits," the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the pict...
+- `The Verge` [Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)
+> Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first...
+- `The Verge` [Exclusive details about Akai’s MPC Sample Key](https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive)
+> Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word...
+- `The Verge` [Sam Altman says it’s better for RAM to be in a data center than on your desk](https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers)
+> Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his ap...
+- `The Verge` [The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out)
+> OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this con...
+- `The Verge` [Google’s satellite AI server transmits its first response to Earth](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission)
+> Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allo...
+- `The Verge` [Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru](https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru)
+> Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to expl...
+- `The Verge` [The delightfully messy state of Apple gadgets](https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets)
+> The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while th...
 - `The Verge` [Rivian’s autonomy gamble faces its first real test](https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026)
 > During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven aut...
 - `The Verge` [Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts](https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale)
 > Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV let...
 - `The Verge` [Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather](https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale)
 > As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors f...
-- `The Verge` [Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’](https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai)
-> Pope Leo XIV says AI systems should be "disarmed," adding that humans "have the responsibility to guide, change and, when necessary, reject its applications." In Friday's Papal Address, Pope Leo en...
-- `The Verge` [This electric screwdriver uses a camera and AI to figure out what bit you need](https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter)
-> Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together ...
-- `The Verge` [Waymo’s next robotaxi is a purpose-built Toyota bZ4X](https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x)
-> Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyo...
-- `The Verge` [Silicon Valley wants you to invest in miracles](https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles)
-> Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scena...
-- `The Verge` [Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview)
-> After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has...
-- `The Verge` [The HomeView and Echo Show 16 could be the family computers I’ve been asking for](https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer)
-> Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to...
-- `The Verge` [The Apple Pencil turned the Duo into my new favorite notebook](https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on)
-> Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I reall...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
