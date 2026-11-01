@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-10-31
+# 📰 每日科技日报 — 2026-11-01
 
-> 自动收集于 2026-10-31 16:23 | 共 40 条
+> 自动收集于 2026-11-01 05:29 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,52 +33,59 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'](https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/)
-> Article URL: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/
-Comments URL: https://news.ycombinator.com/item?id=50316760
-Points: 3...
-- `Hacker News` [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
-> Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/
-Comments URL: https://news.ycombinator.com/item?id=50316531
-Points: 19
-#...
-- `Hacker News` [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
-> Article URL: https://nullprogram.com/blog/2026/10/31/
-Comments URL: https://news.ycombinator.com/item?id=50315226
-Points: 108
-# Comments: 64
-- `Hacker News` [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
-> Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai
-Comments URL: https://news.ycombinator.com/item?id=50314699
-Points: 179
-# Comments: 85
-- `Hacker News` [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
-> Article URL: https://piefed.world/post/1503394
-Comments URL: https://news.ycombinator.com/item?id=50314666
-Points: 168
-# Comments: 115
-- `Hacker News` [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
-> Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament
-Comments URL: https://news.ycombinator.com/item?id=50314654
-Points: 579
-# Comments: 338
-- `Hacker News` [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
-> Article URL: https://xoranth.net/gcc-switch/
-Comments URL: https://news.ycombinator.com/item?id=50314085
-Points: 137
-# Comments: 26
-- `Hacker News` [Digital minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
-> Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html
-Comments URL: https://news.ycombinator.com/item?id=50313661
-Points: 176
-# Comments: 127
-- `Hacker News` [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)
-> Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:Subject: Notice of Security IncidentThis notice is being sent on behalf of Scribd, Inc., the parent company of S...
-- `Hacker News` [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
-> Article URL: https://tng.episodle.com/
-Comments URL: https://news.ycombinator.com/item?id=50311686
-Points: 223
-# Comments: 70
+- `Hacker News` [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
+> Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/
+Comments URL: https://news.ycombinator.com/item?id=50322173
+Points: 43
+# Comments: 17
+- `Hacker News` [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM](https://arxiv.org/abs/2409.02292)
+> Article URL: https://arxiv.org/abs/2409.02292
+Comments URL: https://news.ycombinator.com/item?id=50322022
+Points: 32
+# Comments: 13
+- `Hacker News` [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)
+> Hi HN,I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBR...
+- `Hacker News` [Constructing a Quine from Kleene's Second Recursion Theorem](https://emarzion.github.io/KSRT/)
+> Article URL: https://emarzion.github.io/KSRT/
+Comments URL: https://news.ycombinator.com/item?id=50321436
+Points: 15
+# Comments: 1
+- `Hacker News` [When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles)
+> Article URL: https://spectrum.ieee.org/early-electric-vehicles
+Comments URL: https://news.ycombinator.com/item?id=50321130
+Points: 55
+# Comments: 37
+- `Hacker News` [Altoids Project](https://uvdn7.github.io/altoids-project/)
+> Article URL: https://uvdn7.github.io/altoids-project/
+Comments URL: https://news.ycombinator.com/item?id=50321048
+Points: 78
+# Comments: 4
+- `Hacker News` [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
+> Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
+Comments URL: https://news.ycombinator.com/item?id=50320995
+Points: 147
+# Comments: 81
+- `Hacker News` [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+> Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/
+Comments URL: https://news.ycombinator....
+- `Hacker News` [AI text watermarking and quality loss](https://blog.keyvan.net/p/ai-text-watermarking-and-quality)
+> Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality
+Comments URL: https://news.ycombinator.com/item?id=50320599
+Points: 40
+# Comments: 7
+- `Hacker News` [ChatGPT and Codex usage limits merging](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)
+> Article URL: https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits
+Comments URL: https://news.ycombinator.com/item?id=50320588
+Points: 41
+# Comments: 12
+- `TechCrunch` [Data centers are now a midterm issue, even in Brooklyn](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/)
+> At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.
+- `TechCrunch` [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
+> Apple's new CEO defended the company's current position in the AI landscape.
+- `TechCrunch` [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
+> On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your...
+- `TechCrunch` [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)
+> An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.
 - `TechCrunch` [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)
 > OpenAI’s latest funding round doesn't seem to be living up to expectations.
 - `TechCrunch` [From restaurant guides to payments, here’s how TikTok is building a super app](https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/)
@@ -91,14 +98,14 @@ Points: 223
 > When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.
 - `TechCrunch` [Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune](https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/)
 > The AI logistics startup will bolster the CRM giant's Missionforce defense platform.
-- `TechCrunch` [Ollie, a privacy-focused AI assistant, is shutting down](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/)
-> As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.
-- `TechCrunch` [Intel’s stock crashes, knocking $12B from government’s stake](https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/)
-> Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.
-- `TechCrunch` [Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
-> Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that ha...
-- `TechCrunch` [Applebee’s exposed customers’ personal data after leaving database password in app](https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/)
-> EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.
+- `The Verge` [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)
+> Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird v...
+- `The Verge` [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
+> What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the co...
+- `The Verge` [Binance CEO says 90 percent of stolen assets have been ‘replenished’](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
+> After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans t...
+- `The Verge` [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve)
+> This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the S...
 - `The Verge` [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code)
 > Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around lik...
 - `The Verge` [Windows 11 tries new shortcuts for Xbox gaming mode and search](https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings)
@@ -111,14 +118,6 @@ Points: 223
 > Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the...
 - `The Verge` [Here’s why you can’t shake those unhinged political texts](https://www.theverge.com/policy/1023899/political-texts-midterm-elections)
 > "Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?" "Who's working to elect James Talarico? Marxists." "Wow! Wow! Wow! Mark Kelly just made a HUGE a...
-- `The Verge` [Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)
-> Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first...
-- `The Verge` [Exclusive details about Akai’s MPC Sample Key](https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive)
-> Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word...
-- `The Verge` [Sam Altman says it’s better for RAM to be in a data center than on your desk](https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers)
-> Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his ap...
-- `The Verge` [The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out)
-> OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this con...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
