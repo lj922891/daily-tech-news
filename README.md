@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-11-01
 
-> 自动收集于 2026-11-01 05:29 | 共 40 条
+> 自动收集于 2026-11-01 17:17 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」](https://sspai.com/post/116991)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [本月玩什么｜影之刃零、战争机器：事变日等](https://sspai.com/post/117960)
 > 欢迎你在评论区分享 10 月新作的游玩体验。查看全文
 - `少数派` [一图流 | 一张图看懂中国版 Apple 智能](https://sspai.com/post/117953)
@@ -28,56 +30,60 @@
 > 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
 - `少数派` [如何成为不吃压力的「大心脏」？](https://sspai.com/post/117244)
 > 适合别人的抗压方式为什么不适合自己？你也该知道的抗压方法论查看全文
-- `少数派` [让 Agent 读懂你的身体：数据处理篇](https://sspai.com/prime/story/how-to-analyze-health-data-with-agent)
-> 在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
-> Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/
-Comments URL: https://news.ycombinator.com/item?id=50322173
-Points: 43
-# Comments: 17
-- `Hacker News` [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM](https://arxiv.org/abs/2409.02292)
-> Article URL: https://arxiv.org/abs/2409.02292
-Comments URL: https://news.ycombinator.com/item?id=50322022
-Points: 32
-# Comments: 13
-- `Hacker News` [Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)
-> Hi HN,I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBR...
-- `Hacker News` [Constructing a Quine from Kleene's Second Recursion Theorem](https://emarzion.github.io/KSRT/)
-> Article URL: https://emarzion.github.io/KSRT/
-Comments URL: https://news.ycombinator.com/item?id=50321436
-Points: 15
+- `Hacker News` [Frontier Airlines Likely Breached](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
+> Article URL: https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/
+Comments URL: https://news.ycombinator.com/item?id=50327266
+Points: 8
 # Comments: 1
-- `Hacker News` [When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles)
-> Article URL: https://spectrum.ieee.org/early-electric-vehicles
-Comments URL: https://news.ycombinator.com/item?id=50321130
-Points: 55
-# Comments: 37
-- `Hacker News` [Altoids Project](https://uvdn7.github.io/altoids-project/)
-> Article URL: https://uvdn7.github.io/altoids-project/
-Comments URL: https://news.ycombinator.com/item?id=50321048
-Points: 78
+- `Hacker News` [Alleged Mythos Class Anthropic Checkpoint Leak](https://huggingface.co/burner22/numbat)
+> Article URL: https://huggingface.co/burner22/numbat
+Comments URL: https://news.ycombinator.com/item?id=50327240
+Points: 26
 # Comments: 4
-- `Hacker News` [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
-> Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
-Comments URL: https://news.ycombinator.com/item?id=50320995
-Points: 147
-# Comments: 81
-- `Hacker News` [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
-> Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/
-Comments URL: https://news.ycombinator....
-- `Hacker News` [AI text watermarking and quality loss](https://blog.keyvan.net/p/ai-text-watermarking-and-quality)
-> Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality
-Comments URL: https://news.ycombinator.com/item?id=50320599
-Points: 40
-# Comments: 7
-- `Hacker News` [ChatGPT and Codex usage limits merging](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits)
-> Article URL: https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits
-Comments URL: https://news.ycombinator.com/item?id=50320588
-Points: 41
-# Comments: 12
+- `Hacker News` [Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs](https://www.ajupress.com/view/20261028171670308)
+> Article URL: https://www.ajupress.com/view/20261028171670308
+Comments URL: https://news.ycombinator.com/item?id=50327058
+Points: 35
+# Comments: 2
+- `Hacker News` [Show HN: HackerBooks – HackerTube, but for books recommended on HN](https://hackerbooks.org)
+> Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each ...
+- `Hacker News` [Anthropic's Mythos-class model allegedly leaked on Hugging Face](https://news.ycombinator.com/item?id=50326727)
+> URL deleted for malware concerns.
+
+Comments URL: https://news.ycombinator.com/item?id=50326727
+Points: 36
+# Comments: 33
+- `Hacker News` [Landline phones will switch off across Britland in 100 days, no extensions](https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673)
+> Article URL: https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673
+Comments URL: https://news.ycombinator.com/i...
+- `Hacker News` [Enlightenment 0.28.0 Release](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
+> Article URL: https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0
+Comments URL: https://news.ycombinator.com/item?id=50326530
+Points: 30
+# Comments: 9
+- `Hacker News` [Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
+> Article URL: https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-...
+- `Hacker News` [Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/)
+> Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/
+Comments URL: https://news.ycombinator.com/item?id=50326099
+Points: 160
+# Comments...
+- `Hacker News` [Novellas with Groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
+> Article URL: https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html
+Comments URL: https://news.ycombinator.com/item?id=50325694
+Points: 55
+# Comments: 17
+- `TechCrunch` [TechCrunch Mobility: A new, bigger AV boom is here](https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+- `TechCrunch` [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
+> The cryptocurrency exchange said it's now covered 95% of the stolen assets.
+- `TechCrunch` [Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world](https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/)
+> Google made a sturdy phone, but there is increasing competition in the foldable world.
+- `TechCrunch` [Here’s what ‘renoa’ — the first new fiber in 25 years — feels like](https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/)
+> Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.
 - `TechCrunch` [Data centers are now a midterm issue, even in Brooklyn](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/)
 > At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.
 - `TechCrunch` [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
@@ -90,15 +96,19 @@ Points: 41
 > OpenAI’s latest funding round doesn't seem to be living up to expectations.
 - `TechCrunch` [From restaurant guides to payments, here’s how TikTok is building a super app](https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/)
 > TikTok may be working to become the app that people use for most of their digital activities.
-- `TechCrunch` [I took two iPhones on vacation. The Duo won me over.](https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/)
-> The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.
-- `TechCrunch` [Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up](https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/)
-> The money behind the money is thrilled, mostly.
-- `TechCrunch` [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)
-> When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.
-- `TechCrunch` [Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune](https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/)
-> The AI logistics startup will bolster the CRM giant's Missionforce defense platform.
-- `The Verge` [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)
+- `The Verge` [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features)
+> Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion dete...
+- `The Verge` [A fully playable version of Portal prequel F-Stop leaked](https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak)
+> Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the ga...
+- `The Verge` [North Korea linked to massive Binance crypto heist](https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist)
+> The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity "TraderTraitor" and said that it had observed actors it has ...
+- `The Verge` [HomePod Mini 2 first look: Three things I love and one disappointment](https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker)
+> When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it...
+- `The Verge` [New Zelda and GTA represent a games industry that no longer exists](https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in ou...
+- `The Verge` [Prop 45 in California could be hiding a loophole for data centers](https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy)
+> A high-stakes California ballot measure pitched as a fast track for "essential" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocat...
+- `The Verge` [Get in the spooky spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)
 > Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird v...
 - `The Verge` [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
 > What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the co...
@@ -106,18 +116,6 @@ Points: 41
 > After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans t...
 - `The Verge` [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve)
 > This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the S...
-- `The Verge` [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code)
-> Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around lik...
-- `The Verge` [Windows 11 tries new shortcuts for Xbox gaming mode and search](https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings)
-> The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings ...
-- `The Verge` [Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders](https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale)
-> While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift ca...
-- `The Verge` [Vic Mensa can’t live without the Voice Memos app](https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview)
-> Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major stre...
-- `The Verge` [Touchscreens everywhere!](https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer)
-> Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the...
-- `The Verge` [Here’s why you can’t shake those unhinged political texts](https://www.theverge.com/policy/1023899/political-texts-midterm-elections)
-> "Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?" "Who's working to elect James Talarico? Marxists." "Wow! Wow! Wow! Mark Kelly just made a HUGE a...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
