@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-01
+# 📰 每日科技日报 — 2026-11-02
 
-> 自动收集于 2026-11-01 17:17 | 共 40 条
+> 自动收集于 2026-11-02 05:27 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [Xnip 十周年：长截图的新生，也是新的起点](https://sspai.com/post/115662)
+> 十年是一个里程碑，也是新的起点。查看全文
+- `少数派` [派早报：Apple 智能将随 iOS 27.3 登陆中国](https://sspai.com/post/118191)
+> Apple 智能将随 iOS 27.3 登陆中国苹果对闪存的议价权受到压制Claude Code 官方扩展被植入后门美国 FCC 禁止中国实验室认证输美电子产品百度网盘通过磁力计数据规避「摇一摇」广告权限币安 63 亿美元资产被盗看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」](https://sspai.com/post/116991)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [本月玩什么｜影之刃零、战争机器：事变日等](https://sspai.com/post/117960)
@@ -26,56 +30,59 @@
 > 就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。查看全文
 - `少数派` [派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等](https://sspai.com/post/117827)
 > 腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。查看全文
-- `少数派` [新玩意 254｜少数派的编辑们最近买了啥？](https://sspai.com/post/117791)
-> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
-- `少数派` [如何成为不吃压力的「大心脏」？](https://sspai.com/post/117244)
-> 适合别人的抗压方式为什么不适合自己？你也该知道的抗压方法论查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Frontier Airlines Likely Breached](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
-> Article URL: https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/
-Comments URL: https://news.ycombinator.com/item?id=50327266
-Points: 8
-# Comments: 1
-- `Hacker News` [Alleged Mythos Class Anthropic Checkpoint Leak](https://huggingface.co/burner22/numbat)
-> Article URL: https://huggingface.co/burner22/numbat
-Comments URL: https://news.ycombinator.com/item?id=50327240
-Points: 26
-# Comments: 4
-- `Hacker News` [Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs](https://www.ajupress.com/view/20261028171670308)
-> Article URL: https://www.ajupress.com/view/20261028171670308
+- `Hacker News` [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
+> Article URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/
+Comments URL: https://news.ycombinator.com/item?id=50332163
+Points: 58
+# Comments: 5
+- `Hacker News` [AI fan wikis riddled with errors are muddying the waters of games culture](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture)
+> Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture
+Comments URL: https://news.ycombinator.com/item?id=50332086
+Points: 54
+# Comments: 28
+- `Hacker News` [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)
+> Article URL: https://trigger.dev/blog/security-incident-nov-2026
+Comments URL: https://news.ycombinator.com/item?id=50331784
+Points: 42
+# Comments: 13
+- `Hacker News` [OccupySaaS](https://occupysaas.com/)
+> Article URL: https://occupysaas.com/
+Comments URL: https://news.ycombinator.com/item?id=50331402
+Points: 155
+# Comments: 105
+- `Hacker News` [The Megadonors Who Have Poured $1.2B into the Midterms](https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html)
+> Article URL: https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html
+Comments URL: https://news.ycombinator.com/item?id=50331158
+Points: 40
+# Comments: 20
+- `Hacker News` [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
+> I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with a...
+- `Hacker News` [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
+> Article URL: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/
+Comments URL: https://news.ycombinator.com/item?id=50328251
+Points: 258
+# Comments: 280
+- `Hacker News` [Seoul Viosys begins production of rare-earth-free white light emitter](https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml)
+> Article URL: https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml
 Comments URL: https://news.ycombinator.com/item?id=50327058
-Points: 35
-# Comments: 2
-- `Hacker News` [Show HN: HackerBooks – HackerTube, but for books recommended on HN](https://hackerbooks.org)
+Points: 153
+# Comments: 43
+- `Hacker News` [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
 > Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each ...
-- `Hacker News` [Anthropic's Mythos-class model allegedly leaked on Hugging Face](https://news.ycombinator.com/item?id=50326727)
-> URL deleted for malware concerns.
-
-Comments URL: https://news.ycombinator.com/item?id=50326727
-Points: 36
-# Comments: 33
-- `Hacker News` [Landline phones will switch off across Britland in 100 days, no extensions](https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673)
-> Article URL: https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673
-Comments URL: https://news.ycombinator.com/i...
-- `Hacker News` [Enlightenment 0.28.0 Release](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
-> Article URL: https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0
-Comments URL: https://news.ycombinator.com/item?id=50326530
-Points: 30
-# Comments: 9
-- `Hacker News` [Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
-> Article URL: https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-...
 - `Hacker News` [Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case](https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/)
 > Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/
 Comments URL: https://news.ycombinator.com/item?id=50326099
-Points: 160
+Points: 433
 # Comments...
-- `Hacker News` [Novellas with Groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
-> Article URL: https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html
-Comments URL: https://news.ycombinator.com/item?id=50325694
-Points: 55
-# Comments: 17
+- `TechCrunch` [Borrowed reading: stories from our extended colleagues](https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/)
+> Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.
+- `TechCrunch` [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)
+> Data centers are deeply unpopular. But what if we called them something else?
+- `TechCrunch` [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)
+> On Equity, we discuss why tech CEO statements can seem so tone deaf.
 - `TechCrunch` [TechCrunch Mobility: A new, bigger AV boom is here](https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/)
 > Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 - `TechCrunch` [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
@@ -90,12 +97,12 @@ Points: 55
 > Apple's new CEO defended the company's current position in the AI landscape.
 - `TechCrunch` [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
 > On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your...
-- `TechCrunch` [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)
-> An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.
-- `TechCrunch` [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)
-> OpenAI’s latest funding round doesn't seem to be living up to expectations.
-- `TechCrunch` [From restaurant guides to payments, here’s how TikTok is building a super app](https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/)
-> TikTok may be working to become the app that people use for most of their digital activities.
+- `The Verge` [Jackery made its portable power stations even smaller](https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate)
+> Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 10...
+- `The Verge` [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
+> Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its...
+- `The Verge` [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts)
+> While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate it...
 - `The Verge` [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features)
 > Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion dete...
 - `The Verge` [A fully playable version of Portal prequel F-Stop leaked](https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak)
@@ -110,12 +117,6 @@ Points: 55
 > A high-stakes California ballot measure pitched as a fast track for "essential" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocat...
 - `The Verge` [Get in the spooky spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)
 > Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird v...
-- `The Verge` [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
-> What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the co...
-- `The Verge` [Binance CEO says 90 percent of stolen assets have been ‘replenished’](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
-> After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans t...
-- `The Verge` [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve)
-> This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the S...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
