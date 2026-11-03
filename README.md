@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-02
+# 📰 每日科技日报 — 2026-11-03
 
-> 自动收集于 2026-11-02 20:55 | 共 40 条
+> 自动收集于 2026-11-03 06:06 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [Disc Image Studio：你想不想在光盘上「画」点什么？](https://sspai.com/post/118211)
+> 把喜欢的图烧进 CD 里，你也可以。查看全文
+- `少数派` [派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等](https://sspai.com/post/118232)
+> Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/118240)
 > 能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。查看全文
 - `少数派` [TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验](https://sspai.com/post/118122)
@@ -26,84 +30,82 @@
 > 中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。查看全文
 - `少数派` [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/117867)
 > 📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...查看全文
-- `少数派` [App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣](https://sspai.com/post/116047)
-> 它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。查看全文
-- `少数派` [《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？](https://sspai.com/prime/story/zhuanglesha-261030)
-> 编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [Anthropic reveals $900B AI spending commitments ahead of IPO](https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f)
-> Article URL: https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f
-Comments URL: https://news.ycombinator.com/item?id=50342424
-Points: 42
-# Comments: 18
-- `Hacker News` [Oracle files to sell $20B in new stock, bonds to finance AI buildout](https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html)
-> Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html
-Comments URL: https://news.ycombinator.com/item?id=50342284
-Points: 55
-# ...
-- `Hacker News` [Egoless Mathematics in the AI Era](https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/)
-> Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/
-Comments URL: https://news.ycombinator.com/item?id=50341736
-Points: 50
-# Comments: 44
-- `Hacker News` [SOML – A Config Format for Humans](https://github.com/soml-lang/soml)
-> Article URL: https://github.com/soml-lang/soml
-Comments URL: https://news.ycombinator.com/item?id=50341502
-Points: 40
-# Comments: 22
-- `Hacker News` [Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks](https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432)
-> Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432
-Comments URL: https://news.ycombinator.com/item?id=50341462
-Points: 82
-# Comments: 9
-- `Hacker News` [Agentic backdoors via pretraining poisoning](https://arxiv.org/abs/2610.37741)
-> Article URL: https://arxiv.org/abs/2610.37741
-Comments URL: https://news.ycombinator.com/item?id=50341334
-Points: 50
-# Comments: 13
-- `Hacker News` [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
-> Article URL: https://rikiyat.github.io/blog/weight-space-programming/
-Comments URL: https://news.ycombinator.com/item?id=50341174
-Points: 927
-# Comments: 297
-- `Hacker News` [Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)
-> Article URL: https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/
-Comments URL: https://news.ycombinator.com/item?id=50341028
-Points: 51
-# Comments: 16
-- `Hacker News` [Skill to Create Product Videos](https://github.com/aaitor/skill-video-studio)
-> Article URL: https://github.com/aaitor/skill-video-studio
-Comments URL: https://news.ycombinator.com/item?id=50340992
-Points: 23
+- `Hacker News` [NASA's Swift space telescope predicted to crash back to Earth tomorrow](https://www.abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476)
+> Article URL: https://www.abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476
+Comments URL: https://news.ycombinator.com/item?id=50348194
+Points: 7
 # Comments: 4
-- `Hacker News` [Making Peace with the Projective Plane](https://www.johndcook.com/blog/2026/11/02/projective-plane/)
-> Article URL: https://www.johndcook.com/blog/2026/11/02/projective-plane/
-Comments URL: https://news.ycombinator.com/item?id=50340629
+- `Hacker News` [Show HN: I built a little browser game to practice Vim commands](https://hjkl.duy.run)
+> I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.There are still a lot of commands I want to add, b...
+- `Hacker News` [Show HN: Rustable is an open source database client built in Rust](https://rustable.app)
+> Article URL: https://rustable.app
+Comments URL: https://news.ycombinator.com/item?id=50347524
 Points: 16
-# Comments: 3
+# Comments: 7
+- `Hacker News` [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820)
+> Article URL: https://arxiv.org/abs/2608.25820
+Comments URL: https://news.ycombinator.com/item?id=50347464
+Points: 16
+# Comments: 0
+- `Hacker News` [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
+> I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy!
+
+Comments URL: https://news.ycombinator.com/item?id=50346981
+Points: 152
+# Comments: 50
+- `Hacker News` [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+> Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
+Comments URL: https://news.ycombinator.com/item?id=50346849
+Points: 112
+# Comments: 26
+- `Hacker News` [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
+> Article URL: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html
+Comments URL: https://news.ycombinator.co...
+- `Hacker News` [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
+> Article URL: https://openai.com/index/scaling-git-at-openai/
+Comments URL: https://news.ycombinator.com/item?id=50345924
+Points: 147
+# Comments: 62
+- `Hacker News` [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
+> Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/
+Comments URL: https://news.ycombinator.com/item?id=50344919
+Points: 283
+# Comments: 217
+- `Hacker News` [V100 SXM2 pinout and NVLink reference](https://github.com/pigeon-labs-stack/v100-sxm2-reference)
+> Article URL: https://github.com/pigeon-labs-stack/v100-sxm2-reference
+Comments URL: https://news.ycombinator.com/item?id=50344912
+Points: 25
+# Comments: 5
+- `TechCrunch` [Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)
+> Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.
+- `TechCrunch` [Apple may try to increase revenue by doing…something with third-party AI apps](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/)
+> Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call.
+- `TechCrunch` [Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them](https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/)
+> A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals c...
+- `TechCrunch` [Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)
+> Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walt...
+- `TechCrunch` [Hinge tests a cheaper plan as users become more fed up paying for dating apps](https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/)
+> At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.
+- `TechCrunch` [Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve](https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/)
+> Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.
+- `TechCrunch` [Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)
+> The one-year-old startup is now valued at $300 million.
+- `TechCrunch` [Apple’s inventory surges 154% as memory chip costs climb](https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/)
+> Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.
+- `TechCrunch` [Anthropic warns that it’s very close to RSI capability, aka self-building AI](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
+> RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.
 - `TechCrunch` [Germany says lawmakers’ iPhones may have been hacked with spyware](https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/)
 > German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.
-- `TechCrunch` [Web host Squarespace lays off 19% of its employees](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/)
-> The website builder said that the job losses are part of a broader restructuring of its organization.
-- `TechCrunch` [New York Times and other outlets sue web browser Brave over alleged content scraping](https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/)
-> The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and...
-- `TechCrunch` [Snap settles lawsuit accusing platform of fueling teen depression and eating disorders](https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/)
-> The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as auto...
-- `TechCrunch` [In one of the largest deals in tech history, Marvell buys Lumentum for $115B](https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/)
-> Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.
-- `TechCrunch` [Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers](https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/)
-> Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.
-- `TechCrunch` [SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon](https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/)
-> SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.
-- `TechCrunch` [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)
-> Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?
-- `TechCrunch` [Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)
-> Musk recently referred to Grok Bot as having "the fastest growth of a product that I've ever seen in my life."
-- `TechCrunch` [Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/)
-> Two startups tackling the data center water problem are joining forces in a $16 million deal.
-- `The Verge` [One of Google’s Android partners turned 1.3 million set-top boxes into a botnet](https://www.theverge.com/tech/1024807/google-botnet-android-tv-shut-down)
+- `The Verge` [Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around](https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints)
+> Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is "working hard to get it to as many cust...
+- `The Verge` [Apple set an iPhone sales record even without a new standard iPhone](https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings)
+> Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earn...
+- `The Verge` [Meta will end Quest 2 OS updates in 2027](https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates)
+> Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and ...
+- `The Verge` [One of Google’s Android partners turned 1.3 million set-top boxes into a botnet](https://www.theverge.com/1024807/google-botnet-android-tv-shut-down)
 > Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and "cut ti...
 - `The Verge` [BMW is taking on Tesla’s FSD with urban driver assist starting in 2027](https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027)
 > BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The n...
@@ -112,17 +114,11 @@ Points: 16
 - `The Verge` [Ford promises not to sell your driving habits to data brokers](https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers)
 > Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulator...
 - `The Verge` [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)
-> Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun wit...
+> Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun wi...
 - `The Verge` [Xbox’s former COO has ‘serious concerns’ about her abrupt departure](https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments)
 > Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it s...
 - `The Verge` [OpenAI pitches data center power plants as a way to protect nearby areas](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)
 > In an announcement on Monday, OpenAI says it will pilot its "Grid Protectors Program" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawat...
-- `The Verge` [The New York Times sues Brave web browser for AI scraping and bypassing paywalls](https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times)
-> The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypas...
-- `The Verge` [Apple’s ‘Ultra’ smart home robot might have to wait until 2028](https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay)
-> Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information. It says the robot's hardware "has been f...
-- `The Verge` [Squarespace is laying off 19 percent of employees](https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent)
-> The website-building platform Squarespace is laying off 19 percent of its employees as it works to "simplify" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge....
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
