@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-11-03
 
-> 自动收集于 2026-11-03 06:06 | 共 40 条
+> 自动收集于 2026-11-03 18:43 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验](https://sspai.com/post/118263)
+> 更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文
+- `少数派` [社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替](https://sspai.com/post/118317)
+> 手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文
 - `少数派` [Disc Image Studio：你想不想在光盘上「画」点什么？](https://sspai.com/post/118211)
 > 把喜欢的图烧进 CD 里，你也可以。查看全文
 - `少数派` [派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等](https://sspai.com/post/118232)
@@ -26,99 +30,95 @@
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [本月玩什么｜影之刃零、战争机器：事变日等](https://sspai.com/post/117960)
 > 欢迎你在评论区分享 10 月新作的游玩体验。查看全文
-- `少数派` [一图流 | 一张图看懂中国版 Apple 智能](https://sspai.com/post/117953)
-> 中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。查看全文
-- `少数派` [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/117867)
-> 📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [NASA's Swift space telescope predicted to crash back to Earth tomorrow](https://www.abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476)
-> Article URL: https://www.abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476
-Comments URL: https://news.ycombinator.com/item?id=50348194
-Points: 7
-# Comments: 4
-- `Hacker News` [Show HN: I built a little browser game to practice Vim commands](https://hjkl.duy.run)
-> I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.There are still a lot of commands I want to add, b...
-- `Hacker News` [Show HN: Rustable is an open source database client built in Rust](https://rustable.app)
-> Article URL: https://rustable.app
-Comments URL: https://news.ycombinator.com/item?id=50347524
-Points: 16
-# Comments: 7
-- `Hacker News` [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820)
-> Article URL: https://arxiv.org/abs/2608.25820
-Comments URL: https://news.ycombinator.com/item?id=50347464
-Points: 16
+- `Hacker News` [Google researchers demand freedom to tell the world what they know about AI](https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/)
+> Article URL: https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/
+Comments URL: https://news.ycombinator.com/item?id=50355504
+Points:...
+- `Hacker News` [How to write comparison content that doesn't age like milk](https://posthog.com/blog/comparison-content-guide)
+> Article URL: https://posthog.com/blog/comparison-content-guide
+Comments URL: https://news.ycombinator.com/item?id=50355365
+Points: 6
 # Comments: 0
-- `Hacker News` [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
-> I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy!
-
-Comments URL: https://news.ycombinator.com/item?id=50346981
-Points: 152
-# Comments: 50
-- `Hacker News` [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-> Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
-Comments URL: https://news.ycombinator.com/item?id=50346849
-Points: 112
-# Comments: 26
-- `Hacker News` [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
-> Article URL: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html
-Comments URL: https://news.ycombinator.co...
-- `Hacker News` [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
-> Article URL: https://openai.com/index/scaling-git-at-openai/
-Comments URL: https://news.ycombinator.com/item?id=50345924
-Points: 147
-# Comments: 62
-- `Hacker News` [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
-> Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/
-Comments URL: https://news.ycombinator.com/item?id=50344919
-Points: 283
-# Comments: 217
-- `Hacker News` [V100 SXM2 pinout and NVLink reference](https://github.com/pigeon-labs-stack/v100-sxm2-reference)
-> Article URL: https://github.com/pigeon-labs-stack/v100-sxm2-reference
-Comments URL: https://news.ycombinator.com/item?id=50344912
-Points: 25
-# Comments: 5
-- `TechCrunch` [Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses](https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/)
-> Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.
-- `TechCrunch` [Apple may try to increase revenue by doing…something with third-party AI apps](https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/)
-> Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call.
-- `TechCrunch` [Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them](https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/)
-> A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals c...
-- `TechCrunch` [Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens](https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/)
-> Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walt...
-- `TechCrunch` [Hinge tests a cheaper plan as users become more fed up paying for dating apps](https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/)
-> At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.
-- `TechCrunch` [Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve](https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/)
-> Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.
-- `TechCrunch` [Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)
-> The one-year-old startup is now valued at $300 million.
-- `TechCrunch` [Apple’s inventory surges 154% as memory chip costs climb](https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/)
-> Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.
-- `TechCrunch` [Anthropic warns that it’s very close to RSI capability, aka self-building AI](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
-> RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.
-- `TechCrunch` [Germany says lawmakers’ iPhones may have been hacked with spyware](https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/)
-> German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.
-- `The Verge` [Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around](https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints)
-> Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is "working hard to get it to as many cust...
-- `The Verge` [Apple set an iPhone sales record even without a new standard iPhone](https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings)
-> Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earn...
-- `The Verge` [Meta will end Quest 2 OS updates in 2027](https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates)
-> Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and ...
-- `The Verge` [One of Google’s Android partners turned 1.3 million set-top boxes into a botnet](https://www.theverge.com/1024807/google-botnet-android-tv-shut-down)
-> Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and "cut ti...
-- `The Verge` [BMW is taking on Tesla’s FSD with urban driver assist starting in 2027](https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027)
-> BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The n...
-- `The Verge` [The Apple Watch Ultra 4 is $100 off, matching its best price to date](https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale)
-> The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Wa...
-- `The Verge` [Ford promises not to sell your driving habits to data brokers](https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers)
-> Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulator...
-- `The Verge` [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)
-> Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun wi...
-- `The Verge` [Xbox’s former COO has ‘serious concerns’ about her abrupt departure](https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments)
-> Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it s...
-- `The Verge` [OpenAI pitches data center power plants as a way to protect nearby areas](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)
-> In an announcement on Monday, OpenAI says it will pilot its "Grid Protectors Program" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawat...
+- `Hacker News` [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
+> Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
+Comments URL: https://news.ycombinator.com/item?id=50355251
+Points: 111
+# Comments: 21
+- `Hacker News` [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)
+> Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370
+Comments URL: https://news.ycombinator.com/item?id=50354960
+Points: 329
+# Comments: 113
+- `Hacker News` [Ashby (YC W19) Is Hiring EMs](https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn)
+> Article URL: https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn
+Comments URL: https://news.ycombinator.com/item?id=50354582
+Points: 0
+# Comments: 0
+- `Hacker News` [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/)
+> Article URL: https://neufangled.com/
+Comments URL: https://news.ycombinator.com/item?id=50354358
+Points: 27
+# Comments: 3
+- `Hacker News` [Gitbook Breached](https://news.ycombinator.com/item?id=50354336)
+> We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting,...
+- `Hacker News` [USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance](https://arxiv.org/abs/2611.02618)
+> Article URL: https://arxiv.org/abs/2611.02618
+Comments URL: https://news.ycombinator.com/item?id=50354250
+Points: 21
+# Comments: 2
+- `Hacker News` [Show HN: HackerChurn – which SaaS tools HN wants to cancel](https://hissingkitty.com/hacker-churn)
+> Article URL: https://hissingkitty.com/hacker-churn
+Comments URL: https://news.ycombinator.com/item?id=50353386
+Points: 44
+# Comments: 18
+- `Hacker News` [Bear turns 10, and it still feels like day one](https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/)
+> Article URL: https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/
+Comments URL: https://news.ycombinator.com/item?id=50353383
+Points: 68
+# Comments: 38
+- `TechCrunch` [Netflix’s new AI Discover tab helps you find something to watch based on your mood](https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/)
+> The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.
+- `TechCrunch` [CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agent...](https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/)
+> CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.
+- `TechCrunch` [Anthropic is still grappling with the economics of compute](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)
+> At a moment when Anthropic's compute margins should be getting better, they’re getting worse.
+- `TechCrunch` [Rivian spinout Also was working on an e-moto project in Kenya — until it walked away](https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/)
+> Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.
+- `TechCrunch` [Google will let schools disable its AI tools, but not without sacrificing Search](https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/)
+> Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.
+- `TechCrunch` [New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech](https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/)
+> The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.
+- `TechCrunch` [Apple restricts dating apps and AI companions to users 18 and up](https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/)
+> Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.
+- `TechCrunch` [The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4](https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/)
+> On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.
+- `TechCrunch` [Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase](https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/)
+> Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.
+- `TechCrunch` [Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene](https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/)
+> Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.
+- `The Verge` [Apple’s latest watchOS beta includes its new always-on Audio Intelligence features](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta)
+> Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri R...
+- `The Verge` [OpenAI says ChatGPT is catching up to Google in search](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search)
+> In many circles, "Ask Chat" has replaced "Google it," and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume ru...
+- `The Verge` [Reddit is adding more ads](https://www.theverge.com/tech/1025602/reddit-search-ads-test)
+> Reddit is testing ads on another area of its platform: search. With this update, ads will appear within your search results "based on a range of factors, including contextual relevance to a search ...
+- `The Verge` [Indie games are missing launch dates because Steam is backed up](https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates)
+> Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to mis...
+- `The Verge` [Google’s Gemini-powered Home Speaker is already on sale for 20 percent off](https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale)
+> If you’re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That’s the best price we’v...
+- `The Verge` [Netflix will show you themed recommendations through a new ‘AI Discover’ tab](https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations)
+> Netflix's TV app is getting a new "AI Discover" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surf...
+- `The Verge` [Moft’s new origami case adds a kickstand and grip to the iPhone Duo](https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo)
+> Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can us...
+- `The Verge` [The Xbox Nano has a hidden cloud secret](https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity)
+> Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a...
+- `The Verge` [Google is entirely disabling Search in schools that don’t want AI](https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features)
+> Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google o...
+- `The Verge` [Xbox’s smallest-ever controller is surprisingly comfortable](https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on)
+> Even though I knew Microsoft's new Xbox Nano controller was tiny, I still gasped when I unboxed it a few days ago. The compact controller is small enough to slip into a pocket unnoticed, and it has...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
