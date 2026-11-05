@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-04
+# 📰 每日科技日报 — 2026-11-05
 
-> 自动收集于 2026-11-04 18:56 | 共 40 条
+> 自动收集于 2026-11-05 06:03 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [Apple 官网排版细节鉴赏](https://sspai.com/post/115399)
+> Apple 独一无二的品牌价值，正是从这些细节中凝聚的。查看全文
+- `少数派` [派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等](https://sspai.com/post/118498)
+> 少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...查看全文
 - `少数派` [你不知道的客户端开发：AI 时代下的选型、原生与借力](https://sspai.com/post/117713)
 > 选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。查看全文
 - `少数派` [微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机](https://sspai.com/post/115819)
@@ -24,96 +28,101 @@
 > 手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文
 - `少数派` [Disc Image Studio：你想不想在光盘上「画」点什么？](https://sspai.com/post/118211)
 > 把喜欢的图烧进 CD 里，你也可以。查看全文
-- `少数派` [派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等](https://sspai.com/post/118232)
-> Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/118240)
 > 能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。查看全文
-- `少数派` [TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验](https://sspai.com/post/118122)
-> 这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [This Month in Ladybird – October 2026](https://ladybird.org/newsletter/2026-10-31/)
-> Article URL: https://ladybird.org/newsletter/2026-10-31/
-Comments URL: https://news.ycombinator.com/item?id=50369194
-Points: 29
-# Comments: 5
-- `Hacker News` [BYD doubles its Brazil market share to 9.7% a year after opening its local plant](https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed)
-> Article URL: https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed
-Comments URL: https://news.ycombinator.com/item?id=50369146
-Points: 42...
-- `Hacker News` [A New Go API for JSON](https://go.dev/blog/jsonv2)
-> Article URL: https://go.dev/blog/jsonv2
-Comments URL: https://news.ycombinator.com/item?id=50369106
-Points: 22
-# Comments: 1
-- `Hacker News` [Launch HN: Kino AI (YC S23) – AI media manager and video editor](https://news.ycombinator.com/item?id=50368804)
-> Hi HN! I'm Luke from Kino (https://kino.ai). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates ...
-- `Hacker News` [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
-> Article URL: https://www.anthropic.com/research/provable-inference
-Comments URL: https://news.ycombinator.com/item?id=50368626
-Points: 77
-# Comments: 26
-- `Hacker News` [An end to buggy web apps](https://replay.io/blog/an-end-to-buggy-web-apps)
-> Article URL: https://replay.io/blog/an-end-to-buggy-web-apps
-Comments URL: https://news.ycombinator.com/item?id=50368439
-Points: 34
-# Comments: 30
-- `Hacker News` [AMD expects to outsell Intel in Q4 for the first time in history](https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections)
-> Article URL: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections
-Comments URL: https://n...
-- `Hacker News` [Letting users trust their own MCP clients, without opening a phishing hole](https://streamvessel.com/blog/mcp-trusted-redirect-uris)
-> Article URL: https://streamvessel.com/blog/mcp-trusted-redirect-uris
-Comments URL: https://news.ycombinator.com/item?id=50367004
-Points: 25
+- `Hacker News` [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
+> Article URL: https://markblah.github.io/lemmings/
+Comments URL: https://news.ycombinator.com/item?id=50375354
+Points: 12
 # Comments: 2
-- `Hacker News` [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
-> Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro
-Comments URL: https://news.ycombinator.com/item?id=50366999
-Points: 181
-# Comments: 48
-- `Hacker News` [Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/)
-> I've missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a shar...
-- `TechCrunch` [Waymo confirms it will split with Uber in January 2028](https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/)
-> The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.
-- `TechCrunch` [‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet](https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/)
-> It is easier to watch the Elizabeth Holmes documentary "You Can See Everything" in low Earth orbit than in London.
-- `TechCrunch` [Sequoia hits rewind, undoing 20 years of expansion](https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/)
-> Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.
-- `TechCrunch` [I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling](https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/)
-> Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.
-- `TechCrunch` [Google faces backlash for plan that would turn off Search for schools that restrict AI](https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/)
-> Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.
-- `TechCrunch` [Titan OS raises $46 million to expand its smart TV OS internationally](https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/)
-> Titan OS has raised $110 million in funding to date.
-- `TechCrunch` [Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank](https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/)
-> Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.
-- `TechCrunch` [TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston](https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/)
-> Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.
-- `TechCrunch` [Canva lays off over 1,200 people amid slowing growth](https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/)
-> Canva is cutting 22% of its staff as it faces its 'hardest year' yet.
-- `TechCrunch` [India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market](https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/)
-> More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active user...
+- `Hacker News` [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
+> Article URL: https://www.spacex.com/starfall
+Comments URL: https://news.ycombinator.com/item?id=50373308
+Points: 178
+# Comments: 110
+- `Hacker News` [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+> Article URL: https://openai.com/index/introducing-images-2-6/
+Comments URL: https://news.ycombinator.com/item?id=50372945
+Points: 211
+# Comments: 137
+- `Hacker News` [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+> Article URL: https://openai.com/index/a-thousand-fewer-paths-to-root/
+Comments URL: https://news.ycombinator.com/item?id=50372929
+Points: 245
+# Comments: 139
+- `Hacker News` [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746)
+> Article URL: https://icode4.coffee/?p=1746
+Comments URL: https://news.ycombinator.com/item?id=50372164
+Points: 96
+# Comments: 5
+- `Hacker News` [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+> Article URL: https://layer3intel.com/blog/residential-proxies-white-house-network
+Comments URL: https://news.ycombinator.com/item?id=50371246
+Points: 868
+# Comments: 273
+- `Hacker News` [Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)
+> Article URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra
+Comments URL: https://news.ycombinator.com/item?id=50370654
+Points: 129
+# Comments: 53
+- `Hacker News` [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)
+> Article URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/
+Comments URL: https://news.ycombinator.com/item?id=50370610
+Points: 215
+# Comments: 115
+- `Hacker News` [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)
+> Article URL: https://www.ricursive.com/ripple
+Comments URL: https://news.ycombinator.com/item?id=50369925
+Points: 267
+# Comments: 97
+- `Hacker News` [Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander](https://fireflyk64.github.io/wcmulti/)
+> Article URL: https://fireflyk64.github.io/wcmulti/
+Comments URL: https://news.ycombinator.com/item?id=50369895
+Points: 148
+# Comments: 17
+- `TechCrunch` [Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/)
+> The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.
+- `TechCrunch` [After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)
+> Data center opposition crossed party lines in Tuesday’s midterms.
+- `TechCrunch` [AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)
+> AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.
+- `TechCrunch` [Nothing CEO says company’s mysterious AI-first device is dropping next month](https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/)
+> While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.
+- `TechCrunch` [Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)
+> During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.
+- `TechCrunch` [Snapchat surpasses 30M paid subscribers](https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/)
+> The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for addit...
+- `TechCrunch` [OpenAI is already trying to shape the 2028 election](https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/)
+> OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.
+- `TechCrunch` [Meta acquires AI coding startup Conductor](https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/)
+> The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.
+- `TechCrunch` [Hackers stole DreamHost customer files and inboxes during months-long attack](https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/)
+> The web host said hackers exploited a vulnerability to access customer emails and files during a "deliberate attack."
+- `TechCrunch` [Open source AI is booming. Hugging Face explains who profits.](https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/)
+> Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable mo...
+- `The Verge` [Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time](https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi)
+> The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make ...
+- `The Verge` [X says its updated web app is way faster](https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster)
+> X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app "one country at a time" for signed-in users. "Open a profile on X.com...
+- `The Verge` [Qualcomm is betting big on data centers as smartphone sales sink](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers)
+> With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its pl...
+- `The Verge` [17 better ways Elon Musk could have wasted $446 million](https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich)
+> One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is ...
+- `The Verge` [How I learned to love an obnoxious phone grip](https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case)
+> Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at...
+- `The Verge` [Bose’s QuietComfort Headphones are more than half off](https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale)
+> It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon...
+- `The Verge` [Gemini for Home now plugs into AT&T’s smart security system](https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system)
+> AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the "first" home security product to integrate with Google Home Premium, ena...
+- `The Verge` [Google’s Pixel 11 phones are up to 27 percent off](https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale)
+> You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos...
+- `The Verge` [Xbox previews two new ways to control cloud games](https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller)
+> I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let playe...
 - `The Verge` [Nothing teases a screen-free AI device ahead of launch next month](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)
 > Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for "AI-native" devices and an AI o...
-- `The Verge` [Apple will check shared iCloud links for ‘harmful content’](https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3)
-> Apple will start checking iCloud items that are accessible to anyone who has the link for "harmful content" starting with iOS 27.3 and other 27.3 updates, the company says. "When you share an item ...
-- `The Verge` [My therapist thinks I should chuck the Amazon Bee Frontier out a window](https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables)
-> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
-- `The Verge` [ChatGPT will now make you animated GIFs](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)
-> ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation ...
-- `The Verge` [God of War Laufey delayed until May](https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay)
-> God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was set to launch on PlayStation 5 on February 16th. Here is Santa Monica Stud...
-- `The Verge` [Nintendo is losing a Switch cartridge supplier](https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center)
-> Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM pro...
-- `The Verge` [Anker’s new window-mounted camera monitors the outside of your home from within it](https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision)
-> Anker announced a new indoor security camera that's designed to watch your yard, driveway, or front porch through a window, instead of monitoring what's inside your home. The new Anker Eufy Window ...
-- `The Verge` [Rian Johnson explains why he had to build his own iPhone camera app](https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview)
-> Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, i...
-- `The Verge` [Data centers lost the midterms](https://www.theverge.com/policy/1026365/data-centers-midterms-results)
-> Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacl...
-- `The Verge` [Uber only fulfilled 4 rides from AI agents last quarter](https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation)
-> AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call th...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
