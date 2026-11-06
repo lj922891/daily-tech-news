@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-11-06
 
-> 自动收集于 2026-11-06 05:58 | 共 40 条
+> 自动收集于 2026-11-06 18:35 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/118623)
+> 📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...查看全文
+- `少数派` [iPhone 变强了，但我没有](https://sspai.com/post/118250)
+> 我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。查看全文
 - `少数派` [更高能效比，带来新惊喜：M6 款 MacBook Pro 初探](https://sspai.com/post/118570)
 > M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。查看全文
 - `少数派` [派早报：国务院办公厅发布 2027 年部分节假日放假安排等](https://sspai.com/post/118587)
@@ -26,103 +30,99 @@
 > 少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...查看全文
 - `少数派` [你不知道的客户端开发：AI 时代下的选型、原生与借力](https://sspai.com/post/117713)
 > 选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。查看全文
-- `少数派` [微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机](https://sspai.com/post/115819)
-> 没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。查看全文
-- `少数派` [国行 Apple 智能上手：这些功能已经准备好](https://sspai.com/post/118404)
-> iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [How accurately did science fiction stories predict AI?](https://jamesyu.org/science-fiction-predictions-of-ai/)
-> Article URL: https://jamesyu.org/science-fiction-predictions-of-ai/
-Comments URL: https://news.ycombinator.com/item?id=50388263
-Points: 8
-# Comments: 3
-- `Hacker News` [Pwn.college](https://pwn.college/)
-> Article URL: https://pwn.college/
-Comments URL: https://news.ycombinator.com/item?id=50387796
-Points: 55
-# Comments: 5
-- `Hacker News` [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)
-> Article URL: https://github.com/dsx-ai-factory/nvke
-Comments URL: https://news.ycombinator.com/item?id=50387738
-Points: 40
-# Comments: 14
-- `Hacker News` [Closed AI models dominate the price-performance frontier](https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/)
-> Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/
-Comments URL: https://news.ycombinator.com/item?id=50387546
-Points: 43
+- `Hacker News` [Memorilla: Latent Semantic Memory for LLMs](https://arxiv.org/abs/2610.21375)
+> Article URL: https://arxiv.org/abs/2610.21375
+Comments URL: https://news.ycombinator.com/item?id=50395919
+Points: 4
+# Comments: 0
+- `Hacker News` [Size-It-Up (Game)](https://magnitudle.com/size-it-up)
+> Article URL: https://magnitudle.com/size-it-up
+Comments URL: https://news.ycombinator.com/item?id=50395869
+Points: 6
+# Comments: 0
+- `Hacker News` [Perplexity launches AI agents for work](https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work)
+> Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work
+Comments URL: https://news.ycombinator.com/item?id=50395866
+Points: 3
+# Comments: 0
+- `Hacker News` [Flawless UI-UX Skill 1.0.0](https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0)
+> Article URL: https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0
+Comments URL: https://news.ycombinator.com/item?id=50395747
+Points: 3
+# Comments: 0
+- `Hacker News` [Devvm.dev: One VM for every project](https://devvm.dev/)
+> Article URL: https://devvm.dev/
+Comments URL: https://news.ycombinator.com/item?id=50395450
+Points: 7
+# Comments: 2
+- `Hacker News` [Anthropic IPO valuation talks drop to $1.3T](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)
+> Article URL: https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors
+Comments URL: https://news.ycombinator.com/item?id=50395318
+Points: 52
 # Comments: 29
-- `Hacker News` [MoofTCP – A modern replacement for MacTCP on 68k Macs](https://github.com/matthewmrichter/mooftcp)
-> Article URL: https://github.com/matthewmrichter/mooftcp
-Comments URL: https://news.ycombinator.com/item?id=50386789
-Points: 31
-# Comments: 18
-- `Hacker News` [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)
-> Article URL: https://thinkingmachines.ai/news/inkling-2-small/
-Comments URL: https://news.ycombinator.com/item?id=50386338
-Points: 139
-# Comments: 53
-- `Hacker News` [Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue](https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html)
-> Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html
-Comments URL: https://news.ycombinator.com/item?id=50385870
-Points: 220
-# Comments: 103
-- `Hacker News` [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
-> Article URL: https://github.com/anthropics/claude-code/issues/107757
-Comments URL: https://news.ycombinator.com/item?id=50385272
-Points: 807
-# Comments: 273
-- `Hacker News` [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
-> Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844
-Comments URL: https://news.ycombinator.com/item?id=50384233
-Points: 419
-# Comments: 158
-- `Hacker News` [Search for everyone](https://kagi.com/changelog#11820)
-> Article URL: https://kagi.com/changelog#11820
-Comments URL: https://news.ycombinator.com/item?id=50383740
-Points: 616
-# Comments: 320
-- `TechCrunch` [The New York Times reportedly in talks to buy Letterboxd for $330 million](https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/)
-> Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.
-- `TechCrunch` [Meta, Google, and TikTok sue California AG over teen social media law](https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/)
-> If it goes into effect next year, this California law would restrict social media access for children under 16.
-- `TechCrunch` [Airbnb says it’s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)
-> Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.
-- `TechCrunch` [Serve Robotics launches new business to become the AWS for robots](https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/)
-> Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.
-- `TechCrunch` [Meta says US users can now video chat with their Muse AI avatar](https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/)
-> Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.
-- `TechCrunch` [Meta warns that election backlash against data centers could make AI expansion harder](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/)
-> Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.
-- `TechCrunch` [OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/)
-> OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.
-- `TechCrunch` [US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military f...](https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/)
-> A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.
-- `TechCrunch` [OpenAI president Greg Brockman says company could be IPO ready in 2027](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/)
-> Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully...
-- `TechCrunch` [The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund](https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
-> Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.
-- `The Verge` [OpenAI is stepping back from NDAs for data center projects](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)
-> Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center p...
-- `The Verge` [Airbnb is working on an AI travel agent](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings)
-> Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. "Today's AI age...
-- `The Verge` [The New York Times is in talks to buy Letterboxd for around $330 million](https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report)
-> The New York Times Company is in talks"exclusive negotations" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony...
-- `The Verge` [T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’](https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile)
-> The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a "major" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Hött...
-- `The Verge` [Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)
-> Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on "Teammates" can take on multiple roles within a workspace, while pulling existing proje...
-- `The Verge` [Salon is shutting down after 31 years](https://www.theverge.com/news/1028281/salon-dot-com-shuts-down)
-> Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the "business real...
-- `The Verge` [The midterms proved once and for all that X is not real life](https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes)
-> A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been ...
-- `The Verge` [Blue Origin’s next launch now won’t happen until 2027](https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027)
-> Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a M...
-- `The Verge` [Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday](https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale)
-> Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 h...
-- `The Verge` [Muse has a voice mode now](https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar)
-> Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app whil...
+- `Hacker News` [UpCodes (YC S17) is hiring SDR's to sell AI compliance software](https://up.codes/careers?utm_source=HN)
+> Article URL: https://up.codes/careers?utm_source=HN
+Comments URL: https://news.ycombinator.com/item?id=50395043
+Points: 0
+# Comments: 0
+- `Hacker News` [Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/)
+> Article URL: https://adikshatriyag-crypto.github.io/aegis-kernel/
+Comments URL: https://news.ycombinator.com/item?id=50394991
+Points: 3
+# Comments: 0
+- `Hacker News` [PyLings: Solve Exercises and Learn Python](https://github.com/thesayfulla/pylings)
+> Article URL: https://github.com/thesayfulla/pylings
+Comments URL: https://news.ycombinator.com/item?id=50394977
+Points: 4
+# Comments: 0
+- `Hacker News` [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html)
+> Article URL: https://kevinboone.me/efitest_index.html
+Comments URL: https://news.ycombinator.com/item?id=50394855
+Points: 62
+# Comments: 3
+- `TechCrunch` [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)
+> Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, t...
+- `TechCrunch` [Pentagon offers battery startup 6K $250M loan to build US factory](https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/)
+> The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.
+- `TechCrunch` [Fox completes its $22B acquisition of Roku](https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/)
+> A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.
+- `TechCrunch` [Ramp data shows AI spending stalling just as Anthropic nears its IPO](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)
+> AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.
+- `TechCrunch` [After blocking Muse, Amazon now lets users text Alexa to help them shop](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/)
+> Amazon said that the feature will roll out to millions of users in coming weeks.
+- `TechCrunch` [Underdog shows off a 32MB speech model in new demo](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/)
+> Despite its small size, Underdog's new model can generate both speech and music.
+- `TechCrunch` [Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/)
+> Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.
+- `TechCrunch` [Tesla will stop making the Cybertruck in 2027](https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/)
+> Elon Musk said the company will use the factory space to make more Cybercabs.
+- `TechCrunch` [At least 10 local governments have moved to drop Flock’s surveillance cameras since summer](https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/)
+> The concerns range from privacy to how data is shared (and with whom) to procurement concerns.
+- `TechCrunch` [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/)
+> Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.
+- `The Verge` [Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces)
+> Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called "spaces," allows Muse to build things like a shopping hub, school dashboard, ...
+- `The Verge` [Amazon is now making a Melania Trump TV series](https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video)
+> Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, ...
+- `The Verge` [Just about anyone can rent access to White House IP addresses](https://www.theverge.com/tech/1028835/white-house-residential-proxy)
+> Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just "a few dollars," as reported by Krebs on Security and The R...
+- `The Verge` [Kobo will soon let you upload and sync your own ebooks across devices, for a price](https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files)
+> Kobo is launching a new monthly subscription service called Stack that lets you upload your own ebooks and documents to the company's servers where they'll be synced across multiple devices and app...
+- `The Verge` [The iPhone Duo has more than 100,000 optimized apps, Apple says](https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps)
+> Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. "It's been wonderful to see ho...
+- `The Verge` [AI is the new dating dealbreaker](https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity)
+> When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After t...
+- `The Verge` [Meta’s refurbished Quest 3S headset is nearly $100 off right now](https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale)
+> If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’...
+- `The Verge` [Big Tech lost big in the 2026 election](https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast)
+> On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data ce...
+- `The Verge` [How Akai and Moog are embracing vibe-coded mods](https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai)
+> inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, "We're going ...
+- `The Verge` [This see-through camera lets photographers maintain eye contact with their subjects](https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera)
+> Lutra, a South Korean startup, has debuted a new brand called Humans of Authenticity (HOA) that's launching another screen-free digital camera that incorporates a large open viewfinder into its des...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
