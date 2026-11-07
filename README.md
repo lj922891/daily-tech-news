@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-06
+# 📰 每日科技日报 — 2026-11-07
 
-> 自动收集于 2026-11-06 18:35 | 共 40 条
+> 自动收集于 2026-11-07 05:30 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,96 +33,91 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Memorilla: Latent Semantic Memory for LLMs](https://arxiv.org/abs/2610.21375)
-> Article URL: https://arxiv.org/abs/2610.21375
-Comments URL: https://news.ycombinator.com/item?id=50395919
-Points: 4
-# Comments: 0
-- `Hacker News` [Size-It-Up (Game)](https://magnitudle.com/size-it-up)
-> Article URL: https://magnitudle.com/size-it-up
-Comments URL: https://news.ycombinator.com/item?id=50395869
-Points: 6
-# Comments: 0
-- `Hacker News` [Perplexity launches AI agents for work](https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work)
-> Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work
-Comments URL: https://news.ycombinator.com/item?id=50395866
-Points: 3
-# Comments: 0
-- `Hacker News` [Flawless UI-UX Skill 1.0.0](https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0)
-> Article URL: https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0
-Comments URL: https://news.ycombinator.com/item?id=50395747
-Points: 3
-# Comments: 0
-- `Hacker News` [Devvm.dev: One VM for every project](https://devvm.dev/)
-> Article URL: https://devvm.dev/
-Comments URL: https://news.ycombinator.com/item?id=50395450
-Points: 7
-# Comments: 2
-- `Hacker News` [Anthropic IPO valuation talks drop to $1.3T](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)
-> Article URL: https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors
-Comments URL: https://news.ycombinator.com/item?id=50395318
-Points: 52
-# Comments: 29
-- `Hacker News` [UpCodes (YC S17) is hiring SDR's to sell AI compliance software](https://up.codes/careers?utm_source=HN)
-> Article URL: https://up.codes/careers?utm_source=HN
-Comments URL: https://news.ycombinator.com/item?id=50395043
-Points: 0
-# Comments: 0
-- `Hacker News` [Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/)
-> Article URL: https://adikshatriyag-crypto.github.io/aegis-kernel/
-Comments URL: https://news.ycombinator.com/item?id=50394991
-Points: 3
-# Comments: 0
-- `Hacker News` [PyLings: Solve Exercises and Learn Python](https://github.com/thesayfulla/pylings)
-> Article URL: https://github.com/thesayfulla/pylings
-Comments URL: https://news.ycombinator.com/item?id=50394977
-Points: 4
-# Comments: 0
-- `Hacker News` [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html)
-> Article URL: https://kevinboone.me/efitest_index.html
-Comments URL: https://news.ycombinator.com/item?id=50394855
-Points: 62
-# Comments: 3
+- `Hacker News` [Show HN: Did prediction markets do any predicting this midterms?](https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms)
+> I've heard so much about how prediction markets are the guiding light in this dark world. But when put head to head against polls or Nate Silver's FLIPR model, they are really a wash. Especially lo...
+- `Hacker News` [Lighting the Skies](https://computer.rip/2026-10-25-searchlights.html)
+> Article URL: https://computer.rip/2026-10-25-searchlights.html
+Comments URL: https://news.ycombinator.com/item?id=50401414
+Points: 11
+# Comments: 1
+- `Hacker News` [The AI sell-off compared to well-known stock market crashes](https://www.kadoa.com/companies/insights/ai-selloff-perspective)
+> Article URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective
+Comments URL: https://news.ycombinator.com/item?id=50401029
+Points: 35
+# Comments: 24
+- `Hacker News` [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree)
+> Article URL: https://josef.cn/blog/unitree
+Comments URL: https://news.ycombinator.com/item?id=50400597
+Points: 77
+# Comments: 52
+- `Hacker News` [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
+> Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/
+Comments URL: https://news.ycombinator.com/item?id=50399991
+Points: 74
+# Comments: 31
+- `Hacker News` [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
+> Article URL: https://mitchellh.com/writing/libghostty-1-0
+Comments URL: https://news.ycombinator.com/item?id=50399933
+Points: 417
+# Comments: 69
+- `Hacker News` [Sodium-ion batteries approach cost parity with LFP](https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/)
+> Article URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/
+Comments URL: https://news.ycombinator.com/item?id=5...
+- `Hacker News` [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+> Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
+Comments URL: https://news.ycombinator.com/item?id=50397994
+Points: 248
+# Comments: 198
+- `Hacker News` [Google has acquired Crusoe's data center site in southeast Wyoming](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update)
+> Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update
+Comments URL: https://news.ycombinator.com/item?id=50397711
+Points: 56
+# Comments: 11
+- `Hacker News` [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
+> Article URL: https://hightouch.com/blog/llm-judges-identity-resolution
+Comments URL: https://news.ycombinator.com/item?id=50397429
+Points: 405
+# Comments: 91
+- `TechCrunch` [Sequoia shutting down its Scouts program marks the end of an era](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
+> Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.
+- `TechCrunch` [From the front row to the hot seat — what the midterms mean for Big Tech](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/)
+> After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what...
+- `TechCrunch` [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
+> The deal highlights the challenges of developing massive AI data centers.
+- `TechCrunch` [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
+> OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.
+- `TechCrunch` [The Duo apps are coming, says Apple](https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/)
+> There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.
+- `TechCrunch` [Hundreds of Artex AI hacking tools found publicly exposed to the web](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)
+> Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.
+- `TechCrunch` [Meta introduces Spaces, a new way to collaborate with your Muse agent](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/)
+> Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.
 - `TechCrunch` [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)
 > Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, t...
 - `TechCrunch` [Pentagon offers battery startup 6K $250M loan to build US factory](https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/)
 > The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.
 - `TechCrunch` [Fox completes its $22B acquisition of Roku](https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/)
 > A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.
-- `TechCrunch` [Ramp data shows AI spending stalling just as Anthropic nears its IPO](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)
-> AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.
-- `TechCrunch` [After blocking Muse, Amazon now lets users text Alexa to help them shop](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/)
-> Amazon said that the feature will roll out to millions of users in coming weeks.
-- `TechCrunch` [Underdog shows off a 32MB speech model in new demo](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/)
-> Despite its small size, Underdog's new model can generate both speech and music.
-- `TechCrunch` [Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/)
-> Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.
-- `TechCrunch` [Tesla will stop making the Cybertruck in 2027](https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/)
-> Elon Musk said the company will use the factory space to make more Cybercabs.
-- `TechCrunch` [At least 10 local governments have moved to drop Flock’s surveillance cameras since summer](https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/)
-> The concerns range from privacy to how data is shared (and with whom) to procurement concerns.
-- `TechCrunch` [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/)
-> Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.
+- `The Verge` [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)
+> OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long...
+- `The Verge` [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy)
+> China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean ...
+- `The Verge` [Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions](https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news)
+> SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but ...
+- `The Verge` [KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium](https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale)
+> Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to w...
+- `The Verge` [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)
+> Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across th...
+- `The Verge` [Shure’s popular podcasting and streaming mic is almost $50 off](https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale)
+> While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at va...
+- `The Verge` [Lame-duck Congress might actually do something: speed up energy projects](https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote)
+> A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a ca...
 - `The Verge` [Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces)
-> Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called "spaces," allows Muse to build things like a shopping hub, school dashboard, ...
+> Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called "spaces," allows its AI assistant to build things like a shopping hub, school dashboard, music...
 - `The Verge` [Amazon is now making a Melania Trump TV series](https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video)
 > Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, ...
 - `The Verge` [Just about anyone can rent access to White House IP addresses](https://www.theverge.com/tech/1028835/white-house-residential-proxy)
 > Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just "a few dollars," as reported by Krebs on Security and The R...
-- `The Verge` [Kobo will soon let you upload and sync your own ebooks across devices, for a price](https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files)
-> Kobo is launching a new monthly subscription service called Stack that lets you upload your own ebooks and documents to the company's servers where they'll be synced across multiple devices and app...
-- `The Verge` [The iPhone Duo has more than 100,000 optimized apps, Apple says](https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps)
-> Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. "It's been wonderful to see ho...
-- `The Verge` [AI is the new dating dealbreaker](https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity)
-> When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After t...
-- `The Verge` [Meta’s refurbished Quest 3S headset is nearly $100 off right now](https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale)
-> If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’...
-- `The Verge` [Big Tech lost big in the 2026 election](https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast)
-> On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data ce...
-- `The Verge` [How Akai and Moog are embracing vibe-coded mods](https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai)
-> inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, "We're going ...
-- `The Verge` [This see-through camera lets photographers maintain eye contact with their subjects](https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera)
-> Lutra, a South Korean startup, has debuted a new brand called Humans of Authenticity (HOA) that's launching another screen-free digital camera that incorporates a large open viewfinder into its des...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
