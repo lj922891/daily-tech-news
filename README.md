@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-11-08
 
-> 自动收集于 2026-11-08 05:31 | 共 40 条
+> 自动收集于 2026-11-08 17:17 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,54 +33,57 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html)
-> Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html
-Comments URL: https://news.ycombinator.com/item?id=50410359
-Points: 6
-# Comments: 0
-- `Hacker News` [I Use Development-Driven Specs, Not Spec-Driven Development](https://github.com/waywardgeek/ensemble)
-> Article URL: https://github.com/waywardgeek/ensemble
-Comments URL: https://news.ycombinator.com/item?id=50410279
-Points: 7
-# Comments: 5
-- `Hacker News` [Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU](https://github.com/AmSach/maple)
-> Article URL: https://github.com/AmSach/maple
-Comments URL: https://news.ycombinator.com/item?id=50410253
-Points: 3
-# Comments: 1
-- `Hacker News` [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
-> Article URL: https://caleb.software/posts/claude-to-pi.html
-Comments URL: https://news.ycombinator.com/item?id=50410107
-Points: 42
-# Comments: 24
-- `Hacker News` [Consumer brain wave headsets threaten privacy](https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F)
-> Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F
-Comments URL: https://n...
-- `Hacker News` [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
-> Article URL: https://github.com/crmne/zapfast
-Comments URL: https://news.ycombinator.com/item?id=50409855
-Points: 27
+- `Hacker News` [Top Astrophysicist Leaves U.S.](https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html)
+> Article URL: https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html
+Comments URL: https://news.ycombinator.com/item?id=50414524
+Points: 15
+# Comments: 3
+- `Hacker News` [Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down](https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/)
+> Article URL: https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/
+Comments URL: https://news.ycombinator.com/item?id=50414427
+...
+- `Hacker News` [Drones built to look like birds evaded detection at Air Force tech exercise](https://taskandpurpose.com/news/drone-mimicking-bird-test/)
+> Article URL: https://taskandpurpose.com/news/drone-mimicking-bird-test/
+Comments URL: https://news.ycombinator.com/item?id=50413885
+Points: 26
 # Comments: 13
-- `Hacker News` [Commodore PET – The Worlds First Personal Computer](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)
-> Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/
-Comments URL: https://news.ycombinator.com/item?id=50408961
-Points: 35
-# Comments: 12
-- `Hacker News` [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
-> Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/
-Comments URL: https://news.ycombinator.com/item?id=50408931
-Points: 105
-# Comments: 71
-- `Hacker News` [IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)
-> Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/
-Comments URL: https://news.ycombinator.com/item?id=50408750
-Points: 24
-# Comments: 1
-- `Hacker News` [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
-> Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/
-Comments URL: https://news.ycombinator.com/item?id=50408713
-Points: 90
-# Comments: 25
+- `Hacker News` [OpenAI raises $11B at a $1.25T valuation](https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/)
+> Article URL: https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/
+Comments URL: https://news.ycombinator.com...
+- `Hacker News` [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)
+> Article URL: https://goldstein.lol/posts/deno-security/
+Comments URL: https://news.ycombinator.com/item?id=50413769
+Points: 26
+# Comments: 7
+- `Hacker News` [How to prove equations using diagrams, part 1](https://www.epatters.org/post/e-graphs-1/)
+> Article URL: https://www.epatters.org/post/e-graphs-1/
+Comments URL: https://news.ycombinator.com/item?id=50412830
+Points: 11
+# Comments: 2
+- `Hacker News` [Person of Interest](https://krthr.co/person-of-interest/)
+> Article URL: https://krthr.co/person-of-interest/
+Comments URL: https://news.ycombinator.com/item?id=50412318
+Points: 230
+# Comments: 155
+- `Hacker News` [Petered](https://aworkinglibrary.com/writing/petered)
+> Article URL: https://aworkinglibrary.com/writing/petered
+Comments URL: https://news.ycombinator.com/item?id=50412152
+Points: 116
+# Comments: 74
+- `Hacker News` [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
+> Article URL: https://linebender.org/blog/jit-bitmap-text/
+Comments URL: https://news.ycombinator.com/item?id=50412072
+Points: 63
+# Comments: 11
+- `Hacker News` [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
+> Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html
+Comments URL: https://news.ycombinator.com/item?id=50412067
+Points: 99
+# Comments: 21
+- `TechCrunch` [TechCrunch Mobility: The Cybertruck experiment is over](https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+- `TechCrunch` [Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me](https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/)
+> The AutoBarista's "Grind iQ" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.
 - `TechCrunch` [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
 > On Equity, we unpacked what the midterms mean for the tech industry.
 - `TechCrunch` [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)
@@ -97,10 +100,12 @@ Points: 90
 > After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what...
 - `TechCrunch` [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
 > The deal highlights the challenges of developing massive AI data centers.
-- `TechCrunch` [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
-> OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.
-- `TechCrunch` [The Duo apps are coming, says Apple](https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/)
-> There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.
+- `The Verge` [Apple’s M5 MacBook Air is down to its lowest price since July](https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale)
+> The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although th...
+- `The Verge` [Chatbots might be coming to Apple’s HomeView](https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview)
+> Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a "Conversational Apps" category. While there are no details about what...
+- `The Verge` [There’s no slowing down media’s pivot-to-video 2.0](https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrive...
 - `The Verge` [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)
 > With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful...
 - `The Verge` [Costco members can get $5 off the reimagined Ocarina of Time](https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale)
@@ -115,12 +120,6 @@ Points: 90
 > Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special serie...
 - `The Verge` [Good riddance, Cybertruck!](https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash)
 > I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be "winding down" production of the Cybertruck next year to make room for the Cyberca...
-- `The Verge` [Zelda is back and better than ever](https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer)
-> Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and ...
-- `The Verge` [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)
-> Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of ...
-- `The Verge` [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)
-> OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
