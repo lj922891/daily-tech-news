@@ -6,10 +6,18 @@
 
 # 📰 每日科技日报 — 2026-11-09
 
-> 自动收集于 2026-11-09 05:41 | 共 40 条
+> 自动收集于 2026-11-09 21:40 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/118833)
+> >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [双十一 | 少数派会员、正版软件、付费栏目限时优惠](https://sspai.com/post/118799)
+> 多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文
+- `少数派` [一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验](https://sspai.com/post/118227)
+> 本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...查看全文
+- `少数派` [天花板上的白色盒子，是怎样保护我们的安全的？](https://sspai.com/post/118029)
+> 2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。查看全文
 - `少数派` [双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖](https://sspai.com/post/118612)
 > 从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...查看全文
 - `少数派` [派早报：特斯拉将停产 Cybertruck](https://sspai.com/post/118805)
@@ -22,104 +30,94 @@
 > 📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...查看全文
 - `少数派` [iPhone 变强了，但我没有](https://sspai.com/post/118250)
 > 我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。查看全文
-- `少数派` [更高能效比，带来新惊喜：M6 款 MacBook Pro 初探](https://sspai.com/post/118570)
-> M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。查看全文
-- `少数派` [派早报：国务院办公厅发布 2027 年部分节假日放假安排等](https://sspai.com/post/118587)
-> OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文
-- `少数派` [开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验](https://sspai.com/post/118546)
-> 全新 MacBook Pro，开启 Mac 的下一个世代。查看全文
-- `少数派` [新玩意 255｜少数派的编辑们最近买了啥？](https://sspai.com/post/118541)
-> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
-> Article URL: https://blog.zortax.de/posts/a-critique-of-gpui
-Comments URL: https://news.ycombinator.com/item?id=50420857
-Points: 37
-# Comments: 9
-- `Hacker News` [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
-> Article URL: http://mamememo.blogspot.com/2010/09/qlobe.html
-Comments URL: https://news.ycombinator.com/item?id=50420599
-Points: 13
+- `Hacker News` [Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)
+> Article URL: https://artificialanalysis.ai/models/claude-fable-5-2
+Comments URL: https://news.ycombinator.com/item?id=50431144
+Points: 63
+# Comments: 17
+- `Hacker News` [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
+> Article URL: https://postalpro.usps.com/zcb
+Comments URL: https://news.ycombinator.com/item?id=50431058
+Points: 162
+# Comments: 66
+- `Hacker News` [Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)](https://parkgraph.com/parking-app-fees)
+> Article URL: https://parkgraph.com/parking-app-fees
+Comments URL: https://news.ycombinator.com/item?id=50430991
+Points: 4
 # Comments: 0
-- `Hacker News` [A Bit about Email](https://maurycyz.com/misc/email/)
-> Article URL: https://maurycyz.com/misc/email/
-Comments URL: https://news.ycombinator.com/item?id=50420383
-Points: 14
-# Comments: 2
-- `Hacker News` [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
-> Article URL: https://aphyr.com/posts/427-rip-harvest
-Comments URL: https://news.ycombinator.com/item?id=50420035
-Points: 194
-# Comments: 60
-- `Hacker News` [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
-> Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/
-Comments URL: https://news.ycombinator.com/item?id=50419215
-Points: 178
-# Comments: 64
-- `Hacker News` [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
-> Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists
-Comments URL: https://news.ycombinator.com/item?id=50418975
-Points: 120
-# ...
-- `Hacker News` [When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
-> Article URL: https://isocpp.org/files/papers/P4454R0.pdf
-Comments URL: https://news.ycombinator.com/item?id=50418818
-Points: 99
-# Comments: 88
-- `Hacker News` [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
-> Article URL: https://chimera-vocal-synth.vercel.app/
-Comments URL: https://news.ycombinator.com/item?id=50418182
-Points: 151
-# Comments: 22
-- `Hacker News` [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
-> Article URL: https://ketchup3d.github.io/app/
-Comments URL: https://news.ycombinator.com/item?id=50418176
-Points: 338
-# Comments: 92
-- `Hacker News` [Nvidia CEO Jensen Huang's letter to staff about affair](https://nvidianews.nvidia.com/news/a-message-to-our-company)
-> https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff..., https://archive.ph/Hxn5hhttps://www.nytimes.com/2026/11/06/us/politics/chinese-spy-a..., https://archive.ph/atMcphttps://www.cnn.com...
-- `TechCrunch` [Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/)
-> Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.
-- `TechCrunch` [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)
-> It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.
-- `TechCrunch` [Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)
-> In a memo to the company, Huang admitted that he had an affair.
-- `TechCrunch` [If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they u...](https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/)
-> Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?
-- `TechCrunch` [Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/)
-> Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.
-- `TechCrunch` [Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board](https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/)
-> A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.
-- `TechCrunch` [SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’](https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/)
-> SNL seems to have its knives out for tech executives.
-- `TechCrunch` [He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.](https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
-> Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.
-- `TechCrunch` [TechCrunch Mobility: The Cybertruck experiment is over](https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-- `TechCrunch` [Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me](https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/)
-> The AutoBarista's "Grind iQ" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.
-- `The Verge` [Here’s the full text of Jensen Huang’s memo to Nvidia](https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia)
-> On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of...
-- `The Verge` [Soul Glo’s Diaspora Problems is a hardcore record like no other](https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review)
-> Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revis...
-- `The Verge` [Epic Games Launcher is coming to SteamOS](https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos)
-> In October, Epic Games said that it was "investigating" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specificall...
-- `The Verge` [Nvidia is investigating Jensen Huang’s relationship with a Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy)
-> Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State S...
-- `The Verge` [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)
-> Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse....
-- `The Verge` [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit)
-> Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it ill...
-- `The Verge` [Apple’s M5 MacBook Air is down to its lowest price since July](https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale)
-> The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although th...
-- `The Verge` [Chatbots might be coming to Apple’s HomeView](https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview)
-> Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a "Conversational Apps" category. While there are no details about what...
-- `The Verge` [There’s no slowing down media’s pivot-to-video 2.0](https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrive...
-- `The Verge` [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)
-> With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful...
+- `Hacker News` [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
+> Article URL: https://yappologistic.github.io/CUI/
+Comments URL: https://news.ycombinator.com/item?id=50430621
+Points: 72
+# Comments: 42
+- `Hacker News` [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+> Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2
+Comments URL: https://news.ycombinator.com/item?id=50429906
+Points: 696
+# Comments: 378
+- `Hacker News` [Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)
+> Many thanks to my ex for inspiring my new MacOS app, Someone Was Here.It takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends...
+- `Hacker News` [E-means: 10x faster k-means at equal loss](https://e-means.github.io/)
+> Article URL: https://e-means.github.io/
+Comments URL: https://news.ycombinator.com/item?id=50429734
+Points: 129
+# Comments: 7
+- `Hacker News` [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
+> Hey HN and Cats, thank you for checking this out!Github:
+https://github.com/raiseCatError/meowdisplayEDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: https://github....
+- `Hacker News` [DeepX claims inference up to 100B parameters at less than 5 W](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
+> Article URL: https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/
+Comments URL: https://news.ycombinator.com/item?id=50429545
+Points: 102
+# Comme...
+- `Hacker News` [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
+> Article URL: https://www.infineon.com/press-release/2026/infpr202611-028
+Comments URL: https://news.ycombinator.com/item?id=50429430
+Points: 63
+# Comments: 26
+- `TechCrunch` [Fervo now has $12B in orders for its geothermal power tech](https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/)
+> Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.
+- `TechCrunch` [Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy](https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/)
+> The Nvidia CEO also pulled out of an Anthropic event earlier.
+- `TechCrunch` [YouTube streaming data returns to Billboard charts, ending major disagreement](https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/)
+> YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.
+- `TechCrunch` [Anthropic releases new Mythos and Fable models amid RSI concerns](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)
+> Anthropic says the new models "show improvements in areas like coding, reasoning, and vision," as well as in communicating more clearly with users.
+- `TechCrunch` [AI hardware startup Nominal triples valuation to $3B in 8 months](https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/)
+> Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.
+- `TechCrunch` [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
+> France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.
+- `TechCrunch` [Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny](https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/)
+> Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.
+- `TechCrunch` [Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/)
+> At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.
+- `TechCrunch` [Uber launches parking service following SpotHero acquisition, with an eye on robotaxis](https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/)
+> Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.
+- `TechCrunch` [Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)
+> Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.
+- `The Verge` [The global pledge to use AI for climate good is a cruel joke](https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31)
+> At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be...
+- `The Verge` [Apple’s $50 Intelligence Usage Packs extend access to some AI features](https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro)
+> After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to "Buy More Usage" for a one-tim...
+- `The Verge` [Anthropic launches new Claude Fable and Mythos 5.2 models](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2)
+> Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on "daunting" technical challenges. The company claims the new models show i...
+- `The Verge` [You can grab three months of Game Pass Ultimate for under $20 per month](https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale)
+> The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the cou...
+- `The Verge` [Instagram’s Effect Builder makes new filters from AI prompts](https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters)
+> After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents...
+- `The Verge` [James Gunn is out as DC movie leader](https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving)
+> Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Pr...
+- `The Verge` [The future of AI hinges on… Jensen Huang’s sex life?](https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me)
+> I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was ...
+- `The Verge` [Uber wants to park your car now, too](https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis)
+> Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Ube...
+- `The Verge` [Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage](https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage)
+> Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include "addi...
+- `The Verge` [Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec](https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai)
+> Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, "I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
