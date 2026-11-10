@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-11-10
 
-> 自动收集于 2026-11-10 06:50 | 共 40 条
+> 自动收集于 2026-11-10 18:57 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [社区速递 165 | 透明工牌与派友十月购物清单](https://sspai.com/post/118861)
+> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
+- `少数派` [报名人数创下新高，第十一届「移动应用创新赛」圆满落幕](https://sspai.com/post/118824)
+> 北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...查看全文
 - `少数派` [今年双十一，这些鼠标值得一看](https://sspai.com/post/111065)
 > 介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。查看全文
 - `少数派` [派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等](https://sspai.com/post/118854)
@@ -26,103 +30,96 @@
 > 从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...查看全文
 - `少数派` [派早报：特斯拉将停产 Cybertruck](https://sspai.com/post/118805)
 > 特斯拉将停产 Cybertruck深圳在 APEC 前夕整顿非法市场美国数据中心股持续遭抛售，大量建设项目被取消京津冀三地消协组织敦促航司、平台规范机票退改签FBI 警告冰柜网络安全攻击风险广电总局部署开展新一轮微短剧专项治理工作看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [苹果产品那些不够颠覆，却值得被学习的细节](https://sspai.com/post/118114)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [一个 05 后的个人数码编年史](https://sspai.com/post/116750)
-> 我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
-> Article URL: https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/
-Comments URL: https://news.ycombinator.com/item?id=50436640
-Points: 45
-# Comments: 6
-- `Hacker News` [Your TV can see through walls](https://maurycyz.com/projects/fading/)
-> Article URL: https://maurycyz.com/projects/fading/
-Comments URL: https://news.ycombinator.com/item?id=50436410
-Points: 25
-# Comments: 2
-- `Hacker News` [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
-> Article URL: https://www.ultorg.com/
-Comments URL: https://news.ycombinator.com/item?id=50435898
-Points: 23
+- `Hacker News` [Work at the Frontier: AI's effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work)
+> Article URL: https://openai.com/index/ai-effect-on-freelance-work
+Comments URL: https://news.ycombinator.com/item?id=50443838
+Points: 13
 # Comments: 5
-- `Hacker News` [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
-> Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html
-Comments URL: https://news.ycombinator.com/item?id=50435660
-Points: 98
-# Comments: 42
-- `Hacker News` [Formalizing CPython](https://broyojo.com/python-formalization/)
-> Article URL: https://broyojo.com/python-formalization/
-Comments URL: https://news.ycombinator.com/item?id=50435105
-Points: 36
-# Comments: 11
-- `Hacker News` [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
-> Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/
-Comments URL: https://news.ycombinator.com/item?id=50434310
-Points: 104
-# Comments: 54
-- `Hacker News` [Horible public key tricks](https://maurycyz.com/projects/badcert/)
-> Article URL: https://maurycyz.com/projects/badcert/
-Comments URL: https://news.ycombinator.com/item?id=50434264
-Points: 112
-# Comments: 38
-- `Hacker News` [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
-> Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game
-Comments URL: https://news.ycombinator.com/item?id=50433659
-Points: 312
-# Comments: 223
-- `Hacker News` [Exact – a new cross platform UI framework](https://github.com/expo/exact)
-> Article URL: https://github.com/expo/exact
-Comments URL: https://news.ycombinator.com/item?id=50433541
-Points: 103
-# Comments: 59
-- `Hacker News` [TPU 8tx and TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
-> Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/
-Comments URL: https://news.ycombinator.com/item?id=50432831
-Points: 243
-# Comments: 72
-- `TechCrunch` [California’s proposed ‘billionaire tax’ fails to pass](https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/)
-> California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists T...
-- `TechCrunch` [Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes](https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/)
-> The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.
-- `TechCrunch` [Anthropic reportedly plans to move forward with IPO plans](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)
-> The AI company is expected to set its valuation range this week, the Wall Street Journal reported.
-- `TechCrunch` [Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a...](https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/)
-> The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.
-- `TechCrunch` [Hotel giant Wyndham exposed customer data after app security lapse](https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/)
-> Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized ac...
-- `TechCrunch` [A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal](https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/)
-> Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.
-- `TechCrunch` [The race is on to sue Nvidia](https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/)
-> Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insi...
-- `TechCrunch` [Fervo now has $12B in orders for its geothermal power tech](https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/)
-> Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.
-- `TechCrunch` [Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy](https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/)
-> The Nvidia CEO also pulled out of an Anthropic event earlier.
-- `TechCrunch` [YouTube streaming data returns to Billboard charts, ending major disagreement](https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/)
-> YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.
-- `The Verge` [David Ellison says AI could be the ‘biggest creative unlock in modern history’](https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai)
-> During Paramount Skydance's latest earnings call, CEO David Ellison said "it's hard to imagine" AI won't have a bigger impact on the film industry than CGI. In response to a question about the comp...
-- `The Verge` [What could China get from Jensen Huang?](https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang)
-> It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpa...
-- `The Verge` [Here’s what Trump said he knew about Jensen Huang](https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference)
-> President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said th...
-- `The Verge` [Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang)
-> The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent repo...
-- `The Verge` [MSI’s refurbished QD-OLED gaming monitor is on sale for under $300](https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale)
-> One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manu...
-- `The Verge` [The global pledge to use AI for climate good is a cruel joke](https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31)
-> At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be...
-- `The Verge` [Apple’s $50 Intelligence Usage Packs extend access to some AI features](https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro)
-> After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to "Buy More Usage" for a one-tim...
-- `The Verge` [Anthropic launches new Claude Fable and Mythos 5.2 models](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2)
-> Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on "daunting" technical challenges. The company claims the new models show i...
-- `The Verge` [You can grab three months of Game Pass Ultimate for under $20 per month](https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale)
-> The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the cou...
-- `The Verge` [Instagram’s Effect Builder makes new filters from AI prompts](https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters)
-> After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents...
+- `Hacker News` [Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)
+> Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/
+Comments URL: https://news.ycombinator.com/item?id=50443824
+Points: 34
+# Comments: 7
+- `Hacker News` [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)
+> Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, `` and showModal() give you backdrops and id...
+- `Hacker News` [Val Town is winding down](https://blog.val.town/winding-down)
+> Article URL: https://blog.val.town/winding-down
+Comments URL: https://news.ycombinator.com/item?id=50443427
+Points: 75
+# Comments: 19
+- `Hacker News` [AMD's Zen 6 Family: Feeding the Beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
+> Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast
+Comments URL: https://news.ycombinator.com/item?id=50443090
+Points: 60
+# Comments: 17
+- `Hacker News` [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
+> Article URL: https://neil.fraser.name/news/2026/11/10/
+Comments URL: https://news.ycombinator.com/item?id=50442736
+Points: 320
+# Comments: 55
+- `Hacker News` [Tailscale's DNS IPv6 spells out "Tailscale"](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
+> Article URL: https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/
+Comments URL: https://news.ycombinator.com/item?id=50442691
+Points: 81
+# Comments: 23
+- `Hacker News` [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
+> Article URL: https://www.blender.org/download/releases/5-3/
+Comments URL: https://news.ycombinator.com/item?id=50442426
+Points: 268
+# Comments: 36
+- `Hacker News` [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
+> Article URL: https://docodethatmatters.com/home-automation-overnight-success/
+Comments URL: https://news.ycombinator.com/item?id=50441707
+Points: 217
+# Comments: 104
+- `Hacker News` [Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)
+> Article URL: https://tinyvalencia.com/
+Comments URL: https://news.ycombinator.com/item?id=50441518
+Points: 76
+# Comments: 25
+- `TechCrunch` [OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/)
+> OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.
+- `TechCrunch` [Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available](https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/)
+> Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.
+- `TechCrunch` [Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)
+> As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, su...
+- `TechCrunch` [Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline](https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
+> The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+- `TechCrunch` [Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI](https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/)
+> Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.
+- `TechCrunch` [Apple TV makes sign language interpretation a built-in accessibility feature](https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/)
+> Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.
+- `TechCrunch` [Google broadens its AI hardware portfolio with two new specialized chips](https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/)
+> Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.
+- `TechCrunch` [N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs](https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/)
+> The remote access giant also urged its self-hosted customers to take down their own servers amid a "critical security incident," fearing the possibility of cyberattacks.
+- `TechCrunch` [Meta’s AI agent Muse lands on Apple Watch and Android Wear OS](https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/)
+> Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.
+- `TechCrunch` [Reddit is turning user conversations into AI-powered product reviews](https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/)
+> Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.
+- `The Verge` [One of our favorite multi-filament 3D printers is $100 off](https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale)
+> If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is ...
+- `The Verge` [ChatGPT is getting verified AI ‘Business Agents’](https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub)
+> ChatGPT is going to let you chat with verified "Business Agents" that represent a brand to help you with things like comparison shopping. The feature, available first to "eligible" e-commerce and o...
+- `The Verge` [Ableton Live 13 announced with a step sequencer, new drum synth, and more](https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw)
+> Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the bigge...
+- `The Verge` [The indie game community is in disarray over AI and Big Walk](https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai)
+> Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in "any capacity." Soon after, the developer of indie hit Bi...
+- `The Verge` [Google Fi is bringing back multiple cell network support for better coverage](https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel)
+> Google Fi is launching a new "super network" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out startin...
+- `The Verge` [Anthropic has its own AI-powered office suite now](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now)
+> For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to...
+- `The Verge` [eBay appears to have shut the door on third-party AI agents](https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping)
+> eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had h...
+- `The Verge` [The Verge’s 2026 holiday gift guide for moms](https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026)
+> Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influenti...
+- `The Verge` [Google releases Gemini 4 Carbon with agent ‘swarm’ feature](https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout)
+> Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of "cybersecurity defenders" two weeks ago. Google claims Carbon is its "stron...
+- `The Verge` [Ember’s latest self-heating 14-ounce mug is $50 off](https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale)
+> If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3, you might warm up to the current discount happening at Amazon, Ember, and Best Buy for several colors of the (top rack) d...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
