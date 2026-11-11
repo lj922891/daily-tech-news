@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-11-11
 
-> 自动收集于 2026-11-11 05:39 | 共 40 条
+> 自动收集于 2026-11-11 18:55 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [城市漫步指南 | 安特卫普，时尚就在生活中](https://sspai.com/post/118781)
+> 原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...查看全文
+- `少数派` [从优胜美地到金门大桥：跟着 macOS 游览加州](https://sspai.com/post/118175)
+> 陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文
 - `少数派` [RetroSweeper Go：复古外观、更有手感的扫雷游戏](https://sspai.com/post/118458)
 > 复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。查看全文
 - `少数派` [派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等](https://sspai.com/post/118905)
@@ -20,69 +24,72 @@
 > 北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...查看全文
 - `少数派` [今年双十一，这些鼠标值得一看](https://sspai.com/post/111065)
 > 介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。查看全文
-- `少数派` [派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等](https://sspai.com/post/118854)
-> 少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/118833)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [双十一 | 少数派会员、正版软件、付费栏目限时优惠](https://sspai.com/post/118799)
 > 多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文
 - `少数派` [一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验](https://sspai.com/post/118227)
 > 本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...查看全文
-- `少数派` [天花板上的白色盒子，是怎样保护我们的安全的？](https://sspai.com/post/118029)
-> 2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
-> Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/
-Comments URL: https://news.ycombinator.com/item?id=50449748
-Points: 36
-# Comments: 8
-- `Hacker News` [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
-> Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna
-Comments URL: https://news.ycombinator.com/item?id=50449275
-Points: 42
-# Comment...
-- `Hacker News` [Hooked on Tuna](https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428)
-> https://blue-continuum.com/hooked-on-tuna
-
-Comments URL: https://news.ycombinator.com/item?id=50449080
-Points: 20
-# Comments: 1
-- `Hacker News` [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
-> Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html
-Comments URL: https://news.ycombinator.com/item?id=50448921
-Points: 80
-# Comments: 11
-- `Hacker News` [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)
-> Article URL: https://tis-100.wincon.dev/
-Comments URL: https://news.ycombinator.com/item?id=50448340
-Points: 31
+- `Hacker News` [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
+> Article URL: https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html
+Comments URL: https://news.ycombinator.com/item?id=50456740
+Points: 4
+# ...
+- `Hacker News` [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
+> Article URL: https://github.com/aws/aws-emulator
+Comments URL: https://news.ycombinator.com/item?id=50456631
+Points: 56
+# Comments: 15
+- `Hacker News` [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://pomerado.ai/)
+> Hi HN, we’re Alan and Akshay from Pomerado (https://pomerado.ai/). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve.Agents a...
+- `Hacker News` [Faster Retrieval for Better, More Efficient RAG](https://machinelearning.apple.com/research/faster-retrieval)
+> Article URL: https://machinelearning.apple.com/research/faster-retrieval
+Comments URL: https://news.ycombinator.com/item?id=50455633
+Points: 52
 # Comments: 4
-- `Hacker News` [AI is becoming an information gateway. Audiences still don’t want it making news](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)
-> Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/
-Comments URL: https://news.ycombinator.com/item?id=50448174
-Poin...
-- `Hacker News` [Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
-> Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
-Comments URL: https://news.ycombinator.com/item?id=50447074
-Points: 363
-# Comments: 165
-- `Hacker News` [$30M Raised to Redo the CPU](https://tendrils.co/blog/2026-11-10/30m-raised)
-> Article URL: https://tendrils.co/blog/2026-11-10/30m-raised
-Comments URL: https://news.ycombinator.com/item?id=50447036
-Points: 61
-# Comments: 46
-- `Hacker News` [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)
-> Article URL: https://teorth.github.io/tao-web/six-math-essentials.html
-Comments URL: https://news.ycombinator.com/item?id=50446246
-Points: 192
-# Comments: 32
-- `Hacker News` [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
-> Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/
-Comments URL: https://news.ycombinator.com/item?id=50445401
-Points: 408
-# Comments: 284
+- `Hacker News` [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+> Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/
+Comments URL: https://news.ycombinator.com/item?id=50455394
+Points: 204
+# Comments: 104
+- `Hacker News` [AI, activity, and outcomes in software engineering](https://cabird.com/talks/shipping-faster/)
+> https://www.youtube.com/watch?v=0wumMeZsNsI
+
+Comments URL: https://news.ycombinator.com/item?id=50455332
+Points: 50
+# Comments: 73
+- `Hacker News` [Multiple remote code execution vulnerabilities in danfoss sm-800A](https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a)
+> Article URL: https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a
+Comments URL: https://news.ycombinator.com/item?id=50455031
+Points: 11
+# Comments: 1
+- `Hacker News` [The hardest notes to find on the guitar fretboard](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard)
+> Article URL: https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard
+Comments URL: https://news.ycombinator.com/item?id=50454995
+Points: 27
+# Comments: 16
+- `Hacker News` [Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)
+> I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is ...
+- `Hacker News` [The Computer Graphics Book of Knowledge](https://www.cs.cmu.edu/~ph/nyit/masson/history.htm)
+> Article URL: https://www.cs.cmu.edu/~ph/nyit/masson/history.htm
+Comments URL: https://news.ycombinator.com/item?id=50454823
+Points: 29
+# Comments: 8
+- `TechCrunch` [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/)
+> “There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.
+- `TechCrunch` [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
+> Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.
+- `TechCrunch` [Siri co-founder backs Helix for its voice ID tech](https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/)
+> With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.
+- `TechCrunch` [Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth](https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/)
+> At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databric...
+- `TechCrunch` [Plurai wants to help AI agents work better using the same approach that helped get self-driving c...](https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/)
+> Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.
+- `TechCrunch` [Nvidia’s crisis has corporate governance experts reaching for the popcorn](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/)
+> The governance experts we talked to say nobody has seen anything like what's unfolding right now.
 - `TechCrunch` [X launches its own clipping feature to spur influencer engagement](https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/)
 > X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.
 - `TechCrunch` [OpenAI acquires Odessia, travel startup created by Sonder founder](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)
@@ -91,38 +98,26 @@ Points: 408
 > New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.
 - `TechCrunch` [Proximal Ventures raises debut fund to back startups bringing AI to drug development](https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/)
 > Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.
-- `TechCrunch` [X-energy gets green light to build its first small modular nuclear reactors](https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/)
-> X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.
-- `TechCrunch` [All 7 Anthropic founders will each cash out about $250M in IPO](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/)
-> Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving ...
-- `TechCrunch` [Oura to acquire AI-native primary care startup Counsel Health for $625M](https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/)
-> The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”
-- `TechCrunch` [PSI is trying to make a business out of AI-driven scientific discovery](https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/)
-> PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.
-- `TechCrunch` [OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/)
-> OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.
-- `TechCrunch` [Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available](https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/)
-> Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.
-- `The Verge` [Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode](https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling)
-> Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs,...
-- `The Verge` [The VR Disney Plus app on Meta Quest now has 3D movies](https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies)
-> Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out toda...
-- `The Verge` [Oura is acquiring medical AI chatbot startup Counsel Health](https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition)
-> Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls i...
-- `The Verge` [Sony cancels live-service shooter Fairgames](https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled)
-> Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ende...
-- `The Verge` [The PlayStation Plus PC app is shutting down next month](https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down)
-> Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain...
-- `The Verge` [Starlink Mini 2 adds a swappable battery](https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery)
-> SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to so...
-- `The Verge` [The US is winning the AI race. Jensen Huang could have blown it](https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy)
-> As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the ...
-- `The Verge` [Google’s Pixel Tag tracker is now available](https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding)
-> After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is desig...
-- `The Verge` [Google is making Pixel HiLight slightly more useful](https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight)
-> Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages te...
-- `The Verge` [One of our favorite multi-filament 3D printers is $100 off](https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale)
-> If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is ...
+- `The Verge` [Loot boxes, influencers, and addictive features face an EU crackdown](https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection)
+> Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make "your online experience fairer." The newly proposed Digital Fairness Act (DF...
+- `The Verge` [Toyota’s Scion is back, starting with an American-made, 25-mph kei truck](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival)
+> Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, "Scion by Toyota" is being positioned as an experimental mobility incubator -...
+- `The Verge` [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
+> Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visua...
+- `The Verge` [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
+> The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early d...
+- `The Verge` [Sharge’s eye-catching MacBook charger is over 25 percent off](https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale)
+> Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its...
+- `The Verge` [Ocarina of Time is even better if you use a smartphone app](https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula)
+> I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I ...
+- `The Verge` [Google’s AlphaGenome 2 zooms in on the cellular roots of disease](https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model)
+> Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult prob...
+- `The Verge` [Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price](https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on)
+> It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just...
+- `The Verge` [Adobe’s AI experiments let you walk around in photos and interview your characters](https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai)
+> Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: t...
+- `The Verge` [Streaming is still trying to be TikTok](https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video)
+> At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people'...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
