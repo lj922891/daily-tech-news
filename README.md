@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-12
+# 📰 每日科技日报 — 2026-11-13
 
-> 自动收集于 2026-11-12 19:14 | 共 40 条
+> 自动收集于 2026-11-13 06:01 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？](https://sspai.com/post/118512)
+> 距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...查看全文
+- `少数派` [派早报：英伟达 CEO 黄仁勋宣布辞职等](https://sspai.com/post/118966)
+> 2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文
 - `少数派` [城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好](https://sspai.com/post/118366)
 > 在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...查看全文
 - `少数派` [Mac 选购指南 2026 冬季版](https://sspai.com/post/85735)
@@ -24,58 +28,67 @@
 > 陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文
 - `少数派` [RetroSweeper Go：复古外观、更有手感的扫雷游戏](https://sspai.com/post/118458)
 > 复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。查看全文
-- `少数派` [派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等](https://sspai.com/post/118905)
-> 卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。查看全文
 - `少数派` [社区速递 165 | 透明工牌与派友十月购物清单](https://sspai.com/post/118861)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [报名人数创下新高，第十一届「移动应用创新赛」圆满落幕](https://sspai.com/post/118824)
-> 北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
-> Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
-Comments URL: https://news.ycombinator.com/item?id=50472260
-Points: 4
-# Comments: 1
-- `Hacker News` [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)
-> Article URL: https://github.com/rust-lang/rust/releases/tag/1.100.0
-Comments URL: https://news.ycombinator.com/item?id=50471793
-Points: 133
-# Comments: 22
-- `Hacker News` [22-Year-Old PostgreSQL Bug Turned into Remote Code Execution](https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/)
-> Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/
-Comments URL: https://news.ycombinator.com/item?id=5047...
-- `Hacker News` [Outlook is down, and so is Microsoft's status page](https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/)
-> Article URL: https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/
-Comments URL: https://news.ycombinator.com/item?id=50471731
-Points: 99
-# Comments: 26
-- `Hacker News` [Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668)
-> For the past 5 minutes all of our Microsoft Cloud connections are down. Anyone else? The Status page won't even load.
-
-Comments URL: https://news.ycombinator.com/item?id=50471668
-Points: 133
-# Comm...
-- `Hacker News` [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)
-> We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag.......
-- `Hacker News` [Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company](https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html)
-> Article URL: https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html
-Comments URL: https://news.ycombinator.com/item?id=50471621
-Points: 32
-# Comments: 2
-- `Hacker News` [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)
-> Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
-Comments URL: https://news.ycombinator.com/item?id=50471431
-Points: 208
-# Comment...
-- `Hacker News` [Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)
-> Hey HN! We're Alireza and Majid building Leeroo (https://leeroo.com/). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on b...
-- `Hacker News` [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
-> Article URL: https://stoppels.ch/2026/11/12/paths-in-pieces.html
-Comments URL: https://news.ycombinator.com/item?id=50470762
-Points: 14
+- `Hacker News` [The average cost for a new vehicle in the U.S. hits a record high: over $51,000](https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high)
+> Article URL: https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high
+Comments URL: https://news.ycombinator.com/item?id=50478622
+Points: 5
 # Comments: 0
+- `Hacker News` [Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A](https://github.com/pharma2a/pharma2a)
+> I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or o...
+- `Hacker News` [IceWM](https://ice-wm.org/)
+> Article URL: https://ice-wm.org/
+Comments URL: https://news.ycombinator.com/item?id=50478515
+Points: 27
+# Comments: 7
+- `Hacker News` [Switcher (2004)](https://folklore.org/Switcher.html)
+> Article URL: https://folklore.org/Switcher.html
+Comments URL: https://news.ycombinator.com/item?id=50477714
+Points: 65
+# Comments: 14
+- `Hacker News` [Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)
+> Article URL: https://brave.com/blog/search-api-agentic-payments/
+Comments URL: https://news.ycombinator.com/item?id=50477649
+Points: 25
+# Comments: 8
+- `Hacker News` [Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
+> Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/
+Comments URL: https://news.ycombinator.com/item?id=50477231
+Points: 317
+# Comments: 246
+- `Hacker News` [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
+> Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
+Comments URL: https://news.ycombinator.com/item?id=50475713
+Points: 164
+# Comments: 39
+- `Hacker News` [Chinese frontier AI models carry the fingerprint of export-controlled GPUs](https://unemploymentlabs.com/checkpoint-forensics)
+> Article URL: https://unemploymentlabs.com/checkpoint-forensics
+Comments URL: https://news.ycombinator.com/item?id=50474883
+Points: 240
+# Comments: 62
+- `Hacker News` [Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech](https://github.com/KoljaB/RealtimeVAD)
+> Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probability for voice activity. I noticed silero lags visibly on the speech off sign...
+- `Hacker News` [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
+> Article URL: https://developer.apple.com/foundation-models-framework/
+Comments URL: https://news.ycombinator.com/item?id=50474361
+Points: 174
+# Comments: 25
+- `TechCrunch` [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/)
+> This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.
+- `TechCrunch` [Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)
+> Muse's AI can now place outbound calls to U.S. businesses — but it's not free.
+- `TechCrunch` [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
+> Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+- `TechCrunch` [Nebius tests the neocloud playbook with $40 billion in planned spending](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)
+> Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.
+- `TechCrunch` [Jensen Huang was having a third affair, Reuters reports](https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/)
+> Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.
+- `TechCrunch` [Google’s latest Search upgrade promises better answers to your most complicated questions](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)
+> Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.
 - `TechCrunch` [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/)
 > Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.
 - `TechCrunch` [Microsoft’s Outlook email hit by new outage](https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/)
@@ -84,38 +97,26 @@ Points: 14
 > Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the compan...
 - `TechCrunch` [Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/)
 > Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.
-- `TechCrunch` [United Airlines blocks AI agents from booking flights, citing cybersecurity risks](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/)
-> The airline said it will not allow customers to use AI agents to book flights and manage reservations.
-- `TechCrunch` [SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/)
-> SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.
-- `TechCrunch` [Phota Labs uses AI to turn everyday photos into professional-looking shots](https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/)
-> Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better pho...
-- `TechCrunch` [Jensen Huang agrees to testify before Congress](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/)
-> Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.
-- `TechCrunch` [Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry](https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/)
-> Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.
-- `TechCrunch` [Trump floats Apple chairman Tim Cook as Jensen Huang’s successor](https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/)
-> In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.
-- `The Verge` [Microsoft Outlook is down](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
-> Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Micr...
-- `The Verge` [Oh, Palantir is ‘progressive’ now, is it?](https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video)
-> I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem...
-- `The Verge` [The Jensen Huang scandal is hardly over](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling)
-> I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and...
-- `The Verge` [‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug](https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash)
-> The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads ...
-- `The Verge` [25 years later, Xbox is trying to reinvent itself again](https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad)
-> Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twe...
-- `The Verge` [AI chatbots are recommending fake retail websites, study finds](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations)
-> Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Pod...
-- `The Verge` [More game developers are starting to use generative AI](https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs)
-> More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers su...
-- `The Verge` [Google Wallet can finally unlock doors with digital home keys](https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout)
-> Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching. The feature is currently available ...
-- `The Verge` [Jensen Huang is out. What did China want from him?](https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump)
-> Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just ...
-- `The Verge` [Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup](https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang)
-> Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Hua...
+- `The Verge` [Donald Trump really wants Tim Cook to run Nvidia](https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang)
+> Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But P...
+- `The Verge` [Xbox announces Wolfenstein 3](https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3)
+> It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially a...
+- `The Verge` [Whoop launched a social network where every user has a ‘verified heartbeat’](https://www.theverge.com/gadgets/1032630/whoop-humans-social-network)
+> Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Wh...
+- `The Verge` [Humble Bundle redesign removes two-factor verification from settings](https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings)
+> The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as re...
+- `The Verge` [Microsoft Outlook is still down](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
+> Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the iss...
+- `The Verge` [Xbox owners are getting more customizations for backgrounds and the Guide menu](https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature)
+> Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the...
+- `The Verge` [Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)
+> Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including "questions with multiple parts, hard-to-understand typos, or highly specific requests." The...
+- `The Verge` [‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation](https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions)
+> Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surroundi...
+- `The Verge` [The Oura Ring 4 is almost as good as the newer model, but $150 cheaper](https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale)
+> The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a...
+- `The Verge` [Here are the 25 original Xbox games you can now play on PC](https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility)
+> For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid "next-gen game preservation" promise. Starting today, you can play 25 different original Xbox games on your Windows...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
