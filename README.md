@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-11-14
 
-> 自动收集于 2026-11-14 05:50 | 共 40 条
+> 自动收集于 2026-11-14 17:23 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA](https://sspai.com/post/118276)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/118999)
 > 📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...查看全文
 - `少数派` [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153)
@@ -28,61 +30,57 @@
 > Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文
 - `少数派` [城市漫步指南 | 安特卫普，时尚就在生活中](https://sspai.com/post/118781)
 > 原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...查看全文
-- `少数派` [从优胜美地到金门大桥：跟着 macOS 游览加州](https://sspai.com/post/118175)
-> 陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
-> Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
-Comments URL: https://news.ycombinator.com/item?id=50493251
-Points: 215
-#...
-- `Hacker News` [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
-> Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0
-Comments URL: https://news.ycombinator.com/item?id=50493062
-Points: 122
-# Comments: 21
-- `Hacker News` [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
-> Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html
-Comments URL: https://news.ycombinator.com/item?id=50492993
-Points: 128
-# Comments: 29
-- `Hacker News` [Security Agencies Worldwide Found to Use Ad-Based Surveillance System](https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/)
-> Article URL: https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/
-Comments URL: https://news.ycombinator.com/item?id=50492950
-Points: 48
-# Comments: 1
-- `Hacker News` [Elephants found to be increasingly isolated leading to fractured social networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
-> Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks
-Comments URL: https://news.ycombinator.com/item?id=50492860
-Points: 95
-# C...
-- `Hacker News` [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)
-> Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026
-Comments URL: https://news.ycombinator.com/item?id=50492315
-Points: 149
-# Comments: 47
-- `Hacker News` [Philip Roth and David Remnick getting personal (2001)](https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick)
-> Article URL: https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick
-Comments URL: https://news.ycombinator.com/item?id=50492098
-Points: 14
-# Comments: 0
-- `Hacker News` [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8)
-> Article URL: https://unsloth.ai/docs/models/qwen3.8
-Comments URL: https://news.ycombinator.com/item?id=50491980
-Points: 68
-# Comments: 10
-- `Hacker News` [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
-> Article URL: https://dfarq.homeip.net/what-happened-to-3com/
-Comments URL: https://news.ycombinator.com/item?id=50491830
-Points: 100
-# Comments: 56
-- `Hacker News` [Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop](https://grounds.top/)
-> Article URL: https://grounds.top/
-Comments URL: https://news.ycombinator.com/item?id=50491545
-Points: 96
+- `Hacker News` [Italy fines Meta €805M over photo privacy](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)
+> Article URL: https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/
+Comments URL: https://news.ycombinator.com/item?id=50498063
+Points: 42
+# Comments: 9
+- `Hacker News` [Formalizing US Tax Code (Using Lean)](https://lexifina.com/blog/formalizing-the-us-tax-code)
+> Article URL: https://lexifina.com/blog/formalizing-the-us-tax-code
+Comments URL: https://news.ycombinator.com/item?id=50497900
+Points: 38
+# Comments: 9
+- `Hacker News` [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
+> Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/
+Comments URL: https://news.ycombinator.com/item?id=50497892
+Points: 74
 # Comments: 11
+- `Hacker News` [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
+> Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax
+Comments URL: https://news.ycombinator.com/item?id=50497589
+Points: 6
+# Comments: 0
+- `Hacker News` [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)
+> Article URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/
+Comments URL: https://news.ycombinator.com/item?id=50497155
+Points:...
+- `Hacker News` [Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)
+> Article URL: https://github.com/paul-nameless/agweb
+Comments URL: https://news.ycombinator.com/item?id=50497147
+Points: 42
+# Comments: 9
+- `Hacker News` [Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)
+> Article URL: https://github.com/FURSOY/fursoy-cpu
+Comments URL: https://news.ycombinator.com/item?id=50497137
+Points: 27
+# Comments: 5
+- `Hacker News` [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)
+> Hey HN readers!I'm snipedbywifi (https://gitlab.com/snipedbywifi), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent ta...
+- `Hacker News` [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
+> Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/
+Comments URL: https://news.ycombinator.com/item?id=50497009
+Points: 136
+# Comments...
+- `Hacker News` [KDE: The Documentary on Free Software [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
+> Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c
+Comments URL: https://news.ycombinator.com/item?id=50496976
+Points: 137
+# Comments: 11
+- `TechCrunch` [Asian governments react to Nvidia CEO Jensen Huang’s exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)
+> Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.
 - `TechCrunch` [Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/)
 > The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.
 - `TechCrunch` [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
@@ -101,8 +99,18 @@ Points: 96
 > Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
 - `TechCrunch` [Uber confirms hackers stole thousands of drivers’ license information in data breach](https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/)
 > The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.
-- `TechCrunch` [ElevenLabs’ new app combines meeting note-taking and dictation for teams](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/)
-> ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.
+- `The Verge` [Here are our favorite deals from REI’s giant Holiday Sale](https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026)
+> Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black F...
+- `The Verge` [The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)
+> Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. H...
+- `The Verge` [Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print](https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print)
+> Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to "select customers" to purchase a Cybercab for "personal use." But the gilded, steering-wheel...
+- `The Verge` [This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers](https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on)
+> As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at...
+- `The Verge` [A gadget to make your dumb house smarter](https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer)
+> Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you...
+- `The Verge` [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)
+> On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely pa...
 - `The Verge` [FAA lifts nationwide ground stop that blocked takeoffs for hours](https://www.theverge.com/news/1033489/faa-ground-stop)
 > Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET "due to extraordinary circumstances and for reasons of safety." More than...
 - `The Verge` [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search)
@@ -111,18 +119,6 @@ Points: 96
 > After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 1...
 - `The Verge` [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale)
 > Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Am...
-- `The Verge` [Here’s how you can save on your GTA VI preorder ahead of launch](https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale)
-> The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you ...
-- `The Verge` [You can adjust the position of the trackball on Keychron’s new wireless mouse](https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable)
-> The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE i...
-- `The Verge` [Jensen Huang was reckless with the environment, too](https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution)
-> Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of wa...
-- `The Verge` [The smallest version of Camp Snap’s retro digital camcorder fits on your keychain](https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain)
-> Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it t...
-- `The Verge` [The new Apple TV has a YouTube problem](https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error)
-> People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black sc...
-- `The Verge` [Microsoft’s massive Outlook outage might be over](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage)
-> Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state o...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
