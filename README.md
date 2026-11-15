@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-11-15
 
-> 自动收集于 2026-11-15 05:51 | 共 40 条
+> 自动收集于 2026-11-15 18:03 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [Aerial Switcher：给 Mac 的航拍壁纸排个时间表](https://sspai.com/post/118392)
+> 既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？查看全文
 - `少数派` [怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA](https://sspai.com/post/118276)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/118999)
@@ -28,61 +30,64 @@
 > 玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...查看全文
 - `少数派` [派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等](https://sspai.com/post/118935)
 > Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文
-- `少数派` [城市漫步指南 | 安特卫普，时尚就在生活中](https://sspai.com/post/118781)
-> 原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
-> Yes, i really hate "dict[str, ANY]"
-
-Comments URL: https://news.ycombinator.com/item?id=50504072
+- `Hacker News` [The Atheist Bible](https://suchanek.name/texts/atheism/)
+> Article URL: https://suchanek.name/texts/atheism/
+Comments URL: https://news.ycombinator.com/item?id=50507989
 Points: 16
-# Comments: 4
-- `Hacker News` [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
-> Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp
-Comments URL: https://news.ycombinator.com/item?id=50503930
-Points: 10
-# Comments: 0
-- `Hacker News` [Osint Case Studies](https://osintsearch.org/blog/osint-case-studies)
-> Article URL: https://osintsearch.org/blog/osint-case-studies
-Comments URL: https://news.ycombinator.com/item?id=50503731
-Points: 13
-# Comments: 1
-- `Hacker News` [The Single Router in Southern Arkansas That Ground Air Travel to a Halt](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c)
-> Article URL: https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c
-Comments URL: https://news.ycombinator.com/item?id=50503588
-Point...
-- `Hacker News` [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
-> Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/
-Comments URL: https://news.ycombinator.com/item?id=50503465
-Points: 12
-# Comments: 0
-- `Hacker News` [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
-> Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches
-Comments URL: https://news.ycombinator.com/item?id=50503255
-Points: 152
-# Comments: 32
-- `Hacker News` [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
-> Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal
-Comments URL: https://news.ycombinator.com/item?id=50502988
-Points: 18
-# Commen...
-- `Hacker News` [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html)
-> Article URL: https://bobbiec.github.io/jamaican-font.html
-Comments URL: https://news.ycombinator.com/item?id=50502839
-Points: 21
-# Comments: 5
-- `Hacker News` [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
-> Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html
-Comments URL: https://news.ycombinator.com/item?id=50501631
-Points: 378
-# Comments: 190
-- `Hacker News` [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
-> Article URL: https://retrocomputing.stackexchange.com/questions/17957
-Comments URL: https://news.ycombinator.com/item?id=50501594
-Points: 160
-# Comments: 66
+# Comments: 11
+- `Hacker News` ['Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story](https://www.commondreams.org/news/duffy-ground-stop-explanation)
+> Article URL: https://www.commondreams.org/news/duffy-ground-stop-explanation
+Comments URL: https://news.ycombinator.com/item?id=50507791
+Points: 78
+# Comments: 23
+- `Hacker News` [Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)
+> Article URL: https://joshblais.com/blog/emacs-as-my-browser/
+Comments URL: https://news.ycombinator.com/item?id=50507553
+Points: 67
+# Comments: 24
+- `Hacker News` [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
+> Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/
+Comments URL: https://news.ycombinator.com/item?id=50507303
+Points: 534
+# Comments: 307
+- `Hacker News` [The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)](https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/)
+> Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/
+Comments URL: https://news.ycombinator.com/item?id=50507206
+Points: 64
+# Comments: 27
+- `Hacker News` [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
+> Article URL: https://prog21.dadgum.com/116.html
+Comments URL: https://news.ycombinator.com/item?id=50506894
+Points: 103
+# Comments: 42
+- `Hacker News` [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
+> Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/
+Comments URL: https://news.ycombinator.com/item?id=50506719
+Points: 232
+# Comments: 133
+- `Hacker News` [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
+> Article URL: https://lucypero.com/lucynes.html
+Comments URL: https://news.ycombinator.com/item?id=50506588
+Points: 64
+# Comments: 13
+- `Hacker News` [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
+> Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings
+Comments URL: https://news.ycombinator.com/item?id=50506376
+Points: 124
+# Comments: 3
+- `Hacker News` [Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html)
+> https://wallhop.io/https://www.nytimes.com/2026/11/15/us/pol...
+
+Comments URL: https://news.ycombinator.com/item?id=50506180
+Points: 250
+# Comments: 106
+- `TechCrunch` [TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry](https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+- `TechCrunch` [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/)
+> We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.
 - `TechCrunch` [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
 > Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to C...
 - `TechCrunch` [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)
@@ -99,10 +104,18 @@ Points: 160
 > Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.
 - `TechCrunch` [Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/)
 > The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.
-- `TechCrunch` [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
-> Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.
-- `TechCrunch` [US government grounds all flights across the United States ‘due to extraordinary circumstances’](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/)
-> A spokesperson for the FAA told TechCrunch that it issued the ground stop "following communication issues impacting multiple Air Route Traffic Control Centers," which manage the airspace across the...
+- `The Verge` [Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday](https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale)
+> Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Elect...
+- `The Verge` [Apple’s first smart glasses are coming together](https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together)
+> Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at Ju...
+- `The Verge` [Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight](https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview)
+> Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury ...
+- `The Verge` [LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend](https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale)
+> LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through th...
+- `The Verge` [The Sony Aibo was a robot revolution dressed like a dog](https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history)
+> In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be ou...
+- `The Verge` [An overview of Jensen Huang’s messy days](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terre...
 - `The Verge` [Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch)
 > After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its "Mechazilla" launch and catch tower for the first time. The company has performed 'cho...
 - `The Verge` [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
@@ -111,18 +124,6 @@ Points: 160
 > At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic l...
 - `The Verge` [Here are our favorite deals from REI’s giant Holiday Sale](https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026)
 > Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black F...
-- `The Verge` [The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)
-> Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. H...
-- `The Verge` [Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print](https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print)
-> Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to "select customers" to purchase a Cybercab for "personal use." But the gilded, steering-wheel...
-- `The Verge` [This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers](https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on)
-> As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at...
-- `The Verge` [A gadget to make your dumb house smarter](https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer)
-> Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you...
-- `The Verge` [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)
-> On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely pa...
-- `The Verge` [FAA lifts nationwide ground stop that blocked takeoffs for hours](https://www.theverge.com/news/1033489/faa-ground-stop)
-> Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET "due to extraordinary circumstances and for reasons of safety." More than...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
