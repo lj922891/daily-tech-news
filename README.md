@@ -4,9 +4,9 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-14
+# 📰 每日科技日报 — 2026-11-15
 
-> 自动收集于 2026-11-14 17:23 | 共 40 条
+> 自动收集于 2026-11-15 05:51 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,52 +33,68 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Italy fines Meta €805M over photo privacy](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)
-> Article URL: https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/
-Comments URL: https://news.ycombinator.com/item?id=50498063
-Points: 42
-# Comments: 9
-- `Hacker News` [Formalizing US Tax Code (Using Lean)](https://lexifina.com/blog/formalizing-the-us-tax-code)
-> Article URL: https://lexifina.com/blog/formalizing-the-us-tax-code
-Comments URL: https://news.ycombinator.com/item?id=50497900
-Points: 38
-# Comments: 9
-- `Hacker News` [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
-> Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/
-Comments URL: https://news.ycombinator.com/item?id=50497892
-Points: 74
-# Comments: 11
-- `Hacker News` [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
-> Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax
-Comments URL: https://news.ycombinator.com/item?id=50497589
-Points: 6
+- `Hacker News` [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
+> Yes, i really hate "dict[str, ANY]"
+
+Comments URL: https://news.ycombinator.com/item?id=50504072
+Points: 16
+# Comments: 4
+- `Hacker News` [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
+> Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp
+Comments URL: https://news.ycombinator.com/item?id=50503930
+Points: 10
 # Comments: 0
-- `Hacker News` [Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/)
-> Article URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/
-Comments URL: https://news.ycombinator.com/item?id=50497155
-Points:...
-- `Hacker News` [Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)
-> Article URL: https://github.com/paul-nameless/agweb
-Comments URL: https://news.ycombinator.com/item?id=50497147
-Points: 42
-# Comments: 9
-- `Hacker News` [Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)
-> Article URL: https://github.com/FURSOY/fursoy-cpu
-Comments URL: https://news.ycombinator.com/item?id=50497137
-Points: 27
+- `Hacker News` [Osint Case Studies](https://osintsearch.org/blog/osint-case-studies)
+> Article URL: https://osintsearch.org/blog/osint-case-studies
+Comments URL: https://news.ycombinator.com/item?id=50503731
+Points: 13
+# Comments: 1
+- `Hacker News` [The Single Router in Southern Arkansas That Ground Air Travel to a Halt](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c)
+> Article URL: https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c
+Comments URL: https://news.ycombinator.com/item?id=50503588
+Point...
+- `Hacker News` [My favourite modern NES games](https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/)
+> Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/
+Comments URL: https://news.ycombinator.com/item?id=50503465
+Points: 12
+# Comments: 0
+- `Hacker News` [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches)
+> Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches
+Comments URL: https://news.ycombinator.com/item?id=50503255
+Points: 152
+# Comments: 32
+- `Hacker News` [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
+> Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal
+Comments URL: https://news.ycombinator.com/item?id=50502988
+Points: 18
+# Commen...
+- `Hacker News` [Show HN: A custom font based on the Jamaican flag alphabet](https://bobbiec.github.io/jamaican-font.html)
+> Article URL: https://bobbiec.github.io/jamaican-font.html
+Comments URL: https://news.ycombinator.com/item?id=50502839
+Points: 21
 # Comments: 5
-- `Hacker News` [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)
-> Hey HN readers!I'm snipedbywifi (https://gitlab.com/snipedbywifi), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent ta...
-- `Hacker News` [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
-> Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/
-Comments URL: https://news.ycombinator.com/item?id=50497009
-Points: 136
-# Comments...
-- `Hacker News` [KDE: The Documentary on Free Software [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
-> Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c
-Comments URL: https://news.ycombinator.com/item?id=50496976
-Points: 137
-# Comments: 11
+- `Hacker News` [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
+> Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html
+Comments URL: https://news.ycombinator.com/item?id=50501631
+Points: 378
+# Comments: 190
+- `Hacker News` [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
+> Article URL: https://retrocomputing.stackexchange.com/questions/17957
+Comments URL: https://news.ycombinator.com/item?id=50501594
+Points: 160
+# Comments: 66
+- `TechCrunch` [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
+> Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to C...
+- `TechCrunch` [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)
+> The petition had attracted more than 115,000 signatures as of Saturday afternoon.
+- `TechCrunch` [Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee](https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/)
+> Even Elon Musk said the monthly fee is "too high."
+- `TechCrunch` [Got an iPhone Duo? These 9 settings make it easier to use](https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/)
+> From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.
+- `TechCrunch` [Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/)
+> FAA administrator Bryan Bedford also said there's "zero evidence of anything AI-related."
+- `TechCrunch` [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+> From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
 - `TechCrunch` [Asian governments react to Nvidia CEO Jensen Huang’s exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)
 > Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.
 - `TechCrunch` [Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price](https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/)
@@ -87,18 +103,12 @@ Points: 137
 > Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.
 - `TechCrunch` [US government grounds all flights across the United States ‘due to extraordinary circumstances’](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/)
 > A spokesperson for the FAA told TechCrunch that it issued the ground stop "following communication issues impacting multiple Air Route Traffic Control Centers," which manage the airspace across the...
-- `TechCrunch` [This young startup wants to power floating data centers with the ocean’s heat, and investors are ...](https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/)
-> Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.
-- `TechCrunch` [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)
-> LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.
-- `TechCrunch` [Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/)
-> New research shows the most advanced AI models from China were trained on banned Nvidia chips.
-- `TechCrunch` [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)
-> ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.
-- `TechCrunch` [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
-> Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
-- `TechCrunch` [Uber confirms hackers stole thousands of drivers’ license information in data breach](https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/)
-> The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.
+- `The Verge` [Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch)
+> After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its "Mechazilla" launch and catch tower for the first time. The company has performed 'cho...
+- `The Verge` [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
+> "It's really happening. I promise. For real." Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated ser...
+- `The Verge` [Work to replace old copper wire led to the FAA’s ground stop](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire)
+> At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic l...
 - `The Verge` [Here are our favorite deals from REI’s giant Holiday Sale](https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026)
 > Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black F...
 - `The Verge` [The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)
@@ -113,12 +123,6 @@ Points: 137
 > On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely pa...
 - `The Verge` [FAA lifts nationwide ground stop that blocked takeoffs for hours](https://www.theverge.com/news/1033489/faa-ground-stop)
 > Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET "due to extraordinary circumstances and for reasons of safety." More than...
-- `The Verge` [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search)
-> Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Re...
-- `The Verge` [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
-> After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 1...
-- `The Verge` [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale)
-> Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Am...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
