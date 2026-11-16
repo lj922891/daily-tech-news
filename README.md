@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-11-16
 
-> 自动收集于 2026-11-16 05:50 | 共 40 条
+> 自动收集于 2026-11-16 21:19 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/119148)
+> >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [Rosetta 2 即将退役，Mac 老应用何去何从？](https://sspai.com/post/118100)
+> Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...查看全文
 - `少数派` [App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味](https://sspai.com/post/119012)
 > 能切换老设备音质的媒体播放器。查看全文
 - `少数派` [派早报：逾十万人次联署要求黄仁勋复职](https://sspai.com/post/119119)
@@ -26,100 +30,95 @@
 > 距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...查看全文
 - `少数派` [派早报：英伟达 CEO 黄仁勋宣布辞职等](https://sspai.com/post/118966)
 > 2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文
-- `少数派` [城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好](https://sspai.com/post/118366)
-> 在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...查看全文
-- `少数派` [Mac 选购指南 2026 冬季版](https://sspai.com/post/85735)
-> 内存、存储涨价但又得换 Mac？记得收下这份选购指南。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Stop Filming in Log](https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/)
-> Article URL: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/
-Comments URL: https://news.ycombinator.com/item?id=50514093
-Points: 4
+- `Hacker News` [Comcast's "fiber-powered Wi-Fi" is cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
+> Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/
+Comments URL: https://news.ycombinator.com/item?id=50523025
+Poi...
+- `Hacker News` [Caltech professor no longer grades homework's because everyone uses AI](https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11)
+> Article URL: https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11
+Comments URL: https://news.ycombinator.com/item?id=50523022
+Points: 14
+# Comments: 1
+- `Hacker News` [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
+> Hi HN! We’re Arsh and Max, founders of Axonnic (https://axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leav...
+- `Hacker News` [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me/)
+> Article URL: https://blog.startifact.com/posts/how-rust-changed-me/
+Comments URL: https://news.ycombinator.com/item?id=50522563
+Points: 15
+# Comments: 1
+- `Hacker News` [How to Intercept HTTP/3 Traffic: QUIC and Qpack](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
+> Article URL: https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/
+Comments URL: https://news.ycombinator.com/item?id=50521870
+Points: 21
 # Comments: 0
-- `Hacker News` [Linux was created as a rejection of robust software architecture and tools](https://twitter.com/GrapheneOS/status/2122079826257588569)
-> Article URL: https://twitter.com/GrapheneOS/status/2122079826257588569
-Comments URL: https://news.ycombinator.com/item?id=50513843
-Points: 27
-# Comments: 23
-- `Hacker News` [Tell HN: HN is being scraped for emails to scam](https://news.ycombinator.com/item?id=50513451)
-> I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or t...
-- `Hacker News` [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
-> Article URL: https://qwen.ai/blog?id=qwen4-max
-Comments URL: https://news.ycombinator.com/item?id=50513215
-Points: 282
-# Comments: 93
-- `Hacker News` [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
-> Article URL: https://iter.ca/post/ubo-uxss/
-Comments URL: https://news.ycombinator.com/item?id=50513160
-Points: 209
-# Comments: 51
-- `Hacker News` [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
-> Article URL: https://www.colesgroup.com.au/updates/
-Comments URL: https://news.ycombinator.com/item?id=50512824
-Points: 82
-# Comments: 59
-- `Hacker News` [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454)
-> Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454
-Comments URL: https://news.ycombinator.com/item?id=50512441
-Points: 94
-# Comments: 24
-- `Hacker News` [Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones](https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone)
-> Article URL: https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone
-Comments URL: https://news.ycombinator.com/item?id=50512296
-Points: 22
-# Comments: 0
-- `Hacker News` [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
-> Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/
-Comments URL: https://news.ycombinator.com/item?id=50512235
-Points: 163
-# Comments: 213
-- `Hacker News` [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)
-> Article URL: https://tangled.org/nvim-mini.org/mini.nvim
-Comments URL: https://news.ycombinator.com/item?id=50512231
-Points: 50
-# Comments: 14
-- `TechCrunch` [Apple launches new app to study how people use AI for health](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/)
-> Apple's new app for a study will answer everyday medical questions
-- `TechCrunch` [Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)
-> Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.
-- `TechCrunch` [Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)
-> "Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."
-- `TechCrunch` [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/)
-> While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.
-- `TechCrunch` [Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
-> A new Kickstarter campaign aims to usher in the “return of the human internet.”
-- `TechCrunch` [TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry](https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
-- `TechCrunch` [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/)
-> We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.
-- `TechCrunch` [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
-> Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to C...
-- `TechCrunch` [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)
-> The petition had attracted more than 115,000 signatures as of Saturday afternoon.
-- `TechCrunch` [Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee](https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/)
-> Even Elon Musk said the monthly fee is "too high."
-- `The Verge` [Apple’s new study looks to improve the effectiveness of AI health tools](https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools)
-> Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conductin...
-- `The Verge` [Listen to this: Armand Hammer’s Snakes & Ladders](https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review)
-> I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that ...
-- `The Verge` [Vulcan rocket fails, destroying 40 Amazon Leo satellites](https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites)
-> United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX...
-- `The Verge` [Jensen Huang might be plotting a return and more of the latest Nvidia drama](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed)
-> The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of...
-- `The Verge` [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)
-> Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Repub...
-- `The Verge` [Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday](https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale)
-> Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Elect...
-- `The Verge` [Apple’s first smart glasses are coming together](https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together)
-> Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at Ju...
-- `The Verge` [Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight](https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview)
-> Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury ...
-- `The Verge` [LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend](https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale)
-> LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through th...
-- `The Verge` [The Sony Aibo was a robot revolution dressed like a dog](https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history)
-> In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be ou...
+- `Hacker News` [Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)
+> Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda
+Comments URL: https://news.ycombinator.com/item?id=50521045
+Points: 501
+# Comments: 382
+- `Hacker News` [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
+> Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/
+Comments URL: https://news.ycombinator.com/item?id=50520866
+Points: 257
+# Comments: 150
+- `Hacker News` [OpenAI: Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)
+> Article URL: https://openai.com/index/strengthening-online-child-safety/
+Comments URL: https://news.ycombinator.com/item?id=50520804
+Points: 57
+# Comments: 102
+- `Hacker News` [Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself](https://copyrightlately.com/michael-mann-heat-copyright-termination/)
+> Article URL: https://copyrightlately.com/michael-mann-heat-copyright-termination/
+Comments URL: https://news.ycombinator.com/item?id=50520518
+Points: 52
+# Comments: 17
+- `Hacker News` [Aristotle Expands into Rust](https://www.harmonic.fun/news/aristotle-rust-verification/)
+> Article URL: https://www.harmonic.fun/news/aristotle-rust-verification/
+Comments URL: https://news.ycombinator.com/item?id=50520270
+Points: 70
+# Comments: 39
+- `TechCrunch` [Apple reveals new Mac security controls as AI agents raise privacy risks](https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/)
+> Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.
+- `TechCrunch` [California state AG sues OpenAI over rogue agent incidents](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
+> The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident
+- `TechCrunch` [Uber says hackers stole information on close to 150,000 driver’s licenses during data breach](https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/)
+> The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.
+- `TechCrunch` [Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID](https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/)
+> Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.
+- `TechCrunch` [Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten natio...](https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/)
+> Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.
+- `TechCrunch` [Island is a new screen-time app that turns staying off your phone into a game](https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/)
+> YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.
+- `TechCrunch` [Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion](https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/)
+> Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.
+- `TechCrunch` [Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’](https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/)
+> OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.
+- `TechCrunch` [FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
+> The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.
+- `TechCrunch` [Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’](https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/)
+> Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.
+- `The Verge` [California sues OpenAI over rogue AI hacking incidents](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit)
+> California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses ...
+- `The Verge` [Sam Altman says he wants everyone ‘to have a lot of RAM’](https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor)
+> OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. "I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot...
+- `The Verge` [Some of our favorite PlayStation games are steeply discounted for Black Friday](https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals)
+> Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our fav...
+- `The Verge` [Big Nuclear isn’t worried about the Democrats stopping data centers](https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats)
+> Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-q...
+- `The Verge` [US data centers now burn more electricity than a midsized country](https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard)
+> Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more elect...
+- `The Verge` [The Apple Watch Series 12 is cheaper than ever ahead of Black Friday](https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale)
+> If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity,...
+- `The Verge` [Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist](https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027)
+> Mercedes-Benz is tossing its hat into the partial autonomy ring with the launch of two new features next year: hands-free highway driving and a point-to-point city navigation system. The new featur...
+- `The Verge` [Apple is testing daily usage limits for more complex Siri AI interactions](https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription)
+> Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, ...
+- `The Verge` [OpenAI wants to stop deepfakes from overwhelming child abuse tiplines](https://www.theverge.com/policy/1034527/openai-csam-classifier)
+> OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington,...
+- `The Verge` [Apple is adding face unlock to the iPhone Duo — without new hardware](https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta)
+> Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
