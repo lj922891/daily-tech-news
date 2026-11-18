@@ -4,12 +4,18 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-17
+# 📰 每日科技日报 — 2026-11-18
 
-> 自动收集于 2026-11-17 20:07 | 共 40 条
+> 自动收集于 2026-11-18 06:52 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾](https://sspai.com/post/119193)
+> 从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……查看全文
+- `少数派` [兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派](https://sspai.com/post/118975)
+> 想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。查看全文
+- `少数派` [派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等](https://sspai.com/post/119210)
+> iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。查看全文
 - `少数派` [社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏](https://sspai.com/post/119184)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [TDS REVIEW｜Bose 有线消噪耳塞体验](https://sspai.com/post/118976)
@@ -24,100 +30,99 @@
 > Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...查看全文
 - `少数派` [App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味](https://sspai.com/post/119012)
 > 能切换老设备音质的媒体播放器。查看全文
-- `少数派` [派早报：逾十万人次联署要求黄仁勋复职](https://sspai.com/post/119119)
-> 逾十万人次联署要求黄仁勋复职Microsoft 365 服务在 19 小时全球宕机后恢复国产前沿模型携带 Blackwell GPU 特征线缆更换导致全美飞机停飞流媒体用户抱怨更难找到想看作品特斯拉 Cybercab 订阅协议包含苛刻条款看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [Aerial Switcher：给 Mac 的航拍壁纸排个时间表](https://sspai.com/post/118392)
-> 既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？查看全文
-- `少数派` [怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA](https://sspai.com/post/118276)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
-> Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0
-Comments URL: https://news.ycombinator.com/item?id=50537156
-Points: 14
+- `Hacker News` [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
+> Article URL: https://www.evilgeniuslabs.org/why-fibonacci
+Comments URL: https://news.ycombinator.com/item?id=50542264
+Points: 10
+# Comments: 1
+- `Hacker News` [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
+> Article URL: https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/
+Comments URL: https://news.ycombinator.com/item?id=50542135
+Points: 161
+# Comments: 16
+- `Hacker News` [Hex: Voice Dictation](https://anoma.ly/hex/)
+> Article URL: https://anoma.ly/hex/
+Comments URL: https://news.ycombinator.com/item?id=50541897
+Points: 11
 # Comments: 2
-- `Hacker News` [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
-> Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969
-Comments URL: https://news.ycombinator.com/item?...
-- `Hacker News` [Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos](https://starsling.dev)
-> We’re Yonas and Daniel and we’re building StarSling (https://starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.Every CI job g...
-- `Hacker News` [Solid 2.0](https://www.solidjs.com/blog/solid-2-0-the-long-hold/)
-> Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/
-Comments URL: https://news.ycombinator.com/item?id=50536387
-Points: 58
-# Comments: 13
-- `Hacker News` [Purism Launches Librem 5 v2, a RISC-V Phone to Empower People](https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/)
-> Article URL: https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/
-Comments URL: https://news.ycombinator.com/item?id=50536031
-Points: 23
-# Comments: 9
-- `Hacker News` [Phrack 73 Released](https://phrack.org/issues/73/introduction_md)
-> Article URL: https://phrack.org/issues/73/introduction_md
-Comments URL: https://news.ycombinator.com/item?id=50535992
-Points: 69
-# Comments: 3
-- `Hacker News` [Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams/)
-> Article URL: https://openai.com/index/advancing-computer-use-for-healthcare-teams/
-Comments URL: https://news.ycombinator.com/item?id=50535898
-Points: 13
-# Comments: 5
-- `Hacker News` [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
-> Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/
-Comments URL: https://news.ycombinator.com/item?id=50535885
-Points: 114
-# Comments: 44
-- `Hacker News` [iCloud, App Store, and other Apple services hit by ongoing outage](https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/)
-> Article URL: https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/
-Comments URL: https://news.ycombinator.com/item?id=50535268
-Points: 57
-# Comments: 20
-- `Hacker News` [Apple Services Down](https://developer.apple.com/system-status/)
-> Article URL: https://developer.apple.com/system-status/
-Comments URL: https://news.ycombinator.com/item?id=50535238
-Points: 363
-# Comments: 201
+- `Hacker News` [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
+> Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/
+Comments URL: https://news.ycombinator.com/item?id=50541790
+Points: 37
+# Comments: 19
+- `Hacker News` [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
+> Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/
+Comments URL: https://news.ycombinator.com/item?id=50541619
+Points: 16
+# Comments: 1
+- `Hacker News` [H-1B Executive Actions in 2026 [pdf]](https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf)
+> Article URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf
+Comments URL: https://news.ycombinator.com/item?id=50541550
+Points: 25
+# Comments: 27
+- `Hacker News` [GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
+> Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer
+Comments URL: https://news.ycombinator.com/item?id=50541538
+Points: 0
+# Comm...
+- `Hacker News` [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
+> Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference
+Comments URL: https://news.ycombinator.com/item?id=50540472
+Points: 63
+# Comments: 15
+- `Hacker News` [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
+> Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in
+Comments URL: https://news.ycombinator.com/item?id=50540437
+Points: 286
+# Comments: 121
+- `Hacker News` [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
+> Article URL: https://revscope.co/blog/search-seo-geo-2026/
+Comments URL: https://news.ycombinator.com/item?id=50540178
+Points: 283
+# Comments: 211
+- `TechCrunch` [Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt](https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/)
+> The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.
+- `TechCrunch` [Nvidia promises that revenue will keep soaring — for now](https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/)
+> Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.
+- `TechCrunch` [Stripe backer Atomico calls for Europe to own its success stories](https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/)
+> Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.
+- `TechCrunch` [Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)
+> Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?
+- `TechCrunch` [Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/)
+> Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.
+- `TechCrunch` [Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO](https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/)
+> The former CEO offered to return to his top role at the company after his resignation last week.
+- `TechCrunch` [Amazon and Google will together own nearly 30% of Anthropic after its IPO](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)
+> Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.
+- `TechCrunch` [SEC reportedly investigating Nvidia amid Huang exit](https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/)
+> The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.
+- `TechCrunch` [Google joins the tech outage trend by announcing it’s not having one](https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/)
+> With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.
 - `TechCrunch` [Waymo suspends freeway rides nationwide after California DMV order](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)
-> The California Department of Motor Vehicles, which regulates the testing and deployment of autonomous vehicles in the state, issued the operational restrictions on Waymo following several incidents.
-- `TechCrunch` [Model ML raises $250M to automate investment banking grunt work](https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/)
-> The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments af...
-- `TechCrunch` [Google expands access to Gemini Tasks, which can help with calls, purchases](https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/)
-> Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.
-- `TechCrunch` [Apple services, including iCloud, App Store, Apple Music, and more, hit by outage](https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/)
-> Apple's status page confirms its services are facing outages, but has not confirmed the cause.
-- `TechCrunch` [Google to keep Gemini chats for 2 months, up from 72 hours, even with history off](https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/)
-> Google's Gemini update extending chat retention will roll out globally over the coming weeks.
-- `TechCrunch` [As decision model use skyrockets, is customization the next frontier?](https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/)
-> Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.
-- `TechCrunch` [Pedestal AI raises $4.7 million to agentify the supply chain](https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/)
-> The company uses agentic AI to make supply chains faster and more reliable.
-- `TechCrunch` [Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/)
-> Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.
-- `TechCrunch` [AI models can be tricked into identifying civilians as military targets by telling them it’s a game](https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/)
-> Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.
-- `TechCrunch` [Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO](https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/)
-> In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.
-- `The Verge` [Framework’s better couch keyboard is now available for preorder](https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open)
-> Framework announced its Wireless Touchpad Keyboard earlier this year with the goal of delivering a better couch keyboarding experience than the Logitech K400. According to The Verge's Sean Holliste...
-- `The Verge` [California just banned Waymo from all state freeways](https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety)
-> California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that th...
-- `The Verge` [JBL’s headphones that are great for in-flight entertainment are 67 percent off](https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026)
-> If you’re looking to upgrade your headphones before the big wave of Black Friday deals arrives, you can buy JBL’s Tour One M3 for a new low price of $149 ($300 off) at Amazon, Best Buy, and directl...
-- `The Verge` [Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free)
-> Google is rebranding its Spark AI agent as "Tasks" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage ...
-- `The Verge` [Meta is testing a new standalone messaging app called Direct](https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app)
-> Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram...
-- `The Verge` [Amflow’s new urban e-bike series is deliciously overpowered for flat city streets](https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs)
-> DJI spinoff Amflow has spent the last couple of years shaking up the electric mountain bike (eMTB) market with ridiculously high-torque, lightweight models. Today, it's bringing that same overengin...
-- `The Verge` [YouTube found a new way to inflate view counts](https://www.theverge.com/streaming/1035683/youtube-co-views-count)
-> YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing "co-views" to public view ...
-- `The Verge` [The iPhone Duo feels far more intuitive with Apple’s new face unlock](https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on)
-> Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitati...
-- `The Verge` [Inside Microsoft’s giant Outlook outage](https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad)
-> At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outag...
-- `The Verge` [The DOJ says it’s investigating Megaspeed](https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update)
-> The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting...
+> The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken "effective corrective actions" to ...
+- `The Verge` [Satya Nadella says he’s AGI-pilled now](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now)
+> Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. "I am AG...
+- `The Verge` [Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond](https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon)
+> Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon ...
+- `The Verge` [Read everything that Nvidia’s board chair had to say about Jensen Huang](https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang)
+> Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change follow...
+- `The Verge` [iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair](https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub)
+> After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView ...
+- `The Verge` [Nvidia says it does not intend to reinstate Jensen Huang as CEO](https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo)
+> Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, "the Nvidia board unanimously accepted his resignation and does n...
+- `The Verge` [The MacBook Neo is receiving a rare $50 discount ahead of Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale)
+> If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is cu...
+- `The Verge` [Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
+> Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a retur...
+- `The Verge` [Nike’s new air sole technology can mix soft and firm cushioning](https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning)
+> In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout...
+- `The Verge` [Not even Sam Altman is safe from AI deepfakes on Instagram](https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake)
+> Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared ...
+- `The Verge` [Instagram is helping creators crack down on copycat videos](https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos)
+> Instagram is beginning to roll out a "content protection" feature that lets creators see and review copies of their videos posted to the platform. "For eligible creators who enroll, content protect...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
