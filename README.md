@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-11-18
 
-> 自动收集于 2026-11-18 06:52 | 共 40 条
+> 自动收集于 2026-11-18 19:39 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [10 月音乐精选：音乐丰收季，必听这 7 张新专辑](https://sspai.com/post/118985)
+> 编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文
+- `少数派` [App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑](https://sspai.com/post/118732)
+> 转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。查看全文
 - `少数派` [跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾](https://sspai.com/post/119193)
 > 从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……查看全文
 - `少数派` [兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派](https://sspai.com/post/118975)
@@ -22,107 +26,94 @@
 > 这篇文章是TDSStudio在少数派上的第35篇文章，依然是全平台首发。早先我们评价过绯乐的虹，当时在评论区曾经有一些读者好奇它和BoseQC20的区别。有线降噪入耳耳机，在TWS时代到来之前曾经是一 ...查看全文
 - `少数派` [为了另一种可能性：在国内折腾 Linux 打游戏的二三事](https://sspai.com/post/118442)
 > 当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。查看全文
-- `少数派` [派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等](https://sspai.com/post/119160)
-> 少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/119148)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [Rosetta 2 即将退役，Mac 老应用何去何从？](https://sspai.com/post/118100)
 > Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...查看全文
-- `少数派` [App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味](https://sspai.com/post/119012)
-> 能切换老设备音质的媒体播放器。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci)
-> Article URL: https://www.evilgeniuslabs.org/why-fibonacci
-Comments URL: https://news.ycombinator.com/item?id=50542264
-Points: 10
+- `Hacker News` [Genie 4 is now available](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/)
+> Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/
+Comments URL: https://news.ycombinator.com/item?id=50550415
+Points: 33
+# ...
+- `Hacker News` [The Magic of Partial Evaluation](https://jimmyhmiller.com/magic-of-partial-evaluation)
+> Article URL: https://jimmyhmiller.com/magic-of-partial-evaluation
+Comments URL: https://news.ycombinator.com/item?id=50550096
+Points: 21
 # Comments: 1
-- `Hacker News` [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/)
-> Article URL: https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/
-Comments URL: https://news.ycombinator.com/item?id=50542135
-Points: 161
-# Comments: 16
-- `Hacker News` [Hex: Voice Dictation](https://anoma.ly/hex/)
-> Article URL: https://anoma.ly/hex/
-Comments URL: https://news.ycombinator.com/item?id=50541897
-Points: 11
-# Comments: 2
-- `Hacker News` [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
-> Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/
-Comments URL: https://news.ycombinator.com/item?id=50541790
-Points: 37
-# Comments: 19
-- `Hacker News` [Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)
-> Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/
-Comments URL: https://news.ycombinator.com/item?id=50541619
-Points: 16
-# Comments: 1
-- `Hacker News` [H-1B Executive Actions in 2026 [pdf]](https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf)
-> Article URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf
-Comments URL: https://news.ycombinator.com/item?id=50541550
-Points: 25
-# Comments: 27
-- `Hacker News` [GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
-> Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer
-Comments URL: https://news.ycombinator.com/item?id=50541538
-Points: 0
-# Comm...
-- `Hacker News` [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
-> Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference
-Comments URL: https://news.ycombinator.com/item?id=50540472
-Points: 63
-# Comments: 15
-- `Hacker News` [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
-> Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in
-Comments URL: https://news.ycombinator.com/item?id=50540437
-Points: 286
-# Comments: 121
-- `Hacker News` [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
-> Article URL: https://revscope.co/blog/search-seo-geo-2026/
-Comments URL: https://news.ycombinator.com/item?id=50540178
-Points: 283
-# Comments: 211
-- `TechCrunch` [Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt](https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/)
-> The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.
-- `TechCrunch` [Nvidia promises that revenue will keep soaring — for now](https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/)
-> Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.
-- `TechCrunch` [Stripe backer Atomico calls for Europe to own its success stories](https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/)
-> Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.
-- `TechCrunch` [Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)
-> Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?
-- `TechCrunch` [Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/)
-> Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.
-- `TechCrunch` [Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO](https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/)
-> The former CEO offered to return to his top role at the company after his resignation last week.
-- `TechCrunch` [Amazon and Google will together own nearly 30% of Anthropic after its IPO](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)
-> Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.
-- `TechCrunch` [SEC reportedly investigating Nvidia amid Huang exit](https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/)
-> The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.
-- `TechCrunch` [Google joins the tech outage trend by announcing it’s not having one](https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/)
-> With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.
-- `TechCrunch` [Waymo suspends freeway rides nationwide after California DMV order](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)
-> The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken "effective corrective actions" to ...
-- `The Verge` [Satya Nadella says he’s AGI-pilled now](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now)
-> Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. "I am AG...
-- `The Verge` [Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond](https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon)
-> Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon ...
-- `The Verge` [Read everything that Nvidia’s board chair had to say about Jensen Huang](https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang)
-> Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change follow...
-- `The Verge` [iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair](https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub)
-> After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView ...
-- `The Verge` [Nvidia says it does not intend to reinstate Jensen Huang as CEO](https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo)
-> Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, "the Nvidia board unanimously accepted his resignation and does n...
-- `The Verge` [The MacBook Neo is receiving a rare $50 discount ahead of Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale)
-> If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is cu...
-- `The Verge` [Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
-> Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a retur...
-- `The Verge` [Nike’s new air sole technology can mix soft and firm cushioning](https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning)
-> In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout...
-- `The Verge` [Not even Sam Altman is safe from AI deepfakes on Instagram](https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake)
-> Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared ...
-- `The Verge` [Instagram is helping creators crack down on copycat videos](https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos)
-> Instagram is beginning to roll out a "content protection" feature that lets creators see and review copies of their videos posted to the platform. "For eligible creators who enroll, content protect...
+- `Hacker News` [Scottish HTTP Codes](https://underwood.network/http/scots.html)
+> Article URL: https://underwood.network/http/scots.html
+Comments URL: https://news.ycombinator.com/item?id=50550062
+Points: 32
+# Comments: 3
+- `Hacker News` [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)
+> Article URL: https://openai.com/index/advancing-chip-design-with-our-models/
+Comments URL: https://news.ycombinator.com/item?id=50549493
+Points: 38
+# Comments: 13
+- `Hacker News` [Lakegres: Vector search on existing Open/Hudi/Iceberg tables](https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats)
+> Article URL: https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats
+Comments URL: https://news.ycombinator.com/item?id=50549438
+Points: 26
+# Comments: 5
+- `Hacker News` [Launch HN: Maritime (YC F26) – A managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
+> Hi HN, we're Ary and Maria, co-founders of Maritime (https://maritime.sh). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agent...
+- `Hacker News` [CrossPoint Reader](https://crosspointreader.com)
+> Article URL: https://crosspointreader.com
+Comments URL: https://news.ycombinator.com/item?id=50548991
+Points: 29
+# Comments: 13
+- `Hacker News` [Show HN: Mastra Factory, the open-source software factory we use to build Mastra](https://news.ycombinator.com/item?id=50548660)
+> Hi HN, we're Shane, Sam, and Abhi.Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073. It got a few hundred...
+- `Hacker News` [RFC 2675: IPv6 Jumbograms](https://www.rfc-editor.org/info/rfc2675/)
+> Article URL: https://www.rfc-editor.org/info/rfc2675/
+Comments URL: https://news.ycombinator.com/item?id=50548214
+Points: 20
+# Comments: 18
+- `Hacker News` [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
+> Voyager 1 reached one light-day from Earth today.On the site you can:- see where both Voyagers are right now- open a nuclear battery to its 24 plutonium spheres- go into the data computer, down to ...
+- `TechCrunch` [Spend management platform Payhawk announces $280M raise, 2B valuation](https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/)
+> UK fintech Payhawk announced Wednesday a $280 million Series C round led by Goldman Sachs’ growth equity arm.
+- `TechCrunch` [Google’s AI feature in Search gets its own incognito mode](https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/)
+> Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.
+- `TechCrunch` [More banks say customers using AI agents are on their own — even if they get hacked](https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/)
+> Citi is the latest major financial institution to put the breaks on personal finance AI agents.
+- `TechCrunch` [David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skyd...](https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/)
+> Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.
+- `TechCrunch` [Sam Altman warns against a future where AI, not humans, calls the shots](https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/)
+> Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.
+- `TechCrunch` [OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/)
+> Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.
+- `TechCrunch` [Sony’s updated turntable is an easy entry into the world of vinyl](https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/)
+> Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.
+- `TechCrunch` [British hackers face prison for GTA 6 data breach and crypto thefts](https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/)
+> Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.
+- `TechCrunch` [Nvidia clarifies when it will — and won’t — keep financing neoclouds](https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/)
+> If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kres...
+- `TechCrunch` [Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents](https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/)
+> With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.
+- `The Verge` [What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat](https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang)
+> If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 an...
+- `The Verge` [Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday](https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale)
+> Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our fa...
+- `The Verge` [Instagram now lets you edit your stories after you post them](https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them)
+> Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after shari...
+- `The Verge` [The leaked Lenovo Legion Go Beam could be the affordable handheld we need](https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need)
+> For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S even higher than other RAM-starved competitors. A decent on...
+- `The Verge` [Tech lawsuits defined 2026 — and lawmakers want more](https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act)
+> With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users fr...
+- `The Verge` [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
+> The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals o...
+- `The Verge` [The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI](https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops)
+> After the first RTX Spark laptops launched earlier this year, Nvidia's RTX Spark N1X chip is also now available in desktops from Asus, Dell, and MSI. More RTX Spark desktops are coming later from A...
+- `The Verge` [What is Nvidia without AI’s sugar daddy in charge?](https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition)
+> If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley ar...
+- `The Verge` [Our favorite accessories to level up your gaming setup ahead of GTA VI](https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs)
+> With Grand Theft Auto VI set to finally launch tomorrow, November 19th, our long-awaited return to Vice City is nearly here. But after all this time, some of the gear you’ve used in San Andreas mig...
+- `The Verge` [Google is forcing Android app developers to properly support foldables](https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support)
+> Now that Apple's foldable is here, Google wants to make sure apps on Android foldables are a good experience. Starting in April 2027, Google is going to require Android developers to make sure thei...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
