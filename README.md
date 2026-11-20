@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-19
+# 📰 每日科技日报 — 2026-11-20
 
-> 自动收集于 2026-11-19 19:40 | 共 40 条
+> 自动收集于 2026-11-20 06:43 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [浮屏：截图即可「上岛」，还能帮你记录生活](https://sspai.com/post/118879)
+> 浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文
+- `少数派` [派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等](https://sspai.com/post/119311)
+> Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。查看全文
 - `少数派` [给 Apple 的 2026 年打分，请你一起参与](https://sspai.com/post/119191)
 > 2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...查看全文
 - `少数派` [新玩意 256｜少数派的编辑们最近买了啥？](https://sspai.com/post/119287)
@@ -26,79 +30,91 @@
 > 转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。查看全文
 - `少数派` [跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾](https://sspai.com/post/119193)
 > 从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……查看全文
-- `少数派` [兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派](https://sspai.com/post/118975)
-> 想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。查看全文
-- `少数派` [派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等](https://sspai.com/post/119210)
-> iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]](https://www.youtube.com/watch?v=lwfewYL7X0o)
-> Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o
-Comments URL: https://news.ycombinator.com/item?id=50564366
-Points: 8
-# Comments: 3
-- `Hacker News` [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
-> Article URL: https://www.anthropic.com/research/claude-black-hole-physics
-Comments URL: https://news.ycombinator.com/item?id=50563148
-Points: 161
-# Comments: 42
-- `Hacker News` [Pancreatic cancer halted by virus injection in three patients](https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
-> Article URL: https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/
-Comments URL: https://news.ycombinator.com/item?id=50563066
-Points: 30
-# Comments: 3
-- `Hacker News` [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
-> Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
-Comments URL: https://news.ycombinator.com/item?id=50562754
-Points: 36...
-- `Hacker News` [Chrome AI features wasting much bandwidth](https://perishablepress.com/chrome-ai-wasting-much-bandwidth/)
-> Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/
-Comments URL: https://news.ycombinator.com/item?id=50562636
-Points: 76
+- `Hacker News` [Jujutsu Primer](https://ethanlowman.com/posts/jj-primer/)
+> Article URL: https://ethanlowman.com/posts/jj-primer/
+Comments URL: https://news.ycombinator.com/item?id=50570628
+Points: 13
+# Comments: 1
+- `Hacker News` [Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084)
+> Article URL: https://grapheneos.social/@GrapheneOS/117645038299496084
+Comments URL: https://news.ycombinator.com/item?id=50570479
+Points: 140
 # Comments: 22
-- `Hacker News` [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
-> Hey HN, I'm Daniel, founder of Onlook (https://github.com/onlook-dev/onlook and onlook.com).Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in c...
-- `Hacker News` [Fuck Your AI Safeguards](https://ounapuu.ee/posts/2026/11/19/unsafeguards/)
-> Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/
-Comments URL: https://news.ycombinator.com/item?id=50562262
-Points: 203
-# Comments: 70
-- `Hacker News` [UK government forced to admit it issued Apple a secret encryption order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
-> Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/
-Comments URL: https://news.ycombinator.com/item?id=50562113
-Points: 227
-# Comments: 104
-- `Hacker News` [Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest](https://cornholenews.news)
-> Article URL: https://cornholenews.news
-Comments URL: https://news.ycombinator.com/item?id=50561515
-Points: 103
-# Comments: 51
-- `Hacker News` [Pete warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
-> Article URL: https://thedataexchange.media/pete-warden-moonshine/
-Comments URL: https://news.ycombinator.com/item?id=50561508
-Points: 153
-# Comments: 142
-- `TechCrunch` [Anthropic’s IPO could deliver $156 billion to charity](https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/)
+- `Hacker News` [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)
+> Article URL: https://ffmpeg.org/download.html#release_9.1
+Comments URL: https://news.ycombinator.com/item?id=50569998
+Points: 37
+# Comments: 9
+- `Hacker News` [GIMP now has UI tests](https://www.gimp.org/news/2026/11/16/gimp-ui-tests/)
+> Article URL: https://www.gimp.org/news/2026/11/16/gimp-ui-tests/
+Comments URL: https://news.ycombinator.com/item?id=50569985
+Points: 72
+# Comments: 68
+- `Hacker News` [PostgreSQL 19](https://www.postgresql.org/docs/release/19.0/)
+> Article URL: https://www.postgresql.org/docs/release/19.0/
+Comments URL: https://news.ycombinator.com/item?id=50569890
+Points: 72
+# Comments: 2
+- `Hacker News` [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
+> Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/
+Comments URL: https://news.ycombinator.com/item?id=50569516
+Points: 51
+# Comments: 7
+- `Hacker News` [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
+> Article URL: https://github.com/openssl/openssl/pull/33652
+Comments URL: https://news.ycombinator.com/item?id=50569226
+Points: 132
+# Comments: 65
+- `Hacker News` [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
+> Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never
+Comments URL: https://news.ycombinator.com/item?id=50568861
+Points: 78
+# Comments: 24
+- `Hacker News` [Postgres 19 is out, and it's available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)
+> Article URL: https://www.databricks.com/blog/postgresql-19-available-lakebase
+Comments URL: https://news.ycombinator.com/item?id=50568643
+Points: 46
+# Comments: 19
+- `Hacker News` [ChatGPT for SNES](https://www.bxfoundry.com/chatgpt_snes/)
+> Article URL: https://www.bxfoundry.com/chatgpt_snes/
+Comments URL: https://news.ycombinator.com/item?id=50568548
+Points: 47
+# Comments: 13
+- `TechCrunch` [Apple may be developing its own AI agent that runs your Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/)
+> The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.
+- `TechCrunch` [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/)
+> At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.
+- `TechCrunch` [Anthropic rival says companies can (mostly) skip the pricey models](https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/)
+> On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.
+- `TechCrunch` [Elon Musk says SpaceX has a plan to eliminate cell phone dead zones](https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/)
+> SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.
+- `TechCrunch` [Want to see your live AI usage on your Mac’s icons? This clever new app lets you](https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/)
+> IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.
+- `TechCrunch` [Meta’s new Muse Charm device may cost $300](https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/)
+> Meta hasn't denied the reporting from The Information, saying only that it will "have more to share soon" about its upcoming AI wearable.
+- `TechCrunch` [These tech outages are giving Y2K, AI agent style](https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/)
+> Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.
+- `TechCrunch` [Uber tests rides for kids as young as 10, with extra pay for drivers](https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/)
+> Uber is testing the new program in three U.S. cities.
+- `TechCrunch` [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
+> Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+- `TechCrunch` [Anthropic’s IPO could deliver $156B to charity](https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/)
 > At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.
-- `TechCrunch` [Google gives Gemini the ability to use your Mac for you](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)
-> Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.
-- `TechCrunch` [Meta’s AI agent Muse is mixing up conversations and exposing private data, report says](https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/)
-> In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account ba...
-- `TechCrunch` [Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories](https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/)
-> Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.
-- `TechCrunch` [Anthropic hits Nasdaq exchanges at $111, 33% above IPO price](https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/)
-> Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.
-- `TechCrunch` [At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development](https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/)
-> In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.
-- `TechCrunch` [UK government forced to disclose secret Apple backdoor order](https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/)
-> The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.
-- `TechCrunch` [Anthropic’s IPO puts AI’s circular financing boom to the test](https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/)
-> Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.
-- `TechCrunch` [Nimble enters the item-tracking market with eco-friendly luggage tags and keychains](https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/)
-> As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.
-- `TechCrunch` [Superhuman pushes its Go assistant everywhere](https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/)
-> Superhuman is making Go its central agent and making it available in Docs and Mail.
+- `The Verge` [Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)
+> Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listin...
+- `The Verge` [A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings)
+> "We've got this," Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hov...
+- `The Verge` [Meta now sells 3D movies on Quest VR headsets](https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app)
+> Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include ti...
+- `The Verge` [Meta’s Muse Charm might cost $300](https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price)
+> Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget ea...
+- `The Verge` [Google is putting AI chats right on the homepage](https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats)
+> Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your A...
+- `The Verge` [FCC greenlights rule allowing prisons to jam cellphone signals](https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming)
+> The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an "influx of co...
 - `The Verge` [Sony’s WH-1000XM5 are cheaper than ever for Black Friday](https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale)
 > Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands ou...
 - `The Verge` [You can now buy a Steam Machine without getting on a waitlist](https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply)
@@ -107,18 +123,6 @@ Points: 153
 > For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier ...
 - `The Verge` [Sonos is taking up to 30 percent off speakers and soundbars right now](https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale)
 > Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. M...
-- `The Verge` [Gemini on Mac can now use your computer](https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use)
-> Google's Gemini app for macOS now has computer use, meaning it can help you "get multi-step tasks done across your local files, desktop apps, and the web," the company says. Google suggests the fea...
-- `The Verge` [Leaked images reveal Motorola’s wide foldable](https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak)
-> New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a sin...
-- `The Verge` [Oh, Elon Musk is ‘moderate’ now, is he?](https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook)
-> A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk...
-- `The Verge` [Apple’s iPhone camera leader has reportedly left the company](https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera)
-> Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired "at the end of October after more than eight ...
-- `The Verge` [Amazon is pushing alerts opposing NYC’s Delivery Protection Act](https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act)
-> Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is back...
-- `The Verge` [Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June](https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale)
-> alt: Amazon’s last-gen Kindle Paperwhite is just $10 more than the base modelalt: The last-gen Kindle Paperwhite for $130 is a stellar Black Friday deal Amazon debuted its latest Kindle Paperwhite ...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
