@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-21
+# 📰 每日科技日报 — 2026-11-22
 
-> 自动收集于 2026-11-21 18:20 | 共 40 条
+> 自动收集于 2026-11-22 06:04 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [从深圳到上海，少数派的共创故事还在继续](https://sspai.com/post/119318)
+> 11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...查看全文
 - `少数派` [这群在鸿蒙写应用的年轻人，只想做点「用得上」的](https://sspai.com/post/119291)
 > 上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...查看全文
 - `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/119337)
@@ -28,60 +30,65 @@
 > [......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 - `少数派` [徒步旅行指南 | 玉龙虎跳峡与天堂雨崩](https://sspai.com/post/119039)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [派早报：Apple 年度应用、TGA 2026 分别公布入围名单等](https://sspai.com/post/119239)
-> AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
-> Article URL: https://jespino.github.io/gopgext/
-Comments URL: https://news.ycombinator.com/item?id=50591260
-Points: 30
-# Comments: 0
-- `Hacker News` [Verification files for the Lean proof of the Riemann Hypothesis](https://math.mit.edu/~drew/grh/)
-> Article URL: https://math.mit.edu/~drew/grh/
-Comments URL: https://news.ycombinator.com/item?id=50590441
+- `Hacker News` [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+> Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/
+Comments URL: https://news.ycombinator.com/item?id=50596133
+Points: 160
+# Comments: 82
+- `Hacker News` [Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026)
+> Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026
+Comments URL: https://news.ycombinator.com/item?id=50595816
 Points: 11
+# Comments: 4
+- `Hacker News` [The Most Popular Car Colors in America](https://www.iseecars.com/most-popular-car-colors-study)
+> Article URL: https://www.iseecars.com/most-popular-car-colors-study
+Comments URL: https://news.ycombinator.com/item?id=50595725
+Points: 15
+# Comments: 21
+- `Hacker News` [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
+> Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+Comments URL: https://news.ycombinator.com/item?id=50595554
+Points: 72
+# Comments: 29
+- `Hacker News` [Leonida – PC Recompilation of the Xbox Version of GTA 6](https://github.com/ItsNotRexed/Leonida)
+> Article URL: https://github.com/ItsNotRexed/Leonida
+Comments URL: https://news.ycombinator.com/item?id=50595168
+Points: 105
+# Comments: 68
+- `Hacker News` [Sandwich Simulator](https://stulle.app/)
+> Article URL: https://stulle.app/
+Comments URL: https://news.ycombinator.com/item?id=50594911
+Points: 124
+# Comments: 50
+- `Hacker News` [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
+> Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer
+Comments URL: https://news.ycombinator.com/item?id=50594132
+Points: 94
+# Comments: 9
+- `Hacker News` [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
+> Article URL: https://linebender.org/blog/next-100-guis/
+Comments URL: https://news.ycombinator.com/item?id=50593737
+Points: 125
+# Comments: 31
+- `Hacker News` [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
+> Article URL: https://tasklet.ai/careers
+Comments URL: https://news.ycombinator.com/item?id=50593679
+Points: 0
 # Comments: 0
-- `Hacker News` [Show HN: Zero C#, Power of C# without any GC](https://onurgumus.github.io/zero-csharp/index.html)
-> Article URL: https://onurgumus.github.io/zero-csharp/index.html
-Comments URL: https://news.ycombinator.com/item?id=50590279
-Points: 50
-# Comments: 36
-- `Hacker News` [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
-> Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
-Comments URL: https://news.ycombinator.com/item?id=50589618
-Points: 436
-# Comments: 339
-- `Hacker News` [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
-> Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really
-Comments URL: https://news.ycombinator.com/item?id=50588982
-Points: 333
-# Comments: 213
-- `Hacker News` [Astra 6.2 and Sol 6.2 flop at Simple Bench](https://simple-bench.com/)
-> Article URL: https://simple-bench.com/
-Comments URL: https://news.ycombinator.com/item?id=50588916
-Points: 121
-# Comments: 104
-- `Hacker News` [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
-> Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/
-Comments URL: https://news.ycombinator.com/item?id=50587875
-Points: 284
-# Comments: 136
-- `Hacker News` [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
-> Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html
-Comments URL: https://news.ycombinator.com/item?id=50587208
-Points: 173
-# Comments: 53
-- `Hacker News` [Surprisingly Adorable Insect Portraits](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
-> Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/
-Comments URL: https://news.ycombinator.com/item?id=50586648
-Poin...
-- `Hacker News` [ClawDOS – An AI coding agent for DOS](http://ricapar.net/ClawDOS/)
-> Article URL: http://ricapar.net/ClawDOS/
-Comments URL: https://news.ycombinator.com/item?id=50586292
-Points: 137
-# Comments: 42
+- `Hacker News` [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io)
+> Article URL: https://www.pandex.io
+Comments URL: https://news.ycombinator.com/item?id=50593481
+Points: 57
+# Comments: 10
+- `TechCrunch` [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
+> Signal is limiting users' ability to take screenshots in both its Android and iOS apps.
+- `TechCrunch` [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
+> We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.
+- `TechCrunch` [Trump says reported FBI database hack is ‘not good’](https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/)
+> The FBI is reportedly investigating a hack of the National Crime Information Center.
 - `TechCrunch` [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)
 > We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
 - `TechCrunch` [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/)
@@ -96,12 +103,10 @@ Points: 137
 > Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.
 - `TechCrunch` [AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
 > Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.
-- `TechCrunch` [Super-hot rock geothermal could end data center energy woes](https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/)
-> New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.
-- `TechCrunch` [Chips can survive the space environment — can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)
-> Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?
-- `TechCrunch` [Bending Spoons buys Mailchimp for $3.68B](https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/)
-> Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.
+- `The Verge` [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
+> Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could ...
+- `The Verge` [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
+> One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representati...
 - `The Verge` [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked)
 > Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the l...
 - `The Verge` [John Roberts, the voice of Linda Belcher, is just happy to finish a thing](https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview)
@@ -118,10 +123,6 @@ Points: 137
 > Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find...
 - `The Verge` [The game of the year is finally here](https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer)
 > Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also ...
-- `The Verge` [Harbinger is building the unsexy EVs that keep the economy moving](https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks)
-> While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capp...
-- `The Verge` [YouTube is reportedly preparing to settle social media addiction claims for $3 billion](https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement)
-> YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its "addictive design" harmed kids, according to Bloomberg. Sources tell the publication that YouTube r...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
