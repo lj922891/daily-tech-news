@@ -6,7 +6,7 @@
 
 # 📰 每日科技日报 — 2026-11-22
 
-> 自动收集于 2026-11-22 06:04 | 共 40 条
+> 自动收集于 2026-11-22 18:44 | 共 40 条
 
 ## 🇨🇳 中文科技
 
@@ -33,56 +33,59 @@
 
 ## 🌍 国际科技
 
-- `Hacker News` [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
-> Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/
-Comments URL: https://news.ycombinator.com/item?id=50596133
-Points: 160
-# Comments: 82
-- `Hacker News` [Together.ai: Prompt Leakage for Requests](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026)
-> Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026
-Comments URL: https://news.ycombinator.com/item?id=50595816
-Points: 11
-# Comments: 4
-- `Hacker News` [The Most Popular Car Colors in America](https://www.iseecars.com/most-popular-car-colors-study)
-> Article URL: https://www.iseecars.com/most-popular-car-colors-study
-Comments URL: https://news.ycombinator.com/item?id=50595725
-Points: 15
-# Comments: 21
-- `Hacker News` [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
-> Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
-Comments URL: https://news.ycombinator.com/item?id=50595554
-Points: 72
-# Comments: 29
-- `Hacker News` [Leonida – PC Recompilation of the Xbox Version of GTA 6](https://github.com/ItsNotRexed/Leonida)
-> Article URL: https://github.com/ItsNotRexed/Leonida
-Comments URL: https://news.ycombinator.com/item?id=50595168
-Points: 105
-# Comments: 68
-- `Hacker News` [Sandwich Simulator](https://stulle.app/)
-> Article URL: https://stulle.app/
-Comments URL: https://news.ycombinator.com/item?id=50594911
-Points: 124
-# Comments: 50
-- `Hacker News` [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
-> Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer
-Comments URL: https://news.ycombinator.com/item?id=50594132
-Points: 94
-# Comments: 9
-- `Hacker News` [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/)
-> Article URL: https://linebender.org/blog/next-100-guis/
-Comments URL: https://news.ycombinator.com/item?id=50593737
-Points: 125
-# Comments: 31
-- `Hacker News` [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
-> Article URL: https://tasklet.ai/careers
-Comments URL: https://news.ycombinator.com/item?id=50593679
-Points: 0
-# Comments: 0
-- `Hacker News` [Pandex – Official European Law for AI Agents, over MCP](https://www.pandex.io)
-> Article URL: https://www.pandex.io
-Comments URL: https://news.ycombinator.com/item?id=50593481
-Points: 57
+- `Hacker News` [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
+> Article URL: https://openai.com/index/perplexity-and-intelligence/
+Comments URL: https://news.ycombinator.com/item?id=50601525
+Points: 130
+# Comments: 67
+- `Hacker News` [Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
+> Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.htm...
+- `Hacker News` [I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/)
+> Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/
+Comments URL: https://news.ycombinator.com/item?id=50600622
+Points: 43
 # Comments: 10
+- `Hacker News` [Open Social Web Alliance](https://osw-alliance.net/en/)
+> Article URL: https://osw-alliance.net/en/
+Comments URL: https://news.ycombinator.com/item?id=50600511
+Points: 139
+# Comments: 132
+- `Hacker News` [Backblaze customers worried of personal data sale/sharing after policy update](https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/)
+> Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/
+Comments URL: https://news.ycombinator.com/item?id=50600435
+Points: 62
+# Comme...
+- `Hacker News` [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
+> Article URL: https://github.com/gulivan/worker755
+Comments URL: https://news.ycombinator.com/item?id=50599762
+Points: 158
+# Comments: 39
+- `Hacker News` [Testing Terraform with AWS Emulator](https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/)
+> Article URL: https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/
+Comments URL: https://news.ycombinator.com/item?id=50599309
+Points: 12
+# Comments: 1
+- `Hacker News` [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)
+> Article URL: https://simonwillison.net/2026/Nov/21/muru/
+Comments URL: https://news.ycombinator.com/item?id=50597959
+Points: 53
+# Comments: 8
+- `Hacker News` [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
+> Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
+Comments URL: https://news.ycombinator.com/item?id=50597612
+Points: 583
+# Comments:...
+- `Hacker News` [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
+> Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/
+Comments URL: https://news.ycombinator.com/item?id=50596960
+Points: 79
+# Comments: 10
+- `TechCrunch` [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
+> Journalist Paris Marx unpacks his new book "Hyperscale."
+- `TechCrunch` [TechCrunch Mobility: A/B testing robots vs. humans](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)
+> Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.
+- `TechCrunch` [Can a TV be too large? An investigation](https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/)
+> Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.
 - `TechCrunch` [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
 > Signal is limiting users' ability to take screenshots in both its Android and iOS apps.
 - `TechCrunch` [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
@@ -97,32 +100,26 @@ Points: 57
 > Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.
 - `TechCrunch` [Startup sues Apple in India over tap-to-share contacts feature](https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/)
 > A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.
-- `TechCrunch` [Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now](https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/)
-> Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.
-- `TechCrunch` [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
-> Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.
-- `TechCrunch` [AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
-> Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.
-- `The Verge` [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
-> Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could ...
-- `The Verge` [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
-> One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representati...
-- `The Verge` [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked)
-> Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the l...
-- `The Verge` [John Roberts, the voice of Linda Belcher, is just happy to finish a thing](https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview)
-> You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reli...
-- `The Verge` [Amazon’s first digital photo frame is up to 50 percent off for Black Friday](https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale)
-> Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon...
-- `The Verge` [Can Anthropic afford to put safety first?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure)
-> Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went publ...
-- `The Verge` [Our go-to earbuds for taking calls have fallen to their lowest price to date](https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale)
-> If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent...
-- `The Verge` [Chess.com’s next move is a new hub for classic games, from mahjong to sudoku](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai)
-> Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, m...
-- `The Verge` [The Xiaomi 18 Pro proves two screens aren’t better than one](https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review)
-> Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find...
-- `The Verge` [The game of the year is finally here](https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer)
-> Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also ...
+- `The Verge` [Delta flights in and out of Atlanta delayed due to system outage](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage)
+> All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta Internation...
+- `The Verge` [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)
+> The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuf...
+- `The Verge` [Some of our favorite Switch 2 games are cheaper through Black Friday](https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale)
+> Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. I...
+- `The Verge` [Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk](https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review)
+> Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched fol...
+- `The Verge` [Protesters storm Meta offices in India](https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india)
+> Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are ...
+- `The Verge` [Nintendo’s Switch 2 console is $50 off for Black Friday](https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale)
+> Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has pas...
+- `The Verge` [‘The show is starting soon. Please turn on your headphones.’](https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast)
+> Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand ...
+- `The Verge` [How Tamagotchis got us hooked on digital pets](https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary)
+> If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sen...
+- `The Verge` [Your questions about Apple HomeView’s audio, answered](https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay)
+> After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio c...
+- `The Verge` [The vibe-coding revolution is coming to all the gadgets](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera)
+> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscri...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
