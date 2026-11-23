@@ -4,12 +4,14 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-22
+# 📰 每日科技日报 — 2026-11-23
 
-> 自动收集于 2026-11-22 18:44 | 共 40 条
+> 自动收集于 2026-11-23 06:57 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想](https://sspai.com/post/119418)
+> Anthropic 研究员宣称用 Claude 证明黎曼猜想OpenAI 公布反蒸馏举措黄仁勋据称将攻击下属作为管理方式GTA 6 首日销售额近 40 亿美元特斯拉升级 FSD，推出实景渲染功能AMD 股票被做空看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [从深圳到上海，少数派的共创故事还在继续](https://sspai.com/post/119318)
 > 11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...查看全文
 - `少数派` [这群在鸿蒙写应用的年轻人，只想做点「用得上」的](https://sspai.com/post/119291)
@@ -28,58 +30,65 @@
 > 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
 - `少数派` [有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制](https://sspai.com/prime/story/system-app-protection-override-macos-27-3)
 > [......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
-- `少数派` [徒步旅行指南 | 玉龙虎跳峡与天堂雨崩](https://sspai.com/post/119039)
-> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)
-> Article URL: https://openai.com/index/perplexity-and-intelligence/
-Comments URL: https://news.ycombinator.com/item?id=50601525
-Points: 130
-# Comments: 67
-- `Hacker News` [Europe weakens chemical rules as science links them to 'lifestyle diseases'](https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html)
-> Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.htm...
-- `Hacker News` [I joined the NTP Pool, but not with my Stratum 1 Pi](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/)
-> Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/
-Comments URL: https://news.ycombinator.com/item?id=50600622
-Points: 43
-# Comments: 10
-- `Hacker News` [Open Social Web Alliance](https://osw-alliance.net/en/)
-> Article URL: https://osw-alliance.net/en/
-Comments URL: https://news.ycombinator.com/item?id=50600511
-Points: 139
-# Comments: 132
-- `Hacker News` [Backblaze customers worried of personal data sale/sharing after policy update](https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/)
-> Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/
-Comments URL: https://news.ycombinator.com/item?id=50600435
-Points: 62
-# Comme...
-- `Hacker News` [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
-> Article URL: https://github.com/gulivan/worker755
-Comments URL: https://news.ycombinator.com/item?id=50599762
-Points: 158
-# Comments: 39
-- `Hacker News` [Testing Terraform with AWS Emulator](https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/)
-> Article URL: https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/
-Comments URL: https://news.ycombinator.com/item?id=50599309
-Points: 12
+- `Hacker News` [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
+> Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/
+Comments URL: https://news.ycombinator.com/item?id=50607668
+Points: 11
+# Comments: 2
+- `Hacker News` [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
+> Article URL: https://phoenix.labri.fr/software/tempo/
+Comments URL: https://news.ycombinator.com/item?id=50607627
+Points: 23
 # Comments: 1
-- `Hacker News` [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)
-> Article URL: https://simonwillison.net/2026/Nov/21/muru/
-Comments URL: https://news.ycombinator.com/item?id=50597959
-Points: 53
-# Comments: 8
-- `Hacker News` [87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
-> Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
-Comments URL: https://news.ycombinator.com/item?id=50597612
-Points: 583
-# Comments:...
-- `Hacker News` [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
-> Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/
-Comments URL: https://news.ycombinator.com/item?id=50596960
-Points: 79
-# Comments: 10
+- `Hacker News` [DeFlock Amerca Facebook Group Suspended as a Dangerous Organization](https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/)
+> Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/
+Comments URL: https://news.ycombinator.c...
+- `Hacker News` [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
+> Article URL: https://github.com/AFK-surf/xnulinux
+Comments URL: https://news.ycombinator.com/item?id=50607261
+Points: 148
+# Comments: 65
+- `Hacker News` [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
+> Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/
+Comments URL: https://news.ycombinator.com/item?id=50606499
+Points: 40
+# Comments: 7
+- `Hacker News` [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
+> Article URL: https://spelunkr.tv
+Comments URL: https://news.ycombinator.com/item?id=50606192
+Points: 372
+# Comments: 54
+- `Hacker News` [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
+> Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/
+Comments URL: https://news.ycombinator.com/item?id=50606072
+Points: 33
+# Comments: 4
+- `Hacker News` [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
+> Article URL: https://0rwx.com/
+Comments URL: https://news.ycombinator.com/item?id=50605445
+Points: 38
+# Comments: 9
+- `Hacker News` [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
+> Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3
+Comments URL: https://news.ycombinator.com/item?id=50605045
+Points: 209
+# Comments: 158
+- `Hacker News` [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
+> Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20
+Comments URL: https://news.ycombinator.com/item?id=50604988
+Points: 158
+# Comments: 75
+- `TechCrunch` [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)
+> Three significant backers share what gave them conviction to bet billions on Anthropic.
+- `TechCrunch` [‘You Can See Everything’ has made more than $100M worldwide](https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/)
+> The new Elizabeth Holmes documentary is just beginning to roll out internationally.
+- `TechCrunch` [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
+> To establish a speed limit on AI development, you need to agree on how to measure speed.
+- `TechCrunch` [The best apps to make new friends right now](https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
+> We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.
 - `TechCrunch` [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
 > Journalist Paris Marx unpacks his new book "Hyperscale."
 - `TechCrunch` [TechCrunch Mobility: A/B testing robots vs. humans](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)
@@ -92,14 +101,10 @@ Points: 79
 > We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.
 - `TechCrunch` [Trump says reported FBI database hack is ‘not good’](https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/)
 > The FBI is reportedly investigating a hack of the National Crime Information Center.
-- `TechCrunch` [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)
-> We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
-- `TechCrunch` [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/)
-> An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.
-- `TechCrunch` [Alaska, your next governor is a Wikipedia nerd](https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/)
-> Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.
-- `TechCrunch` [Startup sues Apple in India over tap-to-share contacts feature](https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/)
-> A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.
+- `The Verge` [Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker](https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink)
+> After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame...
+- `The Verge` [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages)
+> Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consen...
 - `The Verge` [Delta flights in and out of Atlanta delayed due to system outage](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage)
 > All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta Internation...
 - `The Verge` [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)
@@ -116,10 +121,6 @@ Points: 79
 > Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand ...
 - `The Verge` [How Tamagotchis got us hooked on digital pets](https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary)
 > If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sen...
-- `The Verge` [Your questions about Apple HomeView’s audio, answered](https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay)
-> After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio c...
-- `The Verge` [The vibe-coding revolution is coming to all the gadgets](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera)
-> This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscri...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
