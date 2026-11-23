@@ -6,10 +6,18 @@
 
 # 📰 每日科技日报 — 2026-11-23
 
-> 自动收集于 2026-11-23 06:57 | 共 40 条
+> 自动收集于 2026-11-23 22:58 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/119438)
+> >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
+- `少数派` [怪手机们要回来了吗？](https://sspai.com/prime/story/weird-phones-are-returning)
+> 喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
+- `少数派` [养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验](https://sspai.com/post/119023)
+> 今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...查看全文
+- `少数派` [新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」](https://sspai.com/post/118705)
+> 曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。查看全文
 - `少数派` [派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想](https://sspai.com/post/119418)
 > Anthropic 研究员宣称用 Claude 证明黎曼猜想OpenAI 公布反蒸馏举措黄仁勋据称将攻击下属作为管理方式GTA 6 首日销售额近 40 亿美元特斯拉升级 FSD，推出实景渲染功能AMD 股票被做空看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
 - `少数派` [从深圳到上海，少数派的共创故事还在继续](https://sspai.com/post/119318)
@@ -22,105 +30,101 @@
 > 编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...查看全文
 - `少数派` [浮屏：截图即可「上岛」，还能帮你记录生活](https://sspai.com/post/118879)
 > 浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文
-- `少数派` [派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等](https://sspai.com/post/119311)
-> Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。查看全文
-- `少数派` [给 Apple 的 2026 年打分，请你一起参与](https://sspai.com/post/119191)
-> 2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...查看全文
-- `少数派` [新玩意 256｜少数派的编辑们最近买了啥？](https://sspai.com/post/119287)
-> 编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文
-- `少数派` [有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制](https://sspai.com/prime/story/system-app-protection-override-macos-27-3)
-> [......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
-- `Hacker News` [Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
-> Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/
-Comments URL: https://news.ycombinator.com/item?id=50607668
-Points: 11
-# Comments: 2
-- `Hacker News` [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/)
-> Article URL: https://phoenix.labri.fr/software/tempo/
-Comments URL: https://news.ycombinator.com/item?id=50607627
-Points: 23
-# Comments: 1
-- `Hacker News` [DeFlock Amerca Facebook Group Suspended as a Dangerous Organization](https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/)
-> Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/
-Comments URL: https://news.ycombinator.c...
-- `Hacker News` [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
-> Article URL: https://github.com/AFK-surf/xnulinux
-Comments URL: https://news.ycombinator.com/item?id=50607261
-Points: 148
-# Comments: 65
-- `Hacker News` [Treemap of the Riemann Hypothesis Lean Proof](https://pengowray.github.io/riemann-zeta-proof-visualizer/)
-> Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/
-Comments URL: https://news.ycombinator.com/item?id=50606499
-Points: 40
-# Comments: 7
-- `Hacker News` [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
-> Article URL: https://spelunkr.tv
-Comments URL: https://news.ycombinator.com/item?id=50606192
-Points: 372
-# Comments: 54
-- `Hacker News` [What we learned operating auth for 1k APIs](https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/)
-> Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/
-Comments URL: https://news.ycombinator.com/item?id=50606072
+- `Hacker News` [The Beauty of Artists' Studios](https://spectator.com/article/the-beauty-of-artists-studios/)
+> https://archive.ph/qcUxG
+
+Comments URL: https://news.ycombinator.com/item?id=50620530
+Points: 3
+# Comments: 0
+- `Hacker News` [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
+> Article URL: https://stalw.art/blog/microsoft-exchange-replacement/
+Comments URL: https://news.ycombinator.com/item?id=50620349
+Points: 4
+# Comments: 0
+- `Hacker News` [Levent Alpöge comments on his Riemann Hypothesis proof](https://twitter.com/__alpoge__/status/2124987173439209561)
+> Article URL: https://twitter.com/__alpoge__/status/2124987173439209561
+Comments URL: https://news.ycombinator.com/item?id=50620250
+Points: 3
+# Comments: 0
+- `Hacker News` [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp)
+> Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d...
+
+Comments URL: https://news.ycombinator.com/item?id=50620102
+Points: 68
+# Comments: 31
+- `Hacker News` [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
+> Article URL: https://www.bored.com/
+Comments URL: https://news.ycombinator.com/item?id=50619207
+Points: 43
+# Comments: 12
+- `Hacker News` [The horse made the state](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
+> Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist
+Comments URL: https://news.ycombinator.com/item?id=50619186
+Points: 42
+# Comments: 37
+- `Hacker News` [GPUI is getting its own repository](https://github.com/zed-industries/gpui)
+> Article URL: https://github.com/zed-industries/gpui
+Comments URL: https://news.ycombinator.com/item?id=50619103
 Points: 33
-# Comments: 4
-- `Hacker News` [0rwx – A simple model of AI usage, inspired by Unix permissions](https://0rwx.com/)
-> Article URL: https://0rwx.com/
-Comments URL: https://news.ycombinator.com/item?id=50605445
-Points: 38
-# Comments: 9
-- `Hacker News` [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
-> Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3
-Comments URL: https://news.ycombinator.com/item?id=50605045
-Points: 209
-# Comments: 158
-- `Hacker News` [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
-> Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20
-Comments URL: https://news.ycombinator.com/item?id=50604988
-Points: 158
-# Comments: 75
-- `TechCrunch` [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)
-> Three significant backers share what gave them conviction to bet billions on Anthropic.
-- `TechCrunch` [‘You Can See Everything’ has made more than $100M worldwide](https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/)
-> The new Elizabeth Holmes documentary is just beginning to roll out internationally.
-- `TechCrunch` [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
-> To establish a speed limit on AI development, you need to agree on how to measure speed.
-- `TechCrunch` [The best apps to make new friends right now](https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
-> We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.
-- `TechCrunch` [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
-> Journalist Paris Marx unpacks his new book "Hyperscale."
-- `TechCrunch` [TechCrunch Mobility: A/B testing robots vs. humans](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)
-> Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.
-- `TechCrunch` [Can a TV be too large? An investigation](https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/)
-> Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.
-- `TechCrunch` [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)
-> Signal is limiting users' ability to take screenshots in both its Android and iOS apps.
-- `TechCrunch` [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
-> We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.
-- `TechCrunch` [Trump says reported FBI database hack is ‘not good’](https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/)
-> The FBI is reportedly investigating a hack of the National Crime Information Center.
-- `The Verge` [Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker](https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink)
-> After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame...
-- `The Verge` [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages)
-> Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consen...
-- `The Verge` [Delta flights in and out of Atlanta delayed due to system outage](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage)
-> All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta Internation...
-- `The Verge` [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)
-> The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuf...
-- `The Verge` [Some of our favorite Switch 2 games are cheaper through Black Friday](https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale)
-> Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. I...
-- `The Verge` [Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk](https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review)
-> Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched fol...
-- `The Verge` [Protesters storm Meta offices in India](https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india)
-> Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are ...
-- `The Verge` [Nintendo’s Switch 2 console is $50 off for Black Friday](https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale)
-> Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has pas...
-- `The Verge` [‘The show is starting soon. Please turn on your headphones.’](https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast)
-> Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand ...
-- `The Verge` [How Tamagotchis got us hooked on digital pets](https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary)
-> If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sen...
+# Comments: 5
+- `Hacker News` [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/)
+> Article URL: https://arm.jonpalmisc.com/
+Comments URL: https://news.ycombinator.com/item?id=50617499
+Points: 698
+# Comments: 144
+- `Hacker News` [Apple removed my open-source app from EU App Stores after 9 years](https://github.com/glushchenko/fsnotes/discussions/2056)
+> Article URL: https://github.com/glushchenko/fsnotes/discussions/2056
+Comments URL: https://news.ycombinator.com/item?id=50616933
+Points: 426
+# Comments: 86
+- `Hacker News` [How should an LLM see a computer?](https://www.greptile.com/blog/trex-computer-use)
+> Article URL: https://www.greptile.com/blog/trex-computer-use
+Comments URL: https://news.ycombinator.com/item?id=50615520
+Points: 35
+# Comments: 20
+- `TechCrunch` [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)
+> As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.
+- `TechCrunch` [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/)
+> Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.
+- `TechCrunch` [Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal](https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/)
+> "The mistake has been corrected," Elon Musk chimed in.
+- `TechCrunch` [Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist](https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/)
+> Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.
+- `TechCrunch` [Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ](https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/)
+> "I'm going to be a better CEO the second time around," Huang told employees.
+- `TechCrunch` [‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return t...](https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/)
+> Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.
+- `TechCrunch` [Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses](https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/)
+> By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem
+- `TechCrunch` [Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/)
+> The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.
+- `TechCrunch` [Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)
+> Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.
+- `TechCrunch` [Meta throws out its net-zero goal — its competitors should be furious](https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/)
+> Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.
+- `The Verge` [Ladybird, the first new browser engine in years, is now available to test](https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing)
+> Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha...
+- `The Verge` [Trump engineered a risky comeback for Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)
+> After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new r...
+- `The Verge` [Nvidia CEO Jensen Huang is back. What happens next?](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang)
+> After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However,...
+- `The Verge` [Welcome to elite impunity, Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang)
+> I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who m...
+- `The Verge` [The Apple Watch Series 12 is cheaper than ever ahead of Black Friday](https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale)
+> If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity,...
+- `The Verge` [AI data centers throw another wrench into chaotic UN climate talks](https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit)
+> The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with du...
+- `The Verge` [Apple renews Ted Lasso for season 5](https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv)
+> One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company cal...
+- `The Verge` [Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests)
+> Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull req...
+- `The Verge` [Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return](https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return)
+> Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the cofounder's first moments back. "Thank you all for the second chances. I'm gonna be...
+- `The Verge` [How Jensen Huang ended up as Nvidia CEO again](https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return)
+> The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his rol...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
