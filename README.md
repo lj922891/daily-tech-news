@@ -4,12 +4,18 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-23
+# 📰 每日科技日报 — 2026-11-24
 
-> 自动收集于 2026-11-23 22:58 | 共 40 条
+> 自动收集于 2026-11-24 09:23 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔](https://sspai.com/post/119035)
+> 写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...查看全文
+- `少数派` [写在动荡之后：漫步巴黎的寻常一日](https://sspai.com/post/119412)
+> 巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」查看全文
+- `少数派` [派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等](https://sspai.com/post/119460)
+> 少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/119438)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [怪手机们要回来了吗？](https://sspai.com/prime/story/weird-phones-are-returning)
@@ -24,67 +30,56 @@
 > 11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...查看全文
 - `少数派` [这群在鸿蒙写应用的年轻人，只想做点「用得上」的](https://sspai.com/post/119291)
 > 上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...查看全文
-- `少数派` [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/119337)
-> 📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文
-- `少数派` [游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验](https://sspai.com/post/119327)
-> 编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...查看全文
-- `少数派` [浮屏：截图即可「上岛」，还能帮你记录生活](https://sspai.com/post/118879)
-> 浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The Beauty of Artists' Studios](https://spectator.com/article/the-beauty-of-artists-studios/)
-> https://archive.ph/qcUxG
-
-Comments URL: https://news.ycombinator.com/item?id=50620530
-Points: 3
-# Comments: 0
-- `Hacker News` [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
-> Article URL: https://stalw.art/blog/microsoft-exchange-replacement/
-Comments URL: https://news.ycombinator.com/item?id=50620349
-Points: 4
-# Comments: 0
-- `Hacker News` [Levent Alpöge comments on his Riemann Hypothesis proof](https://twitter.com/__alpoge__/status/2124987173439209561)
-> Article URL: https://twitter.com/__alpoge__/status/2124987173439209561
-Comments URL: https://news.ycombinator.com/item?id=50620250
-Points: 3
-# Comments: 0
-- `Hacker News` [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp)
-> Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d...
-
-Comments URL: https://news.ycombinator.com/item?id=50620102
-Points: 68
-# Comments: 31
-- `Hacker News` [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
-> Article URL: https://www.bored.com/
-Comments URL: https://news.ycombinator.com/item?id=50619207
-Points: 43
-# Comments: 12
-- `Hacker News` [The horse made the state](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
-> Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist
-Comments URL: https://news.ycombinator.com/item?id=50619186
-Points: 42
-# Comments: 37
-- `Hacker News` [GPUI is getting its own repository](https://github.com/zed-industries/gpui)
-> Article URL: https://github.com/zed-industries/gpui
-Comments URL: https://news.ycombinator.com/item?id=50619103
-Points: 33
-# Comments: 5
-- `Hacker News` [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/)
-> Article URL: https://arm.jonpalmisc.com/
-Comments URL: https://news.ycombinator.com/item?id=50617499
-Points: 698
-# Comments: 144
-- `Hacker News` [Apple removed my open-source app from EU App Stores after 9 years](https://github.com/glushchenko/fsnotes/discussions/2056)
-> Article URL: https://github.com/glushchenko/fsnotes/discussions/2056
-Comments URL: https://news.ycombinator.com/item?id=50616933
-Points: 426
-# Comments: 86
-- `Hacker News` [How should an LLM see a computer?](https://www.greptile.com/blog/trex-computer-use)
-> Article URL: https://www.greptile.com/blog/trex-computer-use
-Comments URL: https://news.ycombinator.com/item?id=50615520
-Points: 35
-# Comments: 20
+- `Hacker News` [I'm not excited about tech anymore](https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore)
+> Article URL: https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore
+Comments URL: https://news.ycombinator.com/item?id=50625004
+Points: 24
+# Comments: 17
+- `Hacker News` [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
+> Article URL: https://fzakaria.com/2026/11/23/2035-came-early
+Comments URL: https://news.ycombinator.com/item?id=50624497
+Points: 135
+# Comments: 16
+- `Hacker News` [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
+> Article URL: https://www.phoronix.com/review/amd-epyc-9006-7601
+Comments URL: https://news.ycombinator.com/item?id=50624061
+Points: 66
+# Comments: 25
+- `Hacker News` [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
+> Article URL: https://salvageyarddrone.wordpress.com/
+Comments URL: https://news.ycombinator.com/item?id=50623515
+Points: 79
+# Comments: 29
+- `Hacker News` [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
+> Article URL: https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/
+Comments URL: https://news.ycombinator.com/item?id=50622934
+Points: 69
+# Comments: 22
+- `Hacker News` [Rune: Rust VM for Emacs](https://github.com/CeleritasCelery/rune)
+> Article URL: https://github.com/CeleritasCelery/rune
+Comments URL: https://news.ycombinator.com/item?id=50622804
+Points: 37
+# Comments: 9
+- `Hacker News` [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription)
+> Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription
+Comments URL: https://news.ycombinator.com/item?id=50622774...
+- `Hacker News` [The Power of GraphQL, Without GraphQL](https://cobalt27.dev/)
+> Article URL: https://cobalt27.dev/
+Comments URL: https://news.ycombinator.com/item?id=50621466
+Points: 53
+# Comments: 28
+- `Hacker News` [The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/)
+> Article URL: https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field...
+- `Hacker News` [Freeing the iPod Nano 5G](https://viktorkrapivin.com/blog/nano5g-priv-prvd)
+> Article URL: https://viktorkrapivin.com/blog/nano5g-priv-prvd
+Comments URL: https://news.ycombinator.com/item?id=50620721
+Points: 105
+# Comments: 9
+- `TechCrunch` [Figma employee sues, alleging company forced her to confront harassers](https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/)
+> Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.
 - `TechCrunch` [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)
 > As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.
 - `TechCrunch` [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/)
@@ -103,8 +98,12 @@ Points: 35
 > The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.
 - `TechCrunch` [Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)
 > Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.
-- `TechCrunch` [Meta throws out its net-zero goal — its competitors should be furious](https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/)
-> Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.
+- `The Verge` [Google alternative Kagi launches an email service](https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative)
+> Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kag...
+- `The Verge` [The hacker behind early GTA VI leaks has been sentenced — and released](https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released)
+> Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but releas...
+- `The Verge` [The Verge’s 2026 holiday gift guide](https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026)
+> Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have ...
 - `The Verge` [Ladybird, the first new browser engine in years, is now available to test](https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing)
 > Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha...
 - `The Verge` [Trump engineered a risky comeback for Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)
@@ -119,12 +118,6 @@ Points: 35
 > The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with du...
 - `The Verge` [Apple renews Ted Lasso for season 5](https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv)
 > One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company cal...
-- `The Verge` [Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests)
-> Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull req...
-- `The Verge` [Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return](https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return)
-> Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the cofounder's first moments back. "Thank you all for the second chances. I'm gonna be...
-- `The Verge` [How Jensen Huang ended up as Nvidia CEO again](https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return)
-> The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his rol...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
