@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-24
+# 📰 每日科技日报 — 2026-11-25
 
-> 自动收集于 2026-11-24 21:36 | 共 40 条
+> 自动收集于 2026-11-25 07:55 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [怀旧手记｜Palm Pre：内藏「划时代」系统的手机](https://sspai.com/post/118791)
+> Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
+- `少数派` [派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等](https://sspai.com/post/119527)
+> 豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。查看全文
 - `少数派` [社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同](https://sspai.com/post/119492)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 - `少数派` [[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔](https://sspai.com/post/119035)
@@ -26,56 +30,67 @@
 > 今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...查看全文
 - `少数派` [新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」](https://sspai.com/post/118705)
 > 曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。查看全文
-- `少数派` [派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想](https://sspai.com/post/119418)
-> Anthropic 研究员宣称用 Claude 证明黎曼猜想OpenAI 公布反蒸馏举措黄仁勋据称将攻击下属作为管理方式GTA 6 首日销售额近 40 亿美元特斯拉升级 FSD，推出实景渲染功能AMD 股票被做空看看就行的简讯少数派的近期动态你可能错过的好文章查看全文
-- `少数派` [从深圳到上海，少数派的共创故事还在继续](https://sspai.com/post/119318)
-> 11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
-> Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine (https://versine.com). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP)...
-- `Hacker News` [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
-> Article URL: https://prismml.com/news/bonsai-2-5-27b
-Comments URL: https://news.ycombinator.com/item?id=50633922
-Points: 115
-# Comments: 32
-- `Hacker News` [From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver](https://andlukyane.com/blog/cayley-graphs-and-torchtpu)
-> Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu
-Comments URL: https://news.ycombinator.com/item?id=50633424
-Points: 23
+- `Hacker News` [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
+> Article URL: https://gpu-demo-gallery.pages.dev/
+Comments URL: https://news.ycombinator.com/item?id=50638503
+Points: 59
+# Comments: 13
+- `Hacker News` [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
+> Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each
+Comments URL: https://news.ycombinator.com/item?id=50638478
+Points: 47
+# Comments: 3
+- `Hacker News` [Gemini refused to give me the lyrics to Twinkle Twinkle Little Star](https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F)
+> Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F
+Comments URL: https://news.ycombinator.com/item?id=50638320
+Points: 149
+# Comments: 93
+- `Hacker News` [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
+> Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/
+Comments URL: https://news.ycombinator.com/item?id=50638220
+Points: 75
+# Comments: 27
+- `Hacker News` [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
+> Article URL: https://www.stylewarning.com/posts/faster-digit-extraction/
+Comments URL: https://news.ycombinator.com/item?id=50638075
+Points: 28
 # Comments: 0
-- `Hacker News` [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)](https://grafana.com/grafana/download)
-> Article URL: https://grafana.com/grafana/download
-Comments URL: https://news.ycombinator.com/item?id=50633159
-Points: 80
-# Comments: 15
-- `Hacker News` [Compiling web applications into verified operations for AI agents](https://protocolis.co/paper/)
-> Article URL: https://protocolis.co/paper/
-Comments URL: https://news.ycombinator.com/item?id=50632998
-Points: 30
-# Comments: 9
-- `Hacker News` [Cloudflare hides shortcomings of the underlying infrastructure](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
-> Article URL: https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/
-Comments URL: https://news.ycombinator.com/item?id=50632883
-Points: 112
-# Comments: 75
-- `Hacker News` [Microsoft declares 'Code Red' after historic outage, internal memos show](https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/)
-> Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/
-Comments URL: https://news.ycombinator.com/item?id=50631157
-Points: 1...
-- `Hacker News` [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os)
-> Article URL: https://jobs.ashbyhq.com/weave-os
-Comments URL: https://news.ycombinator.com/item?id=50631041
-Points: 0
-# Comments: 0
-- `Hacker News` [Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?](https://news.ycombinator.com/item?id=50630809)
-> Basically the title.Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models.Our only usage which I think could get us flagged is auto...
-- `Hacker News` [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
-> Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign
-Comments URL: https://news.ycombinator.com/item?id=50630594
-Points: 222
-# Comments: 89
+- `Hacker News` [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
+> Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas
+Comments URL: https://news.ycombinator.com/item?id=50638070
+Points: 55
+# Comments: 10
+- `Hacker News` [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
+> Article URL: https://buttons.joshwcomeau.com/
+Comments URL: https://news.ycombinator.com/item?id=50638032
+Points: 245
+# Comments: 26
+- `Hacker News` [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
+> Article URL: https://basilhalperin.com/essays/macrohistory.html
+Comments URL: https://news.ycombinator.com/item?id=50637891
+Points: 52
+# Comments: 18
+- `Hacker News` [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
+> Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit
+Comments URL: https://news.ycombinator.com/item?id=50637890
+Points: 120
+# Comments: 38
+- `Hacker News` [Lua for Data Representation](https://citrons.xyz/journal/2025-07-23)
+> Article URL: https://citrons.xyz/journal/2025-07-23
+Comments URL: https://news.ycombinator.com/item?id=50637888
+Points: 44
+# Comments: 12
+- `TechCrunch` [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)
+> Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors t...
+- `TechCrunch` [Trump reportedly says pardoning Jensen Huang is ‘an option’](https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/)
+> Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally ...
+- `TechCrunch` [Jensen Huang still thinks a succession plan creates unnecessary hierarchy](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/)
+> It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.
+- `TechCrunch` [In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)
+> The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.
 - `TechCrunch` [Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)
 > As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new p...
 - `TechCrunch` [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)
@@ -88,34 +103,26 @@ Points: 222
 > Anthropic’s post-IPO slump could put pressure on AI startup valuations.
 - `TechCrunch` [UK warns AI-driven cyberattacks are exposing years of weak security](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/)
 > The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exploiting simple security flaws.
-- `TechCrunch` [Threads comes to iPad and takes a page from X’s playbook with cashtags](https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/)
-> The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.
-- `TechCrunch` [Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank](https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/)
-> Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.
-- `TechCrunch` [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/)
-> The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.
-- `TechCrunch` [Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/)
-> The company said it will still accept songs that were made with AI assistance, but not fully generated.
+- `The Verge` [US financial crimes bureau discloses ‘cybersecurity incident’](https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident)
+> The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a "cybersecurity incident." The bureau, which is part of the Treasury Department, said it's looking in...
+- `The Verge` [The Verge’s 2026 gift guide for dads](https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026)
+> Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not th...
+- `The Verge` [Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa](https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa)
+> The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out t...
+- `The Verge` [Huawei found guilty of stealing trade secrets](https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial)
+> A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal bat...
+- `The Verge` [GTA VI PC recompilation project shut down by Take-Two](https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two)
+> Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old "NotRexed," has vanishe...
 - `The Verge` [The Verge’s 2026 holiday gift guide for moms](https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026)
 > Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influenti...
 - `The Verge` [TikTok was down](https://www.theverge.com/tech/1041618/tiktok-down-outage)
-> Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on ...
+> Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple...
 - `The Verge` [Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired](https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology)
 > Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders ...
 - `The Verge` [The clock is running out for America’s most contentious spying law](https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave)
 > Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass mi...
 - `The Verge` [Amazon is knocking almost $50 off six months of Apple TV](https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday)
 > Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the ...
-- `The Verge` [Now Firefox can select which sites use its VPN, and clear your browsing history with one click](https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button)
-> Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the "Manage VPN rules" option in Firefox's VPN p...
-- `The Verge` [David Fincher is being dragged for suspected use of AI in his latest film](https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive)
-> Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised ques...
-- `The Verge` [Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday](https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026)
-> Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you ...
-- `The Verge` [Tidal will start banning AI-generated music next month](https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban)
-> Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks pe...
-- `The Verge` [US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia](https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list)
-> As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the compan...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
