@@ -6,10 +6,14 @@
 
 # 📰 每日科技日报 — 2026-11-25
 
-> 自动收集于 2026-11-25 07:55 | 共 40 条
+> 自动收集于 2026-11-25 20:45 | 共 30 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [翻开 2027， 值得入手的新年日历推荐](https://sspai.com/post/119264)
+> 按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...查看全文
+- `少数派` [App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你](https://sspai.com/post/119310)
+> Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。查看全文
 - `少数派` [怀旧手记｜Palm Pre：内藏「划时代」系统的手机](https://sspai.com/post/118791)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
 - `少数派` [派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等](https://sspai.com/post/119527)
@@ -26,103 +30,49 @@
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
 - `少数派` [怪手机们要回来了吗？](https://sspai.com/prime/story/weird-phones-are-returning)
 > 喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
-- `少数派` [养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验](https://sspai.com/post/119023)
-> 今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...查看全文
-- `少数派` [新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」](https://sspai.com/post/118705)
-> 曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
-> Article URL: https://gpu-demo-gallery.pages.dev/
-Comments URL: https://news.ycombinator.com/item?id=50638503
-Points: 59
-# Comments: 13
-- `Hacker News` [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each)
-> Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each
-Comments URL: https://news.ycombinator.com/item?id=50638478
-Points: 47
-# Comments: 3
-- `Hacker News` [Gemini refused to give me the lyrics to Twinkle Twinkle Little Star](https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F)
-> Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F
-Comments URL: https://news.ycombinator.com/item?id=50638320
-Points: 149
-# Comments: 93
-- `Hacker News` [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
-> Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/
-Comments URL: https://news.ycombinator.com/item?id=50638220
-Points: 75
-# Comments: 27
-- `Hacker News` [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
-> Article URL: https://www.stylewarning.com/posts/faster-digit-extraction/
-Comments URL: https://news.ycombinator.com/item?id=50638075
-Points: 28
-# Comments: 0
-- `Hacker News` [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
-> Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas
-Comments URL: https://news.ycombinator.com/item?id=50638070
-Points: 55
-# Comments: 10
-- `Hacker News` [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
-> Article URL: https://buttons.joshwcomeau.com/
-Comments URL: https://news.ycombinator.com/item?id=50638032
-Points: 245
-# Comments: 26
-- `Hacker News` [Macrohistory in Six Facts](https://basilhalperin.com/essays/macrohistory.html)
-> Article URL: https://basilhalperin.com/essays/macrohistory.html
-Comments URL: https://news.ycombinator.com/item?id=50637891
-Points: 52
-# Comments: 18
-- `Hacker News` [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit)
-> Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit
-Comments URL: https://news.ycombinator.com/item?id=50637890
-Points: 120
-# Comments: 38
-- `Hacker News` [Lua for Data Representation](https://citrons.xyz/journal/2025-07-23)
-> Article URL: https://citrons.xyz/journal/2025-07-23
-Comments URL: https://news.ycombinator.com/item?id=50637888
-Points: 44
-# Comments: 12
-- `TechCrunch` [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)
-> Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors t...
-- `TechCrunch` [Trump reportedly says pardoning Jensen Huang is ‘an option’](https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/)
-> Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally ...
-- `TechCrunch` [Jensen Huang still thinks a succession plan creates unnecessary hierarchy](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/)
-> It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.
-- `TechCrunch` [In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)
-> The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.
-- `TechCrunch` [Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)
-> As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new p...
-- `TechCrunch` [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)
-> Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.
-- `TechCrunch` [Maple raises $5.3M to build AI products that protect your data, even from itself](https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/)
-> The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.
-- `TechCrunch` [Dozens of oil and shipping tankers hacked in recent weeks, per report](https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/)
-> Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.
-- `TechCrunch` [Anthropic shares fall below IPO price, a worrying sign for AI startups](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/)
-> Anthropic’s post-IPO slump could put pressure on AI startup valuations.
-- `TechCrunch` [UK warns AI-driven cyberattacks are exposing years of weak security](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/)
-> The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exploiting simple security flaws.
-- `The Verge` [US financial crimes bureau discloses ‘cybersecurity incident’](https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident)
-> The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a "cybersecurity incident." The bureau, which is part of the Treasury Department, said it's looking in...
-- `The Verge` [The Verge’s 2026 gift guide for dads](https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026)
-> Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not th...
-- `The Verge` [Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa](https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa)
-> The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out t...
-- `The Verge` [Huawei found guilty of stealing trade secrets](https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial)
-> A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal bat...
-- `The Verge` [GTA VI PC recompilation project shut down by Take-Two](https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two)
-> Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old "NotRexed," has vanishe...
-- `The Verge` [The Verge’s 2026 holiday gift guide for moms](https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026)
-> Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influenti...
-- `The Verge` [TikTok was down](https://www.theverge.com/tech/1041618/tiktok-down-outage)
-> Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple...
-- `The Verge` [Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired](https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology)
-> Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders ...
-- `The Verge` [The clock is running out for America’s most contentious spying law](https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave)
-> Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass mi...
-- `The Verge` [Amazon is knocking almost $50 off six months of Apple TV](https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday)
-> Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the ...
+- `TechCrunch` [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
+> OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.
+- `TechCrunch` [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)
+> Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.
+- `TechCrunch` [The canceled Tesla Cybertruck is the fastest-selling used truck in America](https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/)
+> The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.
+- `TechCrunch` [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)
+> Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model de...
+- `TechCrunch` [1Password said hackers broke into its internal systems, but customer passwords are safe](https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/)
+> The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.
+- `TechCrunch` [Want to buy your kid an AI toy this Christmas? Not in New York](https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/)
+> New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional deve...
+- `TechCrunch` [DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers](https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/)
+> U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.
+- `TechCrunch` [Character.AI’s plan to auction off users’ private chats challenged by state AGs](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
+> The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.
+- `TechCrunch` [X’s latest update for creators focuses on vertical video](https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/)
+> As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.
+- `TechCrunch` [WhatsApp now lets you schedule messages in group and individual chats](https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/)
+> Users can schedule messages from 10 minutes later to after 14 days.
+- `The Verge` [WhatsApp’s new scheduled messages let you choose the right time to send](https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages)
+> WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chat...
+- `The Verge` [EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa](https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant)
+> Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 poun...
+- `The Verge` [1Password breach leaked customer names and emails, but not passwords](https://www.theverge.com/tech/1042409/1password-data-breach-leak)
+> 1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but ...
+- `The Verge` [The Fairphone 6 Plus is modular, repairable, and $100 off right now](https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale)
+> Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price poin...
+- `The Verge` [The loneliest peptide party in New York](https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow)
+> This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
+- `The Verge` [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
+> In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative. With several...
+- `The Verge` [The Verge’s guide to the best gifts under $100](https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026)
+> Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey...
+- `The Verge` [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
+> Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, trans...
+- `The Verge` [The Verge’s guide to affordable holiday gifts under $25](https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026)
+> Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and w...
+- `The Verge` [Amazon is reportedly in talks to end Muse AI shopping block](https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions)
+> Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly cent...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
