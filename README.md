@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-25
+# 📰 每日科技日报 — 2026-11-26
 
-> 自动收集于 2026-11-25 20:45 | 共 30 条
+> 自动收集于 2026-11-26 07:46 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [我用AI做了一张两千年的中国历史地图](https://sspai.com/post/117510)
+> 希望这张地图，能陪更多人走一遍故纸堆里的万里江山。查看全文
+- `少数派` [派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等](https://sspai.com/post/119560)
+> 阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。查看全文
 - `少数派` [翻开 2027， 值得入手的新年日历推荐](https://sspai.com/post/119264)
 > 按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...查看全文
 - `少数派` [App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你](https://sspai.com/post/119310)
@@ -24,15 +28,62 @@
 > 写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...查看全文
 - `少数派` [写在动荡之后：漫步巴黎的寻常一日](https://sspai.com/post/119412)
 > 巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」查看全文
-- `少数派` [派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等](https://sspai.com/post/119460)
-> 少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文
 - `少数派` [派评 | 近期值得关注的 App](https://sspai.com/post/119438)
 > >下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文
-- `少数派` [怪手机们要回来了吗？](https://sspai.com/prime/story/weird-phones-are-returning)
-> 喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。
 
 ## 🌍 国际科技
 
+- `Hacker News` [Mirror life is dangerous. Regulators must act before it becomes real](https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real)
+> Article URL: https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real
+Comments URL: https://news.ycombinator.com/item?id=50652370
+Points: 7
+#...
+- `Hacker News` [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat)
+> Article URL: https://commandcode.ai/moat
+Comments URL: https://news.ycombinator.com/item?id=50652184
+Points: 5
+# Comments: 0
+- `Hacker News` [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
+> Article URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/
+Comments URL: https://news.ycombinator.com/item?id=50651719
+Points: 55
+# Comments: 6
+- `Hacker News` [Qualcomm's Oryon 3 Reaches the Top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
+> Article URL: https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top
+Comments URL: https://news.ycombinator.com/item?id=50651158
+Points: 33
+# Comments: 4
+- `Hacker News` [OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806)
+> Article URL: https://twitter.com/thsottiaux/status/2125784147889393806
+Comments URL: https://news.ycombinator.com/item?id=50651117
+Points: 176
+# Comments: 88
+- `Hacker News` [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/)
+> Article URL: https://progrium.github.io/minipg/
+Comments URL: https://news.ycombinator.com/item?id=50650892
+Points: 86
+# Comments: 14
+- `Hacker News` [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
+> There have been questions about why the /ask page (https://news.ycombinator.com/ask) was running dry of Ask HNs - e.g.:Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com...
+- `Hacker News` [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/)
+> Article URL: https://aresluna.org/ui-style-guides/
+Comments URL: https://news.ycombinator.com/item?id=50649834
+Points: 130
+# Comments: 14
+- `Hacker News` [Bare Metal Qwen](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
+> Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os
+Comments URL: https://news.ycombinator.com/item?id=50648365
+Points: 134
+# Comments: 28
+- `Hacker News` [Deploying a payphone on a tiny Pacific Island for fun and zero profit](https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/)
+> Article URL: https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/
+Comments URL: https://news.ycombinator.com/item?id=50648323
+Points: 87
+# Comments: 12
+- `TechCrunch` [S&P considers Nvidia credit downgrade over governance and ‘key man’ risks](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)
+> The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.
+- `TechCrunch` [FCC approves SpaceX plan to put AI data centers in space](https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/)
+> The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.
 - `TechCrunch` [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
 > OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.
 - `TechCrunch` [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)
@@ -49,10 +100,14 @@
 > U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.
 - `TechCrunch` [Character.AI’s plan to auction off users’ private chats challenged by state AGs](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
 > The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.
-- `TechCrunch` [X’s latest update for creators focuses on vertical video](https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/)
-> As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.
-- `TechCrunch` [WhatsApp now lets you schedule messages in group and individual chats](https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/)
-> Users can schedule messages from 10 minutes later to after 14 days.
+- `The Verge` [Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too](https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras)
+> A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Famil...
+- `The Verge` [Amazon loses its latest attempt to get out of handling more recall notices](https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc)
+> Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District o...
+- `The Verge` [Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future](https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent)
+> Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company kno...
+- `The Verge` [The Verge’s 2026 holiday gift guide for travelers](https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026)
+> Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and mak...
 - `The Verge` [WhatsApp’s new scheduled messages let you choose the right time to send](https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages)
 > WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chat...
 - `The Verge` [EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa](https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant)
@@ -65,14 +120,6 @@
 > This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in f...
 - `The Verge` [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
 > In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative. With several...
-- `The Verge` [The Verge’s guide to the best gifts under $100](https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026)
-> Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey...
-- `The Verge` [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
-> Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, trans...
-- `The Verge` [The Verge’s guide to affordable holiday gifts under $25](https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026)
-> Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and w...
-- `The Verge` [Amazon is reportedly in talks to end Muse AI shopping block](https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions)
-> Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly cent...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
