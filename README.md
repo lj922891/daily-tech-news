@@ -4,12 +4,16 @@
 
 <!-- NEWS_START -->
 
-# 📰 每日科技日报 — 2026-11-26
+# 📰 每日科技日报 — 2026-11-27
 
-> 自动收集于 2026-11-26 20:36 | 共 40 条
+> 自动收集于 2026-11-27 07:46 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/119601)
+> 先预祝大家买得愉快、用得舒心。查看全文
+- `少数派` [派早报：1Password 确认内部系统遭入侵等](https://sspai.com/post/119632)
+> 索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。查看全文
 - `少数派` [App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具](https://sspai.com/post/116773)
 > 如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文
 - `少数派` [论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图](https://sspai.com/post/119563)
@@ -24,62 +28,61 @@
 > Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。查看全文
 - `少数派` [怀旧手记｜Palm Pre：内藏「划时代」系统的手机](https://sspai.com/post/118791)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等](https://sspai.com/post/119527)
-> 豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。查看全文
 - `少数派` [社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同](https://sspai.com/post/119492)
 > 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
-- `少数派` [[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔](https://sspai.com/post/119035)
-> 写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [The USA as a Civilizations-esque map](https://karpathy.ai/usaciv/)
-> Article URL: https://karpathy.ai/usaciv/
-Comments URL: https://news.ycombinator.com/item?id=50658997
-Points: 20
-# Comments: 7
-- `Hacker News` [Rvoip 0.5 the complete VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
-> Article URL: https://github.com/eisenzopf/rvoip
-Comments URL: https://news.ycombinator.com/item?id=50658632
-Points: 3
-# Comments: 0
-- `Hacker News` [George Whitesides, 1939-2026](https://www.science.org/content/blog-post/george-whitesides-1939-2026)
-> Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026
-Comments URL: https://news.ycombinator.com/item?id=50657936
-Points: 18
+- `Hacker News` [Ladybird browser's first downloadable alpha is surprisingly capable](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
+> Article URL: https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/
+Comments URL: https://news.ycombinator.com/item?id=50663666
+Points: 16
 # Comments: 3
-- `Hacker News` [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
-> Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/
-Comments URL: https://news.ycombinator.com/item?id=50657645
-Points: 91
-# Comments: 45
-- `Hacker News` [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
-> Article URL: https://github.com/antonpictures/youtube-punisher
-Comments URL: https://news.ycombinator.com/item?id=50657530
-Points: 89
-# Comments: 133
-- `Hacker News` [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
-> Article URL: https://devnull.land/amd-specific-llama-cpp
-Comments URL: https://news.ycombinator.com/item?id=50657265
-Points: 160
-# Comments: 45
-- `Hacker News` [Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar](https://github.com/rxliuli/sim-drop)
-> Hi HN, I made a small macOS utility for my own iOS simulator workflow.I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID f...
-- `Hacker News` [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations)
-> Article URL: https://github.com/samueleverett01/bss-permanent-separations
-Comments URL: https://news.ycombinator.com/item?id=50657059
-Points: 118
-# Comments: 133
-- `Hacker News` [Kagi Watch](https://kagi.com/watch)
-> Article URL: https://kagi.com/watch
-Comments URL: https://news.ycombinator.com/item?id=50656862
-Points: 57
-# Comments: 86
-- `Hacker News` [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)
-> Article URL: https://michidk.github.io/sidebyside/
-Comments URL: https://news.ycombinator.com/item?id=50656036
-Points: 80
-# Comments: 22
+- `Hacker News` [The group chat where your AI talks behind your back](https://construct22.com/)
+> Article URL: https://construct22.com/
+Comments URL: https://news.ycombinator.com/item?id=50663595
+Points: 44
+# Comments: 10
+- `Hacker News` [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
+> Article URL: https://blainehansen.me/post/mainstream-verifiable-language/
+Comments URL: https://news.ycombinator.com/item?id=50663089
+Points: 90
+# Comments: 60
+- `Hacker News` ["What's Claude's Fursona?" and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/)
+> Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
+Comments URL: https://news.ycombinator.com/item?id=50662933
+Points: 72
+# Comments: 43
+- `Hacker News` [The Cutthroat Business of Shipwrecks](https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/)
+> Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/
+Comments URL: https://news.ycombinator.com/item?id=50661705
+Points: 21
+# Comments: 2
+- `Hacker News` [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
+> Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/
+Comments URL: https://news.ycombinator.com/item?id=50661646
+Points: 293
+# Comments: 188
+- `Hacker News` [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
+> Article URL: https://kendell.dev/blog/arkwrapper/
+Comments URL: https://news.ycombinator.com/item?id=50660273
+Points: 90
+# Comments: 12
+- `Hacker News` [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+> Article URL: https://janlukas.blog/posts/ai-self-hosting
+Comments URL: https://news.ycombinator.com/item?id=50660180
+Points: 582
+# Comments: 302
+- `Hacker News` [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+> Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
+Comments URL: https://news.ycombinator.com/item?id=50659841
+Points: 340
+# Comments: 76
+- `Hacker News` [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
+> Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/
+Comments URL: https://news.ycombinator.com/item?id=50659640
+Points: 276
+# Comments: 123
 - `TechCrunch` [Nvidia hits pause on chip shipments to Southeast Asia](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)
 > Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.
 - `TechCrunch` [Is Alice Huang a spy or not?](https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/)
@@ -100,6 +103,8 @@ Points: 80
 > Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.
 - `TechCrunch` [The canceled Tesla Cybertruck is the fastest-selling used truck in America](https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/)
 > The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.
+- `The Verge` [Netflix’s coziest show has made a very quiet return](https://www.theverge.com/entertainment/1043489/midnight-diner-season3)
+> The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also in...
 - `The Verge` [The Garmin Forerunner 265S is down to $300, its best price of the year](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday)
 > The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good ...
 - `The Verge` [The MacBook Neo is receiving a rare $100 discount for Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale)
@@ -118,8 +123,6 @@ Points: 80
 > There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major fa...
 - `The Verge` [Here’s where you can save (a little) on the Ocarina of Time remake](https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale)
 > A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happ...
-- `The Verge` [Samsung’s R95H TV shows what RGB LED is capable of](https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review)
-> RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
