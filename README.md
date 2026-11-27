@@ -6,10 +6,12 @@
 
 # 📰 每日科技日报 — 2026-11-27
 
-> 自动收集于 2026-11-27 07:46 | 共 40 条
+> 自动收集于 2026-11-27 20:23 | 共 40 条
 
 ## 🇨🇳 中文科技
 
+- `少数派` [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/119658)
+> ☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ...查看全文
 - `少数派` [「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/119601)
 > 先预祝大家买得愉快、用得舒心。查看全文
 - `少数派` [派早报：1Password 确认内部系统遭入侵等](https://sspai.com/post/119632)
@@ -28,61 +30,48 @@
 > Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。查看全文
 - `少数派` [怀旧手记｜Palm Pre：内藏「划时代」系统的手机](https://sspai.com/post/118791)
 > Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文
-- `少数派` [社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同](https://sspai.com/post/119492)
-> 除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文
 
 ## 🌍 国际科技
 
-- `Hacker News` [Ladybird browser's first downloadable alpha is surprisingly capable](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
-> Article URL: https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/
-Comments URL: https://news.ycombinator.com/item?id=50663666
-Points: 16
-# Comments: 3
-- `Hacker News` [The group chat where your AI talks behind your back](https://construct22.com/)
-> Article URL: https://construct22.com/
-Comments URL: https://news.ycombinator.com/item?id=50663595
-Points: 44
-# Comments: 10
-- `Hacker News` [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
-> Article URL: https://blainehansen.me/post/mainstream-verifiable-language/
-Comments URL: https://news.ycombinator.com/item?id=50663089
-Points: 90
-# Comments: 60
-- `Hacker News` ["What's Claude's Fursona?" and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/)
-> Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
-Comments URL: https://news.ycombinator.com/item?id=50662933
-Points: 72
-# Comments: 43
-- `Hacker News` [The Cutthroat Business of Shipwrecks](https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/)
-> Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/
-Comments URL: https://news.ycombinator.com/item?id=50661705
-Points: 21
-# Comments: 2
-- `Hacker News` [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
-> Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/
-Comments URL: https://news.ycombinator.com/item?id=50661646
-Points: 293
-# Comments: 188
-- `Hacker News` [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
-> Article URL: https://kendell.dev/blog/arkwrapper/
-Comments URL: https://news.ycombinator.com/item?id=50660273
-Points: 90
-# Comments: 12
-- `Hacker News` [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
-> Article URL: https://janlukas.blog/posts/ai-self-hosting
-Comments URL: https://news.ycombinator.com/item?id=50660180
-Points: 582
-# Comments: 302
-- `Hacker News` [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
-> Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
-Comments URL: https://news.ycombinator.com/item?id=50659841
-Points: 340
-# Comments: 76
-- `Hacker News` [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
-> Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/
-Comments URL: https://news.ycombinator.com/item?id=50659640
-Points: 276
-# Comments: 123
+- `Hacker News` [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform)
+> Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-p...
+- `Hacker News` [The AT&T Unix PC (3B1) VM](https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/)
+> Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/
+Comments URL: https://news.ycombinator.com/item?id=50670841
+Points: 7
+# Comments: 0
+- `Hacker News` [Michael Nielsen took down his book on neural nets](https://twitter.com/michael_nielsen/status/2126359767362748777)
+> Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777
+Comments URL: https://news.ycombinator.com/item?id=50670757
+Points: 76
+# Comments: 58
+- `Hacker News` [Michael Giles, co-founder and drummer of King Crimson, dies aged 84](https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84)
+> Article URL: https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84
+Comments URL: https://news.ycombinator.com/item?id=50670694
+Points: 10
+#...
+- `Hacker News` [Euclidean geometry in the asymptotic spectrum of tensors [pdf]](https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf)
+> Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf
+Comments URL: https://news.ycombinator.com/item?i...
+- `Hacker News` [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
+> Article URL: https://github.com/convex/convex-backend-skill/issues/64
+Comments URL: https://news.ycombinator.com/item?id=50669765
+Points: 88
+# Comments: 25
+- `Hacker News` [Show HN: DragDropMath – Learn math by feel](https://dragdropmath.com/)
+> Hi HN!I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have the...
+- `Hacker News` [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
+> Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer
+Comments URL: https://news.ycombinator.com/item?id=50668145
+Points: 251
+# Comments: 140
+- `Hacker News` [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)
+> Article URL: https://cr.yp.to/proofs/falseccp.html
+Comments URL: https://news.ycombinator.com/item?id=50667989
+Points: 120
+# Comments: 55
+- `Hacker News` [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
+> a ball will fall. trade on where it lands.I made this game! Some technical details:The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a sm...
 - `TechCrunch` [Nvidia hits pause on chip shipments to Southeast Asia](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)
 > Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.
 - `TechCrunch` [Is Alice Huang a spy or not?](https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/)
@@ -103,26 +92,26 @@ Points: 276
 > Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.
 - `TechCrunch` [The canceled Tesla Cybertruck is the fastest-selling used truck in America](https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/)
 > The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.
-- `The Verge` [Netflix’s coziest show has made a very quiet return](https://www.theverge.com/entertainment/1043489/midnight-diner-season3)
-> The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also in...
-- `The Verge` [The Garmin Forerunner 265S is down to $300, its best price of the year](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday)
-> The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good ...
-- `The Verge` [The MacBook Neo is receiving a rare $100 discount for Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale)
-> If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is c...
-- `The Verge` [Android app developers will soon have to share their address publicly](https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu)
-> Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy ...
-- `The Verge` [The best Black Friday deals we’ve already found](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
-> The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping earl...
-- `The Verge` [Federal judge blocks the FCC from reviewing ABC’s licenses early](https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block)
-> US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts t...
-- `The Verge` [Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026)
-> Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exc...
-- `The Verge` [GTA VI developers vote against unionization](https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb)
-> Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Indepen...
-- `The Verge` [Why GTA VI’s version of Florida feels so real](https://www.theverge.com/entertainment/1042629/gta-6-city-design)
-> There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major fa...
-- `The Verge` [Here’s where you can save (a little) on the Ocarina of Time remake](https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale)
-> A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happ...
+- `The Verge` [You might lose your Oura health data if you’re still using an old Android phone](https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11)
+> Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don't upgrade to Android 12 or higher before the deadline. The support...
+- `The Verge` [The best Black Friday deals on smart home gear](https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday)
+> I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to sh...
+- `The Verge` [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
+> This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store...
+- `The Verge` [Anker’s 100W universal travel charger is down to $60, its lowest price yet](https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale)
+> During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy, and Walmart, a $20 discount from its list price. That’s a few dollars lower than the previous best, ...
+- `The Verge` [Here are the best Black Friday deals you can grab for $30 or less](https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026)
+> What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for ins...
+- `The Verge` [The best Black Friday deals on AirPods, MacBooks, and other Apple gear](https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026)
+> Black Friday is one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch. After all, the holiday savings can help offset the unfortunate price hikes fr...
+- `The Verge` [You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24](https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale)
+> If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechar...
+- `The Verge` [Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday](https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale)
+> The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. Th...
+- `The Verge` [Buying a laptop right now is rough, but these Black Friday deals help](https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026)
+> Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lo...
+- `The Verge` [Android’s DIY widgets are a bit of vibe-coding fun](https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini)
+> Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near m...
 
 ---
 *🤖 由 Daily Tech News Collector 自动生成*
